@@ -1,0 +1,10 @@
+{
+    "substancia": "ÁCIDO SULFÚRICO",
+    "numero_onu": "1830",
+    "numero_risco": "80",
+    "classe": "8",
+    "risco_subsidiario": "8- Número de risco: 80- Grupo de embalagem: II- Perigo ao meio ambiente: Não disponível",
+    "primeiros_socorros": "Inalação: Remover para local ventilado. Se não estiver respirando, aplicar respiração artificial. Chamar um médico imediatamente.\nContato com a pele: Lavar imediatamente com água corrente até remoção do ácido. Pode então ser aplicada uma solução de bicarbonato de sódio a 5%. No caso de bolhas, procurar um médico.\nContato com os olhos: Lavar imediatamente com água corrente por 15 min. Procurar um oftalmologista.\nIngestão: Aspiração, lavagem ou eméticos não devem ser usados. O tratamento consiste em diluir o ácido e aliviar a dor. Largas quantidades de água ou leite devem ser ingeridos.",
+    "medidas_incendio": "Meios de extinção: Usar dióxido de carbono ou pó químico seco.\nPerigos específicos da substância: Não disponível.\nMedidas de proteção da equipe de combate a incêndio: Utilizar equipamento de proteção individual e equipamento de proteção respiratória autônoma.",
+    "arquivo": "Acido Sulfurico.pdf"
+}

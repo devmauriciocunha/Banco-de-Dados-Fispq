@@ -1,0 +1,27 @@
+{
+  "arquivo": "arquivo_83.pdf",
+  "data_processamento": "2025-08-18T11:42:21.477027",
+  "identificacao": {
+    "substancia": "ÁLCOOL ISOPROPÍLICO",
+    "numero_onu": "1219",
+    "classe_risco": "3",
+    "numero_risco": "33",
+    "risco_subsidiario": "3"
+  },
+  "emergencia": {
+    "primeiros_socorros": {
+      "inalacao": "Remover para local ventilado. Caso não se sinta bem, procurar um médico.",
+      "contato_pele": "Lavar com bastante água. Retirar as roupas contaminadas.",
+      "contato_olhos": "Lavar com bastante água, por 15 min.. Procurar um oftalmologista.",
+      "ingestao": "Beber muita água, evitar o vomito (perigo de aspiração). Procurar auxilio médico imediato.",
+      "sintomas": "Efeitos irritantes, sonolência, vertigens, inconsciência, dor de cabeça, sonolência"
+    },
+    "combate_incendio": {
+      "meios_extincao": "Espuma, pó",
+      "perigos_especificos": "Líquido inflamável"
+    }
+  },
+  "manuseio_armazenamento": {
+    "precaucoes_manuseio": "Manipular o produto respeitando as regras gerais de segurança"
+  }
+}

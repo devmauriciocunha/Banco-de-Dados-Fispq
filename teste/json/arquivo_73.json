@@ -1,0 +1,27 @@
+{
+  "arquivo": "arquivo_73.pdf",
+  "data_processamento": "2025-08-18T11:42:19.046236",
+  "identificacao": {
+    "substancia": "ÁLCOOL ISO AMÍLICO",
+    "numero_onu": "1105",
+    "classe_risco": "3",
+    "numero_risco": "30",
+    "risco_subsidiario": "3"
+  },
+  "emergencia": {
+    "primeiros_socorros": {
+      "inalacao": "Remover para local ventilado. Eventualmente, respiração artificial.",
+      "contato_pele": "Lavar com água. Retirar as roupas contaminadas.",
+      "contato_olhos": "Lavar com bastante água, por 15 min.. Procurar um oftalmologista.",
+      "ingestao": "Beber bastante água. Procurar um médico",
+      "sintomas": "Irritante aos olhos, pele e trato respiratório. Pode causar enxaquecas, vertigens, náusea, tosse"
+    },
+    "combate_incendio": {
+      "meios_extincao": "CO2, espuma, pó, água",
+      "perigos_especificos": "Não disponível"
+    }
+  },
+  "manuseio_armazenamento": {
+    "precaucoes_manuseio": "Manipular o produto respeitando as regras gerais de segurança"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "arquivo": "arquivo_178.pdf",
+  "data_processamento": "2025-08-18T11:42:42.606244",
+  "identificacao": {
+    "substancia": "CLORETO DE MERCÚRIO (ICO)",
+    "numero_onu": "1624",
+    "classe_risco": "6.1",
+    "numero_risco": "60",
+    "risco_subsidiario": "6.1"
+  },
+  "emergencia": {
+    "primeiros_socorros": {
+      "inalacao": "Remover para local ventilado, lavar boca, nariz e garganta. Procurar auxílio médico imediatamente.",
+      "contato_pele": "Lavar abundantemente com água. Retirar as roupas contaminadas.",
+      "contato_olhos": "Lavar abundantemente com água, por 15 min. Procurar um oftalmologista.",
+      "ingestao": "danifica as mucosas dos tratos gastrointestinal e respiratório, colapso\ncirculatório, insuficiência renal, alterações no SNC, envenenamento e até morte.",
+      "sintomas": "Após a inalação e Ingestão: danifica as mucosas dos tratos gastrointestinal e respiratório, colapso\ncirculatório, insuficiência renal, alterações no SNC, envenenamento e até morte."
+    },
+    "combate_incendio": {
+      "meios_extincao": "Não combustível",
+      "perigos_especificos": "Não disponível"
+    }
+  },
+  "manuseio_armazenamento": {
+    "precaucoes_manuseio": "Manipular o produto respeitando as regras gerais de segurança."
+  }
+}

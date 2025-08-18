@@ -1,0 +1,27 @@
+{
+  "arquivo": "arquivo_170.pdf",
+  "data_processamento": "2025-08-18T11:42:40.866574",
+  "identificacao": {
+    "substancia": "CLORETO DE COBALTO (OSO) 6HO",
+    "numero_onu": "3077",
+    "classe_risco": "9",
+    "numero_risco": "90",
+    "risco_subsidiario": "9"
+  },
+  "emergencia": {
+    "primeiros_socorros": {
+      "inalacao": "Remover para local ventilado. Procurar auxílio médico.",
+      "contato_pele": "Lavar com bastante água. Retirar as roupas contaminadas.",
+      "contato_olhos": "Lavar com bastante água, por 15 min. Procurar um oftalmologista.",
+      "ingestao": ".",
+      "sintomas": "Pode causar feridas por inalação. Nocivo também por ingestão."
+    },
+    "combate_incendio": {
+      "meios_extincao": "Não combustível",
+      "perigos_especificos": "Não disponível"
+    }
+  },
+  "manuseio_armazenamento": {
+    "precaucoes_manuseio": "Manipular o produto respeitando as regras gerais de segurança."
+  }
+}

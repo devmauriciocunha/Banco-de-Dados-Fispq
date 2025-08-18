@@ -1,0 +1,26 @@
+{
+  "arquivo": "arquivo_285.pdf",
+  "data_processamento": "2025-08-18T11:43:06.428309",
+  "identificacao": {
+    "substancia": "HIDROQUINONA",
+    "numero_onu": "3077",
+    "classe_risco": "9",
+    "numero_risco": "90",
+    "risco_subsidiario": "9"
+  },
+  "emergencia": {
+    "primeiros_socorros": {
+      "inalacao": "Remover para local ventilado.",
+      "contato_olhos": "Lavar com bastante água, por 15 min. Consultar um oftalmologista.",
+      "ingestao": "Beber muita água. Procurar auxílio médico.",
+      "sintomas": "Exposição repetida ao pó pode causar danos aos olhos. Pode causar reações alérgicas. Perigoso\nse aspirado."
+    },
+    "combate_incendio": {
+      "meios_extincao": "Água, CO2, espuma e pó.",
+      "perigos_especificos": "Não disponível."
+    }
+  },
+  "manuseio_armazenamento": {
+    "precaucoes_manuseio": "Manipular o produto respeitando as regras gerais de segurança."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "arquivo": "arquivo_84.pdf",
+  "data_processamento": "2025-08-18T11:42:21.734761",
+  "identificacao": {
+    "substancia": "ÁLCOOL METÍLICO",
+    "numero_onu": "1230",
+    "classe_risco": "3",
+    "numero_risco": "336",
+    "risco_subsidiario": "3 / 6.1"
+  },
+  "emergencia": {
+    "primeiros_socorros": {
+      "inalacao": "Remover para local ventilado. Caso não se sinta bem, procurar um médico.",
+      "contato_pele": "Lavar imediatamente com água. Retirar as roupas contaminadas.",
+      "contato_olhos": "Lavar imediatamente com bastante água, por 15 min.. Procurar um oftalmologista.",
+      "ingestao": "Ar fresco. Provocar o vomito. Consultar um médico imediatamente",
+      "sintomas": "Efeitos irritantes, sonolência, vertigem, narcose, agitação, espasmos, náuseas, vômitos, dor de\ncabeça"
+    },
+    "combate_incendio": {
+      "meios_extincao": "Espuma, pó",
+      "perigos_especificos": "Líquido inflamável"
+    }
+  },
+  "manuseio_armazenamento": {
+    "precaucoes_manuseio": "Manipular o produto respeitando as regras gerais de segurança"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "arquivo": "arquivo_416.pdf",
+  "data_processamento": "2025-08-18T11:43:35.865844",
+  "identificacao": {
+    "substancia": "SOLUÇÍO DE FENOLFTALEÍNA 1%",
+    "numero_onu": "1993",
+    "classe_risco": "3",
+    "numero_risco": "30",
+    "risco_subsidiario": "3"
+  },
+  "emergencia": {
+    "primeiros_socorros": {
+      "inalacao": "Remover para local ventilado.",
+      "contato_pele": "Lavar com água corrente.",
+      "contato_olhos": "Lavar com água corrente, pelo menos 15 min..",
+      "ingestao": "Beber bastante água",
+      "sintomas": "Não disponível"
+    },
+    "combate_incendio": {
+      "meios_extincao": "Não combustível",
+      "perigos_especificos": "Não disponível"
+    }
+  },
+  "manuseio_armazenamento": {
+    "precaucoes_manuseio": "Manipular o produto respeitando as regras gerais de segurança"
+  }
+}

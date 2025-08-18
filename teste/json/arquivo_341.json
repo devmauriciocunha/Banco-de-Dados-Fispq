@@ -1,0 +1,26 @@
+{
+  "arquivo": "arquivo_341.pdf",
+  "data_processamento": "2025-08-18T11:43:18.875637",
+  "identificacao": {
+    "substancia": "NITRATO DE CÁLCIO",
+    "numero_onu": "1454",
+    "classe_risco": "5.1",
+    "numero_risco": "5"
+  },
+  "emergencia": {
+    "primeiros_socorros": {
+      "inalacao": "Remover para local ventilado.",
+      "contato_pele": "Lavar com bastante água corrente. Retirar as roupas contaminadas.",
+      "contato_olhos": "Lavar com bastante água corrente, por 15 min. Consultar um oftalmologista, se necessário.",
+      "ingestao": "Beber bastante água. Procurar auxílio médico imediato.",
+      "sintomas": "Pode causar irritação nos olhos e nas vias respiratórias."
+    },
+    "combate_incendio": {
+      "meios_extincao": "Não combustível.",
+      "perigos_especificos": "Não disponível."
+    }
+  },
+  "manuseio_armazenamento": {
+    "precaucoes_manuseio": "Manipular o produto respeitando as regras gerais de segurança."
+  }
+}

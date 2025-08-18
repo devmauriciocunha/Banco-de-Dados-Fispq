@@ -1,0 +1,27 @@
+{
+  "arquivo": "arquivo_383.pdf",
+  "data_processamento": "2025-08-18T11:43:28.644209",
+  "identificacao": {
+    "substancia": "PIRIDINA",
+    "numero_onu": "1282",
+    "classe_risco": "3",
+    "numero_risco": "33",
+    "risco_subsidiario": "3"
+  },
+  "emergencia": {
+    "primeiros_socorros": {
+      "inalacao": "Remover para local ventilado. Eventualmente, respiração artificial ou ventilação com aparelho apropriado.",
+      "contato_pele": "Lavar com bastante água corrente. Retirar as roupas contaminadas.",
+      "contato_olhos": "Lavar com bastante água, por 15 min.. Procurar um oftalmologista.",
+      "ingestao": "Beber bastante água, provocar o vômito. Procurar auxílio médico.",
+      "sintomas": "Irritante para os olhos, pele, vias respiratórias."
+    },
+    "combate_incendio": {
+      "meios_extincao": "Espuma, pó, CO2.",
+      "perigos_especificos": "Não disponível."
+    }
+  },
+  "manuseio_armazenamento": {
+    "precaucoes_manuseio": "Manipular o produto respeitando as regras gerais de segurança."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "arquivo": "arquivo_53.pdf",
+  "data_processamento": "2025-08-18T11:42:14.591046",
+  "identificacao": {
+    "substancia": "ÁCIDO PIRÚVICO",
+    "numero_onu": "3265",
+    "classe_risco": "8",
+    "numero_risco": "80",
+    "risco_subsidiario": "8"
+  },
+  "emergencia": {
+    "primeiros_socorros": {
+      "inalacao": "Remover para local ventilado. Procurar auxílio médico.",
+      "contato_pele": "Remover as roupas contaminadas e lavar o local com água corrente.",
+      "contato_olhos": "Lavar imediatamente com bastante água, por 15 min.. Procurar um oftalmologista.",
+      "ingestao": "Lavar a boca com bastante água. Evitar vômito. Procurar auxílio médico.",
+      "sintomas": "Corrosão, Risco de cegueira, Perfuração do estômago, Risco de lesões oculares graves"
+    },
+    "combate_incendio": {
+      "meios_extincao": "Pulverizados re água, espuma , CO2",
+      "perigos_especificos": "Não disponível"
+    }
+  },
+  "manuseio_armazenamento": {
+    "precaucoes_manuseio": "Manipular o produto respeitando as regras gerais de segurança"
+  }
+}

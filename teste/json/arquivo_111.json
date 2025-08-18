@@ -1,0 +1,26 @@
+{
+  "arquivo": "arquivo_111.pdf",
+  "data_processamento": "2025-08-18T11:42:27.796751",
+  "identificacao": {
+    "substancia": "BENZINA RETIFICADA",
+    "numero_onu": "1208",
+    "classe_risco": "3",
+    "numero_risco": "3"
+  },
+  "emergencia": {
+    "primeiros_socorros": {
+      "inalacao": "Remover para local ventilado. Eventualmente, respiração artificial. Chamar um médico..",
+      "contato_pele": "Lavar abundantemente com água. Tirar a roupa contaminada.",
+      "contato_olhos": "Enxaguar abundantemente com água, por 15 min. Procurar um oftalmologista.",
+      "ingestao": "Perigo de aspiração. Evitar o vômito. Manter livres as vias respiratórias.",
+      "sintomas": "Os vapores podem causar tontura ou sufocação. O contato pode causar irritação na pele ou olhos."
+    },
+    "combate_incendio": {
+      "meios_extincao": "Resfriar com água neblina, espuma para hidrocarbonetos, pó químico e dióxido de carbono (CO2).",
+      "perigos_especificos": "Não disponível"
+    }
+  },
+  "manuseio_armazenamento": {
+    "precaucoes_manuseio": "Manipular o produto respeitando as regras gerais de segurança"
+  }
+}

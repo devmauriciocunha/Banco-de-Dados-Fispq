@@ -1,0 +1,27 @@
+{
+  "arquivo": "arquivo_29.pdf",
+  "data_processamento": "2025-08-18T11:42:09.032455",
+  "identificacao": {
+    "substancia": "ÁCIDO CLORÍDRICO",
+    "numero_onu": "1789",
+    "classe_risco": "8",
+    "numero_risco": "80",
+    "risco_subsidiario": "8"
+  },
+  "emergencia": {
+    "primeiros_socorros": {
+      "inalacao": "Remover para local ventilado, lavar boca e nariz com água. Procurar auxílio médico.",
+      "contato_pele": "Lavar imediatamente com água corrente. Pode ser aplicada uma solução de bicarbonato de sódio a 1%",
+      "contato_olhos": "Lavar imediatamente com água por pelo menos 15 minutos. Procurar auxílio médico imediato.",
+      "ingestao": "Lavar a boca, não provocar vômito. Não administrar bicarbonato. Beber muita água ou leite. Procurar auxílio médico imediato.",
+      "sintomas": "Irritação e corrosão, tosse, doenças cardiovasculares, perigo de cegueira"
+    },
+    "combate_incendio": {
+      "meios_extincao": "Não combustível",
+      "perigos_especificos": "Não disponível"
+    }
+  },
+  "manuseio_armazenamento": {
+    "precaucoes_manuseio": "Manipular o produto respeitando as regras gerais de segurança"
+  }
+}

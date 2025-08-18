@@ -1,0 +1,27 @@
+{
+  "arquivo": "arquivo_279.pdf",
+  "data_processamento": "2025-08-18T11:43:05.064026",
+  "identificacao": {
+    "substancia": "N-HEPTANO",
+    "numero_onu": "1206",
+    "classe_risco": "3",
+    "numero_risco": "33",
+    "risco_subsidiario": "3"
+  },
+  "emergencia": {
+    "primeiros_socorros": {
+      "inalacao": "Remover para local ventilado. Caso não se sinta bem, chamar um médico.",
+      "contato_pele": "Lavar abundantemente com água. Retirar as roupas contaminadas.",
+      "contato_olhos": "Lavar com bastante água, por 15 min. Procurar um oftalmologista.",
+      "ingestao": "Perigo de aspiração. Evitar o vômito. Procurar auxílio médico.",
+      "sintomas": "Irritação nas vias respiratórias, nos olhos, na pele e mucosas."
+    },
+    "combate_incendio": {
+      "meios_extincao": "Pó, dióxido de carbono (CO2) e espuma.",
+      "perigos_especificos": "Líquido inflamável."
+    }
+  },
+  "manuseio_armazenamento": {
+    "precaucoes_manuseio": "Manipular o produto respeitando as regras gerais de segurança."
+  }
+}

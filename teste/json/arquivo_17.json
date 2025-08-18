@@ -1,0 +1,27 @@
+{
+  "arquivo": "arquivo_17.pdf",
+  "data_processamento": "2025-08-18T11:42:06.278885",
+  "identificacao": {
+    "substancia": "ACETONA",
+    "numero_onu": "1090",
+    "classe_risco": "3",
+    "numero_risco": "33",
+    "risco_subsidiario": "3"
+  },
+  "emergencia": {
+    "primeiros_socorros": {
+      "inalacao": "Remover para local ventilado. Em caso de respiração irregular, inalação de oxigênio. Procurar um médico.",
+      "contato_pele": "Remover as roupas contaminadas e lavar o local com água corrente.",
+      "contato_olhos": "Lavar imediatamente com bastante água, por 15 min.. Procurar um oftalmologista.",
+      "ingestao": "Lavar a boca com bastante água. Evitar vômito. Ingerir água. Procurar um médico.",
+      "sintomas": "Moderadamente tóxico, severamente irritante para pele, para os olhos, mucosas e trato respiratório."
+    },
+    "combate_incendio": {
+      "meios_extincao": "Extinção pó químico seco, gás carbônico, ou espuma mecânica, solventes polares.",
+      "perigos_especificos": "Os vapores são mais pesados do que o ar e pode provocar-se para fontes de ignição mesmo a uma\ndistância considerável. Pode haver aumento da pressão interna dos recipientes e reservatórios expostos ao fogo ou calor, com risco de\nexplosão."
+    }
+  },
+  "manuseio_armazenamento": {
+    "precaucoes_manuseio": "Manipular o produto respeitando as regras gerais de segurança"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "arquivo": "arquivo_323.pdf",
+  "data_processamento": "2025-08-18T11:43:14.824229",
+  "identificacao": {
+    "substancia": "MERCÚRIO METÁLICO",
+    "numero_onu": "2809",
+    "classe_risco": "8",
+    "numero_risco": "80",
+    "risco_subsidiario": "8"
+  },
+  "emergencia": {
+    "primeiros_socorros": {
+      "inalacao": "Remover para local arejado. Respiração artificial pode ser aplicada. Procurar auxílio médico imediato.",
+      "contato_pele": "Lavar com água e sabão. Remover roupas e sapatos contaminados.",
+      "contato_olhos": "Lavar imediatamente com água corrente por 15 minutos. Procurar avaliação médica.",
+      "ingestao": "Provocar vômitos, se a vítima estiver consciente. Procurar auxílio médico imediato.",
+      "sintomas": "Pode causar irritação na pele, nos olhos e se ingerido provoca queimaduras na garganta"
+    },
+    "combate_incendio": {
+      "meios_extincao": "Não combustível",
+      "perigos_especificos": "Não disponível"
+    }
+  },
+  "manuseio_armazenamento": {
+    "precaucoes_manuseio": "Manipular o produto respeitando as regras gerais de segurança"
+  }
+}

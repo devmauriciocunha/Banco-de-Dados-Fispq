@@ -1,0 +1,24 @@
+{
+  "arquivo": "arquivo_117.pdf",
+  "data_processamento": "2025-08-18T11:42:29.137823",
+  "identificacao": {
+    "substancia": "BIFLUORETO DE AMÔNIO",
+    "numero_onu": "1727",
+    "classe_risco": "8",
+    "numero_risco": "80",
+    "risco_subsidiario": "8"
+  },
+  "emergencia": {
+    "primeiros_socorros": {
+      "inalacao": "Remover para local ventilado Consultar um médico",
+      "contato_pele": "Lavar com bastante água. Limpar com algodão embebido em polietilenoglicol"
+    },
+    "combate_incendio": {
+      "meios_extincao": "Pó químico seco, espuma, dióxido de carbono",
+      "perigos_especificos": "Não disponível"
+    }
+  },
+  "manuseio_armazenamento": {
+    "precaucoes_manuseio": "Manipular o produto respeitando as regras gerais de segurança"
+  }
+}

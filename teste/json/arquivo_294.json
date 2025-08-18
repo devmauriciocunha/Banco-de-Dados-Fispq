@@ -1,0 +1,27 @@
+{
+  "arquivo": "arquivo_294.pdf",
+  "data_processamento": "2025-08-18T11:43:08.573110",
+  "identificacao": {
+    "substancia": "HIDRÓXIDO DE SÓDIO SOLUÇÍO 50%",
+    "numero_onu": "1824",
+    "classe_risco": "8",
+    "numero_risco": "80",
+    "risco_subsidiario": "8"
+  },
+  "emergencia": {
+    "primeiros_socorros": {
+      "inalacao": "Remover para local ventilado. No caso de tonturas e/ou náuseas, procurar auxílio médico.",
+      "contato_pele": "Lavar abundantemente com água. Retirar as roupas contaminadas.",
+      "contato_olhos": "Lavar com bastante água, por 15 min. Procurar um oftalmologista.",
+      "ingestao": "Beber bastante água, Evitar o vômito (perigo de perfuração). Chamar imediatamente o médico.",
+      "sintomas": "Ingestão: Pode causar severas queimaduras e completa perfuração dos tecidos da pele. Olhos: O\ncontato pode causar severos danos, incluindo queimaduras e cegueira. Pele: O contato pode causar queimaduras e destruição dos tecidos da\npele. Inalação: Exposição do produto na forma de líquido, vapor ou neblina pode causar queimaduras nas vias respiratórias."
+    },
+    "combate_incendio": {
+      "meios_extincao": "Não disponível.",
+      "perigos_especificos": "Não disponível."
+    }
+  },
+  "manuseio_armazenamento": {
+    "precaucoes_manuseio": "Manipular o produto respeitando as regras gerais de segurança."
+  }
+}

@@ -1,0 +1,10 @@
+{
+    "substancia": "ACETATO DE MERCÚRIO",
+    "numero_onu": "1629",
+    "numero_risco": "60",
+    "classe": "6.1",
+    "risco_subsidiario": "6.1- Número de risco: 60- Grupo de embalagem: II - Perigo ao meio ambiente: Não disponível",
+    "primeiros_socorros": "Inalação: Remover para local ventilado. Eventualmente, respiração artificial. Procurar auxílio médico imediato.\nContato com a pele: Lavar abundantemente com água e sabão. Retirar as roupas contaminadas.\nContato com os olhos: Lavar com bastante água, por 15 min. Consultar um oftalmologista, se necessário.\nIngestão: Beber bastante água, provocar o vômito. Chamar um médico imediatamente.",
+    "medidas_incendio": "Meios de extinção: Não combustível\nPerigos específicos da substância: Não disponível\nMedidas de proteção da equipe de combate a incêndio: Não disponível",
+    "arquivo": "Acetato de Mercurio.pdf"
+}

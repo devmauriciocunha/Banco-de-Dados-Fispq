@@ -1,0 +1,24 @@
+{
+  "arquivo": "arquivo_223.pdf",
+  "data_processamento": "2025-08-18T11:42:52.872984",
+  "identificacao": {
+    "substancia": "EPICLORIDRINA",
+    "numero_onu": "2023",
+    "classe_risco": "6.1",
+    "numero_risco": "63",
+    "risco_subsidiario": "6.1 – 3"
+  },
+  "emergencia": {
+    "primeiros_socorros": {
+      "inalacao": "Remover para local ventilado. Eventualmente, ventilação com aparelhagem apropriada. Consultar um médico.",
+      "contato_pele": "Lavar abundantemente com água corrente. Limpar com algodão embebido em polietilenoglicol"
+    },
+    "combate_incendio": {
+      "meios_extincao": "Espuma, CO2 e pó.",
+      "perigos_especificos": "Não disponível."
+    }
+  },
+  "manuseio_armazenamento": {
+    "precaucoes_manuseio": "Manipular o produto respeitando as regras gerais de segurança."
+  }
+}

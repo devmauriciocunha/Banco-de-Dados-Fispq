@@ -1,0 +1,24 @@
+{
+  "arquivo": "arquivo_118.pdf",
+  "data_processamento": "2025-08-18T11:42:29.391441",
+  "identificacao": {
+    "substancia": "BIFLUORETO DE POTÁSSIO",
+    "numero_onu": "1811",
+    "classe_risco": "8",
+    "numero_risco": "86",
+    "risco_subsidiario": "8 (6)"
+  },
+  "emergencia": {
+    "primeiros_socorros": {
+      "inalacao": "Remover para local ventilado Consultar um médico",
+      "contato_pele": "Lavar com bastante água. Limpar com algodão embebido em polietilenoglicol"
+    },
+    "combate_incendio": {
+      "meios_extincao": "Não combustível",
+      "perigos_especificos": "Não disponível"
+    }
+  },
+  "manuseio_armazenamento": {
+    "precaucoes_manuseio": "Manipular o produto respeitando as regras gerais de segurança"
+  }
+}

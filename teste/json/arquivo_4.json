@@ -1,0 +1,27 @@
+{
+  "arquivo": "arquivo_4.pdf",
+  "data_processamento": "2025-08-18T11:42:03.291717",
+  "identificacao": {
+    "substancia": "ACETATO DE (N) BUTILA",
+    "numero_onu": "1123",
+    "classe_risco": "3",
+    "numero_risco": "33",
+    "risco_subsidiario": "3"
+  },
+  "emergencia": {
+    "primeiros_socorros": {
+      "inalacao": "Remover para local ventilado. Caso não se sinta bem, procurar auxílio médico.",
+      "contato_pele": "Lavar com bastante água. Retirar as roupas contaminadas.",
+      "contato_olhos": "Lavar com bastante água, por 15 min. Consultar um oftalmologista.",
+      "ingestao": "Cuidado em caso de vômito. Perigo de aspiração! Chamar imediatamente um médico.\nLaxante: sulfato de sódio (1 colher de sopa / ¼ litro de água). Carvão ativado.",
+      "sintomas": "Por inalação, causa sonolência, vertigem, dores de cabeça, irritação nasal e da garganta, perda de\napetite, vômito e diarreia. Pode levar à anemia, leucocitose, edema e degeneração gordurosa das vísceras"
+    },
+    "combate_incendio": {
+      "meios_extincao": "Espuma polivalente, pó químico e dióxido de carbono (CO2).",
+      "perigos_especificos": "Líquido inflamável"
+    }
+  },
+  "manuseio_armazenamento": {
+    "precaucoes_manuseio": "Manipular o produto respeitando as regras gerais de segurança"
+  }
+}

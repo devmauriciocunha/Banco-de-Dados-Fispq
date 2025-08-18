@@ -1,0 +1,27 @@
+{
+  "arquivo": "arquivo_60.pdf",
+  "data_processamento": "2025-08-18T11:42:16.181397",
+  "identificacao": {
+    "substancia": "ÁCIDO SULFÚRICO",
+    "numero_onu": "1830",
+    "classe_risco": "8",
+    "numero_risco": "80",
+    "risco_subsidiario": "8"
+  },
+  "emergencia": {
+    "primeiros_socorros": {
+      "inalacao": "Remover para local ventilado. Se não estiver respirando, aplicar respiração artificial. Chamar um médico\nimediatamente.",
+      "contato_pele": "Lavar imediatamente com água corrente até remoção do ácido. Pode então ser aplicado uma solução de\nbicarbonato de sódio a 5%. No caso de bolhas, procurar um médico.",
+      "contato_olhos": "Lavar imediatamente com água corrente por 15 min. Aplicar um tampão e procurar um médico.\nTAMPÍO: pH da solução = 6,8 – 7,0\n30 g de fosfato de potássio monobásico\n220 g de fosfato de sódio bibásico\nágua suficiente para 1 litro\nPara ser aplicado localmente, lavagem da boca e para irrigação dos olhos após lavagem aquosa.",
+      "ingestao": "Aspiração, lavagem ou eméticos não devem ser usados. O tratamento consiste em diluir o ácido e aliviar a dor. Largas\nquantidades de água ou leite devem ser ingeridos. Hidróxido de alumínio ou magnésio pode ser administrado",
+      "sintomas": "Irritação e corrosão, tosse, náuseas, vômitos, diarreia, dor, perigo de cegueira"
+    },
+    "combate_incendio": {
+      "meios_extincao": "Usar dióxido de carbono ou pó químico seco.",
+      "perigos_especificos": "Não disponível"
+    }
+  },
+  "manuseio_armazenamento": {
+    "precaucoes_manuseio": "Manipular o produto respeitando as regras gerais de segurança"
+  }
+}

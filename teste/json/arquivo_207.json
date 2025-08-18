@@ -1,0 +1,27 @@
+{
+  "arquivo": "arquivo_207.pdf",
+  "data_processamento": "2025-08-18T11:42:49.278954",
+  "identificacao": {
+    "substancia": "DIMETILFORMAMIDA",
+    "numero_onu": "2265",
+    "classe_risco": "3",
+    "numero_risco": "30",
+    "risco_subsidiario": "3"
+  },
+  "emergencia": {
+    "primeiros_socorros": {
+      "inalacao": "Remover para local ventilado. Chamar eventualmente um médico.",
+      "contato_pele": "Lavar abundantemente com água corrente. Retirar as roupas contaminadas.",
+      "contato_olhos": "Lavar abundantemente com água, por 15 minutos. Procurar um oftalmologista.",
+      "ingestao": "beber bastante água. Provocar o vômito. Consultar imediatamente um médico.",
+      "sintomas": "Pode causar irritação no trato gastrintestinal, na pele, nos olhos e no trato respiratório."
+    },
+    "combate_incendio": {
+      "meios_extincao": "CO2, espuma e pó.",
+      "perigos_especificos": "Não deve ser aplicado jato de água diretamente sobre o produto em chamas."
+    }
+  },
+  "manuseio_armazenamento": {
+    "precaucoes_manuseio": "Manipular o produto respeitando as regras gerais de segurança."
+  }
+}

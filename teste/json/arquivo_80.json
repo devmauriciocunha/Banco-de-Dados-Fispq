@@ -1,0 +1,27 @@
+{
+  "arquivo": "arquivo_80.pdf",
+  "data_processamento": "2025-08-18T11:42:20.700318",
+  "identificacao": {
+    "substancia": "ÁLCOOL ETÍLICO ABSOLUTO",
+    "numero_onu": "1170",
+    "classe_risco": "3",
+    "numero_risco": "33",
+    "risco_subsidiario": "3"
+  },
+  "emergencia": {
+    "primeiros_socorros": {
+      "inalacao": "Remover para local ventilado.",
+      "contato_pele": "Lavar imediatamente com água. Retirar as roupas contaminadas.",
+      "contato_olhos": "Lavar imediatamente com bastante água, por 15 min.. Procurar um oftalmologista.",
+      "ingestao": "Beber imediatamente bastante água. Procurar um médico",
+      "sintomas": "Causa dor de cabeça sonolência e lassidão. Absorvidos em altas doses pode provocar torpo,\nalucinações visuais e embriaguez"
+    },
+    "combate_incendio": {
+      "meios_extincao": "CO2, espuma, pó",
+      "perigos_especificos": "Líquido inflamável"
+    }
+  },
+  "manuseio_armazenamento": {
+    "precaucoes_manuseio": "Manipular o produto respeitando as regras gerais de segurança"
+  }
+}

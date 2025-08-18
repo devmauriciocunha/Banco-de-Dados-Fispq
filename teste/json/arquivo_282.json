@@ -1,0 +1,26 @@
+{
+  "arquivo": "arquivo_282.pdf",
+  "data_processamento": "2025-08-18T11:43:05.708526",
+  "identificacao": {
+    "substancia": "HEXAMETILENOTETRAMINA",
+    "numero_onu": "1328",
+    "classe_risco": "4.1",
+    "numero_risco": "40",
+    "risco_subsidiario": "4.1"
+  },
+  "emergencia": {
+    "primeiros_socorros": {
+      "inalacao": "Remover para local ventilado. Eventualmente, respiração artificial. Procurar auxílio médico.",
+      "contato_pele": "Lavar com bastante água. Retirar as roupas contaminadas.",
+      "contato_olhos": "Lavar com bastante água, por 15 min. Consultar um oftalmologista, se necessário.",
+      "sintomas": "O produto pode ser absorvido pelas vias oral, dérmica e inalatória, apresentando elevado potencial\nde irritabilidade local."
+    },
+    "combate_incendio": {
+      "meios_extincao": "Espuma, CO2, pó.",
+      "perigos_especificos": "Não disponível."
+    }
+  },
+  "manuseio_armazenamento": {
+    "precaucoes_manuseio": "Manipular o produto respeitando as regras gerais de segurança."
+  }
+}

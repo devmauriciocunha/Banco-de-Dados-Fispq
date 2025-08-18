@@ -1,0 +1,27 @@
+{
+  "arquivo": "arquivo_94.pdf",
+  "data_processamento": "2025-08-18T11:42:23.999223",
+  "identificacao": {
+    "substancia": "ANIDRIDO ACÉTICO",
+    "numero_onu": "1715",
+    "classe_risco": "8",
+    "numero_risco": "83",
+    "risco_subsidiario": "8 (3)"
+  },
+  "emergencia": {
+    "primeiros_socorros": {
+      "inalacao": "Remover para local ventilado. Procurar um médico.",
+      "contato_pele": "Lavar com bastante água. Retirar as roupas contaminada.",
+      "contato_olhos": "Lavar com bastante água, por 15 min. Procurar imediatamente um oftalmologista.",
+      "ingestao": "Beber muita água, evitar o vômito. Procurar auxílio médico.",
+      "sintomas": "Causa irritação no trato respiratório. Prejudicial se inalado e ingerido."
+    },
+    "combate_incendio": {
+      "meios_extincao": "CO2, pó, espuma",
+      "perigos_especificos": "Não disponível"
+    }
+  },
+  "manuseio_armazenamento": {
+    "precaucoes_manuseio": "Manipular o produto respeitando as regras gerais de segurança"
+  }
+}

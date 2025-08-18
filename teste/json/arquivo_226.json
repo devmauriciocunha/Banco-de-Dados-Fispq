@@ -1,0 +1,27 @@
+{
+  "arquivo": "arquivo_226.pdf",
+  "data_processamento": "2025-08-18T11:42:53.552621",
+  "identificacao": {
+    "substancia": "ETANOL MISTURA",
+    "numero_onu": "1170",
+    "classe_risco": "3",
+    "numero_risco": "33",
+    "risco_subsidiario": "3"
+  },
+  "emergencia": {
+    "primeiros_socorros": {
+      "inalacao": "Remova para o ar fresco. Remova as roupas contaminadas.",
+      "contato_pele": "Lave com sabão e água.",
+      "contato_olhos": "Lave os olhos com bastante água por pelo menos 20 minutos.",
+      "ingestao": "Beber água.",
+      "sintomas": "Pode causar irritação."
+    },
+    "combate_incendio": {
+      "meios_extincao": "Não disponível",
+      "perigos_especificos": "Não disponível"
+    }
+  },
+  "manuseio_armazenamento": {
+    "precaucoes_manuseio": "Manipular o produto respeitando as regras gerais de segurança."
+  }
+}

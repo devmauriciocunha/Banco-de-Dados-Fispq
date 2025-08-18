@@ -1,0 +1,26 @@
+{
+  "arquivo": "arquivo_479.pdf",
+  "data_processamento": "2025-08-18T11:43:49.561865",
+  "identificacao": {
+    "substancia": "TRICLOROETILENO",
+    "numero_onu": "1710",
+    "classe_risco": "6.1",
+    "numero_risco": "60",
+    "risco_subsidiario": "6.1"
+  },
+  "emergencia": {
+    "primeiros_socorros": {
+      "inalacao": "Remover para local ventilado. Manter livres as vias respiratórias.",
+      "contato_olhos": "Lavar com bastante água, por 15 min. Procurar um oftalmologista.",
+      "ingestao": "Cuidado em caso de vômito. Perigo de aspiração. Procurar auxílio médico imediato.",
+      "sintomas": "Pode causar irritação na pele, nos olhos, trato respiratório e do sistema gastro intestinal."
+    },
+    "combate_incendio": {
+      "meios_extincao": "Não disponível",
+      "perigos_especificos": "Não disponível"
+    }
+  },
+  "manuseio_armazenamento": {
+    "precaucoes_manuseio": "Manipular o produto respeitando as regras gerais de segurança"
+  }
+}

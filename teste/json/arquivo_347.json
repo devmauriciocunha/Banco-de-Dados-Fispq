@@ -1,0 +1,27 @@
+{
+  "arquivo": "arquivo_347.pdf",
+  "data_processamento": "2025-08-18T11:43:20.270504",
+  "identificacao": {
+    "substancia": "NITRATO DE PRATA",
+    "numero_onu": "1493",
+    "classe_risco": "5.1",
+    "numero_risco": "50",
+    "risco_subsidiario": "5.1"
+  },
+  "emergencia": {
+    "primeiros_socorros": {
+      "inalacao": "Remover para local ventilado.",
+      "contato_pele": "Lavar com bastante água corrente. Retirar as roupas contaminadas.",
+      "contato_olhos": "Lavar com bastante água corrente, por 15 min. Consultar um oftalmologista, se necessário.",
+      "ingestao": "Beber bastante água, evitar o vômito. Procurar auxílio médico imediato.",
+      "sintomas": "Provoca queimaduras."
+    },
+    "combate_incendio": {
+      "meios_extincao": "Não combustível.",
+      "perigos_especificos": "Não disponível."
+    }
+  },
+  "manuseio_armazenamento": {
+    "precaucoes_manuseio": "Manipular o produto respeitando as regras gerais de segurança."
+  }
+}
