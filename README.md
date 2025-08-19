@@ -17,10 +17,10 @@ Este sistema extrai dados de FISPQs (Fichas de Informações de Segurança de Pr
 
 ```
 projeto/
-├── app_extrair_com_bd.py     # Extrator principal com BD integrado
-├── database_manager.py       # Gerenciador do banco de dados
-├── exemplo_uso_banco.py      # Exemplos de uso do sistema
-├── README.md                 # Este arquivo
+├── app.py                   # Extrator principal com BD integrado
+├── database_manager.py      # Gerenciador do banco de dados
+├── consulta.py              # Exemplos de uso do sistema
+├── README.md                # Este arquivo
 └── dados_fispq/             # Pasta de trabalho (criada automaticamente)
     ├── json/                # JSONs individuais e consolidado
     ├── fispq_database.db    # Banco de dados SQLite
