@@ -1,0 +1,271 @@
+--- PÁGINA 1 ---
+SIGMA-ALDRICH
+sigma-aldrich.com
+FICHA DE DADOS DE SEGURANÇA
+de acordo com a Regulamento (CE) No. 1907/2006
+Versão 4.1 Data de revisão 29.11.2010
+Data de impressão 26.01.2011
+ENERIC EU MSDS - NO COUNTRY SPECIFIC DATA - NO OEL DATA
+1. IDENTIFICAÇÍO DA SUBSTÂNCIA/MISTURA E DA SOCIEDADE/EMPRESA
+Nome do produto : Zinc chloride
+Referência do Produto : 229997
+Marca : Aldrich
+Companhia : Sigma-Aldrich Brasil Ltda.
+Av. das Nações Unidas, 23.043
+04795-100 SÍO PAULO - SP
+BRAZIL
+Telefone : +551137323100
+Número de Fax : +551155229895
+Núnero de Telefone de :
+Emergência
+2. IDENTIFICAÇÍO DOS PERIGOS
+Classificação da substância ou mistura
+According to Regulation (EC) No1272/2008
+Acute toxicity, Oral (Category 4)
+Skin corrosion (Category 1B)
+Acute aquatic toxicity (Category 1)
+Chronic aquatic toxicity (Category 1)
+De acordo com a directiva Europeia 67/548/CEE, e emendas.
+Provoca queimaduras. Nocivo por ingestão. Muito tóxico para os organismos aquáticos, podendo causar
+efeitos nefastos a longo prazo no ambiente aquático.
+Elementos da etiqueta
+Pictogram
+Signal word Danger
+Hazard statement(s)
+H302 Harmful if swallowed.
+H314 Causes severe skin burns and eye damage.
+H410 Very toxic to aquatic life with long lasting effects.
+Precautionary statement(s)
+P273 Avoid release to the environment.
+P280 Wear protective gloves/ protective clothing/ eye protection/ face protection.
+P305 + P351 + P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove
+contact lenses, if present and easy to do. Continue rinsing.
+P310 Immediately call a POISON CENTER or doctor/ physician.
+P501 Dispose of contents/ container to an approved waste disposal plant.
+Hazard symbol(s)
+C Corrosive
+N Dangerous for the environment
+R-phrase(s)
+R22 Harmful if swallowed.
+Aldrich - 229997 Página 1 de 6
+--- PÁGINA 2 ---
+R34 Causes burns.
+R50/53 Very toxic to aquatic organisms, may cause long-term adverse effects in
+the aquatic environment.
+S-phrase(s)
+S26 In case of contact with eyes, rinse immediately with plenty of water and
+seek medical advice.
+S36/37/39 Wear suitable protective clothing, gloves and eye/face protection.
+S45 In case of accident or if you feel unwell, seek medical advice immediately
+(show the label where possible).
+S60 This material and its container must be disposed of as hazardous waste.
+S61 Avoid release to the environment. Refer to special instructions/ Safety data
+sheets.
+Outros Perigos - nenhum(a)
+3. COMPOSIÇÍO/INFORMAÇÍO SOBRE OS COMPONENTES
+Formula : Cl2Zn
+Peso molecular : 136,3 g/mol
+No. CAS No. CE No. de Index Classificação Concentração
+Zinc chloride
+7646-85-7 231-592-0 030-003-00-2 Acute Tox. 4; Skin Corr. 1B; -
+Aquatic Acute 1; Aquatic
+Chronic 1; H302, H314, H410
+C, N, R22 - R34 - R50/53
+Para o pleno texto das DECLARAÇÕES H mencionadas nesta Secção, ver a Secção 16.
+4. PRIMEIROS SOCORROS
+Recomendação geral
+Consultar um médico. Mostrar esta ficha de segurança ao médico de serviço.
+Se for inalado
+Se for respirado, levar a pessoa para o ar fresco. Se não respirar, dar respiração artificial. Consultar um
+médico.
+No caso dum contacto com a pele
+Despir imediatamente a roupa e os sapatos contaminados. Lavar com sabão e muita água. Consultar um
+médico.
+No caso dum contacto com os olhos
+Lavar cuidadosamente com muita água, durante pelo menos quinze minutos, e consultar o médico.
+Se for engolido
+NÍO provocar vómitos. Nunca dar nada pela boca a uma pessoa inconsciente. Enxaguar a boca com água.
+Consultar um médico.
+5. MEDIDAS DE COMBATE A INCÊNDIO
+Meios adequados de extinção
+Usar meios de extinção que sejam apropriados às circunstâncias locais e ao ambiente envolvente.
+Equipamento especial de protecção a utilizar pelo pessoal de combate a incêndio
+Usar equipamento de respiração autónomo para combate a incêndios, se necessário.
+Outras informações
+O produto não queima.
+6. MEDIDAS A TOMAR EM CASO DE FUGAS ACIDENTAIS
+Aldrich - 229997 Página 2 de 6
+--- PÁGINA 3 ---
+Precauções individuais
+Usar equipamento de protecção individual. Evitar a formação de poeira. Evitar a respiração do
+vapor/névoa/gas. Assegurar ventilação adequada. Evacuar o pessoal para áreas de segurança. Evitar de
+respirar o pó.
+Precauções a nível ambiental
+Prevenir dispersão ou derramamento ulterior se for mais seguro assim. Não permitir a entrada do produto no
+sistema de esgotos. A descarga no meio ambiente deve ser evitada.
+Métodos e materiais de confinamento e limpeza
+Apanhar os resíduos sem levantar poeiras. Varrer e apanhar com uma pá. Manter em recipientes fechados
+adequados, para eliminação.
+7. MANUSEAMENTO E ARMAZENAGEM
+Precauções para um manuseamento seguro
+Evitar o contacto com a pele e os olhos. Evitar a formação de pó e aerossois.
+Providenciar uma adequada ventilação em locais onde se formem poeiras.
+Condições para uma armazenagem segura
+Manejar sob azoto, proteger da humidade. Armazenar sob nitrogênio. Armazenar em local fresco. Guardar o
+recipiente herméticamente fechado em lugar seco e bem ventilado.
+fortemente higroscópico
+8. CONTROLO DA EXPOSIÇÍO/PROTECÇÍO PESSOAL
+Protecção individual
+Protecção respiratória
+Nos casos em que a avaliação de risco mostrar que os respiradores purificadores do ar são apropriados,
+use um respirador de partículas do tipo N100 (E.U.A.) ou cartuchos de respiração do tipo P2 (EN 143)
+como apoio a controlos de engenharia. Se o respirador for o único meio de protecção, usa um respirador
+de ar de cobertura facial total. Use respiradores e componentes testados e aprovados por normas
+governamentais apropriadas, tais como as NIOSH (E.U.A.) ou CEN (UE).
+Protecção das mãos
+Manusear com luvas. As luvas devem ser inspectadas antes da utilização. Use uma técnica adequada
+para a remoção das luvas (sem tocar a superfície exterior da luva) para evitar o contacto da pele com o
+produto. Descarte as luvas contaminadas após o uso, em conformidade com as leis e boas práticas de
+laboratório . Lavar e secar as mãos.
+As luvas de protecção seleccionadas devem satisfazer as especificações da Directiva da UE 89/689/CEE
+e a norma EN 374 derivada dela.
+Protecção dos olhos
+Mascaras de protecção e óculos de segurança. Use equipamento de proteção ocular testado e aprovado
+de acordo com as normas governamentais adequadas, tais como NIOSH (US) ou EN 166 (EU).
+Protecção do corpo e da pele
+Fato completo de protecção para produtos químicos, O genero de equipamento de protecção deve ser
+escolhido de acordo com a concentração e a quantidade da substância perigosa no lugar de trabalho.
+Medidas de higiene
+Manusear de acordo com as boas práticas industriais de higiene e segurança. Lavar as mãos antes de
+interrupções, e no final do dia de trabalho.
+9. PROPRIEDADES FÍSICAS E QUÍMICAS
+Aspecto
+Estado físico Cristais com protuberâncias
+Cor branco
+Dados de segurança
+pH 5 a 100 g/l a 20 °C
+Aldrich - 229997 Página 3 de 6
+--- PÁGINA 4 ---
+Ponto de fusão 293 °C
+Ponto de ebulição 732 °C a 1.013 hPa
+Ponto de inflamação dados não disponíveis
+Temperatura de dados não disponíveis
+ignição
+Limites de explosão, dados não disponíveis
+inferior
+Limite de explosão, dados não disponíveis
+superior
+Pressão de vapor 1 hPa a 428 °C
+Densidade 2,907 g/cm3
+Hidrossolubilidade solúvel
+10. ESTABILIDADE E REACTIVIDADE
+Estabilidade química
+Estável sob as condições recomendadas de armazenamento.
+Condições a evitar
+Exposição à humidade.
+Matérias a evitar
+Agentes oxidantes fortes
+Produtos de decomposição perigosos
+Produtos perigosos de decomposição formados durante os incêndios. - Cloreto de hidrogénio gasoso,
+Zinco/óxidos de zinco
+11. INFORMAÇÍO TOXICOLÓGICA
+Toxicidade aguda
+DL50 Oral - ratazana - 350 mg/kg
+Corrosão/irritação cutânea
+dados não disponíveis
+Lesões oculares graves/irritação ocular
+dados não disponíveis
+Sensibilização respiratória ou cutânea
+dados não disponíveis
+Mutagenicidade em células germinativas
+dados não disponíveis
+Carcinogenicidade
+IARC: Nenhum componente deste produto presente a níveis maiores ou iguais a 0.1% é identificado como
+carcinogénio provável, possível ou confirmado pelo IARC.
+Toxicidade reprodutiva
+dados não disponíveis
+Toxicidade para órgãos-alvo específicos - exposição única
+dados não disponíveis
+Toxicidade para órgãos-alvo específicos - exposição repetida
+dados não disponíveis
+Aldrich - 229997 Página 4 de 6
+--- PÁGINA 5 ---
+Perigo de aspiração
+dados não disponíveis
+Efeitos potenciais para a saúde
+Inalação Pode ser perigoso se for inalado. O material é extremamente destrutivo para os
+tecidos das membranas mucosas e do trato respiratório superior.
+Ingestão Nocivo por ingestão. Provoca queimaduras.
+Pele Pode ser perigoso se for absorto pela pele. Causa queimaduras na pele.
+Olhos Causa queimaduras nos olhos.
+Sinais e sintomas de exposição
+Até onde sabemos, as propriedades químicas, físicas e toxicológicas não foram minuciosamente investigadas.
+Informação adicional
+RTECS: ZH1400000
+12. INFORMAÇÍO ECOLÓGICA
+Toxicidade
+Toxicidade em CL50 - Cyprinus carpio (Carpa) - 0,4 - 2,2 mg/l - 96,0 h
+peixes
+Toxicidade em CE50 - Daphnia magna - 0,2 mg/l - 48 h
+dáfnias e outros
+invertebrados
+aquáticos.
+Toxicidade em algas Inibição do crescimento LOEC - Pseudokirchneriella subcapitata - 12,5 mg/l - 96
+h
+Persistência e degradabilidade
+Potencial de bioacumulação
+Bioacumulação Pimephales promelas (vairão gordo) - 63 d
+Factor de bioconcentração (BCF): 21.000
+Mobilidade no solo
+dados não disponíveis
+Avaliação PBT e mPmB
+dados não disponíveis
+Outros efeitos adversos
+Muito tóxico para os organismos aquáticos com efeitos duradouros.
+13. CONSIDERAÇÕES RELATIVAS À ELIMINAÇÍO
+Produto
+Propor a entrega de soluções excedentes e não recicláveis a uma empresa idónea de tratamento de
+resíduos. Entrar em contato com um serviço profissional credenciado de descarte de lixo para descartar
+esse material.
+Embalagens contaminadas
+Eliminar como produto Não utilizado.
+14. INFORMAÇÕES RELATIVAS AO TRANSPORTE
+ADR/RID
+UN-Number: 2331 Class: 8 Packing group: III
+Proper shipping name: ZINC CHLORIDE, ANHYDROUS
+IMDG
+Número ONU: 2331 Classe: 8 Grupo de embalagem: III EMS-No:
+F-A, S-B
+Designação oficial de transporte da ONU: ZINC CHLORIDE, ANHYDROUS
+Aldrich - 229997 Página 5 de 6
+--- PÁGINA 6 ---
+Poluente marinho: No
+IATA
+Número ONU: 2331 Classe: 8 Grupo de embalagem: III
+Designação oficial de transporte da ONU: Zinc chloride, anhydrous
+15. INFORMAÇÍO SOBRE REGULAMENTAÇÍO
+Esta folha de dados de segurança obedece aos requerimentos da Regulamento (CE) No. 1907/2006
+16. OUTRAS INFORMAÇÕES
+Text of H-code(s) and R-phrase(s) mentioned in Section 3
+Acute Tox. Acute toxicity
+Aquatic Acute Acute aquatic toxicity
+Aquatic Chronic Chronic aquatic toxicity
+H302 Harmful if swallowed.
+H314 Causes severe skin burns and eye damage.
+H410 Very toxic to aquatic life with long lasting effects.
+Skin Corr. Skin corrosion
+C Corrosive
+N Dangerous for the environment
+R22 Harmful if swallowed.
+R34 Causes burns.
+R50/53 Very toxic to aquatic organisms, may cause long-term adverse effects in the aquatic
+environment.
+Outras informações
+Direitos exclusivos, 2010, da Sigma-Aldrich. Permissão concedida para fazer número ilimitado de cópias
+em papel, somente para uso interno.
+Acredita-se que as informações acima estejam corretas, embora não pretendam ser totalmente
+abrangentes, devendo ser usadas apenas como um guia. A Sigma-Aldrich não deverá ter responsabilidade
+legal por quaisquer danos resultantes do manuseio ou do contato com o produto acima. Consultar o verso
+da fatura ou nota que acompanha o produto para tomar conhecimento dos termos adicionais e condições
+de venda.
+Aldrich - 229997 Página 6 de 6

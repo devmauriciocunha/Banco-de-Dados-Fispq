@@ -1,0 +1,154 @@
+--- PÁGINA 1 ---
+Ficha de Informação de Produto Químico
+IDENTIFICAÇÍO Help
+Número ONU Nome do produto Rótulo de risco
+1219 ÁLCOOL ISOPROPÍLICO
+Número de risco Classe / Subclasse
+33 3
+Sinônimos
+DIMETILCARBINOL; ISOPROPANOL ; 2 - PROPANOL ; ÁLCOOL sec - PROPÍLICO.
+Aparência
+LÍQUIDO AQUOSO; SEM COLORAÇÍO; ODOR DE ÀLCOOL DESAGRADÁVEL; FLUTUA E MISTURA COM ÁGUA; PRODUZ
+VAPORES IRRITANTES.
+Fórmula molecular Família química
+C3 H8 O ÁLCOOL
+Fabricantes
+Para informações atualizadas recomenda-se a consulta às seguintes instituições ou referências:
+ABIQUIM - Associação Brasileira da Indústria Química : Fone 0800-118270
+ANDEF - Associação Nacional de Defesa Vegetal: Fone (11) 3081-5033
+Revista Química e Derivados - Guia geral de produtos químicos, Editora QD: Fone (11) 3826-6899
+Programa Agrofit - Ministério da Agricultura
+MEDIDAS DE SEGURANÇA Help
+Medidas preventivas imediatas
+EVITAR CONTATO COM O LÍQUIDO E O VAPOR. MANTER AS PESSOAS AFASTADAS. CHAMAR OS BOMBEIROS. PARAR O
+VAZAMENTO, SE POSSÍVEL. ISOLAR E REMOVER O MATERIAL DERRAMADO. DESLIGAR AS FONTES DE IGNIÇÍO. FICAR
+CONTRA O VENTO E USAR NEBLINA D'ÁGUA PARA BAIXAR O VAPOR.
+Equipamentos de Proteção Individual (EPI)
+USAR LUVAS, BOTAS E ROUPAS DE POLIETILENO CLORADO, BORRACHA BUTÍLICA OU NATURAL OU NITRÍLICA, DE NEOPRENE
+OU POLIURETANO E MÁSCARA FACIAL PANORAMA, COM FILTRO CONTRA VAPORES ORGÂNICOS.
+RISCOS AO FOGO Help
+Ações a serem tomadas quando o produto entra em combustão
+EXTINGUIR COM PÓ QUÍMICO SECO, ESPUMA OU DIÓXIDO DE CARBONO. ESFRIAR OS RECIPIENTES EXPOSTOS, COM ÁGUA.
+O RETROCESSO DA CHAMA PODE OCORRER DURANTE O ARRASTE DE VAPOR.
+Comportamento do produto no fogo
+O VAPOR PODE EXPLODIR SE A IGNIÇÍO FOR EM ÁREA FECHADA.
+Produtos perigosos da reação de combustão
+NÍO PERTINENTE.
+Agentes de extinção que não podem ser usados
+ÁGUA PODE SER INEFICAZ.
+Limites de inflamabilidade no ar
+Limite Superior: 12,7%
+Limite Inferior: 2,3%
+Ponto de fulgor
+18,3°C (V.AB); 11,7°C (V.FEC.)
+Temperatura de ignição
+400 °C
+Taxa de queima
+2,3 mm/min
+Taxa de evaporação (éter=1)
+7,7
+NFPA (National Fire Protection Association)
+Perigo de Saúde (Azul): 1
+Inflamabilidade (Vermelho): 3
+--- PÁGINA 2 ---
+Reatividade (Amarelo): 0
+PROPRIEDADES FÍSICO-QUÍMICAS E AMBIENTAIS Help
+Peso molecular Ponto de ebulição (°C) Ponto de fusão (°C)
+60,1 82,5 - 86 A - 89 °C
+Temperatura crítica (°C) Pressão crítica (atm) Densidade relativa do vapor
+235,2 47 2,1
+Densidade relativa do líquido (ou Pressão de vapor Calor latente de vaporização (cal/g)
+sólido) 40 mmHg A 23,8 °C 159
+0,785 A 20 °C (LÍQUIDO)
+Calor de combustão (cal/g) Viscosidade (cP)
+-7.201 2,05
+Solubilidade na água pH
+MISCÍVEL 7,0
+Reatividade química com água
+NÍO REAGE.
+Reatividade química com materiais comuns
+NÍO REAGE.
+Polimerização
+NÍO OCORRE.
+Reatividade química com outros materiais
+INCOMPATÍVEL COM NITRATOS, OXIDANTES FORTES, ÁLCALIS FORTES E ÁCIDOS FORTES.
+Degradabilidade
+BIODEGRADÁVEL POR CULTURAS ACLIMATADAS (99% DE REMOÇÍO DA DQO EM SISTEMAS DE LODOS ATIVADOS
+ACLIMATADOS AO ÁLCOOL ISOPROPÍLICO, COMO ÚNICA FONTE DE CARBONO).
+Potencial de concentração na cadeia alimentar
+NENHUM.
+Demanda bioquímica de oxigênio (DBO)
+133%, 5 DIAS.
+Neutralização e disposição final
+QUEIMAR EM UM INCINERADOR QUÍMICO EQUIPADO COM PÓS-QUEIMADOR E LAVADOR DE GASES. TOMAR OS DEVIDOS
+CUIDADOS NA IGNIÇÍO, POIS O PRODUTO É ALTAMENTE INFLAMÁVEL. RECOMENDA-SE O ACOMPANHAMENTO POR UM
+ESPECIALISTA DO ÓRGÍO AMBIENTAL.
+INFORMAÇÕES ECOTOXICOLÓGICAS Help
+Toxicidade - limites e padrões
+L.P.O.: 90 mg/m³
+P.P.: NÍO ESTABELECIDO
+IDLH: 2.000 ppm (LII)
+LT: Brasil - Valor Médio 48h: 765 ppm
+LT: Brasil - Valor Teto: 956,25 ppm
+LT: EUA - TWA: 400 ppm
+LT: EUA - STEL: 500 ppm
+Toxicidade ao homem e animais superiores (vertebrados)
+M.D.T.: (OBS.1)
+M.C.T.: SER HUMANO: TCLo = 400 ppm
+Toxicidade: Espécie: RATO
+Via Respiração (CL50): 16.000 ppm (8 h)
+Via Oral (DL 50): 5.840 mg/kg
+Toxicidade: Espécie: CAMUNDONGO
+Via Oral (DL 50): LDLo: 192 mg/kg Via Cutânea (DL 50): 933 mg/kg (INTRAP.)
+Toxicidade: Espécie: OUTROS
+Via Oral (DL 50): CÍO: 6.150 mg/kg Via Cutânea (DL 50): COELHO: 13 g/kg
+Toxicidade aos organismos aquáticos: PEIXES : Espécie
+CARASSIUS AURATUS: DL50 (24h): >5.000 mg/L - ÁGUA CONTINENTAL; PIMEPHALES PROMELAS: BIOENSAIO ESTÁTICO
+NAS ÁGUAS DO LAGO SUPERIOR (EUA), (18-22 °C), CL50 (1; 24; 48; 96 h) = 11.830; 11.160; 11.130; 11.130 mg/L (OBS.2)
+Toxicidade aos organismos aquáticos: CRUSTÁCEOS : Espécie
+CRANGON CRANGON: CL50 (48 h) = MÉDIA DE 1.400 mg/L, CL50 (96 h) = MÉDIA DE 1.150 mg/L.
+Toxicidade aos organismos aquáticos: ALGAS : Espécie
+L. tox. T.I.M.C.: MICROCYSTIS AERUGINOSA = 1.000 mg/L; SCENEDESMUS QUADRICAUDA (ALGA VERDE) = 1800 mg/L;
+--- PÁGINA 3 ---
+CHLORELLA PYRENOIDOSA = TÓXICO A 17.400 mg/L
+Toxicidade a outros organismos: BACTÉRIAS
+Toxicidade a outros organismos: MUTAGENICIDADE
+SACCHAROMYCES CEREVISIAE : "cyt" = 200 mmol/TUBO.
+Toxicidade a outros organismos: OUTROS
+Informações sobre intoxicação humana
+EVITAR CONTATO COM O LÍQUIDO E O VAPOR. MANTER AS PESSOAS AFASTADAS. CHAMAR OS BOMBEIROS. PARAR O
+VAZAMENTO, SE POSSÍVEL. ISOLAR E REMOVER O MATERIAL DERRAMADO. DESLIGAR AS FONTES DE IGNIÇÍO. FICAR
+CONTRA O VENTO E USAR NEBLINA D'ÁGUA PARA BAIXAR O VAPOR.
+Tipo de contato Síndrome tóxica Tratamento
+VAPOR IRRITANTE PARA OLHOS, NARIZ E MOVER PARA O AR FRESCO. SE A
+GARGANTA. RESPIRAÇÍO FOR DIFICULTADA OU
+PARAR, DAR OXIGÊNIO OU FAZER
+RESPIRAÇÍO ARTIFICIAL.
+Tipo de contato Síndrome tóxica Tratamento
+LÍQUIDO IRRITANTE PARA OLHOS. PREJUDICIAL, MANTER AS PÁLPEBRAS ABERTAS E
+SE INGERIDO. ENXAGUAR COM MUITA ÁGUA.
+DADOS GERAIS Help
+Temperatura e armazenamento
+AMBIENTE.
+Ventilação para transporte
+ABERTA OU PRESSÍO A VÁCUO.
+Estabilidade durante o transporte
+ESTÁVEL.
+Usos
+INTERMEDIÁRIO PARA ACETONA; SOLVENTE; PRESERVATIVO; PERFUME; LACAS E VERNIZES; ANTI-CONGELANTE.
+Grau de pureza
+91%, 95% ANIDRO.
+Radioatividade
+NÍO TEM.
+Método de coleta
+DADO NÍO DISPONÍVEL.
+Código NAS (National Academy of Sciences)
+FOGO SAÚDE POLUIÇÍO DAS ÁGUAS REATIVIDADE
+Fogo: 3 Vapor Irritante: 1 Toxicidade humana: 2 Outros Produtos Químicos: 2
+Líquido/Sólido Irritante: 0 Toxicidade aquática: 2 Água: 0
+Venenos: 2 Efeito estético: 1 Auto reação: 0
+OBSERVAÇÕES Help
+1) SER HUMANO: TDLo = 15.710 mg/kg; HOMEM (ORAL): TDLo = 8.600 mg/kg; IRRITAÇÍO AO OLHO HUMANO = 20 ppm;
+IRRITAÇÍO AOS OLHOS DO COELHO = 16 mg. 2) POECILIA RETICULATA: CL50 (7 DIAS) = 7060 ppm; SEMOLITUS
+ATROMACULATUS: DL50 (24h) = 900 mg/L; DL100 (24h) = 1.100 mg/L (ÁGUAS DO RIO DETROIT-EUA). TAXA DE
+TOXICIDADE AOS ORGANISMOS AQUÁTICOS:TLm (96 h) = 100 ppm - 1000 ppm POTENCIAL DE IONIZAÇÍO (PI) = 10,10 eV.

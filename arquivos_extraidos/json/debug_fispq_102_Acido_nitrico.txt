@@ -1,0 +1,246 @@
+--- PÁGINA 1 ---
+SIGMA-ALDRICH
+sigma-aldrich.com
+FICHA DE DADOS DE SEGURANÇA
+de acordo com a Regulamento (CE) No. 1907/2006
+Versão 3.2 Data de revisão 23.04.2010
+Data de impressão 19.01.2011
+ENERIC EU MSDS - NO COUNTRY SPECIFIC DATA - NO OEL DATA
+1. IDENTIFICAÇÍO DA SUBSTÂNCIA/MISTURA E DA SOCIEDADE/EMPRESA
+Nome do produto : Nitric acid
+Referência do Produto : 258121
+Marca : Sigma-Aldrich
+Companhia : Sigma-Aldrich Brasil Ltda.
+Av. das Nações Unidas, 23.043
+04795-100 SÍO PAULO - SP
+BRAZIL
+Telefone : +551137323100
+Número de Fax : +551155229895
+Núnero de Telefone de :
+Emergência
+2. IDENTIFICAÇÍO DOS PERIGOS
+Classificação da substância ou da mistura
+De acordo com a directiva Europeia 67/548/CEE, e emendas.
+Favorece a inflamação de matérias combustíveis. Provoca queimaduras graves.
+Elementos da etiqueta
+símbolo de perigosidade
+O Comburente
+C Corrosivo
+Frase(s) - R
+R 8 Favorece a inflamação de matérias combustíveis.
+R35 Provoca queimaduras graves.
+Frase(s) - S
+S23 Não respirar os gases/vapores/fumos/aerossóis.
+S26 Em caso de contacto com os olhos, lavar imediata e abundantemente com
+água e consultar um especialista.
+S36 Usar vestuário de protecção adequado.
+S45 Em caso de acidente ou de indisposição, consultar imediatamente o
+médico (se possível mostrar-lhe o rótulo).
+Outros Perigos - nenhum(a)
+3. COMPOSIÇÍO/INFORMAÇÍO SOBRE OS COMPONENTES
+Formula : HNO3
+No. CAS No. CE No. de Index Classificação Concentração
+Nitric acid
+7697-37-2 231-714-2 007-004-00-1 Ox. Liq. 3; Skin Corr. 1A; >= 90 - <= 100 %
+H314, H272
+O, C, R 8 - R35
+Water
+7732-18-5 231-791-2 - - <= 10 %
+Sigma-Aldrich - 258121 Página 1 de 6
+--- PÁGINA 2 ---
+Para o pleno texto das DECLARAÇÕES H mencionadas nesta Secção, ver a Secção 16.
+4. PRIMEIROS SOCORROS
+Recomendação geral
+Consultar um médico. Mostrar esta ficha de segurança ao médico de serviço.
+Se for inalado
+Se for respirado, levar a pessoa para o ar fresco. Se não respirar, aplicar a respiração artificial. Consultar um
+médico.
+No caso dum contacto com a pele
+Despir imediatamente a roupa e os sapatos contaminados. Lavar com sabão e muita água. Consultar um
+médico.
+No caso dum contacto com os olhos
+Lavar cuidadosamente com muita água, durante pelo menos quinze minutos, e consultar o médico.
+Se for engolido
+NÍO provocar vómitos. Nunca dar nada pela boca a uma pessoa inconsciente. Enxaguar a boca com água.
+Consultar um médico.
+5. MEDIDAS DE COMBATE A INCÊNDIO
+Meios adequados de extinção
+Utilizar água pulverizada, espuma resistente ao álcool, produto químico seco ou dióxido de carbono.
+Equipamento especial de protecção a utilizar pelo pessoal de combate a incêndio
+Usar equipamento de respiração autónomo para combate a incêndios, se necessário.
+Outras informações
+Os jactos de água podem ser utilizados para arrefecer os contentores fechados.
+6. MEDIDAS A TOMAR EM CASO DE FUGAS ACIDENTAIS
+Precauções individuais
+Usar equipamento de protecção individual. Evitar a respiração do vapor/névoa/gas. Assegurar ventilação
+adequada. Evacuar o pessoal para áreas de segurança.
+Precauções ambientais
+Não permitir a entrada do produto no sistema de esgotos.
+Métodos e materiais para a contenção e a limpeza
+Controlar e recuperar o líquido derramado com um produto absorvente não combustível, (por exemplo areia,
+terra, terra diatomácea, vermiculite) e pôr o líquido dentro de contentores para eliminação de acordo com os
+regulamentos locais / nacionais (ver secção 13).
+7. MANUSEAMENTO E ARMAZENAGEM
+Precauções para um manuseamento seguro
+Evitar a inalação do vapor ou da névoa.
+Manter afastado de qualquer chama ou fonte de ignição - Não fumar. Manter afastado de matérias
+combustíveis.
+Condições para uma armazenagem segura
+Armazenar em local fresco. Guardar o recipiente herméticamente fechado em lugar seco e bem ventilado. Os
+contentores abertos devem ser cuidadosamente fechados de novo e têm que ficar direitos para evitar a
+dispersão.
+Sigma-Aldrich - 258121 Página 2 de 6
+--- PÁGINA 3 ---
+8. CONTROLO DA EXPOSIÇÍO/PROTECÇÍO PESSOAL
+Protecção individual
+Protecção respiratória
+Nos casos em que a avaliação de risco mostrar que os respiradores purificadores do ar são apropriados,
+use um respirador de cobertura facial total com cartuchos de combinação multi-objectivos (E.U.A.) ou do
+tipo ABEK (EN 14387) como apoio a controlos de engenharia. Se o respirador for o único meio de
+protecção, usa um respirador de ar de cobertura facial total. Use respiradores e componentes testados e
+aprovados por normas governamentais apropriadas, tais como as NIOSH (E.U.A.) ou CEN (UE).
+Protecção das mãos
+As luvas de protecção seleccionadas devem satisfazer as especificações da Directiva da UE 89/689/CEE
+e a norma EN 374 derivada dela.
+Manusear com luvas.
+Protecção dos olhos
+Óculos de segurança bem ajustados. Proteção da face (mínimo de 8 polegadas (20 cm)).
+Protecção do corpo e da pele
+Escolher uma protecção para o corpo conforme a quantidade e a concentração das substâncias
+perigosas no lugar de trabalho.
+Medidas de higiene
+Manusear de acordo com as boas práticas industriais de higiene e segurança. Lavar as mãos antes de
+interrupções, e no final do dia de trabalho.
+9. PROPRIEDADES FÍSICAS E QUÍMICAS
+Aspecto
+Estado físico líquido
+Cor incolor
+Dados de segurança
+pH < 1 a 20 °C
+Ponto de fusão dados não disponíveis
+Ponto de ebulição 100 °C a 1.013 hPa
+Ponto de inflamação dados não disponíveis
+Temperatura de dados não disponíveis
+ignição
+Limites de explosão, dados não disponíveis
+inferior
+Limite de explosão, dados não disponíveis
+superior
+Pressão de vapor 11 hPa a 20 °C
+Densidade 1,48 g/cm3
+Hidrossolubilidade completamente solúvel
+10. ESTABILIDADE E REACTIVIDADE
+Estabilidade química
+Estável sob as condições recomendadas de armazenamento. Estável sob as condições recomendadas de
+armazenamento.
+Condições a evitar
+Pode descorar-se sob exposição ao ar ou à luz.
+Sigma-Aldrich - 258121 Página 3 de 6
+--- PÁGINA 4 ---
+Matérias a evitar
+Metais alcalinos, Materiais orgânicos, Anídrido acético, Acetonitrila, Alcoois, Acrilonitrila
+Produtos de decomposição perigosos
+Produtos perigosos de decomposição formados durante os incêndios. - A natureza dos produtos de
+decomposição não é conhecida.
+11. INFORMAÇÍO TOXICOLÓGICA
+Toxicidade aguda
+dados não disponíveis (Nitric acid)
+Corrosão/irritação cutânea
+Pele - coelho - Extremamente corrosivo e destrutivo para os tecidos. - Teste de Draize (Nitric acid)
+Lesões oculares graves/irritação ocular
+dados não disponíveis (Nitric acid)
+Sensibilização respiratória ou da pele
+dados não disponíveis (Nitric acid)
+Mutagenicidade em células germinativas
+dados não disponíveis (Nitric acid)
+Carcinogenicidade
+IARC: Nenhum componente deste produto presente a níveis maiores ou iguais a 0.1% é identificado como
+carcinogénio provável, possível ou confirmado pelo IARC.
+Toxicidade reprodutiva
+Toxicidade reprodutiva - ratazana - Oral
+Efeitos no recém nascido: bioquímicos e metabólicos (Nitric acid)
+Efeitos tóxicos no desenvolvimento - ratazana - Oral
+Efeitos no embrião ou no feto: Fetotoxicidade (excepto a morte, por exemplo, atrofia do feto). (Nitric acid)
+Toxicidade para órgãos-alvo específicos - exposição única
+dados não disponíveis (Nitric acid)
+Toxicidade para órgãos-alvo específicos - exposição repetida
+dados não disponíveis
+Perigo de aspiração
+dados não disponíveis (Nitric acid)
+Efeitos potenciais para a saúde
+Inalação Pode ser perigoso se for inalado. O material é extremamente destrutivo para os
+tecidos das membranas mucosas e do trato respiratório superior.
+Ingestão Pode ser perigoso se for engolido. Provoca queimaduras graves.
+Pele Pode ser perigoso se for absorto pela pele. Causa queimaduras severas na
+pele.
+Olhos Causa queimaduras severas nos olhos.
+Sinais e sintomas de exposição
+O material é extremamente destrutivo para os tecidos das membranas mucosas e para o trato respiratório
+superior, os olhos e a pele., A inalação pode provocar os sintomas seguintes:, espasmo, inflamação e edema
+dos brônquios, espasmo, inflamação e edema da laringe, pneumonite, Os sintomas e sinais de
+envenenamento são:, sensação de queimadura, Tosse, respiração ruidosa, laringite, Respiração superficial,
+Dor de cabeça, Náusea, Vómitos, Edema pulmonar. Os efeitos podem ser tardios., Doses grandes podem
+provocar: conversão da hemoglobina em metemoglobina, produzindo cianose; acentuda queda da pressão
+sangüínea, levando ao colapso, coma e possivelmente morte.
+Informação adicional
+RTECS: dados não disponíveis
+12. INFORMAÇÍO ECOLÓGICA
+Sigma-Aldrich - 258121 Página 4 de 6
+--- PÁGINA 5 ---
+Toxicidade
+Toxicidade em CL50 - Asterias rubens - 100 - 330 mg/l - 48 h (Nitric acid)
+peixes
+Persistência e degradabilidade
+dados não disponíveis
+Potencial de bioacumulação
+dados não disponíveis
+Mobilidade no solo
+dados não disponíveis (Nitric acid)
+Avaliação PBT e mPmB
+dados não disponíveis
+Outros efeitos adversos
+Pode ser nocivo para os organismos aquáticos devido à mudança do pH.
+13. CONSIDERAÇÕES RELATIVAS À ELIMINAÇÍO
+Produto
+Entrar em contato com um serviço profissional credenciado de descarte de lixo para descartar esse material.
+Dissolver ou misturar o material com um solvente combustível e queimar em incinerador químico equipado
+com pós-combustor e purificador de gases. Observar todos os regulamentos ambientais federais, estaduais
+e locais.
+Embalagens contaminadas
+Eliminar como produto Não utilizado.
+14. INFORMAÇÕES RELATIVAS AO TRANSPORTE
+ADR/RID
+Número ONU: 2031 Classe: 8 (5.1) Grupo de embalagem: I
+Denominação de expedição correcta: ÁCIDO NÍTRICO
+IMDG
+Número ONU: 2031 Classe: 8 (5.1) Grupo de embalagem: I EMS-No:
+F-A, S-Q
+Denominação de expedição correcta: NITRIC ACID
+Poluente marinho: No
+IATA
+Número ONU: 2031 Classe: 8 (5.1) Grupo de embalagem: I
+Denominação de expedição correcta: Nitric acid
+IATA Passenger: Não permitido para o transporte
+15. INFORMAÇÍO SOBRE REGULAMENTAÇÍO
+Esta folha de dados de segurança obedece aos requerimentos da Regulamento (CE) No. 1907/2006
+16. OUTRAS INFORMAÇÕES
+Texto dos código(s) H e frase(s) R mencionados na secção 3
+H272 Pode agravar incêndios; comburente.
+H314 Provoca queimaduras na pele e lesões oculares graves.
+Ox. Liq. Líquidos comburentes
+Skin Corr. Corrosão cutânea
+C Corrosivo
+O Comburente
+R 8 Favorece a inflamação de matérias combustíveis.
+R35 Provoca queimaduras graves.
+Outras informações
+Sigma-Aldrich - 258121 Página 5 de 6
+--- PÁGINA 6 ---
+Direitos exclusivos, 2010, da Sigma-Aldrich. Permissão concedida para fazer número ilimitado de cópias
+em papel, somente para uso interno.
+Acredita-se que as informações acima estejam corretas, embora não pretendam ser totalmente
+abrangentes, devendo ser usadas apenas como um guia. A Sigma-Aldrich não deverá ter responsabilidade
+legal por quaisquer danos resultantes do manuseio ou do contato com o produto acima. Consultar o verso
+da fatura ou nota que acompanha o produto para tomar conhecimento dos termos adicionais e condições
+de venda.
+Sigma-Aldrich - 258121 Página 6 de 6

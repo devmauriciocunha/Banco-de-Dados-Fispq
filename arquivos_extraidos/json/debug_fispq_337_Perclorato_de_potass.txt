@@ -1,0 +1,241 @@
+--- PÁGINA 1 ---
+SIGMA-ALDRICH
+sigma-aldrich.com
+FICHA DE DADOS DE SEGURANÇA
+de acordo com a Regulamento (CE) No. 1907/2006
+Versão 4.0 Data de revisão 13.03.2010
+Data de impressão 24.01.2011
+ENERIC EU MSDS - NO COUNTRY SPECIFIC DATA - NO OEL DATA
+1. IDENTIFICAÇÍO DA SUBSTÂNCIA/MISTURA E DA SOCIEDADE/EMPRESA
+Nome do produto : Potassium perchlorate
+Referência do Produto : 241830
+Marca : Sigma-Aldrich
+Companhia : Sigma-Aldrich Brasil Ltda.
+Av. das Nações Unidas, 23.043
+04795-100 SÍO PAULO - SP
+BRAZIL
+Telefone : +551137323100
+Número de Fax : +551155229895
+Núnero de Telefone de :
+Emergência
+2. IDENTIFICAÇÍO DOS PERIGOS
+Classificação da substância ou da mistura
+Nos termos do Regulamento (CE) No1272/2008
+Sólidos comburentes (Categoria 1)
+Toxicidade aguda (Categoria 4)
+De acordo com a directiva Europeia 67/548/CEE, e emendas.
+Pode explodir quando misturado com matérias combustíveis. Nocivo por ingestão.
+Elementos da etiqueta
+Pictograma
+Palavra-sinal Perigo
+Declaração de perigo
+H271 Risco de incêndio ou de explosão; muito comburente.
+H302 Nocivo por ingestão.
+declaração de precaução
+P220 Manter/guardar afastado de roupa/matérias combustíveis.
+símbolo de perigosidade
+O Comburente
+Xn Nocivo
+Frase(s) - R
+R 9 Pode explodir quando misturado com matérias combustíveis.
+R22 Nocivo por ingestão.
+Frase(s) - S
+S13 Manter afastado de alimentos e bebidas incluindo os dos animais.
+S22 Não respirar as poeiras.
+S27 Retirar imediatamente todo o vestuário contaminado.
+Outros Perigos - nenhum(a)
+3. COMPOSIÇÍO/INFORMAÇÍO SOBRE OS COMPONENTES
+Sigma-Aldrich - 241830 Página 1 de 6
+--- PÁGINA 2 ---
+Formula : ClKO4
+Peso molecular : 138,55 g/mol
+No. CAS No. CE No. de Index Classificação Concentração
+Potassium perchlorate
+7778-74-7 231-912-9 017-008-00-5 Ox. Sol. 1; Acute Tox. 4; -
+H271, H302
+O, Xn, R 9 - R22
+Para o pleno texto das DECLARAÇÕES H mencionadas nesta Secção, ver a Secção 16.
+4. PRIMEIROS SOCORROS
+Recomendação geral
+Consultar um médico. Mostrar esta ficha de segurança ao médico de serviço.
+Se for inalado
+Se for respirado, levar a pessoa para o ar fresco. Se não respirar, aplicar a respiração artificial. Consultar um
+médico.
+No caso dum contacto com a pele
+Lavar com sabão e muita água. Consultar um médico.
+No caso dum contacto com os olhos
+Lavar cuidadosamente com muita água, durante pelo menos quinze minutos, e consultar o médico.
+Se for engolido
+Nunca dar nada pela boca a uma pessoa inconsciente. Enxaguar a boca com água. Consultar um médico.
+5. MEDIDAS DE COMBATE A INCÊNDIO
+Meios adequados de extinção
+Utilizar água pulverizada, espuma resistente ao álcool, produto químico seco ou dióxido de carbono.
+Equipamento especial de protecção a utilizar pelo pessoal de combate a incêndio
+Usar equipamento de respiração autónomo para combate a incêndios, se necessário.
+Outras informações
+Os jactos de água podem ser utilizados para arrefecer os contentores fechados.
+6. MEDIDAS A TOMAR EM CASO DE FUGAS ACIDENTAIS
+Precauções individuais
+Usar equipamento de protecção individual. Evitar a formação de poeira. Evitar de respirar o pó. Assegurar
+ventilação adequada. Evacuar o pessoal para áreas de segurança.
+Precauções ambientais
+Não permitir a entrada do produto no sistema de esgotos.
+Métodos e materiais para a contenção e a limpeza
+Apanhar os resíduos sem levantar poeiras. Manter em recipientes fechados adequados, para eliminação.
+7. MANUSEAMENTO E ARMAZENAGEM
+Precauções para um manuseamento seguro
+Evitar a formação de pó e aerossois.
+Providenciar uma adequada ventilação em locais onde se formem poeiras. Manter afastado de qualquer
+chama ou fonte de ignição - Não fumar. Manter afastado de matérias combustíveis.
+Condições para uma armazenagem segura
+Armazenar em local fresco. Guardar o recipiente herméticamente fechado em lugar seco e bem ventilado.
+higroscópico
+Sigma-Aldrich - 241830 Página 2 de 6
+--- PÁGINA 3 ---
+8. CONTROLO DA EXPOSIÇÍO/PROTECÇÍO PESSOAL
+Protecção individual
+Protecção respiratória
+Nos casos em que a avaliação de risco mostrar que os respiradores purificadores do ar são apropriados,
+use um respirador de partículas do tipo N100 (E.U.A.) ou cartuchos de respiração do tipo P2 (EN 143)
+como apoio a controlos de engenharia. Se o respirador for o único meio de protecção, usa um respirador
+de ar de cobertura facial total. Use respiradores e componentes testados e aprovados por normas
+governamentais apropriadas, tais como as NIOSH (E.U.A.) ou CEN (UE).
+Protecção das mãos
+As luvas de protecção seleccionadas devem satisfazer as especificações da Directiva da UE 89/689/CEE
+e a norma EN 374 derivada dela.
+Manusear com luvas.
+Protecção dos olhos
+Óculos de protecção com um lado protector de acordo com EN 166
+Protecção do corpo e da pele
+Escolher uma protecção para o corpo conforme a quantidade e a concentração das substâncias
+perigosas no lugar de trabalho.
+Medidas de higiene
+Manusear de acordo com as boas práticas industriais de higiene e segurança. Lavar as mãos antes de
+interrupções, e no final do dia de trabalho.
+9. PROPRIEDADES FÍSICAS E QUÍMICAS
+Aspecto
+Estado físico cristalino
+Cor branco
+Dados de segurança
+pH 5,0 - 6,5 a 13,9 g/l a 25 °C
+Ponto de fusão 400 °C - dec.
+Ponto de ebulição dados não disponíveis
+Ponto de inflamação não aplicável
+Temperatura de dados não disponíveis
+ignição
+Limites de explosão, dados não disponíveis
+inferior
+Limite de explosão, dados não disponíveis
+superior
+Densidade 2,520 g/cm3
+Hidrossolubilidade ca.13,9 g/l a 20 °C
+10. ESTABILIDADE E REACTIVIDADE
+Estabilidade química
+Estável sob as condições recomendadas de armazenamento.
+Condições a evitar
+dados não disponíveis
+Sigma-Aldrich - 241830 Página 3 de 6
+--- PÁGINA 4 ---
+Matérias a evitar
+Agentes redutores fortes, Metais em pó, Ácidos fortes, Materiais orgânicos, Forma misturas sensíveis aos
+choques com outras substâncias., Alcoois
+Produtos de decomposição perigosos
+Produtos perigosos de decomposição formados durante os incêndios. - Cloreto de hidrogénio gasoso, Óxidos
+de potássio
+11. INFORMAÇÍO TOXICOLÓGICA
+Toxicidade aguda
+dados não disponíveis
+Corrosão/irritação cutânea
+dados não disponíveis
+dados não disponíveis
+Lesões oculares graves/irritação ocular
+dados não disponíveis
+Sensibilização respiratória ou da pele
+dados não disponíveis
+Mutagenicidade em células germinativas
+dados não disponíveis
+Carcinogenicidade
+IARC: Nenhum componente deste produto presente a níveis maiores ou iguais a 0.1% é identificado como
+carcinogénio provável, possível ou confirmado pelo IARC.
+Toxicidade reprodutiva
+Efeitos tóxicos no desenvolvimento - ratazana - Oral
+Malformações Específicas do Desenvolvimento: sistema endócrino
+Toxicidade para órgãos-alvo específicos - exposição única
+dados não disponíveis
+Toxicidade para órgãos-alvo específicos - exposição repetida
+dados não disponíveis
+Perigo de aspiração
+dados não disponíveis
+Efeitos potenciais para a saúde
+Inalação Pode ser perigoso se for inalado. Pode causar uma irritação do aparelho
+respiratório.
+Ingestão Nocivo por ingestão.
+Pele Pode ser perigoso se for absorto pela pele. Pode causar uma irritação da pele.
+Olhos Pode causar uma irritação dos olhos.
+Sinais e sintomas de exposição
+Doenças do sangue, A absorção pelo organismo leva à formação de metemoglobina que em concentração
+suficiente provoca cianose. O início pode demorar de 2 a 4 horas ou mais.
+Informação adicional
+RTECS: SC9700000
+12. INFORMAÇÍO ECOLÓGICA
+Toxicidade
+Toxicidade em CE50 - Daphnia magna - 670 mg/l - 24 h
+dáfnias e outros
+invertebrados
+aquáticos.
+Sigma-Aldrich - 241830 Página 4 de 6
+--- PÁGINA 5 ---
+Persistência e degradabilidade
+dados não disponíveis
+Potencial de bioacumulação
+dados não disponíveis
+Mobilidade no solo
+dados não disponíveis
+Avaliação PBT e mPmB
+dados não disponíveis
+Outros efeitos adversos
+dados não disponíveis
+dados não disponíveis
+13. CONSIDERAÇÕES RELATIVAS À ELIMINAÇÍO
+Produto
+Observar todos os regulamentos ambientais federais, estaduais e locais. Entrar em contato com um serviço
+profissional credenciado de descarte de lixo para descartar esse material. Dissolver ou misturar o material
+com um solvente combustível e queimar em incinerador químico equipado com pós-combustor e purificador
+de gases.
+Embalagens contaminadas
+Eliminar como produto Não utilizado.
+14. INFORMAÇÕES RELATIVAS AO TRANSPORTE
+ADR/RID
+Número ONU: 1489 Classe: 5.1 Grupo de embalagem: II
+Denominação de expedição correcta: PERCLORATO DE POTÁSSIO
+IMDG
+Número ONU: 1489 Classe: 5.1 Grupo de embalagem: II EMS-No:
+F-H, S-Q
+Denominação de expedição correcta: POTASSIUM PERCHLORATE
+Poluente marinho: No
+IATA
+Número ONU: 1489 Classe: 5.1 Grupo de embalagem: II
+Denominação de expedição correcta: Potassium perchlorate
+15. INFORMAÇÍO SOBRE REGULAMENTAÇÍO
+Esta folha de dados de segurança obedece aos requerimentos da Regulamento (CE) No. 1907/2006
+16. OUTRAS INFORMAÇÕES
+Texto dos código(s) H e frase(s) R mencionados na secção 3
+Acute Tox. Toxicidade aguda
+H271 Risco de incêndio ou de explosão; muito comburente.
+H302 Nocivo por ingestão.
+Ox. Sol. Sólidos comburentes
+O Comburente
+Xn Nocivo
+R 9 Pode explodir quando misturado com matérias combustíveis.
+R22 Nocivo por ingestão.
+Outras informações
+Direitos exclusivos, 2010, da Sigma-Aldrich. Permissão concedida para fazer número ilimitado de cópias
+em papel, somente para uso interno.
+Sigma-Aldrich - 241830 Página 5 de 6
+--- PÁGINA 6 ---
+Acredita-se que as informações acima estejam corretas, embora não pretendam ser totalmente
+abrangentes, devendo ser usadas apenas como um guia. A Sigma-Aldrich não deverá ter responsabilidade
+legal por quaisquer danos resultantes do manuseio ou do contato com o produto acima. Consultar o verso
+da fatura ou nota que acompanha o produto para tomar conhecimento dos termos adicionais e condições
+de venda.
+Sigma-Aldrich - 241830 Página 6 de 6

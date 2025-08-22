@@ -1,0 +1,630 @@
+--- PÁGINA 1 ---
+SIGMA-ALDRICH
+FOLHA DE DADOS DE SEGURANÇA DO PRODUTO (MSDS)
+Data de impressão 01/24/2011
+Data de Actualização. 04/03/2009
+Versão 1.2
+Secção 1 - Informação sobre o Produto e sobre a Companhia
+Nome do produto N,N-DIMETHYLFORMAMIDE
+Referência do Produto D4254
+Marca SIGMA
+Companhia Sigma-Aldrich Brasil Ltda.
+Direcção Av. das Nações Unidas, 23.043
+São Paulo SP 04795-100 BR
+Número do Serviço Técnico 55 11 3732 3100
+Número de Fax 55 11 5522 9895
+Número de Telefone de
+Secção 2 - Composição / Informação sobre os ingredientes.
+Nome da Substância Número CAS SARA 313
+DIMETHYLFORMAMIDE 68-12-2 Sim
+Fórmula C3H7NO
+Sinónimos Dimethylamid kyseliny mravenci (Czech) *
+Dimethylformamid (German) * Dimethyl formamide *
+N,N-Dimethyl formamide * Dimethylformamide
+(ACGIH:OSHA) * N,N-Dimethylmethanamide *
+Dimetilformamide (Italian) * Dimetylformamidu
+(Czech) * DMF * DMFA * Dwumetyloformamid (Polish)
+* N-Formyldimethylamine * NCI-C60913 * NSC 5356 *
+U-4224
+Número da LQ2100000
+RTECS
+Secção 3 - Identificação de Perigo
+INSTRUÇÕES EM CASO DE EMERGÊNCIA
+Tóxico
+Pode ser prejudicial ao feto. Também risco de efeitos graves para
+a saúde em caso de exposição prolongada. Irritante para os olhos e
+pele.
+Combustível. Facilmente absorvido pela pele. Órgão(s)-alvo: Fígado
+Rins
+CLASSIFICAÇÍO DA HMIS
+SAÚDE: 2*
+INFLAMABILIDADE: 2
+REACTIVIDADE: 0
+CLASSIFICADO PELA NFPA
+SAÚDE: 2
+INFLAMABILIDADE: 2
+REACTIVIDADE: 0
+*perigos crónicos adicionais presentes.
+Para informação adicional referente à toxicidade, consulte por
+--- PÁGINA 2 ---
+favor a seção 11.
+Secção 4. Primeiros Socorros
+EXPOSIÇÍO ORAL
+Em caso de ingestão, lavar a boca com água, desde que a pessoa
+esteja consciente. Chamar um médico imediatamente.
+EXPOSIÇÍO POR INALAÇÍO
+Em caso de inalação, levar o paciente para o ar fresco. Em caso
+de ausência de respiração, administrar respiração artificial. Se
+a respiração estiver difícil, administrar oxigênio.
+EXPOSIÇÍO DÉRMICA
+Em caso de contato com a pele, lavar com água em abundância por,
+no mínimo, 15 minutos. Tirar as roupas e calçados contaminados.
+Chamar um médico.
+EXPOSIÇÍO OCULAR
+Em caso de contato com os olhos, lavar com água em abundância
+por, no mínimo, 15 minutos. Separar as pálpebras com os dedos
+para garantir uma lavagem adequada. Chamar um médico.
+Secção 5 - Procedimento em caso de incêndio
+PONTO DE INFLAMAÇÍO
+136.4 °F 58 °C Método: Copa fechada.
+LIMITES DA EXPLOSÍO
+Inferior: 2.2 % Superior: 15.2 %
+TEMPERATURA DE AUTOIGNIÇÍO
+445 °C
+INFLAMABILIDADE
+N/A
+MEIOS DE EXTINÇÍO DE FOGOS
+Adequado: Para fogos incipientes ou pequenos usar meios como
+espuma de álcool, pó seco ou dióxido de carbono. Para grandes
+fogos aplicar agua desde o mais longe possível, usar grandes
+quantidades de agua (inundação)aplicadas como nevoeiro ou spray;
+córregos sólidos de agua podem não ser efectivos. Esfrie todos
+os depósitos ou vasilhas com grandes e inundantes quantidades de
+agua.
+COMBATE AOS INCÊNDIOS
+Equipamento de protecção: Utilizar aparelho de respiração
+autônomo e vestimenta de proteção para impedir o contato com a
+pele e com os olhos.
+Risco(s) específico(s): Emite vapores tóxicos em situações de
+incêndio.
+Secção 6 - Procedimento em caso de fuga acidental de produto
+PROCEDIMENTO EM CASO DE FUGA OU DERRAME
+Evacuar a área.
+PROCEDIMENTO(S) DE PROTECÇÍO INDIVIDUAL
+Usar aparelho de respiração autônoma, botas de borracha e luvas
+pesadas de borracha. Vestir capas descartáveis e descartá-las
+após o uso.
+SIGMA - D4254 www.sigma-aldrich.com Page 2
+--- PÁGINA 3 ---
+MÉTODOS DE LIMPEZA
+Cobrir com calcário ou carbonato de cálcio neutro seco,
+recolher, manter em recipiente fechado até o seu descarte.
+Ventilar a área e lavar o local derramado depois de terminar o
+recolhimento do material.
+Secção 7 - Instruções de manipulação e armazenamento
+MANIPULAÇÍO
+Exposição do Usuário: Não respirar o vapor. Não respirar a
+névoa. Não deixar que toque nos olhos, na pele ou no vestuário.
+Evitar a exposição prolongada ou repetida.
+ARMAZENAMENTO
+Adequado: Manter hermeticamente fechado. Manter longe do calor e
+de chamas abertas. Armazenar em local fresco e seco.
+Secção 8 - Controlos de exposição / Medidas de protecção individual.
+CONTROLOS MECÂNICOS
+Usar exclusivamente em capela para vapores químicos. Ducha de
+segurança e lava-olhos.
+EQUIPAMENTO DE PROTECÇÍO INDIVIDUAL
+Respiratório: Use respiradores e componentes testados e aprovados
+por normas govername ntais apropriadas, tais como as NIOSH
+(E.U.A.) ou CEN (UE). Nos casos em que a avaliação de risco
+mostrar que os respiradores purificadores do ar são apropriados,
+use um respirador de cobertura facial total com cartuchos de
+combinação multi-objectivos (E.U.A.) ou do tipo ABEK (EN 14387)
+como apoio a controlos de engenharia. Se o respirador for o único
+meio de protecção, usa um respirador de ar de cobertura facial
+total.
+Mão: Luvas compatíveis resistentes a produtos químicos
+Olhos: Óculos de segurança química.
+MEDIDAS DE HIGIENE GERAL
+Lavar bem após o manuseio. Lavar as vestimentas contaminadas antes
+de utilizá-las novamente. Descartar os sapatos contaminados.
+LIMITES DE EXPOSIÇÍO, RTECS
+País Origem Tipo Valor
+EUA ACGIH TWA (Média10 PPM
+Observações: Pele
+EUA Padrão de ar MSHA TWA (Média10 PPM (30 MG/M3) (SKIN)
+EUA OSHA. PEL (Límit8H TWA 10 PPM (30 MG/M3) (SKIN
+Nova ZelândiOEL
+Observações: Controlo ACGIH TLV
+EUA NIOSH TWA (Média10 PPM (SK)
+LIMITES DE EXPOSIÇÍO
+País Origem Tipo Valor
+Polónia NDS 10 MG/M3
+Polónia NDSCh -
+Polónia NDSP -
+Secção 9 - Propriedades Físicas e Químicas
+Aparência Estado Físico: Líquido Líquido
+Cor: Incolor
+Forma: Líquido claro
+SIGMA - D4254 www.sigma-aldrich.com Page 3
+--- PÁGINA 4 ---
+Cheiro: Cheiro de peixe
+Propriedade Valor A temperatura ou pressão
+Peso molecular 73.1 AMU
+pH 6.7
+Ponto de Ebulição/ 153.0 - 155.0 °C
+Intervalo de pontos de
+ebulição
+Ponto de - 61.0 °C
+fusão/Intervalo de
+pontos de fusão
+Ponto de congelação N/A
+Pressão de vapor 2.7 mmHg 20 °C
+Densidade de vapor 2.5 g/l
+Concentração de vapor N/A
+saturado
+Peso 0.948 g/cm3
+específico/densidade
+Massa Volúmica Aparente N/A
+Umbral de Odor N/A
+% de compostos voláteis N/A
+Conteúdo de Compostos N/A
+Orgânicos Voláteis
+Conteúdo em água N/A
+Conteúdo de Solventes N/A
+Taxa de evaporação N/A
+Viscosidade < 1 Pas 20 °C
+Tensão superficial N/A
+Coeficiente de partição Log Kow: - 1.010
+Temperatura de N/A
+decomposição
+Ponto de inflamação 136.4 °F 58 °C Método: Copa fechada.
+Limites da explosão Inferior: 2.2 %
+Superior: 15.2 %
+Inflamabilidade N/A
+Temperatura de 445 °C
+autoignição
+Índice de refracção 1.43
+Rotação Óptica N/A
+Dados diversos N/A
+Solubilidade Solubilidade em água.: Miscível.
+Outros solventes.: ALCOHOL, ETHER, ACETONE
+N/A = noa disponivel
+Secção 10 - Estabilidade e reactividade
+ESTABILIDADE
+Estável: Estável.
+Produtos a evitar: Agentes oxidantes fortes.
+PRODUTOS DE DECOMPOSIÇÍO PERIGOSOS
+Produtos de decomposição perigosos: A decomposição térmica pode
+produzir monóxido de carbono, dióxido de carbono e óxidos de
+nitrogênio.
+POLIMERIZAÇÍO PERIGOSA
+Polimerização perigosa: Não ocorrerá
+Secção 11 - Informação Toxicológica
+SIGMA - D4254 www.sigma-aldrich.com Page 4
+--- PÁGINA 5 ---
+VIA DE EXPOSIÇÍO
+Contacto cutâneo: Pode provocar irritação da pele.
+Absorção cutânea: Facilmente absorvido pela pele. Nocivo se
+absorvido através da pele.
+Contacto ocular: Provoca irritação nos olhos.
+Inalação: O material pode ser irritante para as membranas
+mucosas e para o trato respiratório superior. Nocivo se inalado.
+Ingestão: Pode ser nocivo se deglutido.
+ORGÍOS OU SISTEMAS ALVO.
+Sangue Sistema cardiovascular Sistema nervoso central Rins Fígado
+SINAIS E SINTOMAS DE EXPOSIÇÍO
+Atenção: a intolerância ao álcool pode ocorrer até 4 dias após a
+exposição à dimetilformamida. A N,N-dimetilformamida é
+considerada uma toxina potente para o fígado. Até onde sabemos,
+as propriedades químicas, físicas e toxicológicas não foram
+minuciosamente investigadas. Dores de estômago, vômito,
+diarréia. A exposição pode provocar:
+DADOS DE TOXICIDADE
+Pele
+Coelho
+4,720 mg/kg
+LD50
+Oral
+Ratazana
+2,800 mg/kg
+LD50
+6 HR
+Inalação
+Ratazana
+6,000 ppm
+Oral
+Ratazana
+2800 mg/kg
+LD50
+intraperitoneal
+Ratazana
+1400 MG/KG
+LD50
+Observações: Nutrição e Metabolismo geral: Alterações:Perda de
+peso ou diminuição do seu aumento. Comportamento: Sonolência
+(diminuição da actividade geral) Comportamento: Debilidade
+muscular
+Subcutâneo
+Ratazana
+3800 MG/KG
+LD50
+intravenoso
+Ratazana
+2 GM/KG
+LD50
+Oral
+Rato.
+2900 mg/kg
+LD50
+SIGMA - D4254 www.sigma-aldrich.com Page 5
+--- PÁGINA 6 ---
+Inalação
+Rato.
+9,400 mg/m3
+LC50
+Observações: Comportamento: Convulsões ou acção sobre o
+despoletamento da crise epiléptica. Comportamento: Debilidade
+muscular Pulmões, tórax ou respiração: Dispnéia
+intraperitoneal
+Rato.
+650 MG/KG
+LD50
+Subcutâneo
+Rato.
+4500 MG/KG
+LD50
+intravenoso
+Rato.
+2500 MG/KG
+LD50
+Intramuscular
+Rato.
+3900 MG/KG
+LD50
+intravenoso
+Cão
+470 MG/KG
+LD50
+intraperitoneal
+Gato
+500 MG/KG
+LD50
+Observações: Rins, ureteres e bexiga urinária: outras alterações
+da composição da urina. Fígado:Outras alterações. Sangue:
+Alterações da contagem celular (não especificadas)
+Oral
+Coelho
+5000 mg/kg
+LD50
+Pele
+Coelho
+4720 mg/kg
+LD50
+intraperitoneal
+Coelho
+1 GM/KG
+LD50
+Observações: Fígado:Outras alterações. Rins, ureteres e bexiga
+urinária: outras alterações da composição da urina. Sangue:
+Alterações da contagem celular (não especificadas)
+intravenoso
+Coelho
+SIGMA - D4254 www.sigma-aldrich.com Page 6
+--- PÁGINA 7 ---
+1800 MG/KG
+LD50
+intravenoso
+Porquinho da Índia
+1050 MG/KG
+LD50
+DADOS DA RTECS SOBRE A IRRITAÇÍO
+Pele
+Humano
+100 %
+24H
+Observações: Efeito reactivo moderado.
+Olhos
+Coelho
+100 mg
+Observações: Enxaguar
+CANCERÍGENO POR EXPOSIÇÍO CRÓNICA
+Resultado: Este produto é ou contém um componente que não é
+classificável quanto à sua carcinogenicidade segundo sua
+classificação pela IARC, ACGIH, NTP ou EPA.
+LISTA DE CANCERÍGENOS DA IARC
+Classificação: Grupo 3
+LISTA DE CANCERÍGENOS DA ACGIH
+Classificação: A4
+TERATOGÉNICO - EXPOSIÇÍO CRÓNICA
+Resultado: Pode provocar malformações congênitas no feto.
+Espécie: Ratazana
+Dose: 5330 UL/KG
+Via de aplicação: Oral
+Tempo de exposição: (6-15D PREG)
+Resultado: Efeitos no embrião ou no feto: Fetotoxicidade
+(excepto a morte, por exemplo, atrofia do feto). Malformações
+Específicas do Desenvolvimento: Sistema musculoesquelético
+Espécie: Ratazana
+Dose: 300 PPM/6H
+Via de aplicação: Inalação
+Tempo de exposição: (6-15D PREG)
+Resultado: Efeitos no embrião ou no feto: Fetotoxicidade
+(excepto a morte, por exemplo, atrofia do feto).
+Espécie: Ratazana
+Dose: 3600 MG/KG
+Via de aplicação: Pele
+Tempo de exposição: (11-13D PREG)
+Resultado: Efeitos no embrião ou no feto: morte fetal
+Espécie: Ratazana
+Dose: 7552 MG/KG
+Via de aplicação: Pele
+Tempo de exposição: (6-15D PREG)
+SIGMA - D4254 www.sigma-aldrich.com Page 7
+--- PÁGINA 8 ---
+Resultado: Efeitos no embrião ou no feto: Fetotoxicidade
+(excepto a morte, por exemplo, atrofia do feto). Efeitos no
+embrião ou no feto: Outros efeitos sobre o embrião
+Espécie: Rato.
+Dose: 1820 MG/KG
+Via de aplicação: Oral
+Tempo de exposição: (6-15D PREG)
+Resultado: Efeitos no embrião ou no feto: Fetotoxicidade
+(excepto a morte, por exemplo, atrofia do feto).
+Espécie: Rato.
+Dose: 15120 MG/KG
+Via de aplicação: intraperitoneal
+Tempo de exposição: (1-14D PREG)
+Resultado: Malformações Específicas do Desenvolvimento: Sistema
+musculoesquelético Anomalias Específicas do desenvolvimento:
+crâniofaciais (incluíndo nariz e lingua) Malformações
+Específicas do Desenvolvimento: outras anomalias do
+desenvolvimento
+Espécie: Coelho
+Dose: 2600 MG/KG
+Via de aplicação: Oral
+Tempo de exposição: (6-18D PREG)
+Resultado: Malformações Específicas do Desenvolvimento: Sistema
+musculoesquelético Malformações Específicas do Desenvolvimento:
+superfície corporal. Malformações Específicas do
+desenvolvimento: Sistema nervoso central
+Espécie: Coelho
+Dose: 2600 MG/KG
+Via de aplicação: Oral
+Tempo de exposição: (6-18D PREG)
+Resultado: Efeitos no embrião ou no feto: Fetotoxicidade
+(excepto a morte, por exemplo, atrofia do feto).
+Espécie: Coelho
+Dose: 450 PPM/6H
+Via de aplicação: Inalação
+Tempo de exposição: (7-19D PREG)
+Resultado: Malformações Específicas do Desenvolvimento: Sistema
+musculoesquelético Malformações Específicas do Desenvolvimento:
+superfície corporal. Efeitos no embrião ou no feto:
+Fetotoxicidade (excepto a morte, por exemplo, atrofia do feto).
+Espécie: Coelho
+Dose: 5200 MG/KG
+Via de aplicação: Pele
+Tempo de exposição: (6-18D PREG)
+Resultado: Efeitos no embrião ou no feto: Outros efeitos sobre o
+embrião
+EXPOSIÇÍO CRÓNICA: AGENTE MUTAGÉNICO
+Espécie: Humano
+Via: Inalação
+Dose: 12300 UG/M3/Y
+Teste de Mutações.: Análises citogenéticas
+Espécie: Humano
+Dose: 100 NMOL/L
+SIGMA - D4254 www.sigma-aldrich.com Page 8
+--- PÁGINA 9 ---
+Tipo de Célula: linfócito
+Teste de Mutações.: Análises citogenéticas
+Espécie: Ratazana
+Via: Inalação
+Dose: 10700 UG/M3
+Teste de Mutações.: Ensaio de dominantes letais
+Espécie: Rato.
+Via: intraperitoneal
+Dose: 500 UG/KG
+Tempo de exposição: 24H
+Teste de Mutações.: Teste do micronúcleo
+Espécie: Rato.
+Via: intraperitoneal
+Dose: 40 UMOL/KG
+Teste de Mutações.: Análises citogenéticas
+Espécie: Rato.
+Dose: 5 GM/L
+Tipo de Célula: linfócito
+Teste de Mutações.: Mutação de células somáticas de mamíferos.
+Espécie: Rato.
+Dose: 4250 UG/KG
+Tipo de Célula: S. typhimurium
+Teste de Mutações.: Ensaios do anfitrião intermediário
+EXPOSIÇÍO CRÓNICA: PERIGOSO PARA O SISTEMA REPRODUCTIVO
+Espécie: Ratazana
+Dose: 5030 MG/KG
+Via de aplicação: Oral
+Tempo de exposição: (6-15D PREG)
+Resultado: Efeitos sobre a fertilidade: Mortalidade
+post-implantação (por exemplo: nº de implantes mortos ou
+reabsorvidos por nº total de implantes) Efeitos no embrião ou no
+feto: Fetotoxicidade (excepto a morte, por exemplo, atrofia do
+feto). Efeitos no embrião ou no feto: Estruturas
+extra-embrionárias (por exemplo, placenta, cabo umbilical)
+Espécie: Ratazana
+Dose: 800 PPM/6H
+Via de aplicação: Inalação
+Tempo de exposição: (13W PRE)
+Resultado: Efeito sobre o aparelho reprodutor femenino: Outros
+efeitos. Sistema endócrino: Efeito sobre a menstruação
+Espécie: Ratazana
+Dose: 50 PPM/6H
+Via de aplicação: Inalação
+Tempo de exposição: (13W MALE)
+Resultado: Efeito sobre o aparelho reprodu tor masculino:
+Esparmatogénese (incluíndo o material genético e amorfologia,
+mobilidade e contagem dos espermatozóides)
+Espécie: Ratazana
+Dose: 4 MG/M3/4H
+Via de aplicação: Inalação
+Tempo de exposição: (1-19D PREG)
+Resultado: Efeitos no embrião ou no feto: morte fetal Efeitos no
+SIGMA - D4254 www.sigma-aldrich.com Page 9
+--- PÁGINA 10 ---
+embrião ou no feto: Fetotoxicidade (excepto a morte, por
+exemplo, atrofia do feto). Efeitos sobre fertilidade:
+Mortalidade antes da implantação (por exemplo: a redução do
+número de implantes por fêmea; nº total de implantes por corpo
+lúteo)
+Espécie: Ratazana
+Dose: 600 MG/M3/24H
+Via de aplicação: Inalação
+Tempo de exposição: (1-19D PREG)
+Resultado: Efeitos no recém nascido: comportamentais
+Espécie: Ratazana
+Dose: 287 PPM/6H
+Via de aplicação: Inalação
+Tempo de exposição: (0-19D PREG)
+Resultado: Efeitos no embrião ou no feto: Fetotoxicidade
+(excepto a morte, por exemplo, atrofia do feto). Efeitos sobre a
+fertilidade: Mortalidade post-implantação (por exemplo: nº de
+implantes mortos ou reabsorvidos por nº total de implantes)
+Efeitos no embrião ou no feto: Estruturas extra-embrionárias
+(por exemplo, placenta, cabo umbilical)
+Espécie: Ratazana
+Dose: 20 GM/KG
+Via de aplicação: Pele
+Tempo de exposição: (6-15D PREG)
+Resultado: Efeitos sobre fertilidade: Mortalidade antes da
+implantação (por exemplo: a redução do número de implantes por
+fêmea; nº total de implantes por corpo lúteo) Efeitos sobre a
+fertilidade: Mortalidade post-implantação (por exemplo: nº de
+implantes mortos ou reabsorvidos por nº total de implantes)
+Efeitos no embrião ou no feto: Fetotoxicidade (excepto a morte,
+por exemplo, atrofia do feto).
+Espécie: Ratazana
+Dose: 20 GM/KG
+Via de aplicação: Pele
+Tempo de exposição: (1-20D PREG)
+Resultado: Efeitos sobre a fertilidade: Índice de fertilidade
+das fêmeas (po rexemplo, nº de fêmeas grávidas por nº fêmeas
+acasaladas). Efeitos no recém nascido: efeitos a largo prazo.
+Espécie: Rato.
+Dose: 200 PPM/6H
+Via de aplicação: Inalação
+Tempo de exposição: (13W PRE)
+Resultado: Sistema endócrino: Efeito sobre a menstruação Efeito
+sobre o aparelho reprodutor femenino: Outros efeitos.
+Espécie: Rato.
+Dose: 2100 MG/KG
+Via de aplicação: intraperitoneal
+Tempo de exposição: (11D PREG)
+Resultado: Efeitos sobre a fertilidade: Mortalidade
+post-implantação (por exemplo: nº de implantes mortos ou
+reabsorvidos por nº total de implantes) Efeitos no embrião ou no
+feto: Fetotoxicidade (excepto a morte, por exemplo, atrofia do
+feto).
+Espécie: Coelho
+Dose: 450 PPM/8H
+SIGMA - D4254 www.sigma-aldrich.com Page 10
+--- PÁGINA 11 ---
+Via de aplicação: Inalação
+Tempo de exposição: (7-19D PREG)
+Resultado: Malformações Específicas do Desenvolvimento: Sistema
+gastrointestinal Malformações Específicas do Desenvolvimento:
+Sistema musculoesquelético Efeito sobre o aparelho reprodutor
+femenino: Outros efeitos.
+Secção 12 - Informação Ecológica.
+Nenhun dado disponível
+TESTES DE ECOTOXICIDADE AGUDA
+Tipo de teste: EC50 Daphnia
+Espécie: Daphnia magna
+Tempo: 48 h
+Valor: 9,600.0 - 13,100.0 mg/l
+Tipo de teste: LC50 Peixe
+Espécie: Lepomis macrochirus
+Tempo: 96 h
+Valor: 6,700.0 - 7,500.0 mg/l
+Tipo de teste: LC50 Peixe
+Espécie: Onchorhynchus mykiss
+Tempo: 96 h
+Valor: 9,000.0 - 13,000.0 mg/l
+Tipo de teste: LC50 Peixe
+Espécie: Pimephales promelas
+Tempo: 96 h
+Valor: 10,400.0 - 10,800.0 mg/l
+Secção 13 - Considerações sobre a eliminação de resíduos.
+MÉTODO APROPRIADO PARA ELIMINAÇÍO DE SUBSTÂNCIAS OU PREPARAÇÕES.
+Esse material combustível deve ser queimado em um incinerador
+químico equipado com um pós-combustor e purificador de gases.
+Observar todos os regulamentos ambientais federais, estaduais e
+locais.
+Secção 14 - Informações sobre o Transporte
+DOT
+Nome Apropriado para Embarque: N,N-Dimethylformamide
+Número da UN: 2265
+Classe: 3
+Grupo da embalagem: Packing Group III
+Etiqueta de Perigo: Flammable liquid
+PIH: Not PIH
+IATA
+Nome Apropriado para Embarque: N,N-Dimethylformamide
+Numero UN IATA: 2265
+Classe de perigo: 3
+Grupo da embalagem: III
+Secção 15 - Informações sobre a normativa vigente.
+DIRECTIVAS DE CLASSIFICAÇÍO DA EU.
+Símbolo de Perigo: T
+Indicação de perigo.: Tóxico.
+R: 61-20/21-36
+SIGMA - D4254 www.sigma-aldrich.com Page 11
+--- PÁGINA 12 ---
+Frases de Risco: Pode ser prejudicial ao feto. Também risco de
+efeitos graves para a saúde em caso de exposição prolongada.
+Irritante para os olhos.
+S: 53-45
+Frase de Segurança.: Uso restringido a profissionais. Atenção -
+Evitar a exposição - obteras instrucções especiais antes de
+usar. Em caso de acidente ou mal-estar, procurar ajuda médica
+imediatamente (se possível, mostrar a etiqueta).
+CLASIFICAÇÍO E CONTEÚDO DAS ETIQUETAS SEGUNDA A NORMATIVA DOS EUA.
+Indicação de perigo.: Tóxico
+Frases de Risco: Pode ser prejudicial ao feto. Também risco de
+efeitos graves para a saúde em caso de exposição prolongada.
+Irritante para os olhos e pele.
+Frase de Segurança.: Em caso de acidente ou mal-estar, procurar
+ajuda médica imediatamente (se possível, mostrar a etiqueta).
+Usar roupas, luvas e dispositivos adequados de proteção para
+olhos e rosto. Não inalar o vapor.
+Instruções segundo a normativa vigente nos EUA.: Combustível.
+Facilmente absorvido pela pele. Órgão(s)-alvo: Fígado Rins
+INFORMAÇÍO REGULAMENTARIA DOS EEUU
+INCLUÍDO NAS LISTA DA SARA: Sim
+DEMINIMIS: 1 %
+NOTAS: A obrigação de declarar este produto está ao abrigo da
+Secção 313 do relatório da SARA (Superfund Amendments and
+Reauthorization, Programa Federal do Ministério do Ambiente que
+regula os produtos, responsável em caso de acidentes químicos).
+PRODUTO INVENTARIADO PELA TSCA: Sim
+INFORMAÇÍO SOBRE LEGISLAÇÍO EM VIGOR NO CANADÁ
+Classificação da WHMIS: Este produto foi classificado de acordo
+conm os critérios de perigo doCPR. A MSDS contém toda a
+informação exigida pela CPR.
+DSL: Sim
+NDSL: Não
+Secção 16 - Outras informações
+AVISO LEGAL:
+Deve ser usado somente para I+D e investigação. Não é apto para
+fabricação de medicamentos, material de uso doméstico ou outros
+usos.
+GARANTIA
+Acredita-se que as informações acima estejam corretas, embora não
+pretendam ser totalmente abrangentes, devendo ser usadas apenas
+como um guia. A Sigma não deverá ter responsabilidade legal por
+quaisquer danos resultantes do manuseio ou do contato com o
+produto acima. Consultar o verso da fatura ou nota que acompanha o
+produto para tomar conhecimento dos termos adicionais e condições
+de venda. Direitos exclusivos, 2007, da Sigma-Aldrich Co.
+Permissão concedida para fazer número ilimitado de cópias em
+papel, somente para uso interno.
+SIGMA - D4254 www.sigma-aldrich.com Page 12

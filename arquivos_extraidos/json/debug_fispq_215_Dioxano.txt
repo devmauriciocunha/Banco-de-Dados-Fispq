@@ -1,0 +1,158 @@
+--- PÁGINA 1 ---
+Ficha de Informação de Produto Químico
+IDENTIFICAÇÍO Help
+Número ONU Nome do produto Rótulo de risco
+1165 1,4 - DIOXANO
+Número de risco Classe / Subclasse
+33 3
+Sinônimos
+DI (ÓXIDO DE ETILENO) ; p - DIOXANO
+Aparência
+LÍQUIDO; SEM COLORAÇÍO; ODOR LEVE DE ÁLCOOL; AFUNDA E MISTURA COM ÁGUA; INFLAMÁVEL; PRODUZ VAPOR
+IRRITANTE
+Fórmula molecular Família química
+C4 H8 O2 ÉTER
+Fabricantes
+Para informações atualizadas recomenda-se a consulta às seguintes instituições ou referências:
+ABIQUIM - Associação Brasileira da Indústria Química : Fone 0800-118270
+ANDEF - Associação Nacional de Defesa Vegetal: Fone (11) 3081-5033
+Revista Química e Derivados - Guia geral de produtos químicos, Editora QD: Fone (11) 3826-6899
+Programa Agrofit - Ministério da Agricultura
+MEDIDAS DE SEGURANÇA Help
+Medidas preventivas imediatas
+EVITAR CONTATO COM O LÍQUIDO E O VAPOR. MANTER AS PESSOAS AFASTADAS. CHAMAR OS BOMBEIROS. PARAR O
+VAZAMENTO, SE POSSÍVEL. ISOLAR E REMOVER O MATERIAL DERRAMADO. DESLIGAR AS FONTES DE IGNIÇÍO. FICAR
+CONTRA O VENTO E USAR NEBLINA D'ÁGUA PARA BAIXAR O VAPOR.
+Equipamentos de Proteção Individual (EPI)
+USAR LUVAS, BOTAS E ROUPAS DE BORRACHA BUTÍLICA OU NATURAL, PVC OU NEOPRENE E MÁSCARA FACIAL PANORAMA
+COM FILTRO CONTRA VAPORES ORGÂNICOS.
+RISCOS AO FOGO Help
+Ações a serem tomadas quando o produto entra em combustão
+EXTINGUIR COM PÓ QUÍMICO SECO, ESPUMA DE ÁLCOOL OU DIÓXIDO DE CARBONO ESFRIAR OS RECIPIENTES EXPOSTOS,
+COM ÁGUA.
+Comportamento do produto no fogo
+O RETROCESSO DA CHAMA PODE OCORRER DURANTE O ARRASTE DE VAPOR. O VAPOR PODE EXPLODIR, SE A IGNIÇÍO FOR
+EM ÁREA FECHADA.
+Produtos perigosos da reação de combustão
+PRODUZ VAPORES TÓXICOS QUANDO AQUECIDO.
+Agentes de extinção que não podem ser usados
+A ÁGUA PODE SER INEFICAZ NO FOGO.
+Limites de inflamabilidade no ar
+Limite Superior: 22,5%
+Limite Inferior: 1,97%
+Ponto de fulgor
+12,2°C(V.FECHADO); 23,3°C(V.ABERTO)
+Temperatura de ignição
+180,1 °C
+Taxa de queima
+DADO NÍO DISPONÍVEL
+Taxa de evaporação (éter=1)
+5,8
+NFPA (National Fire Protection Association)
+Perigo de Saúde (Azul): 2
+--- PÁGINA 2 ---
+Inflamabilidade (Vermelho): 3
+Reatividade (Amarelo): 1
+PROPRIEDADES FÍSICO-QUÍMICAS E AMBIENTAIS Help
+Peso molecular Ponto de ebulição (°C) Ponto de fusão (°C)
+88,11 101,3 10
+Temperatura crítica (°C) Pressão crítica (atm) Densidade relativa do vapor
+314 51,4 NÍO PERTINENTE
+Densidade relativa do líquido (ou Pressão de vapor Calor latente de vaporização (cal/g)
+sólido) 40 mm Hg A 25,2ºC 98,6
+1,036 A 20 °C (LÍQUIDO)
+Calor de combustão (cal/g) Viscosidade (cP)
+-6.440 DADO NÍO DISPONÍVEL
+Solubilidade na água pH
+MISCÍVEL DND
+Reatividade química com água
+NÍO REAGE.
+Reatividade química com materiais comuns
+NÍO REAGE.
+Polimerização
+NÍO OCORRE.
+Reatividade química com outros materiais
+INCOMPATÍVEL COM OXIDANTES FORTES.
+Degradabilidade
+DADO NÍO DISPONÍVEL.
+Potencial de concentração na cadeia alimentar
+NENHUM.
+Demanda bioquímica de oxigênio (DBO)
+0% (TEOR.), 10 DIAS.
+Neutralização e disposição final
+QUEIMAR EM UM INCINERADOR QUÍMICO EQUIPADO COM PÓS-QUEIMADOR E LAVADOR DE GASES. TOMAR OS DEVIDOS
+CUIDADOS NA IGNIÇÍO, POIS O PRODUTO É ALTAMENTE INFLAMÁVEL. RECOMENDA-SE O ACOMPANHAMENTO POR UM
+ESPECIALISTA DO ÓRGÍO AMBIENTAL.
+INFORMAÇÕES ECOTOXICOLÓGICAS Help
+Toxicidade - limites e padrões
+L.P.O.: 620 mg/m³
+P.P.: NÍO ESTABELECIDO
+IDLH: DADO NÍO DISPONÍVEL
+LT: Brasil - Valor Médio 48h: DADO NÍO DISPONÍVEL
+LT: Brasil - Valor Teto: DADO NÍO DISPONÍVEL
+LT: EUA - TWA: 20 ppm (PELE)
+LT: EUA - STEL: NÍO ESTABELECIDO
+Toxicidade ao homem e animais superiores (vertebrados)
+M.D.T.: DADO NÍO DISPONÍVEL/CARCINOGÊNICO:ANIMAL:POSITIVO
+M.C.T.: SER HUMANO: TCLo (INALAÇÍO) = 470 ppm; (OBS.1)
+Toxicidade: Espécie: RATO
+Via Respiração (CL50): (2 h) 46 g/m³
+Via Oral (DL 50): 5,17 g/kg; 4.200 mg/kg
+Via Cutânea (DL 50): 5.600 mg/kg (INTRAP.)
+Toxicidade: Espécie: CAMUNDONGO
+Via Respiração (CL50): (2 h) 65 g/m³Via Oral (DL 50): 5,66 g/kg; 5.700 mg/kg Via Cutânea (DL 50): 790 mg/kg (INTRAP.)
+Toxicidade: Espécie: OUTROS
+Via Respiração (CL50): GATOS, COELHOS, COBAIA: NENHUM EFEITO DE INALAÇÍO < 1.350 ppm EM 45 X 8 h Via Oral (DL
+50): COBAIA: 3,9 g/kg; COELHO: 2.000 mg/kg Via Cutânea (DL 50): COELHO: 7.600 mg/kg
+Toxicidade aos organismos aquáticos: PEIXES : Espécie
+LEPOMIS MACROCHIRUS: BIOENSAIO ESTÁTICO EM ÁGUA CONTINENTAL A 23° C, COM AERAÇÍO BRANDA APLICADA APÓS
+24 h; MELHOR RESULTADO A 96 h = CL50: > 10.000 ppm; (OBS.2)
+Toxicidade aos organismos aquáticos: CRUSTÁCEOS : Espécie
+--- PÁGINA 3 ---
+Toxicidade aos organismos aquáticos: ALGAS : Espécie
+MICROCYSTIS AERUGINOSA: INIBIÇÍO DE MULTIPLICAÇÍO CELULAR A 575 mg/L.
+Toxicidade a outros organismos: BACTÉRIAS
+PSEUDOMONAS PUTIDA: INIBIÇÍO DA MULTIPLICAÇÍO CELULAR A 2.700 mg/L
+Toxicidade a outros organismos: MUTAGENICIDADE
+RATO:"dnd"= 300 umol/L (FÍGADO):"oms" = 50mg/kg(INTRAV.);"dns" = 20 mg/kg (ORAL)
+Toxicidade a outros organismos: OUTROS
+PROTOZOARIOS: L.tox. T.I.M.C.URONEMA PARDUCZI (CHATTON - LWOFF) = 5.620 mg/L
+Informações sobre intoxicação humana
+EVITAR CONTATO COM O LÍQUIDO E O VAPOR. MANTER AS PESSOAS AFASTADAS. CHAMAR OS BOMBEIROS. PARAR O
+VAZAMENTO, SE POSSÍVEL. ISOLAR E REMOVER O MATERIAL DERRAMADO. DESLIGAR AS FONTES DE IGNIÇÍO. FICAR
+CONTRA O VENTO E USAR NEBLINA D'ÁGUA PARA BAIXAR O VAPOR.
+Tipo de contato Síndrome tóxica Tratamento
+VAPOR IRRITANTE PARA OS OLHOS, NARIZ E MOVER PARA O AR FRESCO. SE A
+GARGANTA. PREJUDICIAL, SE INALADO. RESPIRAÇÍO FOR DIFICULTADA OU PARAR,
+DAR OXIGÊNIO OU FAZER RESPIRAÇÍO
+ARTIFICIAL.
+Tipo de contato Síndrome tóxica Tratamento
+LÍQUIDO IRRITANTE PARA A PELE. IRRITANTE REMOVER ROUPAS E SAPATOS
+PARA OS OLHOS. PREJUDICIAL, SE CONTAMINADOS E ENXAGUAR COM MUITA
+INGERIDO. ÁGUA. MANTER AS PÁLPEBRAS ABERTAS E
+ENXAGUAR COM MUITA ÁGUA. MANTER A
+VÍTIMA AQUECIDA.
+DADOS GERAIS Help
+Temperatura e armazenamento
+AMBIENTE.
+Ventilação para transporte
+ABERTA OU PRESSÍO A VÁCUO.
+Estabilidade durante o transporte
+ESTÁVEL.
+Usos
+SOLVENTE ( CELULOSE, RESINA, ÓLEO, CERA, TINTA).
+Grau de pureza
+DADO NÍO DISPONÍVEL.
+Radioatividade
+NÍO TEM.
+Método de coleta
+DADO NÍO DISPONÍVEL.
+Código NAS (National Academy of Sciences)
+FOGO SAÚDE POLUIÇÍO DAS ÁGUAS REATIVIDADE
+Fogo: 3 Vapor Irritante: 1 Toxicidade humana: 2 Outros Produtos Químicos: 2
+Líquido/Sólido Irritante: 1 Toxicidade aquática: 1 Água: 1
+Venenos: 3 Efeito estético: 2 Auto reação: 0
+OBSERVAÇÕES Help
+1) M.D.C. : TCLo (1 min) (INALAÇÍO) = 5.500 ppm 2) MENIDIA BERYLLINA: BIOENSAIO ESTÁTICO EM ÁGUA MARINHA
+SINTÉTICA A 23°C, COM AERAÇÍO BRANDA APLICADA APÓS 24h; MELHOR RESULTADO A 96h: CL50 = 6.700ppm. POTENCIAL
+DE IONIZAÇÍO (PI) = DADO NÍO DISPONÍVEL

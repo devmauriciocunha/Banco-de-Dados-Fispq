@@ -1,0 +1,236 @@
+--- PÁGINA 1 ---
+SIGMA-ALDRICH
+sigma-aldrich.com
+SAFETY DATA SHEET
+according to Regulation (EC) No. 1907/2006
+Version 4.1 Revision Date 25.08.2010
+Print Date 19.01.2011
+GENERIC EU MSDS - NO COUNTRY SPECIFIC DATA - NO OEL DATA
+1. IDENTIFICATION OF THE SUBSTANCE/MIXTURE AND OF THE COMPANY/UNDERTAKING
+Product name : 2,2′-Bipyridyl
+Product Number : 36759
+Brand : Fluka
+Company : Sigma-Aldrich Brasil Ltda.
+Av. das Nações Unidas, 23.043
+04795-100 SÍO PAULO - SP
+BRAZIL
+Telephone : +551137323100
+Fax : +551155229895
+Emergency Phone # :
+2. HAZARDS IDENTIFICATION
+Classification of the substance or mixture
+According to Regulation (EC) No1272/2008
+Acute toxicity, Oral (Category 3)
+Skin irritation (Category 2)
+Eye irritation (Category 2)
+Specific target organ toxicity - single exposure (Category 3)
+According to European Directive 67/548/EEC as amended.
+Toxic if swallowed. Irritating to eyes, respiratory system and skin.
+Label elements
+Pictogram
+Signal word Danger
+Hazard statement(s)
+H301 Toxic if swallowed.
+H315 Causes skin irritation.
+H319 Causes serious eye irritation.
+H335 May cause respiratory irritation.
+Precautionary statement(s)
+P261 Avoid breathing dust/ fume/ gas/ mist/ vapours/ spray.
+P301 + P310 IF SWALLOWED: Immediately call a POISON CENTER or doctor/
+physician.
+P305 + P351 + P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove
+contact lenses, if present and easy to do. Continue rinsing.
+Hazard symbol(s)
+T Toxic
+R-phrase(s)
+R25 Toxic if swallowed.
+R36/37/38 Irritating to eyes, respiratory system and skin.
+S-phrase(s)
+S36/39 Wear suitable protective clothing and eye/face protection.
+Fluka - 36759 Page 1 of 5
+--- PÁGINA 2 ---
+S45 In case of accident or if you feel unwell, seek medical advice immediately
+(show the label where possible).
+Other hazards - none
+3. COMPOSITION/INFORMATION ON INGREDIENTS
+Formula : C10H8N2
+Molecular Weight : 156,18 g/mol
+CAS-No. EC-No. Index-No. Classification Concentration
+2,2'-Bipyridyl
+366-18-7 206-674-4 - Acute Tox. 3; Skin Irrit. 2; Eye -
+Irrit. 2; STOT SE 3; H301,
+H315, H319, H335
+T, R25 - R36/37/38
+For the full text of the H-Statements mentioned in this Section, see Section 16.
+4. FIRST AID MEASURES
+General advice
+Consult a physician. Show this safety data sheet to the doctor in attendance.
+If inhaled
+If breathed in, move person into fresh air. If not breathing, give artificial respiration. Consult a physician.
+In case of skin contact
+Wash off with soap and plenty of water. Take victim immediately to hospital. Consult a physician.
+In case of eye contact
+Rinse thoroughly with plenty of water for at least 15 minutes and consult a physician.
+If swallowed
+Never give anything by mouth to an unconscious person. Rinse mouth with water. Consult a physician.
+5. FIRE-FIGHTING MEASURES
+Suitable extinguishing media
+Use water spray, alcohol-resistant foam, dry chemical or carbon dioxide.
+Special protective equipment for fire-fighters
+Wear self contained breathing apparatus for fire fighting if necessary.
+6. ACCIDENTAL RELEASE MEASURES
+Personal precautions
+Wear respiratory protection. Avoid dust formation. Avoid breathing vapors, mist or gas. Ensure adequate
+ventilation. Evacuate personnel to safe areas. Avoid breathing dust.
+Environmental precautions
+Prevent further leakage or spillage if safe to do so. Do not let product enter drains.
+Methods and materials for containment and cleaning up
+Pick up and arrange disposal without creating dust. Sweep up and shovel. Keep in suitable, closed
+containers for disposal.
+7. HANDLING AND STORAGE
+Precautions for safe handling
+Avoid contact with skin and eyes. Avoid formation of dust and aerosols.
+Provide appropriate exhaust ventilation at places where dust is formed. Normal measures for preventive fire
+protection.
+Fluka - 36759 Page 2 of 5
+--- PÁGINA 3 ---
+Conditions for safe storage
+Store in cool place. Keep container tightly closed in a dry and well-ventilated place.
+8. EXPOSURE CONTROLS/PERSONAL PROTECTION
+Personal protective equipment
+Respiratory protection
+Where risk assessment shows air-purifying respirators are appropriate use a full-face particle respirator
+type N99 (US) or type P2 (EN 143) respirator cartridges as a backup to engineering controls. If the
+respirator is the sole means of protection, use a full-face supplied air respirator. Use respirators and
+components tested and approved under appropriate government standards such as NIOSH (US) or CEN
+(EU).
+Hand protection
+Handle with gloves. Gloves must be inspected prior to use. Use proper glove removal technique (without
+touching glove's outer surface) to avoid skin contact with this product. Dispose of contaminated gloves
+after use in accordance with applicable laws and good laboratory practices. Wash and dry hands.
+The selected protective gloves have to satisfy the specifications of EU Directive 89/686/EEC and the
+standard EN 374 derived from it.
+Eye protection
+Face shield and safety glasses Use equipment for eye protection tested and approved under appropriate
+government standards such as NIOSH (US) or EN 166(EU).
+Skin and body protection
+Complete suit protecting against chemicals, The type of protective equipment must be selected according
+to the concentration and amount of the dangerous substance at the specific workplace.
+Hygiene measures
+Avoid contact with skin, eyes and clothing. Wash hands before breaks and immediately after handling the
+product.
+9. PHYSICAL AND CHEMICAL PROPERTIES
+Appearance
+Form solid
+Safety data
+pH no data available
+Melting point 70 - 73 °C
+Boiling point 273 °C
+Flash point no data available
+Ignition temperature no data available
+Lower explosion limit no data available
+Upper explosion limit no data available
+Water solubility no data available
+10. STABILITY AND REACTIVITY
+Chemical stability
+Stable under recommended storage conditions.
+Conditions to avoid
+no data available
+Materials to avoid
+Strong oxidizing agents
+Fluka - 36759 Page 3 of 5
+--- PÁGINA 4 ---
+Hazardous decomposition products
+Hazardous decomposition products formed under fire conditions. - Carbon oxides, nitrogen oxides (NOx)
+Hazardous decomposition products formed under fire conditions. - Nature of decomposition products not
+known.
+11. TOXICOLOGICAL INFORMATION
+Acute toxicity
+LD50 Oral - rat - 100 mg/kg
+Remarks: Behavioral:Muscle weakness. Kidney, Ureter, Bladder:Other changes in urine composition. Blood:
+Hemorrhage.
+Skin corrosion/irritation
+no data available
+Serious eye damage/eye irritation
+no data available
+Respiratory or skin sensitization
+no data available
+Germ cell mutagenicity
+no data available
+Carcinogenicity
+IARC: No component of this product present at levels greater than or equal to 0.1% is identified as
+probable, possible or confirmed human carcinogen by IARC.
+Reproductive toxicity
+no data available
+Specific target organ toxicity - single exposure
+no data available
+Specific target organ toxicity - repeated exposure
+no data available
+Aspiration hazard
+no data available
+Potential health effects
+Inhalation May be harmful if inhaled. Causes respiratory tract irritation.
+Ingestion Toxic if swallowed.
+Skin May be harmful if absorbed through skin. Causes skin irritation.
+Eyes Causes serious eye irritation.
+Signs and Symptoms of Exposure
+To the best of our knowledge, the chemical, physical, and toxicological properties have not been thoroughly
+investigated.
+Additional Information
+RTECS: DW1750000
+12. ECOLOGICAL INFORMATION
+Toxicity
+no data available
+Persistence and degradability
+no data available
+Bioaccumulative potential
+no data available
+Mobility in soil
+no data available
+Fluka - 36759 Page 4 of 5
+--- PÁGINA 5 ---
+PBT and vPvB assessment
+no data available
+Other adverse effects
+no data available
+13. DISPOSAL CONSIDERATIONS
+Product
+Offer surplus and non-recyclable solutions to a licensed disposal company. Contact a licensed professional
+waste disposal service to dispose of this material. Dissolve or mix the material with a combustible solvent
+and burn in a chemical incinerator equipped with an afterburner and scrubber.
+Contaminated packaging
+Dispose of as unused product.
+14. TRANSPORT INFORMATION
+ADR/RID
+UN-Number: 2811 Class: 6.1 Packing group: III
+Proper shipping name: TOXIC SOLID, ORGANIC, N.O.S. (2,2'-Bipyridyl)
+IMDG
+UN-Number: 2811 Class: 6.1 Packing group: III EMS-No: F-A, S-A
+Proper shipping name: TOXIC SOLID, ORGANIC, N.O.S. (2,2'-Bipyridyl)
+Marine pollutant: No
+IATA
+UN-Number: 2811 Class: 6.1 Packing group: III
+Proper shipping name: Toxic solid, organic, n.o.s. (2,2'-Bipyridyl)
+15. REGULATORY INFORMATION
+This safety datasheet complies with the requirements of Regulation (EC) No. 1907/2006.
+16. OTHER INFORMATION
+Text of H-code(s) and R-phrase(s) mentioned in Section 3
+Acute Tox. Acute toxicity
+Eye Irrit. Eye irritation
+H301 Toxic if swallowed.
+H315 Causes skin irritation.
+H319 Causes serious eye irritation.
+H335 May cause respiratory irritation.
+Skin Irrit. Skin irritation
+T Toxic
+R25 Toxic if swallowed.
+R36/37/38 Irritating to eyes, respiratory system and skin.
+Further information
+Copyright 2010 Sigma-Aldrich Co. License granted to make unlimited paper copies for internal use only.
+The above information is believed to be correct but does not purport to be all inclusive and shall be used
+only as a guide. The information in this document is based on the present state of our knowledge and is
+applicable to the product with regard to appropriate safety precautions. It does not represent any guarantee
+of the properties of the product. Sigma-Aldrich Co., shall not be held liable for any damage resulting from
+handling or from contact with the above product. See reverse side of invoice or packing slip for additional
+terms and conditions of sale.
+Fluka - 36759 Page 5 of 5

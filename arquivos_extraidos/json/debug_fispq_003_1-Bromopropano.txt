@@ -1,0 +1,311 @@
+--- PÁGINA 1 ---
+SIGMA-ALDRICH
+sigma-aldrich.com
+FICHA DE DADOS DE SEGURANÇA
+de acordo com a Regulamento (CE) No. 1907/2006
+Versão 4.0 Data de revisão 13.03.2010
+Data de impressão 09.06.2010
+ENERIC EU MSDS - NO COUNTRY SPECIFIC DATA - NO OEL DATA
+1. IDENTIFICAÇÍO DA SUBSTÂNCIA/MISTURA E DA SOCIEDADE/EMPRESA
+Nome do produto : 1-Bromopropane
+Referência do Produto : B78106
+Marca : Aldrich
+Companhia : Sigma-Aldrich Brasil Ltda.
+Av. das Nações Unidas, 23.043
+04795-100 SÍO PAULO - SP
+BRAZIL
+Telefone : +551137323100
+Número de Fax : +551155229895
+Núnero de Telefone de :
+Emergência
+2. IDENTIFICAÇÍO DOS PERIGOS
+Classificação da substância ou da mistura
+Nos termos do Regulamento (CE) No1272/2008
+Líquidos inflamáveis (Categoria 2)
+Toxicidade reprodutiva (Categoria 1B)
+Toxicidade para órgãos-alvo específicos - exposição repetida (Categoria 2)
+Iirritação ocular (Categoria 2)
+Toxicidade para órgãos-alvo específicos - exposição única (Categoria 3)
+Irritação cutânea (Categoria 2)
+Toxicidade para órgãos-alvo específicos - exposição única (Categoria 3)
+De acordo com a directiva Europeia 67/548/CEE, e emendas.
+Facilmente inflamável. Pode provocar sonolência e vertigens, por inalação dos vapores. Pode comprometer a
+fertilidade. Possíveis riscos durante a gravidez com efeitos adversos na descendência. Irritante para os olhos,
+vias respiratórias e pele. Nocivo: risco de efeitos graves para a saúde em caso de exposição prolongada por
+inalação.
+Elementos da etiqueta
+Pictograma
+Palavra-sinal Perigo
+Declaração de perigo
+H225 Líquido e vapor facilmente inflamáveis.
+H319 Provoca irritação ocular grave.
+H315 Provoca irritação cutânea.
+H373 Pode afectar os órgãos após exposição prolongada ou repetida.
+H335 Pode provocar irritação das vias respiratórias.
+H336 Pode provocar sonolência ou vertigens.
+H360Fd Pode afectar a fertilidade. Suspeito de afectar o nascituro.
+declaração de precaução
+P201 Pedir instruções específicas antes da utilização.
+P210 Manter afastado do calor/faísca/chama aberta/superfícies quentes. - Não
+fumar.
+Aldrich - B78106 Página 1 de 7
+--- PÁGINA 2 ---
+P261 Evitar respirar as poeiras/fumos/gases/névoas/vapores/aerossóis.
+P305 + P351 + P338 SE ENTRAR EM CONTACTO COM OS OLHOS: enxaguar
+cuidadosamente com água durante vários minutos. Se usar lentes de
+contacto, retire-as, se tal lhe for possível. Continuar a enxaguar.
+P308 + P313 EM CASO DE exposição ou suspeita de exposição: consulte um médico.
+símbolo de perigosidade
+T Tóxico
+F Facilmente inflamável
+Frase(s) - R
+R60 Pode comprometer a fertilidade.
+R11 Facilmente inflamável.
+R36/37/38 Irritante para os olhos, vias respiratórias e pele.
+R48/20 Também nocivo: risco de efeitos graves para a saúde em caso de
+exposição prolongada por inalação.
+R63 Possíveis riscos durante a gravidez com efeitos adversos na
+descendência.
+R67 Pode provocar sonolência e vertigens, por inalação dos vapores.
+Frase(s) - S
+S53 Evitar a exposição - obter instruções específicas antes da utilização.
+S45 Em caso de acidente ou de indisposição, consultar imediatamente o
+médico (se possível mostrar-lhe o rótulo).
+Reservado aos utilizadores profissionais.
+Outros Perigos - nenhum(a)
+3. COMPOSIÇÍO/INFORMAÇÍO SOBRE OS COMPONENTES
+Sinónimos : Propyl bromide
+Formula : C3H7Br
+Peso molecular : 123 g/mol
+No. CAS No. CE No. de Index Classificação Concentração
+1-Bromopropane
+106-94-5 203-445-0 602-019-00-5 Flam. Liq. 2; Repr. 1B; STOT -
+RE 2; Eye Irrit. 2; STOT SE 3;
+Skin Irrit. 2; STOT SE 3;
+H225, H319, H315, H373,
+H335, H336, H360Fd
+F, T, Repr.Cat.2, Repr.Cat.3,
+R60 - R11 - R36/37/38 -
+R48/20 - R63 - R67
+Para o pleno texto das DECLARAÇÕES H mencionadas nesta Secção, ver a Secção 16.
+4. PRIMEIROS SOCORROS
+Recomendação geral
+Consultar um médico. Mostrar esta ficha de segurança ao médico de serviço.
+Se for inalado
+Se for respirado, levar a pessoa para o ar fresco. Se não respirar, aplicar a respiração artificial. Consultar um
+médico.
+No caso dum contacto com a pele
+Lavar com sabão e muita água. Consultar um médico.
+No caso dum contacto com os olhos
+Lavar cuidadosamente com muita água, durante pelo menos quinze minutos, e consultar o médico.
+Aldrich - B78106 Página 2 de 7
+--- PÁGINA 3 ---
+Se for engolido
+NÍO provocar vómitos. Nunca dar nada pela boca a uma pessoa inconsciente. Enxaguar a boca com água.
+Consultar um médico.
+5. MEDIDAS DE COMBATE A INCÊNDIO
+Meios adequados de extinção
+Para fogos incipientes ou pequenos usar meios como espuma de álcool, pó seco ou dióxido de carbono. Para
+grandes fogos aplicar agua desde o mais longe possível, usar grandes quantidades de agua
+(inundação)aplicadas como nevoeiro ou spray; córregos sólidos de agua podem não ser efectivos. Esfrie
+todos os depósitos ou vasilhas com grandes e inundantes quantidades de agua.
+Equipamento especial de protecção a utilizar pelo pessoal de combate a incêndio
+Usar equipamento de respiração autónomo para combate a incêndios, se necessário.
+Outras informações
+Os jactos de água podem ser utilizados para arrefecer os contentores fechados.
+6. MEDIDAS A TOMAR EM CASO DE FUGAS ACIDENTAIS
+Precauções individuais
+Usar equipamento de protecção individual. Evitar a respiração do vapor/névoa/gas. Assegurar ventilação
+adequada. Cortar todas as fontes de ignição. Evacuar o pessoal para áreas de segurança. Atenção com a
+acumulação de vapores que pode formar concentrações explosivas. Os vapores podem-se acumular nas
+áreas baixas.
+Precauções ambientais
+Prevenir dispersão ou derramamento ulterior se for mais seguro assim. Não permitir a entrada do produto no
+sistema de esgotos.
+Métodos e materiais para a contenção e a limpeza
+Controlar e recuperar o líquido derramado com um produto absorvente não combustível, (por exemplo areia,
+terra, terra diatomácea, vermiculite) e pôr o líquido dentro de contentores para eliminação de acordo com os
+regulamentos locais / nacionais (ver secção 13).
+7. MANUSEAMENTO E ARMAZENAGEM
+Precauções para um manuseamento seguro
+Evitar a inalação do vapor ou da névoa.Evitar a exposição - obter instruções específicas antes da utilização.
+Manter afastado de qualquer chama ou fonte de ignição - Não fumar. Tome medidas para impedir a formação
+de electricidade estática.
+Condições para uma armazenagem segura
+Armazenar em local fresco. Guardar o recipiente herméticamente fechado em lugar seco e bem ventilado. Os
+contentores abertos devem ser cuidadosamente fechados de novo e têm que ficar direitos para evitar a
+dispersão.
+8. CONTROLO DA EXPOSIÇÍO/PROTECÇÍO PESSOAL
+Protecção individual
+Protecção respiratória
+Nos casos em que a avaliação de risco mostrar que os respiradores purificadores do ar são apropriados,
+use um respirador de cobertura facial total com cartuchos de combinação multi-objectivos (E.U.A.) ou do
+tipo ABEK (EN 14387) como apoio a controlos de engenharia. Se o respirador for o único meio de
+protecção, usa um respirador de ar de cobertura facial total. Use respiradores e componentes testados e
+aprovados por normas governamentais apropriadas, tais como as NIOSH (E.U.A.) ou CEN (UE).
+Protecção das mãos
+As luvas de protecção seleccionadas devem satisfazer as especificações da Directiva da UE 89/689/CEE
+e a norma EN 374 derivada dela.
+Manusear com luvas.
+Protecção dos olhos
+Mascaras de protecção e óculos de segurança.
+Aldrich - B78106 Página 3 de 7
+--- PÁGINA 4 ---
+Protecção do corpo e da pele
+Escolher uma protecção para o corpo conforme a quantidade e a concentração das substâncias
+perigosas no lugar de trabalho.
+Medidas de higiene
+Evitar o contacto com a pele, olhos e vestuário. Lavar as mãos antes de interrupções do trabalho, e
+imediatamente a seguir ao manuseamento do produto.
+9. PROPRIEDADES FÍSICAS E QUÍMICAS
+Aspecto
+Estado físico claro, líquido
+Cor castanho-claro
+Dados de segurança
+pH dados não disponíveis
+Ponto de fusão -110 °C
+Ponto de ebulição 70 - 71 °C a 1.013 hPa
+Ponto de inflamação 22 °C - câmara fechada
+Temperatura de 490 °C
+ignição
+Limites de explosão, 4,6 %(V)
+inferior
+Densidade 1,352 g/cm3
+Hidrossolubilidade solúvel
+Coeficiente de log Pow: 2,1
+epartição n-
+octanol/água
+Densidade relativa 4,25
+do vapor - (Ar = 1.0)
+10. ESTABILIDADE E REACTIVIDADE
+Estabilidade química
+Estável sob as condições recomendadas de armazenamento.
+Condições a evitar
+Calor, chamas e faíscas.
+Matérias a evitar
+Agentes oxidantes fortes, Bases fortes
+Produtos de decomposição perigosos
+Produtos perigosos de decomposição formados durante os incêndios. - Óxidos de carbono, Gás bromídrico
+11. INFORMAÇÍO TOXICOLÓGICA
+Toxicidade aguda
+CL50 Inalação - ratazana - 30 h - 253.000 mg/m3
+DL50 intraperitoneal - ratazana - 2.950 mg/kg
+Corrosão/irritação cutânea
+dados não disponíveis
+Lesões oculares graves/irritação ocular
+dados não disponíveis
+Aldrich - B78106 Página 4 de 7
+--- PÁGINA 5 ---
+Sensibilização respiratória ou da pele
+dados não disponíveis
+Mutagenicidade em células germinativas
+dados não disponíveis
+Carcinogenicidade
+IARC: Nenhum componente deste produto presente a níveis maiores ou iguais a 0.1% é identificado como
+carcinogénio provável, possível ou confirmado pelo IARC.
+Toxicidade reprodutiva
+Pode provocar malformações congênitas no feto.
+Tóxico reprodutivo para os humanos
+Toxicidade reprodutiva - ratazana - Inalação
+Efeito sobre o aparelho reprodu tor masculino: Esparmatogénese (incluíndo o material genético e amorfologia,
+mobilidade e contagem dos espermatozóides)
+Toxicidade reprodutiva - ratazana - Inalação
+Efeito sobre o aparelho reprodutor masculino: Próstata, vesícula seminal, glândula de Cowper, glândulas
+adjacentes.
+Pode provocar desordens reprodutivas.
+Toxicidade para órgãos-alvo específicos - exposição única
+Pode afectar os órgãos.
+Pode afectar os órgãos.
+Pode afectar os órgãos.
+Toxicidade para órgãos-alvo específicos - exposição repetida
+dados não disponíveis
+Perigo de aspiração
+dados não disponíveis
+Efeitos potenciais para a saúde
+Inalação Nocivo se for inalado. Causa uma irritação no aparelho respiratório. Pode
+provocar sonolência e vertigens, por inalação dos vapores.
+Ingestão Pode ser perigoso se for engolido.
+Pele Pode ser perigoso se for absorto pela pele. Causa uma irritação da pele.
+Olhos Causa uma irritação nos olhos.
+Sinais e sintomas de exposição
+Até onde sabemos, as propriedades químicas, físicas e toxicológicas não foram minuciosamente investigadas.
+Informação adicional
+RTECS: TX4110000
+12. INFORMAÇÍO ECOLÓGICA
+Toxicidade
+Toxicidade em CL50 - Pimephales promelas (vairão gordo) - 67,3 mg/l - 96 h
+peixes
+Toxicidade em CE50 - Daphnia magna - 208,9 mg/l - 48 h
+dáfnias e outros
+invertebrados
+aquáticos.
+Aldrich - B78106 Página 5 de 7
+--- PÁGINA 6 ---
+Persistência e degradabilidade
+Biodegradabilidade Resultado: 19,20 % - Não rapidamente biodegradável.
+Potencial de bioacumulação
+dados não disponíveis
+Mobilidade no solo
+dados não disponíveis
+Avaliação PBT e mPmB
+dados não disponíveis
+Outros efeitos adversos
+dados não disponíveis
+13. CONSIDERAÇÕES RELATIVAS À ELIMINAÇÍO
+Produto
+Queimar em um incinerador químico equipado com pós-combustor e purificador de gases, mas tomar
+precauções adicionais ao colocar esse material em ignição, visto que é altamente inflamável. Observar
+todos os regulamentos ambientais federais, estaduais e locais. Entrar em contato com um serviço
+profissional credenciado de descarte de lixo para descartar esse material.
+Embalagens contaminadas
+Eliminar como produto Não utilizado.
+14. INFORMAÇÕES RELATIVAS AO TRANSPORTE
+ADR/RID
+Número ONU: 2344 Classe: 3 Grupo de embalagem: II
+Denominação de expedição correcta: BROMOPROPANOS
+IMDG
+Número ONU: 2344 Classe: 3 Grupo de embalagem: II EMS-No:
+F-E, S-D
+Denominação de expedição correcta: BROMOPROPANES
+Poluente marinho: No
+IATA
+Número ONU: 2344 Classe: 3 Grupo de embalagem: II
+Denominação de expedição correcta: Bromopropanes
+15. INFORMAÇÍO SOBRE REGULAMENTAÇÍO
+Esta folha de dados de segurança obedece aos requerimentos da Regulamento (CE) No. 1907/2006
+16. OUTRAS INFORMAÇÕES
+Texto dos código(s) H e frase(s) R mencionados na secção 3
+Eye Irrit. Iirritação ocular
+Flam. Liq. Líquidos inflamáveis
+H225 Líquido e vapor facilmente inflamáveis.
+H315 Provoca irritação cutânea.
+H319 Provoca irritação ocular grave.
+H335 Pode provocar irritação das vias respiratórias.
+H336 Pode provocar sonolência ou vertigens.
+H360Fd Pode afectar a fertilidade. Suspeito de afectar o nascituro.
+H373 Pode afectar os órgãos após exposição prolongada ou repetida.
+Repr. Toxicidade reprodutiva
+Skin Irrit. Irritação cutânea
+STOT RE Toxicidade para órgãos-alvo específicos - exposição repetida
+F Facilmente inflamável
+T Tóxico
+Aldrich - B78106 Página 6 de 7
+--- PÁGINA 7 ---
+R11 Facilmente inflamável.
+R36/37/38 Irritante para os olhos, vias respiratórias e pele.
+R48/20 Nocivo: risco de efeitos graves para a saúde em caso de exposição prolongada por
+inalação.
+R60 Pode comprometer a fertilidade.
+R63 Possíveis riscos durante a gravidez com efeitos adversos na descendência.
+R67 Pode provocar sonolência e vertigens, por inalação dos vapores.
+Repr.Cat.2 Tóxico para a Reprodução Categoria 2
+Repr.Cat.3 Tóxico para a Reprodução Categoria 3
+Outras informações
+Direitos exclusivos, 2010, da Sigma-Aldrich. Permissão concedida para fazer número ilimitado de cópias
+em papel, somente para uso interno.
+Acredita-se que as informações acima estejam corretas, embora não pretendam ser totalmente
+abrangentes, devendo ser usadas apenas como um guia. A Sigma-Aldrich não deverá ter responsabilidade
+legal por quaisquer danos resultantes do manuseio ou do contato com o produto acima. Consultar o verso
+da fatura ou nota que acompanha o produto para tomar conhecimento dos termos adicionais e condições
+de venda.
+Aldrich - B78106 Página 7 de 7

@@ -1,0 +1,172 @@
+--- PÁGINA 1 ---
+SIGMA-ALDRICH
+sigma-aldrich.com
+SAFETY DATA SHEET
+according to Regulation (EC) No. 1907/2006
+Version 4.0 Revision Date 26.02.2010
+Print Date 18.06.2010
+GENERIC EU MSDS - NO COUNTRY SPECIFIC DATA - NO OEL DATA
+1. IDENTIFICATION OF THE SUBSTANCE/MIXTURE AND OF THE COMPANY/UNDERTAKING
+Product name : Aluminum oxide
+Product Number : 11028
+Brand : Sigma-Aldrich
+Company : Sigma-Aldrich Brasil Ltda.
+Av. das Nações Unidas, 23.043
+04795-100 SÍO PAULO - SP
+BRAZIL
+Telephone : +551137323100
+Fax : +551155229895
+Emergency Phone # :
+2. HAZARDS IDENTIFICATION
+Classification of the substance or mixture
+Not a dangerous substance according to GHS.
+This substance is not classified as dangerous according to Directive 67/548/EEC.
+Label elements
+The product does not need to be labelled in accordance with EC directives or respective national laws.
+Other hazards - none
+3. COMPOSITION/INFORMATION ON INGREDIENTS
+Synonyms : Alumina
+Formula : Al2O3
+Molecular Weight : 101,96 g/mol
+CAS-No. EC-No. Index-No. Classification Concentration
+Aluminium oxide
+1344-28-1 215-691-6 - - -
+4. FIRST AID MEASURES
+If inhaled
+If breathed in, move person into fresh air. If not breathing give artificial respiration
+In case of skin contact
+Wash off with soap and plenty of water.
+In case of eye contact
+Flush eyes with water as a precaution.
+If swallowed
+Never give anything by mouth to an unconscious person. Rinse mouth with water.
+Sigma-Aldrich - 11028 Page 1 of 4
+--- PÁGINA 2 ---
+5. FIRE-FIGHTING MEASURES
+Suitable extinguishing media
+Use extinguishing measures that are appropriate to local circumstances and the surrounding environment.
+Special protective equipment for fire-fighters
+Wear self contained breathing apparatus for fire fighting if necessary.
+Further information
+Do not use halocarbon extinguishers.The product itself does not burn.
+6. ACCIDENTAL RELEASE MEASURES
+Personal precautions
+Avoid dust formation.
+Methods and materials for containment and cleaning up
+Sweep up and shovel. Keep in suitable, closed containers for disposal.
+7. HANDLING AND STORAGE
+Precautions for safe handling
+Provide appropriate exhaust ventilation at places where dust is formed.
+Conditions for safe storage
+Store in cool place. Keep container tightly closed in a dry and well-ventilated place.
+strongly hygroscopic
+8. EXPOSURE CONTROLS/PERSONAL PROTECTION
+Personal protective equipment
+Respiratory protection
+Respiratory protection is not required. Where protection from nuisance levels of dusts are desired, use
+type N95 (US) or type P1 (EN 143) dust masks. Use respirators and components tested and approved
+under appropriate government standards such as NIOSH (US) or CEN (EU).
+Hand protection
+For prolonged or repeated contact use protective gloves.
+Eye protection
+Safety glasses
+Hygiene measures
+General industrial hygiene practice.
+9. PHYSICAL AND CHEMICAL PROPERTIES
+Appearance
+Form solid
+Safety data
+pH 9,4 - 10,1 at 20 °C
+Melting point 2.040 °C
+Boiling point 2.980 °C
+Flash point no data available
+Ignition temperature no data available
+Lower explosion limit no data available
+Upper explosion limit no data available
+Vapour pressure 1 hPa at 2.158 °C
+Sigma-Aldrich - 11028 Page 2 of 4
+--- PÁGINA 3 ---
+Density 4,000 g/cm3
+Water solubility insoluble
+10. STABILITY AND REACTIVITY
+Chemical stability
+Stable under recommended storage conditions.
+Conditions to avoid
+Exposure to moisture.
+Materials to avoid
+Strong acids, Strong bases, Chlorine trifluoride, Ethylene oxide, Halogenated hydrocarbon, Oxygen difluoride,
+Sodium nitrate, Vinyl compounds
+Hazardous decomposition products
+Hazardous decomposition products formed under fire conditions. - Aluminum oxide
+11. TOXICOLOGICAL INFORMATION
+Acute toxicity
+no data available
+Skin corrosion/irritation
+no data available
+Serious eye damage/eye irritation
+no data available
+Respiratory or skin sensitization
+no data available
+Germ cell mutagenicity
+no data available
+Carcinogenicity
+This product is or contains a component that is not classifiable as to its carcinogenicity based on its IARC,
+ACGIH, NTP, or EPA classification.
+IARC: No component of this product present at levels greater than or equal to 0.1% is identified as
+probable, possible or confirmed human carcinogen by IARC.
+Reproductive toxicity
+no data available
+Specific target organ toxicity - single exposure
+no data available
+Specific target organ toxicity - repeated exposure
+no data available
+Aspiration hazard
+no data available
+Potential health effects
+Inhalation May be harmful if inhaled. May cause respiratory tract irritation.
+Ingestion May be harmful if swallowed.
+Skin May be harmful if absorbed through skin. May cause skin irritation.
+Eyes May cause eye irritation.
+Signs and Symptoms of Exposure
+Cough, chest pain, Difficulty in breathing, Gastrointestinal disturbance
+Sigma-Aldrich - 11028 Page 3 of 4
+--- PÁGINA 4 ---
+Additional Information
+RTECS: BD1200000
+12. ECOLOGICAL INFORMATION
+Toxicity
+no data available
+Persistence and degradability
+no data available
+Bioaccumulative potential
+no data available
+Mobility in soil
+no data available
+PBT and vPvB assessment
+no data available
+Other adverse effects
+no data available
+13. DISPOSAL CONSIDERATIONS
+Product
+Observe all federal, state, and local environmental regulations.
+Contaminated packaging
+Dispose of as unused product.
+14. TRANSPORT INFORMATION
+ADR/RID
+Not dangerous goods
+IMDG
+Not dangerous goods
+IATA
+Not dangerous goods
+15. REGULATORY INFORMATION
+This safety datasheet complies with the requirements of Regulation (EC) No. 1907/2006.
+16. OTHER INFORMATION
+Further information
+Copyright 2010 Sigma-Aldrich Co. License granted to make unlimited paper copies for internal use only.
+The above information is believed to be correct but does not purport to be all inclusive and shall be used
+only as a guide. The information in this document is based on the present state of our knowledge and is
+applicable to the product with regard to appropriate safety precautions. It does not represent any guarantee
+of the properties of the product. Sigma-Aldrich Co., shall not be held liable for any damage resulting from
+handling or from contact with the above product. See reverse side of invoice or packing slip for additional
+terms and conditions of sale.
+Sigma-Aldrich - 11028 Page 4 of 4

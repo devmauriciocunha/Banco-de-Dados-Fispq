@@ -1,0 +1,165 @@
+--- PÁGINA 1 ---
+Ficha de Informação de Produto Químico
+IDENTIFICAÇÍO Help
+Número ONU Nome do produto Rótulo de risco
+2023 EPICLORIDRINA
+Número de risco Classe / Subclasse
+63 6.1
+Sinônimos
+CLORIDRINA ; 1 - CLORO - 2,3 - EPÓXIPROPANO ; gama - CLORO ÓXIDO - PROPILENO ; CLORO METILOXIRANO ;
+EPICLORIDRINA CRUA
+Aparência
+LÍQUIDO AQUOSO; SEM COLORAÇÍO; ODOR DOCE DE ALHO; AFUNDA E MISTURA NA ÁGUA; PRODUZ VAPOR INFLAMÁVEL E
+VENENOSO
+Fórmula molecular Família química
+C3 H5 O Cl NÍO PERTINENTE
+Fabricantes
+Para informações atualizadas recomenda-se a consulta às seguintes instituições ou referências:
+ABIQUIM - Associação Brasileira da Indústria Química : Fone 0800-118270
+ANDEF - Associação Nacional de Defesa Vegetal: Fone (11) 3081-5033
+Revista Química e Derivados - Guia geral de produtos químicos, Editora QD: Fone (11) 3826-6899
+Programa Agrofit - Ministério da Agricultura
+MEDIDAS DE SEGURANÇA Help
+Medidas preventivas imediatas
+EVITAR CONTATO COM O LÍQUIDO E O VAPOR. MANTER AS PESSOAS AFASTADAS. CHAMAR OS BOMBEIROS. PARAR O
+VAZAMENTO, SE POSSÍVEL. ISOLAR E REMOVER O MATERIAL DERRAMADO. FICAR CONTRA O VENTO E USAR NEBLINA
+D'ÁGUA, PARA BAIXAR O VAPOR.
+Equipamentos de Proteção Individual (EPI)
+USAR ROUPA DE ENCAPSULAMENTO DE TEFLON E MÁSCARA DE RESPIRAÇÍO AUTÔNOMA.
+RISCOS AO FOGO Help
+Ações a serem tomadas quando o produto entra em combustão
+EXTINGUIR COM ÁGUA, PÓ QUÍMICO SECO, ESPUMA DE ÁLCOOL OU DIÓXIDO DE CARBONO. ESFRIAR OS RECIPIENTES
+EXPOSTOS COM ÁGUA. COMBATER O FOGO A UMA DISTÂNCIA SEGURA OU LOCAL PROTEGIDO.
+Comportamento do produto no fogo
+COMBUSTÍVEL. O VAPOR PODE EXPLODIR SE A IGNIÇÍO FOR EM ÁREA FECHADA. OS RECIPIENTES PODEM EXPLODIR EM
+FOGO DEVIDO A POLIMERIZAÇÍO.
+Produtos perigosos da reação de combustão
+PRODUZ VAPORES IRRITANTES E TÓXICOS QUANDO AQUECIDO.
+Agentes de extinção que não podem ser usados
+EVITE USAR PÓ QUÍMICO SECO.
+Limites de inflamabilidade no ar
+Limite Superior: 21,0 %
+Limite Inferior: 3,8 %
+Ponto de fulgor
+33,3°C (V.ABERTO);37,8°C(V.FECHADO)
+Temperatura de ignição
+429,2 °C
+Taxa de queima
+2,6 mm/min
+Taxa de evaporação (éter=1)
+17,0
+NFPA (National Fire Protection Association)
+Perigo de Saúde (Azul): 3
+--- PÁGINA 2 ---
+Inflamabilidade (Vermelho): 3
+Reatividade (Amarelo): 2
+PROPRIEDADES FÍSICO-QUÍMICAS E AMBIENTAIS Help
+Peso molecular Ponto de ebulição (°C) Ponto de fusão (°C)
+92,53 115,2 -25,6
+Temperatura crítica (°C) Pressão crítica (atm) Densidade relativa do vapor
+NÍO PERTINENTE NÍO PERTINENTE NÍO PERTINENTE
+Densidade relativa do líquido (ou Pressão de vapor Calor latente de vaporização (cal/g)
+sólido) 20 mm Hg A 29,0 °C 97,9
+1,18 A 20 °C ( LÍQUIDO )
+Calor de combustão (cal/g) Viscosidade (cP)
+-4.524 DADO NÍO DISPONÍVEL
+Solubilidade na água pH
+6 g/100 mL DE ÁGUA A 25 °C DND
+Reatividade química com água
+REAÇÍO MODERADA E NÍO É PERIGOSA.
+Reatividade química com materiais comuns
+NÍO REAGE.
+Polimerização
+PODE POLIMERIZAR NA PRESENÇA DE ÁCIDOS E BASES FORTES, PARTICULARMENTE QUANDO AQUECIDO. INIBIDOR DE
+POLIMERIZAÇÍO : NENHUM.
+Reatividade química com outros materiais
+INCOMPATÍVEL COM OXIDANTES FORTES; ÁCIDOS FORTES; BASES FORTES; ZINCO, ALUMÍNIO CLORETOS DE FERRO E
+ALUMÍNIO.
+Degradabilidade
+DADO NÍO DISPONÍVEL.
+Potencial de concentração na cadeia alimentar
+NENHUM.
+Demanda bioquímica de oxigênio (DBO)
+DADO NÍO DISPONÍVEL.
+Neutralização e disposição final
+O MATERIAL DEVE SER QUEIMADO, MISTURANDO-SE COM IGUAL VOLUME DE CARBONATO DE SÓDIO OU HIDRÓXIDO DE
+CÁLCIO EM UM INCINERADOR QUÍMICO, EQUIPADO COM PÓS-QUEIMADOR E LAVADOR DE GASES. RECOMENDA-SE O
+ACOMPANHAMENTO POR UM ESPECIALISTA DO ÓRGÍO AMBIENTAL.
+INFORMAÇÕES ECOTOXICOLÓGICAS Help
+Toxicidade - limites e padrões
+L.P.O.: 10 ppm
+P.P.: NÍO ESTABELECIDO
+IDLH: 75 ppm
+LT: Brasil - Valor Médio 48h: DADO NÍO DISPONÍVEL
+LT: Brasil - Valor Teto: DADO NÍO DISPONÍVEL
+LT: EUA - TWA: 0,5 ppm (PELE)
+LT: EUA - STEL: NÍO ESTABELECIDO
+Toxicidade ao homem e animais superiores (vertebrados)
+M.D.T.: DADO NÍO DISPONÍVEL/CARCINOGÊNICO: ANIMAL POSITIVO
+M.C.T.: SER HUMANO: TCLo = 20 ppm
+Toxicidade: Espécie: RATO
+Via Respiração (CL50): (8 h) = 250 ppm;(4 h) = 500 ppm
+Via Oral (DL 50): 0,04 g/kg; 90 mg/kg
+Via Cutânea (DL 50): LDLo: 1.000 mg/kg; 150 mg/kg (SUBCUT.)
+Toxicidade: Espécie: CAMUNDONGO
+Via Respiração (CL50): 0/30: 2.370 ppm; 20/30: 8.300 ppmVia Oral (DL 50): 0,238 g/kg; LDLo: 250 mg/kg Via Cutânea (DL
+50): 154 mg/kg (INTRAP.)
+Toxicidade: Espécie: OUTROS
+Via Respiração (CL50): COBAIA: (4 h) 561 mg/L; COELHO: (4 h) = 445 ppm Via Oral (DL 50): COBAIA: 0,178 g/kg Via
+Cutânea (DL 50): COELHO: 515 mg/kg
+Toxicidade aos organismos aquáticos: PEIXES : Espécie
+LEPOMIS MACROCHIRUS: BIOENSAIO ESTÁTICO EM ÁGUA CONTINENTAL A 23°C, COM AERAÇÍO BRANDA APLICADA APÓS 24
+h; MELHOR RESULTADO A 96 h = CL50 = 35 ppm; (OBS. 1)
+--- PÁGINA 3 ---
+Toxicidade aos organismos aquáticos: CRUSTÁCEOS : Espécie
+Toxicidade aos organismos aquáticos: ALGAS : Espécie
+L. tox.T.I.M.C. MICROSYSTIS AERUGINOSA = 6,0 mg/L; SCENEDESMUS QUADRICAUDA = 5,4 mg/L
+Toxicidade a outros organismos: BACTÉRIAS
+L. tox.T.I.M.C. PSEUDOMONAS PUTIDA = 55 mg/L
+Toxicidade a outros organismos: MUTAGENICIDADE
+SALMONELLA TYPHIMURIUM: "mmo" = 1 nmol/L/1 h; KLEBISIELLA PNEUMONIAE: "mmo" = 200 umol /L; (OBS.2)
+Toxicidade a outros organismos: OUTROS
+PROTOZOÁRIOS: L.tox. T.I.M.C. ENTOSIPHON SULCATUM = 35 mg/L; URONEMA PARDUCZI:(CHATTON-LWOFF)=57 mg/L
+Informações sobre intoxicação humana
+EVITAR CONTATO COM O LÍQUIDO E O VAPOR. MANTER AS PESSOAS AFASTADAS. CHAMAR OS BOMBEIROS. PARAR O
+VAZAMENTO, SE POSSÍVEL. ISOLAR E REMOVER O MATERIAL DERRAMADO. FICAR CONTRA O VENTO E USAR NEBLINA
+D'ÁGUA, PARA BAIXAR O VAPOR.
+Tipo de contato Síndrome tóxica Tratamento
+VAPOR IRRITANTE PARA OS OLHOS. MOVER PARA O AR FRESCO. SE A
+VENENOSO, SE INALADO. RESPIRAÇÍO FOR DIFICULTADA OU PARAR,
+DAR OXIGÊNIO OU FAZER RESPIRAÇÍO
+ARTIFICIAL.
+Tipo de contato Síndrome tóxica Tratamento
+LÍQUIDO QUEIMARÁ A PELE. QUEIMARÁ OS REMOVER ROUPAS E SAPATOS
+OLHOS. VENENOSO, SE INGERIDO. CONTAMINADOS E ENXAGUAR COM MUITA
+ÁGUA. MANTER AS PÁLPEBRAS ABERTAS E
+ENXAGUAR COM MUITA ÁGUA. MANTER A
+VÍTIMA AQUECIDA.
+DADOS GERAIS Help
+Temperatura e armazenamento
+AMBIENTE.
+Ventilação para transporte
+PRESSÍO A VÁCUO.
+Estabilidade durante o transporte
+ESTÁVEL.
+Usos
+MATÉRIA PRIMA PARA AS RESINAS EPÓXI E FENÓLICAS; CURA DAS BORRACHAS A BASE DE PROPILENO; SOLVENTE PARA
+ÉTERES E ÉSTERES DE CELULOSE; EM RESINAS PARA INDÚSTRIA DE PAPEL.
+Grau de pureza
+99% .
+Radioatividade
+NÍO TEM.
+Método de coleta
+DADO NÍO DISPONÍVEL.
+Código NAS (National Academy of Sciences)
+FOGO SAÚDE POLUIÇÍO DAS ÁGUAS REATIVIDADE
+Fogo: 3 Vapor Irritante: 3 Toxicidade humana: 3 Outros Produtos Químicos: 3
+Líquido/Sólido Irritante: 3 Toxicidade aquática: 3 Água: 1
+Venenos: 4 Efeito estético: 2 Auto reação: 2
+OBSERVAÇÕES Help
+1) MENIDIA BERYLLINA: BIOENSAIO ESTÁTICO EM ÁGUA MARINHA SINTÉTICA A 23º C COM AERAÇÍO BRANDA APÓS 24 h;
+MELHOR RESULTADO A 96h: CL50 = 18 ppm. PEIXES: RASBORA sp: CL50 (48 h) = 36 ppm (BIOENSAIO ESTÁTICO E FLUXO)
+CYPRINODON VARIEGATUS = TLm (96 h) = 11,8 ppm CARASSIUS AURATUS (ÁGUA CONTINENTAL): DL50 (24 h) =23 mg/L 2)
+MUTAGENICIDADE SER HUMANO: "dns" = 5 mg/L (FIBROBLASTO) "cyt" = 10 umol/L/24 h (LINFÓCITO) "cyt" = 1 umol/L
+(LEUCÓCITO) "sce" = 50 umol/L (LINFÓCITO) TAXA DE TOXICIDADE DOS ORGANISMOS AQUÁTICOS: TLm(96 h) = 10ppm -
+100 ppm POTENCIAL DE IONIZAÇÍO (PI) = 10,6 eV

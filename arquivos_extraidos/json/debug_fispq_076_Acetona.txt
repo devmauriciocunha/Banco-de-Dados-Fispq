@@ -1,0 +1,361 @@
+--- PÁGINA 1 ---
+Comércio Indústria Importação Ltda
+FISPQ No: 001
+ACETONA
+Nov./2007
+FISPQ – FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTO QUÍMICO
+1. IDENTIFICAÇÍO DO PRODUTO E DA EMPRESA
+• Nome do produto: Acetona
+• Principais usos: Solvente
+• Nome da empresa: Quimidrol Comércio Indústria Importação Ltda.
+• Endereço: Rua Dona Francisca, 6505 – Distrito Industrial – Joinville – SC
+• Telefone: 0800 – 601-8700 ou (47) 3027-8700
+• Telefone para emergência: 0800 – 601-8700 ou (47) 3027-8700
+• Fax: (47) 3027-8712
+• Elaborado por: Claudia S. Portantiolo – CRQ XIII 13400549
+2. COMPOSIÇÍO E INFORMAÇÕES SOBRE OS INGREDIENTES
+• Substância: Este produto é uma substância pura.
+• Nome químico ou nome genérico: Acetona
+• Sinônimo: 2-propanona; Dimetilcetona; Cetona Propano; Propanona
+• Registro no Chemical Abstract Service (No CAS): 67-64-1
+• Ingredientes que contribuam para o perigo: Cetona
+• Classificação e rotulagem de perigo: Irritante / inflamável
+3. IDENTIFICAÇÍO DE PERIGOS
+• Principais perigos: Vapores inflamáveis podem ser liberados.
+• Efeitos agudos:
+Inalação: Quando inalados os vapores causam irritação da mucosa. Em altas concentrações
+os vapores inalados tem efeito narcótico e anestésico, e podem provocar dor-de-cabeça,
+vertigens, náuseas, sonolência, mal estar e perda de consciência. Em concentrações muito
+altas podem provocar até o coma.
+Ingestão: Quando ingerido provoca problemas gastro-intestinais, dor-de-cabeça, náuseas,
+vômito, narcoses e até o coma. A aspiração do produto nos pulmões pode causar
+pneumonite até a morte pela dificuldade de respiração.
+Pele: O contato com a pele causa o ressecamento, podendo provocar irritações e dermatites.
+Olhos: Causa irritação dos olhos, conjuntivite e queimadura química (líquido).
+• Efeitos ambientais
+FISPQ No: 001 Versão: 02 Data: Nov./2007 Página: 1 de 9
+--- PÁGINA 2 ---
+Comércio Indústria Importação Ltda
+FISPQ No: 001
+ACETONA
+Nov./2007
+FISPQ – FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTO QUÍMICO
+Ar: Vapores do produto reduzem a concentração do oxigênio no ar tornando o ambiente
+asfixiante e extremamente explosivo. A acetona é degradada fotoquimicamente formando
+radicais hidroxila.
+Água: O produto e a água resultante do combate ao fogo e de diluição são prejudicais a flora
+e a fauna. O produto é biodegradado lentamente.
+Solo: O produto derramado sobre o solo, poderá em parte ser evaporado e em parte ser
+lixiviado, e percolar e contaminar o lençol freático. Como é miscível com a água ele não é
+absorvido pelo solo.
+• Classificação do produto químico: Produto inflamável.
+4. MEDIDAS DE PRIMEIROS SOCORROS
+• Medidas de primeiros socorros:
+Inalação: Remova a vítima da área contaminada, mantendo-a deitada, quieta e aquecida.
+Manter as vias respiratórias livres, removendo dentes postiços (chapa), se tiver. Ministrar
+respiração artificial, se necessário. Administrar oxigênio e manobras de ressuscitação se
+necessário. Avaliar a necessidade de encaminhar ao médico.
+Contato com a pele: Remover roupas contaminadas. Não apalpar nem friccionar as partes
+atingidas. Lavar com água corrente abundante por 15 minutos (mínimo). Avaliar a
+necessidade de encaminhar ao médico.
+Contato com os olhos: Lavar com água corrente no mínimo por 15 minutos. Remova lentes
+de contato, se tiver. Consultar um médico oftalmologista.
+Ingestão: Não provoque vômito. Não provoque o vômito ou forneça água à vítima
+inconsciente ou com convulsões. Ministrar respiração artificial, se necessário.
+Chamar/encaminhar ao médico imediatamente, levando o rótulo do produto ou esta ficha.
+• Ações a serem evitadas: Não administrar nada oralmente ou provocar o vômito em
+vítima inconsciente ou com convulsão.
+• Notas para o médico: Realizar lavagem gástrica de forma cautelosa. Não forneça leite
+nem óleo comestível/digestíveis. Tratar a acidose.
+5. MEDIDAS DE PREVENÇÍO E COMBATE A INCÊNDIO
+• Meios de extinção apropriados: Água neblina, CO , espuma p/ álcool e pó químico.
+2
+• Meios de extinção contra indicados: Água jato pleno.
+• Métodos específicos: Evacue a área e combata o fogo a uma distância segura. Utilize
+diques para conter a água usada no combate. Posicionar-se de costas para o vento. Usar
+água em forma de neblina para resfriar equipamentos expostos nas proximidades do fogo.
+FISPQ No: 001 Versão: 02 Data: Nov./2007 Página: 2 de 9
+--- PÁGINA 3 ---
+Comércio Indústria Importação Ltda
+FISPQ No: 001
+ACETONA
+Nov./2007
+FISPQ – FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTO QUÍMICO
+• Equipamentos de proteção especial para combate ao fogo: Utilizar aparelhos de
+proteção de respiração independente do ar e roupas de aproximação / proteção à
+temperaturas elevadas.
+6. MEDIDAS DE CONTROLE PARA DERRAMAMENTO OU VAZAMENTO
+• Precauções pessoais: Vestir equipamento de proteção pessoal. Colocar as pessoas
+em segurança. Evitar contato com os olhos e pele. Evitar a inalação de névoas / vapores.
+Evite o contato direto com o líquido. Reduza os vapores usando água em spray.
+Remoção de fontes de ignição: Eliminar fontes quentes e de ignição.
+Controle de poeira: N.A.
+• Métodos de limpeza:
+Recuperação: Sempre que possível recupere o produto com material não inflamável
+(serragem, palha ou outro material absorvente) e remova o solo contaminado colocando-o em
+tonéis ou container para seu reaproveitamento ou tratamento. O produto que cair na água
+ficará na superfície, utilize barreiras de contenção para evitar o seu espalhamento e recupere
+o produto.
+Neutralização: N.D.
+Descarte: Incineração ou aterramento de acordo com regulamentação regional.
+7. MANUSEIO E ARMAZENAMENTO
+• Manuseio
+Medidas técnicas apropriadas: Manuseie de acordo com a boa higiene industrial e prática
+de segurança.
+- Prevenção da exposição do trabalhador: Usar semi-máscara com filtro para vapores
+orgânicos.
+- Prevenção de incêndio e explosão: Elimine fontes quentes e de ignição. Todos os
+equipamentos elétricos usados devem ser blindados e a prova de explosão. As instalações e
+equipamentos devem ser aterrados para evitar a eletricidade estática. Não fumar.
+- Precauções para manuseio seguro: Na operação de carga/descarga deve-se evitar
+quedas das embalagens, descidas em rampas sem proteção, rolamentos em terreno
+acidentado para evitar furos, amassamentos ou desaparecimento da identificação do produto.
+Orientação para manuseio seguro: Tambores contendo o produto devem ser armazenados
+sobre estrados ou ripas de madeira, ao abrigo do sol e chuvas e longe de chamas, fogo,
+faíscas e fontes de calor. O descarregamento das embalagens mais pesadas deve ser feito
+por meio de empilhadeiras. As embalagens NUNCA devem ser jogadas sobre pneus.
+• Armazenamento
+FISPQ No: 001 Versão: 02 Data: Nov./2007 Página: 3 de 9
+--- PÁGINA 4 ---
+Comércio Indústria Importação Ltda
+FISPQ No: 001
+ACETONA
+Nov./2007
+FISPQ – FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTO QUÍMICO
+Medidas técnicas adequadas: Local ventilado e afastado de produtos químicos
+incompatíveis.
+Condições de armazenamento:
+- Adequadas: Os tanques devem ser de aço carbono e de preferência inertizados.
+- A evitar: Exposição de tambores sob o sol, chuva e temperaturas elevadas.
+- Produtos e materiais incompatíveis: Manter afastado de agentes oxidantes fortes
+(cloratos, peróxidos, ácidos).
+Materiais seguros para embalagens:
+- Recomendados: Tambores de aço carbono para 200 litros, bombona de polietileno de alta
+densidade para 20 e 50 litros e frasco de polietileno para 1 e 5 litros.
+- De sinalização de risco:
+Classificação conforme Norma 704 da NFPA – National Fire Protection Agency
+4 – Extremo Saúde 1
+3 – Alto Inflamabilidade 3
+2 – Moderado Reatividade 0
+1 – Leve Especial -
+0 – Mínimo
+8. CONTROLE DE EXPOSIÇÍO E PROTEÇÍO INDIVIDUAL
+• Medidas de controle de engenharia: Manter o local de trabalho ventilado mantendo a
+concentração abaixo dos L.T. (Limites de Tolerância) recomendados. Em ambientes abertos
+e manobras posicionar-se a favor do vento.
+• Parâmetros de controle específicos:
+Limites de exposição ocupacional:
+Brasil – LT / NR 15 LT – MP VM
+PPM mg/m 3 PPM mg/m 3
+Acetona 780 1.870 N.E.
+ACGIH TWA STEL
+PPM mg/m 3 PPM mg/m 3
+Acetona 500 750
+FISPQ No: 001 Versão: 02 Data: Nov./2007 Página: 4 de 9
+--- PÁGINA 5 ---
+Comércio Indústria Importação Ltda
+FISPQ No: 001
+ACETONA
+Nov./2007
+FISPQ – FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTO QUÍMICO
+• Equipamentos de proteção individual apropriado:
+Proteção respiratória: Semi-máscara com filtro (Vapores Orgânicos) – acima de 1000 ppm.
+Para o caso de ambientes confinados e em altas concentrações: Máscara Autônoma de Ar ou
+Máscara de Ar Mandado – concentrações acima de 6.250 ppm.
+Máscara Autônoma de Ar ou Máscara de Ar mandado com proteção para todo rosto –
+concentrações acima de 12.500 ppm.
+Máscara Autônoma de Ar ou Máscara de Ar Mandado com proteção para todo rosto e roupa
+vedada com pressão positiva – concentrações acima de 20.000 ppm.
+Proteção das mãos: Luvas: impermeáveis – borracha butílica – PVA, Viton, neoprene.
+Proteção dos olhos: Óculos contra respingos e protetor facial.
+Proteção da pele e do corpo: Avental, calça e sapatos. Os tipos de auxílios para proteção
+do corpo devem ser escolhidos especialmente segundo o posto de trabalho em função da
+concentração e quantidade de substância.
+• Precauções especiais: Evitar a exposição maciça a vapores. Produtos químicos só
+devem ser manuseados por pessoas capacitadas e habilitadas. Os EPI’s devem possuir o CA
+(Certificado de Aprovação). Seguir rigidamente os procedimentos operacionais e de
+segurança nos trabalhos com produtos químicos. Nunca usar embalagens vazias (de
+produtos químicos) para armazenar produtos alimentícios. Nos locais onde se manipulam
+produtos químicos deverá ser realizado o monitoramento da exposição dos trabalhadores,
+conforme PPRA (Programa de Prevenção de Riscos Ambientais) da NR-9.
+• Medidas de higiene: Roupas, luvas, calçados, EPI’s devem ser limpos antes de sua
+reutilização. Use sempre para a higiene pessoal: água quente, sabão e cremes de limpeza.
+Lavar as mãos antes de ir ao banheiro, comer ou beber. Não usar gasolina, óleo diesel... ou
+outro solvente derivado de petróleo para a higiene pessoal. Bons procedimentos operacionais
+e de higiene industrial ajudam a reduzir os riscos no manuseio de produtos químicos.
+9. PROPRIEDADES FÍSICO - QUÍMICAS
+• Estado físico: Produto líquido e transparente a temperatura ambiente, isento de
+material em suspensão.
+• Cor: Incolor.
+• Odor: Odor pungente, adocicado e adstringente (forte) característico.
+• pH: N.A.
+• Temperaturas específicas ou faixas de temperatura nas quais ocorrem mudanças
+de estado físico:
+Ponto de destilação: 56 – 57 °C
+Ponto de fulgor: - 9 °C (vaso aberto) – Clevelant
+FISPQ No: 001 Versão: 02 Data: Nov./2007 Página: 5 de 9
+--- PÁGINA 6 ---
+Comércio Indústria Importação Ltda
+FISPQ No: 001
+ACETONA
+Nov./2007
+FISPQ – FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTO QUÍMICO
+- 17 °C (vaso fechado)
+Ponto de congelamento: - 94,9 °C
+• Limites de explosividade:
+LEI: (limite de exposividade inferior): 2,5 %
+LES: (limite de explosividade superior): 13,0 %
+• Pressão de vapor: 185,95 mmHg a 20 °C
+• Densidade do vapor: 2,2
+• Densidade: 0,792 a 20/4 °C
+• Solubilidade: Em água: Solúvel.
+Solventes orgânicos: Solúvel.
+• Taxa de evaporação: 11,6 (acetato de butila = 1)
+10. ESTABILIDADE E REATIVIDADE
+• Condições específicas:
+Instabilidade: Produto estável em condições normais. Não polimeriza.
+Reações perigosas: Manter longe de oxidantes químicos fortes (p. ex.: peróxidos, ácido
+nítrico, ácido sulfúrico concentrado), hidrocarbonetos halogenados, hidróxidos alcalinos,
+halogênios, etano aminas, metais alcalinos, compostos nitroso. Reage com vários materiais
+plásticos.
+• Condição a evitar: Fontes de calor e de ignição.
+• Produtos perigosos de decomposição: Combustão incompleta emitirá: vapor
+d’água, CO , monóxido de carbono (CO), vapores do produto, peróxidos, particulados e
+2
+fumaça tornando o ambiente asfixiante.
+11. INFORMAÇÕES TOXICOLÓGICAS
+• Informações de acordo com as diferentes vias de exposição:
+Toxicidade aguda: A substância é tóxica ao sangue, rins, pulmões e fígado. Não é tóxica ao
+SNC.
+Inalação: Quando inalados os vapores causam irritação da mucosa. Em altas concentrações
+os vapores inalados tem efeito narcótico e anestésico, e podem provocar dor-de-cabeça,
+vertigens, náuseas, sonolência, mal estar e perda de consciência. Em concentrações muito
+altas podem provocar até o coma.
+Contato com a pele: O contato com a pele causa o ressecamento, podendo provocar
+irritações e dermatites.
+FISPQ No: 001 Versão: 02 Data: Nov./2007 Página: 6 de 9
+--- PÁGINA 7 ---
+Comércio Indústria Importação Ltda
+FISPQ No: 001
+ACETONA
+Nov./2007
+FISPQ – FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTO QUÍMICO
+Contato com os olhos: Causa irritação dos olhos, conjuntivite e queimadura química
+(líquido).
+Ingestão: Quando ingerido provoca problemas gastro-intestinais, dor-de-cabeça, náuseas,
+vômito, narcoses e até o coma. A aspiração do produto aos pulmões pode causar
+pneumonite até a morte pela dificuldade de respiração.
+Efeitos: A possibilidade de ter efeitos carcinogênicos não está totalmente confirmada.
+Exposições repetidas a 25-920 ppm poderá causar conjuntivite crônica, bronquite, gastrite e
+faringite.
+• Efeitos específicos: Não foram constatados efeitos nocivos devido a exposições em
+ambientes industriais de trabalho. Em qualquer dos casos recorrer à assistência médica.
+Funcionários que manipulam produtos químicos devem ser monitorados biologicamente
+conforme PCMSO (Programa de Controle Médico de Saúde Ocupacional) da NR-7. A
+avaliação dos efeitos tóxicos foi baseada em informações do fornecedor e em bibliografia.
+Indicadores biológicos: Acetona na urina coletada no final da jornada – 50 mg/l.
+• Outros limites e valores:
+Concentração teto (TLV-C): N.E.
+Concentração letal (CL ): rato = 30.000 ppm por 4 horas
+50
+Dose letal (DL ): Homem DL = 2.857 mg/kg
+50 LO
+: camundongo-oral = 3.000 mg/kg
+: coelho-dermal = 20.000 mg/kg
+Limite de odor: 20 – 300 ppm
+IDHL: 20.000 ppm
+3
+A 1,2 g/m provoca irritação nos olhos e mucosas nasais.
+12. INFORMAÇÕES ECOLÓGICAS
+• Efeitos ambientais, comportamento e impactos do produto: Vapores do produto
+tornam o ambiente inflamável. É tóxico a vida aquática. O produto tende a formar películas
+superficiais sobre a água. No solo o produto poderá em parte percolar e contaminar o lençol
+freático.
+13. CONSIDERAÇÕES SOBRE TRATAMENTO E DISPOSIÇÍO
+• Método de tratamento e disposição:
+Produto: Sempre que possível o produto deverá ser recuperado, quando não for possível
+incineração ou aterramento de acordo com regulamentação federal ou regional.
+Resíduo do produto: Incineração ou aterramento de acordo com regulamentação federal ou
+regional.
+FISPQ No: 001 Versão: 02 Data: Nov./2007 Página: 7 de 9
+--- PÁGINA 8 ---
+Comércio Indústria Importação Ltda
+FISPQ No: 001
+ACETONA
+Nov./2007
+FISPQ – FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTO QUÍMICO
+Embalagens contaminadas: Não usar para armazenar água ou produtos para consumo
+humano. Queimar em incinerador ou colocar em aterro específico. Deveriam ser
+considerados como lixo perigoso e tomados os cuidados de acordo com os regulamentos
+locais.
+14. INFORMAÇÕES SOBRE O TRANSPORTE
+• Regulamentações nacionais e internacionais: Produto perigoso para o transporte,
+conforme Resolução N° 420 do Ministério dos Transportes.
+Transporte rodoviário no Brasil:
+- Número ONU: 1090
+- Nome apropriado para embarque: Acetona
+- Classe de risco/divisão: 3
+- Número de risco: 33
+- Risco subsidiário: N.A.
+Transporte rodoviário no Mercosul:
+- Número ONU: 1090
+- Nome apropriado para embarque: Acetona
+- Classe de risco/divisão: 3
+- Número de risco: 33
+- Risco subsidiário: N.A.
+15. REGULAMENTAÇÕES
+• Informações sobre riscos e segurança:
+Frases de risco:
+R – 10 = Inflamável
+Frases de Segurança:
+S – 16 = manter afastado de qualquer chama ou fonte de faísca. Não fumar.
+S – 26 = Em caso de contato com os olhos, lavar imediatamente com bastante água e
+consultar um especialista.
+S – 36/37 = Usar roupas de proteção e luvas adequadas.
+• FISPQ (Ficha de Informações de Segurança de Produto Químico) em conformidade
+com o Decreto 2657 de 03.07.98/07.01, contém informações diversas sobre um determinado
+produto químico, quanto à proteção, à segurança, à saúde e ao meio ambiente. Em alguns
+países, essa ficha é chamada de Material Safety Data Sheet - MSDS. A norma brasileira NBR
+14725, válida desde 28.01.2002, apresenta informações para a elaboração e o
+preenchimento de uma FISPQ. Apesar de não definir um formato fixo, esta norma estabelece
+que as informações sobre o produto químico devem ser distribuídas, na FISPQ, por 16
+seções determinadas, cuja terminologia, numeração e seqüência não devem ser alteradas.
+FISPQ No: 001 Versão: 02 Data: Nov./2007 Página: 8 de 9
+--- PÁGINA 9 ---
+Comércio Indústria Importação Ltda
+FISPQ No: 001
+ACETONA
+Nov./2007
+FISPQ – FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTO QUÍMICO
+• Transporte de Produtos Perigosos: Decreto No 96.044, de 18/maio/1988 (Aprova o
+regulamento técnico para o transporte rodoviário de produtos perigosos e dá outras
+providencias). Resolução do Ministério dos Transportes No 420 de 12/Fev./2004, (aprova as
+instruções complementares ao regulamento do transporte terrestre de produtos perigosos).
+16. OUTRAS INFORMAÇÕES
+• Nos locais onde se manipulam produtos químicos deverá ser realizado o
+monitoramento da exposição dos trabalhadores, conforme PPRA (Programa de Prevenção de
+Riscos Ambientais) da NR-9. Funcionários que manipulam produtos químicos em geral,
+devem ser monitorados biologicamente conforme PCMSO (Programa Médico de Saúde
+Ocupacional) da NR-7.
+• As informações e recomendações constantes desta publicação foram pesquisadas e
+compiladas de fontes idôneas e capacitadas para emiti-las. Os dados dessa Ficha referem-se
+a um produto específico e podem não ser válidos onde esse produto estiver sendo usado em
+combinação com outros.
+• Siglas utilizadas:
+LT – MP = Limite de Tolerância – Média Ponderada
+ACGIH: American Conference of Governmental Industial Hygienists
+TLV – TWA: Threshold Limit Value – Time-Weighted Average Concentration
+TLV – STEL: Threshold Limit Value – Short Threshold Exposition Limit
+IMDG = International Maritime Dangerous Goods Code
+IATA – DGR = International Air Transport Association – Dangerous Goods Regulation
+IARC = International Agency for Research on Cancer
+PPRA = Programa de Prevenção de Riscos Ambientais
+PCMSO = Programa de Controle Médico de Saúde Ocupacional
+NR = Norma Regulamentadora
+PPM = Parte Por Milhão
+mg/m3 = Miligrama por Metro Cúbico
+N.D. =Não Disponível
+N.A. = Não se Aplica
+N.R. = Não Relevante
+VM = Valor Máximo
+FISPQ No: 001 Versão: 02 Data: Nov./2007 Página: 9 de 9

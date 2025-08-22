@@ -1,0 +1,218 @@
+--- PÁGINA 1 ---
+SIGMA-ALDRICH
+FICHA DE DADOS DE SEGURANÇA
+de acordo com a Regulamento (CE) No. 1907/2006
+Versão 3.0 Data de revisão 15.06.2009
+Data de impressão 09.06.2010
+ENERIC EU MSDS - NO COUNTRY SPECIFIC DATA - NO OEL DATA
+1. IDENTIFICAÇÍO DA SUBSTÂNCIA/PREPARAÇÍO E DA SOCIEDADE/EMPRESA
+Nome do produto : 1,2-Dibromoethane
+Referência do Produto : 03505
+Marca : Fluka
+Companhia : Sigma-Aldrich Brasil Ltda.
+Av. das Nações Unidas, 23.043
+04795-100 SÍO PAULO - SP
+BRAZIL
+Telefone : +551137323100
+Número de Fax : +551155229895
+Núnero de Telefone de :
+Emergência
+2. IDENTIFICAÇÍO DOS PERIGOS
+Precauções para o homem e para o ambiente
+Pode causar cancro. Também tóxico por inalação, em contacto com a pele e por ingestão. Irritante para os
+olhos, vias respiratórias e pele. Tóxico para os organismos aquáticos, podendo causar efeitos nefastos a
+longo prazo no ambiente aquático.
+3. COMPOSIÇÍO/INFORMAÇÍO SOBRE OS COMPONENTES
+Sinónimos : EDB
+Ethylene dibromide
+Formula : C2H4Br2
+Peso molecular : 187,86 g/mol
+Nº CAS No. CE No. de Index Classificação Concentração
+1,2-dibromoetano
+106-93-4 203-444-5 602-010-00-6 T, N, Carc.Cat.2, R45 - -
+R23/24/25 - R36/37/38 -
+R51/53
+4. PRIMEIROS SOCORROS
+Recomendação geral
+Consultar um médico. Mostrar esta ficha de segurança ao médico de serviço.
+Se for inalado
+Se for respirado, levar a pessoa para o ar fresco. Se não respirar, aplicar a respiração artificial. Consultar um
+médico.
+No caso dum contacto com a pele
+Lavar com sabão e muita água. Transportar imediatamente paciente para um Hospital. Consultar um médico.
+No caso dum contacto com os olhos
+Lavar cuidadosamente com muita água, durante pelo menos quinze minutos, e consultar o médico.
+Fluka - 03505 www.sigma-aldrich.com Página 1 of 5
+--- PÁGINA 2 ---
+Se for engolido
+Nunca dar nada pela boca a uma pessoa inconsciente. Enxaguar a boca com água. Consultar um médico.
+5. MEDIDAS DE COMBATE A INCÊNDIO
+Meios adequados de extinção
+Utilizar água pulverizada, espuma resistente ao álcool, produto químico seco ou dióxido de carbono.
+Equipamento especial de protecção a utilizar pelo pessoal de combate a incêndio
+Usar equipamento de respiração autónomo para combate a incêndios, se necessário.
+6. MEDIDAS A TOMAR EM CASO DE FUGAS ACIDENTAIS
+Precauções individuais
+Pôr uma protecção respiratória. Evitar a respiração do vapor/névoa/gas. Assegurar ventilação adequada.
+Evacuar o pessoal para áreas de segurança.
+Precauções ambientais
+Prevenir dispersão ou derramamento ulterior se for mais seguro assim. Não permitir a entrada do produto no
+sistema de esgotos. A descarga no meio ambiente deve ser evitada.
+Métodos de limpeza
+Embeber em material inerte e absorvente e tratar como desperdício especial. Manter em recipientes fechados
+adequados, para eliminação.
+7. MANUSEAMENTO E ARMAZENAGEM
+Manuseamento
+Evitar a inalação do vapor ou da névoa.Evitar a exposição - obter instruções específicas antes da utilização.
+Medidas usuais de protecção preventiva contra incêndio.
+Armazenagem
+Armazenar em local fresco. Guardar o recipiente herméticamente fechado em lugar seco e bem ventilado. Os
+contentores abertos devem ser cuidadosamente fechados de novo e têm que ficar direitos para evitar a
+dispersão.
+Sensível à luz. Pode escurecer durante o armazenamento
+8. CONTROLO DA EXPOSIÇÍO/PROTECÇÍO PESSOAL
+Protecção individual
+Protecção respiratória
+Nos casos em que a avaliação de risco mostrar que os respiradores purificadores do ar são apropriados,
+use um respirador de cobertura facial total com cartuchos de combinação multi-objectivos (E.U.A.) ou do
+tipo ABEK (EN 14387) como apoio a controlos de engenharia. Se o respirador for o único meio de
+protecção, usa um respirador de ar de cobertura facial total. Use respiradores e componentes testados e
+aprovados por normas governamentais apropriadas, tais como as NIOSH (E.U.A.) ou CEN (UE).
+Protecção das mãos
+As luvas de protecção selecionadas devem satisfazer as especificações da Directiva da UE 89/686/CEE e
+o estandarte EN 374 derivado dele. Manusear com luvas.
+Protecção dos olhos
+Mascaras de protecção e óculos de segurança.
+Protecção do corpo e da pele
+Escolher uma protecção para o corpo conforme a quantidade e a concentração das substâncias perigosas
+no lugar de trabalho.
+Medidas de higiene
+Evitar o contacto com a pele, olhos e vestuário. Lavar as mãos antes de interrupções do trabalho, e
+imediatamente a seguir ao manuseamento do produto.
+Fluka - 03505 www.sigma-aldrich.com Página 2 of 5
+--- PÁGINA 3 ---
+9. PROPRIEDADES FÍSICAS E QUÍMICAS
+Aspecto
+Estado físico líquido
+Dados de segurança
+pH dados não disponíveis
+Ponto de fusão 8 - 11 °C
+Ponto de ebulição 131 - 132 °C
+Ponto de inflamação dados não disponíveis
+Temperatura de dados não disponíveis
+ignição
+Limites de explosão, dados não disponíveis
+inferior
+Limite de explosão, dados não disponíveis
+superior
+Pressão de vapor 72,0 hPa a 55,0 °C
+Hidrossolubilidade dados não disponíveis
+10. ESTABILIDADE E REACTIVIDADE
+Estabilidade em armazenamento
+Estável sob as condições recomendadas de armazenamento.
+Matérias a evitar
+Metais alcalinos, Oxidantes, Magnésio
+Produtos de decomposição perigosos
+Produtos perigosos de decomposição formados durante os incêndios. - Óxidos de carbono, Gás bromídrico
+11. INFORMAÇÍO TOXICOLÓGICA
+Toxicidade aguda
+LDLO Oral - Humano - fêmea - 90,0 mg/kg
+Observações: Diarreia A ingestão pode causar irritação gastrointestinal, náuseas, vómitos e diarreia. Rins,
+ureteres e bexiga urinária: Diminuição do volume da urina.
+DL50 Oral - coelho - 55,0 mg/kg
+DL50 Oral - porquinho da índia - 110,0 mg/kg
+DL50 Oral - Frango - 79,0 mg/kg
+DL50 Oral - Codorniz - 130,0 mg/kg
+Observações: Comportamento: Sonolência (diminuição da actividade geral) Pulmões, tórax ou respiração:
+Dispnéia Diarreia
+CL50 Inalação - ratazana - 0,5 h - 14.300 mg/m3
+Observações: Sensibilidade e nervos periféricos: parálise flácida sem anestesia (geralmente por bloqueio
+neuromuscular) Comportamento: Sonolência (diminuição da actividade geral) Pulmões, tórax ou respiração:
+Dispnéia
+DL50 Dérmico - coelho - 300,0 mg/kg
+Observações: Nutrição e Metabolismo geral: Alterações: Diminuição da temperatura corporal. Extremamente
+corrosivo e destrutivo para os tecidos.
+Irritação ou corrosão
+Fluka - 03505 www.sigma-aldrich.com Página 3 of 5
+--- PÁGINA 4 ---
+Pele - coelho - Grave irritação da pele - 336 h
+Sensibilização
+A exposição repetida ou prolongada pode provocar reações alérgicas em determinados indivíduos alérgicos.
+Exposição crónica
+Este produto é ou contém um componente que foi relatado como sendo provavelmente carcinogênico
+segundo sua classificação pela IARC, OSHA, ACGIH, NTP ou EPA.
+IARC: 2A - Group 2A: Probably carcinogenic to humans (1,2-dibromoetano)
+Sinais e sintomas de exposição
+<** Phrase language not available: [ PT ] CUST - SIAL00000003910 **>, Distúrbios gastro-intestinais, Até
+onde sabemos, as propriedades químicas, físicas e toxicológicas não foram minuciosamente investigadas.
+Efeitos potenciais sobre a saúde
+Inalação Tóxico se inalado. Causa uma irritação no aparelho respiratório.
+Pele Tóxico se absorvido através da pele. Causa uma irritação da pele.
+Olhos Causa uma irritação nos olhos.
+Ingestão Tóxico se ingerido.
+Orgãos alvo Fígado, Rim, Pulmões, Olhos,
+Informação adicional
+RTECS: KH9275000
+12. INFORMAÇÍO ECOLÓGICA
+Informação sobre eliminação (persistência e degradabilidade)
+dados não disponíveis
+Efeitos de ecotoxicidade
+Toxicidade em Inibição do crescimento NOEC - Oryzias latipes - 5,81 mg/l - 96 h
+peixes
+Inibição do crescimento LOEC - Oryzias latipes - 9,62 mg/l - 96 h
+CL50 - Oryzias latipes - 32,1 mg/l - 96 h
+Informações suplementares sobre a ecologia
+Tóxico para os organismos aquáticos, podendo causar efeitos nefastos a longo prazo no ambiente aquático.
+13. CONSIDERAÇÕES RELATIVAS À ELIMINAÇÍO
+Produto
+Observar todos os regulamentos ambientais federais, estaduais e locais. Entrar em contato com um serviço
+profissional credenciado de descarte de lixo para descartar esse material. Dissolver ou misturar o material com
+um solvente combustível e queimar em incinerador químico equipado com pós-combustor e purificador de
+gases.
+Embalagens contaminadas
+Eliminar como produto Não utilizado.
+14. INFORMAÇÕES RELATIVAS AO TRANSPORTE
+ADR/RID
+Número ONU: 1605 Classe: 6.1 Grupo de embalagem: I
+Denominação de expedição correcta: ETHYLENE DIBROMIDE
+IMDG
+Fluka - 03505 www.sigma-aldrich.com Página 4 of 5
+--- PÁGINA 5 ---
+Número ONU: 1605 Classe: 6.1 Grupo de embalagem: I EMS-No:
+F-A, S-A
+Denominação de expedição correcta: ETHYLENE DIBROMIDE
+Poluente marinho: No
+IATA
+Número ONU: 1605 Classe: 6.1
+Denominação de expedição correcta: Ethylene dibromide
+IATA Passenger: Não permitido para o transporte
+IATA Cargo: Não permitido para o transporte
+15. INFORMAÇÍO SOBRE REGULAMENTAÇÍO
+Rotulado de acordo com as directivas da CE
+Rotulagem CE
+Símbolos de perigo
+T Tóxico
+N Perigoso para o ambiente
+Frase(s) - R
+R45 Pode causar cancro.
+R23/24/25 Também tóxico por inalação, em contacto com a pele e por ingestão.
+R36/37/38 Irritante para os olhos, vias respiratórias e pele.
+R51/53 Tóxico para os organismos aquáticos, podendo causar efeitos nefastos a longo
+prazo no ambiente aquático.
+Frase(s) - S
+S53 Evitar a exposição - obter instruções específicas antes da utilização.
+S45 Em caso de acidente ou de indisposição, consultar imediatamente o médico (se
+possível mostrar-lhe o rótulo).
+S61 Evitar a libertação para o ambiente. Obter instruções específicas/fichas de
+segurança.
+Reservado aos utilizadores profissionais.
+16. OUTRAS INFORMAÇÕES
+Outras informações
+Direitos exclusivos, 2009, da Sigma-Aldrich. Permissão concedida para fazer número ilimitado de cópias
+em papel, somente para uso interno.
+Acredita-se que as informações acima estejam corretas, embora não pretendam ser totalmente
+abrangentes, devendo ser usadas apenas como um guia. A Sigma-Aldrich não deverá ter responsabilidade
+legal por quaisquer danos resultantes do manuseio ou do contato com o produto acima. Consultar o verso
+da fatura ou nota que acompanha o produto para tomar conhecimento dos termos adicionais e condições
+de venda.
+Fluka - 03505 www.sigma-aldrich.com Página 5 of 5

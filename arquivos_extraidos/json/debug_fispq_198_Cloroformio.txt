@@ -1,0 +1,234 @@
+--- PÁGINA 1 ---
+SIGMA-ALDRICH
+FICHA DE DADOS DE SEGURANÇA
+de acordo com a Regulamento (CE) No. 1907/2006
+Versão 3.4 Data de revisão 06.02.2009
+Data de impressão 09.06.2010
+ENERIC EU MSDS - NO COUNTRY SPECIFIC DATA - NO OEL DATA
+1. IDENTIFICAÇÍO DA SUBSTÂNCIA/PREPARAÇÍO E DA SOCIEDADE/EMPRESA
+Nome do produto : Chloroform
+Referência do Produto : C2432
+Marca : Sigma-Aldrich
+Companhia : Sigma-Aldrich Brasil Ltda.
+Av. das Nações Unidas, 23.043
+04795-100 SÍO PAULO - SP
+BRAZIL
+Telefone : +551137323100
+Número de Fax : +551155229895
+Núnero de Telefone de :
+Emergência
+2. IDENTIFICAÇÍO DOS PERIGOS
+Precauções para o homem e para o ambiente
+Nocivo por ingestão. Irritante para a pele. Possibilidade de efeitos cancerígenos. Nocivo: risco de efeitos
+graves para a saúde em caso de exposição prolongada por inalação e ingestão.
+3. COMPOSIÇÍO/INFORMAÇÍO SOBRE OS COMPONENTES
+Sinónimos : Trichloromethane
+Methylidyne trichloride
+Formula : CHCl3
+Nº CAS No. CE No. de Index Classificação Concentração
+Chloroform
+67-66-3 200-663-8 602-006-00-4 Xn, Carc.Cat.3, R22 - R38 - >= 99,5 %
+R40 - R48/20/22
+Chloroform
+67-66-3 200-663-8 602-006-00-4 Xn, Carc.Cat.3, R22 - R38 - >= 99,5 %
+R40 - R48/20/22
+2-Methyl-2-butene
+513-35-9 208-156-3 - F, Xn, R11 - R22 >= 0,001 - <= 0,015
+%
+Para o texto completo sobre as frases R mencionadas nesta Secção, ver a Secção 16.
+4. PRIMEIROS SOCORROS
+Recomendação geral
+Consultar um médico. Mostrar esta ficha de segurança ao médico de serviço.
+Sigma-Aldrich - C2432 www.sigma-aldrich.com Página 1 of 6
+--- PÁGINA 2 ---
+Se for inalado
+Se for respirado, levar a pessoa para o ar fresco. Se não respirar, aplicar a respiração artificial. Consultar um
+médico.
+No caso dum contacto com a pele
+Lavar com sabão e muita água. Consultar um médico.
+No caso dum contacto com os olhos
+Lavar cuidadosamente com muita água, durante pelo menos quinze minutos, e consultar o médico.
+Se for engolido
+Nunca dar nada pela boca a uma pessoa inconsciente. Enxaguar a boca com água. Consultar um médico.
+5. MEDIDAS DE COMBATE A INCÊNDIO
+Meios adequados de extinção
+Utilizar água pulverizada, espuma resistente ao álcool, produto químico seco ou dióxido de carbono.
+Equipamento especial de protecção a utilizar pelo pessoal de combate a incêndio
+Usar equipamento de respiração autónomo para combate a incêndios, se necessário.
+6. MEDIDAS A TOMAR EM CASO DE FUGAS ACIDENTAIS
+Precauções individuais
+Usar equipamento de protecção individual. Evitar a respiração do vapor/névoa/gas. Assegurar ventilação
+adequada.
+Precauções ambientais
+Não permitir a entrada do produto no sistema de esgotos.
+Métodos de limpeza
+Embeber em material inerte e absorvente e tratar como desperdício especial. Manter em recipientes fechados
+adequados, para eliminação.
+7. MANUSEAMENTO E ARMAZENAGEM
+Manuseamento
+Evitar o contacto com a pele e os olhos. Evitar a inalação do vapor ou da névoa.
+Medidas usuais de protecção preventiva contra incêndio.
+Armazenagem
+Armazenar em local fresco. Guardar o recipiente herméticamente fechado em lugar seco e bem ventilado. Os
+contentores abertos devem ser cuidadosamente fechados de novo e têm que ficar direitos para evitar a
+dispersão.
+8. CONTROLO DA EXPOSIÇÍO/PROTECÇÍO PESSOAL
+Protecção individual
+Protecção respiratória
+Nos casos em que a avaliação de risco mostrar que os respiradores purificadores do ar são apropriados,
+usa um respirador de cobertura facial total com cartuchos de combinação multi-objectivos (E.U.A.) ou do
+tipo AXBEK (EN 14387) como apoio a controlos de engenharia. Se o respirador for o único meio de
+protecção, usa um respirador de ar de cobertura facial total. Use respiradores e componentes testados e
+aprovados por normas governamentais apropriadas, tais como as NIOSH (E.U.A.) ou CEN (UE).
+Protecção das mãos
+As luvas de protecção selecionadas devem satisfazer as especificações da Directiva da UE 89/686/CEE e
+o estandarte EN 374 derivado dele. Manusear com luvas.
+Protecção dos olhos
+Óculos de segurança
+Protecção do corpo e da pele
+Escolher uma protecção para o corpo conforme a quantidade e a concentração das substâncias perigosas
+Sigma-Aldrich - C2432 www.sigma-aldrich.com Página 2 of 6
+--- PÁGINA 3 ---
+no lugar de trabalho.
+Medidas de higiene
+Manusear de acordo com as boas práticas industriais de higiéne e segurança. Lavar as mãos antes de
+interrupções, e no final do dia de trabalho.
+9. PROPRIEDADES FÍSICAS E QUÍMICAS
+Aspecto
+Estado físico líquido, claro
+Cor incolor
+Dados de segurança
+pH dados não disponíveis
+Ponto de fusão -63 °C
+Ponto de ebulição 60,5 - 61,5 °C
+Ponto de inflamação dados não disponíveis
+Temperatura de dados não disponíveis
+ignição
+Limites de explosão, dados não disponíveis
+inferior
+Limite de explosão, dados não disponíveis
+superior
+Pressão de vapor 213,3 hPa a 20,0 °C
+Hidrossolubilidade dados não disponíveis
+Coeficiente de log Pow: 1,97
+epartição n-
+octanol/água
+10. ESTABILIDADE E REACTIVIDADE
+Estabilidade em armazenamento
+Estável sob as condições recomendadas de armazenamento.
+Matérias a evitar
+Agentes oxidantes fortes, Bases fortes, Magnésio, Sódio/óxidos de sódio, Lítio
+Produtos de decomposição perigosos
+Produtos perigosos de decomposição formados durante os incêndios. - Óxidos de carbono, Fosgeno, Cloro
+Contem o(s) estabilizadore(s) seguintes:
+2-Methyl-2-butene (>=0,001 - <=0,015 %)
+11. INFORMAÇÍO TOXICOLÓGICA
+Toxicidade aguda
+DL50 Oral - ratazana - 695,0 mg/kg
+Observações: Comportamento: Alteração da actividade motora (teste específico) Comportamento: Ataxia
+Pulmões, tórax ou respiração: Estimulação da respiração.
+CL50 Inalação - ratazana - 4 h - 47.702 mg/m3
+DL50 Dérmico - coelho - > 20.000 mg/kg
+Irritação ou corrosão
+Pele - coelho - Leve irritação da pele - 24 h
+Sigma-Aldrich - C2432 www.sigma-aldrich.com Página 3 of 6
+--- PÁGINA 4 ---
+Olhos - coelho - Irritação dos olhos - 24 h
+Sensibilização
+dados não disponíveis
+Exposição crónica
+Carcinogenicidade - ratazana - Oral
+Oncogenia: Carcinogénico segundo os critérios de RTECS. Leucemia
+Este produto é ou contém um componente que foi relatado como sendo provavelmente carcinogênico
+segundo sua classificação pela IARC, OSHA, ACGIH, NTP ou EPA. The National Cancer Institute - NCI
+(Instituto Nacional do Câncer) encontrou provas inequívocas de carcinogenicidade.
+IARC: 2B - Group 2B: Possibly carcinogenic to humans (Chloroform)
+Experimentos laboratoriais demonstraram efeitos mutagênicos.
+Sinais e sintomas de exposição
+Vómitos, Distúrbios gastro-intestinais, A exposição e/ou consumo de álcool pode aumentar os efeitos tóxicos.,
+Até onde sabemos, as propriedades químicas, físicas e toxicológicas não foram minuciosamente investigadas.
+Efeitos potenciais sobre a saúde
+Inalação Nocivo se for inalado. Pode causar uma irritação do aparelho respiratório.
+Pele Pode ser perigoso se for absorto pela pele. Causa uma irritação da pele.
+Olhos Pode causar uma irritação dos olhos.
+Ingestão Nocivo por ingestão.
+Orgãos alvo Sistema nervoso central, Sangue, Fígado, Sistema cardiovascular, Rim,Sistema
+cardiovascular, Sistema nervoso central, Sangue, Fígado, Rim,
+Informação adicional
+RTECS: FS9100000
+12. INFORMAÇÍO ECOLÓGICA
+Informação sobre eliminação (persistência e degradabilidade)
+Bioacumulação Lepomis macrochirus - 14 d
+Factor de bioconcentração (BCF): 6
+Efeitos de ecotoxicidade
+Toxicidade em CL50 - Leuciscus idus (Carpa dourada) - 162,00 mg/l - 48 h
+peixes
+CL100 - Leuciscus idus (Carpa dourada) - 220,00 mg/l - 48 h
+CL50 - Não existe informação disponível. - 97,00 mg/l - 96 h
+CL50 - Brachydanio rerio (zebra fish) - 121,00 mg/l - 96 h
+NOEC - Oryzias latipes - 122 mg/l - 10 d
+NOEC - Oncorhynchus mykiss (truta arco-íris) - 24 mg/l - 96 h
+Toxicidade em CE50 - Daphnia magna - 79,00 mg/l - 24 h
+dáfnias e outros
+invertebrados
+aquáticos.
+Imobilização CE50 - Daphnia magna - 51,6 mg/l - 48 h
+NOEC - Daphnia magna - 120 mg/l - 11 d
+Toxicidade em algas CE50 - Não existe informação disponível. - 500,00 mg/l - 24 h
+Sigma-Aldrich - C2432 www.sigma-aldrich.com Página 4 of 6
+--- PÁGINA 5 ---
+Informações suplementares sobre a ecologia
+dados não disponíveis
+13. CONSIDERAÇÕES RELATIVAS À ELIMINAÇÍO
+Produto
+Observar todos os regulamentos ambientais federais, estaduais e locais. Entrar em contato com um serviço
+profissional credenciado de descarte de lixo para descartar esse material. Dissolver ou misturar o material com
+um solvente combustível e queimar em incinerador químico equipado com pós-combustor e purificador de
+gases.
+Embalagens contaminadas
+Eliminar como produto Não utilizado.
+14. INFORMAÇÕES RELATIVAS AO TRANSPORTE
+ADR/RID
+Número ONU: 1888 Classe: 6.1 Grupo de embalagem: III
+Denominação de expedição correcta: CHLOROFORM
+IMDG
+Número ONU: 1888 Classe: 6.1 Grupo de embalagem: III EMS-No: F-A, S-A
+Denominação de expedição correcta: CHLOROFORM
+Poluente marinho: No
+IATA
+Número ONU: 1888 Classe: 6.1 Grupo de embalagem: III
+Denominação de expedição correcta: Chloroform
+15. INFORMAÇÍO SOBRE REGULAMENTAÇÍO
+Rotulado de acordo com as directivas da CE
+Rotulagem CE
+Símbolos de perigo
+Xn Nocivo
+Frase(s) - R
+R22 Nocivo por ingestão.
+R38 Irritante para a pele.
+R40 Possibilidade de efeitos cancerígenos.
+R48/20/22 Nocivo: risco de efeitos graves para a saúde em caso de exposição prolongada por
+inalação e ingestão.
+Frase(s) - S
+S36/37 Usar vestuário de protecção e luvas adequadas.
+Componentes determinadores de perigo para o rótulo:
+67-66-3 Chloroform
+16. OUTRAS INFORMAÇÕES
+Texto das Frases-R mencionado na Secção 3
+R11 Facilmente inflamável.
+R22 Nocivo por ingestão.
+R38 Irritante para a pele.
+R40 Possibilidade de efeitos cancerígenos.
+R48/20/22 Nocivo: risco de efeitos graves para a saúde em caso de exposição prolongada por
+inalação e ingestão.
+Outras informações
+Sigma-Aldrich - C2432 www.sigma-aldrich.com Página 5 of 6
+--- PÁGINA 6 ---
+Direitos exclusivos, 2009, da Sigma-Aldrich. Permissão concedida para fazer número ilimitado de cópias
+em papel, somente para uso interno.
+Acredita-se que as informações acima estejam corretas, embora não pretendam ser totalmente
+abrangentes, devendo ser usadas apenas como um guia. A Sigma-Aldrich não deverá ter responsabilidade
+legal por quaisquer danos resultantes do manuseio ou do contato com o produto acima. Consultar o verso
+da fatura ou nota que acompanha o produto para tomar conhecimento dos termos adicionais e condições
+de venda.
+Sigma-Aldrich - C2432 www.sigma-aldrich.com Página 6 of 6

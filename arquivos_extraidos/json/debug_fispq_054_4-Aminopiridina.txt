@@ -1,0 +1,265 @@
+--- PÁGINA 1 ---
+SIGMA-ALDRICH
+sigma-aldrich.com
+FICHA DE DADOS DE SEGURANÇA
+de acordo com a Regulamento (CE) No. 1907/2006
+Versão 4.0 Data de revisão 13.03.2010
+Data de impressão 09.06.2010
+ENERIC EU MSDS - NO COUNTRY SPECIFIC DATA - NO OEL DATA
+1. IDENTIFICAÇÍO DA SUBSTÂNCIA/MISTURA E DA SOCIEDADE/EMPRESA
+Nome do produto : 4-Aminopyridine
+Referência do Produto : 275875
+Marca : Aldrich
+Companhia : Sigma-Aldrich Brasil Ltda.
+Av. das Nações Unidas, 23.043
+04795-100 SÍO PAULO - SP
+BRAZIL
+Telefone : +551137323100
+Número de Fax : +551155229895
+Núnero de Telefone de :
+Emergência
+2. IDENTIFICAÇÍO DOS PERIGOS
+Classificação da substância ou da mistura
+Nos termos do Regulamento (CE) No1272/2008
+Toxicidade aguda, Oral (Categoria 2)
+Irritação cutânea (Categoria 2)
+Iirritação ocular (Categoria 2)
+Toxicidade para órgãos-alvo específicos - exposição única (Categoria 3)
+De acordo com a directiva Europeia 67/548/CEE, e emendas.
+Muito tóxico por ingestão. Irritante para os olhos, vias respiratórias e pele. Tóxico para os organismos
+aquáticos, podendo causar efeitos nefastos a longo prazo no ambiente aquático.
+Elementos da etiqueta
+Pictograma
+Palavra-sinal Perigo
+Declaração de perigo
+H300 Mortal por ingestão.
+H315 Provoca irritação cutânea.
+H319 Provoca irritação ocular grave.
+H335 Pode provocar irritação das vias respiratórias.
+declaração de precaução
+P261 Evitar respirar as poeiras/fumos/gases/névoas/vapores/aerossóis.
+P264 Lavar as mãos cuidadosamente após manuseamento.
+P301 + P310 EM CASO DE INGESTÍO: contacte imediatamente um CENTRO DE
+INFORMAÇÍO ANTIVENENOS ou um médico.
+P305 + P351 + P338 SE ENTRAR EM CONTACTO COM OS OLHOS: enxaguar
+cuidadosamente com água durante vários minutos. Se usar lentes de
+contacto, retire-as, se tal lhe for possível. Continuar a enxaguar.
+símbolo de perigosidade
+T+ Muito tóxico
+N Perigoso para o ambiente
+Aldrich - 275875 Página 1 de 6
+--- PÁGINA 2 ---
+Frase(s) - R
+R28 Muito tóxico por ingestão.
+R36/37/38 Irritante para os olhos, vias respiratórias e pele.
+R51/53 Tóxico para os organismos aquáticos, podendo causar efeitos nefastos a
+longo prazo no ambiente aquático.
+Frase(s) - S
+S26 Em caso de contacto com os olhos, lavar imediata e abundantemente com
+água e consultar um especialista.
+S36/37/39 Usar vestuário de protecção, luvas e equipamento protector para os
+olhos/face adequados.
+S45 Em caso de acidente ou de indisposição, consultar imediatamente o
+médico (se possível mostrar-lhe o rótulo).
+S60 Este produto e o seu recipiente devem ser eliminados como resíduos
+perigosos.
+S61 Evitar a libertação para o ambiente. Obter instruções específicas/fichas de
+segurança.
+Outros Perigos - nenhum(a)
+3. COMPOSIÇÍO/INFORMAÇÍO SOBRE OS COMPONENTES
+Sinónimos : Fampridine
+4-Pyridylamine
+4-Pyridinamine
+Formula : C5H6N2
+Peso molecular : 94,11 g/mol
+No. CAS No. CE No. de Index Classificação Concentração
+4-Pyridylamine
+504-24-5 207-987-9 - Acute Tox. 2; Skin Irrit. 2; Eye -
+Irrit. 2; STOT SE 3; H300,
+H315, H319, H335
+T+, N, R28 - R36/37/38 -
+R51/53
+Para o pleno texto das DECLARAÇÕES H mencionadas nesta Secção, ver a Secção 16.
+4. PRIMEIROS SOCORROS
+Recomendação geral
+Consultar um médico. Mostrar esta ficha de segurança ao médico de serviço.
+Se for inalado
+Se for respirado, levar a pessoa para o ar fresco. Se não respirar, aplicar a respiração artificial. Consultar um
+médico.
+No caso dum contacto com a pele
+Lavar com sabão e muita água. Consultar um médico.
+No caso dum contacto com os olhos
+Lavar cuidadosamente com muita água, durante pelo menos quinze minutos, e consultar o médico.
+Se for engolido
+Nunca dar nada pela boca a uma pessoa inconsciente. Enxaguar a boca com água. Consultar um médico.
+5. MEDIDAS DE COMBATE A INCÊNDIO
+Meios adequados de extinção
+Utilizar água pulverizada, espuma resistente ao álcool, produto químico seco ou dióxido de carbono.
+Equipamento especial de protecção a utilizar pelo pessoal de combate a incêndio
+Usar equipamento de respiração autónomo para combate a incêndios, se necessário.
+Aldrich - 275875 Página 2 de 6
+--- PÁGINA 3 ---
+6. MEDIDAS A TOMAR EM CASO DE FUGAS ACIDENTAIS
+Precauções individuais
+Usar equipamento de protecção individual. Evitar a formação de poeira. Evitar de respirar o pó. Assegurar
+ventilação adequada. Evacuar o pessoal para áreas de segurança.
+Precauções ambientais
+Prevenir dispersão ou derramamento ulterior se for mais seguro assim. Não permitir a entrada do produto no
+sistema de esgotos. A descarga no meio ambiente deve ser evitada.
+Métodos e materiais para a contenção e a limpeza
+Apanhar os resíduos sem levantar poeiras. Manter em recipientes fechados adequados, para eliminação.
+7. MANUSEAMENTO E ARMAZENAGEM
+Precauções para um manuseamento seguro
+Evitar o contacto com a pele e os olhos. Evitar a formação de pó e aerossois.
+Providenciar uma adequada ventilação em locais onde se formem poeiras. Medidas usuais de protecção
+preventiva contra incêndio.
+Condições para uma armazenagem segura
+Armazenar em local fresco. Guardar o recipiente herméticamente fechado em lugar seco e bem ventilado.
+8. CONTROLO DA EXPOSIÇÍO/PROTECÇÍO PESSOAL
+Protecção individual
+Protecção respiratória
+Nos casos em que a avaliação de risco mostrar que os respiradores purificadores do ar são apropriados,
+use um respirador de partículas do tipo N100 (E.U.A.) ou cartuchos de respiração do tipo P2 (EN 143)
+como apoio a controlos de engenharia. Se o respirador for o único meio de protecção, usa um respirador
+de ar de cobertura facial total. Use respiradores e componentes testados e aprovados por normas
+governamentais apropriadas, tais como as NIOSH (E.U.A.) ou CEN (UE).
+Protecção das mãos
+As luvas de protecção seleccionadas devem satisfazer as especificações da Directiva da UE 89/689/CEE
+e a norma EN 374 derivada dela.
+Manusear com luvas.
+Protecção dos olhos
+Mascaras de protecção e óculos de segurança.
+Protecção do corpo e da pele
+Escolher uma protecção para o corpo conforme a quantidade e a concentração das substâncias
+perigosas no lugar de trabalho.
+Medidas de higiene
+Evitar o contacto com a pele, olhos e vestuário. Lavar as mãos antes de interrupções do trabalho, e
+imediatamente a seguir ao manuseamento do produto.
+9. PROPRIEDADES FÍSICAS E QUÍMICAS
+Aspecto
+Estado físico cristalino
+Cor beige
+Dados de segurança
+pH dados não disponíveis
+Ponto de fusão 155 - 158 °C - lit.
+Ponto de ebulição 273 °C - lit.
+Ponto de inflamação dados não disponíveis
+Aldrich - 275875 Página 3 de 6
+--- PÁGINA 4 ---
+Temperatura de dados não disponíveis
+ignição
+Limites de explosão, dados não disponíveis
+inferior
+Limite de explosão, dados não disponíveis
+superior
+Hidrossolubilidade dados não disponíveis
+Coeficiente de log Pow: -0,76
+epartição n-
+octanol/água
+10. ESTABILIDADE E REACTIVIDADE
+Estabilidade química
+Estável sob as condições recomendadas de armazenamento.
+Condições a evitar
+dados não disponíveis
+Matérias a evitar
+Agentes oxidantes fortes, Ácidos fortes, Cloretos ácidos, Anídridos de ácido
+Produtos de decomposição perigosos
+Produtos perigosos de decomposição formados durante os incêndios. - Óxidos de carbono, óxidos de azoto
+(NOx)
+11. INFORMAÇÍO TOXICOLÓGICA
+Toxicidade aguda
+DL50 Oral - ratazana - 21 mg/kg
+Corrosão/irritação cutânea
+dados não disponíveis
+Lesões oculares graves/irritação ocular
+dados não disponíveis
+Sensibilização respiratória ou da pele
+dados não disponíveis
+Mutagenicidade em células germinativas
+dados não disponíveis
+Carcinogenicidade
+IARC: Nenhum componente deste produto presente a níveis maiores ou iguais a 0.1% é identificado como
+carcinogénio provável, possível ou confirmado pelo IARC.
+Toxicidade reprodutiva
+dados não disponíveis
+Toxicidade para órgãos-alvo específicos - exposição única
+Inalação - Pode provocar irritação das vias respiratórias.
+Toxicidade para órgãos-alvo específicos - exposição repetida
+dados não disponíveis
+Perigo de aspiração
+dados não disponíveis
+Efeitos potenciais para a saúde
+Inalação Pode ser perigoso se for inalado. Causa uma irritação no aparelho respiratório.
+Ingestão Pode ser fatal se for engolido.
+Pele Pode ser perigoso se for absorto pela pele. Causa uma irritação da pele.
+Aldrich - 275875 Página 4 de 6
+--- PÁGINA 5 ---
+Olhos Causa uma irritação nos olhos.
+Informação adicional
+RTECS: US1750000
+12. INFORMAÇÍO ECOLÓGICA
+Toxicidade
+Toxicidade em CL50 - Lepomis macrochirus - 2,8 mg/l - 96,0 h
+peixes
+Toxicidade em CE50 - Daphnia magna - 3,2 mg/l - 48 h
+dáfnias e outros
+invertebrados
+aquáticos.
+Persistência e degradabilidade
+dados não disponíveis
+Potencial de bioacumulação
+dados não disponíveis
+Mobilidade no solo
+dados não disponíveis
+Avaliação PBT e mPmB
+dados não disponíveis
+Outros efeitos adversos
+Tóxico para os organismos aquáticos, podendo causar efeitos nefastos a longo prazo no ambiente aquático.
+13. CONSIDERAÇÕES RELATIVAS À ELIMINAÇÍO
+Produto
+Observar todos os regulamentos ambientais federais, estaduais e locais. Entrar em contato com um serviço
+profissional credenciado de descarte de lixo para descartar esse material. Dissolver ou misturar o material
+com um solvente combustível e queimar em incinerador químico equipado com pós-combustor e purificador
+de gases.
+Embalagens contaminadas
+Eliminar como produto Não utilizado.
+14. INFORMAÇÕES RELATIVAS AO TRANSPORTE
+ADR/RID
+Número ONU: 2671 Classe: 6.1 Grupo de embalagem: II
+Denominação de expedição correcta: AMINOPIRIDINAS
+IMDG
+Número ONU: 2671 Classe: 6.1 Grupo de embalagem: II EMS-No:
+F-A, S-A
+Denominação de expedição correcta: AMINOPYRIDINES
+Poluente marinho: No
+IATA
+Número ONU: 2671 Classe: 6.1 Grupo de embalagem: II
+Denominação de expedição correcta: Aminopyridines
+15. INFORMAÇÍO SOBRE REGULAMENTAÇÍO
+Esta folha de dados de segurança obedece aos requerimentos da Regulamento (CE) No. 1907/2006
+16. OUTRAS INFORMAÇÕES
+Texto dos código(s) H e frase(s) R mencionados na secção 3
+Aldrich - 275875 Página 5 de 6
+--- PÁGINA 6 ---
+Acute Tox. Toxicidade aguda
+Eye Irrit. Iirritação ocular
+H300 Mortal por ingestão.
+H315 Provoca irritação cutânea.
+H319 Provoca irritação ocular grave.
+H335 Pode provocar irritação das vias respiratórias.
+Skin Irrit. Irritação cutânea
+N Perigoso para o ambiente
+T+ Muito tóxico
+R28 Muito tóxico por ingestão.
+R36/37/38 Irritante para os olhos, vias respiratórias e pele.
+R51/53 Tóxico para os organismos aquáticos, podendo causar efeitos nefastos a longo
+prazo no ambiente aquático.
+Outras informações
+Direitos exclusivos, 2010, da Sigma-Aldrich. Permissão concedida para fazer número ilimitado de cópias
+em papel, somente para uso interno.
+Acredita-se que as informações acima estejam corretas, embora não pretendam ser totalmente
+abrangentes, devendo ser usadas apenas como um guia. A Sigma-Aldrich não deverá ter responsabilidade
+legal por quaisquer danos resultantes do manuseio ou do contato com o produto acima. Consultar o verso
+da fatura ou nota que acompanha o produto para tomar conhecimento dos termos adicionais e condições
+de venda.
+Aldrich - 275875 Página 6 de 6

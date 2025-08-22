@@ -1,0 +1,174 @@
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Nome do Produto: ÁCIDO SULFÚRICO
+Página: 1/4
+Data da última revisão: 01/07/2022
+1- Identificação do produto e da empresa
+- Nome do produto: ÁCIDO SULFÚRICO
+- Código interno de identificação do produto: A1060
+- Principais usos recomendados para a substância: Análises químicas
+- Nome da empresa: Labsynth Produtos para Laboratórios Ltda
+- Endereço: Av. Dr. Ulysses Guimarães, 3.857 – Vila Nogueira – Diadema - SP
+- Telefone para contato: (11) 4072-6100
+- Telefone para emergências: (11) 4072-6100
+- E-mail: synth@synth.com.br
+2- Identificação de perigos
+2.1 - Classificação da substância (de acordo com a ABNT NBR 14725-2):
+Corrosivo, Categoria 1B
+2.2 - Elementos de rotulagem (de acordo com a ABNT NBR 14725-2):
+Pictogramas de risco
+Palavras de advertência: Perigo
+Frase de perigo: H314 – Provoca queimadura severa à pele e danos aos olhos
+Frases de precaução:
+P260 – Não inale as poeiras / fumos / vapores
+P264 – Lave cuidadosamente as mãos após o manuseio
+P280 – Use equipamentos de proteção individual
+P301+P330+P331 – Em caso de ingestão: enxágue a boca. Não provoque vômito
+P303+P361+353 – Em caso de contato com a pele: retire imediatamente toda a roupa contaminada. Enxágue a pele com a água
+P363 – Lave a roupa contaminada antes de usá-la novamente
+P304+P340 – Em caso de inalação: remova a pessoa para local ventilado e mantenha em repouso numa posição que não dificulte a respiração
+P310 – Contate imediatamente um médico
+P321 – Tratamento específico
+P305+P351+P338 – Em caso de contato com os olhos: enxágue cuidadosamente com água durante vários minutos.
+P405 – Armazene em local fechado
+P501 - Descarte o conteúdo / recipiente em instalação aprovada de destruição de resíduos.
+2.3 - Outros Perigos que não resultam em uma classificação: Não disponível
+3- Composição e informações sobre os ingredientes
+3.1 - Substância:
+- Nome químico ou comum: Ácido Sulfúrico
+- Sinônimo: Sulfato de Hidrogênio, Ácido de Bateria, Óleo de Vitríolo
+- Número de registro CAS: 7664-93-9
+- Impurezas que contribuam para o perigo: Ácido Sulfúrico (H2SO4)
+4- Medidas de primeiros socorros
+Av. Dr. Ulysses Guimarães, 3857 - Vila Nogueira - Diadema - SP - CEP 09990-080 – Tel. (11) 4072-6100 - CNPJ 51.462.471/0001-52 - IE 286.056.465.111
+Site : www.labsynth.com.br e-mail : synth@synth.com.br
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Nome do Produto: ÁCIDO SULFÚRICO
+Página: 2/4
+Data da última revisão: 01/07/2022
+4.1 - Medidas de primeiros socorros:
+- Inalação: Remover para local ventilado. Se não estiver respirando, aplicar respiração artificial. Chamar um médico
+imediatamente.
+- Contato com a pele: Lavar imediatamente com água corrente até remoção do ácido. Pode então ser aplicado uma solução de
+bicarbonato de sódio a 5%. No caso de bolhas, procurar um médico.
+- Contato com os olhos: Lavar imediatamente com água corrente por 15 min. Aplicar um tampão e procurar um médico.
+TAMPÃO: pH da solução = 6,8 – 7,0
+30 g de fosfato de potássio monobásico
+220 g de fosfato de sódio bibásico
+água suficiente para 1 litro
+Para ser aplicado localmente, lavagem da boca e para irrigação dos olhos após lavagem aquosa.
+- Ingestão: Aspiração, lavagem ou eméticos não devem ser usados. O tratamento consiste em diluir o ácido e aliviar a dor. Largas
+quantidades de água ou leite devem ser ingeridos. Hidróxido de alumínio ou magnésio pode ser administrado
+4.2 - Sintomas e efeitos mais importantes: Irritação e corrosão, tosse, náuseas, vômitos, diarreia, dor, perigo de cegueira
+4.3 - Notas para o médico: Irritante à pele, mucosa, olhos e trato respiratório. Pode causar edema agudo do pulmão. Recomenda-se assistência
+respiratória e tratamento sintomático.
+5- Medidas de combate a incêndio
+5.1 - Meios de extinção: Usar dióxido de carbono ou pó químico seco.
+5.2 - Perigos específicos da substância: Não disponível
+5.3 - Medidas de proteção da equipe de combate a incêndio: Utilizar equipamento de proteção individual e equipamento de proteção
+respiratória autônoma
+6- Medidas de controle para derramamento ou vazamento
+6.1 - Precauções pessoais, equipamento de proteção e procedimentos de emergência
+6.1.1 - Para o pessoal que não faz parte dos serviços de emergência: Evitar o contato com o produto. Não inalar os vapores.
+6.1.2 - Para o pessoal do serviço de emergência: Utilizar equipamento de proteção individual e equipamento de proteção respiratória
+autônoma
+6.2 - Precaução ao meio ambiente: Não enviar o produto para redes de águas residuais
+6.3 - Métodos e materiais para a contenção e limpeza: Neutralizar com carbonato de sódio, absorver com material inerte, seguido de um
+lençol plástico para diminuir espalhamento e contato com a água.
+7- Manuseio e armazenamento
+7.1 - Precauções para o manuseio seguro: Manipular o produto respeitando as regras gerais de segurança
+7.2 - Condições de armazenamento seguro, incluindo qualquer incompatibilidade: Manter as embalagens bem fechadas, local seco e
+limpo. Temperatura ambiente.
+8- Controle de exposição e proteção individual
+8.1 - Parâmetros de controle: Limites de Exposição TLV - ACGIH: TWA: 0,2 mg/m3 / STEL: ----------
+8.2 - Medidas de controle de engenharia: Utilização dos EPI’s recomendados durante o manuseio do produto, prover exaustão dos vapores
+na sua fonte de emissão, bem como a ventilação geral dos locais.
+8.3 - Medidas de proteção pessoal:
+- Proteção dos olhos/face: Óculos de segurança
+- Proteção da pele: Luvas de proteção
+- Proteção respiratória: Máscaras para gases ácidos
+Av. Dr. Ulysses Guimarães, 3857 - Vila Nogueira - Diadema - SP - CEP 09990-080 – Tel. (11) 4072-6100 - CNPJ 51.462.471/0001-52 - IE 286.056.465.111
+Site : www.labsynth.com.br e-mail : synth@synth.com.br
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Nome do Produto: ÁCIDO SULFÚRICO
+Página: 3/4
+Data da última revisão: 01/07/2022
+- Perigos térmicos: Não disponível
+9- Propriedades físico-químicas
+- Aspecto: Líquido límpido, pesado, incolor
+- Odor: forte
+- pH: (solução com 49g/l de água): 0,3 (a 25 °C)
+- Ponto de fusão: ~ - 15ºC
+- Ponto de ebulição inicial: ~ 310ºC
+- Ponto de fulgor: Não disponível
+- Taxa de evaporação: Não disponível
+- Inflamabilidade: Não inflamável
+- Limite inferior/superior de inflamabilidade ou explosividade: Não inflamável
+- Pressão de vapor: ~ 0,0001 hPa (20 °C)
+- Densidade de vapor: ~3,4
+- Densidade: 1,840
+- Solubilidade: Solúvel: em água e etanol (libera muito calor)
+- Coeficiente de partição – n-octanol/água: Não disponível
+- Temperatura de auto-ignição: Não disponível
+- Temperatura de decomposição: ~ 338ºC
+- Viscosidade: Não disponível
+10- Estabilidade e reatividade
+10.1 - Estabilidade química: Estável
+10.2 - Reatividade: Água, metais alcalinos, compostos de metais alcalinos
+10.3 - Possibilidade de reações perigosas: Não disponível
+10.4 - Condições a serem evitadas: Forte aquecimento
+10.5 - Materiais incompatíveis: Água, metais alcalinos, compostos de metais alcalinos, amoníaco, metais alcalino- terrosos, soluções de
+hidróxidos alcalinos
+10.6 - Produtos perigosos da decomposição: Possibilidade de formação de fumos perigosos em caso de incêndio nas proximidades. Em
+caso de incêndio pode formar-se óxido de enxofre.
+11- Informações toxicológicas
+- Toxicidade aguda: LD50 (oral, rato): 2140 mg/kg / LC50 ( inalação, rato) 510 mg/m3
+- Corrosão / irritação da pele: Queimaduras
+- Lesões oculares graves / irritação ocular: Queimaduras
+- Sensibilização respiratória ou à pele: Irritação das mucosas
+- Mutagenicidade em células germinativas: Não disponível
+Av. Dr. Ulysses Guimarães, 3857 - Vila Nogueira - Diadema - SP - CEP 09990-080 – Tel. (11) 4072-6100 - CNPJ 51.462.471/0001-52 - IE 286.056.465.111
+Site : www.labsynth.com.br e-mail : synth@synth.com.br
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Nome do Produto: ÁCIDO SULFÚRICO
+Página: 4/4
+Data da última revisão: 01/07/2022
+- Carcinogenicidade: Não disponível
+- Toxicidade à reprodução: Não disponível
+-Toxicidade para órgãos - alvo específico – exposição única: Não disponível
+-Toxicidade para órgãos - alvo específico – exposição repetida: Não disponível
+- Perigo por aspiração: Não disponível
+12- Informações ecológicas
+12.1 - Ecotoxicidade: Efeito prejudicial nos organismos aquáticos. Toxicidade nos peixes: L. macrochirus LC50: 29 mg / l / 96 h
+12.2 - Persistência e degradabilidade: Não disponível
+12.3 - Potencial bioacumulativo: Não disponível
+12.4 - Mobilidade no solo: Não disponível
+12.5 - Outros efeitos adversos: Não disponível
+13- Considerações sobre tratamento e disposição
+13.1 - Métodos recomendados para destinação final:
+- Produto: Seguir as normas locais do controle do meio ambiente ou incinerar
+- Restos de produtos: Recolher e armazenar adequadamente o produto derramado para posterior reutilização ou incineração
+- Embalagem usada: Devem ser eliminadas de acordo com as normas locais do controle do meio ambiente ou incinerar.
+14- Informações sobre transporte
+14.1 - Regulamentações nacionais e internacionais:
+- Terrestre: Agência Nacional de Transporte Terrestre (ANTT)
+- Marítimo: Código IMDG: 1830
+- Aéreo: Código IATA: 1830
+14.2 - Para produto classificado como perigoso para o transporte:
+- Número ONU: 1830
+- Nome apropriado para embarque: ÁCIDO SULFÚRICO
+- Classe/subclasse de risco principal e subsidiário: 8
+- Número de risco: 80
+- Grupo de embalagem: II
+- Perigo ao meio ambiente: Não disponível
+15- Informações sobre regulamentações
+15.1 - Regulamentações específicas de segurança, saúde e meio ambiente para o produto químico
+- Produto controlado pela Polícia Federal e pela Secretaria da Segurança Pública
+- Produto Corrosivo
+16- Outras informações
+Merck Index, 12ª ed., Nº 9147
+Os dados aqui contidos, são fornecidos com boa fé e a título orientativo, baseados em literaturas correntes e conceituadas (referidas no
+informativo, sempre que possível ou quando solicitadas).
+Apesar de serem dignas de confiança, não podemos nos responsabilizar pela sua exatidão. Recomendamos, sejam feitas as devidas avaliações
+pelo usuário.
+Av. Dr. Ulysses Guimarães, 3857 - Vila Nogueira - Diadema - SP - CEP 09990-080 – Tel. (11) 4072-6100 - CNPJ 51.462.471/0001-52 - IE 286.056.465.111
+Site : www.labsynth.com.br e-mail : synth@synth.com.br

@@ -1,0 +1,136 @@
+--- PÁGINA 1 ---
+Ficha de Informação de Produto Químico
+IDENTIFICAÇÍO Help
+Número ONU Nome do produto Rótulo de risco
+2585 ÁCIDO(S) ALQUILSULFÔNICO(S), SÓLIDO(S)
+Número de risco Classe / Subclasse
+80 8
+Sinônimos
+ÁCIDO METILBENZENOSSULFÔNICO ; ÁCIDO TÓSICO ; p - TSA ; ÁCIDO p - TOLUENOSSULFÔNICO ; ÁCIDO(S)
+ARILSULFÔNICO(S), SÓLIDO(S).
+Aparência
+SÓLIDO ; SEM COLORAÇÍO A PRETO ; SEM ODOR A LEVE ODOR ; MISTURA COM ÁGUA.
+Fórmula molecular Família química
+C7 H8 SO3 ÁCIDO SULFÔNICO
+Fabricantes
+Para informações atualizadas recomenda-se a consulta às seguintes instituições ou referências:
+ABIQUIM - Associação Brasileira da Indústria Química : Fone 0800-118270
+ANDEF - Associação Nacional de Defesa Vegetal: Fone (11) 3081-5033
+Revista Química e Derivados - Guia geral de produtos químicos, Editora QD: Fone (11) 3826-6899
+Programa Agrofit - Ministério da Agricultura
+MEDIDAS DE SEGURANÇA Help
+Medidas preventivas imediatas
+MANTER AS PESSOAS AFASTADAS. CHAMAR OS BOMBEIROS. ISOLAR E REMOVER O MATERIAL DERRAMADO.
+Equipamentos de Proteção Individual (EPI)
+USAR LUVAS, BOTAS E ROUPAS DE BORRACHA BUTÍLICA OU PVC E MÁSCARA FACIAL PANORAMA COM FILTRO COMBINADO
+CONTRA VAPORES ORGÂNICOS E AERODISPERSÓIDES.
+RISCOS AO FOGO Help
+Ações a serem tomadas quando o produto entra em combustão
+COMBUSTÍVEL. ALAGAR A ÁREA DE VAZAMENTO COM ÁGUA.
+Comportamento do produto no fogo
+NÍO PERTINENTE.
+Produtos perigosos da reação de combustão
+PODE FORMAR ÓXIDOS DE ENXOFRE IRRITANTES.
+Agentes de extinção que não podem ser usados
+NÍO PERTINENTE.
+Limites de inflamabilidade no ar
+Limite Superior: NÍO PERTINENTE
+Limite Inferior: NÍO PERTINENTE
+Ponto de fulgor
+SÓLIDO COM BAIXA INFLAMABILIDADE
+Temperatura de ignição
+DADO NÍO DISPONÍVEL
+Taxa de queima
+NÍO PERTINENTE
+Taxa de evaporação (éter=1)
+DADO NÍO DISPONÍVEL
+NFPA (National Fire Protection Association)
+Perigo de Saúde (Azul): 3
+Inflamabilidade (Vermelho): 1
+Reatividade (Amarelo): 1
+--- PÁGINA 2 ---
+PROPRIEDADES FÍSICO-QUÍMICAS E AMBIENTAIS Help
+Peso molecular Ponto de ebulição (°C) Ponto de fusão (°C)
+172,2 DECOMPÕE 104
+Temperatura crítica (°C) Pressão crítica (atm) Densidade relativa do vapor
+NÍO PERTINENTE NÍO PERTINENTE NÍO PERTINENTE
+Densidade relativa do líquido (ou Pressão de vapor Calor latente de vaporização (cal/g)
+sólido) NÍO PERTINENTE NÍO PERTINENTE
+1,45 A 25 °C (SÓLIDO)
+Calor de combustão (cal/g) Viscosidade (cP)
+NÍO PERTINENTE DADO NÍO DISPONÍVEL
+Solubilidade na água pH
+270 g/100 mL DE ÁGUA A 20 °C < 7
+Reatividade química com água
+NÍO REAGE.
+Reatividade química com materiais comuns
+É UM ÁCIDO FORTE, QUE PODE REAGIR COM METAIS COMUNS.
+Polimerização
+NÍO OCORRE.
+Reatividade química com outros materiais
+DADO NÍO DISPONÍVEL.
+Degradabilidade
+BIODEGRADÁVEL POR CULTURAS ACLIMATADAS (98,7% DE REMOÇÍO DA DQO EM SISTEMA DE LODOS ATIVADOS
+ACLIMATADOS AO ÁCIDO p-TOLUENOSSULFÔNICO COMO ÚNICA FONTE DE CO2);DECOMPOSIÇÍO EM SOLOS 24 DIAS.
+Potencial de concentração na cadeia alimentar
+NENHUM.
+Demanda bioquímica de oxigênio (DBO)
+0% , 5 DIAS.
+Neutralização e disposição final
+DISSOLVER OU MISTURAR EM UM SOLVENTE COMBUSTÍVEL E QUEIMAR EM UM INCINERADOR QUÍMICO, EQUIPADO COM
+PÓS-QUEIMADOR E LAVADOR DE GASES. RECOMENDA-SE O ACOMPANHAMENTO POR UM ESPECIALISTA DO ÓRGÍO
+AMBIENTAL.
+INFORMAÇÕES ECOTOXICOLÓGICAS Help
+Toxicidade - limites e padrões
+L.P.O.: NÍO PERTINENTE
+P.P.: NÍO ESTABELECIDO
+IDLH: DADO NÍO DISPONÍVEL
+LT: Brasil - Valor Médio 48h: DADO NÍO DISPONÍVEL
+LT: Brasil - Valor Teto: DADO NÍO DISPONÍVEL
+LT: EUA - TWA: NÍO ESTABELECIDO
+LT: EUA - STEL: NÍO ESTABELECIDO
+Toxicidade ao homem e animais superiores (vertebrados)
+M.D.T.: DADO NÍO DISPONÍVEL
+M.C.T.: DADO NÍO DISPONÍVEL
+Toxicidade: Espécie: RATO
+Via Oral (DL 50): 2.480 mg/kg; 400 mg/kg
+Toxicidade: Espécie: CAMUNDONGO
+Via Oral (DL 50): 400 mg/kg
+Toxicidade: Espécie: OUTROS
+Toxicidade aos organismos aquáticos: PEIXES : Espécie
+Toxicidade aos organismos aquáticos: CRUSTÁCEOS : Espécie
+Toxicidade aos organismos aquáticos: ALGAS : Espécie
+CHLORELLA VULTARIS = 245 ppm: REDUÇÍO DE 50% DO NÚMERO DE CÉLULAS VERSUS CONTROLE, APÓS 1 DIA DE
+INCUBAÇÍO A 20 °C
+Toxicidade a outros organismos: BACTÉRIAS
+Toxicidade a outros organismos: MUTAGENICIDADE
+--- PÁGINA 3 ---
+Toxicidade a outros organismos: OUTROS
+Informações sobre intoxicação humana
+MANTER AS PESSOAS AFASTADAS. CHAMAR OS BOMBEIROS. ISOLAR E REMOVER O MATERIAL DERRAMADO.
+Tipo de contato Síndrome tóxica Tratamento
+Tipo de contato Síndrome tóxica Tratamento
+SÓLIDO IRRITANTE PARA A PELE. IRRITANTE REMOVER ROUPAS E SAPATOS
+PARA OS OLHOS. PREJUDICIAL, SE CONTAMINADOS E ENXAGUAR COM
+INGERIDO. MUITA ÁGUA. MANTER AS PÁLPEBRAS
+ABERTAS E ENXAGUAR COM MUITA ÁGUA.
+DADOS GERAIS Help
+Temperatura e armazenamento
+AMBIENTE.
+Ventilação para transporte
+ABERTA.
+Estabilidade durante o transporte
+ESTÁVEL.
+Usos
+DADO NÍO DISPONÍVEL.
+Grau de pureza
+93 % .
+Radioatividade
+NÍO TEM.
+Método de coleta
+DADO NÍO DISPONÍVEL.
+Código NAS (National Academy of Sciences)
+NÍO LISTADO
+OBSERVAÇÕES Help
+1) Nº ONU 2583: COM MAIS DE 5% DE ÁCIDO SULFÚRICO LIVRE Nº ONU 2585: COM ATÉ 5% DE ÁCIDO SULFÚRICO LIVRE
+POTENCIAL DE IONIZAÇÍO (PI): DADO NÍO DISPONÍVEL.

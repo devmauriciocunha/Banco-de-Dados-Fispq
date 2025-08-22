@@ -1,0 +1,291 @@
+--- PÁGINA 1 ---
+SIGMA-ALDRICH
+sigma-aldrich.com
+FICHA DE DADOS DE SEGURANÇA
+de acordo com a Regulamento (CE) No. 1907/2006
+Versão 4.0 Data de revisão 14.03.2010
+Data de impressão 19.01.2011
+ENERIC EU MSDS - NO COUNTRY SPECIFIC DATA - NO OEL DATA
+1. IDENTIFICAÇÍO DA SUBSTÂNCIA/MISTURA E DA SOCIEDADE/EMPRESA
+Nome do produto : Butyl alcohol
+Referência do Produto : W217808
+Marca : Aldrich
+Companhia : Sigma-Aldrich Brasil Ltda.
+Av. das Nações Unidas, 23.043
+04795-100 SÍO PAULO - SP
+BRAZIL
+Telefone : +551137323100
+Número de Fax : +551155229895
+Núnero de Telefone de :
+Emergência
+2. IDENTIFICAÇÍO DOS PERIGOS
+Classificação da substância ou da mistura
+Nos termos do Regulamento (CE) No1272/2008
+Toxicidade aguda, Oral (Categoria 4)
+Líquidos inflamáveis (Categoria 3)
+Toxicidade para órgãos-alvo específicos - exposição única (Categoria 3)
+Irritação cutânea (Categoria 2)
+Lesões oculares graves (Categoria 1)
+Toxicidade para órgãos-alvo específicos - exposição única (Categoria 3)
+De acordo com a directiva Europeia 67/548/CEE, e emendas.
+Inflamável. Nocivo por ingestão. Irritante para as vias respiratórias e pele. Risco de lesões oculares graves.
+Pode provocar sonolência e vertigens, por inalação dos vapores.
+Elementos da etiqueta
+Pictograma
+Palavra-sinal Perigo
+Declaração de perigo
+H315 Provoca irritação cutânea.
+H226 Líquido e vapor inflamáveis.
+H302 Nocivo por ingestão.
+H318 Provoca lesões oculares graves.
+H335 Pode provocar irritação das vias respiratórias.
+H336 Pode provocar sonolência ou vertigens.
+declaração de precaução
+P261 Evitar respirar as poeiras/fumos/gases/névoas/vapores/aerossóis.
+P280 Usar luvas de protecção/protecção ocular/protecção facial.
+P305 + P351 + P338 SE ENTRAR EM CONTACTO COM OS OLHOS: enxaguar
+cuidadosamente com água durante vários minutos. Se usar lentes de
+contacto, retire-as, se tal lhe for possível. Continuar a enxaguar.
+Aldrich - W217808 Página 1 de 6
+--- PÁGINA 2 ---
+símbolo de perigosidade
+Xn Nocivo
+Frase(s) - R
+R10 Inflamável.
+R22 Nocivo por ingestão.
+R37/38 Irritante para as vias respiratórias e pele.
+R41 Risco de lesões oculares graves.
+R67 Pode provocar sonolência e vertigens, por inalação dos vapores.
+Frase(s) - S
+S 7/9 Manter o recipiente bem fechado em local bem ventilado.
+S13 Manter afastado de alimentos e bebidas incluindo os dos animais.
+S26 Em caso de contacto com os olhos, lavar imediata e abundantemente com
+água e consultar um especialista.
+S37/39 Usar luvas e equipamento protector para os olhos/face adequados.
+S46 Em caso de ingestão, consultar imediatamente o médico e mostrar-lhe a
+embalagem ou o rótulo.
+Outros Perigos - nenhum(a)
+3. COMPOSIÇÍO/INFORMAÇÍO SOBRE OS COMPONENTES
+Sinónimos : 1-Butanol
+Butyl alcohol
+n-Butanol
+Formula : C4H10O
+Peso molecular : 74,12 g/mol
+No. CAS No. CE No. de Index Classificação Concentração
+n-Butanol
+71-36-3 200-751-6 603-004-00-6 Acute Tox. 4; Flam. Liq. 3; -
+STOT SE 3; Skin Irrit. 2; Eye
+Dam. 1; STOT SE 3; H315,
+H226, H302, H318, H335,
+H336
+Xn, R10 - R22 - R37/38 - R41
+- R67
+Para o pleno texto das DECLARAÇÕES H mencionadas nesta Secção, ver a Secção 16.
+4. PRIMEIROS SOCORROS
+Recomendação geral
+Consultar um médico. Mostrar esta ficha de segurança ao médico de serviço.
+Se for inalado
+Se for respirado, levar a pessoa para o ar fresco. Se não respirar, aplicar a respiração artificial. Consultar um
+médico.
+No caso dum contacto com a pele
+Lavar com sabão e muita água. Consultar um médico.
+No caso dum contacto com os olhos
+Lavar cuidadosamente com muita água, durante pelo menos quinze minutos, e consultar o médico.
+Se for engolido
+NÍO provocar vómitos. Nunca dar nada pela boca a uma pessoa inconsciente. Enxaguar a boca com água.
+Consultar um médico.
+Aldrich - W217808 Página 2 de 6
+--- PÁGINA 3 ---
+5. MEDIDAS DE COMBATE A INCÊNDIO
+Meios adequados de extinção
+Para fogos incipientes ou pequenos usar meios como espuma de álcool, pó seco ou dióxido de carbono. Para
+grandes fogos aplicar agua desde o mais longe possível, usar grandes quantidades de agua
+(inundação)aplicadas como nevoeiro ou spray; córregos sólidos de agua podem não ser efectivos. Esfrie
+todos os depósitos ou vasilhas com grandes e inundantes quantidades de agua.
+Equipamento especial de protecção a utilizar pelo pessoal de combate a incêndio
+Usar equipamento de respiração autónomo para combate a incêndios, se necessário.
+Outras informações
+Os jactos de água podem ser utilizados para arrefecer os contentores fechados.
+6. MEDIDAS A TOMAR EM CASO DE FUGAS ACIDENTAIS
+Precauções individuais
+Usar equipamento de protecção individual. Evitar a respiração do vapor/névoa/gas. Assegurar ventilação
+adequada. Cortar todas as fontes de ignição. Atenção com a acumulação de vapores que pode formar
+concentrações explosivas. Os vapores podem-se acumular nas áreas baixas.
+Precauções ambientais
+Não permitir a entrada do produto no sistema de esgotos.
+Métodos e materiais para a contenção e a limpeza
+Controlar e recuperar o líquido derramado com um produto absorvente não combustível, (por exemplo areia,
+terra, terra diatomácea, vermiculite) e pôr o líquido dentro de contentores para eliminação de acordo com os
+regulamentos locais / nacionais (ver secção 13). Manter em recipientes fechados adequados, para
+eliminação.
+7. MANUSEAMENTO E ARMAZENAGEM
+Precauções para um manuseamento seguro
+Evitar o contacto com a pele e os olhos. Evitar a inalação do vapor ou da névoa.
+Manter afastado de qualquer chama ou fonte de ignição - Não fumar. Tome medidas para impedir a formação
+de electricidade estática.
+Condições para uma armazenagem segura
+Armazenar em local fresco. Guardar o recipiente herméticamente fechado em lugar seco e bem ventilado.
+8. CONTROLO DA EXPOSIÇÍO/PROTECÇÍO PESSOAL
+Protecção individual
+Protecção respiratória
+Nos casos em que a avaliação de risco mostrar que os respiradores purificadores do ar são apropriados,
+use um respirador de cobertura facial total com cartuchos de combinação multi-objectivos (E.U.A.) ou do
+tipo ABEK (EN 14387) como apoio a controlos de engenharia. Se o respirador for o único meio de
+protecção, usa um respirador de ar de cobertura facial total. Use respiradores e componentes testados e
+aprovados por normas governamentais apropriadas, tais como as NIOSH (E.U.A.) ou CEN (UE).
+Protecção das mãos
+As luvas de protecção seleccionadas devem satisfazer as especificações da Directiva da UE 89/689/CEE
+e a norma EN 374 derivada dela.
+Manusear com luvas.
+Protecção dos olhos
+Mascaras de protecção e óculos de segurança.
+Protecção do corpo e da pele
+Escolher uma protecção para o corpo conforme a quantidade e a concentração das substâncias
+perigosas no lugar de trabalho.
+Medidas de higiene
+Manusear de acordo com as boas práticas industriais de higiene e segurança. Lavar as mãos antes de
+Aldrich - W217808 Página 3 de 6
+--- PÁGINA 4 ---
+interrupções, e no final do dia de trabalho.
+9. PROPRIEDADES FÍSICAS E QUÍMICAS
+Aspecto
+Estado físico líquido, claro
+Cor incolor
+Dados de segurança
+pH dados não disponíveis
+Ponto de fusão -90 °C - lit.
+Ponto de ebulição 116 - 118 °C - lit.
+Ponto de inflamação 35 °C - câmara fechada
+Temperatura de 343 °C
+ignição
+Limites de explosão, 1,4 %(V)
+inferior
+Limite de explosão, 11,2 %(V)
+superior
+Pressão de vapor 5 hPa a 20 °C
+Densidade 0,81 g/cm3 a 25 °C
+Hidrossolubilidade solúvel
+Densidade relativa 2,56
+do vapor - (Ar = 1.0)
+10. ESTABILIDADE E REACTIVIDADE
+Estabilidade química
+Estável sob as condições recomendadas de armazenamento.
+Condições a evitar
+Calor, chamas e faíscas.
+Matérias a evitar
+Oxidantes, Metais alcalinos, Bases, Ácidos fortes, Halogênios
+Produtos de decomposição perigosos
+Produtos perigosos de decomposição formados durante os incêndios. - Óxidos de carbono
+Produtos perigosos de decomposição formados durante os incêndios. - A natureza dos produtos de
+decomposição não é conhecida.
+11. INFORMAÇÍO TOXICOLÓGICA
+Toxicidade aguda
+DL50 Oral - ratazana - 790 mg/kg
+Observações: Fígado: esteatose hepática. Rins, ureteres e bexiga urinária: outras alterações. Sangue: outras
+alterações
+CL50 Inalação - ratazana - 4 h - 8000 ppm
+DL50 Dérmico - coelho - 3.400 mg/kg
+Corrosão/irritação cutânea
+Pele - coelho - Irritação dermal - 24 h
+Lesões oculares graves/irritação ocular
+Olhos - coelho - Irritação ocular
+Aldrich - W217808 Página 4 de 6
+--- PÁGINA 5 ---
+Sensibilização respiratória ou da pele
+dados não disponíveis
+Mutagenicidade em células germinativas
+dados não disponíveis
+Carcinogenicidade
+IARC: Nenhum componente deste produto presente a níveis maiores ou iguais a 0.1% é identificado como
+carcinogénio provável, possível ou confirmado pelo IARC.
+Toxicidade reprodutiva
+dados não disponíveis
+Toxicidade para órgãos-alvo específicos - exposição única
+Pode afectar os órgãos.
+Pode afectar os órgãos.
+Pode afectar os órgãos.
+Toxicidade para órgãos-alvo específicos - exposição repetida
+dados não disponíveis
+Perigo de aspiração
+dados não disponíveis
+Efeitos potenciais para a saúde
+Inalação Pode ser perigoso se for inalado. Causa uma irritação no aparelho respiratório.
+Pode provocar sonolência e vertigens, por inalação dos vapores.
+Ingestão Nocivo por ingestão.
+Pele Pode ser perigoso se for absorto pela pele. Causa uma irritação da pele.
+Olhos Provoca irritação ocular grave.
+Sinais e sintomas de exposição
+secagem, rachamento da pele, Irritação dermal
+Informação adicional
+RTECS: EO1400000
+12. INFORMAÇÍO ECOLÓGICA
+Toxicidade
+Toxicidade em CL50 - Pimephales promelas (vairão gordo) - 1.840 mg/l - 96 h
+peixes
+Toxicidade em CE50 - Daphnia magna - 1.983 mg/l - 48 h
+dáfnias e outros
+invertebrados
+aquáticos.
+Persistência e degradabilidade
+Potencial de bioacumulação
+Bioacumulação Oncorhynchus mykiss (truta arco-íris) - 24 h
+Factor de bioconcentração (BCF): 0,38
+Mobilidade no solo
+dados não disponíveis
+Avaliação PBT e mPmB
+dados não disponíveis
+Outros efeitos adversos
+dados não disponíveis
+13. CONSIDERAÇÕES RELATIVAS À ELIMINAÇÍO
+Aldrich - W217808 Página 5 de 6
+--- PÁGINA 6 ---
+Produto
+Queimar em um incinerador químico equipado com pós-combustor e purificador de gases, mas tomar
+precauções adicionais ao colocar esse material em ignição, visto que é altamente inflamável. Esse material
+combustível deve ser queimado em um incinerador químico equipado com um pós-combustor e purificador
+de gases. Observar todos os regulamentos ambientais federais, estaduais e locais. Entrar em contato com
+um serviço profissional credenciado de descarte de lixo para descartar esse material.
+Embalagens contaminadas
+Eliminar como produto Não utilizado.
+14. INFORMAÇÕES RELATIVAS AO TRANSPORTE
+ADR/RID
+Número ONU: 1120 Classe: 3 Grupo de embalagem: III
+Denominação de expedição correcta: BUTANÓIS
+IMDG
+Número ONU: 1120 Classe: 3 Grupo de embalagem: III EMS-No:
+F-E, S-D
+Denominação de expedição correcta: BUTANOLS
+Poluente marinho: No
+IATA
+Número ONU: 1120 Classe: 3 Grupo de embalagem: III
+Denominação de expedição correcta: Butanols
+15. INFORMAÇÍO SOBRE REGULAMENTAÇÍO
+Esta folha de dados de segurança obedece aos requerimentos da Regulamento (CE) No. 1907/2006
+16. OUTRAS INFORMAÇÕES
+Texto dos código(s) H e frase(s) R mencionados na secção 3
+Acute Tox. Toxicidade aguda
+Eye Dam. Lesões oculares graves
+Flam. Liq. Líquidos inflamáveis
+H226 Líquido e vapor inflamáveis.
+H302 Nocivo por ingestão.
+H315 Provoca irritação cutânea.
+H318 Provoca lesões oculares graves.
+H335 Pode provocar irritação das vias respiratórias.
+H336 Pode provocar sonolência ou vertigens.
+Skin Irrit. Irritação cutânea
+STOT SE Toxicidade para órgãos-alvo específicos - exposição única
+Xn Nocivo
+R10 Inflamável.
+R22 Nocivo por ingestão.
+R37/38 Irritante para as vias respiratórias e pele.
+R41 Risco de lesões oculares graves.
+R67 Pode provocar sonolência e vertigens, por inalação dos vapores.
+Outras informações
+Direitos exclusivos, 2010, da Sigma-Aldrich. Permissão concedida para fazer número ilimitado de cópias
+em papel, somente para uso interno.
+Acredita-se que as informações acima estejam corretas, embora não pretendam ser totalmente
+abrangentes, devendo ser usadas apenas como um guia. A Sigma-Aldrich não deverá ter responsabilidade
+legal por quaisquer danos resultantes do manuseio ou do contato com o produto acima. Consultar o verso
+da fatura ou nota que acompanha o produto para tomar conhecimento dos termos adicionais e condições
+de venda.
+Aldrich - W217808 Página 6 de 6

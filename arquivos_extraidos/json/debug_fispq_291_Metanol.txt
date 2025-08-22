@@ -1,0 +1,154 @@
+--- PÁGINA 1 ---
+Ficha de Informação de Produto Químico
+IDENTIFICAÇÍO Help
+Número ONU Nome do produto Rótulo de risco
+1230 ÁLCOOL METÍLICO
+Número de risco Classe / Subclasse
+336 3
+Sinônimos
+METANOL; ÁLCOOL COLONIAL; ÁLCOOL COLÚMBIA; ÁLCOOL DE MADEIRA.
+Aparência
+LÍQUIDO AQUOSO; SEM COLORAÇÍO; ODOR DE ÁLCOOL; FLUTUA E MISTURA COM ÁGUA; PRODUZ VAPORES IRRITANTES E
+INFLAMÁVEIS.
+Fórmula molecular Família química
+C H3 OH ÁLCOOL
+Fabricantes
+Para informações atualizadas recomenda-se a consulta às seguintes instituições ou referências:
+ABIQUIM - Associação Brasileira da Indústria Química : Fone 0800-118270
+ANDEF - Associação Nacional de Defesa Vegetal: Fone (11) 3081-5033
+Revista Química e Derivados - Guia geral de produtos químicos, Editora QD: Fone (11) 3826-6899
+Programa Agrofit - Ministério da Agricultura
+MEDIDAS DE SEGURANÇA Help
+Medidas preventivas imediatas
+EVITAR CONTATO COM O LÍQUIDO E O VAPOR. MANTER AS PESSOAS AFASTADAS. CHAMAR OS BOMBEIROS. PARAR O
+VAZAMENTO, SE POSSÍVEL. ISOLAR E REMOVER O MATERIAL DERRAMADO. DESLIGAR AS FONTES DE IGNIÇÍO. FICAR
+CONTRA O VENTO E USAR NEBLINA D'ÁGUA PARA BAIXAR O VAPOR.
+Equipamentos de Proteção Individual (EPI)
+USAR LUVAS, BOTAS E ROUPAS DE POLIETILENO CLORADO, NEOPRENE, BORRACHA NATURAL OU NITRÍLICA OU BUTÍLICA
+OU POLIURETANO E MÁSCARA FACIAL PANORAMA, COM FILTRO CONTRA VAPORES ORGÂNICOS.
+RISCOS AO FOGO Help
+Ações a serem tomadas quando o produto entra em combustão
+EXTINGUIR COM PÓ QUÍMICO SECO, ESPUMA DE ÁLCOOL OU DIÓXIDO DE CARBONO. ESFRIAR OS RECIPIENTES EXPOSTOS,
+COM ÁGUA. O RETROCESSO DA CHAMA PODE OCORRER DURANTE O ARRASTE DE VAPOR.
+Comportamento do produto no fogo
+O VAPOR PODE EXPLODIR, SE IGNIÇÍO FOR EM ÁREA FECHADA. OS RECIPIENTES PODEM EXPLODIR.
+Produtos perigosos da reação de combustão
+NÍO PERTINENTE.
+Agentes de extinção que não podem ser usados
+A ÁGUA PODE SER INEFICAZ, NO FOGO.
+Limites de inflamabilidade no ar
+Limite Superior: 36,5%
+Limite Inferior: 6,0%
+Ponto de fulgor
+12,2°C (V. FEC.); 16°C (V. AB.)
+Temperatura de ignição
+464,2 °C
+Taxa de queima
+1,7 mm/min
+Taxa de evaporação (éter=1)
+5,2
+NFPA (National Fire Protection Association)
+Perigo de Saúde (Azul): 1
+Inflamabilidade (Vermelho): 3
+--- PÁGINA 2 ---
+Reatividade (Amarelo): 0
+PROPRIEDADES FÍSICO-QUÍMICAS E AMBIENTAIS Help
+Peso molecular Ponto de ebulição (°C) Ponto de fusão (°C)
+32,04 64,5 -98
+Temperatura crítica (°C) Pressão crítica (atm) Densidade relativa do vapor
+240 77,7 1,1
+Densidade relativa do líquido (ou Pressão de vapor Calor latente de vaporização (cal/g)
+sólido) 100 mmHg A 21,2 °C 262,8
+0,792 A 20 °C (LÍQUIDO)
+Calor de combustão (cal/g) Viscosidade (cP)
+- 4.677 0,55
+Solubilidade na água pH
+MISCÍVEL DND
+Reatividade química com água
+NÍO REAGE.
+Reatividade química com materiais comuns
+NÍO REAGE.
+Polimerização
+NÍO OCORRE.
+Reatividade química com outros materiais
+INCOMPATÍVEL COM OXIDANTES FORTES.
+Degradabilidade
+BIODEGRADÁVEL (63% DE REMOÇÍO DA "DEMANDA TEÓRICA DE OXIGÊNIO" - "ThOD", APÓS 10 DIAS DE INCUBAÇÍO EM
+TESTES DE DBO).
+Potencial de concentração na cadeia alimentar
+NENHUM.
+Demanda bioquímica de oxigênio (DBO)
+0,6 A 1,2 lb/lb , 5 DIAS.
+Neutralização e disposição final
+QUEIMAR EM UM INCINERADOR QUÍMICO, EQUIPADO COM PÓS-QUEIMADOR E LAVADOR DE GASES. TOMAR OS DEVIDOS
+CUIDADOS NA IGNIÇÍO, POIS O PRODUTO É ALTAMENTE INFLAMÁVEL. RECOMENDA-SE O ACOMPANHAMENTO POR UM
+ESPECIALISTA DO ÓRGÍO AMBIENTAL.
+INFORMAÇÕES ECOTOXICOLÓGICAS Help
+Toxicidade - limites e padrões
+L.P.O.: 100 ppm
+P.P.: NÍO ESTABELECIDO
+IDLH: 6.000 ppm
+LT: Brasil - Valor Médio 48h: 156 ppm
+LT: Brasil - Valor Teto: 195 ppm
+LT: EUA - TWA: 200 ppm (PELE)
+LT: EUA - STEL: 250 ppm
+Toxicidade ao homem e animais superiores (vertebrados)
+M.D.T.: SER HUMANO:TDLo = 340mg/kg
+M.C.T.: SER HUMANO: TCLo = 86.000 mg/m³
+Toxicidade: Espécie: RATO
+Via Respiração (CL50): 64.000 ppm (4 h)
+Via Oral (DL 50): 5.628 mg/kg
+Toxicidade: Espécie: CAMUNDONGO
+Via Oral (DL 50): LDLo = 420 mg/kg Via Cutânea (DL 50): 9.800 mg/kg (SUBCUT.)
+Toxicidade: Espécie: OUTROS
+Via Cutânea (DL 50): COELHO: 20 g/kg
+Toxicidade aos organismos aquáticos: PEIXES : Espécie
+CARASSIUS AURATUS : MORTE A 250 ppm, EM 11 h - ÁGUA CONTINENTAL.
+Toxicidade aos organismos aquáticos: CRUSTÁCEOS : Espécie
+Toxicidade aos organismos aquáticos: ALGAS : Espécie
+--- PÁGINA 3 ---
+Toxicidade a outros organismos: BACTÉRIAS
+Toxicidade a outros organismos: MUTAGENICIDADE
+SACCHAROMYCES CEREVISAE: "mmo" = 12 pph ; "cyt" = 500 umol/TUBO. RATO: "dnd" = 10 umol/kg (ORAL).
+CAMUNDONGO: "cyt" = 1 g/kg (ORAL).
+Toxicidade a outros organismos: OUTROS
+Informações sobre intoxicação humana
+EVITAR CONTATO COM O LÍQUIDO E O VAPOR. MANTER AS PESSOAS AFASTADAS. CHAMAR OS BOMBEIROS. PARAR O
+VAZAMENTO, SE POSSÍVEL. ISOLAR E REMOVER O MATERIAL DERRAMADO. DESLIGAR AS FONTES DE IGNIÇÍO. FICAR
+CONTRA O VENTO E USAR NEBLINA D'ÁGUA PARA BAIXAR O VAPOR.
+Tipo de contato Síndrome tóxica Tratamento
+VAPOR IRRITANTE PARA OS OLHOS NARIZ E MOVER PARA O AR FRESCO. SE A
+GARGANTA. SE INALADO, CAUSARÁ RESPIRAÇÍO FOR DIFICULTADA OU PARAR,
+TONTURA, DOR DE CABEÇA, DAR OXIGÊNIO OU FAZER RESPIRAÇÍO
+DIFICULDADE RESPIRATÓRIA OU PERDA ARTIFICIAL.
+DA CONSCIÊNCIA.
+Tipo de contato Síndrome tóxica Tratamento
+LÍQUIDO IRRITANTE PARA A PELE. IRRITANTE REMOVER ROUPAS E SAPATOS
+PARA OS OLHOS. VENENOSO, SE CONTAMINADOS E ENXAGUAR COM MUITA
+INGERIDO. ÁGUA. MANTER AS PÁLPEBRAS ABERTAS E
+ENXAGUAR COM MUITA ÁGUA. MANTER A
+VÍTIMA AQUECIDA.
+DADOS GERAIS Help
+Temperatura e armazenamento
+AMBIENTE.
+Ventilação para transporte
+ABERTA OU PRESSÍO A VÁCUO.
+Estabilidade durante o transporte
+ESTÁVEL.
+Usos
+FABRICAÇÍO DE FORMALDEÍDO E TEREFTALATO DE DIMETILA; SÍNTESES ORGÂNICAS; COMBUSTÍVEL DE AVIÍO;
+ANTICONGELANTE; SOLVENTE; DESIDRATANTE DO GÁS NATURAL.
+Grau de pureza
+99.9% .
+Radioatividade
+NÍO TEM.
+Método de coleta
+DADO NÍO DISPONÍVEL.
+Código NAS (National Academy of Sciences)
+FOGO SAÚDE POLUIÇÍO DAS ÁGUAS REATIVIDADE
+Fogo: 3 Vapor Irritante: 1 Toxicidade humana: 1 Outros Produtos Químicos: 2
+Líquido/Sólido Irritante: 1 Toxicidade aquática: 1 Água: 0
+Venenos: 2 Efeito estético: 1 Auto reação: 0
+OBSERVAÇÕES Help
+TAXA DE TOXICIDADE AOS ORGANISMOS AQUÁTICOS: TLm (96 h) = ACIMA DE 1.000 ppm. POTENCIAL DE IONIZAÇÍO (PI)
+= 10,84 eV.

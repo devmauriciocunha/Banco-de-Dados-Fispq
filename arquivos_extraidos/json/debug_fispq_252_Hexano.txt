@@ -1,0 +1,327 @@
+--- PÁGINA 1 ---
+SIGMA-ALDRICH
+sigma-aldrich.com
+FICHA DE DADOS DE SEGURANÇA
+de acordo com a Regulamento (CE) No. 1907/2006
+Versão 4.0 Data de revisão 12.03.2010
+Data de impressão 24.01.2011
+ENERIC EU MSDS - NO COUNTRY SPECIFIC DATA - NO OEL DATA
+1. IDENTIFICAÇÍO DA SUBSTÂNCIA/MISTURA E DA SOCIEDADE/EMPRESA
+Nome do produto : HEXANO ANIDRO 95%
+Referência do Produto : 296090
+Marca : Sigma-Aldrich
+Companhia : Sigma-Aldrich Brasil Ltda.
+Av. das Nações Unidas, 23.043
+04795-100 SÍO PAULO - SP
+BRAZIL
+Telefone : +551137323100
+Número de Fax : +551155229895
+Núnero de Telefone de :
+Emergência
+2. IDENTIFICAÇÍO DOS PERIGOS
+Classificação da substância ou da mistura
+Nos termos do Regulamento (CE) No1272/2008
+Líquidos inflamáveis (Categoria 2)
+Toxicidade reprodutiva (Categoria 2)
+Perigo de aspiração (Categoria 1)
+Toxicidade para órgãos-alvo específicos - exposição repetida (Categoria 2)
+Irritação cutânea (Categoria 2)
+Toxicidade para órgãos-alvo específicos - exposição única (Categoria 3)
+Toxicidade crónica para o ambiente aquático (Categoria 2)
+De acordo com a directiva Europeia 67/548/CEE, e emendas.
+Facilmente inflamável. Possíveis riscos de comprometer a fertilidade. Nocivo: risco de efeitos graves para a
+saúde em caso de exposição prolongada por inalação. Nocivo: pode causar danos nos pulmões se ingerido.
+Irritante para a pele. Pode provocar sonolência e vertigens, por inalação dos vapores. Tóxico para os
+organismos aquáticos, podendo causar efeitos nefastos a longo prazo no ambiente aquático.
+Elementos da etiqueta
+Pictograma
+Palavra-sinal Perigo
+Declaração de perigo
+H225 Líquido e vapor facilmente inflamáveis.
+H315 Provoca irritação cutânea.
+H373 Pode afectar os órgãos após exposição prolongada ou repetida.
+H304 Pode ser mortal por ingestão e penetração nas vias respiratórias.
+H336 Pode provocar sonolência ou vertigens.
+H411 Tóxico para os organismos aquáticos com efeitos duradouros.
+H361f Suspeito de afectar a fertilidade.
+declaração de precaução
+P210 Manter afastado do calor/faísca/chama aberta/superfícies quentes. - Não
+fumar.
+P261 Evitar respirar as poeiras/fumos/gases/névoas/vapores/aerossóis.
+Sigma-Aldrich - 296090 Página 1 de 7
+--- PÁGINA 2 ---
+P273 Evitar a libertação para o ambiente.
+P281 Usar o equipamento de protecção individual exigido.
+P301 + P310 EM CASO DE INGESTÍO: contacte imediatamente um CENTRO DE
+INFORMAÇÍO ANTIVENENOS ou um médico.
+P331 NÍO provocar o vómito.
+símbolo de perigosidade
+F Facilmente inflamável
+Xn Nocivo
+N Perigoso para o ambiente
+Frase(s) - R
+R11 Facilmente inflamável.
+R38 Irritante para a pele.
+R48/20 Nocivo: risco de efeitos graves para a saúde em caso de exposição
+prolongada por inalação.
+R62 Possíveis riscos de comprometer a fertilidade.
+R65 Nocivo: pode causar danos nos pulmões se ingerido.
+R67 Pode provocar sonolência e vertigens, por inalação dos vapores.
+R51/53 Tóxico para os organismos aquáticos, podendo causar efeitos nefastos a
+longo prazo no ambiente aquático.
+Frase(s) - S
+S 9 Manter o recipiente num local bem ventilado.
+S16 Manter afastado de qualquer chama ou fonte de ignição - Não fumar.
+S29 Não deitar os resíduos no esgoto.
+S33 Evitar acumulação de cargas electrostáticas.
+S36/37 Usar vestuário de protecção e luvas adequadas.
+S61 Evitar a libertação para o ambiente. Obter instruções específicas/fichas de
+segurança.
+S62 Em caso de ingestão, não provocar o vómito. Consultar imediatamente
+um médico e mostrar-lhe a embalagem ou o rótulo.
+Outros Perigos - nenhum(a)
+3. COMPOSIÇÍO/INFORMAÇÍO SOBRE OS COMPONENTES
+Sinónimos : n-Hexane
+Formula : C6H14
+Peso molecular : 86,18 g/mol
+No. CAS No. CE No. de Index Classificação Concentração
+n-Hexane
+110-54-3 203-777-6 601-037-00-0 Flam. Liq. 2; Repr. 2; Asp. -
+Tox. 1; STOT RE 2; Skin Irrit.
+2; STOT SE 3; Aquatic
+Chronic 2; H225, H315,
+H373, H304, H336, H411,
+H361f
+F, Xn, N, Repr.Cat.3, R11 -
+R38 - R48/20 - R62 - R65 -
+R67 - R51/53
+Para o pleno texto das DECLARAÇÕES H mencionadas nesta Secção, ver a Secção 16.
+4. PRIMEIROS SOCORROS
+Recomendação geral
+Consultar um médico. Mostrar esta ficha de segurança ao médico de serviço.
+Sigma-Aldrich - 296090 Página 2 de 7
+--- PÁGINA 3 ---
+Se for inalado
+Se for respirado, levar a pessoa para o ar fresco. Se não respirar, aplicar a respiração artificial. Consultar um
+médico.
+No caso dum contacto com a pele
+Lavar com sabão e muita água. Consultar um médico.
+No caso dum contacto com os olhos
+Lavar cuidadosamente com muita água, durante pelo menos quinze minutos, e consultar o médico.
+Se for engolido
+NÍO provocar vómitos. Nunca dar nada pela boca a uma pessoa inconsciente. Enxaguar a boca com água.
+Consultar um médico.
+5. MEDIDAS DE COMBATE A INCÊNDIO
+Meios adequados de extinção
+Para fogos incipientes ou pequenos usar meios como espuma de álcool, pó seco ou dióxido de carbono. Para
+grandes fogos aplicar agua desde o mais longe possível, usar grandes quantidades de agua
+(inundação)aplicadas como nevoeiro ou spray; córregos sólidos de agua podem não ser efectivos. Esfrie
+todos os depósitos ou vasilhas com grandes e inundantes quantidades de agua.
+Equipamento especial de protecção a utilizar pelo pessoal de combate a incêndio
+Usar equipamento de respiração autónomo para combate a incêndios, se necessário.
+Outras informações
+Os jactos de água podem ser utilizados para arrefecer os contentores fechados.
+6. MEDIDAS A TOMAR EM CASO DE FUGAS ACIDENTAIS
+Precauções individuais
+Usar equipamento de protecção individual. Evitar a respiração do vapor/névoa/gas. Assegurar ventilação
+adequada. Cortar todas as fontes de ignição. Evacuar o pessoal para áreas de segurança. Atenção com a
+acumulação de vapores que pode formar concentrações explosivas. Os vapores podem-se acumular nas
+áreas baixas.
+Precauções ambientais
+Prevenir dispersão ou derramamento ulterior se for mais seguro assim. Não permitir a entrada do produto no
+sistema de esgotos. A descarga no meio ambiente deve ser evitada.
+Métodos e materiais para a contenção e a limpeza
+Controlar e recuperar o líquido derramado com um produto absorvente não combustível, (por exemplo areia,
+terra, terra diatomácea, vermiculite) e pôr o líquido dentro de contentores para eliminação de acordo com os
+regulamentos locais / nacionais (ver secção 13).
+7. MANUSEAMENTO E ARMAZENAGEM
+Precauções para um manuseamento seguro
+Evitar o contacto com a pele e os olhos. Evitar a inalação do vapor ou da névoa.
+Flash back possível acima de uma distância considerável. Pode ocorrer a explosão do recipiente em situações
+de incêndio. Manter afastado de qualquer chama ou fonte de ignição - Não fumar. Tome medidas para impedir
+a formação de electricidade estática.
+Condições para uma armazenagem segura
+Armazenar em local fresco. Guardar o recipiente herméticamente fechado em lugar seco e bem ventilado. Os
+contentores abertos devem ser cuidadosamente fechados de novo e têm que ficar direitos para evitar a
+dispersão.
+Sigma-Aldrich - 296090 Página 3 de 7
+--- PÁGINA 4 ---
+8. CONTROLO DA EXPOSIÇÍO/PROTECÇÍO PESSOAL
+Protecção individual
+Protecção respiratória
+Nos casos em que a avaliação de risco mostrar que os respiradores purificadores do ar são apropriados,
+use um respirador de cobertura facial total com cartuchos de combinação multi-objectivos (E.U.A.) ou do
+tipo ABEK (EN 14387) como apoio a controlos de engenharia. Se o respirador for o único meio de
+protecção, usa um respirador de ar de cobertura facial total. Use respiradores e componentes testados e
+aprovados por normas governamentais apropriadas, tais como as NIOSH (E.U.A.) ou CEN (UE).
+Protecção das mãos
+As luvas de protecção seleccionadas devem satisfazer as especificações da Directiva da UE 89/689/CEE
+e a norma EN 374 derivada dela.
+Manusear com luvas.
+Protecção dos olhos
+Mascaras de protecção e óculos de segurança.
+Protecção do corpo e da pele
+Escolher uma protecção para o corpo conforme a quantidade e a concentração das substâncias
+perigosas no lugar de trabalho.
+Medidas de higiene
+Manusear de acordo com as boas práticas industriais de higiene e segurança. Lavar as mãos antes de
+interrupções, e no final do dia de trabalho.
+9. PROPRIEDADES FÍSICAS E QUÍMICAS
+Aspecto
+Estado físico líquido
+Cor incolor
+Dados de segurança
+pH 7,0
+Ponto de fusão -95 °C
+Ponto de ebulição 69 °C
+Ponto de inflamação -26,0 °C - câmara fechada
+Temperatura de 234 °C
+ignição
+Limites de explosão, 1,2 %(V)
+inferior
+Limite de explosão, 7,7 %(V)
+superior
+Pressão de vapor 341,3 hPa a 37,7 °C
+176,0 hPa a 20,0 °C
+Hidrossolubilidade insolúvel
+Coeficiente de log Pow: 3,90 - 4,11
+epartição n-
+octanol/água
+Taxa de evaporação 15,8
+10. ESTABILIDADE E REACTIVIDADE
+Sigma-Aldrich - 296090 Página 4 de 7
+--- PÁGINA 5 ---
+Estabilidade química
+Estável sob as condições recomendadas de armazenamento.
+Condições a evitar
+A exposição à humidade pode afectar a qualidade do produto.
+Calor, chamas e faíscas.
+Matérias a evitar
+Oxidantes
+Produtos de decomposição perigosos
+Produtos perigosos de decomposição formados durante os incêndios. - Óxidos de carbono
+11. INFORMAÇÍO TOXICOLÓGICA
+Toxicidade aguda
+DL50 Oral - ratazana - 25.000 mg/kg
+CL50 Inalação - ratazana - 4 h - 48000 ppm
+Corrosão/irritação cutânea
+dados não disponíveis
+Lesões oculares graves/irritação ocular
+Olhos - coelho - Ligeira irritação dos olhos
+Sensibilização respiratória ou da pele
+dados não disponíveis
+Mutagenicidade em células germinativas
+dados não disponíveis
+Carcinogenicidade
+Carcinogenicidade - ratazana - Inalação
+Oncogenia: Carcinogénico segundo os critérios de RTECS. Efeitos oncogénicos: tumores nos testículos
+IARC: Nenhum componente deste produto presente a níveis maiores ou iguais a 0.1% é identificado como
+carcinogénio provável, possível ou confirmado pelo IARC.
+Toxicidade reprodutiva
+Tóxico reprodutivo suspeito para os humanos
+Tendo em base experimentos com animais de laboratório, a exposição excessiva pode provocar
+desordem(ns) reprodutiva(s).
+Toxicidade para órgãos-alvo específicos - exposição única
+Pode afectar os órgãos.
+Toxicidade para órgãos-alvo específicos - exposição repetida
+dados não disponíveis
+Perigo de aspiração
+Pode ser mortal por ingestão e penetração nas vias respiratórias.
+Efeitos potenciais para a saúde
+Inalação Nocivo se for inalado. Pode causar uma irritação do aparelho respiratório. Pode
+provocar sonolência e vertigens, por inalação dos vapores.
+Ingestão Pode ser perigoso se for engolido. Perigo de aspiração se for engolido - pode
+entrar nos pulmões e causar danos.
+Pele Pode ser perigoso se for absorto pela pele. Causa uma irritação da pele.
+Sigma-Aldrich - 296090 Página 5 de 7
+--- PÁGINA 6 ---
+Olhos Pode causar uma irritação dos olhos.
+Sinais e sintomas de exposição
+O contacto prolongado ou repetido com a pele pode provocar:, redução de gordura, Dermatites, O contacto
+com os olhos pode provocar:, Vermelhidão, Visão desfocada, Provoca lágrimas., Os efeitos devidos a
+ingestão podem incluir:, Desconforto gastrointestinal, Depressão do sistema nervoso central, Irritação de
+pulmão, dor de peito, edema pulmonar, vertigens, tempo de reacção afrouxado, fala arrastada, Dor de cabeça,
+Vertigem, Sonolência, Inconsciência
+Informação adicional
+RTECS: MN9275000
+12. INFORMAÇÍO ECOLÓGICA
+Toxicidade
+Toxicidade em CL50 - Pimephales promelas (vairão gordo) - 2,5 mg/l - 96,0 h
+peixes
+Toxicidade em CE50 - Daphnia magna - 3.878,00 mg/l - 48 h
+dáfnias e outros
+invertebrados
+aquáticos.
+Toxicidade em algas CE50 - Chlorella vulgaris (alga em água-doce) - 12.840,00 mg/l - 3 h
+CE50 - Skeletoma - 0,30 mg/l - 8 h
+Persistência e degradabilidade
+dados não disponíveis
+Potencial de bioacumulação
+dados não disponíveis
+Mobilidade no solo
+dados não disponíveis
+Avaliação PBT e mPmB
+dados não disponíveis
+Outros efeitos adversos
+Tóxico para os organismos aquáticos, podendo causar efeitos nefastos a longo prazo no ambiente aquático.
+13. CONSIDERAÇÕES RELATIVAS À ELIMINAÇÍO
+Produto
+Queimar em um incinerador químico equipado com pós-combustor e purificador de gases, mas tomar
+precauções adicionais ao colocar esse material em ignição, visto que é altamente inflamável. Observar
+todos os regulamentos ambientais federais, estaduais e locais. Entrar em contato com um serviço
+profissional credenciado de descarte de lixo para descartar esse material.
+Embalagens contaminadas
+Eliminar como produto Não utilizado.
+14. INFORMAÇÕES RELATIVAS AO TRANSPORTE
+ADR/RID
+Número ONU: 1208 Classe: 3 Grupo de embalagem: II
+Denominação de expedição correcta: HEXANOS
+IMDG
+Número ONU: 1208 Classe: 3 Grupo de embalagem: II EMS-No:
+F-E, S-D
+Denominação de expedição correcta: HEXANES
+Poluente marinho: No
+IATA
+Número ONU: 1208 Classe: 3 Grupo de embalagem: II
+Sigma-Aldrich - 296090 Página 6 de 7
+--- PÁGINA 7 ---
+Denominação de expedição correcta: Hexanes
+15. INFORMAÇÍO SOBRE REGULAMENTAÇÍO
+Esta folha de dados de segurança obedece aos requerimentos da Regulamento (CE) No. 1907/2006
+16. OUTRAS INFORMAÇÕES
+Texto dos código(s) H e frase(s) R mencionados na secção 3
+Aquatic Chronic Toxicidade crónica para o ambiente aquático
+Asp. Tox. Perigo de aspiração
+Flam. Liq. Líquidos inflamáveis
+H225 Líquido e vapor facilmente inflamáveis.
+H304 Pode ser mortal por ingestão e penetração nas vias respiratórias.
+H315 Provoca irritação cutânea.
+H336 Pode provocar sonolência ou vertigens.
+H361f Suspeito de afectar a fertilidade.
+H373 Pode afectar os órgãos após exposição prolongada ou repetida.
+H411 Tóxico para os organismos aquáticos com efeitos duradouros.
+Repr. Toxicidade reprodutiva
+Skin Irrit. Irritação cutânea
+STOT RE Toxicidade para órgãos-alvo específicos - exposição repetida
+F Facilmente inflamável
+N Perigoso para o ambiente
+Xn Nocivo
+R11 Facilmente inflamável.
+R38 Irritante para a pele.
+R48/20 Nocivo: risco de efeitos graves para a saúde em caso de exposição prolongada por
+inalação.
+R51/53 Tóxico para os organismos aquáticos, podendo causar efeitos nefastos a longo
+prazo no ambiente aquático.
+R62 Possíveis riscos de comprometer a fertilidade.
+R65 Nocivo: pode causar danos nos pulmões se ingerido.
+R67 Pode provocar sonolência e vertigens, por inalação dos vapores.
+Repr.Cat.3 Tóxico para a Reprodução Categoria 3
+Outras informações
+Direitos exclusivos, 2010, da Sigma-Aldrich. Permissão concedida para fazer número ilimitado de cópias
+em papel, somente para uso interno.
+Acredita-se que as informações acima estejam corretas, embora não pretendam ser totalmente
+abrangentes, devendo ser usadas apenas como um guia. A Sigma-Aldrich não deverá ter responsabilidade
+legal por quaisquer danos resultantes do manuseio ou do contato com o produto acima. Consultar o verso
+da fatura ou nota que acompanha o produto para tomar conhecimento dos termos adicionais e condições
+de venda.
+Sigma-Aldrich - 296090 Página 7 de 7

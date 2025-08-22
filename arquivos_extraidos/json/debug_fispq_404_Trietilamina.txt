@@ -1,0 +1,156 @@
+--- PÁGINA 1 ---
+Ficha de Informação de Produto Químico
+IDENTIFICAÇÍO Help
+Número ONU Nome do produto Rótulo de risco
+1296 TRIETILAMINA
+Número de risco Classe / Subclasse
+338 3
+Sinônimos
+T E N
+Aparência
+LÍQUIDO AQUOSO; SEM COLORAÇÍO; ODOR DE PEIXE; FLUTUA NA ÁGUA; PRODUZ VAPOR IRRITANTE INFLAMÁVEL.
+Fórmula molecular Família química
+C6 H15 N AMINA
+Fabricantes
+Para informações atualizadas recomenda-se a consulta às seguintes instituições ou referências:
+ABIQUIM - Associação Brasileira da Indústria Química : Fone 0800-118270
+ANDEF - Associação Nacional de Defesa Vegetal: Fone (11) 3081-5033
+Revista Química e Derivados - Guia geral de produtos químicos, Editora QD: Fone (11) 3826-6899
+Programa Agrofit - Ministério da Agricultura
+MEDIDAS DE SEGURANÇA Help
+Medidas preventivas imediatas
+EVITAR CONTATO COM O LÍQUIDO E O VAPOR. MANTER AS PESSOAS AFASTADAS. CHAMAR OS BOMBEIROS. PARAR O
+VAZAMENTO SE POSSÍVEL. ISOLAR E REMOVER O MATERIAL DERRAMADO. DESLIGAR AS FONTES DE IGNIÇÍO. FICAR
+CONTRA O VENTO E USAR NEBLINA D'ÁGUA PARA BAIXAR O VAPOR.
+Equipamentos de Proteção Individual (EPI)
+USAR LUVAS, BOTAS E ROUPAS DE BORRACHA BUTÍLICA OU NITRÍLICA OU DE PVC E, MÁSCARA DE RESPIRAÇÍO
+AUTÔNOMA.
+RISCOS AO FOGO Help
+Ações a serem tomadas quando o produto entra em combustão
+EXTINGUIR COM PÓ QUÍMICO SECO, ESPUMA DE ÁLCOOL OU DIÓXIDO DE CARBONO. ESFRIAR OS RECIPIENTES EXPOSTOS,
+COM ÁGUA.
+Comportamento do produto no fogo
+O RETROCESSO DA CHAM PODE OCORRER DURANTE O ARRASTE DO VAPOR. O VAPOR PODE EXPLODIR SE A IGNIÇÍO FOR
+EM ÁREA FECHADA.
+Produtos perigosos da reação de combustão
+NÍO PERTINENTE.
+Agentes de extinção que não podem ser usados
+ÁGUA PODE SER INEFICAZ.
+Limites de inflamabilidade no ar
+Limite Superior: 8,0%
+Limite Inferior: 1,2%
+Ponto de fulgor
+-6,67°C ( VASO ABERTO )
+Temperatura de ignição
+450,3 °C
+Taxa de queima
+6,2 mm/min
+Taxa de evaporação (éter=1)
+2,7
+NFPA (National Fire Protection Association)
+Perigo de Saúde (Azul): 3
+Inflamabilidade (Vermelho): 3
+--- PÁGINA 2 ---
+Reatividade (Amarelo): 0
+PROPRIEDADES FÍSICO-QUÍMICAS E AMBIENTAIS Help
+Peso molecular Ponto de ebulição (°C) Ponto de fusão (°C)
+101,19 89,5 -114,8
+Temperatura crítica (°C) Pressão crítica (atm) Densidade relativa do vapor
+262 30 3,5
+Densidade relativa do líquido (ou Pressão de vapor Calor latente de vaporização (cal/g)
+sólido) 56,04 mmHg A 21,1 °C 80
+0,729 A 20 °C (LÍQUIDO)
+Calor de combustão (cal/g) Viscosidade (cP)
+-9.466 DADO NÍO DISPONÍVEL
+Solubilidade na água pH
+5,5 g/100 mL DE ÁGUA A 20 °C 13(450g/L)
+Reatividade química com água
+NÍO REAGE.
+Reatividade química com materiais comuns
+NÍO REAGE.
+Polimerização
+NÍO OCORRE.
+Reatividade química com outros materiais
+INCOMPATÍVEL COM OXIDANTES FORTES E ÁCIDOS FORTES.
+Degradabilidade
+BIODEGRADÁVEL (100% DE DEGRADAÇÍO EM 28 HORAS, POR AEROBACTER sp).
+Potencial de concentração na cadeia alimentar
+NENHUM.
+Demanda bioquímica de oxigênio (DBO)
+DADO NÍO DISPONÍVEL.
+Neutralização e disposição final
+QUEIMAR EM UM INCINERADOR QUÍMICO EQUIPADO COM PÓS-QUEIMADOR E LAVADOR DE GASES. TOMAR OS DEVIDOS
+CUIDADOS NA IGNIÇÍO, POIS O PRODUTO É ALTAMENTE INFLAMÁVEL. PARA PEQUENAS QUANTIDADES: COLOCAR EM
+BISSULFATO DE SÓDIO. BORRIFAR ÁGUA E NEUTRALIZAR. DRENAR PARA O ESGOTO COM MUITA ÁGUA. RECOMENDA-SE O
+ACOMPANHAMENTO POR UM ESPECIALISTA DO ÓRGÍO AMBIENTAL.
+INFORMAÇÕES ECOTOXICOLÓGICAS Help
+Toxicidade - limites e padrões
+L.P.O.: DADO NÍO DISPONÍVEL
+P.P.: NÍO ESTABELECIDO
+IDLH: 200 ppm
+LT: Brasil - Valor Médio 48h: 20 ppm
+LT: Brasil - Valor Teto: 30 ppm
+LT: EUA - TWA: 1 ppm (PELE)
+LT: EUA - STEL: 3 ppm (PELE)
+Toxicidade ao homem e animais superiores (vertebrados)
+M.D.T.: DADO NÍO DISPONÍVEL
+M.C.T.: DADO NÍO DISPONÍVEL
+Toxicidade: Espécie: RATO
+Via Respiração (CL50): LCLo (4 h) = 1.000 ppm
+Via Oral (DL 50): 460 mg/kg
+Toxicidade: Espécie: CAMUNDONGO
+Via Oral (DL 50): 546 mg/kg
+Toxicidade: Espécie: OUTROS
+Via Respiração (CL50): COBAIA: LCLo (4 h) = 1.000 ppm; MAMÍFEROS: 19 g/m³ Via Cutânea (DL 50): COELHO: 570 mg/kg;
+(OBS.1)
+Toxicidade aos organismos aquáticos: PEIXES : Espécie
+SEMOLITUS ATROMACULATUS: DLo (24 h) = 50 mg/L; DL100 (24 h) = 80 mg/L, AMBOS EM ÁGUAS DO RIO DETROIT.
+Toxicidade aos organismos aquáticos: CRUSTÁCEOS : Espécie
+DAPHNIA sp: DLo = 200 mg/L.
+Toxicidade aos organismos aquáticos: ALGAS : Espécie
+SCENEDESMUS sp: DLo = 1 mg/L.
+--- PÁGINA 3 ---
+Toxicidade a outros organismos: BACTÉRIAS
+E. COLI: NENHUM EFEITO = 1 g/L
+Toxicidade a outros organismos: MUTAGENICIDADE
+RATO: "cyt" = 1 mg/m³ (INALAÇÍO)
+Toxicidade a outros organismos: OUTROS
+Informações sobre intoxicação humana
+EVITAR CONTATO COM O LÍQUIDO E O VAPOR. MANTER AS PESSOAS AFASTADAS. CHAMAR OS BOMBEIROS. PARAR O
+VAZAMENTO SE POSSÍVEL. ISOLAR E REMOVER O MATERIAL DERRAMADO. DESLIGAR AS FONTES DE IGNIÇÍO. FICAR
+CONTRA O VENTO E USAR NEBLINA D'ÁGUA PARA BAIXAR O VAPOR.
+Tipo de contato Síndrome tóxica Tratamento
+VAPOR IRRITANTE PARA OS OLHOS, NARIZ E MOVER PARA O AR FRESCO. SE A
+GARGANTA. SE INALADO CAUSARÁ RESPIRAÇÍO FOR DIFICULTADA OU PARAR,
+TOSSE, DIFICULDADE RESPIRATÓRIA OU DAR OXIGÊNIO OU FAZER RESPIRAÇÍO
+PERDA DA CONSCIÊNCIA. ARTIFICIAL.
+Tipo de contato Síndrome tóxica Tratamento
+LÍQUIDO QUEIMARÁ A PELE. QUEIMARÁ OS REMOVER ROUPAS E SAPATOS
+OLHOS. PREJUDICIAL SE INGERIDO. CONTAMINADOS E ENXAGUAR COM MUITA
+ÁGUA. MANTER AS PÁLPEBRAS ABERTAS E
+ENXAGUAR COM MUITA ÁGUA. MANTER A
+VÍTIMA AQUECIDA.
+DADOS GERAIS Help
+Temperatura e armazenamento
+AMBIENTE.
+Ventilação para transporte
+ABERTA.
+Estabilidade durante o transporte
+ESTÁVEL.
+Usos
+SOLVENTE CATALÍTICO EM SÍNTESES QUÍMICAS; ACELERADOR PARA BORRACHA; CURA E ENDURECIMENTO DE POLÍMEROS;
+INIBIDOR DE CORROSÍO; PROPELENTE.
+Grau de pureza
+98.5% .
+Radioatividade
+NÍO TEM.
+Método de coleta
+DADO NÍO DISPONÍVEL.
+Código NAS (National Academy of Sciences)
+FOGO SAÚDE POLUIÇÍO DAS ÁGUAS REATIVIDADE
+Fogo: 3 Vapor Irritante: 2 Toxicidade humana: 3 Outros Produtos Químicos: 3
+Líquido/Sólido Irritante: 2 Toxicidade aquática: 3 Água: 0
+Venenos: 2 Efeito estético: 2 Auto reação: 0
+OBSERVAÇÕES Help
+1) COELHO : IRRITAÇÍO SUAVE A PELE : 10 mg (24 h); IRRITAÇÍO SEVERA AOS OLHOS : 250 mg. TAXA DE TOXICIDADE
+AOS ORGANISMOS AQUÁTICOS : TLm (96 h) = 10 ppm - 100 ppm. POTENCIAL DE IONIZAÇÍO (PI) = 7,5 eV.

@@ -1,0 +1,217 @@
+--- PÁGINA 1 ---
+SIGMA-ALDRICH
+FICHA DE DADOS DE SEGURANÇA
+de acordo com a Regulamento (CE) No. 1907/2006
+Versão 3.3 Data de revisão 11.12.2008
+Data de impressão 09.06.2010
+ENERIC EU MSDS - NO COUNTRY SPECIFIC DATA - NO OEL DATA
+1. IDENTIFICAÇÍO DA SUBSTÂNCIA/PREPARAÇÍO E DA SOCIEDADE/EMPRESA
+Nome do produto : Methanol
+Referência do Produto : M3641
+Marca : Sigma
+Companhia : Sigma-Aldrich Brasil Ltda.
+Av. das Nações Unidas, 23.043
+04795-100 SÍO PAULO - SP
+BRAZIL
+Telefone : +551137323100
+Número de Fax : +551155229895
+Núnero de Telefone de :
+Emergência
+2. IDENTIFICAÇÍO DOS PERIGOS
+Precauções para o homem e para o ambiente
+Facilmente inflamável. Tóxico por inalação, em contacto com a pele e por ingestão. Tóxico: perigo de efeitos
+irreversíveis muito graves por inalação, em contacto com a pele e por ingestão.
+3. COMPOSIÇÍO/INFORMAÇÍO SOBRE OS COMPONENTES
+Formula : CH4O
+Peso molecular : 32,04 g/mol
+Nº CAS No. CE No. de Index Classificação Concentração
+Methanol
+67-56-1 200-659-6 603-001-00-X F, T, R11 - R23/24/25 - -
+R39/23/24/25
+4. PRIMEIROS SOCORROS
+Recomendação geral
+Consultar um médico. Mostrar esta ficha de segurança ao médico de serviço.
+Se for inalado
+Se for respirado, levar a pessoa para o ar fresco. Se não respirar, aplicar a respiração artificial. Consultar um
+médico.
+No caso dum contacto com a pele
+Lavar com sabão e muita água. Transportar imediatamente paciente para um Hospital. Consultar um médico.
+No caso dum contacto com os olhos
+Lavar cuidadosamente com muita água, durante pelo menos quinze minutos, e consultar o médico.
+Se for engolido
+NÍO provocar vómitos. Nunca dar nada pela boca a uma pessoa inconsciente. Enxaguar a boca com água.
+Consultar um médico.
+Sigma - M3641 www.sigma-aldrich.com Página 1 of 5
+--- PÁGINA 2 ---
+5. MEDIDAS DE COMBATE A INCÊNDIO
+Meios adequados de extinção
+Para fogos incipientes ou pequenos usar meios como espuma de álcool, pó seco ou dióxido de carbono. Para
+grandes fogos aplicar agua desde o mais longe possível, usar grandes quantidades de agua
+(inundação)aplicadas como nevoeiro ou spray; córregos sólidos de agua podem não ser efectivos. Esfrie
+todos os depósitos ou vasilhas com grandes e inundantes quantidades de agua.
+Equipamento especial de protecção a utilizar pelo pessoal de combate a incêndio
+Usar equipamento de respiração autónomo para combate a incêndios, se necessário.
+Outras informações
+Os jactos de água podem ser utilizados para arrefecer os contentores fechados.
+6. MEDIDAS A TOMAR EM CASO DE FUGAS ACIDENTAIS
+Precauções individuais
+Pôr uma protecção respiratória. Evitar a respiração do vapor/névoa/gas. Assegurar ventilação adequada.
+Retirar todas as fontes de ignição. Evacuar o pessoal para áreas de segurança. Atenção com a acumulação
+de vapores que pode formar concentrações explosivas. Os vapores podem-se acumular nas áreas baixas.
+Precauções ambientais
+Prevenir dispersão ou derramamento ulterior se for mais seguro assim. Não permitir a entrada do produto no
+sistema de esgotos.
+Métodos de limpeza
+Controlar e recuperar o líquido derramado com um produto absorvente não combustível, (por exemplo areia,
+terra, terra diatomácea, vermiculite) e por o líquido dentro de contentores para eliminação de acordo com as
+regulações locais / nacionais (ver secção 13).
+7. MANUSEAMENTO E ARMAZENAGEM
+Manuseamento
+Evitar o contacto com a pele e os olhos. Evitar a inalação do vapor ou da névoa.
+Manter afastado de qualquer chama ou fonte de ignição - Não fumar. Tome medidas para impedir a formação
+de electricidade estática.
+Armazenagem
+Armazenar em local fresco. Guardar o recipiente herméticamente fechado em lugar seco e bem ventilado. Os
+contentores abertos devem ser cuidadosamente fechados de novo e têm que ficar direitos para evitar a
+dispersão.
+8. CONTROLO DA EXPOSIÇÍO/PROTECÇÍO PESSOAL
+Protecção individual
+Protecção respiratória
+Nos casos em que a avaliação de risco mostrar que os respiradores purificadores do ar são apropriados,
+usa um respirador de cobertura facial total com cartuchos de combinação multi-objectivos (E.U.A.) ou do
+tipo AXBEK (EN 14387) como apoio a controlos de engenharia. Se o respirador for o único meio de
+protecção, usa um respirador de ar de cobertura facial total. Use respiradores e componentes testados e
+aprovados por normas governamentais apropriadas, tais como as NIOSH (E.U.A.) ou CEN (UE).
+Protecção das mãos
+As luvas de protecção selecionadas devem satisfazer as especificações da Directiva da UE 89/686/CEE e
+o estandarte EN 374 derivado dele. Manusear com luvas.
+Protecção dos olhos
+Óculos de segurança
+Protecção do corpo e da pele
+Escolher uma protecção para o corpo conforme a quantidade e a concentração das substâncias perigosas
+no lugar de trabalho.
+Sigma - M3641 www.sigma-aldrich.com Página 2 of 5
+--- PÁGINA 3 ---
+Medidas de higiene
+Evitar o contacto com a pele, olhos e vestuário. Lavar as mãos antes de interrupções do trabalho, e
+imediatamente a seguir ao manuseamento do produto.
+9. PROPRIEDADES FÍSICAS E QUÍMICAS
+Aspecto
+Estado físico líquido
+Cor incolor
+Dados de segurança
+pH dados não disponíveis
+Ponto de fusão -98,0 °C
+Ponto de ebulição 64,0 - 65,0 °C
+Ponto de inflamação 11,0 °C - câmara fechada
+Temperatura de 455 °C
+ignição
+Limites de explosão, 6 %(V)
+inferior
+Limite de explosão, 36 %(V)
+superior
+Pressão de vapor 546,6 hPa a 50,0 °C
+130,3 hPa a 20,0 °C
+Densidade 0,79 g/cm3
+Hidrossolubilidade completamente miscível
+Coeficiente de log Pow: -0,77
+epartição n-
+octanol/água
+10. ESTABILIDADE E REACTIVIDADE
+Estabilidade em armazenamento
+Estável sob as condições recomendadas de armazenamento.
+Condições a evitar
+Calor, chamas e faíscas.
+Matérias a evitar
+ácidos, Cloretos ácidos, Anídridos de ácido, Oxidantes, Metais alcalinos, Agentes redutores
+Produtos de decomposição perigosos
+Produtos perigosos de decomposição formados durante os incêndios. - Óxidos de carbono
+11. INFORMAÇÍO TOXICOLÓGICA
+Toxicidade aguda
+DL50 Oral - ratazana - 5.628 mg/kg
+CL50 Inalação - ratazana - 4 h - 64000 ppm
+DL50 Dérmico - coelho - 15.800 mg/kg
+Irritação ou corrosão
+Pele - coelho - Efeitos irritantes sobre a pele - 24 h
+Sigma - M3641 www.sigma-aldrich.com Página 3 of 5
+--- PÁGINA 4 ---
+Olhos - coelho - Irritação dos olhos - 24 h
+Sensibilização
+dados não disponíveis
+Exposição crónica
+IARC: Nenhum componente deste produto presente a níveis maiores ou iguais a 0.1% é
+identificado como carcinogénio provável, possível ou confirmado pelo IARC.
+Sinais e sintomas de exposição
+O álcool metílico pode se fatal ou provocar a cegueira se engolido., Não pode ser feito não tóxico., Os efeitos
+devidos a ingestão podem incluir:, Náusea, Dor de cabeça, Vómitos, Distúrbios gastro-intestinais, Vertigem,
+Debilidade, Confusão., Sonolência, Inconsciência, Pode provocar convulsões.
+Efeitos potenciais sobre a saúde
+Inalação Tóxico se inalado. Pode causar uma irritação do aparelho respiratório.
+Pele Tóxico se absorvido através da pele. Pode causar uma irritação da pele.
+Olhos Pode causar uma irritação dos olhos.
+Ingestão Tóxico se ingerido.
+Orgãos alvo Olhos, Rim, Fígado, Coração, Sistema nervoso central,
+Informação adicional
+RTECS: PC1400000
+12. INFORMAÇÍO ECOLÓGICA
+Informação sobre eliminação (persistência e degradabilidade)
+dados não disponíveis
+Efeitos de ecotoxicidade
+Toxicidade em CL50 - Oncorhynchus mykiss (truta arco-íris) - 19.000,00 mg/l - 96 h
+peixes
+CL50 - Cyprinus carpio (Carpa) - 36.000,00 mg/l - 48 h
+Toxicidade em CE50 - Daphnia magna - 24.500,00 mg/l - 48 h
+dáfnias e outros
+invertebrados
+aquáticos.
+CE100 - Daphnia magna - 10.000,00 mg/l - 24 h
+Informações suplementares sobre a ecologia
+dados não disponíveis
+13. CONSIDERAÇÕES RELATIVAS À ELIMINAÇÍO
+Produto
+Queimar em um incinerador químico equipado com pós-combustor e purificador de gases, mas tomar
+precauções adicionais ao colocar esse material em ignição, visto que é altamente inflamável. Observar todos
+os regulamentos ambientais federais, estaduais e locais. Entrar em contato com um serviço profissional
+credenciado de descarte de lixo para descartar esse material.
+Embalagens contaminadas
+Eliminar como produto Não utilizado.
+14. INFORMAÇÕES RELATIVAS AO TRANSPORTE
+ADR/RID
+Número ONU: 1230 Classe: 3 (6.1) Grupo de embalagem: II
+Sigma - M3641 www.sigma-aldrich.com Página 4 of 5
+--- PÁGINA 5 ---
+Denominação de expedição correcta: METHANOL
+IMDG
+Número ONU: 1230 Classe: 3 (6.1) Grupo de embalagem: II EMS-No: F-E, S-D
+Denominação de expedição correcta: METHANOL
+Poluente marinho: No
+IATA
+Número ONU: 1230 Classe: 3 (6.1) Grupo de embalagem: II
+Denominação de expedição correcta: Methanol
+15. INFORMAÇÍO SOBRE REGULAMENTAÇÍO
+Rotulado de acordo com as directivas da CE
+Rotulagem CE
+Símbolos de perigo
+F Facilmente inflamável
+T Tóxico
+Frase(s) - R
+R11 Facilmente inflamável.
+R23/24/25 Tóxico por inalação, em contacto com a pele e por ingestão.
+R39/23/24/25 Tóxico: perigo de efeitos irreversíveis muito graves por inalação, em contacto com a
+pele e por ingestão.
+Frase(s) - S
+S 7 Manter o recipiente bem fechado.
+S16 Manter afastado de qualquer chama ou fonte de ignição - Não fumar.
+S36/37 Usar vestuário de protecção e luvas adequadas.
+S45 Em caso de acidente ou de indisposição, consultar imediatamente o médico (se
+possível mostrar-lhe o rótulo).
+16. OUTRAS INFORMAÇÕES
+Outras informações
+Direitos exclusivos, 2008, da Sigma-Aldrich. Permissão concedida para fazer número ilimitado de cópias
+em papel, somente para uso interno.
+Acredita-se que as informações acima estejam corretas, embora não pretendam ser totalmente
+abrangentes, devendo ser usadas apenas como um guia. A Sigma-Aldrich não deverá ter responsabilidade
+legal por quaisquer danos resultantes do manuseio ou do contato com o produto acima. Consultar o verso
+da fatura ou nota que acompanha o produto para tomar conhecimento dos termos adicionais e condições
+de venda.
+Sigma - M3641 www.sigma-aldrich.com Página 5 of 5

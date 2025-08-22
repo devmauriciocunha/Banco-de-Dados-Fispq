@@ -1,0 +1,345 @@
+--- PÁGINA 1 ---
+SIGMA-ALDRICH
+sigma-aldrich.com
+FICHA DE DADOS DE SEGURANÇA
+de acordo com a Regulamento (CE) No. 1907/2006
+Versão 4.0 Data de revisão 16.12.2010
+Data de impressão 24.01.2011
+ENERIC EU MSDS - NO COUNTRY SPECIFIC DATA - NO OEL DATA
+1. IDENTIFICAÇÍO DA SUBSTÂNCIA/MISTURA E DA SOCIEDADE/EMPRESA
+1.1 Identificadores do produto
+Nome do produto : Nickel(II) chloride hexahydrate
+Referência do Produto : 13613
+Marca : Sigma-Aldrich
+No. CAS : 7791-20-0
+1.2 Utilizações relevantes identificadas da substância ou mistura e utilizações desaconselhadas
+Utilizações identificadas : Produtos químicos de laboratório, Fabricação de substâncias
+1.3 Pormenores acerca do fornecedor da ficha de dados de segurança
+Companhia : Sigma-Aldrich Brasil Ltda.
+Av. das Nações Unidas, 23.043
+04795-100 SÍO PAULO - SP
+BRAZIL
+Telefone : +551137323100
+Número de Fax : +551155229895
+1.4 Número de telefone de emergência
+Núnero de Telefone de :
+Emergência
+2. IDENTIFICAÇÍO DOS PERIGOS
+2.1 Classificação da substância ou mistura
+Classification according to Regulation (EC) No 1272/2008 [EU-GHS/CLP]
+Carcinogenicity, Inhalation (Category 1A)
+Germ cell mutagenicity (Category 2)
+Reproductive toxicity (Category 1B)
+Acute toxicity, Inhalation (Category 3)
+Acute toxicity, Oral (Category 3)
+Specific target organ toxicity - repeated exposure (Category 1)
+Skin irritation (Category 2)
+Respiratory sensitization (Category 1)
+Skin sensitization (Category 1)
+Acute aquatic toxicity (Category 1)
+Chronic aquatic toxicity (Category 1)
+Classificação de acordo com as Directivas da EU 67/548/CEE ou 1999/45/CE
+Pode causar cancro. Tóxico por ingestão. Irritante para os olhos e pele. Pode causar sensibilização em
+contacto com a pele. Muito tóxico para os organismos aquáticos, podendo causar efeitos nefastos a longo
+prazo no ambiente aquático.
+2.2 Elementos da etiqueta
+Labelling according Regulation (EC) No 1272/2008 [CLP]
+Pictogram
+Signal word Danger
+Sigma-Aldrich - 13613 Página 1 de 8
+--- PÁGINA 2 ---
+Hazard statement(s)
+H301 Toxic if swallowed.
+H315 Causes skin irritation.
+H317 May cause an allergic skin reaction.
+H331 Toxic if inhaled.
+H334 May cause allergy or asthma symptoms or breathing difficulties if inhaled.
+H341 Suspected of causing genetic defects.
+H350i May cause cancer by inhalation.
+H360 May damage fertility or the unborn child.
+H372 Causes damage to organs through prolonged or repeated exposure.
+H410 Very toxic to aquatic life with long lasting effects.
+Precautionary statement(s)
+P201 Obtain special instructions before use.
+P261 Avoid breathing dust/ fume/ gas/ mist/ vapours/ spray.
+P273 Avoid release to the environment.
+P280 Wear protective gloves.
+P301 + P310 IF SWALLOWED: Immediately call a POISON CENTER or doctor/
+physician.
+P311 Call a POISON CENTER or doctor/ physician.
+Supplemental Hazard none
+Statements
+Restricted to professional users.
+According to European Directive 67/548/EEC as amended.
+Hazard symbol(s)
+R-phrase(s)
+R45 May cause cancer.
+R25 Also toxic if swallowed.
+R36/38 Irritating to eyes and skin.
+R43 May cause sensitization by skin contact.
+R50/53 Very toxic to aquatic organisms, may cause long-term adverse effects in
+the aquatic environment.
+S-phrase(s)
+S53 Avoid exposure - obtain special instructions before use.
+S36/37 Wear suitable protective clothing and gloves.
+S45 In case of accident or if you feel unwell, seek medical advice immediately
+(show the label where possible).
+S60 This material and its container must be disposed of as hazardous waste.
+S61 Avoid release to the environment. Refer to special instructions/ Safety
+data sheets.
+Reservado aos utilizadores profissionais.
+2.3 Outros Perigos - nenhum(a)
+3. COMPOSIÇÍO/INFORMAÇÍO SOBRE OS COMPONENTES
+3.1 Substâncias
+Formula : Cl2Ni · 6H2O
+Peso molecular : 237,69 g/mol
+Componente Concentração
+Nickel(II) chloride hexahydrate
+No. CAS 7791-20-0 -
+Sigma-Aldrich - 13613 Página 2 de 8
+--- PÁGINA 3 ---
+4. PRIMEIROS SOCORROS
+4.1 Descrição das medidas de primeiros socorros
+Recomendação geral
+Consultar um médico. Mostrar esta ficha de segurança ao médico de serviço.
+Se for inalado
+Se for respirado, levar a pessoa para o ar fresco. Se não respirar, dar respiração artificial. Consultar um
+médico.
+No caso dum contacto com a pele
+Lavar com sabão e muita água. Transportar imediatamente paciente para um Hospital. Consultar um
+médico.
+No caso dum contacto com os olhos
+Lavar cuidadosamente com muita água, durante pelo menos quinze minutos, e consultar o médico.
+Se for engolido
+Nunca dar nada pela boca a uma pessoa inconsciente. Enxaguar a boca com água. Consultar um médico.
+4.2 Sintomas e efeitos mais importantes, tanto agudos como retardados
+Distúrbios gastro-intestinais, Até onde sabemos, as propriedades químicas, físicas e toxicológicas não foram
+minuciosamente investigadas.
+4.3 Indicação de atenção medical imediata e tratamento especial necessário
+dados não disponíveis
+5. MEDIDAS DE COMBATE A INCÊNDIO
+5.1 Meios de extinção
+Meios adequados de extinção
+Utilizar água pulverizada, espuma resistente ao álcool, produto químico seco ou dióxido de carbono.
+5.2 Perigos especiais decorrentes da substância ou mistura
+Cloreto de hidrogénio gasoso, Níquel/óxidos de níquel
+5.3 Recomendações para o pessoal de combate a incêndios
+Usar equipamento de respiração autónomo para combate a incêndios, se necessário.
+5.4 Outras informações
+dados não disponíveis
+6. MEDIDAS A TOMAR EM CASO DE FUGAS ACIDENTAIS
+6.1 Precauções individuais, equipamento de protecção e procedimentos de emergência
+Pôr uma protecção respiratória. Evitar a formação de poeira. Evitar a respiração do vapor/névoa/gas.
+Assegurar ventilação adequada. Evacuar o pessoal para áreas de segurança. Evitar de respirar o pó.
+6.2 Precauções a nível ambiental
+Prevenir dispersão ou derramamento ulterior se for mais seguro assim. Não permitir a entrada do produto
+no sistema de esgotos. A descarga no meio ambiente deve ser evitada.
+6.3 Métodos e materiais de confinamento e limpeza
+Apanhar os resíduos sem levantar poeiras. Varrer e apanhar com uma pá. Manter em recipientes
+fechados adequados, para eliminação.
+6.4 Remissão para outras secções
+Para eliminação de resíduos ver secção 13.
+7. MANUSEAMENTO E ARMAZENAGEM
+7.1 Precauções para um manuseamento seguro
+Evitar o contacto com a pele e os olhos. Evitar a formação de pó e aerossois.Evitar a exposição - obter
+instruções específicas antes da utilização.
+Sigma-Aldrich - 13613 Página 3 de 8
+--- PÁGINA 4 ---
+Providenciar uma adequada ventilação em locais onde se formem poeiras.Medidas usuais de protecção
+preventiva contra incêndio.
+7.2 Condições de armazenagem segura, incluindo eventuais incompatibilidades
+Armazenar em local fresco. Guardar o recipiente herméticamente fechado em lugar seco e bem ventilado.
+higroscópico
+7.3 Utilizações finais específicas
+dados não disponíveis
+8. CONTROLO DA EXPOSIÇÍO/PROTECÇÍO PESSOAL
+8.1 Parâmetros de controlo
+Componentes a controlar com relação ao local de trabalho
+8.2 Controlo da exposição
+Controlos técnicos adequados
+Evitar o contacto com a pele, olhos e vestuário. Lavar as mãos antes de interrupções do trabalho, e
+imediatamente a seguir ao manuseamento do produto.
+Protecção individual
+Protecção para os olhos/cara
+Mascaras de protecção e óculos de segurança. Use equipamento de proteção ocular testado e
+aprovado de acordo com as normas governamentais adequadas, tais como NIOSH (US) ou EN 166
+(EU).
+Protecção da pele
+Manusear com luvas. As luvas devem ser inspectadas antes da utilização. Use uma técnica
+adequada para a remoção das luvas (sem tocar a superfície exterior da luva) para evitar o contacto
+da pele com o produto. Descarte as luvas contaminadas após o uso, em conformidade com as leis e
+boas práticas de laboratório . Lavar e secar as mãos.
+As luvas de protecção seleccionadas devem satisfazer as especificações da Directiva da UE
+89/689/CEE e a norma EN 374 derivada dela.
+Protecção do corpo
+Fato completo de protecção para produtos químicos, O genero de equipamento de protecção deve
+ser escolhido de acordo com a concentração e a quantidade da substância perigosa no lugar de
+trabalho.
+Protecção respiratória
+Nos casos em que a avaliação de risco mostrar que os respiradores purificadores do ar são
+apropriados, use um respirador de partículas do tipo N100 (E.U.A.) ou cartuchos de respiração do
+tipo P2 (EN 143) como apoio a controlos de engenharia. Se o respirador for o único meio de
+protecção, usa um respirador de ar de cobertura facial total. Use respiradores e componentes
+testados e aprovados por normas governamentais apropriadas, tais como as NIOSH (E.U.A.) ou
+CEN (UE).
+9. PROPRIEDADES FÍSICAS E QUÍMICAS
+9.1 Informações sobre propriedades físicas e químicas de base
+a) Aspecto Estado físico: cristalino
+Cor: verde
+b) Odor dados não disponíveis
+c) Limiar olfactivo dados não disponíveis
+d) pH dados não disponíveis
+e) Ponto de fusão/ponto dados não disponíveis
+de congelação
+f) Pontodeebuliçãoinicial dados não disponíveis
+Sigma-Aldrich - 13613 Página 4 de 8
+--- PÁGINA 5 ---
+e intervalo de ebulição;
+g) Ponto de inflamação não aplicável
+h) Taxa de evaporação dados não disponíveis
+i) Inflamabilidade (sólido, dados não disponíveis
+gás)
+j) limites de dados não disponíveis
+inflamabilidade superior
+/ inferior ou explosivas
+k) Pressão de vapor dados não disponíveis
+l) Densidade do vapor dados não disponíveis
+m) Densidade relativa dados não disponíveis
+n) Hidrossolubilidade dados não disponíveis
+o) Coeficiente de partição: dados não disponíveis
+n-octanol/água
+p) Temperatura de auto- dados não disponíveis
+ignição
+q) Temperatura de dados não disponíveis
+decomposição
+r) Viscosidade dados não disponíveis
+s) Propriedades dados não disponíveis
+explosivas
+t) Propriedades oxidantes dados não disponíveis
+9.2 Outra informação de segurança
+dados não disponíveis
+10. ESTABILIDADE E REACTIVIDADE
+10.1 Reactividade
+dados não disponíveis
+10.2 Estabilidade química
+dados não disponíveis
+10.3 Possibilidade de reacções perigosas
+dados não disponíveis
+10.4 Condições a evitar
+Evitar a humidade.
+10.5 Materiais incompatíveis
+Agentes oxidantes fortes, Peróxidos
+10.6 Produtos de decomposição perigosos
+Outros produtos de decomposição perigosos - dados não disponíveis
+11. INFORMAÇÍO TOXICOLÓGICA
+11.1 Informações sobre os efeitos toxicológicos
+Toxicidade aguda
+DL50 Oral - ratazana - 105 mg/kg
+Observações: Órgãos Sensoriais e Sentidos Especiais (Nariz, Olhos, Ouvidos e Gosto):Olfacto: Outras
+alterações Comportamento: Sonolência (diminuição da actividade geral) Diarreia
+Corrosão/irritação cutânea
+dados não disponíveis
+Sigma-Aldrich - 13613 Página 5 de 8
+--- PÁGINA 6 ---
+Lesões oculares graves/irritação ocular
+dados não disponíveis
+Sensibilização respiratória ou cutânea
+dados não disponíveis
+Pode causar sensibilização por inalação.
+Mutagenicidade em células germinativas
+Genotoxicidade in vitro - Humano - célula HeLa
+Danificação do DNA
+Genotoxicidade in vitro - Hamster - fibroblasto
+Troca de cromatídeos homólogos
+Genotoxicidade in vitro - rato - glândula mamária
+Mutação de células somáticas de mamíferos.
+Genotoxicidade in vitro - rato - glândula mamária
+Análises citogenéticas
+Genotoxicidade in vivo - ratazana - Subcutâneo
+Danificação do DNA
+Carcinogenicidade
+Este produto é ou contém um componente que foi relatado como sendo carcinogênico segundo sua
+classificação pela IARC, OSHA, ACGIH, NTP ou EPA.
+Carcinogénio humano possível
+IARC: 1 - Group 1: Carcinogenic to humans (Nickel(II) chloride hexahydrate)
+1 - Grupo 1: Carcinogénico para os humanos (Nickel(II) chloride hexahydrate)
+Toxicidade reprodutiva
+Toxicidade reprodutiva - ratazana - Oral
+Efeitos no recém nascido: Índice de viabilidade (nº de indivíduos vivosao 4º dia/nº de recém nascidos vivos).
+Toxicidade para órgãos-alvo específicos - exposição única
+dados não disponíveis
+Toxicidade para órgãos-alvo específicos - exposição repetida
+dados não disponíveis
+Perigo de aspiração
+dados não disponíveis
+Efeitos potenciais para a saúde
+Inalação Pode ser perigoso se for inalado. Causa uma irritação no aparelho
+respiratório.
+Ingestão Tóxico se ingerido.
+Pele Pode ser perigoso se for absorto pela pele. Causa uma irritação da pele.
+Olhos Provoca irritação ocular grave.
+Sinais e sintomas de exposição
+Distúrbios gastro-intestinais, Até onde sabemos, as propriedades químicas, físicas e toxicológicas não foram
+minuciosamente investigadas.
+Informação adicional
+RTECS: QR6480000
+12. INFORMAÇÍO ECOLÓGICA
+12.1 Toxicidade
+Toxicidade em dáfnias e CE50 - Daphnia magna - 0,51 mg/l - 48 h
+outros invertebrados
+Sigma-Aldrich - 13613 Página 6 de 8
+--- PÁGINA 7 ---
+aquáticos.
+12.2 Persistência e degradabilidade
+dados não disponíveis
+12.3 Potencial de bioacumulação
+dados não disponíveis
+12.4 Mobilidade no solo
+dados não disponíveis
+12.5 Resultados da avaliação PBT e mpmb
+dados não disponíveis
+12.6 Outros efeitos adversos
+Muito tóxico para os organismos aquáticos.
+13. CONSIDERAÇÕES RELATIVAS À ELIMINAÇÍO
+13.1 Métodos de tratamento de resíduos
+Produto
+Propor a entrega de soluções excedentes e não recicláveis a uma empresa idónea de tratamento de
+resíduos. Entrar em contato com um serviço profissional credenciado de descarte de lixo para descartar
+esse material. Dissolver ou misturar o material com um solvente combustível e queimar em incinerador
+químico equipado com pós-combustor e purificador de gases.
+Embalagens contaminadas
+Eliminar como produto Não utilizado.
+14. INFORMAÇÕES RELATIVAS AO TRANSPORTE
+14.1 Número ONU
+ADR/RID: 3288 IMDG: 3288 IATA: 3288
+14.2 Nome apropriado para embarque da ONU
+ADR/RID: TOXIC SOLID, INORGANIC, N.O.S. (Nickel(II) chloride hexahydrate)
+IMDG: TOXIC SOLID, INORGANIC, N.O.S. (Nickel(II) chloride hexahydrate)
+IATA: Toxic solid, inorganic, n.o.s. (Nickel(II) chloride hexahydrate)
+14.3 Classificação (classificações) do perigo de transporte
+ADR/RID: 6.1 IMDG: 6.1 IATA: 6.1
+14.4 Grupo de embalagem
+ADR/RID: III IMDG: III IATA: III
+14.5 Perigos para o ambiente
+ADR/RID: no IMDG Poluente marinho: não IATA: não
+14.6 Precauções especiais para o utilizador
+dados não disponíveis
+15. INFORMAÇÍO SOBRE REGULAMENTAÇÍO
+Esta folha de dados de segurança obedece aos requerimentos da Regulamento (CE) No. 1907/2006
+15.1 Regulamentação/legislação específica para a substância ou mistura em matéria de saúde, segurança
+e ambiente
+dados não disponíveis
+15.2 Avaliação da segurança química
+dados não disponíveis
+16. OUTRAS INFORMAÇÕES
+Outras informações
+Direitos exclusivos, 2010, da Sigma-Aldrich. Permissão concedida para fazer número ilimitado de cópias
+em papel, somente para uso interno.
+Sigma-Aldrich - 13613 Página 7 de 8
+--- PÁGINA 8 ---
+Acredita-se que as informações acima estejam corretas, embora não pretendam ser totalmente
+abrangentes, devendo ser usadas apenas como um guia. A Sigma-Aldrich não deverá ter
+responsabilidade legal por quaisquer danos resultantes do manuseio ou do contato com o produto acima.
+Consultar o verso da fatura ou nota que acompanha o produto para tomar conhecimento dos termos
+adicionais e condições de venda.
+Sigma-Aldrich - 13613 Página 8 de 8

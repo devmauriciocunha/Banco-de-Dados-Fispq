@@ -1,0 +1,277 @@
+--- PÁGINA 1 ---
+SIGMA-ALDRICH
+sigma-aldrich.com
+FICHA DE DADOS DE SEGURANÇA
+de acordo com a Regulamento (CE) No. 1907/2006
+Versão 4.0 Data de revisão 12.03.2010
+Data de impressão 24.01.2011
+ENERIC EU MSDS - NO COUNTRY SPECIFIC DATA - NO OEL DATA
+1. IDENTIFICAÇÍO DA SUBSTÂNCIA/MISTURA E DA SOCIEDADE/EMPRESA
+Nome do produto : ACETATO DE ETILA ANIDRO 99.8%
+Referência do Produto : 270989
+Marca : Sigma-Aldrich
+Companhia : Sigma-Aldrich Brasil Ltda.
+Av. das Nações Unidas, 23.043
+04795-100 SÍO PAULO - SP
+BRAZIL
+Telefone : +551137323100
+Número de Fax : +551155229895
+Núnero de Telefone de :
+Emergência
+2. IDENTIFICAÇÍO DOS PERIGOS
+Classificação da substância ou da mistura
+Nos termos do Regulamento (CE) No1272/2008
+Líquidos inflamáveis (Categoria 2)
+Iirritação ocular (Categoria 2)
+Toxicidade para órgãos-alvo específicos - exposição única (Categoria 3)
+De acordo com a directiva Europeia 67/548/CEE, e emendas.
+Facilmente inflamável. Irritante para os olhos. Pode provocar secura da pele ou fissuras, por exposição
+repetida. Pode provocar sonolência e vertigens, por inalação dos vapores.
+Elementos da etiqueta
+Pictograma
+Palavra-sinal Perigo
+Declaração de perigo
+H225 Líquido e vapor facilmente inflamáveis.
+H319 Provoca irritação ocular grave.
+H336 Pode provocar sonolência ou vertigens.
+EUH066 Pode provocar pele seca ou gretada, por exposição repetida.
+declaração de precaução
+P210 Manter afastado do calor/faísca/chama aberta/superfícies quentes. - Não
+fumar.
+P261 Evitar respirar as poeiras/fumos/gases/névoas/vapores/aerossóis.
+P305 + P351 + P338 SE ENTRAR EM CONTACTO COM OS OLHOS: enxaguar
+cuidadosamente com água durante vários minutos. Se usar lentes de
+contacto, retire-as, se tal lhe for possível. Continuar a enxaguar.
+símbolo de perigosidade
+F Facilmente inflamável
+Xi Irritante
+Frase(s) - R
+R11 Facilmente inflamável.
+Sigma-Aldrich - 270989 Página 1 de 6
+--- PÁGINA 2 ---
+R36 Irritante para os olhos.
+R66 Pode provocar secura da pele ou fissuras, por exposição repetida.
+R67 Pode provocar sonolência e vertigens, por inalação dos vapores.
+Frase(s) - S
+S16 Manter afastado de qualquer chama ou fonte de ignição - Não fumar.
+S26 Em caso de contacto com os olhos, lavar imediata e abundantemente com
+água e consultar um especialista.
+S33 Evitar acumulação de cargas electrostáticas.
+Outros Perigos - nenhum(a)
+3. COMPOSIÇÍO/INFORMAÇÍO SOBRE OS COMPONENTES
+Formula : C4H8O2
+Peso molecular : 88,11 g/mol
+No. CAS No. CE No. de Index Classificação Concentração
+Ethyl acetate
+141-78-6 205-500-4 607-022-00-5 Flam. Liq. 2; Eye Irrit. 2; -
+STOT SE 3; H225, H319,
+H336, EUH066
+F, Xi, R11 - R36 - R66 - R67
+Para o pleno texto das DECLARAÇÕES H mencionadas nesta Secção, ver a Secção 16.
+4. PRIMEIROS SOCORROS
+Recomendação geral
+Consultar um médico. Mostrar esta ficha de segurança ao médico de serviço.
+Se for inalado
+Se for respirado, levar a pessoa para o ar fresco. Se não respirar, aplicar a respiração artificial. Consultar um
+médico.
+No caso dum contacto com a pele
+Lavar com sabão e muita água. Consultar um médico.
+No caso dum contacto com os olhos
+Lavar cuidadosamente com muita água, durante pelo menos quinze minutos, e consultar o médico.
+Se for engolido
+NÍO provocar vómitos. Nunca dar nada pela boca a uma pessoa inconsciente. Enxaguar a boca com água.
+Consultar um médico.
+5. MEDIDAS DE COMBATE A INCÊNDIO
+Meios adequados de extinção
+Para fogos incipientes ou pequenos usar meios como espuma de álcool, pó seco ou dióxido de carbono. Para
+grandes fogos aplicar agua desde o mais longe possível, usar grandes quantidades de agua
+(inundação)aplicadas como nevoeiro ou spray; córregos sólidos de agua podem não ser efectivos. Esfrie
+todos os depósitos ou vasilhas com grandes e inundantes quantidades de agua.
+Equipamento especial de protecção a utilizar pelo pessoal de combate a incêndio
+Usar equipamento de respiração autónomo para combate a incêndios, se necessário.
+Outras informações
+Os jactos de água podem ser utilizados para arrefecer os contentores fechados.
+6. MEDIDAS A TOMAR EM CASO DE FUGAS ACIDENTAIS
+Sigma-Aldrich - 270989 Página 2 de 6
+--- PÁGINA 3 ---
+Precauções individuais
+Usar equipamento de protecção individual. Evitar a respiração do vapor/névoa/gas. Assegurar ventilação
+adequada. Cortar todas as fontes de ignição. Evacuar o pessoal para áreas de segurança. Atenção com a
+acumulação de vapores que pode formar concentrações explosivas. Os vapores podem-se acumular nas
+áreas baixas.
+Precauções ambientais
+Prevenir dispersão ou derramamento ulterior se for mais seguro assim. Não permitir a entrada do produto no
+sistema de esgotos.
+Métodos e materiais para a contenção e a limpeza
+Controlar e recuperar o líquido derramado com um produto absorvente não combustível, (por exemplo areia,
+terra, terra diatomácea, vermiculite) e pôr o líquido dentro de contentores para eliminação de acordo com os
+regulamentos locais / nacionais (ver secção 13).
+7. MANUSEAMENTO E ARMAZENAGEM
+Precauções para um manuseamento seguro
+Evitar o contacto com a pele e os olhos. Evitar a inalação do vapor ou da névoa.
+Manter afastado de qualquer chama ou fonte de ignição - Não fumar. Tome medidas para impedir a formação
+de electricidade estática.
+Condições para uma armazenagem segura
+Armazenar em local fresco. Guardar o recipiente herméticamente fechado em lugar seco e bem ventilado. Os
+contentores abertos devem ser cuidadosamente fechados de novo e têm que ficar direitos para evitar a
+dispersão.
+8. CONTROLO DA EXPOSIÇÍO/PROTECÇÍO PESSOAL
+Protecção individual
+Protecção respiratória
+Nos casos em que a avaliação de risco mostrar que os respiradores purificadores do ar são apropriados,
+use um respirador de cobertura facial total com cartuchos de combinação multi-objectivos (E.U.A.) ou do
+tipo ABEK (EN 14387) como apoio a controlos de engenharia. Se o respirador for o único meio de
+protecção, usa um respirador de ar de cobertura facial total. Use respiradores e componentes testados e
+aprovados por normas governamentais apropriadas, tais como as NIOSH (E.U.A.) ou CEN (UE).
+Protecção das mãos
+As luvas de protecção seleccionadas devem satisfazer as especificações da Directiva da UE 89/689/CEE
+e a norma EN 374 derivada dela.
+Manusear com luvas.
+Protecção dos olhos
+Mascaras de protecção e óculos de segurança.
+Protecção do corpo e da pele
+Escolher uma protecção para o corpo conforme a quantidade e a concentração das substâncias
+perigosas no lugar de trabalho.
+Medidas de higiene
+Manusear de acordo com as boas práticas industriais de higiene e segurança. Lavar as mãos antes de
+interrupções, e no final do dia de trabalho.
+9. PROPRIEDADES FÍSICAS E QUÍMICAS
+Aspecto
+Estado físico claro, líquido
+Cor incolor
+Dados de segurança
+pH dados não disponíveis
+Ponto de fusão -84 °C
+Sigma-Aldrich - 270989 Página 3 de 6
+--- PÁGINA 4 ---
+Ponto de ebulição 76,5 - 77,5 °C
+Ponto de inflamação -3,0 °C - câmara fechada
+Temperatura de 427 °C
+ignição
+Limites de explosão, 2,2 %(V)
+inferior
+Limite de explosão, 11,5 %(V)
+superior
+Pressão de vapor 97,3 hPa a 20,0 °C
+Hidrossolubilidade solúvel
+Coeficiente de log Pow: 0,73
+epartição n-
+octanol/água
+10. ESTABILIDADE E REACTIVIDADE
+Estabilidade química
+Estável sob as condições recomendadas de armazenamento.
+Condições a evitar
+Calor, chamas e faíscas.
+Matérias a evitar
+Agentes oxidantes fortes
+Produtos de decomposição perigosos
+Produtos perigosos de decomposição formados durante os incêndios. - Óxidos de carbono
+11. INFORMAÇÍO TOXICOLÓGICA
+Toxicidade aguda
+DL50 Oral - ratazana - 5.620 mg/kg
+CL50 Inalação - rato - 2 h - 45.000 mg/m3
+DL50 Dérmico - coelho - > 180.000 mg/kg
+Corrosão/irritação cutânea
+dados não disponíveis
+Lesões oculares graves/irritação ocular
+dados não disponíveis
+Sensibilização respiratória ou da pele
+dados não disponíveis
+Mutagenicidade em células germinativas
+dados não disponíveis
+Carcinogenicidade
+Este produto é ou contém um componente que não é classificável quanto à sua carcinogenicidade segundo
+sua classificação pela IARC, ACGIH, NTP ou EPA.
+IARC: Nenhum componente deste produto presente a níveis maiores ou iguais a 0.1% é identificado como
+carcinogénio provável, possível ou confirmado pelo IARC.
+Toxicidade reprodutiva
+dados não disponíveis
+Sigma-Aldrich - 270989 Página 4 de 6
+--- PÁGINA 5 ---
+Toxicidade para órgãos-alvo específicos - exposição única
+Pode afectar os órgãos.
+Toxicidade para órgãos-alvo específicos - exposição repetida
+dados não disponíveis
+Perigo de aspiração
+dados não disponíveis
+Efeitos potenciais para a saúde
+Inalação Pode ser perigoso se for inalado. Pode causar uma irritação do aparelho
+respiratório. Pode provocar sonolência e vertigens, por inalação dos vapores.
+Ingestão Pode ser perigoso se for engolido.
+Pele Pode ser perigoso se for absorto pela pele. Pode causar uma irritação da pele.
+Pode provocar secura da pele ou fissuras, por exposição repetida.
+Olhos Causa uma irritação nos olhos.
+Sinais e sintomas de exposição
+Depressão do sistema nervoso central, Sonolência, narcose, anemia
+Informação adicional
+RTECS: AH5425000
+12. INFORMAÇÍO ECOLÓGICA
+Toxicidade
+Toxicidade em CL50 - Oncorhynchus mykiss (truta arco-íris) - 350,00 - 600,00 mg/l - 96 h
+peixes
+CL50 - Pimephales promelas (vairão gordo) - 220,00 - 250,00 mg/l - 96 h
+Toxicidade em CE50 - Daphnia magna - 2.300,00 - 3.090,00 mg/l - 24 h
+dáfnias e outros
+invertebrados
+aquáticos.
+CL50 - Daphnia magna - 560 mg/l - 48 h
+Toxicidade em algas CE50 - Não existe informação disponível. - 4.300,00 mg/l - 24 h
+CE50 - Selenastrum - 1.800,00 - 3.200,00 mg/l - 72 h
+Persistência e degradabilidade
+dados não disponíveis
+Potencial de bioacumulação
+dados não disponíveis
+Mobilidade no solo
+dados não disponíveis
+Avaliação PBT e mPmB
+dados não disponíveis
+Outros efeitos adversos
+dados não disponíveis
+13. CONSIDERAÇÕES RELATIVAS À ELIMINAÇÍO
+Produto
+Queimar em um incinerador químico equipado com pós-combustor e purificador de gases, mas tomar
+precauções adicionais ao colocar esse material em ignição, visto que é altamente inflamável. Observar
+todos os regulamentos ambientais federais, estaduais e locais. Entrar em contato com um serviço
+profissional credenciado de descarte de lixo para descartar esse material.
+Embalagens contaminadas
+Eliminar como produto Não utilizado.
+Sigma-Aldrich - 270989 Página 5 de 6
+--- PÁGINA 6 ---
+14. INFORMAÇÕES RELATIVAS AO TRANSPORTE
+ADR/RID
+Número ONU: 1173 Classe: 3 Grupo de embalagem: II
+Denominação de expedição correcta: ACETATO DE ETILO
+IMDG
+Número ONU: 1173 Classe: 3 Grupo de embalagem: II EMS-No:
+F-E, S-D
+Denominação de expedição correcta: ETHYL ACETATE
+Poluente marinho: No
+IATA
+Número ONU: 1173 Classe: 3 Grupo de embalagem: II
+Denominação de expedição correcta: Ethyl acetate
+15. INFORMAÇÍO SOBRE REGULAMENTAÇÍO
+Esta folha de dados de segurança obedece aos requerimentos da Regulamento (CE) No. 1907/2006
+16. OUTRAS INFORMAÇÕES
+Texto dos código(s) H e frase(s) R mencionados na secção 3
+EUH066 Pode provocar pele seca ou gretada, por exposição repetida.
+Eye Irrit. Iirritação ocular
+Flam. Liq. Líquidos inflamáveis
+H225 Líquido e vapor facilmente inflamáveis.
+H319 Provoca irritação ocular grave.
+H336 Pode provocar sonolência ou vertigens.
+STOT SE Toxicidade para órgãos-alvo específicos - exposição única
+F Facilmente inflamável
+Xi Irritante
+R11 Facilmente inflamável.
+R36 Irritante para os olhos.
+R66 Pode provocar secura da pele ou fissuras, por exposição repetida.
+R67 Pode provocar sonolência e vertigens, por inalação dos vapores.
+Outras informações
+Direitos exclusivos, 2010, da Sigma-Aldrich. Permissão concedida para fazer número ilimitado de cópias
+em papel, somente para uso interno.
+Acredita-se que as informações acima estejam corretas, embora não pretendam ser totalmente
+abrangentes, devendo ser usadas apenas como um guia. A Sigma-Aldrich não deverá ter responsabilidade
+legal por quaisquer danos resultantes do manuseio ou do contato com o produto acima. Consultar o verso
+da fatura ou nota que acompanha o produto para tomar conhecimento dos termos adicionais e condições
+de venda.
+Sigma-Aldrich - 270989 Página 6 de 6

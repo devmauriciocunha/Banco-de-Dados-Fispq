@@ -1,0 +1,225 @@
+--- PÁGINA 1 ---
+SIGMA-ALDRICH
+FICHA DE DADOS DE SEGURANÇA
+de acordo com a Regulamento (CE) No. 1907/2006
+Versão 3.1 Data de revisão 07.01.2010
+Data de impressão 09.06.2010
+ENERIC EU MSDS - NO COUNTRY SPECIFIC DATA - NO OEL DATA
+1. IDENTIFICAÇÍO DA SUBSTÂNCIA/MISTURA E DA SOCIEDADE/EMPRESA
+Nome do produto : Formic acid
+Referência do Produto : 251364
+Marca : Sigma-Aldrich
+Companhia : Sigma-Aldrich Brasil Ltda.
+Av. das Nações Unidas, 23.043
+04795-100 SÍO PAULO - SP
+BRAZIL
+Telefone : +551137323100
+Número de Fax : +551155229895
+Núnero de Telefone de :
+Emergência
+2. IDENTIFICAÇÍO DOS PERIGOS
+Precauções para o homem e para o ambiente
+Inflamável. Provoca queimaduras graves.
+3. COMPOSIÇÍO/INFORMAÇÍO SOBRE OS COMPONENTES
+Formula : CH2O2
+Peso molecular : 46,03 g/mol
+No. CAS No. CE No. de Index Classificação Concentração
+Formic acid
+64-18-6 200-579-1 607-001-00-0 C, R10 - R35 -
+4. PRIMEIROS SOCORROS
+Recomendação geral
+Consultar um médico. Mostrar esta ficha de segurança ao médico de serviço.
+Se for inalado
+Se for respirado, levar a pessoa para o ar fresco. Se não respirar, aplicar a respiração artificial. Consultar um
+médico.
+No caso dum contacto com a pele
+Despir imediatamente a roupa e os sapatos contaminados. Lavar com sabão e muita água. Consultar um
+médico.
+No caso dum contacto com os olhos
+Lavar cuidadosamente com muita água, durante pelo menos quinze minutos, e consultar o médico.
+Se for engolido
+NÍO provocar vómitos. Nunca dar nada pela boca a uma pessoa inconsciente. Enxaguar a boca com água.
+Consultar um médico.
+Sigma-Aldrich - 251364 www.sigma-aldrich.com Página 1 of 5
+--- PÁGINA 2 ---
+5. MEDIDAS DE COMBATE A INCÊNDIO
+Meios adequados de extinção
+Para fogos incipientes ou pequenos usar meios como espuma de álcool, pó seco ou dióxido de carbono. Para
+grandes fogos aplicar agua desde o mais longe possível, usar grandes quantidades de agua
+(inundação)aplicadas como nevoeiro ou spray; córregos sólidos de agua podem não ser efectivos. Esfrie
+todos os depósitos ou vasilhas com grandes e inundantes quantidades de agua.
+Equipamento especial de protecção a utilizar pelo pessoal de combate a incêndio
+Usar equipamento de respiração autónomo para combate a incêndios, se necessário.
+Outras informações
+Os jactos de água podem ser utilizados para arrefecer os contentores fechados.
+6. MEDIDAS A TOMAR EM CASO DE FUGAS ACIDENTAIS
+Precauções individuais
+Usar equipamento de protecção individual. Evitar a respiração do vapor/névoa/gas. Assegurar ventilação
+adequada. Cortar todas as fontes de ignição. Evacuar o pessoal para áreas de segurança. Atenção com a
+acumulação de vapores que pode formar concentrações explosivas. Os vapores podem-se acumular nas
+áreas baixas.
+Precauções ambientais
+Não permitir a entrada do produto no sistema de esgotos.
+Métodos de limpeza
+Controlar e recuperar o líquido derramado com um produto absorvente não combustível, (por exemplo areia,
+terra, terra diatomácea, vermiculite) e pôr o líquido dentro de contentores para eliminação de acordo com os
+regulamentos locais / nacionais (ver secção 13). Manter em recipientes fechados adequados, para eliminação.
+7. MANUSEAMENTO E ARMAZENAGEM
+Manuseamento
+Evitar a inalação do vapor ou da névoa.
+Manter afastado de qualquer chama ou fonte de ignição - Não fumar. Tome medidas para impedir a formação
+de electricidade estática.
+Armazenagem
+Armazenar em local fresco. Guardar o recipiente herméticamente fechado em lugar seco e bem ventilado. Os
+contentores abertos devem ser cuidadosamente fechados de novo e têm que ficar direitos para evitar a
+dispersão.
+Ventilar periodicamente. Manipular e abrir o recipiente com prudência. higroscópico
+8. CONTROLO DA EXPOSIÇÍO/PROTECÇÍO PESSOAL
+Protecção individual
+Protecção respiratória
+Nos casos em que a avaliação de risco mostrar que os respiradores purificadores do ar são apropriados,
+use um respirador de cobertura facial total com cartuchos de combinação multi-objectivos (E.U.A.) ou do
+tipo ABEK (EN 14387) como apoio a controlos de engenharia. Se o respirador for o único meio de
+protecção, usa um respirador de ar de cobertura facial total. Use respiradores e componentes testados e
+aprovados por normas governamentais apropriadas, tais como as NIOSH (E.U.A.) ou CEN (UE).
+Protecção das mãos
+As luvas de protecção seleccionadas devem satisfazer as especificações da Directiva da UE 89/689/CEE e
+a norma EN 374 derivada dela. Manusear com luvas.
+Protecção dos olhos
+Óculos de segurança bem ajustados. Proteção da face (mínimo de 8 polegadas (20 cm)).
+Protecção do corpo e da pele
+Escolher uma protecção para o corpo conforme a quantidade e a concentração das substâncias perigosas
+Sigma-Aldrich - 251364 www.sigma-aldrich.com Página 2 of 5
+--- PÁGINA 3 ---
+no lugar de trabalho.
+Medidas de higiene
+Manusear de acordo com as boas práticas industriais de higiene e segurança. Lavar as mãos antes de
+interrupções, e no final do dia de trabalho.
+9. PROPRIEDADES FÍSICAS E QUÍMICAS
+Aspecto
+Estado físico líquido
+Cor incolor
+Dados de segurança
+pH 2,2 a 2,2 g/l a 20 °C
+Ponto de fusão 8,5 °C
+Ponto de ebulição 100,80 °C a 1.013 hPa
+Ponto de inflamação 48 °C - câmara fechada
+Temperatura de 540 °C
+ignição
+Limites de explosão, 18 %(V)
+inferior
+Limite de explosão, 57 %(V)
+superior
+Pressão de vapor 42,00 hPa a 20 °C
+169,99 hPa a 50 °C
+Densidade 1,2000 g/cm3
+Hidrossolubilidade completamente miscível
+Coeficiente de log Pow: -0,54
+epartição n-
+octanol/água
+Densidade relativa 1,59
+do vapor - (Ar = 1.0)
+10. ESTABILIDADE E REACTIVIDADE
+Estabilidade em armazenamento
+Estável sob as condições recomendadas de armazenamento.
+Condições a evitar
+Calor, chamas e faíscas.
+Matérias a evitar
+Agentes oxidantes fortes, Bases fortes, Metais em pó
+Produtos de decomposição perigosos
+Produtos perigosos de decomposição formados durante os incêndios. - Óxidos de carbono
+11. INFORMAÇÍO TOXICOLÓGICA
+Toxicidade aguda
+DL50 Oral - ratazana - 1.100 mg/kg
+CL50 Inalação - ratazana - 4 h - 7,4 mg/l
+Sigma-Aldrich - 251364 www.sigma-aldrich.com Página 3 of 5
+--- PÁGINA 4 ---
+Irritação ou corrosão
+Pele - coelho - Grave irritação da pele
+Olhos - coelho - Grave irritação dos olhos
+Sensibilização
+A exposição repetida ou prolongada pode provocar reações alérgicas em determinados indivíduos alérgicos.
+Exposição crónica
+IARC: Nenhum componente deste produto presente a níveis maiores ou iguais a 0.1% é
+identificado como carcinogénio provável, possível ou confirmado pelo IARC.
+Sinais e sintomas de exposição
+O material é extremamente destrutivo para os tecidos das membranas mucosas e para o trato respiratório
+superior, os olhos e a pele., espasmo, inflamação e edema da laringe, espasmo, inflamação e edema dos
+brônquios, pneumonite, edema pulmonar, sensação de queimadura, Tosse, respiração ruidosa, laringite,
+Respiração superficial, Dor de cabeça, Náusea, Vómitos
+Efeitos potenciais sobre a saúde
+Inalação Pode ser perigoso se for inalado. O material é extremamente destrutivo para os
+tecidos das membranas mucosas e do trato respiratório superior.
+Pele Pode ser perigoso se for absorto pela pele. Causa queimaduras severas na
+pele.
+Olhos Causa queimaduras severas nos olhos.
+Ingestão Pode ser perigoso se for engolido. Provoca queimaduras graves.
+Orgãos alvo Sangue, Sistema nervoso central, Fígado, Rim,Rim, Fígado, Sistema nervoso
+central, Sangue,
+Informação adicional
+RTECS: LQ4900000
+12. INFORMAÇÍO ECOLÓGICA
+Informação sobre eliminação (persistência e degradabilidade)
+Biodegradabilidade Resultado: > 90 % - Rápidamente biodegradável.
+Efeitos de ecotoxicidade
+Toxicidade em CL50 - Leuciscus idus (Carpa dourada) - 46 - 100 mg/l - 96 h
+peixes
+Toxicidade em CE50 - Daphnia magna - 34,2 mg/l - 48 h
+dáfnias e outros
+invertebrados
+aquáticos.
+Toxicidade em - Pseudomonas putida - 46,7 mg/l - 17 h
+bactérias
+Informações suplementares sobre a ecologia
+Carência biológica 86 mg/g
+de oxigénio (CBO)
+Carência química de 348 mg/g
+oxigénio (CQO)
+Informações dados não disponíveis
+ecológicas
+adicionais
+Sigma-Aldrich - 251364 www.sigma-aldrich.com Página 4 of 5
+--- PÁGINA 5 ---
+13. CONSIDERAÇÕES RELATIVAS À ELIMINAÇÍO
+Produto
+Esse material combustível deve ser queimado em um incinerador químico equipado com um pós-combustor e
+purificador de gases. Observar todos os regulamentos ambientais federais, estaduais e locais. Entrar em
+contato com um serviço profissional credenciado de descarte de lixo para descartar esse material.
+Embalagens contaminadas
+Eliminar como produto Não utilizado.
+14. INFORMAÇÕES RELATIVAS AO TRANSPORTE
+ADR/RID
+Número ONU: 1779 Classe: 8 (3) Grupo de embalagem: II
+Denominação de expedição correcta: ÁCIDO FÓRMICO
+IMDG
+Número ONU: 1779 Classe: 8 (3) Grupo de embalagem: II EMS-No:
+F-E, S-C
+Denominação de expedição correcta: FORMIC ACID
+Poluente marinho: No
+IATA
+Número ONU: 1779 Classe: 8 (3) Grupo de embalagem: II
+Denominação de expedição correcta: Formic acid
+15. INFORMAÇÍO SOBRE REGULAMENTAÇÍO
+Rotulado de acordo com as directivas da CE
+Rotulagem CE
+Símbolos de perigo
+C Corrosivo
+Frase(s) - R
+R10 Inflamável.
+R35 Provoca queimaduras graves.
+Frase(s) - S
+S23 Não respirar os gases/vapores/fumos/aerossóis.
+S26 Em caso de contacto com os olhos, lavar imediata e abundantemente com água e
+consultar um especialista.
+S45 Em caso de acidente ou de indisposição, consultar imediatamente o médico (se
+possível mostrar-lhe o rótulo).
+16. OUTRAS INFORMAÇÕES
+Outras informações
+Direitos exclusivos, 2009, da Sigma-Aldrich. Permissão concedida para fazer número ilimitado de cópias
+em papel, somente para uso interno.
+Acredita-se que as informações acima estejam corretas, embora não pretendam ser totalmente
+abrangentes, devendo ser usadas apenas como um guia. A Sigma-Aldrich não deverá ter responsabilidade
+legal por quaisquer danos resultantes do manuseio ou do contato com o produto acima. Consultar o verso
+da fatura ou nota que acompanha o produto para tomar conhecimento dos termos adicionais e condições
+de venda.
+Sigma-Aldrich - 251364 www.sigma-aldrich.com Página 5 of 5

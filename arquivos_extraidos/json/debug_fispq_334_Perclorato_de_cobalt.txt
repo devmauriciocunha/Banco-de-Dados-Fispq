@@ -1,0 +1,228 @@
+--- PÁGINA 1 ---
+SIGMA-ALDRICH
+sigma-aldrich.com
+FICHA DE DADOS DE SEGURANÇA
+de acordo com a Regulamento (CE) No. 1907/2006
+Versão 4.0 Data de revisão 14.03.2010
+Data de impressão 20.01.2011
+ENERIC EU MSDS - NO COUNTRY SPECIFIC DATA - NO OEL DATA
+1. IDENTIFICAÇÍO DA SUBSTÂNCIA/MISTURA E DA SOCIEDADE/EMPRESA
+Nome do produto : Cobalt(II) perchlorate hexahydrate
+Referência do Produto : 401404
+Marca : Aldrich
+Companhia : Sigma-Aldrich Brasil Ltda.
+Av. das Nações Unidas, 23.043
+04795-100 SÍO PAULO - SP
+BRAZIL
+Telefone : +551137323100
+Número de Fax : +551155229895
+Núnero de Telefone de :
+Emergência
+2. IDENTIFICAÇÍO DOS PERIGOS
+Classificação da substância ou da mistura
+Nos termos do Regulamento (CE) No1272/2008
+Sólidos comburentes (Categoria 2)
+Carcinogenicidade (Categoria 2)
+De acordo com a directiva Europeia 67/548/CEE, e emendas.
+Favorece a inflamação de matérias combustíveis. Possibilidade de efeitos cancerígenos.
+Elementos da etiqueta
+Pictograma
+Palavra-sinal Perigo
+Declaração de perigo
+H272 Pode agravar incêndios; comburente.
+H351 Suspeito de provocar cancro.
+declaração de precaução
+P220 Manter/guardar afastado de roupa/matérias combustíveis.
+P281 Usar o equipamento de protecção individual exigido.
+símbolo de perigosidade
+O Comburente
+Xn Nocivo
+Frase(s) - R
+R 8 Favorece a inflamação de matérias combustíveis.
+R40 Possibilidade de efeitos cancerígenos.
+Frase(s) - S
+S17 Manter afastado de matérias combustíveis.
+S36/37 Usar vestuário de protecção e luvas adequadas.
+Outros Perigos - nenhum(a)
+3. COMPOSIÇÍO/INFORMAÇÍO SOBRE OS COMPONENTES
+Aldrich - 401404 Página 1 de 5
+--- PÁGINA 2 ---
+Sinónimos : Cobaltous perchloratehexahydrate
+Formula : Cl2CoO8 · 6H2O
+Peso molecular : 365,93 g/mol
+No. CAS No. CE No. de Index Classificação Concentração
+Cobalt(II) perchlorate hexahydrate
+13478-33-6 236-653-5 - Ox. Sol. 2; Carc. 2; H272, -
+H351
+O, Xn, R 8 - R40
+Para o pleno texto das DECLARAÇÕES H mencionadas nesta Secção, ver a Secção 16.
+4. PRIMEIROS SOCORROS
+Recomendação geral
+Consultar um médico. Mostrar esta ficha de segurança ao médico de serviço.
+Se for inalado
+Se for respirado, levar a pessoa para o ar fresco. Se não respirar, aplicar a respiração artificial. Consultar um
+médico.
+No caso dum contacto com a pele
+Lavar com sabão e muita água. Consultar um médico.
+No caso dum contacto com os olhos
+Lavar cuidadosamente com muita água, durante pelo menos quinze minutos, e consultar o médico.
+Se for engolido
+Nunca dar nada pela boca a uma pessoa inconsciente. Enxaguar a boca com água. Consultar um médico.
+5. MEDIDAS DE COMBATE A INCÊNDIO
+Meios adequados de extinção
+Utilizar água pulverizada, espuma resistente ao álcool, produto químico seco ou dióxido de carbono.
+Equipamento especial de protecção a utilizar pelo pessoal de combate a incêndio
+Usar equipamento de respiração autónomo para combate a incêndios, se necessário.
+Outras informações
+Os jactos de água podem ser utilizados para arrefecer os contentores fechados.
+6. MEDIDAS A TOMAR EM CASO DE FUGAS ACIDENTAIS
+Precauções individuais
+Usar equipamento de protecção individual. Evitar a formação de poeira. Evitar de respirar o pó. Assegurar
+ventilação adequada. Evacuar o pessoal para áreas de segurança.
+Precauções ambientais
+Não permitir a entrada do produto no sistema de esgotos.
+Métodos e materiais para a contenção e a limpeza
+Apanhar os resíduos sem levantar poeiras. Manter em recipientes fechados adequados, para eliminação.
+7. MANUSEAMENTO E ARMAZENAGEM
+Precauções para um manuseamento seguro
+Evitar a formação de pó e aerossois.
+Providenciar uma adequada ventilação em locais onde se formem poeiras. Manter afastado de qualquer
+chama ou fonte de ignição - Não fumar. Manter afastado de matérias combustíveis.
+Condições para uma armazenagem segura
+Armazenar em local fresco. Guardar o recipiente herméticamente fechado em lugar seco e bem ventilado.
+Aldrich - 401404 Página 2 de 5
+--- PÁGINA 3 ---
+8. CONTROLO DA EXPOSIÇÍO/PROTECÇÍO PESSOAL
+Protecção individual
+Protecção respiratória
+Nos casos em que a avaliação de risco mostrar que os respiradores purificadores do ar são apropriados,
+use um respirador de partículas do tipo N100 (E.U.A.) ou cartuchos de respiração do tipo P2 (EN 143)
+como apoio a controlos de engenharia. Se o respirador for o único meio de protecção, usa um respirador
+de ar de cobertura facial total. Use respiradores e componentes testados e aprovados por normas
+governamentais apropriadas, tais como as NIOSH (E.U.A.) ou CEN (UE).
+Protecção das mãos
+As luvas de protecção seleccionadas devem satisfazer as especificações da Directiva da UE 89/689/CEE
+e a norma EN 374 derivada dela.
+Manusear com luvas.
+Protecção dos olhos
+Óculos de protecção com um lado protector de acordo com EN 166
+Protecção do corpo e da pele
+Escolher uma protecção para o corpo conforme a quantidade e a concentração das substâncias
+perigosas no lugar de trabalho.
+Medidas de higiene
+Manusear de acordo com as boas práticas industriais de higiene e segurança. Lavar as mãos antes de
+interrupções, e no final do dia de trabalho.
+9. PROPRIEDADES FÍSICAS E QUÍMICAS
+Aspecto
+Estado físico Cristais com protuberâncias
+Dados de segurança
+pH dados não disponíveis
+Ponto de fusão dados não disponíveis
+Ponto de ebulição dados não disponíveis
+Ponto de inflamação não aplicável
+Temperatura de dados não disponíveis
+ignição
+Limites de explosão, dados não disponíveis
+inferior
+Limite de explosão, dados não disponíveis
+superior
+Hidrossolubilidade dados não disponíveis
+10. ESTABILIDADE E REACTIVIDADE
+Estabilidade química
+Estável sob as condições recomendadas de armazenamento.
+Condições a evitar
+dados não disponíveis
+Matérias a evitar
+Materiais orgânicos, Metais em pó
+Aldrich - 401404 Página 3 de 5
+--- PÁGINA 4 ---
+Produtos de decomposição perigosos
+Produtos perigosos de decomposição formados durante os incêndios. - Cloreto de hidrogénio gasoso,
+Cobalto/óxidos de cobalto
+11. INFORMAÇÍO TOXICOLÓGICA
+Toxicidade aguda
+DL50 intraperitoneal - rato - 160 mg/kg
+Corrosão/irritação cutânea
+dados não disponíveis
+Lesões oculares graves/irritação ocular
+dados não disponíveis
+Sensibilização respiratória ou da pele
+dados não disponíveis
+Mutagenicidade em células germinativas
+dados não disponíveis
+Carcinogenicidade
+Provas limitadas de carcinogénicidade nos estudos sobre os animais
+IARC: 2B - Group 2B: Possibly carcinogenic to humans (Cobalt(II) perchlorate hexahydrate)
+Toxicidade reprodutiva
+dados não disponíveis
+Toxicidade para órgãos-alvo específicos - exposição única
+dados não disponíveis
+Toxicidade para órgãos-alvo específicos - exposição repetida
+dados não disponíveis
+Perigo de aspiração
+dados não disponíveis
+Efeitos potenciais para a saúde
+Inalação Pode ser perigoso se for inalado. Pode causar uma irritação do aparelho
+respiratório.
+Ingestão Pode ser perigoso se for engolido.
+Pele Pode ser perigoso se for absorto pela pele. Pode causar uma irritação da pele.
+Olhos Pode causar uma irritação dos olhos.
+Informação adicional
+RTECS: GG2975000
+12. INFORMAÇÍO ECOLÓGICA
+Toxicidade
+dados não disponíveis
+Persistência e degradabilidade
+dados não disponíveis
+Potencial de bioacumulação
+dados não disponíveis
+Mobilidade no solo
+dados não disponíveis
+Avaliação PBT e mPmB
+Aldrich - 401404 Página 4 de 5
+--- PÁGINA 5 ---
+dados não disponíveis
+Outros efeitos adversos
+dados não disponíveis
+13. CONSIDERAÇÕES RELATIVAS À ELIMINAÇÍO
+Produto
+Observar todos os regulamentos ambientais federais, estaduais e locais. Entrar em contato com um serviço
+profissional credenciado de descarte de lixo para descartar esse material. Dissolver ou misturar o material
+com um solvente combustível e queimar em incinerador químico equipado com pós-combustor e purificador
+de gases.
+Embalagens contaminadas
+Eliminar como produto Não utilizado.
+14. INFORMAÇÕES RELATIVAS AO TRANSPORTE
+ADR/RID
+Número ONU: 1481 Classe: 5.1 Grupo de embalagem: II
+Denominação de expedição correcta: PERCLORATOS INORGÂNICOS, N.S.A. (Cobalt(II) perchlorate
+hexahydrate)
+IMDG
+Número ONU: 1481 Classe: 5.1 Grupo de embalagem: II EMS-No:
+F-H, S-Q
+Denominação de expedição correcta: PERCHLORATES, INORGANIC, N.O.S.
+Poluente marinho: No
+IATA
+Número ONU: 1481 Classe: 5.1 Grupo de embalagem: II
+Denominação de expedição correcta: Perchlorates, inorganic, n.o.s.
+15. INFORMAÇÍO SOBRE REGULAMENTAÇÍO
+Esta folha de dados de segurança obedece aos requerimentos da Regulamento (CE) No. 1907/2006
+16. OUTRAS INFORMAÇÕES
+Texto dos código(s) H e frase(s) R mencionados na secção 3
+Carc. Carcinogenicidade
+H272 Pode agravar incêndios; comburente.
+H351 Suspeito de provocar cancro.
+Ox. Sol. Sólidos comburentes
+O Comburente
+Xn Nocivo
+R 8 Favorece a inflamação de matérias combustíveis.
+R40 Possibilidade de efeitos cancerígenos.
+Outras informações
+Direitos exclusivos, 2010, da Sigma-Aldrich. Permissão concedida para fazer número ilimitado de cópias
+em papel, somente para uso interno.
+Acredita-se que as informações acima estejam corretas, embora não pretendam ser totalmente
+abrangentes, devendo ser usadas apenas como um guia. A Sigma-Aldrich não deverá ter responsabilidade
+legal por quaisquer danos resultantes do manuseio ou do contato com o produto acima. Consultar o verso
+da fatura ou nota que acompanha o produto para tomar conhecimento dos termos adicionais e condições
+de venda.
+Aldrich - 401404 Página 5 de 5

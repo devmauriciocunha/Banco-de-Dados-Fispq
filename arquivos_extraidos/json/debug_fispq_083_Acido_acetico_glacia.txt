@@ -1,0 +1,238 @@
+--- PÁGINA 1 ---
+SIGMA-ALDRICH
+FICHA DE DADOS DE SEGURANÇA
+de acordo com a Regulamento (CE) No. 1907/2006
+Versão 3.3 Data de revisão 14.07.2009
+Data de impressão 09.06.2010
+ENERIC EU MSDS - NO COUNTRY SPECIFIC DATA - NO OEL DATA
+1. IDENTIFICAÇÍO DA SUBSTÂNCIA/PREPARAÇÍO E DA SOCIEDADE/EMPRESA
+Nome do produto : ÁCIDO ACÉTICO 99.7+%, A.C.S.
+Referência do Produto : 242853
+Marca : Sigma-Aldrich
+Companhia : Sigma-Aldrich Brasil Ltda.
+Av. das Nações Unidas, 23.043
+04795-100 SÍO PAULO - SP
+BRAZIL
+Telefone : +551137323100
+Número de Fax : +551155229895
+Núnero de Telefone de :
+Emergência
+2. IDENTIFICAÇÍO DOS PERIGOS
+Precauções para o homem e para o ambiente
+Inflamável. Provoca queimaduras graves.
+3. COMPOSIÇÍO/INFORMAÇÍO SOBRE OS COMPONENTES
+Sinónimos : Glacial acetic acid
+Formula : C2H4O2
+Peso molecular : 60,05 g/mol
+Nº CAS No. CE No. de Index Classificação Concentração
+Acetic acid
+64-19-7 200-580-7 607-002-00-6 C, R10 - R35 -
+4. PRIMEIROS SOCORROS
+Recomendação geral
+Consultar um médico. Mostrar esta ficha de segurança ao médico de serviço.
+Se for inalado
+Se for respirado, levar a pessoa para o ar fresco. Se não respirar, aplicar a respiração artificial. Consultar um
+médico.
+No caso dum contacto com a pele
+Despir imediatamente a roupa e os sapatos contaminados. Lavar com sabão e muita água. Consultar um
+médico.
+No caso dum contacto com os olhos
+Lavar cuidadosamente com muita água, durante pelo menos quinze minutos, e consultar o médico.
+Se for engolido
+NÍO provocar vómitos. Nunca dar nada pela boca a uma pessoa inconsciente. Enxaguar a boca com água.
+Consultar um médico.
+Sigma-Aldrich - 242853 www.sigma-aldrich.com Página 1 of 6
+--- PÁGINA 2 ---
+5. MEDIDAS DE COMBATE A INCÊNDIO
+Meios adequados de extinção
+Para fogos incipientes ou pequenos usar meios como espuma de álcool, pó seco ou dióxido de carbono. Para
+grandes fogos aplicar agua desde o mais longe possível, usar grandes quantidades de agua
+(inundação)aplicadas como nevoeiro ou spray; córregos sólidos de agua podem não ser efectivos. Esfrie
+todos os depósitos ou vasilhas com grandes e inundantes quantidades de agua.
+Equipamento especial de protecção a utilizar pelo pessoal de combate a incêndio
+Usar equipamento de respiração autónomo para combate a incêndios, se necessário.
+Outras informações
+Os jactos de água podem ser utilizados para arrefecer os contentores fechados.
+6. MEDIDAS A TOMAR EM CASO DE FUGAS ACIDENTAIS
+Precauções individuais
+Usar equipamento de protecção individual. Evitar a respiração do vapor/névoa/gas. Assegurar ventilação
+adequada. Retirar todas as fontes de ignição. Evacuar o pessoal para áreas de segurança. Atenção com a
+acumulação de vapores que pode formar concentrações explosivas. Os vapores podem-se acumular nas
+áreas baixas.
+Precauções ambientais
+Não permitir a entrada do produto no sistema de esgotos.
+Métodos de limpeza
+Controlar e recuperar o líquido derramado com um produto absorvente não combustível, (por exemplo areia,
+terra, terra diatomácea, vermiculite) e por o líquido dentro de contentores para eliminação de acordo com as
+regulações locais / nacionais (ver secção 13). Manter em recipientes fechados adequados, para eliminação.
+7. MANUSEAMENTO E ARMAZENAGEM
+Manuseamento
+Evitar a inalação do vapor ou da névoa.
+Manter afastado de qualquer chama ou fonte de ignição - Não fumar. Tome medidas para impedir a formação
+de electricidade estática.
+Armazenagem
+Armazenar em local fresco. Guardar o recipiente herméticamente fechado em lugar seco e bem ventilado. Os
+contentores abertos devem ser cuidadosamente fechados de novo e têm que ficar direitos para evitar a
+dispersão.
+Sensível à humidade.
+8. CONTROLO DA EXPOSIÇÍO/PROTECÇÍO PESSOAL
+Protecção individual
+Protecção respiratória
+Nos casos em que a avaliação de risco mostrar que os respiradores purificadores do ar são apropriados,
+use um respirador de cobertura facial total com cartuchos de combinação multi-objectivos (E.U.A.) ou do
+tipo ABEK (EN 14387) como apoio a controlos de engenharia. Se o respirador for o único meio de
+protecção, usa um respirador de ar de cobertura facial total. Use respiradores e componentes testados e
+aprovados por normas governamentais apropriadas, tais como as NIOSH (E.U.A.) ou CEN (UE).
+Protecção das mãos
+As luvas de protecção selecionadas devem satisfazer as especificações da Directiva da UE 89/686/CEE e
+o estandarte EN 374 derivado dele. Manusear com luvas.
+Protecção dos olhos
+Óculos de segurança bem ajustados. Proteção da face (mínimo de 8 polegadas (20 cm)).
+Protecção do corpo e da pele
+Escolher uma protecção para o corpo conforme a quantidade e a concentração das substâncias perigosas
+Sigma-Aldrich - 242853 www.sigma-aldrich.com Página 2 of 6
+--- PÁGINA 3 ---
+no lugar de trabalho.
+Medidas de higiene
+Manusear de acordo com as boas práticas industriais de higiéne e segurança. Lavar as mãos antes de
+interrupções, e no final do dia de trabalho.
+9. PROPRIEDADES FÍSICAS E QUÍMICAS
+Aspecto
+Estado físico líquido
+Cor incolor
+Odor acre
+Dados de segurança
+pH 2,4 a 60,05 g/l
+Ponto de fusão 16,2 °C
+Ponto de ebulição 117 - 118 °C
+Ponto de inflamação 40,0 °C - câmara fechada
+Temperatura de 485 °C
+ignição
+Limites de explosão, 4 %(V)
+inferior
+Limite de explosão, 19,9 %(V)
+superior
+Pressão de vapor 73,3 hPa a 50,0 °C
+15,2 hPa a 20,0 °C
+Hidrossolubilidade completamente miscível
+Coeficiente de log Pow: -0,17
+epartição n-
+octanol/água
+10. ESTABILIDADE E REACTIVIDADE
+Estabilidade em armazenamento
+Estável sob as condições recomendadas de armazenamento.
+Condições a evitar
+Calor, chamas e faíscas.
+Matérias a evitar
+Oxidantes, Carbonatos e fosfatos solúveis, Hidróxidos, Metais, Peróxidos, permanganatos, por exemplo,
+permanganato de potássio, Aminas, Alcoois
+Produtos de decomposição perigosos
+Produtos perigosos de decomposição formados durante os incêndios. - Óxidos de carbono
+11. INFORMAÇÍO TOXICOLÓGICA
+Toxicidade aguda
+DL50 Oral - ratazana - 3.310 mg/kg
+CL50 Inalação - rato - 1 h - 5620 ppm
+Sigma-Aldrich - 242853 www.sigma-aldrich.com Página 3 of 6
+--- PÁGINA 4 ---
+Observações: Orgãos Sensoriais e Sentidos Especiais (Nariz, Olhos, Ouvidos e Gosto):Olho: irritação das
+membranas conjuntivas. Orgãos Sensoriais e Sentidos Especiais (Nariz, Olhos, Ouvidos e Gosto):Olho: outros
+Sangue: outras alterações
+CL50 Inalação - ratazana - 4 h - 11,4 mg/l
+DL50 Dérmico - coelho - 1.112 mg/kg
+Irritação ou corrosão
+Pele - coelho - Leve irritação da pele - 24 h
+Olhos - coelho - Corrosivo para os olhos
+Sensibilização
+Pode causar sensibilização em contacto com a pele.
+Exposição crónica
+IARC: Nenhum componente deste produto presente a níveis maiores ou iguais a 0.1% é
+identificado como carcinogénio provável, possível ou confirmado pelo IARC.
+Sinais e sintomas de exposição
+O material é extremamente destrutivo para os tecidos das membranas mucosas e para o trato respiratório
+superior, os olhos e a pele., espasmo, inflamação e edema da laringe, espasmo, inflamação e edema dos
+brônquios, pneumonite, edema pulmonar, sensação de queimadura, Tosse, respiração ruidosa, laringite,
+Respiração superficial, Dor de cabeça, Náusea, Vómitos, A ingestão ou inalação de ácido acético concentrado
+provoca lesões nos tecidos dos tratos respiratório e digestivo. Os sintomas incluem: hematémese, diarreia
+sanguinolenta, edema e/ou perfuração do esófago e do piloro, pancreatite, hematúria, anúria, uremia,
+albuminúria, hemólise, convulsões, bronquite, edema pulmonar, pneumonia, colapso cardiovascular, choque e
+morte. O constato directo ou a exposição a concentrações elevadas do vapor com a pele ou com os olhos
+pode provocar: eritema, vesiculação, destruição tecidular com cicatrização lenta, escurecimento da pele,
+hiperceratose, fissuras, erosão da córnea, opacificação, irite, conjuntivite e possível cegueira., Até onde
+sabemos, as propriedades químicas, físicas e toxicológicas não foram minuciosamente investigadas.
+Efeitos potenciais sobre a saúde
+Inalação Pode ser perigoso se for inalado. O material é extremamente destrutivo para os
+tecidos das membranas mucosas e do trato respiratório superior.
+Pele Pode ser perigoso se for absorto pela pele. Causa queimaduras severas na
+pele.
+Olhos Causa queimaduras severas nos olhos.
+Ingestão Pode ser perigoso se for engolido. Provoca queimaduras graves.
+Orgãos alvo Dentes, Rim,
+Informação adicional
+RTECS: AF1225000
+12. INFORMAÇÍO ECOLÓGICA
+Informação sobre eliminação (persistência e degradabilidade)
+Biodegradabilidade Observações: Espera-se que seja bio-degradável
+Efeitos de ecotoxicidade
+Toxicidade em CL50 - Leuciscus idus (Carpa dourada) - 410,00 mg/l - 48 h
+peixes
+CL50 - Cyprinus carpio (Carpa) - 49,00 mg/l - 48 h
+CL50 - Pimephales promelas (vairão gordo) - 79,00 - 88,00 mg/l - 96 h
+CL50 - Lepomis macrochirus - 75 mg/l - 96 h
+Toxicidade em CE50 - Daphnia magna - 65,00 mg/l - 48 h
+dáfnias e outros
+Sigma-Aldrich - 242853 www.sigma-aldrich.com Página 4 of 6
+--- PÁGINA 5 ---
+invertebrados
+aquáticos.
+Toxicidade em algas CE50 - Não existe informação disponível. - 156,00 mg/l - 24 h
+Informações suplementares sobre a ecologia
+Carência biológica 880 mg/g
+de oxigénio (CBO)
+Informações dados não disponíveis
+ecológicas
+adicionais
+13. CONSIDERAÇÕES RELATIVAS À ELIMINAÇÍO
+Produto
+Esse material combustível deve ser queimado em um incinerador químico equipado com um pós-combustor e
+purificador de gases. Observar todos os regulamentos ambientais federais, estaduais e locais. Entrar em
+contato com um serviço profissional credenciado de descarte de lixo para descartar esse material.
+Embalagens contaminadas
+Eliminar como produto Não utilizado.
+14. INFORMAÇÕES RELATIVAS AO TRANSPORTE
+ADR/RID
+Número ONU: 2789 Classe: 8 (3) Grupo de embalagem: II
+Denominação de expedição correcta: ACETIC ACID, GLACIAL
+IMDG
+Número ONU: 2789 Classe: 8 (3) Grupo de embalagem: II EMS-No:
+F-E, S-C
+Denominação de expedição correcta: ACETIC ACID, GLACIAL
+Poluente marinho: No
+IATA
+Número ONU: 2789 Classe: 8 (3) Grupo de embalagem: II
+Denominação de expedição correcta: Acetic acid, glacial
+15. INFORMAÇÍO SOBRE REGULAMENTAÇÍO
+Rotulado de acordo com as directivas da CE
+Rotulagem CE
+Símbolos de perigo
+C Corrosivo
+Frase(s) - R
+R10 Inflamável.
+R35 Provoca queimaduras graves.
+Frase(s) - S
+S23 Não respirar os gases/vapores/fumos/aerossóis.
+S26 Em caso de contacto com os olhos, lavar imediata e abundantemente com água e
+consultar um especialista.
+S45 Em caso de acidente ou de indisposição, consultar imediatamente o médico (se
+possível mostrar-lhe o rótulo).
+16. OUTRAS INFORMAÇÕES
+Outras informações
+Sigma-Aldrich - 242853 www.sigma-aldrich.com Página 5 of 6
+--- PÁGINA 6 ---
+Direitos exclusivos, 2009, da Sigma-Aldrich. Permissão concedida para fazer número ilimitado de cópias
+em papel, somente para uso interno.
+Acredita-se que as informações acima estejam corretas, embora não pretendam ser totalmente
+abrangentes, devendo ser usadas apenas como um guia. A Sigma-Aldrich não deverá ter responsabilidade
+legal por quaisquer danos resultantes do manuseio ou do contato com o produto acima. Consultar o verso
+da fatura ou nota que acompanha o produto para tomar conhecimento dos termos adicionais e condições
+de venda.
+Sigma-Aldrich - 242853 www.sigma-aldrich.com Página 6 of 6

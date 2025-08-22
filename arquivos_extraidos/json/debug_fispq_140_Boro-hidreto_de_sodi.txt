@@ -1,0 +1,141 @@
+--- PÁGINA 1 ---
+Ficha de Informação de Produto Químico
+IDENTIFICAÇÍO Help
+Número ONU Nome do produto Rótulo de risco
+1426 BOROHIDRETO DE SÓDIO
+Número de risco Classe / Subclasse
+- 4.3
+Sinônimos
+Aparência
+SÓLIDO EM PÓ OU PELOTAS; BRANCO; SEM ODOR; AFUNDA E MISTURA COM ÁGUA; PRODUZ GÁS INFLAMÁVEL.
+Fórmula molecular Família química
+Na B H4 SAL INORGÂNICO
+Fabricantes
+Para informações atualizadas recomenda-se a consulta às seguintes instituições ou referências:
+ABIQUIM - Associação Brasileira da Indústria Química : Fone 0800-118270
+ANDEF - Associação Nacional de Defesa Vegetal: Fone (11) 3081-5033
+Revista Química e Derivados - Guia geral de produtos químicos, Editora QD: Fone (11) 3826-6899
+Programa Agrofit - Ministério da Agricultura
+MEDIDAS DE SEGURANÇA Help
+Medidas preventivas imediatas
+EVITAR CONTATO COM O SÓLIDO E O PÓ. MANTER AS PESSOAS AFASTADAS. CHAMAR OS BOMBEIROS. ISOLAR E REMOVER
+O MATERIAL DERRAMADO.
+Equipamentos de Proteção Individual (EPI)
+USAR LUVAS, BOTAS E ROUPAS DE PROTEÇÍO; MÁSCARA CONTRA PÓ E, ÓCULOS DE ACRÍLICO COM PROTEÇÍO LATERAL.
+RISCOS AO FOGO Help
+Ações a serem tomadas quando o produto entra em combustão
+COMBUSTÍVEL. PODE PRODUZIR GÁS INFLAMÁVEL. EXPLOSIVO EM CONTATO COM METAIS, ÁCIDOS OU QUANDO AQUECIDO.
+EXTINGUIR COM PÓ DE GRAFITE, CALCÁREO EM PÓ, CARBONATO DE SÓDIO OU CLORETO DE SÓDIO EM PÓ.
+Comportamento do produto no fogo
+DECOMPÕE-SE E PRODUZ GÁS HIDROGÊNIO ALTAMENTE INFLAMÁVEL.
+Produtos perigosos da reação de combustão
+NÍO PERTINENTE.
+Agentes de extinção que não podem ser usados
+ÁGUA, DIÓXIDO DE CARBONO OU AGENTES DE EXTINÇÍO HALOGENADOS.
+Limites de inflamabilidade no ar
+Limite Superior: NÍO PERTINENTE
+Limite Inferior: NÍO PERTINENTE
+Ponto de fulgor
+SÓLIDO INFLAMÁVEL
+Temperatura de ignição
+NÍO PERTINENTE
+Taxa de queima
+NÍO PERTINENTE
+Taxa de evaporação (éter=1)
+DADO NÍO DISPONÍVEL
+NFPA (National Fire Protection Association)
+NFPA: NÍO LISTADO
+--- PÁGINA 2 ---
+PROPRIEDADES FÍSICO-QUÍMICAS E AMBIENTAIS Help
+Peso molecular Ponto de ebulição (°C) Ponto de fusão (°C)
+37,83 DECOMPÕE NÍO PERTINENTE
+Temperatura crítica (°C) Pressão crítica (atm) Densidade relativa do vapor
+NÍO PERTINENTE NÍO PERTINENTE NÍO PERTINENTE
+Densidade relativa do líquido (ou Pressão de vapor Calor latente de vaporização (cal/g)
+sólido) DADO NÍO DISPONÍVEL NÍO PERTINENTE
+1,074 A 20 °C (SÓLIDO)
+Calor de combustão (cal/g) Viscosidade (cP)
+NÍO PERTINENTE DADO NÍO DISPONÍVEL
+Solubilidade na água pH
+54 g/100 mL DE ÁGUA A 25 °C 11(10g/L)
+Reatividade química com água
+REAGE PARA FORMAR GÁS HIDROGÊNIO INFLAMÁVEL.
+Reatividade química com materiais comuns
+REAGE COM ÁCIDOS PARA FORMAR GÁS DIBORANO TÓXICO E INFLAMÁVEL. CORRÓI LENTAMENTE O VIDRO.
+Polimerização
+NÍO OCORRE.
+Reatividade química com outros materiais
+DADO NÍO DISPONÍVEL.
+Degradabilidade
+PRODUTO INORGÂNICO.
+Potencial de concentração na cadeia alimentar
+NENHUM.
+Demanda bioquímica de oxigênio (DBO)
+DADO NÍO DISPONÍVEL.
+Neutralização e disposição final
+PARA PEQUENAS QUANTIDADES: DISSOLVER O SÓLIDO (OU DILUIR A SOLUÇÍO) EM UM GRANDE VOLUME D'ÁGUA.
+ADICIONAR CUIDADOSAMENTE UMA SOLUÇÍO DILUÍDA DE ÁCIDO ACÉTICO OU ACETONA NA MISTURA, EM UMA ÁREA BEM
+VENTILADA. DEVEM SER TOMADAS PROVIDÊNCIAS PARA ASSEGURAR A SAÍDA DE GÁS HIDROGÊNIO, LIBERADO DURANTE A
+DECOMPOSIÇÍO. VERIFICAR A ACIDEZ DA SOLUÇÍO E AJUSTAR PARA pH=1, SE NECESSÁRIO. NEUTRALIZAR A SOLUÇÍO
+PARA pH=7. EVAPORAR A SOLUÇÍO E ENTERRAR O RESÍDUO EM UM ATERRO QUÍMICO. RECOMENDA-SE O
+ACOMPANHAMENTO POR UM ESPECIALISTA DO ÓRGÍO AMBIENTAL.
+INFORMAÇÕES ECOTOXICOLÓGICAS Help
+Toxicidade - limites e padrões
+L.P.O.: NÍO PERTINENTE
+P.P.: 200 mg/L (PARA SÓDIO)
+IDLH: DADO NÍO DISPONÍVEL
+LT: Brasil - Valor Médio 48h: DADO NÍO DISPONÍVEL
+LT: Brasil - Valor Teto: DADO NÍO DISPONÍVEL
+LT: EUA - TWA: NÍO ESTABELECIDO
+LT: EUA - STEL: NÍO ESTABELECIDO
+Toxicidade ao homem e animais superiores (vertebrados)
+M.D.T.: DADO NÍO DISPONÍVEL
+M.C.T.: DADO NÍO DISPONÍVEL
+Toxicidade: Espécie: RATO
+Via Oral (DL 50): LDLo: 160 mg/kg
+Via Cutânea (DL 50): 18 mg/kg (INTRAP.)
+Toxicidade: Espécie: CAMUNDONGO
+Via Cutânea (DL 50): LDLo: 18 mg/kg (INTRAP.)
+Toxicidade: Espécie: OUTROS
+Via Cutânea (DL 50): COELHO LDLo: 60 mg/kg (INTRAP.)
+Toxicidade aos organismos aquáticos: PEIXES : Espécie
+Toxicidade aos organismos aquáticos: CRUSTÁCEOS : Espécie
+Toxicidade aos organismos aquáticos: ALGAS : Espécie
+Toxicidade a outros organismos: BACTÉRIAS
+--- PÁGINA 3 ---
+Toxicidade a outros organismos: MUTAGENICIDADE
+Toxicidade a outros organismos: OUTROS
+Informações sobre intoxicação humana
+EVITAR CONTATO COM O SÓLIDO E O PÓ. MANTER AS PESSOAS AFASTADAS. CHAMAR OS BOMBEIROS. ISOLAR E REMOVER
+O MATERIAL DERRAMADO.
+Tipo de contato Síndrome tóxica Tratamento
+PÓ PREJUDICIAL, SE INALADO. MOVER PARA O AR FRESCO. SE A
+RESPIRAÇÍO FOR DIFICULTADA OU
+PARAR, DAR OXIGÊNIO OU FAZER
+RESPIRAÇÍO ARTIFICIAL.
+Tipo de contato Síndrome tóxica Tratamento
+SÓLIDO IRRITANTE PARA A PELE. IRRITANTE ENXAGUAR AS ÁREAS AFETADAS COM
+PARA OS OLHOS. PREJUDICIAL, SE MUITA ÁGUA. MANTER AS PÁLPEBRAS
+INGERIDO. ABERTAS E ENXAGUAR COM MUITA ÁGUA.
+NÍO PROVOCAR VÔMITO.
+DADOS GERAIS Help
+Temperatura e armazenamento
+AMBIENTE.
+Ventilação para transporte
+(OBS.1)
+Estabilidade durante o transporte
+ESTÁVEL A NÍO SER QUE MISTURADO COM ÁCIDOS OU SUPERAQUECIDO, QUANDO SE FORMA GÁS HIDROGÊNIO
+INFLAMÁVEL.
+Usos
+DADO NÍO DISPONÍVEL.
+Grau de pureza
+95 - 98% PUREZA MÍNIMA; PÓ SECO, PELOTAS: SOLUÇÍO 12% EM NaOH 43% AQUOSO.
+Radioatividade
+NÍO TEM.
+Método de coleta
+PARA B: MÉTODO 1. PARA B E Zn: MÉTODO 13.
+Código NAS (National Academy of Sciences)
+NÍO LISTADO
+OBSERVAÇÕES Help
+1) RECIPIENTES FECHADOS DEVEM SER ARMAZENADOS EM ÁREA BEM VENTILADA. POTENCIAL DE IONIZAÇÍO (PI) = DADO
+NÍO DISPONÍVEL.

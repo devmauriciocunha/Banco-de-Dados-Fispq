@@ -1,0 +1,189 @@
+--- PÁGINA 1 ---
+SIGMA-ALDRICH
+FOLHA DE DADOS DE SEGURANÇA DO PRODUTO (MSDS)
+Data de impressão 01/26/2011
+Data de Actualização. 08/17/2009
+Versão 1.4
+Secção 1 - Informação sobre o Produto e sobre a Companhia
+Nome do produto BUFFER SOLUTION, PH 7 CONCENTRATE
+Referência do Produto 223581
+Marca FLUKA
+Companhia Sigma-Aldrich Brasil Ltda.
+Direcção Av. das Nações Unidas, 23.043
+São Paulo SP 04795-100 BR
+Número do Serviço Técnico 55 11 3732 3100
+Número de Fax 55 11 5522 9895
+Número de Telefone de
+Secção 2 - Composição / Informação sobre os ingredientes.
+Nome da Substância Número CAS SARA 313
+BUFFER SOLUTION, PH 7 CONCENTRATE None Não
+Secção 3 - Identificação de Perigo
+CLASSIFICAÇÍO DA HMIS
+SAÚDE: 0
+INFLAMABILIDADE: 0
+REACTIVIDADE: 0
+CLASSIFICADO PELA NFPA
+SAÚDE: 0
+INFLAMABILIDADE: 0
+REACTIVIDADE: 0
+Para informação adicional referente à toxicidade, consulte por
+favor a seção 11.
+Secção 4. Primeiros Socorros
+EXPOSIÇÍO ORAL
+Se ingerido, lavar a boca com água desde que a pessoa esteja
+consciente. Chamar um médico.
+EXPOSIÇÍO POR INALAÇÍO
+Em caso de inalação, levar o paciente para o ar fresco. Em caso
+de ausência de respiração, administrar respiração artificial. Se
+a respiração estiver difícil, administrar oxigênio.
+EXPOSIÇÍO DÉRMICA
+Em caso de contato, lavar a pele imediatamente com sabão e água
+em abundância .
+EXPOSIÇÍO OCULAR
+Em caso de contato, imediatamente lavar os olhos com água em
+abundância, por, no mínimo, 15 minutos.
+--- PÁGINA 2 ---
+Secção 5 - Procedimento em caso de incêndio
+PONTO DE INFLAMAÇÍO
+N/A
+TEMPERATURA DE AUTOIGNIÇÍO
+N/A
+INFLAMABILIDADE
+N/A
+MEIOS DE EXTINÇÍO DE FOGOS
+Adequado: Borrifo de água. Dióxido de carbono, pó químico seco
+ou espuma adequada.
+COMBATE AOS INCÊNDIOS
+Equipamento de protecção: Utilizar aparelho de respiração
+autônomo e vestimenta de proteção para impedir o contato com a
+pele e com os olhos.
+Secção 6 - Procedimento em caso de fuga acidental de produto
+PROCEDIMENTO(S) DE PROTECÇÍO INDIVIDUAL
+Usar respirador, óculos de segurança química, botas de borracha
+e luvas pesadas de borracha.
+MÉTODOS DE LIMPEZA
+Absorver com areia ou vermiculita e colocar em recipientes
+fechados para ser descartado. Ventilar a área e lavar o local
+derramado depois de terminar o recolhimento do material.
+Secção 7 - Instruções de manipulação e armazenamento
+MANIPULAÇÍO
+Exposição do Usuário: Evitar a inalação. Evitar o contato com o
+olhos, pele e vestimentas. Evitar a exposição prolongada ou
+repetida.
+ARMAZENAMENTO
+Adequado: Manter hermeticamente fechado. Armazenar em local
+fresco e seco.
+Secção 8 - Controlos de exposição / Medidas de protecção individual.
+CONTROLOS MECÂNICOS
+Ducha de segurança e lava-olhos. Requer exaustão mecânica.
+EQUIPAMENTO DE PROTECÇÍO INDIVIDUAL
+Respiratório: Use respiradores e componentes testados e aprovados
+por normas govername ntais apropriadas, tais como as NIOSH
+(E.U.A.) ou CEN (UE). Respiratory protection is not required.
+Where protection is desired, use multi-purpose combination (US) or
+type ABEK (EN 14387) respirator cartridges.
+Mão: Luvas compatíveis resistentes a produtos químicos
+Olhos: Óculos de segurança química.
+MEDIDAS DE HIGIENE GERAL
+Lavar bem após o manuseio. Lavar as vestimentas contaminadas antes
+de utilizá-las novamente.
+Secção 9 - Propriedades Físicas e Químicas
+FLUKA - 223581 www.sigma-aldrich.com Page 2
+--- PÁGINA 3 ---
+pH N/A
+Ponto de Ebulição/ N/A
+Intervalo de pontos de
+ebulição
+Ponto de N/A
+fusão/Intervalo de
+pontos de fusão
+Ponto de congelação N/A
+Pressão de vapor N/A
+Densidade de vapor N/A
+Concentração de vapor N/A
+saturado
+Peso 1.004 g/cm3
+específico/densidade
+Massa Volúmica Aparente N/A
+Umbral de Odor N/A
+% de compostos voláteis N/A
+Conteúdo de Compostos N/A
+Orgânicos Voláteis
+Conteúdo em água N/A
+Conteúdo de Solventes N/A
+Taxa de evaporação N/A
+Viscosidade N/A
+Tensão superficial N/A
+Coeficiente de partição N/A
+Temperatura de N/A
+decomposição
+Ponto de inflamação N/A
+Limites da explosão N/A
+Inflamabilidade N/A
+Temperatura de N/A
+autoignição
+Índice de refracção N/A
+Rotação Óptica N/A
+Dados diversos N/A
+Solubilidade N/A
+N/A = noa disponivel
+Secção 10 - Estabilidade e reactividade
+ESTABILIDADE
+Produtos a evitar: Agentes oxidantes fortes Dióxido de carbono.
+PRODUTOS DE DECOMPOSIÇÍO PERIGOSOS
+Produtos de decomposição perigosos: Monóxido de carbono, dióxido
+de carbono.
+POLIMERIZAÇÍO PERIGOSA
+Polimerização perigosa: Não ocorrerá
+Secção 11 - Informação Toxicológica
+VIA DE EXPOSIÇÍO
+Contacto cutâneo: Pode provocar irritação da pele.
+Contacto ocular: Pode provocar irritação nos olhos.
+Diferentes vias de administração: Pode ser nocivo por inalação,
+ingestão ou absorção cutânea.
+SINAIS E SINTOMAS DE EXPOSIÇÍO
+Até onde sabemos, as propriedades químicas, físicas e
+toxicológicas não foram minuciosamente investigadas.
+FLUKA - 223581 www.sigma-aldrich.com Page 3
+--- PÁGINA 4 ---
+Secção 12 - Informação Ecológica.
+Nenhun dado disponível
+Secção 13 - Considerações sobre a eliminação de resíduos.
+MÉTODO APROPRIADO PARA ELIMINAÇÍO DE SUBSTÂNCIAS OU PREPARAÇÕES.
+Dissolver ou misturar o material com um solvente combustível e
+queimar em incinerador químico equipado com pós-combustor e
+purificador de gases. Observar todos os regulamentos ambientais
+federais, estaduais e locais.
+Secção 14 - Informações sobre o Transporte
+DOT
+Nome Apropriado para Embarque: None
+Não Perigoso para o transporte: This substance is
+considered to be non-hazardousfor transport.
+IATA
+Não Perigoso para o transporte aéreo: Non-hazardous
+for air transport.
+Secção 15 - Informações sobre a normativa vigente.
+INFORMAÇÍO REGULAMENTARIA DOS EEUU
+INCLUÍDO NAS LISTA DA SARA: Não
+INFORMAÇÍO SOBRE LEGISLAÇÍO EM VIGOR NO CANADÁ
+Classificação da WHMIS: Este produto foi classificado de acordo
+conm os critérios de perigo doCPR. A MSDS contém toda a
+informação exigida pela CPR.
+DSL: Não
+NDSL: Não
+Secção 16 - Outras informações
+AVISO LEGAL:
+Deve ser usado somente para I+D e investigação. Não é apto para
+fabricação de medicamentos, material de uso doméstico ou outros
+usos.
+GARANTIA
+Acredita-se que as informações acima estejam corretas, embora não
+pretendam ser totalmente abrangentes, devendo ser usadas apenas
+como um guia. A Sigma não deverá ter responsabilidade legal por
+quaisquer danos resultantes do manuseio ou do contato com o
+produto acima. Consultar o verso da fatura ou nota que acompanha o
+produto para tomar conhecimento dos termos adicionais e condições
+de venda. Direitos exclusivos, 2007, da Sigma-Aldrich Co.
+Permissão concedida para fazer número ilimitado de cópias em
+papel, somente para uso interno.
+FLUKA - 223581 www.sigma-aldrich.com Page 4

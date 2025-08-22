@@ -1,0 +1,140 @@
+--- PÁGINA 1 ---
+Ficha de Informação de Produto Químico
+IDENTIFICAÇÍO Help
+Número ONU Nome do produto Rótulo de risco
+2265 DIMETILFORMAMIDA
+Número de risco Classe / Subclasse
+30 3
+Sinônimos
+N, N - DIMETILFORMAMIDA ; D M F
+Aparência
+LÍQUIDO AQUOSO; SEM COLORAÇÍO; ODOR LEVE DE AMÔNIA; FLUTUA E MISTURA COM ÁGUA
+Fórmula molecular Família química
+C3 H7 O N AMIDA
+Fabricantes
+Para informações atualizadas recomenda-se a consulta às seguintes instituições ou referências:
+ABIQUIM - Associação Brasileira da Indústria Química : Fone 0800-118270
+ANDEF - Associação Nacional de Defesa Vegetal: Fone (11) 3081-5033
+Revista Química e Derivados - Guia geral de produtos químicos, Editora QD: Fone (11) 3826-6899
+Programa Agrofit - Ministério da Agricultura
+MEDIDAS DE SEGURANÇA Help
+Medidas preventivas imediatas
+EVITAR CONTATO COM O LÍQUIDO. MANTER AS PESSOAS AFASTADAS. CHAMAR OS BOMBEIROS. PARAR O VAZAMENTO, SE
+POSSÍVEL. ISOLAR E REMOVER O MATERIAL DERRAMADO.
+Equipamentos de Proteção Individual (EPI)
+USAR LUVAS, BOTAS E ROUPAS DE BORRACHA NITRÍLICA E MÁSCARA FACIAL PANORAMA COM FILTRO CONTRA VAPORES
+ORGÂNICOS.
+RISCOS AO FOGO Help
+Ações a serem tomadas quando o produto entra em combustão
+EXTINGUIR COM PÓ QUÍMICO SECO, ÁGUA, ESPUMA DE ÁLCOOL OU DIÓXIDO DE CARBONO.
+Comportamento do produto no fogo
+NÍO PERTINENTE.
+Produtos perigosos da reação de combustão
+OS VAPORES SÍO IRRITANTES.
+Agentes de extinção que não podem ser usados
+NÍO PERTINENTE.
+Limites de inflamabilidade no ar
+Limite Superior: 15,2%
+Limite Inferior: 2,2%
+Ponto de fulgor
+67,2°C(V.ABERTO); 57,8°C(V.FECHADO)
+Temperatura de ignição
+445,3 °C
+Taxa de queima
+2,2 mm/min
+Taxa de evaporação (éter=1)
+45,0
+NFPA (National Fire Protection Association)
+Perigo de Saúde (Azul): 1
+Inflamabilidade (Vermelho): 2
+Reatividade (Amarelo): 0
+--- PÁGINA 2 ---
+PROPRIEDADES FÍSICO-QUÍMICAS E AMBIENTAIS Help
+Peso molecular Ponto de ebulição (°C) Ponto de fusão (°C)
+73,09 153 -58,3
+Temperatura crítica (°C) Pressão crítica (atm) Densidade relativa do vapor
+NÍO PERTINENTE NÍO PERTINENTE NÍO PERTINENTE
+Densidade relativa do líquido (ou Pressão de vapor Calor latente de vaporização (cal/g)
+sólido) 2,84 mmHg A 21,1 °C 138
+0,950 A 20 °C (LÍQUIDO)
+Calor de combustão (cal/g) Viscosidade (cP)
+-6.267 DADO NÍO DISPONÍVEL
+Solubilidade na água pH
+MISCÍVEL DND
+Reatividade química com água
+NÍO REAGE.
+Reatividade química com materiais comuns
+NÍO REAGE.
+Polimerização
+NÍO OCORRE.
+Reatividade química com outros materiais
+INCOMPATÍVEL COM TETRACLORETO DE CARBONO; OUTROS COMPOSTOS HALOGENADOS, QUANDO EM CONTATO COM
+FERRO; OXIDANTES FORTES; ALQUIL ALUMÍNIOS.
+Degradabilidade
+DADO NÍO DISPONÍVEL.
+Potencial de concentração na cadeia alimentar
+NENHUM.
+Demanda bioquímica de oxigênio (DBO)
+0,9 lb/lb; 5 DIAS.
+Neutralização e disposição final
+ESTE MATERIAL COMBUSTÍVEL DEVE SER QUEIMADO EM UM INCINERADOR QUÍMICO, EQUIPADO COM PÓS-QUEIMADOR E
+LAVADOR DE GASES. RECOMENDA-SE O ACOMPANHAMENTO POR UM ESPECIALISTA DO ÓRGÍO AMBIENTAL.
+INFORMAÇÕES ECOTOXICOLÓGICAS Help
+Toxicidade - limites e padrões
+L.P.O.: 100 ppm
+P.P.: NÍO ESTABELECIDO
+IDLH: 500 ppm
+LT: Brasil - Valor Médio 48h: 8 ppm
+LT: Brasil - Valor Teto: 16 ppm
+LT: EUA - TWA: 10 ppm
+LT: EUA - STEL: NÍO ESTABELECIDO
+Toxicidade ao homem e animais superiores (vertebrados)
+M.D.T.: DADO NÍO DISPONÍVEL
+M.C.T.: DADO NÍO DISPONÍVEL
+Toxicidade: Espécie: RATO
+Via Oral (DL 50): 1.500 mg/kg; 2.800 mg/kg
+Via Cutânea (DL 50): 2.350 mg/kg (INTRAV.); 5 g/kg
+Toxicidade: Espécie: CAMUNDONGO
+Via Respiração (CL50): (2 h) 9.400 mg/m³Via Oral (DL 50): 3.750 mg/kg Via Cutânea (DL 50): 4.500 mg/kg (SUBCUT.)
+Toxicidade: Espécie: OUTROS
+Via Cutânea (DL 50): COELHO : 5.000 mg/Kg;COBAIA : LDLo = 4.000 mg/kg ( INTRAP. )
+Toxicidade aos organismos aquáticos: PEIXES : Espécie
+Toxicidade aos organismos aquáticos: CRUSTÁCEOS : Espécie
+Toxicidade aos organismos aquáticos: ALGAS : Espécie
+Toxicidade a outros organismos: BACTÉRIAS
+Toxicidade a outros organismos: MUTAGENICIDADE
+SER HUMANO: " cyt " = 100 nmol/L (LINFÓCITOS); RATOS "dlt" =10.700 ug/m3 (INALAÇÍO); ( OBS.1 )
+--- PÁGINA 3 ---
+Toxicidade a outros organismos: OUTROS
+Informações sobre intoxicação humana
+EVITAR CONTATO COM O LÍQUIDO. MANTER AS PESSOAS AFASTADAS. CHAMAR OS BOMBEIROS. PARAR O VAZAMENTO, SE
+POSSÍVEL. ISOLAR E REMOVER O MATERIAL DERRAMADO.
+Tipo de contato Síndrome tóxica Tratamento
+Tipo de contato Síndrome tóxica Tratamento
+LÍQUIDO QUEIMARÁ A PELE. QUEIMARÁ OS REMOVER ROUPAS E SAPATOS
+OLHOS. CONTAMINADOS E ENXAGUAR COM MUITA
+ÁGUA. MANTER AS PÁLPEBRAS ABERTAS E
+ENXAGUAR COM MUITA ÁGUA.
+DADOS GERAIS Help
+Temperatura e armazenamento
+AMBIENTE.
+Ventilação para transporte
+ABERTA.
+Estabilidade durante o transporte
+ESTÁVEL.
+Usos
+QUÍMICA ANALÍTICA; SÍNTESES ORGÂNICAS; SOLVENTES PARA FIAÇÍO DE FIBRA SINTÉTICA.
+Grau de pureza
+DADO NÍO DISPONÍVEL.
+Radioatividade
+NÍO TEM.
+Método de coleta
+DADO NÍO DISPONÍVEL.
+Código NAS (National Academy of Sciences)
+FOGO SAÚDE POLUIÇÍO DAS ÁGUAS REATIVIDADE
+Fogo: 2 Vapor Irritante: 2 Toxicidade humana: 2 Outros Produtos Químicos: 0
+Líquido/Sólido Irritante: 2 Toxicidade aquática: 2 Água: 1
+Venenos: 3 Efeito estético: 2 Auto reação: 0
+OBSERVAÇÕES Help
+1) CAMUNDONGO : " cyt " = 40 umol/kg ( INTRAP. ) SALMONELLA TYPHIMURIUM : " hma " = 4.250 ug/kg POTENCIAL DE
+IONIZAÇÍO (PI) = 9,12 eV.

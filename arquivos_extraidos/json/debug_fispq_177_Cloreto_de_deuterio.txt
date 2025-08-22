@@ -1,0 +1,259 @@
+--- PÁGINA 1 ---
+SIGMA-ALDRICH
+FOLHA DE DADOS DE SEGURANÇA DO PRODUTO (MSDS)
+Data de impressão 01/20/2011
+Data de Actualização. 10/26/2006
+Versão 1.0
+Secção 1 - Informação sobre o Produto e sobre a Companhia
+Nome do produto DEUTERIUM CHLORIDE, 35 WT. % SOLUTION
+IN D20, 99 ATOM % D
+Referência do Produto 543047
+Marca ALDRICH
+Companhia Sigma-Aldrich Brasil Ltda.
+Direcção Av. das Nações Unidas, 23.043
+São Paulo SP 04795-100 BR
+Número do Serviço Técnico 55 11 3732 3100
+Número de Fax 55 11 5522 9895
+Número de Telefone de
+Secção 2 - Composição / Informação sobre os ingredientes.
+Nome da Substância Número CAS SARA 313
+DEUTERIUM CHLORIDE * ATOM % D 7698-05-7 Não
+(>=25%)
+Nome dos Ingredientes: Número CAS PercentageSARA 313
+DEUTERIUM OXIDE, * ATOM % D 7789-20-0 >= 60 Não
+<= 70
+DEUTERIUM CHLORIDE * ATOM % D (>=25%) 7698-05-7 >= 30 Não
+<= 40
+Fórmula DCl
+Secção 3 - Identificação de Perigo
+INSTRUÇÕES EM CASO DE EMERGÊNCIA
+Corrosivo
+Provoca queimaduras. Irritante para o sistema respiratório.
+CLASSIFICAÇÍO DA HMIS
+SAÚDE: 3
+INFLAMABILIDADE: 0
+REACTIVIDADE: 1
+CLASSIFICADO PELA NFPA
+SAÚDE: 3
+INFLAMABILIDADE: 0
+REACTIVIDADE: 1
+Para informação adicional referente à toxicidade, consulte por
+favor a seção 11.
+Secção 4. Primeiros Socorros
+EXPOSIÇÍO ORAL
+Se ingerido, lavar a boca com água desde que a pessoa esteja
+consciente. Chamar um médico. Não induzir vômito.
+--- PÁGINA 2 ---
+EXPOSIÇÍO POR INALAÇÍO
+Se inalado, levar o paciente para o ar fresco. Caso a respiração
+se torne difícil, chamar um médico.
+EXPOSIÇÍO DÉRMICA
+Em caso de contato com a pele, lavar com água em abundância por,
+no mínimo, 15 minutos. Tirar as roupas e calçados contaminados.
+Chamar um médico.
+EXPOSIÇÍO OCULAR
+Em caso de contato com os olhos, lavar com água em abundância
+por, no mínimo, 15 minutos. Separar as pálpebras com os dedos
+para garantir uma lavagem adequada. Chamar um médico.
+Secção 5 - Procedimento em caso de incêndio
+PONTO DE INFLAMAÇÍO
+N/A
+TEMPERATURA DE AUTOIGNIÇÍO
+N/A
+INFLAMABILIDADE
+N/A
+MEIOS DE EXTINÇÍO DE FOGOS
+Adequado: Dióxido de carbono, pó químico seco ou espuma adequada.
+Não adequado: Não usar água.
+COMBATE AOS INCÊNDIOS
+Equipamento de protecção: Utilizar aparelho de respiração
+autônomo e vestimenta de proteção para impedir o contato com a
+pele e com os olhos.
+Risco(s) específico(s): Emite vapores tóxicos em situações de
+incêndio.
+Secção 6 - Procedimento em caso de fuga acidental de produto
+PROCEDIMENTO EM CASO DE FUGA OU DERRAME
+Evacuar a área.
+PROCEDIMENTO(S) DE PROTECÇÍO INDIVIDUAL
+Usar aparelho de respiração autônoma, botas de borracha e luvas
+pesadas de borracha.
+MÉTODOS DE LIMPEZA
+Absorver com areia ou vermiculita e colocar em recipientes
+fechados para ser descartado. Ventilar a área e lavar o local
+derramado depois de terminar o recolhimento do material.
+Secção 7 - Instruções de manipulação e armazenamento
+MANIPULAÇÍO
+Exposição do Usuário: Não respirar o vapor. Não deixar que toque
+nos olhos, na pele ou no vestuário.
+ARMAZENAMENTO
+Adequado: Manter hermeticamente fechado. Armazenar sob
+nitrogênio.
+EXIGÊNCIAS ESPECIAIS
+Pode desenvolver pressão. Abrir com cuidado. Estocar sob gás
+ALDRICH - 543047 www.sigma-aldrich.com Page 2
+--- PÁGINA 3 ---
+inerte. Sensível à umidade.
+Secção 8 - Controlos de exposição / Medidas de protecção individual.
+CONTROLOS MECÂNICOS
+Ducha de segurança e lava-olhos. Usar exclusivamente em capela
+para vapores químicos.
+EQUIPAMENTO DE PROTECÇÍO INDIVIDUAL
+Respiratório: Use respiradores e componentes testados e aprovados
+por normas govername ntais apropriadas, tais como as NIOSH
+(E.U.A.) ou CEN (UE). Nos casos em que a avaliação de risco
+mostrar que os respiradores purificadores do ar são apropriados,
+use um respirador de cobertura facial total com cartuchos de
+combinação multi-objectivos (E.U.A.) ou do tipo ABEK (EN 14387)
+como apoio a controlos de engenharia. Se o respirador for o único
+meio de protecção, usa um respirador de ar de cobertura facial
+total.
+Mão: Luvas compatíveis resistentes a produtos químicos
+Olhos: Óculos de segurança química.
+Outros: Proteção da face (mínimo de 8 polegadas (20 cm)).
+MEDIDAS DE HIGIENE GERAL
+Lavar bem após o manuseio. Descartar os sapatos contaminados.
+Lavar as vestimentas contaminadas antes de utilizá-las novamente.
+Secção 9 - Propriedades Físicas e Químicas
+Aparência Cor: Incolor
+Forma: Líquido claro
+Propriedade Valor A temperatura ou pressão
+Peso molecular 37.47 AMU
+pH N/A
+Ponto de Ebulição/ N/A
+Intervalo de pontos de
+ebulição
+Ponto de N/A
+fusão/Intervalo de
+pontos de fusão
+Ponto de congelação N/A
+Pressão de vapor N/A
+Densidade de vapor N/A
+Concentração de vapor N/A
+saturado
+Peso 1.3 g/cm3
+específico/densidade
+Massa Volúmica Aparente N/A
+Umbral de Odor N/A
+% de compostos voláteis N/A
+Conteúdo de Compostos N/A
+Orgânicos Voláteis
+Conteúdo em água N/A
+Conteúdo de Solventes N/A
+Taxa de evaporação N/A
+Viscosidade N/A
+Tensão superficial N/A
+Coeficiente de partição N/A
+Temperatura de N/A
+decomposição
+Ponto de inflamação N/A
+ALDRICH - 543047 www.sigma-aldrich.com Page 3
+--- PÁGINA 4 ---
+Limites da explosão N/A
+Inflamabilidade N/A
+Temperatura de N/A
+autoignição
+Índice de refracção N/A
+Rotação Óptica N/A
+Dados diversos N/A
+Solubilidade N/A
+N/A = noa disponivel
+Secção 10 - Estabilidade e reactividade
+ESTABILIDADE
+Estável: Estável.
+Produtos a evitar: Bases, Aminas, Metais alcalinos, Metais,
+Permanganato de potássio, Flúor, concentrated sulfuric acid,
+Hexalithium disilicide, Metal acetylides or carbides.
+PRODUTOS DE DECOMPOSIÇÍO PERIGOSOS
+Produtos de decomposição perigosos: Gás clorídrico.
+POLIMERIZAÇÍO PERIGOSA
+Polimerização perigosa: Não ocorrerá
+Secção 11 - Informação Toxicológica
+VIA DE EXPOSIÇÍO
+Contacto cutâneo: Provoca queimaduras.
+Absorção cutânea: Pode ser nocivo se absorvido através da pele.
+Contacto ocular: Provoca queimaduras.
+Inalação: Pode ser nocivo se inalado. O material é extremamente
+destrutivo para os tecidos das membranas mucosas e do trato
+respiratório superior.
+Ingestão: Pode ser nocivo se deglutido.
+SINAIS E SINTOMAS DE EXPOSIÇÍO
+A inalação pode resultar em espasmo, inflamação e edema da
+laringe e dos brônquios, pneumonite química e edema pulmonar. O
+material é extremamente destrutivo para os tecidos das membranas
+mucosas e para o trato respiratório superior, os olhos e a pele.
+Os sintomas da exposição podem incluir sensação de queimação,
+tosse, respiração ofegante, laringite, encurtamento da
+respiração, cefaléia, náusea e vômito.
+CANCERÍGENO POR EXPOSIÇÍO CRÓNICA
+Resultado: Este produto é ou contém um componente que não é
+classificável quanto à sua carcinogenicidade segundo sua
+classificação pela IARC, ACGIH, NTP ou EPA.
+Secção 12 - Informação Ecológica.
+Nenhun dado disponível
+Secção 13 - Considerações sobre a eliminação de resíduos.
+MÉTODO APROPRIADO PARA ELIMINAÇÍO DE SUBSTÂNCIAS OU PREPARAÇÕES.
+Entrar em contato com um serviço profissional credenciado de
+descarte de lixo para descartar esse material. Observar todos os
+regulamentos ambientais federais, estaduais e locais.
+Secção 14 - Informações sobre o Transporte
+ALDRICH - 543047 www.sigma-aldrich.com Page 4
+--- PÁGINA 5 ---
+DOT
+Nome Apropriado para Embarque: Hydrochloric acid
+Número da UN: 1789
+Classe: 8
+Grupo da embalagem: Packing Group II
+Etiqueta de Perigo: Corrosive
+PIH: Not PIH
+IATA
+Nome Apropriado para Embarque: Hydrochloric acid
+Numero UN IATA: 1789
+Classe de perigo: 8
+Grupo da embalagem: II
+Secção 15 - Informações sobre a normativa vigente.
+CLASSIFICAÇÍO COMPLEMENTAR DA EU
+Símbolo de Perigo: C
+Indicação de perigo.: Corrosivo
+R: 34-37
+Frases de Risco: Provoca queimaduras. Irritante para o sistema
+respiratório.
+S: 26-36/37/39-45
+Frase de Segurança.: Em caso de contato com os olhos, enxaguar
+imediatamente com água em abundância e procurar aconselhamento
+médico. Usar roupas, luvas e dispositivos adequados de proteção
+para olhos e rosto. Em caso de acidente ou mal-estar, procurar
+ajuda médica imediatamente (se possível, mostrar a etiqueta).
+CLASIFICAÇÍO E CONTEÚDO DAS ETIQUETAS SEGUNDA A NORMATIVA DOS EUA.
+Indicação de perigo.: Corrosivo
+Frases de Risco: Provoca queimaduras. Irritante para o sistema
+respiratório.
+Frase de Segurança.: Em caso de contato com os olhos, enxaguar
+imediatamente com água em abundância e procurar aconselhamento
+médico. Em caso de acidente ou mal-estar, procurar ajuda médica
+imediatamente (se possível, mostrar a etiqueta).
+INFORMAÇÍO REGULAMENTARIA DOS EEUU
+INCLUÍDO NAS LISTA DA SARA: Não
+INFORMAÇÍO SOBRE LEGISLAÇÍO EM VIGOR NO CANADÁ
+Classificação da WHMIS: Este produto foi classificado de acordo
+conm os critérios de perigo doCPR. A MSDS contém toda a
+informação exigida pela CPR.
+DSL: Não
+NDSL: Não
+Secção 16 - Outras informações
+AVISO LEGAL:
+Deve ser usado somente para I+D e investigação. Não é apto para
+fabricação de medicamentos, material de uso doméstico ou outros
+usos.
+GARANTIA
+Acredita-se que as informações acima estejam corretas, embora não
+pretendam ser totalmente abrangentes, devendo ser usadas apenas
+como um guia. A Sigma não deverá ter responsabilidade legal por
+quaisquer danos resultantes do manuseio ou do contato com o
+produto acima. Consultar o verso da fatura ou nota que acompanha o
+ALDRICH - 543047 www.sigma-aldrich.com Page 5
+--- PÁGINA 6 ---
+produto para tomar conhecimento dos termos adicionais e condições
+de venda. Direitos exclusivos, 2007, da Sigma-Aldrich Co.
+Permissão concedida para fazer número ilimitado de cópias em
+papel, somente para uso interno.
+ALDRICH - 543047 www.sigma-aldrich.com Page 6

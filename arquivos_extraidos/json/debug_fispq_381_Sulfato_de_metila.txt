@@ -1,0 +1,204 @@
+--- PÁGINA 1 ---
+SIGMA-ALDRICH
+SAFETY DATA SHEET
+according to Regulation (EC) No. 1907/2006
+Version 3.0 Revision Date 04.05.2009
+Print Date 21.06.2010
+GENERIC EU MSDS - NO COUNTRY SPECIFIC DATA - NO OEL DATA
+1. IDENTIFICATION OF THE SUBSTANCE/PREPARATION AND OF THE COMPANY/UNDERTAKING
+Product name : Dimethyl sulphate
+Product Number : D186309
+Brand : Sigma-Aldrich
+Company : Sigma-Aldrich Brasil Ltda.
+Av. das Nações Unidas, 23.043
+04795-100 SÍO PAULO - SP
+BRAZIL
+Telephone : +551137323100
+Fax : +551155229895
+Emergency Phone # :
+2. HAZARDS IDENTIFICATION
+Risk advice to man and the environment
+May cause cancer. Also toxic if swallowed. Also very toxic by inhalation. Causes burns. May cause
+sensitization by skin contact. Possible risk of irreversible effects.
+3. COMPOSITION/INFORMATION ON INGREDIENTS
+Formula : C2H6O4S
+Molecular Weight : 126,13 g/mol
+CAS-No. EC-No. Index-No. Classification Concentration
+Dimethyl sulphate
+77-78-1 201-058-1 016-023-00-4 T+, Carc.Cat.2, Mut.Cat.3, -
+R45 - R25 - R26 - R34 - R43
+- R68
+4. FIRST AID MEASURES
+General advice
+Consult a physician. Show this safety data sheet to the doctor in attendance.
+If inhaled
+If breathed in, move person into fresh air. If not breathing give artificial respiration Consult a physician.
+In case of skin contact
+Take off contaminated clothing and shoes immediately. Wash off with soap and plenty of water. Consult a
+physician.
+In case of eye contact
+Rinse thoroughly with plenty of water for at least 15 minutes and consult a physician.
+If swallowed
+Do NOT induce vomiting. Never give anything by mouth to an unconscious person. Rinse mouth with water.
+Consult a physician.
+Sigma-Aldrich - D186309 www.sigma-aldrich.com Page 1 of 5
+--- PÁGINA 2 ---
+5. FIRE-FIGHTING MEASURES
+Suitable extinguishing media
+Use water spray, alcohol-resistant foam, dry chemical or carbon dioxide.
+Special protective equipment for fire-fighters
+Wear self contained breathing apparatus for fire fighting if necessary.
+6. ACCIDENTAL RELEASE MEASURES
+Personal precautions
+Wear respiratory protection. Avoid breathing vapors, mist or gas. Ensure adequate ventilation. Evacuate
+personnel to safe areas.
+Environmental precautions
+Prevent further leakage or spillage if safe to do so. Do not let product enter drains.
+Methods for cleaning up
+Soak up with inert absorbent material and dispose of as hazardous waste. Keep in suitable, closed containers
+for disposal.
+7. HANDLING AND STORAGE
+Handling
+Avoid exposure - obtain special instructions before use.Avoid inhalation of vapour or mist.
+Keep away from sources of ignition - No smoking. Take measures to prevent the build up of electrostatic
+charge.
+Storage
+Store in cool place. Keep container tightly closed in a dry and well-ventilated place. Containers which are
+opened must be carefully resealed and kept upright to prevent leakage.
+Moisture sensitive. Handle and store under inert gas.
+8. EXPOSURE CONTROLS/PERSONAL PROTECTION
+Personal protective equipment
+Respiratory protection
+Where risk assessment shows air-purifying respirators are appropriate use a full-face respirator with multi-
+purpose combination (US) or type ABEK (EN 14387) respirator cartridges as a backup to engineering
+controls. If the respirator is the sole means of protection, use a full-face supplied air respirator. Use
+respirators and components tested and approved under appropriate government standards such as NIOSH
+(US) or CEN (EU).
+Hand protection
+The selected protective gloves have to satisfy the specifications of EU Directive 89/686/EEC and the
+standard EN 374 derived from it. Handle with gloves.
+Eye protection
+Safety glasses
+Skin and body protection
+Choose body protection according to the amount and concentration of the dangerous substance at the work
+place.
+Hygiene measures
+Avoid contact with skin, eyes and clothing. Wash hands before breaks and immediately after handling the
+product.
+Sigma-Aldrich - D186309 www.sigma-aldrich.com Page 2 of 5
+--- PÁGINA 3 ---
+9. PHYSICAL AND CHEMICAL PROPERTIES
+Appearance
+Form clear, liquid
+Colour white
+Safety data
+pH no data available
+Melting point -32 °C
+Boiling point 188 °C at 1.013 hPa
+75 - 77 °C at 15 hPa
+Flash point 83 °C - closed cup
+Ignition temperature 495 °C
+Lower explosion limit no data available
+Upper explosion limit no data available
+Vapour pressure 1,5 hPa at 38 °C
+0,9 hPa at 25 °C
+Density 1,325 g/cm3
+Water solubility no data available
+Relative vapour 4,35
+density - (Air = 1.0)
+10. STABILITY AND REACTIVITY
+Storage stability
+Stable under recommended storage conditions.
+Conditions to avoid
+Avoid moisture.
+Materials to avoid
+Strong oxidizing agents, Strong bases, Ammonia, Material generates methanol on contact with water or
+moisture
+Hazardous decomposition products
+Hazardous decomposition products formed under fire conditions. - Carbon oxides, Sulphur oxides
+11. TOXICOLOGICAL INFORMATION
+Acute toxicity
+LD50 Oral - rat - 205 mg/kg
+LC50 Inhalation - rat - 4 h - 45 mg/m3
+Remarks: Lungs, Thorax, or Respiration:Dyspnea. Cyanosis Blood: Hemorrhage.
+Irritation and corrosion
+Eyes - rabbit - Severe eye irritation - 24 h
+Sensitisation
+The preceding data, or interpretation of data, was determined using Quantitative Structure Activity Relationship
+(QSAR) modeling. Prolonged or repeated exposure may cause allergic reactions in certain sensitive
+individuals.
+Chronic exposure
+Sigma-Aldrich - D186309 www.sigma-aldrich.com Page 3 of 5
+--- PÁGINA 4 ---
+This is or contains a component that has been reported to be carcinogenic based on its IARC, OSHA, ACGIH,
+NTP, or EPA classification.
+IARC: 2A - Group 2A: Probably carcinogenic to humans (Dimethyl sulphate)
+Signs and Symptoms of Exposure
+Material is extremely destructive to tissue of the mucous membranes and upper respiratory tract, eyes, and
+skin., Fever, Headache, Symptoms may be delayed., To the best of our knowledge, the chemical, physical,
+and toxicological properties have not been thoroughly investigated., Cough, Shortness of breath
+Potential Health Effects
+Inhalation May be fatal if inhaled. Material is extremely destructive to the tissue of the
+mucous membranes and upper respiratory tract.
+Skin May be harmful if absorbed through skin. Causes skin burns.
+Eyes Causes eye burns.
+Ingestion Toxic if swallowed. Causes burns.
+Target Organs Heart, Lungs, Liver, Kidney, Eyes, Brain.,
+Additional Information
+RTECS: WS8225000
+12. ECOLOGICAL INFORMATION
+Elimination information (persistence and degradability)
+no data available
+Ecotoxicity effects
+Toxicity to fish LC50 - Lepomis macrochirus - 7,5 mg/l - 96 h
+Further information on ecology
+no data available
+13. DISPOSAL CONSIDERATIONS
+Product
+This combustible material may be burned in a chemical incinerator equipped with an afterburner and scrubber.
+Observe all federal, state, and local environmental regulations. Contact a licensed professional waste disposal
+service to dispose of this material.
+Contaminated packaging
+Dispose of as unused product.
+14. TRANSPORT INFORMATION
+ADR/RID
+UN-Number: 1595 Class: 6.1 (8) Packing group: I
+Proper shipping name: DIMETHYL SULPHATE
+IMDG
+UN-Number: 1595 Class: 6.1 (8) Packing group: I EMS-No: F-A, S-B
+Proper shipping name: DIMETHYL SULPHATE
+Marine pollutant: No
+IATA
+UN-Number: 1595 Class: 6.1 (8)
+Proper shipping name: Dimethyl sulphate
+IATA Passenger: Not permitted for transport
+IATA Cargo: Not permitted for transport
+Sigma-Aldrich - D186309 www.sigma-aldrich.com Page 4 of 5
+--- PÁGINA 5 ---
+15. REGULATORY INFORMATION
+Labelling according to EC Directives
+EC Label
+Hazard symbols
+T+ Very toxic
+R-phrase(s)
+R45 May cause cancer.
+R25 Also toxic if swallowed.
+R26 Also very toxic by inhalation.
+R34 Causes burns.
+R43 May cause sensitization by skin contact.
+R68 Possible risk of irreversible effects.
+S-phrase(s)
+S53 Avoid exposure - obtain special instructions before use.
+S45 In case of accident or if you feel unwell, seek medical advice immediately (show the
+label where possible).
+Restricted to professional users.
+16. OTHER INFORMATION
+Further information
+Copyright 2009 Sigma-Aldrich Co. License granted to make unlimited paper copies for internal use only.
+The above information is believed to be correct but does not purport to be all inclusive and shall be used
+only as a guide. The information in this document is based on the present state of our knowledge and is
+applicable to the product with regard to appropriate safety precautions. It does not represent any guarantee
+of the properties of the product. Sigma-Aldrich Co., shall not be held liable for any damage resulting from
+handling or from contact with the above product. See reverse side of invoice or packing slip for additional
+terms and conditions of sale.
+Sigma-Aldrich - D186309 www.sigma-aldrich.com Page 5 of 5

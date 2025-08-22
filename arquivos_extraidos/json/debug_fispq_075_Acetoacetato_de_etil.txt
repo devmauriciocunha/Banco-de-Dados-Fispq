@@ -1,0 +1,133 @@
+--- PÁGINA 1 ---
+Ficha de Informação de Produto Químico
+IDENTIFICAÇÍO Help
+Número ONU Nome do produto Rótulo de risco
+ACETOACETATO DE ETILA
+Número de risco Classe / Subclasse
+- -
+Sinônimos
+ÁCIDO ACETOACÉTICO, ETIL ÉSTER ; ÉSTER ACETOACÉTICO ; ÉSTER DIACÉTICO ; ETIL 3 - OXOBUTANOATO.
+Aparência
+LÍQUIDO ; SEM COLORAÇÍO ; ODOR AGRADÁVEL DE FRUTA ; MISTURA COM ÁGUA.
+Fórmula molecular Família química
+C6 H10 O3 ÉSTER
+Fabricantes
+Para informações atualizadas recomenda-se a consulta às seguintes instituições ou referências:
+ABIQUIM - Associação Brasileira da Indústria Química : Fone 0800-118270
+ANDEF - Associação Nacional de Defesa Vegetal: Fone (11) 3081-5033
+Revista Química e Derivados - Guia geral de produtos químicos, Editora QD: Fone (11) 3826-6899
+Programa Agrofit - Ministério da Agricultura
+MEDIDAS DE SEGURANÇA Help
+Medidas preventivas imediatas
+MANTER AS PESSOAS AFASTADAS. CHAMAR OS BOMBEIROS. PARAR O VAZAMENTO, SE POSSÍVEL. ISOLAR E REMOVER O
+MATERIAL DERRAMADO.
+Equipamentos de Proteção Individual (EPI)
+USAR LUVAS, BOTAS DE NEOPRENE E MÁSCARA FACIAL PANORAMA COM FILTRO CONTRA VAPORES ORGÂNICOS.
+RISCOS AO FOGO Help
+Ações a serem tomadas quando o produto entra em combustão
+COMBUSTÍVEL. EXTINGUIR COM PÓ QUÍMICO SECO, ESPUMA DE ÁLCOOL OU DIÓXIDO DE CARBONO.
+Comportamento do produto no fogo
+NÍO PERTINENTE.
+Produtos perigosos da reação de combustão
+NÍO PERTINENTE.
+Agentes de extinção que não podem ser usados
+A ÁGUA PODE SER INEFICAZ NO FOGO.
+Limites de inflamabilidade no ar
+Limite Superior: 9,5%
+Limite Inferior: 1,4%
+Ponto de fulgor
+80,1°C(V.ABERTO);57,3°C (V.FECHADO)
+Temperatura de ignição
+295°C
+Taxa de queima
+2,4 mm/min
+Taxa de evaporação (éter=1)
+158,0
+NFPA (National Fire Protection Association)
+Perigo de Saúde (Azul): 2
+Inflamabilidade (Vermelho): 2
+Reatividade (Amarelo): 0
+PROPRIEDADES FÍSICO-QUÍMICAS E AMBIENTAIS Help
+Peso molecular Ponto de ebulição (°C) Ponto de fusão (°C)
+130,1 184 -45
+--- PÁGINA 2 ---
+Temperatura crítica (°C) Pressão crítica (atm) Densidade relativa do vapor
+NÍO PERTINENTE NÍO PERTINENTE 4,48
+Densidade relativa do líquido (ou Pressão de vapor Calor latente de vaporização (cal/g)
+sólido) 1 mm Hg A 28,5°C 91
+1,028 A 20°C (LÍQ.)
+Calor de combustão (cal/g) Viscosidade (cP)
+-5.194 DADO NÍO DISPONÍVEL
+Solubilidade na água pH
+13 g/100 mL DE ÁGUA A 17°C 3,8-125g/L
+Reatividade química com água
+NÍO REAGE.
+Reatividade química com materiais comuns
+NÍO REAGE.
+Polimerização
+NÍO OCORRE.
+Reatividade química com outros materiais
+DADO NÍO DISPONÍVEL.
+Degradabilidade
+DADO NÍO DISPONÍVEL.
+Potencial de concentração na cadeia alimentar
+NENHUM.
+Demanda bioquímica de oxigênio (DBO)
+DADO NÍO DISPONÍVEL.
+Neutralização e disposição final
+O MATERIAL É COMBUSTÍVEL E DEVE SER QUEIMADO EM UM INCINERADOR QUÍMICO COM PÓS-QUEIMADOR E LAVADOR DE
+GASES. A INCINERAÇÍO SERÁ MAIS FÁCIL MISTURANDO-SE O PRODUTO COM UM SOLVENTE MAIS INFLAMÁVEL.
+RECOMENDA-SE O ACOMPANHAMENTO POR UM ESPECIALISTA DO ÓRGÍO AMBIENTAL.
+INFORMAÇÕES ECOTOXICOLÓGICAS Help
+Toxicidade - limites e padrões
+L.P.O.: DADO NÍO DISPONÍVEL
+P.P.: NÍO ESTABELECIDO
+IDLH: DADO NÍO DISPONÍVEL
+LT: Brasil - Valor Médio 48h: DADO NÍO DISPONÍVEL
+LT: Brasil - Valor Teto: DADO NÍO DISPONÍVEL
+LT: EUA - TWA: NÍO ESTABELECIDO
+LT: EUA - STEL: NÍO ESTABELECIDO
+Toxicidade ao homem e animais superiores (vertebrados)
+M.D.T.: DADO NÍO DISPONÍVEL
+M.C.T.: DADO NÍO DISPONÍVEL
+Toxicidade: Espécie: RATO
+Via Oral (DL 50): 3.980 mg/kg
+Toxicidade: Espécie: CAMUNDONGO
+Toxicidade: Espécie: OUTROS
+Via Cutânea (DL 50): (OBS. 1)
+Toxicidade aos organismos aquáticos: PEIXES : Espécie
+Toxicidade aos organismos aquáticos: CRUSTÁCEOS : Espécie
+Toxicidade aos organismos aquáticos: ALGAS : Espécie
+Toxicidade a outros organismos: BACTÉRIAS
+Toxicidade a outros organismos: MUTAGENICIDADE
+Toxicidade a outros organismos: OUTROS
+Informações sobre intoxicação humana
+MANTER AS PESSOAS AFASTADAS. CHAMAR OS BOMBEIROS. PARAR O VAZAMENTO, SE POSSÍVEL. ISOLAR E REMOVER O
+MATERIAL DERRAMADO.
+--- PÁGINA 3 ---
+Tipo de contato Síndrome tóxica Tratamento
+LÍQUIDO IRRITANTE PARA A PELE. IRRITANTE REMOVER ROUPAS E SAPATOS
+PARA OS OLHOS. PREJUDICIAL, SE CONTAMINADOS E ENXAGUAR COM MUITA
+INGERIDO. ÁGUA. MANTER AS PÁLPEBRAS ABERTAS E
+ENXAGUAR COM MUITA ÁGUA.
+Tipo de contato Síndrome tóxica Tratamento
+DADOS GERAIS Help
+Temperatura e armazenamento
+AMBIENTE.
+Ventilação para transporte
+ABERTA.
+Estabilidade durante o transporte
+ESTÁVEL.
+Usos
+FABRICAÇÍO DE PRODUTOS FARMACÊUTICOS, PERFUMES, TINTAS, LACAS, RESINAS SINTÉTICAS E CORANTES.
+Grau de pureza
+98%
+Radioatividade
+NÍO TEM.
+Método de coleta
+DADO NÍO DISPONÍVEL.
+Código NAS (National Academy of Sciences)
+NÍO LISTADO
+OBSERVAÇÕES Help
+1) COELHO: IRRITAÇÍO AOS OLHOS: 23 mg IRRITAÇÍO SUAVE A PELE: 510 mg (AR LIVRE) POTENCIAL DE IONIZAÇÍO (PI)
+= DADO NÍO DISPONÍVEL

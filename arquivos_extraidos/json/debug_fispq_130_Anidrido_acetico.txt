@@ -1,0 +1,150 @@
+--- PÁGINA 1 ---
+Ficha de Informação de Produto Químico
+IDENTIFICAÇÍO Help
+Número ONU Nome do produto Rótulo de risco
+1715 ANIDRIDO ACÉTICO
+Número de risco Classe / Subclasse
+83 8
+Sinônimos
+ANIDRO ETANÓICO
+Aparência
+LÍQUIDO AQUOSO ; SEM COLORAÇÍO ; ODOR FORTE DE VINAGRE ; AFUNDA E REAGE, LENTAMENTE, COM ÁGUA ; PRODUZ
+VAPORES IRRITANTES.
+Fórmula molecular Família química
+C4 H6 O3 ANIDRIDO ORGÂNICO
+Fabricantes
+Para informações atualizadas recomenda-se a consulta às seguintes instituições ou referências:
+ABIQUIM - Associação Brasileira da Indústria Química : Fone 0800-118270
+ANDEF - Associação Nacional de Defesa Vegetal: Fone (11) 3081-5033
+Revista Química e Derivados - Guia geral de produtos químicos, Editora QD: Fone (11) 3826-6899
+Programa Agrofit - Ministério da Agricultura
+MEDIDAS DE SEGURANÇA Help
+Medidas preventivas imediatas
+EVITAR CONTATO COM O LÍQUIDO E O VAPOR. MANTER AS PESSOAS AFASTADAS. CHAMAR OS BOMBEIROS. PARAR O
+VAZAMENTO, SE POSSÍVEL. ISOLAR E REMOVER O MATERIAL DERRAMADO.
+Equipamentos de Proteção Individual (EPI)
+USAR LUVAS, BOTAS E ROUPAS DE BORRACHA BUTÍLICA, PVC OU VITON E MÁSCARA DE RESPIRAÇÍO AUTÔNOMA.
+RISCOS AO FOGO Help
+Ações a serem tomadas quando o produto entra em combustão
+EXTINGUIR COM ÁGUA, PÓ QUÍMICO SECO, ESPUMA DE ÁLCOOL OU DIÓXIDO DE CARBONO. ESFRIAR OS RECIPIENTES
+EXPOSTOS COM ÁGUA. COMBATER O FOGO A UMA DISTÂNCIA SEGURA OU ATRÁS DE BARREIRAS.
+Comportamento do produto no fogo
+O VAPOR PODE EXPLODIR SE A IGNIÇÍO FOR EM ÁREA FECHADA.
+Produtos perigosos da reação de combustão
+PRODUZ VAPOR IRRITANTE QUANDO AQUECIDO.
+Agentes de extinção que não podem ser usados
+( OBS.1)
+Limites de inflamabilidade no ar
+Limite Superior: 10 %
+Limite Inferior: 2,7 %
+Ponto de fulgor
+48,9°C(V.FECHADO); 57,8°C(V.ABERTO)
+Temperatura de ignição
+315,81°C
+Taxa de queima
+3,3 mm/min
+Taxa de evaporação (éter=1)
+17,4
+NFPA (National Fire Protection Association)
+Perigo de Saúde (Azul): 3
+Inflamabilidade (Vermelho): 2
+Reatividade (Amarelo): 1
+--- PÁGINA 2 ---
+PROPRIEDADES FÍSICO-QUÍMICAS E AMBIENTAIS Help
+Peso molecular Ponto de ebulição (°C) Ponto de fusão (°C)
+102,09 139 -73
+Temperatura crítica (°C) Pressão crítica (atm) Densidade relativa do vapor
+296 46,2 NÍO PERTINENTE
+Densidade relativa do líquido (ou Pressão de vapor Calor latente de vaporização (cal/g)
+sólido) 5 mm Hg A 24,8°C 66,2
+1,083 A 20°C ( LÍQ. )
+Calor de combustão (cal/g) Viscosidade (cP)
+-3921 0,9
+Solubilidade na água pH
+(OBS.2)
+Reatividade química com água
+REAGE LENTAMENTE; QUANDO É USADO PULVERIZADOR DE ÁGUA LIBERA CONSIDERÁVEL CALOR.
+Reatividade química com materiais comuns
+CORRÓI FERRO, AÇO E OUTROS MATERIAIS.
+Polimerização
+NÍO OCORRE.
+Reatividade química com outros materiais
+INCOMPATÍVEL COM ÁGUA, ÁLCOOIS, OXIDANTES FORTES, ÁCIDO CRÔMICO, AMINAS, BASES FORTES.
+Degradabilidade
+DADO NÍO DISPONÍVEL.
+Potencial de concentração na cadeia alimentar
+NENHUM NOTADO.
+Demanda bioquímica de oxigênio (DBO)
+53 % , 1 - 5 DIAS.
+Neutralização e disposição final
+O MATERIAL É COMBUSTÍVEL E DEVE SER QUEIMADO EM UM INCINERADOR QUÍMICO, EQUIPADO COM PÓS-QUEIMADOR E
+LAVADOR DE GASES. RECOMENDA-SE O ACOMPANHAMENTO POR UM ESPECIALISTA DO ÓRGÍO AMBIENTAL.
+INFORMAÇÕES ECOTOXICOLÓGICAS Help
+Toxicidade - limites e padrões
+L.P.O.: 0,14 ppm
+P.P.: NÍO ESTABELECIDO
+IDLH: 200 ppm
+LT: Brasil - Valor Médio 48h: DADO NÍO DISPONÍVEL
+LT: Brasil - Valor Teto: DADO NÍO DISPONÍVEL
+LT: EUA - TWA: 5 ppm
+LT: EUA - STEL: NÍO ESTABELECIDO
+Toxicidade ao homem e animais superiores (vertebrados)
+M.D.T.: DADO NÍO DISPONÍVEL
+M.C.T.: DADO NÍO DISPONÍVEL
+Toxicidade: Espécie: RATO
+Via Respiração (CL50): LCLo ( 4 h ) = 1.000 mg/L
+Via Oral (DL 50): LCLo = 1.780 mg/kg; 1.780 mg/kg
+Toxicidade: Espécie: CAMUNDONGO
+Toxicidade: Espécie: OUTROS
+Via Cutânea (DL 50): COELHO : 4.000 mg/kg
+Toxicidade aos organismos aquáticos: PEIXES : Espécie
+LEPOMIS MACROCHIRUS : TLm (96 h) = 75 ppm - ÁGUA CONTINENTAL
+Toxicidade aos organismos aquáticos: CRUSTÁCEOS : Espécie
+CAMARÍO MARINHO : CL50 ( 48 h ) = 100 ppm - 300 ppm/48 h ( ESPÉCIE NÍO DETERMINADA )
+Toxicidade aos organismos aquáticos: ALGAS : Espécie
+CHLORELLA PYRENOIDOSA = TÓXICO A 360 mg/L; L. tox. T.I.M.C. SCENEDESMUS QUADRICAUDA = 3.400 mg/L
+Toxicidade a outros organismos: BACTÉRIAS
+L. tox. T.I.M.C. PSEUDOMONAS PUTIDA = 1.150 mg/L
+Toxicidade a outros organismos: MUTAGENICIDADE
+Toxicidade a outros organismos: OUTROS
+--- PÁGINA 3 ---
+Informações sobre intoxicação humana
+EVITAR CONTATO COM O LÍQUIDO E O VAPOR. MANTER AS PESSOAS AFASTADAS. CHAMAR OS BOMBEIROS. PARAR O
+VAZAMENTO, SE POSSÍVEL. ISOLAR E REMOVER O MATERIAL DERRAMADO.
+Tipo de contato Síndrome tóxica Tratamento
+VAPOR IRRITANTE PARA O NARIZ E GARGANTA. MOVER PARA O AR FRESCO. SE A
+SE INALADO, CAUSARÁ NÁUSEA, VÔMITO RESPIRAÇÍO FOR DIFICULTADA OU PARAR
+E DIFICULDADE RESPIRATÓRIA. DAR OXIGÊNIO OU FAZER RESPIRAÇÍO
+QUEIMARÁ OS OLHOS. ARTIFICIAL. MANTER AS PÁLPEBRAS
+ABERTAS E ENXAGUAR COM MUITA ÁGUA.
+Tipo de contato Síndrome tóxica Tratamento
+LÍQUIDO PREJUDICIAL, SE INGERIDO. QUEIMARÁ MANTER AS PÁLPEBRAS ABERTAS E
+OS OLHOS. QUEIMARÁ A PELE. ENXAGUAR COM MUITA ÁGUA. REMOVER
+ROUPAS E SAPATOS CONTAMINADOS E
+ENXAGUAR COM MUITA ÁGUA.
+DADOS GERAIS Help
+Temperatura e armazenamento
+AMBIENTE.
+Ventilação para transporte
+PRESSÍO A VÁCUO.
+Estabilidade durante o transporte
+ESTÁVEL.
+Usos
+FABRICAÇÍO DE ACETATO DE VINILA, FIBRAS DE ACETATO DE CELULOSE E RESINAS, PRODUTOS FARMACÊUTICOS, TINTAS,
+PERFUME E EXPLOSIVOS.
+Grau de pureza
+99 % .
+Radioatividade
+NÍO TEM.
+Método de coleta
+DADO NÍO DISPONÍVEL.
+Código NAS (National Academy of Sciences)
+FOGO SAÚDE POLUIÇÍO DAS ÁGUAS REATIVIDADE
+Fogo: 2 Vapor Irritante: 3 Toxicidade humana: 2 Outros Produtos Químicos: 2
+Líquido/Sólido Irritante: 3 Toxicidade aquática: 1 Água: 3
+Venenos: 3 Efeito estético: 2 Auto reação: 2
+OBSERVAÇÕES Help
+1) REAGE COM ÁGUA E ESPUMA, MAS O CALOR LIBERADO NÍO É SUFICIENTE PARA CRIAR PERIGO. PÓ QUÍMICO SECO,
+LANÇADO ABAIXO DA SUPERFÍCIE, PODE CAUSAR ESPUMA E AQUECIMENTO. 2) REAGE LENTAMENTE E TORNA-SE MISCÍVEL.
+POTENCIAL DE IONIZAÇÍO (PI) = 10,0 eV TAXA DE TOXICIDADE AOS ORGANISMOS AQUÁTICOS: TLm ( 96 h ) = 10 ppm A
+100 ppm.

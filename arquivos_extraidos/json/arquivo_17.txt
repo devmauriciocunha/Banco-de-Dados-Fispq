@@ -1,0 +1,166 @@
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Nome do Produto: ACETONA
+Página: 1/4
+Data da última revisão: 01/07/2022
+1- Identificação do produto e da empresa
+- Nome do produto: ACETONA
+- Código interno de identificação do produto: A1017
+- Principais usos recomendados para a substância: Análises químicas, solvente
+- Nome da empresa: Labsynth Produtos para Laboratórios Ltda
+- Endereço: Av. Dr. Ulysses Guimarães, 3.857 – Vila Nogueira – Diadema - SP
+- Telefone para contato: (11) 4072-6100
+- Telefone para emergências: (11) 4072-6100
+- E-mail: synth@synth.com.br
+2- Identificação de perigos
+2.1 - Classificação da substância (de acordo com a ABNT NBR 14725-2):
+Inflamável, Categoria 2
+2.2 - Elementos de rotulagem (de acordo com a ABNT NBR 14725-2):
+Pictogramas de risco
+Palavras de advertência: Perigo
+Frase de perigo: H225 – Líquido e vapores altamente inflamáveis
+Frases de precaução:
+P210 – Mantenha afastado do calor / faíscas / superfícies quentes. Não fume.
+P233 – Mantenha o recipiente hermeticamente fechado
+P240 – Aterre o vaso contentor e o receptor do produto durante transferências
+P241 – Utilize equipamento de ventilação
+P242 – Utilize apenas ferramentas antifaiscantes
+P243 – Evite o acúmulo de cargas eletrostáticas
+P280 – Use equipamentos de proteção individual
+P303+P361+P353 – Em caso de contato com a pele: retire imediatamente toda a roupa contaminada. Enxágue a pele com a água
+P370+P378 – Em caso de incêndio: Para a extinção utilize: CO2, espuma
+P403 + P235 – Armazene em local bem ventilado. Mantenha em local fresco
+P501 – Descarte o conteúdo / recipiente em instalação aprovada de destruição de resíduos
+2.3 - Outros Perigos que não resultam em uma classificação: Não disponível
+3- Composição e informações sobre os ingredientes
+3.1 - Substância:
+- Nome químico ou comum: Acetona
+- Sinônimo: Dimetilcetona, cetona propano, propanona
+- Número de registro CAS: 67-64-1
+- Impurezas que contribuam para o perigo: Não disponível
+4- Medidas de primeiros socorros
+4.1 - Medidas de primeiros socorros:
+Av. Dr. Ulysses Guimarães, 3857 - Vila Nogueira - Diadema - SP - CEP 09990-080 – Tel. (11) 4072-6100 - CNPJ 51.462.471/0001-52 - IE 286.056.465.111
+Site : www.labsynth.com.br e-mail : synth@synth.com.br
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Nome do Produto: ACETONA
+Página: 2/4
+Data da última revisão: 01/07/2022
+- Inalação: Remover para local ventilado. Em caso de respiração irregular, inalação de oxigênio. Procurar um médico.
+- Contato com a pele: Remover as roupas contaminadas e lavar o local com água corrente.
+- Contato com os olhos: Lavar imediatamente com bastante água, por 15 min.. Procurar um oftalmologista.
+- Ingestão: Lavar a boca com bastante água. Evitar vômito. Ingerir água. Procurar um médico.
+4.2 - Sintomas e efeitos mais importantes: Moderadamente tóxico, severamente irritante para pele, para os olhos, mucosas e trato respiratório.
+4.3 - Notas para o médico: O tratamento emergencial assim como o tratamento médico após superexposição deve ser direcionado ao controle
+do quadro completo dos sintomas e às condições clínicas do paciente. Tratamento sintomático. Não há antídotos específicos.
+5- Medidas de combate a incêndio
+5.1 - Meios de extinção: Extinção pó químico seco, gás carbônico, ou espuma mecânica, solventes polares.
+5.2 - Perigos específicos da substância: Os vapores são mais pesados do que o ar e pode provocar-se para fontes de ignição mesmo a uma
+distância considerável. Pode haver aumento da pressão interna dos recipientes e reservatórios expostos ao fogo ou calor, com risco de
+explosão.
+5.3 - Medidas de proteção da equipe de combate a incêndio: Utilizar equipamento de proteção individual e equipamento de proteção
+respiratória autônoma
+6- Medidas de controle para derramamento ou vazamento
+6.1 - Precauções pessoais, equipamento de proteção e procedimentos de emergência
+6.1.1 - Para o pessoal que não faz parte dos serviços de emergência: Evitar o contato com o produto. Não inalar os vapores.
+6.1.2- Para o pessoal do serviço de emergência: Utilizar equipamento de proteção individual e equipamento de proteção respiratória
+autônoma
+6.2 - Precaução ao meio ambiente: Não enviar o produto para redes de águas residuais
+6.3 - Métodos e materiais para a contenção e limpeza: Absorver com agente higroscópico. Recolher o resíduo para limpeza posterior.
+7- Manuseio e armazenamento
+7.1 - Precauções para o manuseio seguro: Manipular o produto respeitando as regras gerais de segurança
+7.2 - Condições de armazenamento seguro, incluindo qualquer incompatibilidade: Manter as embalagens bem fechadas, local seco e
+limpo. Temperatura ambiente. Afastar de fontes de ignição.
+8- Controle de exposição e proteção individual
+8.1 - Parâmetros de controle: Limites de Exposição TLV - ACGIH: TWA: 250 ppm / STEL: 500ppm
+8.2 - Medidas de controle de engenharia: Utilização dos EPI’s recomendados durante o manuseio do produto, prover exaustão dos vapores
+na sua fonte de emissão, bem como a ventilação geral dos locais.
+8.3 - Medidas de proteção pessoal:
+- Proteção dos olhos/face: Óculos de segurança
+- Proteção da pele: Luvas de proteção
+- Proteção respiratória: Máscara para solventes orgânicos
+- Perigos térmicos: Não disponível
+9- Propriedades físico-químicas
+- Aspecto: Líquido límpido, incolor
+Av. Dr. Ulysses Guimarães, 3857 - Vila Nogueira - Diadema - SP - CEP 09990-080 – Tel. (11) 4072-6100 - CNPJ 51.462.471/0001-52 - IE 286.056.465.111
+Site : www.labsynth.com.br e-mail : synth@synth.com.br
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Nome do Produto: ACETONA
+Página: 3/4
+Data da última revisão: 01/07/2022
+- Odor: Próprio
+- pH: Não disponível
+- Ponto de fusão/ponto de congelamento: Não disponível
+- Ponto de fusão: Não disponível
+- Ponto de ebulição inicial e faixa de temperatura de ebulição: 56,2°C à 760 mmHg / 55,6 – 56,6 à 760 mmHg
+- Ponto de fulgor: -18°C (vaso fechado)
+- Taxa de evaporação: < 1 (acetato de butila = 1)
+- Inflamabilidade: Não disponível
+- Limite inferior/superior de inflamabilidade ou explosividade: Inferior (LIE): 2,6 % v/v / Superior (LSE): 12,8% v/v
+- Pressão de vapor: 26,7KPa à 22,7ºC
+- Densidade de vapor: ( ar = 1 ): 2,0
+- Densidade: 0,790
+- Solubilidade: em água, etanol, éter
+- Coeficiente de partição – n-octanol/água: -0,24 (log POE) à 20°C
+- Temperatura de auto-ignição: 538°C
+- Temperatura de decomposição: Não disponível
+- Viscosidade: 0,33mPa.s à 20ºC
+10- Estabilidade e reatividade
+10.1 - Estabilidade química: Estável
+10.2 - Reatividade: Não disponível
+10.3 - Possibilidade de reações perigosas: Reage com ácido nítrico e oxidante fortes
+10.4 - Condições a serem evitadas: Manter longe do calor e faíscas elétricas.
+10.5 - Materiais incompatíveis: Materiais oxidantes
+10.6 - Produtos perigosos da decomposição: Dióxido de carbono e monóxido de carbono
+11- Informações toxicológicas
+- Toxicidade aguda: LD50 (oral,rato): 5800 mg/kg
+- Corrosão / irritação da pele: Irritação da pele
+- Lesões oculares graves / irritação ocular: Irritação
+- Sensibilização respiratória ou à pele: Não disponível
+- Mutagenicidade em células germinativas: Não disponível
+- Carcinogenicidade: Carcinogênese: ACGIH (2001) classe A4: não classificável com cancerígeno para o humano.
+- Toxicidade à reprodução: Não disponível
+- Toxicidade para órgãos - alvo específico – exposição única: Não disponível
+- Toxicidade para órgãos - alvo específico – exposição repetida: Não disponível
+Av. Dr. Ulysses Guimarães, 3857 - Vila Nogueira - Diadema - SP - CEP 09990-080 – Tel. (11) 4072-6100 - CNPJ 51.462.471/0001-52 - IE 286.056.465.111
+Site : www.labsynth.com.br e-mail : synth@synth.com.br
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Nome do Produto: ACETONA
+Página: 4/4
+Data da última revisão: 01/07/2022
+- Perigo por aspiração: Não disponível
+12- Informações ecológicas
+12.1 - Ecotoxicidade: Efeitos ecológicos: Toxicidade em peixes: Onchorhyunchus mykiss LC50: 5540 mg / l / 96h
+12.2 - Persistência e degradabilidade: Biodegradação: 91% / 28 d. Facilmente biodegradável
+12.3 - Potencial bioacumulativo: Não se prevê qualquer bioacumulação.
+12.4 - Mobilidade no solo: Pode volatilizar-se a partir de solos secos e úmidos, e da superfície da água. O produto infiltra-se facilmente no
+solo
+12.5 - Outros efeitos adversos: Não disponível
+13- Considerações sobre tratamento e disposição
+13.1 - Métodos recomendados para destinação final:
+- Produto: Seguir as normas locais do controle do meio ambiente ou incinerar
+- Restos de produtos: Recolher e armazenar adequadamente o produto derramado para posterior reutilização ou incineração
+- Embalagem usada: Devem ser eliminadas de acordo com as normas locais do controle do meio ambiente ou incinerar.
+14- Informações sobre transporte
+14.1 - Regulamentações nacionais e internacionais:
+- Terrestre: Agência Nacional de Transporte Terrestre (ANTT)
+- Marítimo: Código IMDG: 1090
+- Aéreo: Código IATA: 1090
+14.2 - Para produto classificado como perigoso para o transporte:
+- Número ONU: 1090
+- Nome apropriado para embarque: ACETONA
+- Classe/subclasse de risco principal e subsidiário: 3
+- Número de risco: 33
+- Grupo de embalagem: II
+- Perigo ao meio ambiente: O produto infiltra-se facilmente no solo
+15- Informações sobre regulamentações
+15.1 - Regulamentações específicas de segurança, saúde e meio ambiente para o produto químico:
+Produto controlado pela Polícia Federal e pela Secretaria Segurança Pública
+Produto Inflamável
+16- Outras informações
+Merck Index, 12ª ed., Nº 64
+Os dados aqui contidos, são fornecidos com boa fé e a título orientativo, baseados em literaturas correntes e conceituadas (referidas no
+informativo, sempre que possível ou quando solicitadas).
+Apesar de serem dignas de confiança, não podemos nos responsabilizar pela sua exatidão. Recomendamos, sejam feitas as devidas avaliações
+pelo usuário.
+Av. Dr. Ulysses Guimarães, 3857 - Vila Nogueira - Diadema - SP - CEP 09990-080 – Tel. (11) 4072-6100 - CNPJ 51.462.471/0001-52 - IE 286.056.465.111
+Site : www.labsynth.com.br e-mail : synth@synth.com.br

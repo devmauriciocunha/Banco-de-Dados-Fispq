@@ -1,0 +1,186 @@
+--- PÁGINA 1 ---
+FICHA DE INFORMAÇÕES SOBRE PRODUTOS QUÍMICOS
+IODO SUBLIMADO
+Rev.Set.2007 Página 1 de 5
+1 – IDENTIFICAÇÍO DO PRODUTO
+IODO SUBLIMADO
+Nome do Produto:
+Estado Físico: Sólido
+Cor: Marrom avermelhado
+Odor: Forte característico e irritante
+Número de Registro (CAS n°): 7553-56-2
+Sinônimos/ Nome internacional: Iodo
+2 – COMPOSIÇÍO E INFORMAÇÕES SOBRE OS INGREDIENTES
+• Substância: Este produto é uma substância pura.
+• Nome químico ou nome genérico: Iodo
+• Ingredientes que contribuam para o perigo: Iodo
+• Classificação e rotulagem de perigo: Irritante / Corrosivo
+3 – IDENTIFICAÇÍO DE PERIGOS
+• Principais perigos: Substância corrosiva. Causa irritação e queimaduras em toda área de contato atingida. Pode causar a morte se
+inalado ou ingerido. O contato com substâncias incompatíveis pode causar incêndio.
+• Efeitos do produto:
+Efeitos adversos à saúde humana:
+- Inalação: Por inalação causa irritação do trato respiratório, queimação nas mucosas e membranas respiratórias, rinite, rouquidão, dor de
+cabeça e falta de ar. A inalação dos vapores concentrados pode causar a morte.
+- Ingestão: Por ingestão causa queimaduras severas na boca, garganta e estômago, dor abdominal, diarréia, febre, vômito e estado de
+choque. A ingestão em grande quantidade pode causar a morte.
+- Contato com a pele: Causa queimaduras, bolhas, irritação e dor.
+- Contato com os olhos: Causa irritação severa e danos à visão. O contato com os olhos pode causar danos irreversíveis.
+Perigos específicos: Pessoas com doenças cutâneas, problemas visuais, respiratório, de tireóide ou pulmão são mais susceptíveis aos
+efeitos da substância.
+• Classificação do produto químico: Produto corrosivo.
+4 – MEDIDAS DE PRIMEIROS SOCORROS
+• Medidas de primeiros socorros:
+Inalação: Remova a vítima para local arejado, mantendo-a deitada, quieta e aquecida. Manter as vias respiratórias livres, removendo dentes
+postiços (chapa), se tiver. Ministrar respiração artificial, se necessário. Administrar oxigênio e manobras de ressuscitação se necessário.
+Chamar/encaminhar ao médico.
+Contato com a pele: Remover roupas contaminadas. Não apalpar nem friccionar as partes atingidas. Lavar com água corrente abundante
+por 15 minutos (mínimo). Chamar/encaminhar ao médico se necessário. Manchas de iodo na pele podem ser removidas lavando
+imediatamente a área atingida com solução de tiossulfato de sódio 5%.
+Contato com os olhos: Lavar com água corrente no mínimo por 15 minutos, manter as pálpebras abertas. Remova lentes de contato, se
+tiver. Encaminhar ao médico.
+Ingestão: Se a vítima estiver consciente, ingerir de 2 a 4 copos de água ou leite e induzir o vômito. Ministrar respiração artificial, se
+necessário. Chamar/encaminhar ao médico.
+--- PÁGINA 2 ---
+FICHA DE INFORMAÇÕES SOBRE PRODUTOS QUÍMICOS
+IODO SUBLIMADO
+Rev.Set.2007 Página 2 de 5
+• Ações a serem evitadas: Não administrar nada via oral ou provocar o vômito em vítima inconsciente ou com convulsão. Não fazer
+respiração boca a boca caso a vítima tenha ingerido ou inalado o produto. Para estes casos, utilizar máscara ou outro sistema de respiração
+mecânica adequado.
+• Notas para o médico: Pode acumular na glândula tireóide. A dose fatal para ser humano é de 2 a 4 gramas ingeridas.
+5 – MEDIDAS DE COMBATE À INCÊNDIO
+• Meios de extinção apropriados:
+Incêndio de pequenas proporções: Utilizar pó químico, CO ou neblina de água para extinguir o fogo.
+2
+Incêndio de grandes proporções: Utilizar neblina de água para extinguir o fogo.
+• Meios de extinção contra indicados: Jato de água.
+• Perigos específicos: Se aquecido na presença de agentes redutores ou combustíveis, pode causar incêndio. Em contato com
+substâncias incompatíveis, pode causar combustão extremamente violenta.
+• Métodos específicos: Evacue a área e combata o fogo a uma distância segura. Utilize diques para conter a água usada no combate.
+Posicionar-se de costas para o vento. Usar água em forma de neblina para resfriar equipamentos expostos nas proximidades do fogo.
+• Equipamentos de proteção especial para combate ao fogo: Utilizar aparelhos de proteção de respiração independente do ar e roupas
+de aproximação/proteção a temperaturas elevadas.
+6 – MEDIDAS DE CONTROLE PARA DERRAMAMENTO/VAZAMENTO
+• Precauções pessoais: Vestir equipamento de proteção pessoal. Colocar as pessoas em segurança. Evitar contato com os olhos e pele.
+Evitar a inalação de névoas/vapores. Evite o contato direto com o produto.
+Remoção de fontes de ignição: Evitar o contato com substâncias incompatíveis.
+Controle de poeira: Nenhum mecanismo de contenção torna-se necessário, pois o produto não gera quantidade de poeira significativa no
+ambiente.
+• Precauções ao meio ambiente: Isolar a área de modo a restringir a dispersão do produto no meio ambiente.
+• Métodos de limpeza: Usar equipamento de proteção individual (EPI) adequado, estancar o vazamento se possível, isolar e sinalizar o
+local, recolher o máximo de produto em recipientes adequados e rotulados, cobrir o local do vazamento com um excesso de agente redutor
+(tiossulfato de sódio, bissulfato ou sais de ferro em 3,0 mol/L de ácido sulfúrico) e por fim neutralizar com soda. Dispor os resíduos conforme
+especificado pelo Órgão de Controle Ambiental local.
+7 – MANIPULAÇÍO E ARMAZENAMENTO
+Manuseio
+Medidas técnicas apropriadas: Manuseie de acordo com a boa higiene industrial e prática de segurança.
+- Prevenção da exposição do trabalhador: Usar equipamento de proteção individual (luvas, óculos de segurança, máscara com filtro para
+vapores de iodo, avental, sapato e roupas apropriadas).
+- Prevenção de incêndio e explosão: Evitar contato com agentes redutores e incompatíveis (podem causar combustão extremamente
+violenta) e evitar aquecer a substância em presença de agentes redutores ou combustíveis (podem causar incêndio).
+- Precauções para manuseio seguro: Manusear o produto em local fresco, ventilado e seco.
+Orientação para manuseio seguro: Evitar contato com substâncias incompatíveis.
+--- PÁGINA 3 ---
+FICHA DE INFORMAÇÕES SOBRE PRODUTOS QUÍMICOS
+IODO SUBLIMADO
+Rev.Set.2007 Página 3 de 5
+Armazenamento
+Medidas técnicas adequadas: Conservar o recipiente firmemente fechado e em local fresco, ventilado, seco e longe da luz solar.
+Condições de armazenamento:
+- Adequadas: Local fresco, ventilado, seco e longe da luz solar.
+- A evitar: Exposição ao sol, umidade e substâncias incompatíveis
+- Produtos e materiais incompatíveis: Evitar o armazenamento próximo à amônia, metais em pó (magnésio, zinco e alumínio), metais
+alcalinos, agentes redutores, acetileno e acetaldeído.
+Materiais seguros para embalagens:
+- Recomendados: Sacos plásticos inseridos em um recipiente que proporcione resistência física ao produto (pote plástico, balde plástico e
+caixa de papelão).
+8 – CONTROLE DE EXPOSIÇÍO E PROTEÇÍO INDIVIDUAL
+• Medidas de controle de engenharia: Dispor de lava-olhos e chuveiro de emergência, bem como ventilação adequada.
+• Parâmetros de controle específicos:
+Limites de exposição ocupacional: OSHA PEL (Industrial), limite de exposição permitida 1,0 x 10-6 Kg/m3.
+• Equipamentos de proteção individual apropriado:
+Proteção respiratória: Máscara de proteção com filtro para vapores de iodo.
+Proteção das mãos: Luvas de proteção.
+Proteção dos olhos: Óculos de segurança.
+Proteção da pele e do corpo: Avental, sapato e roupas apropriadas.
+• Precauções especiais: Evitar a exposição maciça a vapores. Produtos químicos só devem ser manuseados por pessoas capacitadas e
+habilitadas. Os EPI’s devem possuir o CA (Certificado de Aprovação). Seguir rigidamente os procedimentos operacionais e de segurança
+nos trabalhos com produtos químicos. Nunca usar embalagens vazias (de produtos químicos) para armazenar produtos alimentícios. Nos
+locais onde se manipulam produtos químicos deverá ser realizado o monitoramento da exposição dos trabalhadores, conforme PPRA
+(Programa de Prevenção de Riscos Ambientais) da NR-9.
+• Medidas de higiene: Roupas, luvas, calçados, EPI’s devem ser limpos antes de sua reutilização. Use sempre para a higiene pessoal:
+água quente, sabão e cremes de limpeza. Lavar as mãos antes de ir ao banheiro, comer ou beber. Não usar gasolina, óleo diesel ou outro
+solvente derivado de petróleo para a higiene pessoal. Bons procedimentos operacionais e de higiene industrial ajudam a reduzir os riscos no
+manuseio de produtos químicos.
+9 – PROPRIEDADES FÍSICAS E QUÍMICAS
+• Estado físico: Sólido.
+• Cor: Marrom avermelhado.
+• Odor: Forte característico e irritante.
+• pH (solução saturada): 5,4
+• Temperaturas específicas ou faixas de temperatura nas quais ocorrem mudanças de estado físico:
+Ponto de ebulição: 184 °C (457 K ; 363 F)
+Ponto de fusão: 114 °C ( 387 K ; 237 F)
+Ponto de fulgor: Não disponível
+• Limites de explosividade:
+LEI: (limite de exposividade inferior): Não disponível
+LES: (limite de explosividade superior): Não disponível
+• Pressão de vapor (20 °C): 0,3 mmHg
+• Densidade do vapor: 8.800 Kg/m3
+• Densidade: 4.980 Kg/m3
+--- PÁGINA 4 ---
+FICHA DE INFORMAÇÕES SOBRE PRODUTOS QUÍMICOS
+IODO SUBLIMADO
+Rev.Set.2007 Página 4 de 5
+• Solubilidade em água (25 °C): 0,3 Kg/m3
+10 – ESTABILIDADE E REATIVIDADE
+• Condições específicas:
+Reações perigosas: Reage violentamente com acetaldeído e acetileno. Reage com hidróxido de amônio formando iodetos que são
+sensíveis ao choque quando secos, podendo causar explosão.
+• Condição a evitar: Luz solar, calor e má ventilação.
+• Materiais ou substâncias incompatíveis: Amônia, metais em pó (magnésio, zinco e alumínio), metais alcalinos, agentes redutores,
+acetileno e acetaldeído.
+• Produtos perigosos de decomposição: Gases e vapores tóxicos quando em contato com o fogo.
+11 – INFORMAÇÕES TOXICOLÓGICAS
+• Informações de acordo com as diferentes vias de exposição:
+Toxicidade aguda:
+Oral ratos LD50: 0,014 g/Kg
+Oral humanos LDL0: 0,028 g/Kg
+Efeitos locais:
+- Inalação: Por inalação causa irritação do trato respiratório, queimação nas mucosas e membranas respiratórias, rinite, rouquidão, dor de
+cabeça e falta de ar. A inalação dos vapores concentrados pode causar a morte.
+- Ingestão: Por ingestão causa queimaduras severas na boca, garganta e estômago, dor abdominal, diarréia, febre, vômito e estado de
+choque. A ingestão em grande quantidade pode causar a morte.
+- Contato com a pele: Causa queimaduras, bolhas, irritação e dor.
+- Contato com os olhos: Causa irritação severa e danos à visão. O contato com os olhos pode causar danos irreversíveis.
+Toxicidade Crônica: A exposição crônica oral causa insônia, conjuntivite, inflamação da mucosa nasal, bronquite, tremores, aceleração
+cardíaca, diarréia e perda de peso.
+12 – INFORMAÇÕES ECOLÓGICAS E ECOTOXICOLÓGICAS
+• Efeitos ambientais, comportamento e impactos do produto:
+Ecotoxicidade: Peixe, LC50: 0,0285 g/Kg
+13 – CONSIDERAÇÕES SOBRE TRATAMENTO E DISPOSIÇÍO
+• Método de tratamento e disposição:
+Produto: Sempre que possível o produto deverá ser recuperado, quando não for possível deverá ser disposto conforme especificado pelo
+Órgão de Controle Ambiental local.
+Resíduo do produto: Deverá ser disposto conforme especificado pelo Órgão de Controle Ambiental local
+Embalagens contaminadas: Deverão ser dispostos conforme especificado pelo Órgão de Controle Ambiental local.
+--- PÁGINA 5 ---
+FICHA DE INFORMAÇÕES SOBRE PRODUTOS QUÍMICOS
+IODO SUBLIMADO
+Rev.Set.2007 Página 5 de 5
+14 – INFORMAÇÕES SOBRE TRANSPORTE
+• Regulamentações nacionais e internacionais: Produto perigoso para o transporte.
+Transporte rodoviário no Brasil:
+- Número ONU: 1759
+- Nome apropriado para embarque: Sólido corrosivo não especificado.
+- Classe de risco/divisão: 8
+- Número de risco: Não especificado
+- Risco subsidiário: Não especificado
+15 - REGULAMENTAÇÕES
+• Informações sobre riscos e segurança: Substância corrosiva. Pode ser fatal se inalado ou ingerido. Não armazenar próximo a
+substâncias incompatíveis e combustíveis. Manter em recipiente fechado.
+16 – OUTRAS INFORMAÇÕES
+As informações contidas nesta FISPQ são oferecidas com boa fé e como instrumento de orientação, sem que incorra em responsabilidade
+expressa ou implícita. Para sua elaboração, foram utilizadas fontes externas à nossa empresa, por isso acreditamos que as informações
+sejam corretas, embora não possamos garantir sua exatidão e totalidade. Caso haja necessidade de esclarecimentos ou informações
+adicionais, consulte o fabricante.

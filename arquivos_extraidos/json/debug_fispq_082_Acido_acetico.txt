@@ -1,0 +1,159 @@
+--- PÁGINA 1 ---
+Ficha de Informação de Produto Químico
+IDENTIFICAÇÍO Help
+Número ONU Nome do produto Rótulo de risco
+2790 ÁCIDO ACÉTICO
+Número de risco Classe / Subclasse
+- 8
+Sinônimos
+ÁCIDO ETANÓICO ; ÁCIDO DE VINAGRE.
+Aparência
+LÍQUIDO AQUOSO ; SEM COLORAÇÍO ; ODOR FORTE DE VINAGRE ; AFUNDA E MISTURA COM ÁGUA ; PRODUZ VAPORES
+IRRITANTES.
+Fórmula molecular Família química
+C2 H4 O2 ÁCIDO ORGÂNICO
+Fabricantes
+Para informações atualizadas recomenda-se a consulta às seguintes instituições ou referências:
+ABIQUIM - Associação Brasileira da Indústria Química : Fone 0800-118270
+ANDEF - Associação Nacional de Defesa Vegetal: Fone (11) 3081-5033
+Revista Química e Derivados - Guia geral de produtos químicos, Editora QD: Fone (11) 3826-6899
+Programa Agrofit - Ministério da Agricultura
+MEDIDAS DE SEGURANÇA Help
+Medidas preventivas imediatas
+EVITAR CONTATO COM O LÍQUIDO E O VAPOR. MANTER AS PESSOAS AFASTADAS. CHAMAR OS BOMBEIROS. PARAR O
+VAZAMENTO, SE POSSÍVEL. ISOLAR E REMOVER O MATERIAL DERRAMADO.
+Equipamentos de Proteção Individual (EPI)
+USAR LUVAS, BOTAS E ROUPAS DE BORRACHA BUTÍLICA, PVC E VITON E MÁSCARA FACIAL PANORAMA COM FILTRO CONTRA
+VAPORES ORGÂNICOS.
+RISCOS AO FOGO Help
+Ações a serem tomadas quando o produto entra em combustão
+EXTINGUIR COM ÁGUA, PÓ QUÍMICO SECO, ESPUMA DE ÁLCOOL OU DIÓXIDO DE CARBONO. ESFRIAR OS RECIPIENTES
+EXPOSTOS COM ÁGUA.
+Comportamento do produto no fogo
+O VAPOR PODE EXPLODIR SE A IGNIÇÍO FOR EM ÁREA FECHADA.
+Produtos perigosos da reação de combustão
+PRODUZ VAPORES IRRITANTES QUANDO AQUECIDO.
+Agentes de extinção que não podem ser usados
+NENHUM.
+Limites de inflamabilidade no ar
+Limite Superior: 16,0%
+Limite Inferior: 5,4%
+Ponto de fulgor
+44,5°C (V.ABERTO); 40°C (V.FECHADO)
+Temperatura de ignição
+427°C
+Taxa de queima
+1,6 mm/min
+Taxa de evaporação (éter=1)
+11,0
+NFPA (National Fire Protection Association)
+Perigo de Saúde (Azul): 3
+Inflamabilidade (Vermelho): 2
+--- PÁGINA 2 ---
+Reatividade (Amarelo): 0
+PROPRIEDADES FÍSICO-QUÍMICAS E AMBIENTAIS Help
+Peso molecular Ponto de ebulição (°C) Ponto de fusão (°C)
+60,05 117,9 16,7
+Temperatura crítica (°C) Pressão crítica (atm) Densidade relativa do vapor
+321,6 57,1 NÍO PERTINENTE
+Densidade relativa do líquido (ou Pressão de vapor Calor latente de vaporização (cal/g)
+sólido) 20 mm Hg A 29,9°C 96,7
+1,051 A 20°C (LÍQ.)
+Calor de combustão (cal/g) Viscosidade (cP)
+-3.136 1,21
+Solubilidade na água pH
+MISCÍVEL 2,9 (0,1M)
+Reatividade química com água
+NÍO REAGE.
+Reatividade química com materiais comuns
+CORROSIVO, PARTICULARMENTE QUANDO DILUÍDO; ATACA A MAIORIA DOS METAIS COMUNS, INCLUINDO A MAIORIA DOS
+AÇOS INOXIDÁVEIS; EXCELENTE SOLVENTE PARA MUITAS RESINAS SINTÉTICAS OU BORRACHA,
+Polimerização
+NÍO OCORRE.
+Reatividade química com outros materiais
+INCOMPATÍVEL COM OXIDANTES FORTES, ÁCIDO NÍTRICO, PERÓXIDO DE SÓDIO E BASES FORTES.
+Degradabilidade
+NATURALMENTE BIODEGRADÁVEL (82% DE BIODEGRADAÇÍO EM 10 DIAS EM ÁGUA DOCE ARTIFICIAL). INTERMEDIÁRIO
+NORMAL DAS REAÇÕES BIOQUÍMICAS DOS SERES VIVOS.
+Potencial de concentração na cadeia alimentar
+NENHUM NOTADO.
+Demanda bioquímica de oxigênio (DBO)
+52% - 62%, 5 DIAS.
+Neutralização e disposição final
+QUEIMAR EM UM INCINERADOR QUÍMICO, EQUIPADO COM PÓS-QUEIMADOR E LAVADOR DE GASES. RECOMENDA-SE O
+ACOMPANHAMENTO POR UM ESPECIALISTA DO ÓRGÍO AMBIENTAL.
+INFORMAÇÕES ECOTOXICOLÓGICAS Help
+Toxicidade - limites e padrões
+L.P.O.: 1,0 ppm
+P.P.: NÍO ESTABELECIDO
+IDLH: 50 ppm
+LT: Brasil - Valor Médio 48h: 8 ppm
+LT: Brasil - Valor Teto: 12 ppm
+LT: EUA - TWA: 10 ppm
+LT: EUA - STEL: 15 ppm
+Toxicidade ao homem e animais superiores (vertebrados)
+M.D.T.: TDLo 1.470 ug/kg (ORAL)
+M.C.T.: TCLo 816 ppm (3 min) (RESPIRAÇÍO)
+Toxicidade: Espécie: RATO
+Via Respiração (CL50): LCLo (4 h) = 16.000 ppm
+Via Oral (DL 50): 3.310 mg/kg
+Toxicidade: Espécie: CAMUNDONGO
+Via Respiração (CL50): (1 h) 5.000 mg/kgVia Oral (DL 50): 4.960 mg/kg
+Toxicidade: Espécie: OUTROS
+Via Respiração (CL50): COBAIA: (1 h) 5.000 ppm Via Oral (DL 50): COELHO: LDLo = 1.200 mg/kg Via Cutânea (DL 50):
+COELHO: 1.060 mg/kg
+Toxicidade aos organismos aquáticos: PEIXES : Espécie
+PIMEPHALES PROMELA: (TESTE ESTÁTICO) CL50 (96 h) = 79 mg/L;LEPOMIS sp: TLm (24 h) = 100 - 1.000 mg/L;GAMBUSIA
+AFFINIS: TLm (24 - 96 h) = 251 mg/L
+Toxicidade aos organismos aquáticos: CRUSTÁCEOS : Espécie
+ARTEMIA SALINA: TLm (24 - 98h) = 42 - 32 mg/L;DAPHNIA MAGNA: TLm (24 h) = 47 mg/L;GAMMARUS PULEX: NÍVEL DE
+PERTUBAÇÍO = 6 mg/L
+--- PÁGINA 3 ---
+Toxicidade aos organismos aquáticos: ALGAS : Espécie
+L.tox. T.I.M.C. MICROSYSTIS AERUGINOSA = 90 mg/L; L.tox. T.I.M.C. SCENEDESMUS QUADRICAUDA = 4.000 mg/L
+Toxicidade a outros organismos: BACTÉRIAS
+L.tox. T.I.M.C. PSEUDOMONAS PUTIDA = 2.850 mg/L
+Toxicidade a outros organismos: MUTAGENICIDADE
+E.COLI: "mmo" = 300 ppm (3 h); DROSOPHILA MELANOGASTER: "sln" = 1.000 ppm (24 h) (INALAÇÍO); (OBS.1)
+Toxicidade a outros organismos: OUTROS
+INSETO: CULEX sp:TLm (24 - 48) PARA A LARVA = 1.500 mg/L; L.tox. T.I.M.C. ENTOSIPHON SULCATUM = 78 mg/L
+(PROTOZOÁRIOS); (OBS. 2)
+Informações sobre intoxicação humana
+EVITAR CONTATO COM O LÍQUIDO E O VAPOR. MANTER AS PESSOAS AFASTADAS. CHAMAR OS BOMBEIROS. PARAR O
+VAZAMENTO, SE POSSÍVEL. ISOLAR E REMOVER O MATERIAL DERRAMADO.
+Tipo de contato Síndrome tóxica Tratamento
+VAPOR IRRITANTE PARA O NARIZ E A MOVER PARA O AR FRESCO. SE A
+GARGANTA. SE INALADO, CAUSARÁ RESPIRAÇÍO FOR DIFICULTADA OU
+TOSSE, NÁUSEA, VÔMITO OU PARAR, DAR OXIGÊNIO OU FAZER
+DIFICULDADE RESPIRATÓRIA. RESPIRAÇÍO ARTIFICIAL.
+Tipo de contato Síndrome tóxica Tratamento
+LÍQUIDO PREJUDICIAL, SE INGERIDO. QUEIMARÁ NÍO PROVOCAR O VÔMITO. MANTER AS
+OS OLHOS. QUEIMARÁ A PELE. PÁLPEBRAS ABERTAS E ENXAGUAR COM
+MUITA ÁGUA. REMOVER ROUPAS E
+SAPATOS CONTAMINADOS E ENXAGUAR
+COM MUITA ÁGUA.
+DADOS GERAIS Help
+Temperatura e armazenamento
+AMBIENTE.
+Ventilação para transporte
+ABERTA.
+Estabilidade durante o transporte
+ESTÁVEL.
+Usos
+FABRICAÇÍO DE ANIDRIDO ACÉTICO, ACETATOS E ÉSTERES DE ACETATOS; PRODUÇÍO DE PLÁSTICOS, PRODUTOS
+FARMACÊUTICOS E INSETICIDAS. TAMBÉM USADO COM ADITIVO DE ALIMENTOS OU COMO SOLVENTE.
+Grau de pureza
+COMERCIAL.
+Radioatividade
+NÍO TEM.
+Método de coleta
+DADO NÍO DISPONÍVEL.
+Código NAS (National Academy of Sciences)
+FOGO SAÚDE POLUIÇÍO DAS ÁGUAS REATIVIDADE
+Fogo: 2 Vapor Irritante: 2 Toxicidade humana: 2 Outros Produtos Químicos: 2
+Líquido/Sólido Irritante: 3 Toxicidade aquática: 1 Água: 0
+Venenos: 2 Efeito estético: 2 Auto reação: 0
+OBSERVAÇÕES Help
+1) MUTAÇÍO: DROSOPHILA MELANOGASTER: "sln" = 1.000 ppm (24 HORAS) (INALAÇÍO) DROSOPHILA MELANOGASTER:
+"sln" = 1.000 ppm (ORAL) 2) L.tox T.I.M.C. URONEMA PARDUCZI = 1.350 mg/L (PROTOZOÁRIO) TAXA DE TOXICIDADE AOS
+ORGANISMOS AQUÁTICOS: TLm(96 h) = 10 ppm - 100 ppm POTENCIAL DE IONIZAÇÍO (PI) = 10,66 eV

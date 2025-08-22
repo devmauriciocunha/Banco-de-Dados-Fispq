@@ -1,0 +1,196 @@
+--- PÁGINA 1 ---
+SIGMA-ALDRICH
+FICHA DE DADOS DE SEGURANÇA
+de acordo com a regulação (UE) No. 1907/2006
+Versão 3.0 Data de revisão 15.07.2007
+Data de impressão 09.06.2010
+ENERIC EU MSDS - NO COUNTRY SPECIFIC DATA - NO OEL DATA
+1. IDENTIFICAÇÍO DA SUBSTÂNCIA/PREPARAÇÍO E DA SOCIEDADE/EMPRESA
+Nome do produto : Trifluoromethanesulfonic acid
+Referência do Produto : 347817
+Marca : Aldrich
+Companhia : Sigma-Aldrich Brasil Ltda.
+Av. das Nações Unidas, 23.043
+04795-100 SÍO PAULO - SP
+BRAZIL
+Telefone : +551137323100
+Número de Fax : +551155229895
+Núnero de Telefone de :
+Emergência
+2. IDENTIFICAÇÍO DOS PERIGOS
+Precauções para o homem e para o ambiente
+Nocivo em contacto com a pele e por ingestão. Provoca queimaduras graves.
+3. COMPOSIÇÍO/INFORMAÇÍO SOBRE OS COMPONENTES
+Formula : CHF3O3S
+Peso molecular : 150,07 g/mol
+Nº CAS No. CE No. de Index Classificação Concentração [%]
+Trifluoromethanesulphonic acid
+1493-13-6 216-087-5 - C, R21/22- R35 -
+4. PRIMEIROS SOCORROS
+Recomendação geral
+Consultar um médico. Mostrar esta ficha de segurança ao médico de serviço.
+Se for inalado
+Se for respirado, levar a pessoa para o ar fresco. Se não respirar, aplicar a respiração artificial. Consultar um
+médico.
+No caso dum contacto com a pele
+Despir imediatamente a roupa e os sapatos contaminados. Lavar com sabão e muita água. Consultar um
+médico.
+No caso dum contacto com os olhos
+Lavar cuidadosamente com muita água, durante pelo menos quinze minutos, e consultar o médico.
+Se for engolido
+NÍO provocar vómitos. Nunca dar nada pela boca a uma pessoa inconsciente. Enxaguar a boca com água.
+Consultar um médico.
+Aldrich - 347817 www.sigma-aldrich.com Página 1 of 5
+--- PÁGINA 2 ---
+5. MEDIDAS DE COMBATE A INCÊNDIO
+Meios adequados de extinção
+Usar meios de extinção que sejam apropiados às circunstâncias locais e ao ambiente envolvente.
+Meios de extinção que, por razões de segurança, não devam ser utilizados
+Água
+Equipamento especial de protecção a utilizar pelo pessoal de combate a incêndio
+Usar equipamento de respiração autónomo para combate a incêndios, se necessário.
+Outras informações
+O produto não queima.
+6. MEDIDAS A TOMAR EM CASO DE FUGAS ACIDENTAIS
+Precauções individuais
+Usar equipamento de protecção individual. Evitar a respiração do vapor/névoa/gas. Assegurar ventilação
+adequada. Evacuar o pessoal para áreas de segurança.
+Precauções ambientais
+Não permitir a entrada do produto no sistema de esgotos.
+Métodos de limpeza
+Embeber em material inerte e absorvente e tratar como desperdício especial. Manter em recipientes fechados
+adequados, para eliminação.
+7. MANUSEAMENTO E ARMAZENAGEM
+Manuseamento
+Evitar o contacto com a pele e os olhos. Evitar a inalação do vapor ou da névoa.
+Armazenagem
+Armazenar em local fresco.Guardar o recipiente herméticamente fechado em lugar seco e bem ventilado. Os
+contentores abertos devem ser cuidadosamente fechados de novo e têm que ficar direitos para evitar a
+dispersão.
+Estocar sob gás inerte.
+8. CONTROLO DA EXPOSIÇÍO/PROTECÇÍO PESSOAL
+Protecção individual
+Protecção respiratória
+Nos casos em que a avaliação de risco mostrar que os respiradores purificadores do ar são apropriados,
+use um respirador de cobertura facial total com cartuchos de combinação multi-objectivos (E.U.A.) ou do
+tipo ABEK (EN 14387) como apoio a controlos de engenharia. Se o respirador for o único meio de
+protecção, usa um respirador de ar de cobertura facial total. Use respiradores e componentes testados e
+aprovados por normas governamentais apropriadas, tais como as NIOSH (E.U.A.) ou CEN (UE).
+Protecção das mãos
+Manusear com luvas. As luvas de protecção selecionadas devem satisfazer as especificações da Directiva
+da UE 89/689/CEE e o estandarte EN 374 derivado dele.
+Protecção dos olhos
+Óculos de segurança
+Protecção do corpo e da pele
+Escolher uma protecção para o corpo conforme a quantidade e a concentração das substâncias perigosas
+no lugar de trabalho.
+Medidas de higiene
+Manusear de acordo com as boas práticas industriais de higiéne e segurança. Lavar as mãos antes de
+interrupções, e no final do dia de trabalho.
+Aldrich - 347817 www.sigma-aldrich.com Página 2 of 5
+--- PÁGINA 3 ---
+9. PROPRIEDADES FÍSICAS E QUÍMICAS
+Aspecto
+Estado físico líquido
+Cor amarelo claro
+Odor acre
+Dados de segurança
+pH < 1
+Ponto de fusão -40 °C
+Ponto de ebulição 162 °C a 1.013 hPa
+Ponto de inflamação dados não disponíveis
+Temperatura de dados não disponíveis
+ignição
+Limites de explosão, dados não disponíveis
+inferior
+Limite de explosão, dados não disponíveis
+superior
+Pressão de vapor 11 hPa a 25 °C
+Densidade 1,696 g/cm3
+Hidrossolubilidade moderadamente solúvel
+Coeficiente de log Pow: -0,49
+epartição n-
+octanol/água
+Densidade do vapor 5,18
+- (Ar = 1.0)
+10. ESTABILIDADE E REACTIVIDADE
+Estabilidade em armazenamento
+Estável sob as condições recomendadas de armazenamento.
+Condições a evitar
+Exposição à humidade.
+Matérias a evitar
+Agentes oxidantes fortes, Bases fortes, Água, Metais
+Produtos de decomposição perigosos
+Produtos perigosos de decomposição formados durante os incêndios.
+Óxidos de carbono, Óxidos de enxofre, Ácido fluorídrico
+11. INFORMAÇÍO TOXICOLÓGICA
+Toxicidade aguda
+DL50 Oral - ratazana - 1.605 mg/kg
+DL50 Dérmico - ratazana - 400 - 2.000 mg/kg
+Irritação ou corrosão
+dados não disponíveis
+Sensibilização
+Aldrich - 347817 www.sigma-aldrich.com Página 3 of 5
+--- PÁGINA 4 ---
+dados não disponíveis
+Exposição crónica
+dados não disponíveis
+Efeitos potenciais sobre a saúde
+Inalação Pode ser perigoso se for inalado. O material é extremamente destrutivo para os
+tecidos das membranas mucosas e do trato respiratório superior.
+Pele Perigoso se for absorto pela pele. Causa queimaduras severas na pele.
+Olhos Causa queimaduras severas nos olhos.
+Ingestão Nocivo por ingestão. Provoca queimaduras graves.
+12. INFORMAÇÍO ECOLÓGICA
+Informação sobre eliminação (persistência e degradabilidade)
+Biodegradabilidade Resultado: - Não rapidamente biodegradável.
+Efeitos de ecotoxicidade
+Toxicidade em CL50 - Pimephales promelas (vairão gordo) - > 2.000 mg/l - 96 h
+peixes
+Informações suplementares sobre a ecologia
+dados não disponíveis
+13. CONSIDERAÇÕES RELATIVAS À ELIMINAÇÍO
+Produto
+Observar todos os regulamentos ambientais federais, estaduais e locais.Entrar em contato com um serviço
+profissional credenciado de descarte de lixo para descartar esse material.
+Embalagens contaminadas
+Eliminar como produto Não utilizado.
+14. INFORMAÇÕES RELATIVAS AO TRANSPORTE
+ADR/RID
+Número ONU: 3265 Classe: 8 Grupo de embalagem: II
+Denominação de expedição correcta: CORROSIVE LIQUID, ACIDIC, ORGANIC, N.O.S.
+(Trifluoromethanesulphonic acid)
+IMDG
+Número ONU: 3265 Classe: 8 Grupo de embalagem: II EMS-No: F-A, S-B
+Denominação de expedição correcta: CORROSIVE LIQUID, ACIDIC, ORGANIC, N.O.S.
+(Trifluoromethanesulphonic acid)
+Poluente marinho: No
+IATA
+Número ONU: 3265 Classe: 8 Grupo de embalagem: II
+Denominação de expedição correcta: Corrosive liquid, acidic, organic n.o.s. (Trifluoromethanesulphonic acid)
+15. INFORMAÇÍO SOBRE REGULAMENTAÇÍO
+Rotulado de acordo com as directivas da CE
+Símbolos de perigo
+C Corrosivo
+Aldrich - 347817 www.sigma-aldrich.com Página 4 of 5
+--- PÁGINA 5 ---
+Frase(s) - R
+R21/22 Nocivo em contacto com a pele e por ingestão.
+R35 Provoca queimaduras graves.
+Frase(s) - S
+S26 Em caso de contacto com os olhos, lavar imediata e abundantemente com água e
+consultar um especialista.
+S36/37/39 Usar vestuário de protecção, luvas e equipamento protector para os olhos/face
+adequados.
+S45 Em caso de acidente ou de indisposição, consultar imediatamente o médico (se
+possível mostrar-lhe o rótulo).
+16. OUTRAS INFORMAÇÕES
+Outras informações
+Direitos exclusivos, 2007, da Sigma-Aldrich. Permissão concedida para fazer número ilimitado de cópias
+em papel, somente para uso interno.
+Acredita-se que as informações acima estejam corretas, embora não pretendam ser totalmente
+abrangentes, devendo ser usadas apenas como um guia. A Sigma-Aldrich não deverá ter responsabilidade
+legal por quaisquer danos resultantes do manuseio ou do contato com o produto acima. Consultar o verso
+da fatura ou nota que acompanha o produto para tomar conhecimento dos termos adicionais e condições
+de venda.
+Aldrich - 347817 www.sigma-aldrich.com Página 5 of 5

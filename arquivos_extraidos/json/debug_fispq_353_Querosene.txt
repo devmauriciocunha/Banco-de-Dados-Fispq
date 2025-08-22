@@ -1,0 +1,216 @@
+--- PÁGINA 1 ---
+FICHA DE INFORMAÇÍO DE SEGURANÇA
+DE PRODUTO QUÍMICO - FISPQ
+PRODUTO : QUEROSENE
+Fispq : 01 Versão : 02 Data : fev / 06 Página 1 de 05
+1 - Identificação do Produto e da Empresa
+Nome do Produto : QUEROSENE
+Código : 8005
+Nome da Empresa : Industria e Comércio de Solventes, Tintas e Vernizes Tempo Ltda.
+Endereço : Trav. Leonor Mascarenhas, 108 – Ramos – CEP 21040 -135 - Rio de Janeiro – RJ.
+Tel.: (0xx21) 21310900 Fax : (0xx21) 21310901
+Tel. Emergência : PRÓ-QUÍMICA 0800-11-8270
+e-mail : tempo@redutortempo.com.br
+2 - Composição e Informações sobre os Ingredientes
+- Tipo de produto : Preparado
+- Natureza química : Mistura de hidrocarbonetos .
+- Ingredientes que contribuem para o perigo
+Nome Químico Nº. CAS Faixa de Símbolos Frases
+Concentração ( % ) de Risco de Risco
+MISTURA DE HIDROCARBONETOS
+ALIFÁTICOS 64742 – 82 - 1 70 - 90 F , Xn , Xi R10 , R20 / 21, R38, R63, R65
+3 - Identificação de Perigos
+- Perigos mais importantes : Produto inflamável.
+Toxidade dos vapores.
+- E feitos adversos à saúde humana
+Inalação : Pode ser tóxico, causando dor de cabeça, falta de ar, tontura e irritação no sistema respira-
+tório .
+Ingestão : Pode ser absorvida causando intoxicação exógena .
+Pele : Pode causar irritação e sensibilidade seguido de coceira e alergia no local ou dermatite de
+contato.
+Olhos : Pode causar conjuntivite química .
+4 - Medidas de Primeiros-Socorros
+Inalação : Remover a pessoa para local fresco e ventilado, mantendo-a aquecida e em repouso. Se a
+respiração for irregular ou parar, administrar respiração artificial.Se a vítima estiver incons-
+ciente não dar nada via oral, restabelecer sua consciência .Procurar atendimento médico.
+Ingestão : Não induzir ao vômito, manter a pessoa em repouso. Se a vítima estiver consciente,lavar a sua
+boca com água limpa em abundância e faze-la beber água Procurar atendimento médico.
+Pele : Remover roupas contaminadas, retirar o produto com óleo vegetal ( óleo de cozinha ), e em
+seguida lavar com água abundante e sabão. Procurar orientação médica se apresentar
+irritação
+ou outros sintomas.
+Olhos : Se a vítima estiver usando lentes de contato, removê-las.Retirar o produto com óleo vegetal
+(óleo de cozinha) e lavar com água por 15 minutos com a pálpebra levantada, verificar o
+movimento dos olhos para todas as direções. Se a vítima não tolerar luz direta, proteger o
+olho com uma bandagem. Procurar assistência médica imediata.
+NOTA :
+O tratamento emergencial deve ser direcionado ao controle do quadro completo dos sintomas e às condições clínicas do paciente.
+Tratamento sintomático . Não há antídotos específicos .
+--- PÁGINA 2 ---
+PRODUTO : QUEROSENE
+Fispq : 01 Versão : 02 Data : Fev. / 06 Página 2 de 05
+5 - Medidas de Combate a Incêndio
+Meios de extinção apropriados : Na fase inicial extinguir o fogo com pó químico seco, CO2 , espuma; caso não tenha extintor,
+usar água na forma de neblina . Usar neblina d'água para resfriar os recipientes que
+estejam
+expostos ao calor .
+Meios de extinção não apropriados: Não usar jato de água diretamente sobre o líquido que estiver queimando, pois espalhará e
+propagará o fogo .
+Perigos Específicos : O fogo pode ocasionar a emissão de gases irritantes ou venenosos .
+Proteção dos bombeiros : Proteção completa contra fogo e equipamento autônomo de proteção respiratória .
+6 - Medidas de Controle para Derramamento ou Vazamento
+- Precauções pessoais
+Remoção de fontes de ignição : Isolar a área. Manter afastadas pessoas sem função no atendimento da emergência. Sinalizar o
+perigo para o trânsito, e avisar ou mandar avisar as autoridades locais competentes.
+Eliminar
+toda fonte de fogo ou calor. Não fumar na área de risco. Isolar o derramamento ou
+vazamento
+de todas as fontes de ignição .
+Prevenção da inalação e do contato com a pele, mucosas e olhos : Utilizar equipamento de proteção individual ( EPI ) para evitar o
+contato direto com produto .
+- Precauções ao meio ambiente : Estancar o derramamento ou vazamento se isso puder ser feito sem risco . Não direcionar o
+material espalhado para canaletas, bueiros, galerias de esgoto ou cursos d’água . Caso efetuar
+o arraste com água, levar em conta o tratamento posterior da água contaminada .
+- Métodos para limpeza
+Recuperação : Recolher o produto em recipiente de emergência, devidamente identificado e bem fechado
+para posterior reciclagem ou eliminação .
+Neutralização : Não jogar água. Absorver o líquido não recuperável com terra seca, vermiculita ou outro
+material absorvente seco .
+Disposição : Não dispor em lixo comum. A disposição final desse material deverá ser acompanhada por
+especialista e de acordo com a legislação ambiental vigente .
+- NOTA :
+No caso de contaminação de águas superficiais, mananciais ou solo; contactar o órgão ambiental local .
+7 - Manuseio e Armazenagem
+- Manuseio
+Medidas Técnicas : Providenciar ventilação local exaustora onde os processos exigirem. Todos os elementos
+Condutores do sistema em contato devem ser aterrados eletricamente. Usar ferramentas
+anti – faiscantes.
+Prevenção da exposição do trabalhador : Devem ser utilizados equipamentos de proteção individual ( EPI ) para evitar o contato
+com a pele e mucosas.
+Prevenção de incêndio e explosão : Evitar faíscas de origem elétrica, eletricidade estática, etc . Não fumar .
+Orientação para manuseio seguro : Manipular o produto respeitando - se as regras gerais de segurança e higiene industrial .
+Não manusear em recipientes plásticos. Não fumar,comer ou beber na área de manuseio do
+produto .
+- Armazenamento
+Medidas técnicas apropriadas : As instalações elétricas devem estar de acordo com as normas NEC ( National Electrical
+Code ) ou IEC (International Eletrical Commission) e / ou ABNT(Associação Brasileira de
+Normas Técnicas) . O local de armazenamento deve ter dique de contenção, para reter o
+produto em caso de vazamento .
+--- PÁGINA 3 ---
+Condições de armazenamento : Armazenar em local limpo, ventilado e piso impermeável. Conservar afastado de fontes de
+ignição, calor ou chamas .
+Produtos e materiais incompatíveis : Oxidantes fortes ( cloro liquido e oxigênio concentrado ) .
+PRODUTO : QUEROSENE
+Fispq : 01 Versão : 02 Data : FEev/ 06 Página 3 de 05
+8 - Controle de exposição e proteção individual
+- Medidas de controle de engenharia : Assegurar boa ventilação nos locais de trabalho. Para algumas operações pode ser necessário
+um sistema de exaustão local .
+- Parâmetros de controle específico : Durante o manuseio recomenda-se que sejam observados os limites de tolerância das
+matérias-primas relacionadas.
+Nome Químico Limites de Exposição Fonte
+Mistura de hidrocarbonetos alifáticos 100 ppm , TWA TLV / ACGIH
+Indicadores biológicos : Não disponível .
+- Equipamentos de proteção individual apropriado
+Proteção respiratória : Respirador com filtro para vapores orgânicos,se não houver deficiência de oxigênio. Respira-
+dor autônomo ou de ar mandado, se houver deficiência de oxigênio .
+Proteção das mãos : Luvas de PVC, em atividades de contato direto com o produto .
+Proteção dos olhos : Óculos de segurança ou protetor facial .
+Proteção da pele e do corpo : Avental e botas impermeáveis resistentes a solventes .
+Medidas especiais : Manter chuveiro de emergência e lavador de olhos, nos locais onde haja manuseio do produto.
+- Medidas de higiene : Higienizar roupas e sapatos após o uso. Separar as roupas de trabalho das roupas comum. Não
+comer, beber ou fumar ao manusear produtos químicos .
+9 - Propriedades físicos - químicos
+- Estado físico : Líquido
+- Cor : Incolor
+- Odor : Acentuado, semelhante ao querosene .
+- pH : Não aplicável, solvente não aquoso.
+- Temperaturas específicas nas quais ocorrem mudanças de estado físico
+Ponto de ebulição : 145 °C .
+Ponto de fusão : Não disponível
+- Limites de inflamabilidade no ar
+Ponto de fulgor ( vaso aberto ) : 38 °C , ASTM D-56
+- Limites de explosividade no ar ( % em volume ) :
+Superior (NIOSH ) : 6, 0
+Inferior (NIOSH : 0, 9
+- Pressão de vapor mmHg : Não disponível
+- Densidade específica a 20/4 °C : 0. 771 a 0,777 g / cm³ , ASTM D-4052
+- Solubilidade
+Em água : Insolúvel
+Em hidrocarbonetos de petróleo : Total
+10 - Estabilidade e reatividade
+- Condições específicas
+Instabilidade : Estável sob condições normais de uso .
+Reações perigosas : Não disponível
+--- PÁGINA 4 ---
+- Condições a evitar : Geração e inalação de vapores orgânicos, exposição prolongada, contato com os olhos, pele,
+roupas, calor, faísca de origem elétrica, eletricidade estática, soldas, fontes de ignição .
+- Materiais incompatíveis : Ácidos fortes, agentes oxidantes fortes ( cloro líquido e oxigênio concentrado ) e agentes
+redutores fortes .
+- Produtos perigosos da decomposição: Pode liberar gases tóxicos durante a queima .
+PRODUTO : QUEROSENE
+Fispq : 01 Versão : 02 Data : Fev./ 06 Página 4 de 05
+11 - Informações toxicológicas
+- - Toxicidade aguda : Não especificado pela legislação brasileira. Antes de manusear o produto, observar a toxidade
+das matérias-primas relacionadas.
+Nome Químico Toxidade Oral LD 50 ( ratos ) Referêcia
+Mistura de hidrocarbonetos alifáticos 2000 mg / Kg ACGIH
+- Efeitos locais
+Inalação : Irritação das vias aéreas superiores .
+Contato com a pele : Irritante para a pele, podendo ocorrer queimadura local .
+Contato com os olhos : Irritante para os olhos, podendo ocorrer queimadura com eventual lesão da córnea
+- Toxicidade crônica Contato prolongado pode causar dermatite por ressecamento. Fadiga fácil, perda do apetite ,
+insônia e emagrecimento .
+12 - Informações ecológicas
+- Mobilidade
+Volatilidade : Moderadamente volátil a partir de solo seco .
+- Degradabilidade : O produto não é biodegradável .
+- Ecotoxicidade : Não são disponíveis dados de toxicidade aos organismos aquáticos, porem a sua presença na
+água pode transmitir qualidades indesejáveis e prejudicar a sua utilização .
+13 - Considerações sobre tratamento e disposição
+- Métodos de tratamento e disposição
+Produto : Este produto pode ser reprocessado, incinerado em instalações adequada . O aterramento
+deverá ser de acordo com regulamentação regional. Não descartar em solo, esgoto ou em
+qualquer curso d’água .
+Restos de produtos : Para produtos não utilizados ou com prazo de validade vencido, é recomendável enviar
+a uma instalação licenciada e permitida para executar incineração ou outro método de
+destruição térmica .
+Embalagem usada : Quando o recipiente estiver vazio, contaminado com o produto, poderá ser encaminhado
+para empresas de reciclagem de embalagens, desde que estejam autorizadas pelo órgão
+ambiental . Não reutilizar a embalagem.
+14 - Informações sobre transporte
+- Vias terrestres ( MT , Portaria 204 / 1997 )
+Nome apropriado para embarque : TINTA
+Número ONU : 1263
+Classe de risco : 3
+Número de risco : 30
+Grupo de embalagem : I I I
+15 - Regulamentações
+- Brasil
+Portaria 204 do Ministério de Transporte.
+Portaria 3214 do Ministério do Trabalho.
+--- PÁGINA 5 ---
+- NOTA :
+Chama-se a atenção do usuário sobre a possibilidade de existirem outras disposições, que complementem estas prescrições, de pos-
+sível aplicação .
+PRODUTO : QUEROSENE
+Fispq : 01 Versão : 02 Data : Fev. / 06 Página 5 de 05
+16 - Outras informações
+- Prazo de validade do produto : 03 anos após a data de fabricação .
+- Referências utilizadas :
+ACGIH American Conference of Governmental Hygienists .
+- Legenda
+Símbolos de Risco
+Xn Nocivo
+Xi Irritante
+F Inflamável
+Frases de Risco
+R10 Inflamável
+R11 Facilmente inflamável
+R20 / 21 Nocivo por inalação e em contato com a pele
+R36 Irritante para os olhos
+R38 Irritante para a pele
+- NOTA :
+As informações contidas nesta ficha são baseadas no nosso conhecimento sobre o produto em questão, até a data da publicação.
+Elas foram elaboradas de boa fé e conforme NBR 14725 de JULHO DE 2001. É chamada a atenção dos usuários sobre os riscos
+eventualmente encontrados, quando um produto é utilizado para outros fins que não aquele a que se destina .
+Esta versão, anula e substitui as anteriores.

@@ -1,0 +1,206 @@
+--- PÁGINA 1 ---
+SIGMA-ALDRICH
+FICHA DE DADOS DE SEGURANÇA
+de acordo com a Regulamento (CE) No. 1907/2006
+Versão 3.0 Data de revisão 03.12.2009
+Data de impressão 19.01.2011
+ENERIC EU MSDS - NO COUNTRY SPECIFIC DATA - NO OEL DATA
+1. IDENTIFICAÇÍO DA SUBSTÂNCIA/MISTURA E DA SOCIEDADE/EMPRESA
+Nome do produto : Perchloric acid
+Referência do Produto : 311421
+Marca : Aldrich
+Companhia : Sigma-Aldrich Brasil Ltda.
+Av. das Nações Unidas, 23.043
+04795-100 SÍO PAULO - SP
+BRAZIL
+Telefone : +551137323100
+Número de Fax : +551155229895
+Núnero de Telefone de :
+Emergência
+2. IDENTIFICAÇÍO DOS PERIGOS
+Precauções para o homem e para o ambiente
+Perigo de explosão sob a acção do calor. Favorece a inflamação de matérias combustíveis. Provoca
+queimaduras graves.
+3. COMPOSIÇÍO/INFORMAÇÍO SOBRE OS COMPONENTES
+No. CAS No. CE No. de Index Classificação Concentração
+Perchloric acid
+7601-90-3 231-512-4 017-006-00-4 O, C, R 5 - R 8 - R35 70 %
+Water
+7732-18-5 231-791-2 - - 30 %
+Para o texto completo sobre as frases R mencionadas nesta Secção, ver a Secção 16.
+4. PRIMEIROS SOCORROS
+Recomendação geral
+Consultar um médico. Mostrar esta ficha de segurança ao médico de serviço.
+Se for inalado
+Se for respirado, levar a pessoa para o ar fresco. Se não respirar, aplicar a respiração artificial. Consultar um
+médico.
+No caso dum contacto com a pele
+Despir imediatamente a roupa e os sapatos contaminados. Lavar com sabão e muita água. Consultar um
+médico.
+No caso dum contacto com os olhos
+Lavar cuidadosamente com muita água, durante pelo menos quinze minutos, e consultar o médico.
+Aldrich - 311421 www.sigma-aldrich.com Página 1 of 5
+--- PÁGINA 2 ---
+Se for engolido
+NÍO provocar vómitos. Nunca dar nada pela boca a uma pessoa inconsciente. Enxaguar a boca com água.
+Consultar um médico.
+5. MEDIDAS DE COMBATE A INCÊNDIO
+Meios adequados de extinção
+Utilizar água pulverizada, espuma resistente ao álcool, produto químico seco ou dióxido de carbono.
+Equipamento especial de protecção a utilizar pelo pessoal de combate a incêndio
+Usar equipamento de respiração autónomo para combate a incêndios, se necessário.
+Outras informações
+Os jactos de água podem ser utilizados para arrefecer os contentores fechados.
+6. MEDIDAS A TOMAR EM CASO DE FUGAS ACIDENTAIS
+Precauções individuais
+Usar equipamento de protecção individual. Evitar a respiração do vapor/névoa/gas. Assegurar ventilação
+adequada. Evacuar o pessoal para áreas de segurança.
+Precauções ambientais
+Não permitir a entrada do produto no sistema de esgotos.
+Métodos de limpeza
+Controlar e recuperar o líquido derramado com um produto absorvente não combustível, (por exemplo areia,
+terra, terra diatomácea, vermiculite) e pôr o líquido dentro de contentores para eliminação de acordo com os
+regulamentos locais / nacionais (ver secção 13).
+7. MANUSEAMENTO E ARMAZENAGEM
+Manuseamento
+Evitar a inalação do vapor ou da névoa.
+Manter afastado de qualquer chama ou fonte de ignição - Não fumar. Manter afastado de matérias
+combustíveis.
+Armazenagem
+Armazenar em local fresco. Guardar o recipiente herméticamente fechado em lugar seco e bem ventilado. Os
+contentores abertos devem ser cuidadosamente fechados de novo e têm que ficar direitos para evitar a
+dispersão.
+8. CONTROLO DA EXPOSIÇÍO/PROTECÇÍO PESSOAL
+Protecção individual
+Protecção respiratória
+Nos casos em que a avaliação de risco mostrar que os respiradores purificadores do ar são apropriados,
+use um respirador de cobertura facial total com cartuchos de combinação multi-objectivos (E.U.A.) ou do
+tipo ABEK (EN 14387) como apoio a controlos de engenharia. Se o respirador for o único meio de
+protecção, usa um respirador de ar de cobertura facial total. Use respiradores e componentes testados e
+aprovados por normas governamentais apropriadas, tais como as NIOSH (E.U.A.) ou CEN (UE).
+Protecção das mãos
+As luvas de protecção seleccionadas devem satisfazer as especificações da Directiva da UE 89/689/CEE e
+a norma EN 374 derivada dela. Manusear com luvas.
+Protecção dos olhos
+Óculos de segurança bem ajustados. Proteção da face (mínimo de 8 polegadas (20 cm)).
+Protecção do corpo e da pele
+Escolher uma protecção para o corpo conforme a quantidade e a concentração das substâncias perigosas
+no lugar de trabalho.
+Medidas de higiene
+Manusear de acordo com as boas práticas industriais de higiene e segurança. Lavar as mãos antes de
+Aldrich - 311421 www.sigma-aldrich.com Página 2 of 5
+--- PÁGINA 3 ---
+interrupções, e no final do dia de trabalho.
+9. PROPRIEDADES FÍSICAS E QUÍMICAS
+Aspecto
+Estado físico líquido, claro
+Cor incolor
+Dados de segurança
+pH dados não disponíveis
+Ponto de fusão -18 °C
+Ponto de ebulição 203 °C
+Ponto de inflamação 113 °C - câmara fechada
+Temperatura de dados não disponíveis
+ignição
+Limites de explosão, dados não disponíveis
+inferior
+Limite de explosão, dados não disponíveis
+superior
+Pressão de vapor 9,1 hPa a 25 °C
+Densidade 1,670 g/cm3
+Hidrossolubilidade dados não disponíveis
+10. ESTABILIDADE E REACTIVIDADE
+Estabilidade em armazenamento
+Estável sob as condições recomendadas de armazenamento.
+Matérias a evitar
+Bases fortes, Ácidos fortes, Aminas, Haletos de fósforo, Alcoois, Materiais orgânicos, Metais em pó, Agentes
+redutores fortes
+Produtos de decomposição perigosos
+Produtos perigosos de decomposição formados durante os incêndios. - Cloro
+Produtos perigosos de decomposição formados durante os incêndios. - Cloreto de hidrogénio gasoso
+11. INFORMAÇÍO TOXICOLÓGICA
+Toxicidade aguda
+dados não disponíveis
+Irritação ou corrosão
+dados não disponíveis
+Sensibilização
+dados não disponíveis
+Exposição crónica
+IARC: Nenhum componente deste produto presente a níveis maiores ou iguais a 0.1% é
+identificado como carcinogénio provável, possível ou confirmado pelo IARC.
+Sinais e sintomas de exposição
+Aldrich - 311421 www.sigma-aldrich.com Página 3 of 5
+--- PÁGINA 4 ---
+sensação de queimadura, Tosse, respiração ruidosa, laringite, Respiração superficial, espasmo, inflamação e
+edema da laringe, espasmo, inflamação e edema dos brônquios, pneumonite, edema pulmonar, O material é
+extremamente destrutivo para os tecidos das membranas mucosas e para o trato respiratório superior, os
+olhos e a pele.
+Efeitos potenciais sobre a saúde
+Inalação Pode ser perigoso se for inalado. O material é extremamente destrutivo para os
+tecidos das membranas mucosas e do trato respiratório superior.
+Pele Pode ser perigoso se for absorto pela pele. Causa queimaduras severas na
+pele.
+Olhos Causa queimaduras severas nos olhos.
+Ingestão Pode ser perigoso se for engolido. Provoca queimaduras graves.
+12. INFORMAÇÍO ECOLÓGICA
+Informação sobre eliminação (persistência e degradabilidade)
+dados não disponíveis
+Efeitos de ecotoxicidade
+dados não disponíveis
+Informações suplementares sobre a ecologia
+dados não disponíveis
+13. CONSIDERAÇÕES RELATIVAS À ELIMINAÇÍO
+Produto
+Observar todos os regulamentos ambientais federais, estaduais e locais. Entrar em contato com um serviço
+profissional credenciado de descarte de lixo para descartar esse material. Dissolver ou misturar o material com
+um solvente combustível e queimar em incinerador químico equipado com pós-combustor e purificador de
+gases.
+Embalagens contaminadas
+Eliminar como produto Não utilizado.
+14. INFORMAÇÕES RELATIVAS AO TRANSPORTE
+ADR/RID
+Número ONU: 1873 Classe: 5.1 (8) Grupo de embalagem: I
+Denominação de expedição correcta: ÁCIDO PERCLÓRICO
+IMDG
+Número ONU: 1873 Classe: 5.1 (8) Grupo de embalagem: I EMS-No:
+F-A, S-Q
+Denominação de expedição correcta: PERCHLORIC ACID
+Poluente marinho: No
+IATA
+Número ONU: 1873 Classe: 5.1 (8) Grupo de embalagem: I
+Denominação de expedição correcta: Perchloric acid
+IATA Passenger: Não permitido para o transporte
+15. INFORMAÇÍO SOBRE REGULAMENTAÇÍO
+Rotulado de acordo com as directivas da CE
+Símbolos de perigo
+O Comburente
+Aldrich - 311421 www.sigma-aldrich.com Página 4 of 5
+--- PÁGINA 5 ---
+C Corrosivo
+Frase(s) - R
+R 5 Perigo de explosão sob a acção do calor.
+R 8 Favorece a inflamação de matérias combustíveis.
+R35 Provoca queimaduras graves.
+Frase(s) - S
+S23 Não respirar os gases/vapores/fumos/aerossóis.
+S26 Em caso de contacto com os olhos, lavar imediata e abundantemente com água e
+consultar um especialista.
+S36 Usar vestuário de protecção adequado.
+S45 Em caso de acidente ou de indisposição, consultar imediatamente o médico (se
+possível mostrar-lhe o rótulo).
+Componentes determinantes de perigo para o rótulo::
+7601-90-3 Perchloric acid
+16. OUTRAS INFORMAÇÕES
+Texto das Frases-R mencionado na Secção 3
+R 5 Perigo de explosão sob a acção do calor.
+R 8 Favorece a inflamação de matérias combustíveis.
+R35 Provoca queimaduras graves.
+Outras informações
+Direitos exclusivos, 2009, da Sigma-Aldrich. Permissão concedida para fazer número ilimitado de cópias
+em papel, somente para uso interno.
+Acredita-se que as informações acima estejam corretas, embora não pretendam ser totalmente
+abrangentes, devendo ser usadas apenas como um guia. A Sigma-Aldrich não deverá ter responsabilidade
+legal por quaisquer danos resultantes do manuseio ou do contato com o produto acima. Consultar o verso
+da fatura ou nota que acompanha o produto para tomar conhecimento dos termos adicionais e condições
+de venda.
+Aldrich - 311421 www.sigma-aldrich.com Página 5 of 5

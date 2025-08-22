@@ -1,0 +1,320 @@
+--- PÁGINA 1 ---
+SIGMA-ALDRICH
+sigma-aldrich.com
+FICHA DE DADOS DE SEGURANÇA
+de acordo com a Regulamento (CE) No. 1907/2006
+Versão 4.0 Data de revisão 13.12.2010
+Data de impressão 24.01.2011
+ENERIC EU MSDS - NO COUNTRY SPECIFIC DATA - NO OEL DATA
+1. IDENTIFICAÇÍO DA SUBSTÂNCIA/MISTURA E DA SOCIEDADE/EMPRESA
+1.1 Identificadores do produto
+Nome do produto : N,N-Dimethylacetamide
+Referência do Produto : D5511
+Marca : Sigma
+No. de Index : 616-011-00-4
+No. CAS : 127-19-5
+1.2 Utilizações relevantes identificadas da substância ou mistura e utilizações desaconselhadas
+Utilizações identificadas : Produtos químicos de laboratório, Fabricação de substâncias
+1.3 Pormenores acerca do fornecedor da ficha de dados de segurança
+Companhia : Sigma-Aldrich Brasil Ltda.
+Av. das Nações Unidas, 23.043
+04795-100 SÍO PAULO - SP
+BRAZIL
+Telefone : +551137323100
+Número de Fax : +551155229895
+1.4 Número de telefone de emergência
+Núnero de Telefone de :
+Emergência
+2. IDENTIFICAÇÍO DOS PERIGOS
+2.1 Classificação da substância ou mistura
+Classification according to Regulation (EC) No 1272/2008 [EU-GHS/CLP]
+Reproductive toxicity (Category 1B)
+Acute toxicity, Inhalation (Category 4)
+Acute toxicity, Dermal (Category 4)
+Classificação de acordo com as Directivas da EU 67/548/CEE ou 1999/45/CE
+Risco durante a gravidez com efeitos adversos na descendência. Nocivo por inalação e em contacto com a
+pele.
+2.2 Elementos da etiqueta
+Labelling according Regulation (EC) No 1272/2008 [CLP]
+Pictogram
+Signal word Danger
+Hazard statement(s)
+H312 Harmful in contact with skin.
+H332 Harmful if inhaled.
+H360D May damage the unborn child.
+Precautionary statement(s)
+P201 Obtain special instructions before use.
+P280 Wear protective gloves/ protective clothing.
+P308 + P313 IF exposed or concerned: Get medical advice/ attention.
+Sigma - D5511 Página 1 de 7
+--- PÁGINA 2 ---
+Supplemental Hazard none
+Statements
+According to European Directive 67/548/EEC as amended.
+Hazard symbol(s)
+R-phrase(s)
+R61 May cause harm to the unborn child.
+R20/21 Also harmful by inhalation and in contact with skin.
+S-phrase(s)
+S53 Avoid exposure - obtain special instructions before use.
+S45 In case of accident or if you feel unwell, seek medical advice immediately
+(show the label where possible).
+Reservado aos utilizadores profissionais.
+2.3 Outros Perigos
+Rapidamente absorto pela pele.
+3. COMPOSIÇÍO/INFORMAÇÍO SOBRE OS COMPONENTES
+3.1 Substâncias
+Formula : C4H9NO
+Peso molecular : 87,12 g/mol
+Componente Concentração
+N,N-Dimethylacetamide
+No. CAS 127-19-5 -
+No. CE 204-826-4
+No. de Index 616-011-00-4
+4. PRIMEIROS SOCORROS
+4.1 Descrição das medidas de primeiros socorros
+Recomendação geral
+Consultar um médico. Mostrar esta ficha de segurança ao médico de serviço.
+Se for inalado
+Se for respirado, levar a pessoa para o ar fresco. Se não respirar, dar respiração artificial. Consultar um
+médico.
+No caso dum contacto com a pele
+Lavar com sabão e muita água. Transportar imediatamente paciente para um Hospital. Consultar um
+médico.
+No caso dum contacto com os olhos
+Lavar cuidadosamente com muita água, durante pelo menos quinze minutos, e consultar o médico.
+Se for engolido
+NÍO provocar vómitos. Nunca dar nada pela boca a uma pessoa inconsciente. Enxaguar a boca com água.
+Consultar um médico.
+4.2 Sintomas e efeitos mais importantes, tanto agudos como retardados
+juízo prejudicado, instabilidade emocional, Psicose tóxica, nistagmo, disartria, Ataxia.
+4.3 Indicação de atenção medical imediata e tratamento especial necessário
+dados não disponíveis
+Sigma - D5511 Página 2 de 7
+--- PÁGINA 3 ---
+5. MEDIDAS DE COMBATE A INCÊNDIO
+5.1 Meios de extinção
+Meios adequados de extinção
+Para fogos incipientes ou pequenos usar meios como espuma de álcool, pó seco ou dióxido de carbono.
+Para grandes fogos aplicar agua desde o mais longe possível, usar grandes quantidades de agua
+(inundação)aplicadas como nevoeiro ou spray; córregos sólidos de agua podem não ser efectivos. Esfrie
+todos os depósitos ou vasilhas com grandes e inundantes quantidades de agua.
+5.2 Perigos especiais decorrentes da substância ou mistura
+Óxidos de carbono, óxidos de azoto (NOx)
+Óxidos de carbono, óxidos de azoto (NOx)
+Óxidos de carbono, óxidos de azoto (NOx)
+5.3 Recomendações para o pessoal de combate a incêndios
+Usar equipamento de respiração autónomo para combate a incêndios, se necessário.
+5.4 Outras informações
+Os jactos de água podem ser utilizados para arrefecer os contentores fechados.
+6. MEDIDAS A TOMAR EM CASO DE FUGAS ACIDENTAIS
+6.1 Precauções individuais, equipamento de protecção e procedimentos de emergência
+Pôr uma protecção respiratória. Evitar a respiração do vapor/névoa/gas. Assegurar ventilação adequada.
+Cortar todas as fontes de ignição. Evacuar o pessoal para áreas de segurança. Atenção com a
+acumulação de vapores que pode formar concentrações explosivas. Os vapores podem-se acumular nas
+áreas baixas.
+6.2 Precauções a nível ambiental
+Prevenir dispersão ou derramamento ulterior se for mais seguro assim. Não permitir a entrada do produto
+no sistema de esgotos.
+6.3 Métodos e materiais de confinamento e limpeza
+Controlar e recuperar o líquido derramado com aspirador protegido electricamente ou varrer a seco e por
+o líquido dentro de contentores para a eliminação de acordo com as regulações locais (ver secção 13).
+Manter em recipientes fechados adequados, para eliminação.
+6.4 Remissão para outras secções
+Para eliminação de resíduos ver secção 13.
+7. MANUSEAMENTO E ARMAZENAGEM
+7.1 Precauções para um manuseamento seguro
+Evitar a exposição - obter instruções específicas antes da utilização.Evitar o contacto com a pele e os olhos.
+Evitar a inalação do vapor ou da névoa.
+Manter afastado de qualquer chama ou fonte de ignição - Não fumar.Tome medidas para impedir a
+formação de electricidade estática.
+7.2 Condições de armazenagem segura, incluindo eventuais incompatibilidades
+Armazenar em local fresco. Guardar o recipiente herméticamente fechado em lugar seco e bem ventilado.
+Os contentores abertos devem ser cuidadosamente fechados de novo e têm que ficar direitos para evitar a
+dispersão.
+Estocar sob gás inerte. higroscópico
+7.3 Utilizações finais específicas
+dados não disponíveis
+Sigma - D5511 Página 3 de 7
+--- PÁGINA 4 ---
+8. CONTROLO DA EXPOSIÇÍO/PROTECÇÍO PESSOAL
+8.1 Parâmetros de controlo
+Componentes a controlar com relação ao local de trabalho
+8.2 Controlo da exposição
+Controlos técnicos adequados
+Evitar o contacto com a pele, olhos e vestuário. Lavar as mãos antes de interrupções do trabalho, e
+imediatamente a seguir ao manuseamento do produto.
+Protecção individual
+Protecção para os olhos/cara
+Mascaras de protecção e óculos de segurança. Use equipamento de proteção ocular testado e
+aprovado de acordo com as normas governamentais adequadas, tais como NIOSH (US) ou EN 166
+(EU).
+Protecção da pele
+Manusear com luvas. As luvas devem ser inspectadas antes da utilização. Use uma técnica
+adequada para a remoção das luvas (sem tocar a superfície exterior da luva) para evitar o contacto
+da pele com o produto. Descarte as luvas contaminadas após o uso, em conformidade com as leis e
+boas práticas de laboratório . Lavar e secar as mãos.
+As luvas de protecção seleccionadas devem satisfazer as especificações da Directiva da UE
+89/689/CEE e a norma EN 374 derivada dela.
+Protecção do corpo
+Fato completo de protecção para produtos químicos, O genero de equipamento de protecção deve
+ser escolhido de acordo com a concentração e a quantidade da substância perigosa no lugar de
+trabalho.
+Protecção respiratória
+Nos casos em que a avaliação de risco mostrar que os respiradores purificadores do ar são
+apropriados, use um respirador de cobertura facial total com cartuchos de combinação multi-
+objectivos (E.U.A.) ou do tipo ABEK (EN 14387) como apoio a controlos de engenharia. Se o
+respirador for o único meio de protecção, usa um respirador de ar de cobertura facial total. Use
+respiradores e componentes testados e aprovados por normas governamentais apropriadas, tais
+como as NIOSH (E.U.A.) ou CEN (UE).
+9. PROPRIEDADES FÍSICAS E QUÍMICAS
+9.1 Informações sobre propriedades físicas e químicas de base
+a) Aspecto Estado físico: líquido, claro
+Cor: incolor
+b) Odor Odor da amônia
+c) Limiar olfactivo dados não disponíveis
+d) pH 4 a 200 g/l a 20 °C
+e) Ponto de fusão/ponto -20 °C
+de congelação
+f) Ponto de ebulição inicial 164,5 - 166,0 °C a 1.013 hPa
+e intervalo de ebulição;
+g) Ponto de inflamação 70 °C - câmara fechada
+h) Taxa de evaporação dados não disponíveis
+i) Inflamabilidade (sólido, dados não disponíveis
+gás)
+j) limites de Limite de explosão, superior: 11,5 %(V)
+inflamabilidade superior Limites de explosão, inferior: 1,8 %(V)
+Sigma - D5511 Página 4 de 7
+--- PÁGINA 5 ---
+/ inferior ou explosivas
+k) Pressão de vapor 3 hPa a 25 °C
+5 hPa a 38 °C
+l) Densidade do vapor 3,01 - (Ar = 1.0)
+m) Densidade relativa 0,937 g/cm3
+n) Hidrossolubilidade completamente miscível
+o) Coeficiente de partição: log Pow: -0,77
+n-octanol/água
+p) Temperatura de auto- dados não disponíveis
+ignição
+q) Temperatura de dados não disponíveis
+decomposição
+r) Viscosidade dados não disponíveis
+s) Propriedades dados não disponíveis
+explosivas
+t) Propriedades oxidantes dados não disponíveis
+9.2 Outra informação de segurança
+dados não disponíveis
+10. ESTABILIDADE E REACTIVIDADE
+10.1 Reactividade
+dados não disponíveis
+10.2 Estabilidade química
+dados não disponíveis
+10.3 Possibilidade de reacções perigosas
+dados não disponíveis
+10.4 Condições a evitar
+Calor, chamas e faíscas.
+10.5 Materiais incompatíveis
+Agentes oxidantes fortes
+10.6 Produtos de decomposição perigosos
+Outros produtos de decomposição perigosos - dados não disponíveis
+11. INFORMAÇÍO TOXICOLÓGICA
+11.1 Informações sobre os efeitos toxicológicos
+Toxicidade aguda
+DL50 Oral - ratazana - 4.300 mg/kg
+CL50 Inalação - ratazana - 1 h - 2475 ppm
+Observações: Nutrição e Metabolismo geral: Alterações:Perda de peso ou diminuição do seu aumento.
+DL50 Dérmico - coelho - 2.240 mg/kg
+Corrosão/irritação cutânea
+Lesões oculares graves/irritação ocular
+Olhos - coelho - Ligeira irritação dos olhos
+Sensibilização respiratória ou cutânea
+dados não disponíveis
+Mutagenicidade em células germinativas
+dados não disponíveis
+Sigma - D5511 Página 5 de 7
+--- PÁGINA 6 ---
+Carcinogenicidade
+Este produto é ou contém um componente que não é classificável quanto à sua carcinogenicidade segundo
+sua classificação pela IARC, ACGIH, NTP ou EPA.
+IARC: Nenhum componente deste produto presente a níveis maiores ou iguais a 0.1% é identificado
+como carcinogénio provável, possível ou confirmado pelo IARC.
+Toxicidade reprodutiva
+Pode provocar malformações congênitas no feto.
+Tóxico reprodutivo para os humanos
+Tendo em base experimentos com animais de laboratório, a exposição excessiva pode provocar
+desordem(ns) reprodutiva(s).
+Toxicidade para órgãos-alvo específicos - exposição única
+dados não disponíveis
+Toxicidade para órgãos-alvo específicos - exposição repetida
+dados não disponíveis
+Perigo de aspiração
+dados não disponíveis
+Efeitos potenciais para a saúde
+Inalação Tóxico se inalado. Pode causar uma irritação do aparelho respiratório.
+Ingestão Pode ser perigoso se for engolido.
+Pele Perigoso se for absorto pela pele. Pode causar uma irritação da pele.
+Olhos Provoca irritação ocular grave.
+Sinais e sintomas de exposição
+juízo prejudicado, instabilidade emocional, Psicose tóxica, nistagmo, disartria, Ataxia.
+Informação adicional
+RTECS: AB7700000
+12. INFORMAÇÍO ECOLÓGICA
+12.1 Toxicidade
+Toxicidade em peixes CL50 - Leuciscus idus (Carpa dourada) - > 500 mg/l - 96 h
+Toxicidade em dáfnias e CE50 - Daphnia magna - > 500 mg/l - 48 h
+outros invertebrados
+aquáticos.
+Toxicidade em algas CE50 - Desmodesmus subspicatus (alga verde) - > 500 mg/l - 72 h
+12.2 Persistência e degradabilidade
+Biodegradabilidade Resultado: > 90 % - Rápidamente biodegradável.
+12.3 Potencial de bioacumulação
+dados não disponíveis
+12.4 Mobilidade no solo
+dados não disponíveis
+12.5 Resultados da avaliação PBT e mpmb
+dados não disponíveis
+12.6 Outros efeitos adversos
+dados não disponíveis
+Sigma - D5511 Página 6 de 7
+--- PÁGINA 7 ---
+13. CONSIDERAÇÕES RELATIVAS À ELIMINAÇÍO
+13.1 Métodos de tratamento de resíduos
+Produto
+Esse material combustível deve ser queimado em um incinerador químico equipado com um pós-
+combustor e purificador de gases. Propor a entrega de soluções excedentes e não recicláveis a uma
+empresa idónea de tratamento de resíduos. Entrar em contato com um serviço profissional credenciado
+de descarte de lixo para descartar esse material.
+Embalagens contaminadas
+Eliminar como produto Não utilizado.
+14. INFORMAÇÕES RELATIVAS AO TRANSPORTE
+14.1 Número ONU
+ADR/RID: - IMDG: - IATA: -
+14.2 Nome apropriado para embarque da ONU
+ADR/RID: Not dangerous goods
+IMDG: Mercadorias não perigosas
+IATA: Mercadorias não perigosas
+14.3 Classificação (classificações) do perigo de transporte
+ADR/RID: - IMDG: - IATA: -
+14.4 Grupo de embalagem
+ADR/RID: - IMDG: - IATA: -
+14.5 Perigos para o ambiente
+ADR/RID: no IMDG Poluente marinho: não IATA: não
+14.6 Precauções especiais para o utilizador
+dados não disponíveis
+15. INFORMAÇÍO SOBRE REGULAMENTAÇÍO
+Esta folha de dados de segurança obedece aos requerimentos da Regulamento (CE) No. 1907/2006
+15.1 Regulamentação/legislação específica para a substância ou mistura em matéria de saúde, segurança
+e ambiente
+dados não disponíveis
+15.2 Avaliação da segurança química
+dados não disponíveis
+16. OUTRAS INFORMAÇÕES
+Outras informações
+Direitos exclusivos, 2010, da Sigma-Aldrich. Permissão concedida para fazer número ilimitado de cópias
+em papel, somente para uso interno.
+Acredita-se que as informações acima estejam corretas, embora não pretendam ser totalmente
+abrangentes, devendo ser usadas apenas como um guia. A Sigma-Aldrich não deverá ter
+responsabilidade legal por quaisquer danos resultantes do manuseio ou do contato com o produto acima.
+Consultar o verso da fatura ou nota que acompanha o produto para tomar conhecimento dos termos
+adicionais e condições de venda.
+Sigma - D5511 Página 7 de 7

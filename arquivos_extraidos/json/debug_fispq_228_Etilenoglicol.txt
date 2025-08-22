@@ -1,0 +1,155 @@
+--- PÁGINA 1 ---
+Ficha de Informação de Produto Químico
+IDENTIFICAÇÍO Help
+Número ONU Nome do produto Rótulo de risco
+ETILENOGLICOL
+Número de risco Classe / Subclasse
+- -
+Sinônimos
+1,2 - DIHIDROXIETANO ; 1,2 - ETANODIOL ; ETILENO DIHIDRATADO ; MONOETILENOGLICOL
+Aparência
+LÍQUIDO DENSO; SEM COLORAÇÍO; SEM ODOR; AFUNDA E MISTURA COM ÁGUA
+Fórmula molecular Família química
+C2 H6 O2 GLICOL
+Fabricantes
+Para informações atualizadas recomenda-se a consulta às seguintes instituições ou referências:
+ABIQUIM - Associação Brasileira da Indústria Química : Fone 0800-118270
+ANDEF - Associação Nacional de Defesa Vegetal: Fone (11) 3081-5033
+Revista Química e Derivados - Guia geral de produtos químicos, Editora QD: Fone (11) 3826-6899
+Programa Agrofit - Ministério da Agricultura
+MEDIDAS DE SEGURANÇA Help
+Medidas preventivas imediatas
+CHAMAR OS BOMBEIROS. PARAR O VAZAMENTO, SE POSSÍVEL. ISOLAR E REMOVER O MATERIAL DERRAMADO.
+Equipamentos de Proteção Individual (EPI)
+USAR LUVAS, BOTAS E ROUPAS DE BORRACHA BUTÍLICA OU NATURAL, POLIETILENO CLORADO OU NEOPRENE E MÁSCARA
+FACIAL PANORAMA COM FILTRO CONTRA VAPORES ORGÂNICOS.
+RISCOS AO FOGO Help
+Ações a serem tomadas quando o produto entra em combustão
+EXTINGUIR COM PÓ QUÍMICO SECO, ESPUMA DE ÁLCOOL OU DIÓXIDO DE CARBONO. ESFRIAR OS RECIPIENTES EXPOSTOS,
+COM ÁGUA.
+Comportamento do produto no fogo
+COMBUSTÍVEL.
+Produtos perigosos da reação de combustão
+NÍO PERTINENTE.
+Agentes de extinção que não podem ser usados
+A ÁGUA OU ESPUMA PODE CAUSAR MAIS ESPUMA.
+Limites de inflamabilidade no ar
+Limite Superior: DADO NÍO DISPONÍVEL
+Limite Inferior: 3,2%
+Ponto de fulgor
+115,6 °C (V.A.);111 °C (V.F.)
+Temperatura de ignição
+413 °C
+Taxa de queima
+1,0 mm/min
+Taxa de evaporação (éter=1)
+HIGROSCÓPICO
+NFPA (National Fire Protection Association)
+Perigo de Saúde (Azul): 1
+Inflamabilidade (Vermelho): 1
+Reatividade (Amarelo): 0
+PROPRIEDADES FÍSICO-QUÍMICAS E AMBIENTAIS Help
+Peso molecular Ponto de ebulição (°C) Ponto de fusão (°C)
+62,07 197,6 -15,6
+--- PÁGINA 2 ---
+Temperatura crítica (°C) Pressão crítica (atm) Densidade relativa do vapor
+NÍO PERTINENTE NÍO PERTINENTE NÍO PERTINENTE
+Densidade relativa do líquido (ou Pressão de vapor Calor latente de vaporização (cal/g)
+sólido) 1 mm Hg A 53,0 °C 191
+1,115 A 20 °C (LÍQUIDO)
+Calor de combustão (cal/g) Viscosidade (cP)
+-4.033 20
+Solubilidade na água pH
+MISCÍVEL DND
+Reatividade química com água
+NÍO REAGE.
+Reatividade química com materiais comuns
+NÍO REAGE.
+Polimerização
+NÍO OCORRE.
+Reatividade química com outros materiais
+DADO NÍO DISPONÍVEL.
+Degradabilidade
+BIODEGRADAVEL POR CULTURAS ACLIMATADAS (96% DA REMOÇÍO DA DQO EM SISTEMAS DE LODOS ATIVADOS
+ACLIMATADOS AO ETILENOGLICOL COMO ÚNICA FONTEDE CARBONO)
+Potencial de concentração na cadeia alimentar
+NENHUM.
+Demanda bioquímica de oxigênio (DBO)
+( OBS. 1)
+Neutralização e disposição final
+DISSOLVER OU MISTURAR O MATERIAL EM UM SOLVENTE COMBUSTÍVEL E QUEIMAR EM UM INCINERADOR QUÍMICO
+EQUIPADO COM PÓS-QUEIMADOR E LAVADOR DE GASES. RECOMENDA-SE O ACOMPANHAMENTO POR UM ESPECIALISTA DO
+ÓRGÍO AMBIENTAL.
+INFORMAÇÕES ECOTOXICOLÓGICAS Help
+Toxicidade - limites e padrões
+L.P.O.: NÍO PERTINENTE
+P.P.: NÍO ESTABELECIDO
+IDLH: DADO NÍO DISPONÍVEL
+LT: Brasil - Valor Médio 48h: DADO NÍO DISPONÍVEL
+LT: Brasil - Valor Teto: DADO NÍO DISPONÍVEL
+LT: EUA - TWA: NÍO ESTABELECIDO
+LT: EUA - STEL: 100 mg/m³ (TETO) - APENAS AEROSSOL
+Toxicidade ao homem e animais superiores (vertebrados)
+M.D.T.: DADO NÍO DISPONÍVEL
+M.C.T.: SER HUMANO: TCLo = 10.000 mg/m³ ( OBS.2)
+Toxicidade: Espécie: RATO
+Via Respiração (CL50): NENHUM DANO: 140 - 160 ppm, 8 h/DIA, 16 SEMANAS
+Via Oral (DL 50): 5,5 mL/kg;8,54 g/kg
+Via Cutânea (DL 50): 5.300 mg/kg (SUBCUT.)
+Toxicidade: Espécie: CAMUNDONGO
+Via Oral (DL 50): 13,1 mL/kg;13,7 g/kg Via Cutânea (DL 50): LDLo: 2.700 mg/kg (SUBCUT.)
+Toxicidade: Espécie: OUTROS
+Via Oral (DL 50): COBAIA: 7,35 mL/kg; 6,61 g/kg Via Cutânea (DL 50): COELHO: 19.530 mg/kg
+Toxicidade aos organismos aquáticos: PEIXES : Espécie
+CARASSIUS AURATUS: DL50 (24 h) > 5000 mg/L; POECILIA RETICULATA: CL50 (7 DIAS) = 49.300 ppm
+Toxicidade aos organismos aquáticos: CRUSTÁCEOS : Espécie
+CAMARÍO (MARINHO): CL50 (48 h) > 100 ppm
+Toxicidade aos organismos aquáticos: ALGAS : Espécie
+L.tox. T.I.M.C. MICROCYSTIS AERUGINOSA = 2.000 mg/L; SCENEDESMUS QUADRICAUDA >10.000 mg/L (ALGA VERDE);
+CHLORELLA PYRENOIDOSA: TÓXICO A 180.000 mg/L; SCENEDESMMUS sp,: NENHUM EFEITO A 1 g/L
+Toxicidade a outros organismos: BACTÉRIAS
+L. tox. T.I.M.C. PSEUDOMONAS PUTIDA > 10.000 mg/L; PSEUDOMONAS sp = TÓXICO A 250 mg/L
+Toxicidade a outros organismos: MUTAGENICIDADE
+SALMONELLA sp: 0,0004 COLONIAS REVERTENTES/nmol E > 70 COLONIAS REVERTENTES A 10E4 ug/PLACA
+Toxicidade a outros organismos: OUTROS
+PROTOZOARIOS: L.tox.T.I.M.C. ENTOSIPHON SULCATUM > 10.000 mg/L; URONEMA PARDUCZI (CHATTON-LWOFF) >10.000
+--- PÁGINA 3 ---
+mg/L
+Informações sobre intoxicação humana
+CHAMAR OS BOMBEIROS. PARAR O VAZAMENTO, SE POSSÍVEL. ISOLAR E REMOVER O MATERIAL DERRAMADO.
+Tipo de contato Síndrome tóxica Tratamento
+Tipo de contato Síndrome tóxica Tratamento
+LÍQUIDO IRRITANTE PARA A PELE. IRRITANTE REMOVER ROUPAS E SAPATOS
+PARA OS OLHOS. SE INGERIDO, CONTAMINADOS E ENXAGUAR COM MUITA
+CAUSARÁ PERDA DA CONSCIÊNCIA. ÁGUA. MANTER AS PÁLPEBRAS ABERTAS E
+ENXAGUAR COM MUITA ÁGUA. MANTER A
+VÍTIMA AQUECIDA.
+DADOS GERAIS Help
+Temperatura e armazenamento
+AMBIENTE.
+Ventilação para transporte
+ABERTA.
+Estabilidade durante o transporte
+ESTÁVEL.
+Usos
+LÍQUIDO DE RESFRIAMENTO E COMO ANTICONGELANTE; EM TINTAS A BASE DE EMULSÍO; AGENTE DE TRANSFERENCIA DE
+CALOR EM REFRIGERAÇÍO E TUBOS ELETRÔNICOS EM LAMINADOS DE BAIXA PRESSÍO;COMO FLUIDO DE FREIO; ( OBS.3)
+Grau de pureza
+INDUSTRIAL: BAIXA CONDUTIVIDADE.
+Radioatividade
+NÍO TEM.
+Método de coleta
+DADO NÍO DISPONÍVEL.
+Código NAS (National Academy of Sciences)
+FOGO SAÚDE POLUIÇÍO DAS ÁGUAS REATIVIDADE
+Fogo: 1 Vapor Irritante: 0 Toxicidade humana: 2 Outros Produtos Químicos: 2
+Líquido/Sólido Irritante: 0 Toxicidade aquática: 1 Água: 0
+Venenos: 1 Efeito estético: 1 Auto reação: 0
+OBSERVAÇÕES Help
+1) DBO: 12.5% (TEOR.), 5 DIAS; 78% (TEOR.), 20 DIAS. 2) HOMEM: DL50 (DOSE ÚNICA) = 1.4 mL/kg, NENHUMA
+IRRITAÇÍO SIGNIFICATIVA A PELE SER HUMANO: LDLo = 710 mg/L (ORAL) CRIANÇAS: TDLo = 7.400 mg/kg (ORAL) 3)
+FABRICAÇÍO DE DIACETATO DE GLICOL, EM FIBRAS E FILMES DE POLIÉSTER, EM DINAMITES DE BAIXO PONTO DE
+CONGELAMENTO, COMO SOLVENTE, COMO AGENTE DE EXTRAÇÍO PARA VÁRIOS FINS, EM MISTURAS SOLVENTES PARA
+ESTERES E ÉTER DE CELULOSE,ESPECIALMENTE CELOFANE; EM COSMÉTICOS (ATÉ 5%); EM LACAS;EM RESINAS
+ALQUIDICAS; EM TINTAS DE IMPRESSÍO. TAXA DE TOXICIDADE AOS ORGANISMOS AQUÁTICOS: TLm (96 h) = 100ppm -
+1.000 ppm POTENCIAL DE IONIZAÇÍO (PI) = 10,16 eV

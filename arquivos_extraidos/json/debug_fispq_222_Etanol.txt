@@ -1,0 +1,158 @@
+--- PÁGINA 1 ---
+Ficha de Informação de Produto Químico
+IDENTIFICAÇÍO Help
+Número ONU Nome do produto Rótulo de risco
+1170 ÁLCOOL ETÍLICO
+Número de risco Classe / Subclasse
+- 3
+Sinônimos
+ETANOL ; ÁLCOOL DE CEREAIS ; ÁLCOOL
+Aparência
+LÍQUIDO AQUOSO ; SEM COLORAÇÍO ; ODOR DE ÁLCOOL ; FLUTUA E MISTURA COM ÁGUA ; INFLAMÁVEL ; PRODUZ
+VAPORES IRRITANTES.
+Fórmula molecular Família química
+C2 H6 O ÁLCOOL
+Fabricantes
+Para informações atualizadas recomenda-se a consulta às seguintes instituições ou referências:
+ABIQUIM - Associação Brasileira da Indústria Química : Fone 0800-118270
+ANDEF - Associação Nacional de Defesa Vegetal: Fone (11) 3081-5033
+Revista Química e Derivados - Guia geral de produtos químicos, Editora QD: Fone (11) 3826-6899
+Programa Agrofit - Ministério da Agricultura
+MEDIDAS DE SEGURANÇA Help
+Medidas preventivas imediatas
+MANTER AS PESSOAS AFASTADAS. CHAMAR OS BOMBEIROS. PARAR O VAZAMENTO, SE POSSÍVEL. ISOLAR E REMOVER O
+MATERIAL DERRAMADO. DESLIGAR AS FONTES DE IGNIÇÍO. FICAR CONTRA O VENTO E USAR NEBLINA D'ÁGUA PARA BAIXAR
+O VAPOR.
+Equipamentos de Proteção Individual (EPI)
+USAR LUVAS, BOTAS E ROUPAS DE BORRACHA NATURAL OU BUTÍLICA, PVC OU NEOPRENE E MÁSCARA FACIAL PANORAMA
+COM FILTRO CONTRA VAPORES ORGÂNICOS.
+RISCOS AO FOGO Help
+Ações a serem tomadas quando o produto entra em combustão
+EXTINGUIR COM PÓ QUÍMICO SECO, ESPUMA DE ÁLCOOL OU DIOXIDO DE CARBONO. ESFRIAR OS RECIPIENTES EXPOSTOS
+COM ÁGUA.
+Comportamento do produto no fogo
+O RETROCESSO DA CHAMA PODE OCORRER DURANTE O ARRASTE DE VAPOR. O VAPOR PODE EXPLODIR SE A IGNIÇÍO FOR
+EM ÁREA FECHADA.
+Produtos perigosos da reação de combustão
+NENHUM.
+Agentes de extinção que não podem ser usados
+A ÁGUA PODE SER INEFICAZ NO FOGO.
+Limites de inflamabilidade no ar
+Limite Superior: 19%
+Limite Inferior: 3,3%
+Ponto de fulgor
+17,8°C (V.AB.) ;12,8°C (V.FEC.)
+Temperatura de ignição
+365,2 °C
+Taxa de queima
+3,9 mm/min
+Taxa de evaporação (éter=1)
+7,0
+NFPA (National Fire Protection Association)
+Perigo de Saúde (Azul): 0
+--- PÁGINA 2 ---
+Inflamabilidade (Vermelho): 3
+Reatividade (Amarelo): 0
+PROPRIEDADES FÍSICO-QUÍMICAS E AMBIENTAIS Help
+Peso molecular Ponto de ebulição (°C) Ponto de fusão (°C)
+46,07 78,3 -112
+Temperatura crítica (°C) Pressão crítica (atm) Densidade relativa do vapor
+243,2 63,0 1,6
+Densidade relativa do líquido (ou Pressão de vapor Calor latente de vaporização (cal/g)
+sólido) 60 mmHg A 26 °C 200
+0,790 A 20 °C (LÍQUIDO)
+Calor de combustão (cal/g) Viscosidade (cP)
+-6.425 1,11
+Solubilidade na água pH
+MISCÍVEL 7,0
+Reatividade química com água
+NÍO REAGE.
+Reatividade química com materiais comuns
+NÍO REAGE.
+Polimerização
+NÍO OCORRE.
+Reatividade química com outros materiais
+DADO NÍO DISPONÍVEL.
+Degradabilidade
+DADO NÍO DISPONÍVEL.
+Potencial de concentração na cadeia alimentar
+NENHUM.
+Demanda bioquímica de oxigênio (DBO)
+(OBS. 1)
+Neutralização e disposição final
+QUEIMAR EM UM INCINERADOR QUÍMICO EQUIPADO COM PÓS-QUEIMADOR E LAVADOR DE GASES. TOMAR OS DEVIDOS
+CUIDADOS NA IGNIÇÍO, POIS O PRODUTO É ALTAMENTE INFLAMÁVEL. RECOMENDA-SE O ACOMPANHAMENTO POR UM
+ESPECIALISTA DO ÓRGÍO AMBIENTAL.
+INFORMAÇÕES ECOTOXICOLÓGICAS Help
+Toxicidade - limites e padrões
+L.P.O.: 10 pmm
+P.P.: NÍO ESTABELECIDO
+IDLH: 3.300 ppm (LII)
+LT: Brasil - Valor Médio 48h: 780 ppm
+LT: Brasil - Valor Teto: 975 ppm
+LT: EUA - TWA: 1.000 ppm
+LT: EUA - STEL: NÍO ESTABELECIDO
+Toxicidade ao homem e animais superiores (vertebrados)
+M.D.T.: DADO NÍO DISPONÍVEL
+M.C.T.: DADO NÍO DISPONÍVEL (OBS. 2)
+Toxicidade: Espécie: RATO
+Via Respiração (CL50): QUANTO A INTOXICAÇÍO (OBS. 2); 20.000 ppm (10 h)
+Via Oral (DL 50): 13,7 ml/kg; 7.060 mg/kg
+Via Cutânea (DL 50): 4.070 mg/kg (INTRAP.)
+Toxicidade: Espécie: CAMUNDONGO
+Via Oral (DL 50): 7.800 ug/kg Via Cutânea (DL 50): 1.230 mg/kg (INTRAP.)
+Toxicidade: Espécie: OUTROS
+Via Respiração (CL50): QUANTO A INTOXICAÇÍO (OBS. 2) Via Oral (DL 50): COELHO: 12,5 ml/kg; CÍO: LDLo = 5.500 mg/kg
+Via Cutânea (DL 50): COELHO: LDLo 20 g/kg; (OBS. 2)
+Toxicidade aos organismos aquáticos: PEIXES : Espécie
+POECILIA RETICULATA: CL50 (7 DIAS): 11.050 ppm; SEMOLITUS ATROMACULATUS: CL50 (24 h) : > 7.000 ppm; (OBS. 3)
+Toxicidade aos organismos aquáticos: CRUSTÁCEOS : Espécie
+Toxicidade aos organismos aquáticos: ALGAS : Espécie
+--- PÁGINA 3 ---
+L.tox T.I.M.C. MICROCYSTIS AERUGINOSA = 1.450 mg/L; SCENEDESMUS QUADRICAUDA = 5.000 mg/L (ALGA VERDE).
+Toxicidade a outros organismos: BACTÉRIAS
+L.tox T.I.M.C. PSEUDOMONAS PUTIDA: 6.500 mg/L
+Toxicidade a outros organismos: MUTAGENICIDADE
+SACCHAROMYCES CEREVISIAE: "mmo" = 24 pph; RATO: "cyt" = 2 g/kg (ORAL); (OBS. 4)
+Toxicidade a outros organismos: OUTROS
+PROTOZOÁRIO: L.tox T.I.M.C. ENTOSIPHON SULCATUM = 65 mg/L; URONEMA PARCUCZI (CHATTON-LWOFF)= 6.120 mg/L.
+Informações sobre intoxicação humana
+MANTER AS PESSOAS AFASTADAS. CHAMAR OS BOMBEIROS. PARAR O VAZAMENTO, SE POSSÍVEL. ISOLAR E REMOVER O
+MATERIAL DERRAMADO. DESLIGAR AS FONTES DE IGNIÇÍO. FICAR CONTRA O VENTO E USAR NEBLINA D'ÁGUA PARA BAIXAR
+O VAPOR.
+Tipo de contato Síndrome tóxica Tratamento
+VAPOR IRRITANTE PARA OS OLHOS, NARIZ E MOVER PARA O AR FRESCO.
+GARGANTA.
+Tipo de contato Síndrome tóxica Tratamento
+LÍQUIDO NÍO É PREJUDICIAL.
+DADOS GERAIS Help
+Temperatura e armazenamento
+AMBIENTE.
+Ventilação para transporte
+ABERTA OU PRESSÍO A VÁCUO.
+Estabilidade durante o transporte
+ESTÁVEL.
+Usos
+SOLVENTE PARA RESINAS, GORDURAS, ÓLEOS, ÁCIDOS GRAXOS, HIDROCARBONETOS, HIDRÓXIDOS ALCALINOS; MEIO DE
+EXTRAÇÍO; FABRICAÇÍO DE INTERMEDIÁRIOS, DERIVADOS ORGÂNICOS, CORANTES; DROGAS SINTÉTICAS, ELASTÔMEROS,
+DETERGENTES, COSMÉTICOS, (OBS. 5).
+Grau de pureza
+ANIDRO 200 (TEOR ALCOÓLICO) E 190 (TEOR ALCOÓLICO).
+Radioatividade
+NÍO TEM.
+Método de coleta
+DADO NÍO DISPONÍVEL.
+Código NAS (National Academy of Sciences)
+FOGO SAÚDE POLUIÇÍO DAS ÁGUAS REATIVIDADE
+Fogo: 3 Vapor Irritante: 1 Toxicidade humana: 1 Outros Produtos Químicos: 2
+Líquido/Sólido Irritante: 0 Toxicidade aquática: 1 Água: 0
+Venenos: 1 Efeito estético: 1 Auto reação: 0
+OBSERVAÇÕES Help
+1) 125%, 5 DIAS; 44.2% (TEOR.), 5 DIAS; 71.2% (TEOR.), 20 DIAS. 2) RATO: NENHUM SINAL DE INTOXICAÇÍO A 10.750
+ppm (0.5 h) E 3.206 (6 h); OUTROS: COBAIA: NENHUM SINAL DE INTOXICAÇÍO A 6.400 ppm (8 h) E 3.000 ppm (64 x 4 h);
+CRIANÇA: LDLo = 2.000 mg/kg (ORAL); HOMEM: TDLo = 256 g/kg/12 SEMANAS; MULHER: TDLo = 50 mg/kg (ORAL). 3)
+PIMEPHALES PROMELAS: BIOENSAIO ESTÁTICO NAS "ÁGUAS DO LAGO SUPERIOR" (EUA), A 18 - 22°C : CL50 : > 18 mg/L (1
+- 24 h); E CL50 : > 13.480 mg/L (48 - 96 h); CARASSIUS AURATUS : LETAL A 250 ppm (6 h) - ÁGUA CONTINENTAL. 4)
+MUTAGÊNICOS: SER HUMANO: "cyt" = 1.160 g/L (LINFÓCITO); "cyt" = 12.000 ppm (FIBROBLASTO). CÍO: "mnt" = 400
+umol/L (LINFÓCITO). 5) SOLUÇÍO DE LIMPEZA, RECOBRIMENTOS SUPERFICIAIS, PRODUTO FARMACÊUTICOS, EXPLOSIVOS,
+ANTI-CONGELANTES, ANTI-SÉPTICOS E MEDICINA. POTENCIAL DE IONIZAÇÍO (PI) = 10,47 eV.

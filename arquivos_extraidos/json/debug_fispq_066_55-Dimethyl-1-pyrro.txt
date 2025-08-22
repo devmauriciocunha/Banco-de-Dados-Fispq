@@ -1,0 +1,248 @@
+--- PÁGINA 1 ---
+SIGMA-ALDRICH
+sigma-aldrich.com
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS
+QUÍMICOS
+Versão 5.0 Data de revisão 22.02.2011
+Data de impressão 24.02.2011
+1. IDENTIFICAÇÍO DO PRODUTO E DA EMPRESA
+1.1 Identificadores do produto
+Nome do produto : 5,5-Dimethyl-1-pyrroline N-oxide
+Referência do Produto : D5766
+Marca : Sigma
+1.2 Outros meios de identificação
+DMPO
+1.3 Utilizações identificadas relevantes da substância ou mistura e utilizações desaconselhadas
+Só para utilização R&D. Não para utilização farmaceutica, doméstica ou outras utilizações.
+1.4 Identificação do fornecedor da ficha de dados de segurança
+Companhia : Sigma-Aldrich Brasil Ltda.
+Av. das Nações Unidas, 23.043
+04795-100 SÍO PAULO - SP
+BRAZIL
+Telefone : +551137323100
+Número de Fax : +551155229895
+Email endereço : sigmabr@sial.com
+1.5 Número de telefone de emergência
+(11) 9687-9933
+2. IDENTIFICAÇÍO DE PERIGOS
+2.1 Classificação GHS
+Não é uma substância ou mistura perigosa de acordo com o Sistema Harmonizado Global (GHS).
+2.3 Outros Perigos - nenhum(a)
+3. COMPOSIÇÍO E INFORMAÇÕES SOBRE OS INGREDIENTES
+3.1 Substâncias
+Sinónimos : DMPO
+Formula : C6H11NO C6H11NO
+Peso molecular : 113.16 g/mol
+Componente Concentração
+3,4-Dihydro-2,2-dimethyl-2H-pyrrole 1-oxide
+No. CAS 3317-61-1 -
+No. CE 222-011-1
+Sigma - D5766 5,5-Dimethyl-1-pyrroline N-oxide Página 1 de 6
+--- PÁGINA 2 ---
+4. MEDIDAS DE PRIMEIROS-SOCORROS
+4.1 Descrição das medidas de primeiros socorros
+Se for inalado
+Se for respirado, levar a pessoa para o ar fresco. Se não respirar, dar respiração artificial.
+No caso dum contacto com a pele
+Lavar com sabão e muita água.
+No caso dum contacto com os olhos
+Lavar os olhos com água como precaução.
+Se for engolido
+Nunca dar nada pela boca a uma pessoa inconsciente. Enxaguar a boca com água.
+4.2 Sintomas e efeitos mais importantes, tanto agudos como retardados
+Até onde sabemos, as propriedades químicas, físicas e toxicológicas não foram minuciosamente
+investigadas.
+4.3 Indicações sobre cuidados médicos urgentes e tratamentos especiais necessários
+dados não disponíveis
+5. MEDIDAS DE COMBATE A INCÊNDIO
+5.1 Meios de extinção
+Meios adequados de extinção
+Utilizar água pulverizada, espuma resistente ao álcool, produto químico seco ou dióxido de carbono.
+5.2 Perigos especiais decorrentes da substância ou mistura
+Óxidos de carbono, óxidos de azoto (NOx)
+5.3 Recomendações para o pessoal de combate a incêndios
+Usar equipamento de respiração autónomo para combate a incêndios, se necessário.
+5.4 Outras informações
+dados não disponíveis
+6. MEDIDAS DE CONTROLE PARA DERRAMAMENTO OU VAZAMENTO
+6.1 Precauções individuais, equipamento de protecção e procedimentos de emergência
+Evitar a respiração do vapor/névoa/gas.
+6.2 Precauções a nível ambiental
+Não permitir a entrada do produto no sistema de esgotos.
+6.3 Métodos e materiais de confinamento e limpeza
+Manter em recipientes fechados adequados, para eliminação.
+6.4 Remissão para outras secções
+Para eliminação de resíduos ver secção 13.
+7. MANUSEIO E ARMAZENAMENTO
+7.1 Precauções para um manuseamento seguro
+Medidas usuais de protecção preventiva contra incêndio.
+7.2 Condições de armazenagem segura, incluindo eventuais incompatibilidades
+Armazenar em local fresco. Guardar o recipiente herméticamente fechado em lugar seco e bem ventilado.
+Os contentores abertos devem ser cuidadosamente fechados de novo e têm que ficar direitos para evitar a
+dispersão.
+Temperatura recomendada de armazenagem: -20 °C
+Manusear em atmosfera de gás inerte. Manter ao abrigo da humidade. Sensível à luz. higroscópico
+Sigma - D5766 5,5-Dimethyl-1-pyrroline N-oxide Página 2 de 6
+--- PÁGINA 3 ---
+7.3 Utilizações finais específicas
+dados não disponíveis
+8. CONTROLE DE EXPOSIÇÍO E PROTEÇÍO INDIVIDUAL
+8.1 Parâmetros de controlo
+Límites de exposição ocupacional
+Nós não temos conhecimento de nenhuma limite de exposição nacional.
+8.2 Controlo da exposição
+Controlos técnicos adequados
+Prática geral de higiene industrial.
+Protecção individual
+Protecção ocular/ facial
+Use equipamento de proteção ocular testado e aprovado de acordo com as normas governamentais
+adequadas, tais como NIOSH (US) ou EN 166 (EU).
+Protecção da pele
+Manusear com luvas. As luvas devem ser inspectadas antes da utilização. Use uma técnica
+adequada para a remoção das luvas (sem tocar a superfície exterior da luva) para evitar o contacto
+da pele com o produto. Descarte as luvas contaminadas após o uso, em conformidade com as leis e
+boas práticas de laboratório . Lavar e secar as mãos.
+As luvas de protecção seleccionadas devem satisfazer as especificações da Directiva da UE
+89/689/CEE e a norma EN 374 derivada dela.
+Protecção do corpo
+roupas impermeáveis, O genero de equipamento de protecção deve ser escolhido de acordo com a
+concentração e a quantidade da substância perigosa no lugar de trabalho.
+Protecção respiratória
+Não requer proteção respiratória. Para exposições incomodas usar respiradores com cartuchos OV
+/ AG (US) ou tipo ABEK (UE EN 14387). Use respiradores e componentes testados e aprovados por
+normas governamentais apropriadas, tais como as NIOSH (E.U.A.) ou CEN (UE).
+9. PROPRIEDADES FÍSICAS E QUÍMICAS
+9.1 Informações sobre propriedades físicas e químicas de base
+a) Aspecto Estado físico: Massa ou fragmentos solidificados
+Cor: amarelo claro
+b) Odor dados não disponíveis
+c) Limite de Odor dados não disponíveis
+d) pH dados não disponíveis
+e) Ponto de fusão/ponto Ponto/intervalo de fusão: 25 - 29 °C - lit.
+de congelamento
+f) Ponto de ebulição inicial 75 °C a 0.5 hPa - lit.
+e intervalo de ebulição
+g) Ponto de fulgor 95 °C - câmara fechada
+h) Taxa de evaporação dados não disponíveis
+i) Inflamabilidade (sólido, dados não disponíveis
+gás)
+j) Limites de dados não disponíveis
+inflamabilidade superior
+/ inferior ou
+explosividade
+Sigma - D5766 5,5-Dimethyl-1-pyrroline N-oxide Página 3 de 6
+--- PÁGINA 4 ---
+k) Pressão de vapor dados não disponíveis
+l) Densidade de vapor dados não disponíveis
+m) Densidade relativa 1.015 g/cm3 a 25 °C
+n) Hidrossolubilidade dados não disponíveis
+o) Coeficiente de partição dados não disponíveis
+n-octanol/água
+p) Temperatura de auto- dados não disponíveis
+ignição
+q) Temperatura de dados não disponíveis
+decomposição
+r) Viscosidade dados não disponíveis
+10. ESTABILIDADE E REATIVIDADE
+10.1 Reactividade
+dados não disponíveis
+10.2 Estabilidade química
+dados não disponíveis
+10.3 Possibilidade de reacções perigosas
+dados não disponíveis
+10.4 Condições a evitar
+Ar Evitar a humidade. Luz
+10.5 Materiais incompatíveis
+Agentes oxidantes fortesAgentes oxidantes fortes
+10.6 Produtos de decomposição perigosos
+Outros produtos de decomposição perigosos - dados não disponíveis
+11. INFORMAÇÕES TOXICOLÓGICAS
+11.1 Informações sobre os efeitos toxicológicos
+Toxicidade aguda
+dados não disponíveis
+Corrosão/irritação cutânea
+dados não disponíveis
+Lesões oculares graves/irritação ocular
+dados não disponíveis
+Sensibilização respiratória ou cutânea
+dados não disponíveis
+Mutagenicidade em células germinativas
+dados não disponíveis
+Carcinogenicidade
+IARC: Nenhum componente deste produto presente a níveis maiores ou iguais a 0.1% é identificado
+como carcinogénio provável, possível ou confirmado pelo IARC.
+Toxicidade à reproduçã e lactação
+dados não disponíveis
+Toxicidade sistêmica para órgãos-alvo específicos - exposição única
+dados não disponíveis
+Sigma - D5766 5,5-Dimethyl-1-pyrroline N-oxide Página 4 de 6
+--- PÁGINA 5 ---
+Toxicidade sistêmica para órgãos-alvo específicos - exposição repetida
+dados não disponíveis
+Perigo de aspiração
+dados não disponíveis
+Efeitos potenciais para a saúde
+Inalação Pode ser perigoso se for inalação. Pode causar uma irritação do aparelho
+respiratório.
+Ingestão Pode ser perigoso se for engolido.
+Pele Pode ser perigoso se for absorto pela pele. Pode causar uma irritação da
+pele.
+Olhos Pode causar uma irritação dos olhos.
+Sinais e sintomas de exposição
+Até onde sabemos, as propriedades químicas, físicas e toxicológicas não foram minuciosamente
+investigadas.
+Informação adicional
+RTECS: dados não disponíveis
+12. INFORMAÇÕES ECOLÓGICAS
+12.1 Ecotoxicidade
+dados não disponíveis
+12.2 Persistência e degradabilidade
+dados não disponíveis
+12.3 Potencial biocumulativo
+dados não disponíveis
+12.4 Mobilidade no solo
+dados não disponíveis
+12.5 Resultados da avaliação PBT e mPmB
+dados não disponíveis
+12.6 Outros efeitos adversos
+dados não disponíveis
+13. CONSIDERAÇÕES SOBRE TRATAMENTO E DISPOSIÇÍO
+13.1 Métodos de tratamento de resíduos
+Produto
+Propor a entrega de soluções excedentes e não recicláveis a uma empresa idónea de tratamento de
+resíduos.
+Embalagens contaminadas
+Eliminar como produto Não utilizado.
+14. INFORMAÇÕES SOBRE TRANSPORTE
+14.1 Número ONU
+ADR/RID: - DOT (US): - IMDG: - IATA: -
+14.2 Designação oficial de transporte da ONU
+ADR/RID: Mercadorias não perigosas
+DOT (US): Mercadorias não perigosas
+IMDG: Mercadorias não perigosas
+IATA: Mercadorias não perigosas
+14.3 Classes de perigo para efeitos de transporte
+ADR/RID: - DOT (US): - IMDG: - IATA: -
+Sigma - D5766 5,5-Dimethyl-1-pyrroline N-oxide Página 5 de 6
+--- PÁGINA 6 ---
+14.4 Grupo de embalagem
+ADR/RID: - DOT (US): - IMDG: - IATA: -
+14.5 Perigos para o ambiente
+ADR/RID: não DOT (US): não IMDG Poluente marinho: não IATA: não
+14.6 Precauções especiais para o utilizador
+dados não disponíveis
+15. REGULAMENTAÇÕES
+15.1 Regulamentação/legislação específica para a substância ou mistura em matéria de saúde, segurança
+e ambiente
+Esta Ficha de Informações de Produtos Químicos foi preparada de acordo com a NBR 14725-4/2009 da
+ABNT (Associação Brasileira de Normas Técnicas)
+16. OUTRAS INFORMAÇÕES
+Outras informações
+Direitos exclusivos, 2011, da Sigma-Aldrich. Permissão concedida para fazer número ilimitado de cópias
+em papel, somente para uso interno.
+Acredita-se que as informações acima estejam corretas, embora não pretendam ser totalmente
+abrangentes, devendo ser usadas apenas como um guia. A Sigma-Aldrich não deverá ter
+responsabilidade legal por quaisquer danos resultantes do manuseio ou do contato com o produto acima.
+Consultar o verso da fatura ou nota que acompanha o produto para tomar conhecimento dos termos
+adicionais e condições de venda.
+Sigma - D5766 5,5-Dimethyl-1-pyrroline N-oxide Página 6 de 6

@@ -1,0 +1,267 @@
+--- PÁGINA 1 ---
+SIGMA-ALDRICH
+sigma-aldrich.com
+FICHA DE DADOS DE SEGURANÇA
+de acordo com a Regulamento (CE) No. 1907/2006
+Versão 4.1 Data de revisão 05.05.2010
+Data de impressão 26.01.2011
+ENERIC EU MSDS - NO COUNTRY SPECIFIC DATA - NO OEL DATA
+1. IDENTIFICAÇÍO DA SUBSTÂNCIA/MISTURA E DA SOCIEDADE/EMPRESA
+Nome do produto : Sodium thiocyanate
+Referência do Produto : 251410
+Marca : Sigma-Aldrich
+Companhia : Sigma-Aldrich Brasil Ltda.
+Av. das Nações Unidas, 23.043
+04795-100 SÍO PAULO - SP
+BRAZIL
+Telefone : +551137323100
+Número de Fax : +551155229895
+Núnero de Telefone de :
+Emergência
+2. IDENTIFICAÇÍO DOS PERIGOS
+Classificação da substância ou da mistura
+Nos termos do Regulamento (CE) No1272/2008
+Toxicidade aguda (Categoria 4)
+Toxicidade aguda (Categoria 4)
+Toxicidade aguda (Categoria 4)
+Toxicidade crónica para o ambiente aquático (Categoria 3)
+De acordo com a directiva Europeia 67/548/CEE, e emendas.
+Nocivo por inalação, em contacto com a pele e por ingestão. Em contacto com ácidos liberta gases muito
+tóxicos. Nocivo para os organismos aquáticos, podendo causar efeitos nefastos a longo prazo no ambiente
+aquático.
+Elementos da etiqueta
+Pictograma
+Palavra-sinal Atenção
+Declaração de perigo
+H302 Nocivo por ingestão.
+H312 Nocivo em contacto com a pele.
+H332 Nocivo por inalação.
+H412 Nocivo para os organismos aquáticos com efeitos duradouros.
+EUH032 Em contacto com ácidos liberta gases muito tóxicos.
+declaração de precaução
+P273 Evitar a libertação para o ambiente.
+P280 Usar luvas de protecção/vestuário de protecção.
+símbolo de perigosidade
+Xn Nocivo
+Frase(s) - R
+R20/21/22 Nocivo por inalação, em contacto com a pele e por ingestão.
+R32 Em contacto com ácidos liberta gases muito tóxicos.
+R52/53 Nocivo para os organismos aquáticos, podendo causar efeitos nefastos a
+Sigma-Aldrich - 251410 Página 1 de 6
+--- PÁGINA 2 ---
+longo prazo no ambiente aquático.
+Frase(s) - S
+S13 Manter afastado de alimentos e bebidas incluindo os dos animais.
+S36/37 Usar vestuário de protecção e luvas adequadas.
+S46 Em caso de ingestão, consultar imediatamente o médico e mostrar-lhe a
+embalagem ou o rótulo.
+S61 Evitar a libertação para o ambiente. Obter instruções específicas/fichas de
+segurança.
+Outros Perigos - nenhum(a)
+3. COMPOSIÇÍO/INFORMAÇÍO SOBRE OS COMPONENTES
+Sinónimos : Sodium rhodanide
+Sodium isothiocyanate
+Sodium rhodanate
+Sodium sulfocyanate
+Formula : CNNaS
+Peso molecular : 81,07 g/mol
+No. CAS No. CE No. de Index Classificação Concentração
+Sodium thiocyanate
+540-72-7 208-754-4 615-030-00-5 Acute Tox. 4; Aquatic Chronic -
+3; H302, H312, H332, H412,
+EUH032
+Xn, R20/21/22 - R32 - R52/53
+Para o pleno texto das DECLARAÇÕES H mencionadas nesta Secção, ver a Secção 16.
+4. PRIMEIROS SOCORROS
+Recomendação geral
+Consultar um médico. Mostrar esta ficha de segurança ao médico de serviço.
+Se for inalado
+Se for respirado, levar a pessoa para o ar fresco. Se não respirar, dar respiração artificial. Consultar um
+médico.
+No caso dum contacto com a pele
+Lavar com sabão e muita água. Consultar um médico.
+No caso dum contacto com os olhos
+Lavar os olhos com água como precaução.
+Se for engolido
+Nunca dar nada pela boca a uma pessoa inconsciente. Enxaguar a boca com água. Consultar um médico.
+5. MEDIDAS DE COMBATE A INCÊNDIO
+Meios adequados de extinção
+Dióxido de carbono (CO2) Pó seco
+Meios de extinção que, por razões de segurança, não devam ser utilizados
+Água
+Equipamento especial de protecção a utilizar pelo pessoal de combate a incêndio
+Usar equipamento de respiração autónomo para combate a incêndios, se necessário.
+6. MEDIDAS A TOMAR EM CASO DE FUGAS ACIDENTAIS
+Precauções individuais
+Pôr uma protecção respiratória. Evitar a formação de poeira. Evitar a respiração do vapor/névoa/gas.
+Assegurar ventilação adequada. Evitar de respirar o pó.
+Sigma-Aldrich - 251410 Página 2 de 6
+--- PÁGINA 3 ---
+Precauções ambientais
+Prevenir dispersão ou derramamento ulterior se for mais seguro assim. Não permitir a entrada do produto no
+sistema de esgotos. A descarga no meio ambiente deve ser evitada.
+Métodos e materiais para a contenção e a limpeza
+Apanhar os resíduos sem levantar poeiras. Varrer e apanhar com uma pá. Não utilizar jactos de água.
+Manter em recipientes fechados adequados, para eliminação.
+7. MANUSEAMENTO E ARMAZENAGEM
+Precauções para um manuseamento seguro
+Evitar o contacto com a pele e os olhos. Evitar a formação de pó e aerossois.
+Providenciar uma adequada ventilação em locais onde se formem poeiras. Medidas usuais de protecção
+preventiva contra incêndio.
+Condições para uma armazenagem segura
+Guardar o recipiente herméticamente fechado em lugar seco e bem ventilado. Armazenar em local fresco.
+Nunca permitir que o produto contacte com a água durante o armazenamento. Não armazenar junto de
+ácidos.
+Sensível à luz. higroscópico
+8. CONTROLO DA EXPOSIÇÍO/PROTECÇÍO PESSOAL
+Protecção individual
+Protecção respiratória
+Nos casos em que a avaliação de risco mostrar que os respiradores purificadores do ar são apropriados,
+use um respirador de partículas do tipo N100 (E.U.A.) ou cartuchos de respiração do tipo P2 (EN 143)
+como apoio a controlos de engenharia. Se o respirador for o único meio de protecção, usa um respirador
+de ar de cobertura facial total. Use respiradores e componentes testados e aprovados por normas
+governamentais apropriadas, tais como as NIOSH (E.U.A.) ou CEN (UE).
+Protecção das mãos
+Manusear com luvas. As luvas devem ser inspectadas antes da utilização. Use uma técnica adequada
+para a remoção das luvas (sem tocar a superfície exterior da luva) para evitar o contacto da pele com o
+produto. Descarte as luvas contaminadas após o uso, em conformidade com as leis e boas práticas de
+laboratório . Lavar e secar as mãos.
+As luvas de protecção seleccionadas devem satisfazer as especificações da Directiva da UE 89/689/CEE
+e a norma EN 374 derivada dela.
+Protecção dos olhos
+Óculos de protecção com um lado protector de acordo com EN 166 Use equipamento de proteção ocular
+testado e aprovado de acordo com as normas governamentais adequadas, tais como NIOSH (US) ou EN
+166 (EU).
+Protecção do corpo e da pele
+Fato completo de protecção para produtos químicos, O genero de equipamento de protecção deve ser
+escolhido de acordo com a concentração e a quantidade da substância perigosa no lugar de trabalho.
+Medidas de higiene
+Manusear de acordo com as boas práticas industriais de higiene e segurança. Lavar as mãos antes de
+interrupções, e no final do dia de trabalho.
+9. PROPRIEDADES FÍSICAS E QUÍMICAS
+Aspecto
+Estado físico sólido
+Cor incolor
+Odor inodoro
+Dados de segurança
+pH dados não disponíveis
+Sigma-Aldrich - 251410 Página 3 de 6
+--- PÁGINA 4 ---
+Ponto de fusão 287 °C
+Ponto de ebulição dados não disponíveis
+Ponto de inflamação não aplicável
+Temperatura de dados não disponíveis
+ignição
+Limites de explosão, dados não disponíveis
+inferior
+Limite de explosão, dados não disponíveis
+superior
+Hidrossolubilidade dados não disponíveis
+10. ESTABILIDADE E REACTIVIDADE
+Estabilidade química
+Estável sob as condições recomendadas de armazenamento.
+Condições a evitar
+Evitar a humidade.
+Matérias a evitar
+ácidos, Bases fortes, Agentes oxidantes fortes
+Produtos de decomposição perigosos
+Produtos perigosos de decomposição formados durante os incêndios. - Óxidos de carbono, Óxidos de
+enxofre, Oxidos de sódio
+11. INFORMAÇÍO TOXICOLÓGICA
+Toxicidade aguda
+DL50 Oral - ratazana - 764 mg/kg
+Observações: Comportamento: Convulsões ou acção sobre o despoletamento da crise epiléptica. Pulmões,
+tórax ou respiração: Dispnéia
+Corrosão/irritação cutânea
+dados não disponíveis
+Lesões oculares graves/irritação ocular
+dados não disponíveis
+Sensibilização respiratória ou da pele
+dados não disponíveis
+Mutagenicidade em células germinativas
+dados não disponíveis
+Carcinogenicidade
+IARC: Nenhum componente deste produto presente a níveis maiores ou iguais a 0.1% é identificado como
+carcinogénio provável, possível ou confirmado pelo IARC.
+Toxicidade reprodutiva
+dados não disponíveis
+Toxicidade para órgãos-alvo específicos - exposição única
+dados não disponíveis
+Toxicidade para órgãos-alvo específicos - exposição repetida
+dados não disponíveis
+Perigo de aspiração
+dados não disponíveis
+Efeitos potenciais para a saúde
+Sigma-Aldrich - 251410 Página 4 de 6
+--- PÁGINA 5 ---
+Inalação Nocivo se for inalado. Pode causar uma irritação do aparelho respiratório.
+Ingestão Nocivo por ingestão.
+Pele Perigoso se for absorto pela pele. Pode causar uma irritação da pele.
+Olhos Pode causar uma irritação dos olhos.
+Sinais e sintomas de exposição
+Náusea, Dor de cabeça, Vómitos, Até onde sabemos, as propriedades químicas, físicas e toxicológicas não
+foram minuciosamente investigadas.
+Informação adicional
+RTECS: dados não disponíveis
+Outras informações
+dados não disponíveis
+12. INFORMAÇÍO ECOLÓGICA
+Toxicidade
+Toxicidade em CL50 - Oncorhynchus mykiss (truta arco-íris) - 233 mg/l - 96 h
+peixes
+Toxicidade em CE50 - Daphnia magna - 11 mg/l - 48 h
+dáfnias e outros
+invertebrados
+aquáticos.
+Persistência e degradabilidade
+dados não disponíveis
+Potencial de bioacumulação
+dados não disponíveis
+Mobilidade no solo
+dados não disponíveis
+Avaliação PBT e mPmB
+dados não disponíveis
+Outros efeitos adversos
+Nocivo para os organismos aquáticos com efeitos duradouros.
+13. CONSIDERAÇÕES RELATIVAS À ELIMINAÇÍO
+Produto
+Propor a entrega de soluções excedentes e não recicláveis a uma empresa idónea de tratamento de
+resíduos. Entrar em contato com um serviço profissional credenciado de descarte de lixo para descartar
+esse material. Dissolver ou misturar o material com um solvente combustível e queimar em incinerador
+químico equipado com pós-combustor e purificador de gases.
+Embalagens contaminadas
+Eliminar como produto Não utilizado.
+14. INFORMAÇÕES RELATIVAS AO TRANSPORTE
+ADR/RID
+Mercadorias não perigosas
+IMDG
+Mercadorias não perigosas
+IATA
+Mercadorias não perigosas
+15. INFORMAÇÍO SOBRE REGULAMENTAÇÍO
+Esta folha de dados de segurança obedece aos requerimentos da Regulamento (CE) No. 1907/2006
+Sigma-Aldrich - 251410 Página 5 de 6
+--- PÁGINA 6 ---
+16. OUTRAS INFORMAÇÕES
+Texto dos código(s) H e frase(s) R mencionados na secção 3
+Acute Tox. Toxicidade aguda
+Aquatic Chronic Toxicidade crónica para o ambiente aquático
+EUH032 Em contacto com ácidos liberta gases muito tóxicos.
+H302 Nocivo por ingestão.
+H312 Nocivo em contacto com a pele.
+H332 Nocivo por inalação.
+H412 Nocivo para os organismos aquáticos com efeitos duradouros.
+Xn Nocivo
+R20/21/22 Nocivo por inalação, em contacto com a pele e por ingestão.
+R32 Em contacto com ácidos liberta gases muito tóxicos.
+R52/53 Nocivo para os organismos aquáticos, podendo causar efeitos nefastos a longo
+prazo no ambiente aquático.
+Outras informações
+Direitos exclusivos, 2010, da Sigma-Aldrich. Permissão concedida para fazer número ilimitado de cópias
+em papel, somente para uso interno.
+Acredita-se que as informações acima estejam corretas, embora não pretendam ser totalmente
+abrangentes, devendo ser usadas apenas como um guia. A Sigma-Aldrich não deverá ter responsabilidade
+legal por quaisquer danos resultantes do manuseio ou do contato com o produto acima. Consultar o verso
+da fatura ou nota que acompanha o produto para tomar conhecimento dos termos adicionais e condições
+de venda.
+Sigma-Aldrich - 251410 Página 6 de 6

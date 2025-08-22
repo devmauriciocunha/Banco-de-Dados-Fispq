@@ -1,0 +1,482 @@
+--- PÁGINA 1 ---
+SIGMA-ALDRICH
+FOLHA DE DADOS DE SEGURANÇA DO PRODUTO (MSDS)
+Data de impressão 01/24/2011
+Data de Actualização. 10/03/2008
+Versão 1.19
+Secção 1 - Informação sobre o Produto e sobre a Companhia
+Nome do produto PYRIDINE
+Referência do Produto P3776
+Marca SIGMA
+Companhia Sigma-Aldrich Brasil Ltda.
+Direcção Av. das Nações Unidas, 23.043
+São Paulo SP 04795-100 BR
+Número do Serviço Técnico 55 11 3732 3100
+Número de Fax 55 11 5522 9895
+Número de Telefone de
+Secção 2 - Composição / Informação sobre os ingredientes.
+Nome da Substância Número CAS SARA 313
+PYRIDINE 110-86-1 Sim
+Fórmula C5H5N
+Sinónimos Azabenzene * Azine * NCI-C55301 * Piridina
+(Italian) * Pirydyna (Polish) * Pyridin (German)
+* Pyridine (ACGIH:OSHA) * RCRA waste number U196
+Número da UR8400000
+RTECS
+Secção 3 - Identificação de Perigo
+INSTRUÇÕES EM CASO DE EMERGÊNCIA
+Inflamável (E.U.A.) altamente inflamável (Europa) Nocivo
+Nocivo por inalação, em contato com a pele e se for deglutido.
+Risco de sério dano aos olhos.
+Proposta 65 da Califórnia carcinógeno. Facilmente absorvido pela
+pele. Órgão(s)-alvo: Fígado Rins
+CLASSIFICAÇÍO DA HMIS
+SAÚDE: 2*
+INFLAMABILIDADE: 3
+REACTIVIDADE: 0
+CLASSIFICADO PELA NFPA
+SAÚDE: 2
+INFLAMABILIDADE: 3
+REACTIVIDADE: 0
+*perigos crónicos adicionais presentes.
+Para informação adicional referente à toxicidade, consulte por
+favor a seção 11.
+Secção 4. Primeiros Socorros
+EXPOSIÇÍO ORAL
+Em caso de ingestão, lavar a boca com água, desde que a pessoa
+--- PÁGINA 2 ---
+esteja consciente. Chamar um médico imediatamente.
+EXPOSIÇÍO POR INALAÇÍO
+Em caso de inalação, levar o paciente para o ar fresco. Em caso
+de ausência de respiração, administrar respiração artificial. Se
+a respiração estiver difícil, administrar oxigênio.
+EXPOSIÇÍO DÉRMICA
+Em caso de contato com a pele, lavar com água em abundância por,
+no mínimo, 15 minutos. Tirar as roupas e calçados contaminados.
+Chamar um médico.
+EXPOSIÇÍO OCULAR
+Em caso de contato com os olhos, lavar com água em abundância
+por, no mínimo, 15 minutos. Separar as pálpebras com os dedos
+para garantir uma lavagem adequada. Chamar um médico.
+Secção 5 - Procedimento em caso de incêndio
+PERIGO DE INCÊNDIO
+Perigo de incêndio: Sim
+RISCO DE EXPLOSÍO
+O vapor pode percorrer uma distância considerável até a fonte de
+ignição e retornar. Pode ocorrer a explosão do recipiente em
+situações de incêndio. Forma misturas explosivas com o ar.
+PONTO DE INFLAMAÇÍO
+68 °F 20 °C Método: Copa fechada.
+LIMITES DA EXPLOSÍO
+Inferior: 1.8 % Superior: 12.4 %
+TEMPERATURA DE AUTOIGNIÇÍO
+482 °C
+INFLAMABILIDADE
+N/A
+MEIOS DE EXTINÇÍO DE FOGOS
+Adequado: Para fogos incipientes ou pequenos usar meios como
+espuma de álcool, pó seco ou dióxido de carbono. Para grandes
+fogos aplicar agua desde o mais longe possível, usar grandes
+quantidades de agua (inundação)aplicadas como nevoeiro ou spray;
+córregos sólidos de agua podem não ser efectivos. Esfrie todos
+os depósitos ou vasilhas com grandes e inundantes quantidades de
+agua.
+COMBATE AOS INCÊNDIOS
+Equipamento de protecção: Utilizar aparelho de respiração
+autônomo e vestimenta de proteção para impedir o contato com a
+pele e com os olhos.
+Risco(s) específico(s): Emite vapores tóxicos em situações de
+incêndio. O vapor pode percorrer uma distância considerável até
+a fonte de ignição e retornar.
+Métodos específicos de combate aos incêndios.: Utilizar
+borrifador de água para resfriar os recipientes expostos ao fogo.
+Secção 6 - Procedimento em caso de fuga acidental de produto
+PROCEDIMENTO EM CASO DE FUGA OU DERRAME
+Evacuar a área. Fechar/apagar todas as fontes de ignição.
+SIGMA - P3776 www.sigma-aldrich.com Page 2
+--- PÁGINA 3 ---
+PROCEDIMENTO(S) DE PROTECÇÍO INDIVIDUAL
+Usar aparelho de respiração autônoma, botas de borracha e luvas
+pesadas de borracha.
+MÉTODOS DE LIMPEZA
+Cobrir com calcário seco, areia ou carbonato de sódio neutro.
+Colocar em recipientes cobertos utilizando instrumentos que não
+emitam faíscas e transportar para o ar livre. Ventilar a área e
+lavar o local derramado depois de terminar o recolhimento do
+material.
+Secção 7 - Instruções de manipulação e armazenamento
+MANIPULAÇÍO
+Exposição do Usuário: Não respirar o vapor. Evitar o contato com
+o olhos, pele e vestimentas. Evitar a exposição prolongada ou
+repetida.
+ARMAZENAMENTO
+Adequado: Manter o recipiente fechado. Manter longe do calor, de
+faíscas e de chamas abertas. Embalado sob nitrogênio em frascos
+Sure/Seal. Sure/Seal é marca da Aldrich Chemical Company, Inc.
+EXIGÊNCIAS ESPECIAIS
+Manusear e armazenar sob nitrogênio.
+Secção 8 - Controlos de exposição / Medidas de protecção individual.
+CONTROLOS MECÂNICOS
+Ducha de segurança e lava-olhos. Usar instrumentos que não
+produzam faíscas. Usar exclusivamente em capela para vapores
+químicos.
+EQUIPAMENTO DE PROTECÇÍO INDIVIDUAL
+Respiratório: Use respiradores e componentes testados e aprovados
+por normas govername ntais apropriadas, tais como as NIOSH
+(E.U.A.) ou CEN (UE). Nos casos em que a avaliação de risco
+mostrar que os respiradores purificadores do ar são apropriados,
+use um respirador de cobertura facial total com cartuchos de
+combinação multi-objectivos (E.U.A.) ou do tipo ABEK (EN 14387)
+como apoio a controlos de engenharia. Se o respirador for o único
+meio de protecção, usa um respirador de ar de cobertura facial
+total.
+Mão: Luvas compatíveis resistentes a produtos químicos
+Olhos: Óculos de segurança química.
+MEDIDAS DE HIGIENE GERAL
+Lavar bem após o manuseio. Remover e lavar imediatamente as
+vestimentas contaminadas.
+LIMITES DE EXPOSIÇÍO, RTECS
+País Origem Tipo Valor
+EUA ACGIH TWA (Média5 PPM
+EUA Padrão de ar MSHA TWA (Média5 PPM (15 MG/M3)
+EUA OSHA. PEL (Límit8H TWA 5 PPM (15 MG/M3)
+Nova ZelândiOEL
+Observações: Controlo ACGIH TLV
+EUA NIOSH TWA (Média5 PPM
+LIMITES DE EXPOSIÇÍO
+País Origem Tipo Valor
+SIGMA - P3776 www.sigma-aldrich.com Page 3
+--- PÁGINA 4 ---
+Polónia NDS 5 MG/M3
+Polónia NDSCh 30 MG/M3
+Polónia NDSP -
+Secção 9 - Propriedades Físicas e Químicas
+Aparência Estado Físico: Líquido
+Cor: Incolor
+Cheiro: Odor fétido
+Propriedade Valor A temperatura ou pressão
+Peso molecular 79.1 AMU
+pH 8.5
+Ponto de Ebulição/ 115 °C 760 mmHg
+Intervalo de pontos de
+ebulição
+Ponto de - 42.0 °C
+fusão/Intervalo de
+pontos de fusão
+Ponto de congelação - 42.0 °C
+Pressão de vapor 20 mmHg 25 °C
+Densidade de vapor 2.72 g/l
+Concentração de vapor N/A
+saturado
+Peso 0.978 g/cm3
+específico/densidade
+Massa Volúmica Aparente N/A
+Umbral de Odor < 1 ppm
+% de compostos voláteis N/A
+Conteúdo de Compostos N/A
+Orgânicos Voláteis
+Conteúdo em água N/A
+Conteúdo de Solventes N/A
+Taxa de evaporação N/A
+Viscosidade N/A
+Tensão superficial N/A
+Coeficiente de partição Log Kow: 0.65
+Temperatura de N/A
+decomposição
+Ponto de inflamação 68 °F 20 °C Método: Copa fechada.
+Limites da explosão Inferior: 1.8 %
+Superior: 12.4 %
+Inflamabilidade N/A
+Temperatura de 482 °C
+autoignição
+Índice de refracção 1.51
+Rotação Óptica N/A
+Dados diversos N/A
+Solubilidade Solubilidade em água.: Solúvel.
+N/A = noa disponivel
+Secção 10 - Estabilidade e reactividade
+ESTABILIDADE
+Estável: Estável.
+Condições a evitar: Calor.
+Produtos a evitar: Agentes oxidantes fortes, Ácidos fortes.
+PRODUTOS DE DECOMPOSIÇÍO PERIGOSOS
+Produtos de decomposição perigosos: A decomposição térmica pode
+SIGMA - P3776 www.sigma-aldrich.com Page 4
+--- PÁGINA 5 ---
+produzir monóxido de carbono, dióxido de carbono e óxidos de
+nitrogênio, Cianetos.
+POLIMERIZAÇÍO PERIGOSA
+Polimerização perigosa: Não ocorrerá
+Secção 11 - Informação Toxicológica
+VIA DE EXPOSIÇÍO
+Contacto cutâneo: Pode provocar irritação da pele.
+Absorção cutânea: Nocivo se absorvido através da pele.
+Facilmente absorvido pela pele.
+Contacto ocular: Provoca irritação grave nos olhos.
+Inalação: Nocivo se inalado. O material é irritante para as
+membranas mucosas e para o trato respiratório superior.
+Ingestão: Nocivo se engolido.
+ORGÍOS OU SISTEMAS ALVO.
+Medula óssea Fígado, rins Nervos
+SINAIS E SINTOMAS DE EXPOSIÇÍO
+Os sintomas da exposição podem incluir sensação de queimação,
+tosse, respiração ofegante, laringite, encurtamento da
+respiração, cefaléia, náusea e vômito. Efeitos colaterais
+dependentes da dose podem incluir: anorexia, náusea, vômito,
+cefaléia tontura, taquicardia, nervosismo, insônia e problemas
+de pele
+DADOS DE TOXICIDADE
+Oral
+Ratazana
+891 mg/kg
+LD50
+Pele
+Coelho
+1,121 mg/kg
+LD50
+Inalação
+Ratazana
+9,015 ppm
+LC50
+Oral
+Rato.
+1,500 mg/kg
+LD50
+Oral
+Ratazana
+891 mg/kg
+LD50
+Observações: Orgãos Sensoriais e Sentidos Especiais (Nariz,
+Olhos, Ouvidos e Gosto): Olho: Ptosis Comportamento: Sonolência
+(diminuição da actividade geral) Comportamento: Coma
+Inalação
+Ratazana
+28,500 mg/m3
+LC50
+Observações: Comportamento: Sonolência (diminuição da actividade
+geral) Orgãos Sensoriais e Sentidos Especiais (Nariz, Olhos,
+Ouvidos e Gosto):Olhos: lacrijamento Pulmões, tórax ou
+respiração: Dispnéia
+SIGMA - P3776 www.sigma-aldrich.com Page 5
+--- PÁGINA 6 ---
+intraperitoneal
+Ratazana
+866 MG/KG
+LD50
+Subcutâneo
+Ratazana
+866 MG/KG
+LD50
+intravenoso
+Ratazana
+360 MG/KG
+LD50
+Observações: Comportamento: sono Comportamento: Sonolência
+(diminuição da actividade geral) Pulmões, tórax ou respiração:
+Dispnéia
+Oral
+Rato.
+1500 mg/kg
+LD50
+Observações: Comportamento: sono Comportamento: Sonolência
+(diminuição da actividade geral) Pulmões, tórax ou respiração:
+Dispnéia
+intraperitoneal
+Rato.
+950 MG/KG
+LD50
+Subcutâneo
+Rato.
+1250 MG/KG
+LD50
+Observações: Comportamento: sono Comportamento: Sonolência
+(diminuição da actividade geral) Pulmões, tórax ou respiração:
+Dispnéia
+intravenoso
+Rato.
+420 MG/KG
+LD50
+Observações: Pulmões, tórax ou respiração: Dispnéia
+Comportamento: Sonolência (diminuição da actividade geral)
+Comportamento: sono
+intravenoso
+Cão
+880 MG/KG
+LD50
+Observações: Sistema Cardíaco: Alteração do ritmo Sistema
+vascular:A diminuição da tensão arterial não está caracterizada
+numa secção autónoma. Pulmões, tórax ou respiração: Depressão da
+respiração
+Pele
+Coelho
+1121 mg/kg
+LD50
+Observações: Comportamento: Ataxia Aparelho gastrointestinal:
+SIGMA - P3776 www.sigma-aldrich.com Page 6
+--- PÁGINA 7 ---
+Alterações de estructura ou da função das glândulas salivares.
+Fígado:Outras alterações.
+Pele
+Porquinho da Índia
+1000 mg/kg
+LD50
+Oral
+Mamífero
+1500 mg/kg
+LD50
+Inalação
+Mamífero
+10,000 mg/m3
+LC50
+DADOS DA RTECS SOBRE A IRRITAÇÍO
+Olhos
+Coelho
+90 %
+24 HR
+Observações: A aplicação da solução à 90% resultou na reação
+severa com oscurecimento da córnea e cicatrices na conjunctiva.
+Ocorreram a opalescência suave permanente do estroma e a
+vascularização subepitelial.
+Pele
+Coelho
+500 mg
+24H
+Observações: Efeito reactivo moderado.
+CANCERÍGENO POR EXPOSIÇÍO CRÓNICA
+Resultado: Este produto é ou contém um componente que não é
+classificável quanto à sua carcinogenicidade segundo sua
+classificação pela IARC, ACGIH, NTP ou EPA.
+Espécie: Ratazana
+Via de aplicação: Oral
+Dose: 24024 MG/KG
+Tempo de exposição: 2Y
+Frequencia: C
+Resultado: Oncogenia: neoplástico segundo a RTECS. Rins,
+ureteres e bexiga urinária: Tumores
+Espécie: Rato.
+Via de aplicação: Oral
+Dose: 25480 MG/KG
+Tempo de exposição: 2Y
+Frequencia: C
+Resultado: Oncogenia: Carcinogénico segundo os critérios de
+RTECS. Fígado: tumores.
+LISTA DE CANCERÍGENOS DA IARC
+Classificação: Grupo 3
+LISTA DE CANCERÍGENOS DA NTP
+Classificação: Evidências claras
+SIGMA - P3776 www.sigma-aldrich.com Page 7
+--- PÁGINA 8 ---
+Espécie: Rato.
+Via: Bebida
+LISTA DE CANCERÍGENOS DA ACGIH
+Classificação: A3
+Secção 12 - Informação Ecológica.
+TESTES DE ECOTOXICIDADE AGUDA
+Tipo de teste: LC50 Peixe
+Espécie: Pimephales promelas
+Tempo: 96 h
+Valor: 93.8 mg/l
+Tipo de teste: EC50 Daphnia
+Espécie: Daphnia magna
+Tempo: 48 h
+Valor: 940 mg/l
+Tipo de teste: LC50 Peixe
+Espécie: Cyprinus carpio
+Tempo: 96 h
+Valor: 26 mg/l
+Tipo de teste: EC50 Daphnia
+Espécie: Daphnia magna
+Tempo: 48 h
+Valor: 1,140 mg/l
+Tipo de teste: EC50 Daphnia
+Espécie: Daphnia pulex
+Tempo: 48 h
+Valor: 520 mg/l
+Tipo de teste: EC50 Algas
+Espécie: Selenastrum
+Tempo: 72 h
+Valor: 100.0 - 180.0 mg/l
+Secção 13 - Considerações sobre a eliminação de resíduos.
+MÉTODO APROPRIADO PARA ELIMINAÇÍO DE SUBSTÂNCIAS OU PREPARAÇÕES.
+Entrar em contato com um serviço profissional credenciado de
+descarte de lixo para descartar esse material. Queimar em um
+incinerador químico equipado com pós-combustor e purificador de
+gases, mas tomar precauções adicionais ao colocar esse material em
+ignição, visto que é altamente inflamável. Observar todos os
+regulamentos ambientais federais, estaduais e locais.
+Secção 14 - Informações sobre o Transporte
+DOT
+Nome Apropriado para Embarque: Piridina
+Número da UN: 1282
+Classe: 3
+Grupo da embalagem: Packing Group II
+Etiqueta de Perigo: Flammable liquid
+PIH: Not PIH
+IATA
+Nome Apropriado para Embarque: Pyridine
+SIGMA - P3776 www.sigma-aldrich.com Page 8
+--- PÁGINA 9 ---
+Numero UN IATA: 1282
+Classe de perigo: 3
+Grupo da embalagem: II
+Secção 15 - Informações sobre a normativa vigente.
+DIRECTIVAS DE CLASSIFICAÇÍO DA EU.
+Símbolo de Perigo: F-Xn
+Indicação de perigo.: Altamente inflamável Nocivo
+R: 11-20/21/22
+Frases de Risco: Altamente inflamável. Nocivo por inalação, em
+contato com a pele e se for deglutido.
+S: 26-
+Frase de Segurança.: Em caso de contato com os olhos, enxaguar
+imediatamente com água em abundância e procurar aconselhamento
+médico. Em caso de contacto com a pele, lavar imediatamente com
+abundante água e sabão.
+CLASIFICAÇÍO E CONTEÚDO DAS ETIQUETAS SEGUNDA A NORMATIVA DOS EUA.
+Indicação de perigo.: Inflamável (E.U.A.) altamente inflamável
+(Europa) Nocivo
+Frases de Risco: Nocivo por inalação, em contato com a pele e se
+for deglutido. Risco de sério dano aos olhos.
+Frase de Segurança.: Manter longe de fontes de ignição - Não
+fumar. Em caso de contato com os olhos, enxaguar imediatamente
+com água em abundância e procurar aconselhamento médico. Usar
+roupa protetora adequada.
+Instruções segundo a normativa vigente nos EUA.: Proposta 65 da
+Califórnia carcinógeno. Facilmente absorvido pela pele.
+Órgão(s)-alvo: Fígado Rins
+INFORMAÇÍO REGULAMENTARIA DOS EEUU
+INCLUÍDO NAS LISTA DA SARA: Sim
+DEMINIMIS: 1 %
+NOTAS: A obrigação de declarar este produto está ao abrigo da
+Secção 313 do relatório da SARA (Superfund Amendments and
+Reauthorization, Programa Federal do Ministério do Ambiente que
+regula os produtos, responsável em caso de acidentes químicos).
+PRODUTO INVENTARIADO PELA TSCA: Sim
+EUA: INFORMAÇÍO SOBRE LEGISLAÇÍO EM VIGOR NOS DIFERENTES ESTADOS
+CALIFÓRNIA PROP - 65
+Califórnia Prop - 65: Este produto é ou contém produto(s)
+químico(s) conhecido(s), no estado da Califórnia, como
+causadore(s) de câncer.
+INFORMAÇÍO SOBRE LEGISLAÇÍO EM VIGOR NO CANADÁ
+Classificação da WHMIS: Este produto foi classificado de acordo
+conm os critérios de perigo doCPR. A MSDS contém toda a
+informação exigida pela CPR.
+DSL: Sim
+NDSL: Não
+Secção 16 - Outras informações
+AVISO LEGAL:
+Deve ser usado somente para I+D e investigação. Não é apto para
+fabricação de medicamentos, material de uso doméstico ou outros
+usos.
+GARANTIA
+SIGMA - P3776 www.sigma-aldrich.com Page 9
+--- PÁGINA 10 ---
+Acredita-se que as informações acima estejam corretas, embora não
+pretendam ser totalmente abrangentes, devendo ser usadas apenas
+como um guia. A Sigma não deverá ter responsabilidade legal por
+quaisquer danos resultantes do manuseio ou do contato com o
+produto acima. Consultar o verso da fatura ou nota que acompanha o
+produto para tomar conhecimento dos termos adicionais e condições
+de venda. Direitos exclusivos, 2007, da Sigma-Aldrich Co.
+Permissão concedida para fazer número ilimitado de cópias em
+papel, somente para uso interno.
+SIGMA - P3776 www.sigma-aldrich.com Page 10

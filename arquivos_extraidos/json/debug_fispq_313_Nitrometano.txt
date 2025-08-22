@@ -1,0 +1,213 @@
+--- PÁGINA 1 ---
+SIGMA-ALDRICH
+FICHA DE DADOS DE SEGURANÇA
+de acordo com a Regulamento (CE) No. 1907/2006
+Versão 3.0 Data de revisão 22.08.2009
+Data de impressão 24.01.2011
+ENERIC EU MSDS - NO COUNTRY SPECIFIC DATA - NO OEL DATA
+1. IDENTIFICAÇÍO DA SUBSTÂNCIA/PREPARAÇÍO E DA SOCIEDADE/EMPRESA
+Nome do produto : Nitromethane
+Referência do Produto : N2884
+Marca : Sigma
+Companhia : Sigma-Aldrich Brasil Ltda.
+Av. das Nações Unidas, 23.043
+04795-100 SÍO PAULO - SP
+BRAZIL
+Telefone : +551137323100
+Número de Fax : +551155229895
+Núnero de Telefone de :
+Emergência
+2. IDENTIFICAÇÍO DOS PERIGOS
+Precauções para o homem e para o ambiente
+Perigo de explosão sob a acção do calor. Inflamável. Nocivo por ingestão.
+3. COMPOSIÇÍO/INFORMAÇÍO SOBRE OS COMPONENTES
+Formula : CH3NO2
+Peso molecular : 61,04 g/mol
+Nº CAS No. CE No. de Index Classificação Concentração
+Nitromethane
+75-52-5 200-876-6 609-036-00-7 Xn, R 5 - R10 - R22 -
+4. PRIMEIROS SOCORROS
+Recomendação geral
+Consultar um médico. Mostrar esta ficha de segurança ao médico de serviço.
+Se for inalado
+Se for respirado, levar a pessoa para o ar fresco. Se não respirar, aplicar a respiração artificial. Consultar um
+médico.
+No caso dum contacto com a pele
+Lavar com sabão e muita água. Consultar um médico.
+No caso dum contacto com os olhos
+Lavar cuidadosamente com muita água, durante pelo menos quinze minutos, e consultar o médico.
+Se for engolido
+NÍO provocar vómitos. Nunca dar nada pela boca a uma pessoa inconsciente. Enxaguar a boca com água.
+Consultar um médico.
+Sigma - N2884 www.sigma-aldrich.com Página 1 of 5
+--- PÁGINA 2 ---
+5. MEDIDAS DE COMBATE A INCÊNDIO
+Meios adequados de extinção
+Para fogos incipientes ou pequenos usar meios como espuma de álcool, pó seco ou dióxido de carbono. Para
+grandes fogos aplicar agua desde o mais longe possível, usar grandes quantidades de agua
+(inundação)aplicadas como nevoeiro ou spray; córregos sólidos de agua podem não ser efectivos. Esfrie
+todos os depósitos ou vasilhas com grandes e inundantes quantidades de agua.
+Equipamento especial de protecção a utilizar pelo pessoal de combate a incêndio
+Usar equipamento de respiração autónomo para combate a incêndios, se necessário.
+Outras informações
+Os jactos de água podem ser utilizados para arrefecer os contentores fechados.
+6. MEDIDAS A TOMAR EM CASO DE FUGAS ACIDENTAIS
+Precauções individuais
+Pôr uma protecção respiratória. Evitar a respiração do vapor/névoa/gas. Assegurar ventilação adequada.
+Retirar todas as fontes de ignição. Atenção com a acumulação de vapores que pode formar concentrações
+explosivas. Os vapores podem-se acumular nas áreas baixas.
+Precauções ambientais
+Não permitir a entrada do produto no sistema de esgotos.
+Métodos de limpeza
+Controlar e recuperar o líquido derramado com um produto absorvente não combustível, (por exemplo areia,
+terra, terra diatomácea, vermiculite) e por o líquido dentro de contentores para eliminação de acordo com as
+regulações locais / nacionais (ver secção 13). Manter em recipientes fechados adequados, para eliminação.
+7. MANUSEAMENTO E ARMAZENAGEM
+Manuseamento
+Evitar a inalação do vapor ou da névoa.
+Manter afastado de qualquer chama ou fonte de ignição - Não fumar. Tome medidas para impedir a formação
+de electricidade estática.
+Armazenagem
+Armazenar em local fresco. Guardar o recipiente herméticamente fechado em lugar seco e bem ventilado.
+Estocar sob gás inerte.
+8. CONTROLO DA EXPOSIÇÍO/PROTECÇÍO PESSOAL
+Protecção individual
+Protecção respiratória
+Nos casos em que a avaliação de risco mostrar que os respiradores purificadores do ar são apropriados,
+use um respirador de cobertura facial total com cartuchos de combinação multi-objectivos (E.U.A.) ou do
+tipo ABEK (EN 14387) como apoio a controlos de engenharia. Se o respirador for o único meio de
+protecção, usa um respirador de ar de cobertura facial total. Use respiradores e componentes testados e
+aprovados por normas governamentais apropriadas, tais como as NIOSH (E.U.A.) ou CEN (UE).
+Protecção das mãos
+As luvas de protecção selecionadas devem satisfazer as especificações da Directiva da UE 89/686/CEE e
+o estandarte EN 374 derivado dele. Manusear com luvas.
+Protecção dos olhos
+Mascaras de protecção e óculos de segurança.
+Protecção do corpo e da pele
+Escolher uma protecção para o corpo conforme a quantidade e a concentração das substâncias perigosas
+no lugar de trabalho.
+Medidas de higiene
+Sigma - N2884 www.sigma-aldrich.com Página 2 of 5
+--- PÁGINA 3 ---
+Manusear de acordo com as boas práticas industriais de higiéne e segurança. Lavar as mãos antes de
+interrupções, e no final do dia de trabalho.
+9. PROPRIEDADES FÍSICAS E QUÍMICAS
+Aspecto
+Estado físico líquido
+Dados de segurança
+pH 6,4 a 0,01 g/l a 20 °C
+Ponto de fusão -29 °C - lit.
+Ponto de ebulição 101,2 °C - lit.
+Ponto de inflamação 36 °C - câmara fechada
+Temperatura de 418 °C
+ignição
+Limites de explosão, 7,3 %(V)
+inferior
+Limite de explosão,
+superior
+Pressão de vapor 36,4 hPa a 20 °C
+Hidrossolubilidade ca.100 g/l a 20 °C
+Coeficiente de log Pow: 0,17
+epartição n-
+octanol/água
+Densidade relativa 2,11
+do vapor - (Ar = 1.0)
+10. ESTABILIDADE E REACTIVIDADE
+Estabilidade em armazenamento
+Estável sob as condições recomendadas de armazenamento.
+Condições a evitar
+Temperaturas elevadas.
+Calor, chamas e faíscas.
+Matérias a evitar
+Aminas, Ácidos fortes, Bases fortes, Agentes oxidantes fortes, Agentes redutores fortes, Cobre
+Produtos de decomposição perigosos
+Produtos perigosos de decomposição formados durante os incêndios. - Óxidos de carbono, óxidos de azoto
+(NOx)
+11. INFORMAÇÍO TOXICOLÓGICA
+Toxicidade aguda
+DL50 Oral - ratazana - 940 mg/kg
+Irritação ou corrosão
+dados não disponíveis
+Sensibilização
+dados não disponíveis
+Sigma - N2884 www.sigma-aldrich.com Página 3 of 5
+--- PÁGINA 4 ---
+Exposição crónica
+Carcinogenicidade - ratazana - Inalação
+Oncogenia: Carcinogénico segundo os critérios de RTECS. Pele e Anexos: Outros: Tumores.
+Carcinogenicidade - rato - Inalação
+Oncogenia: Carcinogénico segundo os critérios de RTECS. Orgãos Sensoriais e Sentidos Especiais (Nariz,
+Olhos, Ouvidos e Gosto):Olho: tumores Fígado: tumores.
+Este produto é ou contém um componente que foi relatado como sendo possivelmente carcinogênico segundo
+sua classificação pela IARC, ACGIH, NTP ou EPA.
+IARC: 2B - Group 2B: Possibly carcinogenic to humans (Nitromethane)
+Sinais e sintomas de exposição
+A absorção pelo organismo leva à formação de metemoglobina que em concentração suficiente provoca
+cianose. O início pode demorar de 2 a 4 horas ou mais.
+Efeitos potenciais sobre a saúde
+Inalação Pode ser perigoso se for inalado. Pode causar uma irritação do aparelho
+respiratório.
+Pele Pode ser perigoso se for absorto pela pele. Pode causar uma irritação da pele.
+Olhos Pode causar uma irritação dos olhos.
+Ingestão Nocivo por ingestão.
+Orgãos alvo Fígado, Rim, Sistema nervoso central,
+Informação adicional
+RTECS: PA9800000
+12. INFORMAÇÍO ECOLÓGICA
+Informação sobre eliminação (persistência e degradabilidade)
+dados não disponíveis
+Efeitos de ecotoxicidade
+Toxicidade em CL50 - Pimephales promelas (vairão gordo) - < 278 mg/l - 96 h
+peixes
+Toxicidade em CE50 - Daphnia magna - 450 mg/l - 24 h
+dáfnias e outros
+invertebrados
+aquáticos.
+Toxicidade em algas CI50 - Scenedesmus subspicatus - 36 mg/l - 72 h
+Informações suplementares sobre a ecologia
+dados não disponíveis
+13. CONSIDERAÇÕES RELATIVAS À ELIMINAÇÍO
+Produto
+Queimar em um incinerador químico equipado com pós-combustor e purificador de gases, mas tomar
+precauções adicionais ao colocar esse material em ignição, visto que é altamente inflamável. Esse material
+combustível deve ser queimado em um incinerador químico equipado com um pós-combustor e purificador de
+gases. Observar todos os regulamentos ambientais federais, estaduais e locais. Entrar em contato com um
+serviço profissional credenciado de descarte de lixo para descartar esse material.
+Embalagens contaminadas
+Eliminar como produto Não utilizado.
+14. INFORMAÇÕES RELATIVAS AO TRANSPORTE
+Sigma - N2884 www.sigma-aldrich.com Página 4 of 5
+--- PÁGINA 5 ---
+ADR/RID
+Número ONU: 1261 Classe: 3 Grupo de embalagem: II
+Denominação de expedição correcta: NITROMETHANE, SOLUÇÍO
+IMDG
+Número ONU: 1261 Classe: 3 Grupo de embalagem: II EMS-No:
+F-E, S-D
+Denominação de expedição correcta: NITROMETHANE, SOLUÇÍO
+Poluente marinho: No
+IATA
+Número ONU: 1261 Classe: 3 Grupo de embalagem: II
+Denominação de expedição correcta: Nitromethane, solução
+IATA Passenger: Não permitido para o transporte
+15. INFORMAÇÍO SOBRE REGULAMENTAÇÍO
+Rotulado de acordo com as directivas da CE
+Rotulagem CE
+Símbolos de perigo
+Xn Nocivo
+Frase(s) - R
+R 5 Perigo de explosão sob a acção do calor.
+R10 Inflamável.
+R22 Nocivo por ingestão.
+Frase(s) - S
+S41 Em caso de incêndio e/ou explosão não respirar os fumos.
+16. OUTRAS INFORMAÇÕES
+Outras informações
+Direitos exclusivos, 2009, da Sigma-Aldrich. Permissão concedida para fazer número ilimitado de cópias
+em papel, somente para uso interno.
+Acredita-se que as informações acima estejam corretas, embora não pretendam ser totalmente
+abrangentes, devendo ser usadas apenas como um guia. A Sigma-Aldrich não deverá ter responsabilidade
+legal por quaisquer danos resultantes do manuseio ou do contato com o produto acima. Consultar o verso
+da fatura ou nota que acompanha o produto para tomar conhecimento dos termos adicionais e condições
+de venda.
+Sigma - N2884 www.sigma-aldrich.com Página 5 of 5

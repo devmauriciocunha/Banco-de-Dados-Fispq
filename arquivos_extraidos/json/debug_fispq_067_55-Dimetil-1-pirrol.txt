@@ -1,0 +1,148 @@
+--- PÁGINA 1 ---
+SIGMA-ALDRICH
+SAFETY DATA SHEET
+according to Regulation (EC) No. 1907/2006
+Version 3.0 Revision Date 30.08.2009
+Print Date 18.06.2010
+GENERIC EU MSDS - NO COUNTRY SPECIFIC DATA - NO OEL DATA
+1. IDENTIFICATION OF THE SUBSTANCE/PREPARATION AND OF THE COMPANY/UNDERTAKING
+Product name : 5,5-Dimethyl-1-pyrroline N-oxide
+Product Number : D5766
+Brand : Sigma
+Company : Sigma-Aldrich Brasil Ltda.
+Av. das Nações Unidas, 23.043
+04795-100 SÍO PAULO - SP
+BRAZIL
+Telephone : +551137323100
+Fax : +551155229895
+Emergency Phone # :
+2. HAZARDS IDENTIFICATION
+This substance is not classified as dangerous according to Directive 67/548/EEC.
+3. COMPOSITION/INFORMATION ON INGREDIENTS
+Synonyms : DMPO
+Formula : C6H11NO
+Molecular Weight : 113,16 g/mol
+CAS-No. EC-No. Index-No. Classification Concentration
+3,4-Dihydro-2,2-dimethyl-2H-pyrrole 1-oxide
+3317-61-1 222-011-1 - - -
+4. FIRST AID MEASURES
+If inhaled
+If breathed in, move person into fresh air. If not breathing give artificial respiration
+In case of skin contact
+Wash off with soap and plenty of water.
+In case of eye contact
+Flush eyes with water as a precaution.
+If swallowed
+Never give anything by mouth to an unconscious person. Rinse mouth with water.
+5. FIRE-FIGHTING MEASURES
+Suitable extinguishing media
+Use water spray, alcohol-resistant foam, dry chemical or carbon dioxide.
+Special protective equipment for fire-fighters
+Wear self contained breathing apparatus for fire fighting if necessary.
+Sigma - D5766 www.sigma-aldrich.com Page 1 of 4
+--- PÁGINA 2 ---
+6. ACCIDENTAL RELEASE MEASURES
+Personal precautions
+Avoid breathing vapors, mist or gas.
+Environmental precautions
+Do not let product enter drains.
+Methods for cleaning up
+Keep in suitable, closed containers for disposal.
+7. HANDLING AND STORAGE
+Handling
+Normal measures for preventive fire protection.
+Storage
+Store in cool place. Keep container tightly closed in a dry and well-ventilated place. Containers which are
+opened must be carefully resealed and kept upright to prevent leakage.
+Recommended storage temperature: -20 °C
+Handle under inert gas. Protect from moisture. Light sensitive. hygroscopic
+8. EXPOSURE CONTROLS/PERSONAL PROTECTION
+Personal protective equipment
+Respiratory protection
+Respiratory protection is not required. Where protection is desired, use multi-purpose combination (US) or
+type ABEK (EN 14387) respirator cartridges. Use respirators and components tested and approved under
+appropriate government standards such as NIOSH (US) or CEN (EU).
+Hand protection
+For prolonged or repeated contact use protective gloves.
+Eye protection
+Safety glasses
+Hygiene measures
+General industrial hygiene practice.
+9. PHYSICAL AND CHEMICAL PROPERTIES
+Appearance
+Form Solidified mass or fragments
+Colour light yellow
+Safety data
+pH no data available
+Melting point 25 - 29 °C - lit.
+Boiling point 75 °C at 0,5 hPa - lit.
+Flash point 95 °C - closed cup
+Ignition temperature no data available
+Lower explosion limit no data available
+Upper explosion limit no data available
+Density 1,015 g/mL at 25 °C
+Water solubility no data available
+Sigma - D5766 www.sigma-aldrich.com Page 2 of 4
+--- PÁGINA 3 ---
+10. STABILITY AND REACTIVITY
+Storage stability
+Stable under recommended storage conditions.
+Conditions to avoid
+Air Avoid moisture. Light.
+Materials to avoid
+Strong oxidizing agentsStrong oxidizing agents
+Hazardous decomposition products
+Hazardous decomposition products formed under fire conditions. - Carbon oxides, nitrogen oxides (NOx)
+11. TOXICOLOGICAL INFORMATION
+Acute toxicity
+no data available
+Irritation and corrosion
+no data available
+Sensitisation
+no data available
+Chronic exposure
+IARC: No component of this product present at levels greater than or equal to 0.1% is identified as
+probable, possible or confirmed human carcinogen by IARC.
+Signs and Symptoms of Exposure
+To the best of our knowledge, the chemical, physical, and toxicological properties have not been thoroughly
+investigated.
+Potential Health Effects
+Inhalation May be harmful if inhaled. May cause respiratory tract irritation.
+Skin May be harmful if absorbed through skin. May cause skin irritation.
+Eyes May cause eye irritation.
+Ingestion May be harmful if swallowed.
+12. ECOLOGICAL INFORMATION
+Elimination information (persistence and degradability)
+no data available
+Ecotoxicity effects
+no data available
+Further information on ecology
+no data available
+13. DISPOSAL CONSIDERATIONS
+Product
+Observe all federal, state, and local environmental regulations.
+Sigma - D5766 www.sigma-aldrich.com Page 3 of 4
+--- PÁGINA 4 ---
+Contaminated packaging
+Dispose of as unused product.
+14. TRANSPORT INFORMATION
+ADR/RID
+Not dangerous goods
+IMDG
+Not dangerous goods
+IATA
+Not dangerous goods
+15. REGULATORY INFORMATION
+Labelling according to EC Directives
+Further information:
+This substance is not classified as dangerous according to Directive 67/548/EEC.
+16. OTHER INFORMATION
+Further information
+Copyright 2009 Sigma-Aldrich Co. License granted to make unlimited paper copies for internal use only.
+The above information is believed to be correct but does not purport to be all inclusive and shall be used
+only as a guide. The information in this document is based on the present state of our knowledge and is
+applicable to the product with regard to appropriate safety precautions. It does not represent any guarantee
+of the properties of the product. Sigma-Aldrich Co., shall not be held liable for any damage resulting from
+handling or from contact with the above product. See reverse side of invoice or packing slip for additional
+terms and conditions of sale.
+Sigma - D5766 www.sigma-aldrich.com Page 4 of 4

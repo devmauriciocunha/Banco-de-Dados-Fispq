@@ -1,0 +1,161 @@
+--- PÁGINA 1 ---
+SIGMA-ALDRICH
+SAFETY DATA SHEET
+according to Regulation (EC) No. 1907/2006
+Version 3.0 Revision Date 31.12.2008
+Print Date 22.06.2010
+GENERIC EU MSDS - NO COUNTRY SPECIFIC DATA - NO OEL DATA
+1. IDENTIFICATION OF THE SUBSTANCE/PREPARATION AND OF THE COMPANY/UNDERTAKING
+Product name : Tetrabutylammonium tetrafluoroborate
+Product Number : 217964
+Brand : Aldrich
+Company : Sigma-Aldrich Brasil Ltda.
+Av. das Nações Unidas, 23.043
+04795-100 SÍO PAULO - SP
+BRAZIL
+Telephone : +551137323100
+Fax : +551155229895
+Emergency Phone # :
+2. HAZARDS IDENTIFICATION
+Risk advice to man and the environment
+Irritating to eyes, respiratory system and skin.
+3. COMPOSITION/INFORMATION ON INGREDIENTS
+Formula : C16H36BF4N
+Molecular Weight : 329,27 g/mol
+CAS-No. EC-No. Index-No. Classification Concentration
+Tetrabutylammonium tetrafluoroborate
+429-42-5 207-058-8 - Xi, R36/37/38 -
+4. FIRST AID MEASURES
+General advice
+Consult a physician. Show this safety data sheet to the doctor in attendance.
+If inhaled
+If breathed in, move person into fresh air. If not breathing give artificial respiration Consult a physician.
+In case of skin contact
+Wash off with soap and plenty of water. Consult a physician.
+In case of eye contact
+Rinse thoroughly with plenty of water for at least 15 minutes and consult a physician.
+If swallowed
+Never give anything by mouth to an unconscious person. Rinse mouth with water. Consult a physician.
+5. FIRE-FIGHTING MEASURES
+Suitable extinguishing media
+Use water spray, alcohol-resistant foam, dry chemical or carbon dioxide.
+Aldrich - 217964 www.sigma-aldrich.com Page 1 of 4
+--- PÁGINA 2 ---
+Special protective equipment for fire-fighters
+Wear self contained breathing apparatus for fire fighting if necessary.
+6. ACCIDENTAL RELEASE MEASURES
+Personal precautions
+Use personal protective equipment. Avoid dust formation. Avoid breathing dust. Ensure adequate ventilation.
+Environmental precautions
+Do not let product enter drains.
+Methods for cleaning up
+Pick up and arrange disposal without creating dust. Keep in suitable, closed containers for disposal.
+7. HANDLING AND STORAGE
+Handling
+Avoid contact with skin and eyes. Avoid formation of dust and aerosols.
+Provide appropriate exhaust ventilation at places where dust is formed. Normal measures for preventive fire
+protection.
+Storage
+Store in cool place. Keep container tightly closed in a dry and well-ventilated place.
+hygroscopic
+8. EXPOSURE CONTROLS/PERSONAL PROTECTION
+Personal protective equipment
+Respiratory protection
+Where risk assessment shows air-purifying respirators are appropriate use a dust mask type N95 (US) or
+type P1 (EN 143) respirator. Use respirators and components tested and approved under appropriate
+government standards such as NIOSH (US) or CEN (EU).
+Hand protection
+The selected protective gloves have to satisfy the specifications of EU Directive 89/686/EEC and the
+standard EN 374 derived from it. Handle with gloves.
+Eye protection
+Safety glasses
+Skin and body protection
+Choose body protection according to the amount and concentration of the dangerous substance at the work
+place.
+Hygiene measures
+Handle in accordance with good industrial hygiene and safety practice. Wash hands before breaks and at
+the end of workday.
+9. PHYSICAL AND CHEMICAL PROPERTIES
+Appearance
+Form crystalline
+Colour white
+Safety data
+pH no data available
+Melting point 155 - 161 °C
+Boiling point no data available
+Flash point no data available
+Aldrich - 217964 www.sigma-aldrich.com Page 2 of 4
+--- PÁGINA 3 ---
+Ignition temperature no data available
+Lower explosion limit no data available
+Upper explosion limit no data available
+Water solubility no data available
+10. STABILITY AND REACTIVITY
+Storage stability
+Stable under recommended storage conditions.
+Materials to avoid
+Strong oxidizing agents
+Hazardous decomposition products
+Hazardous decomposition products formed under fire conditions. - Carbon oxides, nitrogen oxides (NOx),
+Hydrogen fluoride, Borane/boron oxides
+11. TOXICOLOGICAL INFORMATION
+Acute toxicity
+no data available
+Irritation and corrosion
+no data available
+Sensitisation
+no data available
+Chronic exposure
+IARC: No component of this product present at levels greater than or equal to 0.1% is identified as
+probable, possible or confirmed human carcinogen by IARC.
+Signs and Symptoms of Exposure
+To the best of our knowledge, the chemical, physical, and toxicological properties have not been thoroughly
+investigated.
+Potential Health Effects
+Inhalation May be harmful if inhaled. Causes respiratory tract irritation.
+Skin May be harmful if absorbed through skin. Causes skin irritation.
+Eyes Causes eye irritation.
+Ingestion May be harmful if swallowed.
+12. ECOLOGICAL INFORMATION
+Elimination information (persistence and degradability)
+no data available
+Ecotoxicity effects
+no data available
+Further information on ecology
+no data available
+13. DISPOSAL CONSIDERATIONS
+Aldrich - 217964 www.sigma-aldrich.com Page 3 of 4
+--- PÁGINA 4 ---
+Product
+Observe all federal, state, and local environmental regulations. Contact a licensed professional waste disposal
+service to dispose of this material. Dissolve or mix the material with a combustible solvent and burn in a
+chemical incinerator equipped with an afterburner and scrubber.
+Contaminated packaging
+Dispose of as unused product.
+14. TRANSPORT INFORMATION
+ADR/RID
+Not dangerous goods
+IMDG
+Not dangerous goods
+IATA
+Not dangerous goods
+15. REGULATORY INFORMATION
+Labelling according to EC Directives
+Hazard symbols
+Xi Irritant
+R-phrase(s)
+R36/37/38 Irritating to eyes, respiratory system and skin.
+S-phrase(s)
+S26 In case of contact with eyes, rinse immediately with plenty of water and seek medical
+advice.
+S36 Wear suitable protective clothing.
+16. OTHER INFORMATION
+Further information
+Copyright 2008 Sigma-Aldrich Co. License granted to make unlimited paper copies for internal use only.
+The above information is believed to be correct but does not purport to be all inclusive and shall be used
+only as a guide. The information in this document is based on the present state of our knowledge and is
+applicable to the product with regard to appropriate safety precautions. It does not represent any guarantee
+of the properties of the product. Sigma-Aldrich Co., shall not be held liable for any damage resulting from
+handling or from contact with the above product. See reverse side of invoice or packing slip for additional
+terms and conditions of sale.
+Aldrich - 217964 www.sigma-aldrich.com Page 4 of 4

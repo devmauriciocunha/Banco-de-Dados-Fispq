@@ -1,0 +1,595 @@
+--- PÁGINA 1 ---
+SIGMA-ALDRICH
+FOLHA DE DADOS DE SEGURANÇA DO PRODUTO (MSDS)
+Data de impressão 06/09/2010
+Data de Actualização. 04/30/2009
+Versão 1.8
+Secção 1 - Informação sobre o Produto e sobre a Companhia
+Nome do produto 1,2-DICHLOROETHANE ACS REAGENT
+Referência do Produto D8793
+Marca SIGMA
+Companhia Sigma-Aldrich Brasil Ltda.
+Direcção Av. das Nações Unidas, 23.043
+São Paulo SP 04795-100 BR
+Número do Serviço Técnico 55 11 3732 3100
+Número de Fax 55 11 5522 9895
+Número de Telefone de
+Secção 2 - Composição / Informação sobre os ingredientes.
+Nome da Substância Número CAS SARA 313
+1,2-DICHLOROETHANE 107-06-2 Sim
+Fórmula C2H4Cl2
+Sinónimos Aethylenchlorid (German) * 1,2-Bichloroethane *
+Bichlorure d'ethylene (French) * Borer sol *
+Brocide * Chlorure d'ethylene (French) * Cloruro
+di ethene (Italian) * 1,2-DCE * Destruxol
+borer-sol * 1,2-Dichloorethaan (Dutch) *
+1,2-Dichlor-aethan (German) * Dichloremulsion *
+1,2-Dichlorethane * Di-chlor-mulsion *
+Dichloro-1,2-ethane (French) *
+alpha,beta-Dichloroethane * sym-Dichloroethane *
+1,2-Dichloroethane (OSHA) * 1,2-Dicloroetano
+(Italian) * Dutch liquid * Dutch oil * EDC * ENT
+1,656 * Ethane dichloride * Ethyleendichloride
+(Dutch) * Ethylene chloride * Ethylene dichloride
+(ACGIH:OSHA) * 1,2-Ethylene dichloride * Glycol
+dichloride * NCI-C00511 * RCRA waste number U077
+Número da KI0525000
+RTECS
+Secção 3 - Identificação de Perigo
+INSTRUÇÕES EM CASO DE EMERGÊNCIA
+Inflamável (E.U.A.) altamente inflamável (Europa) Tóxico
+Pode provocar câncer. Também nocivo por ingestão. Nocivo por
+inalação. Irritante para o sistema respiratório e pele. Risco de
+sério dano aos olhos.
+Provável carcinogéneo (US). Órgão(s)-alvo: Coração Nervos Proposta
+65 da Califórnia carcinógeno.
+CLASSIFICAÇÍO DA HMIS
+SAÚDE: 2*
+INFLAMABILIDADE: 3
+REACTIVIDADE: 0
+CLASSIFICADO PELA NFPA
+--- PÁGINA 2 ---
+SAÚDE: 2
+INFLAMABILIDADE: 3
+REACTIVIDADE: 0
+*perigos crónicos adicionais presentes.
+Para informação adicional referente à toxicidade, consulte por
+favor a seção 11.
+Secção 4. Primeiros Socorros
+EXPOSIÇÍO ORAL
+Se ingerido, lavar a boca com água desde que a pessoa esteja
+consciente. Chamar um médico.
+EXPOSIÇÍO POR INALAÇÍO
+Se inalado, levar o paciente para o ar fresco. Caso a respiração
+se torne difícil, chamar um médico.
+EXPOSIÇÍO DÉRMICA
+Em caso de contato, lavar a pele imediatamente com sabão e água
+em abundância .
+EXPOSIÇÍO OCULAR
+Em caso de contato com os olhos, lavar com água em abundância
+por, no mínimo, 15 minutos. Separar as pálpebras com os dedos
+para garantir uma lavagem adequada. Chamar um médico.
+Secção 5 - Procedimento em caso de incêndio
+PERIGO DE INCÊNDIO
+Perigo de incêndio: Sim
+RISCO DE EXPLOSÍO
+O vapor pode percorrer uma distância considerável até a fonte de
+ignição e retornar. Pode ocorrer a explosão do recipiente em
+situações de incêndio.
+PONTO DE INFLAMAÇÍO
+55.4 °F 13 °C Método: Copa fechada.
+LIMITES DA EXPLOSÍO
+Inferior: 6.2 % Superior: 15.6 %
+TEMPERATURA DE AUTOIGNIÇÍO
+413 °C
+INFLAMABILIDADE
+N/A
+MEIOS DE EXTINÇÍO DE FOGOS
+Adequado: Para fogos incipientes ou pequenos usar meios como
+espuma de álcool, pó seco ou dióxido de carbono. Para grandes
+fogos aplicar agua desde o mais longe possível, usar grandes
+quantidades de agua (inundação)aplicadas como nevoeiro ou spray;
+córregos sólidos de agua podem não ser efectivos. Esfrie todos
+os depósitos ou vasilhas com grandes e inundantes quantidades de
+agua.
+COMBATE AOS INCÊNDIOS
+Equipamento de protecção: Utilizar aparelho de respiração
+autônomo e vestimenta de proteção para impedir o contato com a
+SIGMA - D8793 www.sigma-aldrich.com Page 2
+--- PÁGINA 3 ---
+pele e com os olhos.
+Risco(s) específico(s): Líquido inflamável. Emite vapores
+tóxicos em situações de incêndio.
+Secção 6 - Procedimento em caso de fuga acidental de produto
+PROCEDIMENTO EM CASO DE FUGA OU DERRAME
+Evacuar a área. Fechar/apagar todas as fontes de ignição. Usar
+instrumentos que não produzam faíscas.
+PROCEDIMENTO(S) DE PROTECÇÍO INDIVIDUAL
+Usar aparelho de respiração autônoma, botas de borracha e luvas
+pesadas de borracha. Vestir capas descartáveis e descartá-las
+após o uso.
+MÉTODOS DE LIMPEZA
+Cobrir com calcário seco, areia ou carbonato de sódio neutro.
+Colocar em recipientes cobertos utilizando instrumentos que não
+emitam faíscas e transportar para o ar livre. Ventilar a área e
+lavar o local derramado depois de terminar o recolhimento do
+material.
+Secção 7 - Instruções de manipulação e armazenamento
+MANIPULAÇÍO
+Exposição do Usuário: Não respirar o vapor. Não deixar que toque
+nos olhos, na pele ou no vestuário. Evitar a exposição
+prolongada ou repetida.
+ARMAZENAMENTO
+Adequado: Manter hermeticamente fechado. Manter longe do calor,
+de faíscas e de chamas abertas. Armazenar sob nitrogênio.
+Armazenar entre 2 e 8 graus.
+Secção 8 - Controlos de exposição / Medidas de protecção individual.
+CONTROLOS MECÂNICOS
+Usar exclusivamente em capela para vapores químicos. Ducha de
+segurança e lava-olhos.
+EQUIPAMENTO DE PROTECÇÍO INDIVIDUAL
+Respiratório: Use respiradores e componentes testados e aprovados
+por normas govername ntais apropriadas, tais como as NIOSH
+(E.U.A.) ou CEN (UE). Nos casos em que a avaliação de risco
+mostrar que os respiradores purificadores do ar são apropriados,
+use um respirador de cobertura facial total com cartuchos de
+combinação multi-objectivos (E.U.A.) ou do tipo ABEK (EN 14387)
+como apoio a controlos de engenharia. Se o respirador for o único
+meio de protecção, usa um respirador de ar de cobertura facial
+total.
+Mão: Luvas compatíveis resistentes a produtos químicos
+Olhos: Óculos de segurança química.
+MEDIDAS DE HIGIENE GERAL
+Lavar as vestimentas contaminadas antes de utilizá-las novamente.
+Lavar bem após o manuseio.
+LIMITES DE EXPOSIÇÍO, RTECS
+País Origem Tipo Valor
+EUA ACGIH TWA (Média10 PPM
+EUA Padrão de ar MSHA TWA (Média50 PPM (200 MG/M3)
+EUA OSHA. PEL (Límit8H TWA 50 PPM;CL 100 PPM;PK 20
+SIGMA - D8793 www.sigma-aldrich.com Page 3
+--- PÁGINA 4 ---
+Nova ZelândiOEL
+Observações: Controlo ACGIH TLV
+EUA NIOSH TWA (Média1 PPM
+STEL (Limi2 PPM
+LIMITES DE EXPOSIÇÍO
+País Origem Tipo Valor
+Polónia NDS 50 mg/m3
+Polónia NDSCh -
+Polónia NDSP
+Secção 9 - Propriedades Físicas e Químicas
+Aparência Estado Físico: Líquido claro
+Cor: Incolor
+Propriedade Valor A temperatura ou pressão
+Peso molecular 98.96 AMU
+pH N/A
+Ponto de Ebulição/ 82.0 - 84.0 °C
+Intervalo de pontos de
+ebulição
+Ponto de - 35.0 °C
+fusão/Intervalo de
+pontos de fusão
+Ponto de congelação N/A
+Pressão de vapor 87 mmHg 25 °C
+Densidade de vapor 3.4 g/l
+Concentração de vapor N/A
+saturado
+Peso 1.253 g/cm3
+específico/densidade
+Massa Volúmica Aparente N/A
+Umbral de Odor N/A
+% de compostos voláteis N/A
+Conteúdo de Compostos N/A
+Orgânicos Voláteis
+Conteúdo em água N/A
+Conteúdo de Solventes N/A
+Taxa de evaporação N/A
+Viscosidade N/A
+Tensão superficial N/A
+Coeficiente de partição N/A
+Temperatura de N/A
+decomposição
+Ponto de inflamação 55.4 °F 13 °C Método: Copa fechada.
+Limites da explosão Inferior: 6.2 %
+Superior: 15.6 %
+Inflamabilidade N/A
+Temperatura de 413 °C
+autoignição
+Índice de refracção 1.444
+Rotação Óptica N/A
+Dados diversos N/A
+Solubilidade N/A
+N/A = noa disponivel
+Secção 10 - Estabilidade e reactividade
+ESTABILIDADE
+SIGMA - D8793 www.sigma-aldrich.com Page 4
+--- PÁGINA 5 ---
+Estável: Estável.
+Produtos a evitar: Agentes oxidantes fortes.
+PRODUTOS DE DECOMPOSIÇÍO PERIGOSOS
+Produtos de decomposição perigosos: Monóxido de carbono, dióxido
+de carbono, Gás clorídrico.
+POLIMERIZAÇÍO PERIGOSA
+Polimerização perigosa: Não ocorrerá
+Secção 11 - Informação Toxicológica
+VIA DE EXPOSIÇÍO
+Contacto cutâneo: Provoca irritação cutânea.
+Absorção cutânea: Pode ser nocivo se absorvido através da pele.
+Contacto ocular: Provoca irritação grave nos olhos.
+Inalação: Nocivo se inalado. O material é irritante para as
+membranas mucosas e para o trato respiratório superior.
+Ingestão: Nocivo se engolido.
+ORGÍOS OU SISTEMAS ALVO.
+Coração Fígado, rins Sistema nervoso central Pâncreas
+SINAIS E SINTOMAS DE EXPOSIÇÍO
+Conjuntivite. Edema pulmonar. Os efeitos podem ser tardios.
+Respiração irregular. A ingestão pode provocar desordens
+gastrointestinais, náusea e vômito. Aumento dos níveis das
+enzimas hepáticas. Fraqueza. A exposição prolongada ou em altos
+níveis pode resultar na absorção de quantidades nocivas de
+material. Sonolência. Convulsões. Um asfixiante simples. A
+exposição pode provocar ação anestésica, dificuldade
+respiratória, cefaléia e tontura. O contato prolongado ou
+repetido com a pele pode provocar desengorduramento e dermatite.
+O contato com os olhos pode provocar avermelhamento,
+lacrimejamento e visão embaçada. A ingestão pode provocar
+irritação gastrointestinal. Depressão do SNC. Parestesia.
+Sonolência.
+DADOS DE TOXICIDADE
+Oral
+Humano
+286 mg/kg
+LDLO
+Observações: Aparelho gastrointestinal: Ulceração ou hemorragia
+do estômago. Aparelho gastrointestinal: Náuseas e vómitos.
+Fígado: esteatose hepática.
+Oral
+Homem
+714 mg/kg
+LDLO
+Observações: Sistema Cardíaco: Alteração do ritmo Pulmões, tórax
+ou respiração: Cianose Comportamento: Sonolência (diminuição da
+actividade geral)
+Oral
+Ratazana
+670 mg/kg
+LD50
+Inalação
+SIGMA - D8793 www.sigma-aldrich.com Page 5
+--- PÁGINA 6 ---
+Ratazana
+1,000 ppm
+LC50
+Observações: Comportamento: Coma Pulmões, tórax ou respiração:
+Cianose Nutrição e Metabolismo geral: Alterações: Diminuição da
+temperatura corporal.
+intraperitoneal
+Ratazana
+807 MG/KG
+LD50
+Subcutâneo
+Ratazana
+1 GM/KG
+LD50
+Observações: Orgãos Sensoriais e Sentidos Especiais (Nariz,
+Olhos, Ouvidos e Gosto):Olhos: lacrijamento Comportamento:
+Ataxia Comportamento: anestésico geral
+Oral
+Rato.
+413 mg/kg
+LD50
+Observações: Fígado:Outras alterações. Pulmões, tórax ou
+respiração: outras alterações.
+intraperitoneal
+Rato.
+470 MG/KG
+LD50
+Oral
+Cão
+5700 mg/kg
+LD50
+Observações: Orgãos Sensoriais e Sentidos Especiais (Nariz,
+Olhos, Ouvidos e Gosto):Olhos: lacrijamento Comportamento:
+anestésico geral Comportamento: Ataxia
+Inalação
+Macaco
+3,000 ppm
+LC50
+Oral
+Coelho
+860 mg/kg
+LD50
+Pele
+Coelho
+2800 mg/kg
+LD50
+Observações: Orgãos Sensoriais e Sentidos Especiais (Nariz,
+Olhos, Ouvidos e Gosto):Olhos: lacrijamento Comportamento:
+anestésico geral Comportamento: Ataxia
+DADOS DA RTECS SOBRE A IRRITAÇÍO
+Pele
+Coelho
+SIGMA - D8793 www.sigma-aldrich.com Page 6
+--- PÁGINA 7 ---
+625 mg
+Observações: Teste de irritação
+Pele
+Coelho
+500 mg
+24H
+Observações: Efeito reactivo moderado.
+Olhos
+Coelho
+63 mg
+Observações: Efeito de irritação grave.
+Olhos
+Coelho
+500 mg
+24H
+Observações: Efeito reactivo moderado.
+CANCERÍGENO POR EXPOSIÇÍO CRÓNICA
+Resultado: Este produto é ou contém um componente que foi
+relatado como sendo provavelmente carcinogênico segundo sua
+classificação pela IARC, OSHA, ACGIH, NTP ou EPA.
+Espécie: Ratazana
+Via de aplicação: Oral
+Dose: 5286 MG/KG
+Tempo de exposição: 69W
+Frequencia: I
+Resultado: Oncogenia: Carcinogénico segundo os critérios de
+RTECS. Aparelho gastrointestinal: tumores Pele e Anexos: Outros:
+Tumores.
+Espécie: Ratazana
+Via de aplicação: Inalação
+Dose: 5 PPM
+Tempo de exposição: 7H/78W
+Frequencia: I
+Resultado: Oncogenia: Agente oncogénico equívoco segundo os
+critérios da RTECS. Pele e Anexos: Outros: Tumores. Sangue:
+leucemia
+Espécie: Rato.
+Via de aplicação: Oral
+Dose: 3536 MG/KG
+Tempo de exposição: 78W
+Frequencia: I
+Resultado: Oncogenia: Carcinogénico segundo os critérios de
+RTECS. Pulmões, tórax ou respiração:Tumores. Pele e Anexos:
+Outros: Tumores.
+Espécie: Rato.
+Via de aplicação: Inalação
+Dose: 5 PPM
+Tempo de exposição: 7H/78W
+Frequencia: I
+Resultado: Oncogenia: Agente oncogénico equívoco segundo os
+critérios da RTECS. Pulmões, tórax ou respiração:Tumores. Pele e
+Anexos: Outros: Tumores.
+Espécie: Rato.
+SIGMA - D8793 www.sigma-aldrich.com Page 7
+--- PÁGINA 8 ---
+Via de aplicação: Pele
+Dose: 1120 GM/KG
+Tempo de exposição: 74W
+Frequencia: I
+Resultado: Pele e Anexos: Outros: Tumores. Pulmões, tórax ou
+respiração:Tumores. Oncogenia: neoplástico segundo a RTECS.
+Espécie: Ratazana
+Via de aplicação: Oral
+Dose: 38 GM/KG
+Tempo de exposição: 78W
+Frequencia: I
+Resultado: Aparelho gastrointestinal: tumores Sistema Vascular:
+Tumores Oncogenia: Carcinogénico segundo os critérios de RTECS.
+Espécie: Rato.
+Via de aplicação: Oral
+Dose: 76 GM/KG
+Tempo de exposição: 78W
+Frequencia: I
+Resultado: Efeitos oncogénicos: tumores no útero Pele e Anexos:
+Outros: Tumores. Oncogenia: Carcinogénico segundo os critérios
+de RTECS.
+Espécie: Ratazana
+Via de aplicação: Oral
+Dose: 18 GM/KG
+Tempo de exposição: 78W
+Frequencia: I
+Resultado: Oncogenia: Carcinogénico segundo os critérios de
+RTECS. Sistema Vascular: Tumores Aparelho gastrointestinal:
+tumores
+Espécie: Rato.
+Via de aplicação: Oral
+Dose: 38 GM/KG
+Tempo de exposição: 78W
+Frequencia: I
+Resultado: Oncogenia: Carcinogénico segundo os critérios de
+RTECS. Pele e Anexos: Outros: Tumores. Efeitos oncogénicos:
+tumores no útero
+LISTA DE CANCERÍGENOS DA IARC
+Classificação: Grupo 2B
+LISTA DE CANCERÍGENOS DA NTP
+Classificação: Evidências claras
+Espécie: Rato/rata
+Via: sonda gástrica
+LISTA DE CANCERÍGENOS DA ACGIH
+Classificação: A4
+EXPOSIÇÍO CRÓNICA: AGENTE MUTAGÉNICO
+Resultado: Experimentos laboratoriais demonstraram efeitos
+mutagênicos.
+Espécie: Humano
+Dose: 5 ML/L
+SIGMA - D8793 www.sigma-aldrich.com Page 8
+--- PÁGINA 9 ---
+Tipo de Célula: linfócito
+Teste de Mutações.: Inibição do DNA
+Espécie: Humano
+Dose: 100 MG/L
+Tipo de Célula: linfócito
+Teste de Mutações.: Mutação de células somáticas de mamíferos.
+Espécie: Ratazana
+Via: Oral
+Dose: 150 MG/KG
+Teste de Mutações.: Danificação do DNA
+Espécie: Ratazana
+Via: Inalação
+Dose: 150 PPM
+Tempo de exposição: 6H
+Teste de Mutações.: Danificação do DNA
+Espécie: Ratazana
+Dose: 130 UMOL/L
+Tipo de Célula: Fígado
+Teste de Mutações.: Síntese não prevista de DNA
+Espécie: Rato.
+Via: intraperitoneal
+Dose: 300 MG/KG
+Teste de Mutações.: Teste específico do locus
+Espécie: Rato.
+Via: intraperitoneal
+Dose: 2 MMOL/KG
+Teste de Mutações.: Danificação do DNA
+Espécie: Rato.
+Via: Oral
+Dose: 100 MG/KG
+Teste de Mutações.: Danificação do DNA
+Espécie: Rato.
+Via: intraperitoneal
+Dose: 29 MG/KG
+Teste de Mutações.: Inibição do DNA
+Espécie: Rato.
+Dose: 80 MG/KG
+Tipo de Célula: S. typhimurium
+Teste de Mutações.: Ensaio de fluidos corporais
+Espécie: Hamster
+Dose: 2 MMOL/L (+S9)
+Tipo de Célula: ovários
+Teste de Mutações.: Mutação de microorganismos.
+Espécie: Hamster
+Dose: 200 UL/PLATE
+Tipo de Célula: embrião
+Teste de Mutações.: Transformação morfológica.
+Espécie: Hamster
+Dose: 1 GM/L
+Tipo de Célula: Pulmões
+SIGMA - D8793 www.sigma-aldrich.com Page 9
+--- PÁGINA 10 ---
+Teste de Mutações.: Análises citogenéticas
+Espécie: Hamster
+Dose: 40 MMOL/L
+Tipo de Célula: ovários
+Teste de Mutações.: Mutação de células somáticas de mamíferos.
+EXPOSIÇÍO CRÓNICA: PERIGOSO PARA O SISTEMA REPRODUCTIVO
+Espécie: Ratazana
+Dose: 300 PPM/7H
+Via de aplicação: Inalação
+Tempo de exposição: (6-15D PREG)
+Resultado: Efeitos sobre a fertilidade: Mortalidade
+post-implantação (por exemplo: nº de implantes mortos ou
+reabsorvidos por nº total de implantes)
+Espécie: Ratazana
+Dose: 208 MG/M3/6H
+Via de aplicação: Inalação
+Tempo de exposição: (2W PRE/1-21D PREG)
+Resultado: Efeitos sobre fertilidade: Mortalidade antes da
+implantação (por exemplo: a redução do número de implantes por
+fêmea; nº total de implantes por corpo lúteo)
+Secção 12 - Informação Ecológica.
+TESTES DE ECOTOXICIDADE AGUDA
+Tipo de teste: LC50 Peixe
+Espécie: Onchorhynchus mykiss
+Tempo: 96 h
+Valor: 225 mg/l
+Tipo de teste: EC50 Daphnia
+Espécie: Daphnia magna
+Tempo: 24 h
+Valor: 540 mg/l
+Secção 13 - Considerações sobre a eliminação de resíduos.
+MÉTODO APROPRIADO PARA ELIMINAÇÍO DE SUBSTÂNCIAS OU PREPARAÇÕES.
+Entrar em contato com um serviço profissional credenciado de
+descarte de lixo para descartar esse material. Queimar em um
+incinerador químico equipado com pós-combustor e purificador de
+gases, mas tomar precauções adicionais ao colocar esse material em
+ignição, visto que é altamente inflamável. Observar todos os
+regulamentos ambientais federais, estaduais e locais.
+Secção 14 - Informações sobre o Transporte
+DOT
+Nome Apropriado para Embarque: Ethylene dichloride
+Número da UN: 1184
+Classe: 3
+Grupo da embalagem: Packing Group II
+Etiqueta de Perigo: Flammable liquid
+Etiqueta de Perigo: Toxic substances.
+PIH: Not PIH
+IATA
+Nome Apropriado para Embarque: Ethylene dichloride
+SIGMA - D8793 www.sigma-aldrich.com Page 10
+--- PÁGINA 11 ---
+Numero UN IATA: 1184
+Classe de perigo: 3
+Grupo da embalagem: II
+Secção 15 - Informações sobre a normativa vigente.
+DIRECTIVAS DE CLASSIFICAÇÍO DA EU.
+Símbolo de Perigo: F-T
+Indicação de perigo.: Altamente inflamável Tóxico.
+R: 45-11-22-36/37/38
+Frases de Risco: Pode provocar câncer. Altamente inflamável.
+Também nocivo por ingestão. Irritante para os olhos, sistema
+respiratório e pele.
+S: 53-45
+Frase de Segurança.: Uso restringido a profissionais. Atenção -
+Evitar a exposição - obteras instrucções especiais antes de
+usar. Em caso de acidente ou mal-estar, procurar ajuda médica
+imediatamente (se possível, mostrar a etiqueta).
+CLASIFICAÇÍO E CONTEÚDO DAS ETIQUETAS SEGUNDA A NORMATIVA DOS EUA.
+Indicação de perigo.: Inflamável (E.U.A.) altamente inflamável
+(Europa) Tóxico
+Frases de Risco: Pode provocar câncer. Também nocivo por
+ingestão. Nocivo por inalação. Irritante para o sistema
+respiratório e pele. Risco de sério dano aos olhos.
+Frase de Segurança.: Manter longe de fontes de ignição - Não
+fumar. Em caso de contato com os olhos, enxaguar imediatamente
+com água em abundância e procurar aconselhamento médico. Uso
+restringido a profissionais. Atenção - Evitar a exposição -
+obteras instrucções especiais antes de usar. Em caso de acidente
+ou mal-estar, procurar ajuda médica imediatamente (se possível,
+mostrar a etiqueta).
+Instruções segundo a normativa vigente nos EUA.: Provável
+carcinogéneo (US). Órgão(s)-alvo: Coração Nervos Proposta 65 da
+Califórnia carcinógeno.
+INFORMAÇÍO REGULAMENTARIA DOS EEUU
+INCLUÍDO NAS LISTA DA SARA: Sim
+DEMINIMIS: 0.1 %
+NOTAS: A obrigação de declarar este produto está ao abrigo da
+Secção 313 do relatório da SARA (Superfund Amendments and
+Reauthorization, Programa Federal do Ministério do Ambiente que
+regula os produtos, responsável em caso de acidentes químicos).
+PRODUTO INVENTARIADO PELA TSCA: Sim
+EUA: INFORMAÇÍO SOBRE LEGISLAÇÍO EM VIGOR NOS DIFERENTES ESTADOS
+CALIFÓRNIA PROP - 65
+Califórnia Prop - 65: Este produto é ou contém produto(s)
+químico(s) conhecido(s), no estado da Califórnia, como
+causadore(s) de câncer. Este produto é ou contém produto(s)
+químico(s) conhecido(s), no estado da Califórnia, como
+causadore(s) de câncer.
+INFORMAÇÍO SOBRE LEGISLAÇÍO EM VIGOR NO CANADÁ
+Classificação da WHMIS: Este produto foi classificado de acordo
+conm os critérios de perigo doCPR. A MSDS contém toda a
+informação exigida pela CPR.
+DSL: Sim
+NDSL: Não
+Secção 16 - Outras informações
+SIGMA - D8793 www.sigma-aldrich.com Page 11
+--- PÁGINA 12 ---
+AVISO LEGAL:
+Deve ser usado somente para I+D e investigação. Não é apto para
+fabricação de medicamentos, material de uso doméstico ou outros
+usos.
+GARANTIA
+Acredita-se que as informações acima estejam corretas, embora não
+pretendam ser totalmente abrangentes, devendo ser usadas apenas
+como um guia. A Sigma não deverá ter responsabilidade legal por
+quaisquer danos resultantes do manuseio ou do contato com o
+produto acima. Consultar o verso da fatura ou nota que acompanha o
+produto para tomar conhecimento dos termos adicionais e condições
+de venda. Direitos exclusivos, 2007, da Sigma-Aldrich Co.
+Permissão concedida para fazer número ilimitado de cópias em
+papel, somente para uso interno.
+SIGMA - D8793 www.sigma-aldrich.com Page 12

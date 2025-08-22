@@ -1,0 +1,232 @@
+--- PÁGINA 1 ---
+SIGMA-ALDRICH
+sigma-aldrich.com
+FICHA DE DADOS DE SEGURANÇA
+de acordo com a Regulamento (CE) No. 1907/2006
+Versão 4.0 Data de revisão 13.03.2010
+Data de impressão 26.01.2011
+ENERIC EU MSDS - NO COUNTRY SPECIFIC DATA - NO OEL DATA
+1. IDENTIFICAÇÍO DA SUBSTÂNCIA/MISTURA E DA SOCIEDADE/EMPRESA
+Nome do produto : ZINCO EM PÓ PURO
+Referência do Produto : 14409
+Marca : Aldrich
+Companhia : Sigma-Aldrich Brasil Ltda.
+Av. das Nações Unidas, 23.043
+04795-100 SÍO PAULO - SP
+BRAZIL
+Telefone : +551137323100
+Número de Fax : +551155229895
+Núnero de Telefone de :
+Emergência
+2. IDENTIFICAÇÍO DOS PERIGOS
+Classificação da substância ou da mistura
+Nos termos do Regulamento (CE) No1272/2008
+Toxicidade aguda para o ambiente aquático (Categoria 1)
+Toxicidade crónica para o ambiente aquático (Categoria 1)
+De acordo com a directiva Europeia 67/548/CEE, e emendas.
+Muito tóxico para os organismos aquáticos, podendo causar efeitos nefastos a longo prazo no ambiente
+aquático.
+Elementos da etiqueta
+Pictograma
+Palavra-sinal Atenção
+Declaração de perigo
+H410 Muito tóxico para os organismos aquáticos com efeitos duradouros.
+declaração de precaução
+P273 Evitar a libertação para o ambiente.
+P501 Eliminar o conteúdo/recipiente em instalação aprovada de destruição de
+resíduos.
+símbolo de perigosidade
+N Perigoso para o ambiente
+Frase(s) - R
+R50/53 Muito tóxico para os organismos aquáticos, podendo causar efeitos
+nefastos a longo prazo no ambiente aquático.
+Frase(s) - S
+S60 Este produto e o seu recipiente devem ser eliminados como resíduos
+perigosos.
+S61 Evitar a libertação para o ambiente. Obter instruções específicas/fichas de
+segurança.
+Outros Perigos - nenhum(a)
+Aldrich - 14409 Página 1 de 5
+--- PÁGINA 2 ---
+3. COMPOSIÇÍO/INFORMAÇÍO SOBRE OS COMPONENTES
+Formula : Zn
+Peso molecular : 65,39 g/mol
+No. CAS No. CE No. de Index Classificação Concentração
+Zinc powder (stabilized)
+7440-66-6 231-175-3 030-002-00-7 Aquatic Acute 1; Aquatic -
+Chronic 1; H410
+N, R50/53
+Para o pleno texto das DECLARAÇÕES H mencionadas nesta Secção, ver a Secção 16.
+4. PRIMEIROS SOCORROS
+Se for inalado
+Se for respirado, levar a pessoa para o ar fresco. Se não respirar, aplicar a respiração artificial. Consultar um
+médico.
+No caso dum contacto com a pele
+Lavar com sabão e muita água. Consultar um médico.
+No caso dum contacto com os olhos
+Lavar os olhos com água como precaução.
+Se for engolido
+Nunca dar nada pela boca a uma pessoa inconsciente. Enxaguar a boca com água. Consultar um médico.
+5. MEDIDAS DE COMBATE A INCÊNDIO
+Meios adequados de extinção
+Utilizar água pulverizada, espuma resistente ao álcool, produto químico seco ou dióxido de carbono.
+Equipamento especial de protecção a utilizar pelo pessoal de combate a incêndio
+Usar equipamento de respiração autónomo para combate a incêndios, se necessário.
+6. MEDIDAS A TOMAR EM CASO DE FUGAS ACIDENTAIS
+Precauções individuais
+Evitar a formação de poeira. Assegurar ventilação adequada.
+Precauções ambientais
+Prevenir dispersão ou derramamento ulterior se for mais seguro assim. Não permitir a entrada do produto no
+sistema de esgotos. A descarga no meio ambiente deve ser evitada.
+Métodos e materiais para a contenção e a limpeza
+Apanhar os resíduos sem levantar poeiras. Manter em recipientes fechados adequados, para eliminação.
+7. MANUSEAMENTO E ARMAZENAGEM
+Precauções para um manuseamento seguro
+Providenciar uma adequada ventilação em locais onde se formem poeiras. Medidas usuais de protecção
+preventiva contra incêndio.
+Condições para uma armazenagem segura
+Armazenar em local fresco. Guardar o recipiente herméticamente fechado em lugar seco e bem ventilado.
+8. CONTROLO DA EXPOSIÇÍO/PROTECÇÍO PESSOAL
+Protecção individual
+Protecção respiratória
+Use respiradores e componentes testados e aprovados por normas governamentais apropriadas, tais
+como as NIOSH (E.U.A.) ou CEN (UE).
+Aldrich - 14409 Página 2 de 5
+--- PÁGINA 3 ---
+Protecção das mãos
+As luvas de protecção seleccionadas devem satisfazer as especificações da Directiva da UE 89/689/CEE
+e a norma EN 374 derivada dela.
+Manusear com luvas.
+Protecção dos olhos
+Óculos de segurança
+Protecção do corpo e da pele
+Escolher uma protecção para o corpo conforme a quantidade e a concentração das substâncias
+perigosas no lugar de trabalho.
+Medidas de higiene
+Manusear de acordo com as boas práticas industriais de higiene e segurança. Lavar as mãos antes de
+interrupções, e no final do dia de trabalho.
+9. PROPRIEDADES FÍSICAS E QUÍMICAS
+Aspecto
+Estado físico pó
+Cor cinzento
+Odor inodoro
+Dados de segurança
+pH dados não disponíveis
+Ponto de fusão 420 °C - lit.
+Ponto de ebulição 907 °C - lit.
+Ponto de inflamação não aplicável
+Temperatura de dados não disponíveis
+ignição
+Limites de explosão, dados não disponíveis
+inferior
+Limite de explosão, dados não disponíveis
+superior
+Hidrossolubilidade insolúvel
+10. ESTABILIDADE E REACTIVIDADE
+Estabilidade química
+Estável sob as condições recomendadas de armazenamento.
+Condições a evitar
+dados não disponíveis
+Matérias a evitar
+Agentes oxidantes fortes, Ácidos e bases
+Produtos de decomposição perigosos
+Produtos perigosos de decomposição formados durante os incêndios. - Zinco/óxidos de zinco
+11. INFORMAÇÍO TOXICOLÓGICA
+Toxicidade aguda
+dados não disponíveis
+Corrosão/irritação cutânea
+dados não disponíveis
+Lesões oculares graves/irritação ocular
+Aldrich - 14409 Página 3 de 5
+--- PÁGINA 4 ---
+dados não disponíveis
+Sensibilização respiratória ou da pele
+Não provoca sensibilização em animais de laboratório.
+Mutagenicidade em células germinativas
+dados não disponíveis
+Carcinogenicidade
+IARC: Nenhum componente deste produto presente a níveis maiores ou iguais a 0.1% é identificado como
+carcinogénio provável, possível ou confirmado pelo IARC.
+Toxicidade reprodutiva
+dados não disponíveis
+Toxicidade para órgãos-alvo específicos - exposição única
+dados não disponíveis
+Toxicidade para órgãos-alvo específicos - exposição repetida
+dados não disponíveis
+Perigo de aspiração
+dados não disponíveis
+Efeitos potenciais para a saúde
+Inalação Pode ser perigoso se for inalado. Pode causar uma irritação do aparelho
+respiratório.
+Ingestão Pode ser perigoso se for engolido.
+Pele Pode ser perigoso se for absorto pela pele. Pode causar uma irritação da pele.
+Olhos Pode causar uma irritação dos olhos.
+Sinais e sintomas de exposição
+Até onde sabemos, as propriedades químicas, físicas e toxicológicas não foram minuciosamente investigadas.
+Informação adicional
+RTECS: ZG8600000
+12. INFORMAÇÍO ECOLÓGICA
+Toxicidade
+Toxicidade em CL50 - Cyprinus carpio (Carpa) - 450 µg/l - 96 h
+peixes
+Toxicidade em CL50 - Daphnia magna - 0,068 mg/l - 48 h
+dáfnias e outros
+invertebrados
+aquáticos.
+mortalidade NOEC - Dáfnia - 0,101 - 0,14 mg/l - 7 d
+Persistência e degradabilidade
+dados não disponíveis
+Potencial de bioacumulação
+Bioacumulação Algae - 7 d a 16 °C
+Factor de bioconcentração (BCF): 466
+Mobilidade no solo
+dados não disponíveis
+Avaliação PBT e mPmB
+dados não disponíveis
+Outros efeitos adversos
+Muito tóxico para os organismos aquáticos, podendo causar efeitos nefastos a longo prazo no ambiente
+aquático.
+Aldrich - 14409 Página 4 de 5
+--- PÁGINA 5 ---
+13. CONSIDERAÇÕES RELATIVAS À ELIMINAÇÍO
+Produto
+Observar todos os regulamentos ambientais federais, estaduais e locais. Entrar em contato com um serviço
+profissional credenciado de descarte de lixo para descartar esse material. Dissolver ou misturar o material
+com um solvente combustível e queimar em incinerador químico equipado com pós-combustor e purificador
+de gases.
+Embalagens contaminadas
+Eliminar como produto Não utilizado.
+14. INFORMAÇÕES RELATIVAS AO TRANSPORTE
+ADR/RID
+Número ONU: 3077 Classe: 9 Grupo de embalagem: III
+Denominação de expedição correcta: MATÉRIA PERIGOSA DO PONTO DE VISTA DO AMBIENTE, SÓLIDA,
+N.S.A. (Zinc powder (stabilized))
+IMDG
+Número ONU: 3077 Classe: 9 Grupo de embalagem: III EMS-No:
+F-A, S-F
+Denominação de expedição correcta: ENVIRONMENTALLY HAZARDOUS SUBSTANCE, SOLID, N.O.S. (Zinc
+powder (stabilized))
+Poluente marinho: No
+IATA
+Número ONU: 3077 Classe: 9 Grupo de embalagem: III
+Denominação de expedição correcta: Environmentally hazardous substance, solid, n.o.s. (Zinc powder
+(stabilized))
+15. INFORMAÇÍO SOBRE REGULAMENTAÇÍO
+Esta folha de dados de segurança obedece aos requerimentos da Regulamento (CE) No. 1907/2006
+16. OUTRAS INFORMAÇÕES
+Texto dos código(s) H e frase(s) R mencionados na secção 3
+Aquatic Acute Toxicidade aguda para o ambiente aquático
+Aquatic Chronic Toxicidade crónica para o ambiente aquático
+H410 Muito tóxico para os organismos aquáticos com efeitos duradouros.
+N Perigoso para o ambiente
+R50/53 Muito tóxico para os organismos aquáticos, podendo causar efeitos nefastos a longo
+prazo no ambiente aquático.
+Outras informações
+Direitos exclusivos, 2010, da Sigma-Aldrich. Permissão concedida para fazer número ilimitado de cópias
+em papel, somente para uso interno.
+Acredita-se que as informações acima estejam corretas, embora não pretendam ser totalmente
+abrangentes, devendo ser usadas apenas como um guia. A Sigma-Aldrich não deverá ter responsabilidade
+legal por quaisquer danos resultantes do manuseio ou do contato com o produto acima. Consultar o verso
+da fatura ou nota que acompanha o produto para tomar conhecimento dos termos adicionais e condições
+de venda.
+Aldrich - 14409 Página 5 de 5

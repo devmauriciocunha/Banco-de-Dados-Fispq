@@ -1,0 +1,310 @@
+--- PÁGINA 1 ---
+SIGMA-ALDRICH
+sigma-aldrich.com
+FICHA DE DADOS DE SEGURANÇA
+de acordo com a Regulamento (CE) No. 1907/2006
+Versão 4.0 Data de revisão 13.12.2010
+Data de impressão 24.01.2011
+ENERIC EU MSDS - NO COUNTRY SPECIFIC DATA - NO OEL DATA
+1. IDENTIFICAÇÍO DA SUBSTÂNCIA/MISTURA E DA SOCIEDADE/EMPRESA
+1.1 Identificadores do produto
+Nome do produto : Hexamethylphosphoramide
+Referência do Produto : H3380
+Marca : Sigma
+No. de Index : 015-106-00-2
+No. CAS : 680-31-9
+1.2 Utilizações relevantes identificadas da substância ou mistura e utilizações desaconselhadas
+Utilizações identificadas : Produtos químicos de laboratório, Fabricação de substâncias
+1.3 Pormenores acerca do fornecedor da ficha de dados de segurança
+Companhia : Sigma-Aldrich Brasil Ltda.
+Av. das Nações Unidas, 23.043
+04795-100 SÍO PAULO - SP
+BRAZIL
+Telefone : +551137323100
+Número de Fax : +551155229895
+1.4 Número de telefone de emergência
+Núnero de Telefone de :
+Emergência
+2. IDENTIFICAÇÍO DOS PERIGOS
+2.1 Classificação da substância ou mistura
+Classification according to Regulation (EC) No 1272/2008 [EU-GHS/CLP]
+Carcinogenicity (Category 1B)
+Germ cell mutagenicity (Category 1B)
+Classificação de acordo com as Directivas da EU 67/548/CEE ou 1999/45/CE
+Pode causar cancro. Pode causar alterações genéticas hereditárias.
+2.2 Elementos da etiqueta
+Labelling according Regulation (EC) No 1272/2008 [CLP]
+Pictogram
+Signal word Danger
+Hazard statement(s)
+H340 May cause genetic defects.
+H350 May cause cancer.
+Precautionary statement(s)
+P201 Obtain special instructions before use.
+P308 + P313 IF exposed or concerned: Get medical advice/ attention.
+Supplemental Hazard none
+Statements
+Sigma - H3380 Página 1 de 7
+--- PÁGINA 2 ---
+According to European Directive 67/548/EEC as amended.
+Hazard symbol(s)
+R-phrase(s)
+R45 May cause cancer.
+R46 May cause heritable genetic damage.
+S-phrase(s)
+S53 Avoid exposure - obtain special instructions before use.
+S45 In case of accident or if you feel unwell, seek medical advice immediately
+(show the label where possible).
+Reservado aos utilizadores profissionais.
+2.3 Outros Perigos - nenhum(a)
+3. COMPOSIÇÍO/INFORMAÇÍO SOBRE OS COMPONENTES
+3.1 Substâncias
+Sinónimos : HMPA
+Hexamethylphosphoric acid triamide
+Tris(dimethylamino)phosphine oxide
+Formula : C6H18N3OP
+Peso molecular : 179,20 g/mol
+Componente Concentração
+Hexamethylphosphoric triamide
+No. CAS 680-31-9 -
+No. CE 211-653-8
+No. de Index 015-106-00-2
+4. PRIMEIROS SOCORROS
+4.1 Descrição das medidas de primeiros socorros
+Recomendação geral
+Consultar um médico. Mostrar esta ficha de segurança ao médico de serviço.
+Se for inalado
+Se for respirado, levar a pessoa para o ar fresco. Se não respirar, dar respiração artificial. Consultar um
+médico.
+No caso dum contacto com a pele
+Lavar com sabão e muita água. Consultar um médico.
+No caso dum contacto com os olhos
+Lavar os olhos com água como precaução.
+Se for engolido
+Nunca dar nada pela boca a uma pessoa inconsciente. Enxaguar a boca com água. Consultar um médico.
+4.2 Sintomas e efeitos mais importantes, tanto agudos como retardados
+Até onde sabemos, as propriedades químicas, físicas e toxicológicas não foram minuciosamente
+investigadas.
+4.3 Indicação de atenção medical imediata e tratamento especial necessário
+dados não disponíveis
+Sigma - H3380 Página 2 de 7
+--- PÁGINA 3 ---
+5. MEDIDAS DE COMBATE A INCÊNDIO
+5.1 Meios de extinção
+Meios adequados de extinção
+Utilizar água pulverizada, espuma resistente ao álcool, produto químico seco ou dióxido de carbono.
+5.2 Perigos especiais decorrentes da substância ou mistura
+Óxidos de carbono, A decomposição térmica pode produzir vapores tóxicos de óxidos de fósforo e/ou fosfina
+A natureza dos produtos de decomposição não é conhecida.
+Óxidos de carbono, óxidos de azoto (NOx), Oxidos de fósforo
+5.3 Recomendações para o pessoal de combate a incêndios
+Usar equipamento de respiração autónomo para combate a incêndios, se necessário.
+5.4 Outras informações
+dados não disponíveis
+6. MEDIDAS A TOMAR EM CASO DE FUGAS ACIDENTAIS
+6.1 Precauções individuais, equipamento de protecção e procedimentos de emergência
+Usar equipamento de protecção individual. Evitar a respiração do vapor/névoa/gas. Assegurar ventilação
+adequada. Evacuar o pessoal para áreas de segurança.
+6.2 Precauções a nível ambiental
+Prevenir dispersão ou derramamento ulterior se for mais seguro assim. Não permitir a entrada do produto
+no sistema de esgotos.
+6.3 Métodos e materiais de confinamento e limpeza
+Embeber em material inerte e absorvente e tratar como desperdício especial. Manter em recipientes
+fechados adequados, para eliminação.
+6.4 Remissão para outras secções
+Para eliminação de resíduos ver secção 13.
+7. MANUSEAMENTO E ARMAZENAGEM
+7.1 Precauções para um manuseamento seguro
+Evitar a exposição - obter instruções específicas antes da utilização.Evitar a inalação do vapor ou da névoa.
+Medidas usuais de protecção preventiva contra incêndio.
+7.2 Condições de armazenagem segura, incluindo eventuais incompatibilidades
+Armazenar em local fresco. Guardar o recipiente herméticamente fechado em lugar seco e bem ventilado.
+Os contentores abertos devem ser cuidadosamente fechados de novo e têm que ficar direitos para evitar a
+dispersão.
+Sensível ao ar e à umidade.
+7.3 Utilizações finais específicas
+dados não disponíveis
+8. CONTROLO DA EXPOSIÇÍO/PROTECÇÍO PESSOAL
+8.1 Parâmetros de controlo
+Componentes a controlar com relação ao local de trabalho
+8.2 Controlo da exposição
+Controlos técnicos adequados
+Manusear de acordo com as boas práticas industriais de higiene e segurança. Lavar as mãos antes de
+interrupções, e no final do dia de trabalho.
+Sigma - H3380 Página 3 de 7
+--- PÁGINA 4 ---
+Protecção individual
+Protecção para os olhos/cara
+Óculos de protecção com um lado protector de acordo com EN 166 Use equipamento de proteção
+ocular testado e aprovado de acordo com as normas governamentais adequadas, tais como NIOSH
+(US) ou EN 166 (EU).
+Protecção da pele
+Manusear com luvas. As luvas devem ser inspectadas antes da utilização. Use uma técnica
+adequada para a remoção das luvas (sem tocar a superfície exterior da luva) para evitar o contacto
+da pele com o produto. Descarte as luvas contaminadas após o uso, em conformidade com as leis e
+boas práticas de laboratório . Lavar e secar as mãos.
+As luvas de protecção seleccionadas devem satisfazer as especificações da Directiva da UE
+89/689/CEE e a norma EN 374 derivada dela.
+Protecção do corpo
+Fato completo de protecção para produtos químicos, O genero de equipamento de protecção deve
+ser escolhido de acordo com a concentração e a quantidade da substância perigosa no lugar de
+trabalho.
+Protecção respiratória
+Nos casos em que a avaliação de risco mostrar que os respiradores purificadores do ar são
+apropriados, use um respirador de cobertura facial total com cartuchos de combinação multi-
+objectivos (E.U.A.) ou do tipo ABEK (EN 14387) como apoio a controlos de engenharia. Se o
+respirador for o único meio de protecção, usa um respirador de ar de cobertura facial total. Use
+respiradores e componentes testados e aprovados por normas governamentais apropriadas, tais
+como as NIOSH (E.U.A.) ou CEN (UE).
+9. PROPRIEDADES FÍSICAS E QUÍMICAS
+9.1 Informações sobre propriedades físicas e químicas de base
+a) Aspecto Estado físico: líquido
+b) Odor dados não disponíveis
+c) Limiar olfactivo dados não disponíveis
+d) pH dados não disponíveis
+e) Ponto de fusão/ponto 7 °C
+de congelação
+f) Ponto de ebulição inicial 230 - 232 °C a 987 hPa
+e intervalo de ebulição;
+g) Ponto de inflamação 144 °C - câmara fechada
+h) Taxa de evaporação dados não disponíveis
+i) Inflamabilidade (sólido, dados não disponíveis
+gás)
+j) limites de dados não disponíveis
+inflamabilidade superior
+/ inferior ou explosivas
+k) Pressão de vapor dados não disponíveis
+l) Densidade do vapor 6,19 - (Ar = 1.0)
+m) Densidade relativa 1,030 g/cm3
+n) Hidrossolubilidade dados não disponíveis
+o) Coeficiente de partição: dados não disponíveis
+n-octanol/água
+p) Temperatura de auto- dados não disponíveis
+ignição
+Sigma - H3380 Página 4 de 7
+--- PÁGINA 5 ---
+q) Temperatura de dados não disponíveis
+decomposição
+r) Viscosidade dados não disponíveis
+s) Propriedades dados não disponíveis
+explosivas
+t) Propriedades oxidantes dados não disponíveis
+9.2 Outra informação de segurança
+dados não disponíveis
+10. ESTABILIDADE E REACTIVIDADE
+10.1 Reactividade
+dados não disponíveis
+10.2 Estabilidade química
+dados não disponíveis
+10.3 Possibilidade de reacções perigosas
+dados não disponíveis
+10.4 Condições a evitar
+dados não disponíveis
+10.5 Materiais incompatíveis
+Agentes oxidantes fortes, Ácidos fortes
+10.6 Produtos de decomposição perigosos
+Outros produtos de decomposição perigosos - dados não disponíveis
+11. INFORMAÇÍO TOXICOLÓGICA
+11.1 Informações sobre os efeitos toxicológicos
+Toxicidade aguda
+DL50 Oral - ratazana - 2.650 mg/kg
+Observações: Comportamento: Convulsões ou acção sobre o despoletamento da crise epiléptica. Rins,
+ureteres e bexiga urinária: hematúria. Rins, ureteres e bexiga urinária: incontinência.
+DL50 Dérmico - coelho - 2.600 mg/kg
+Observações: Comportamento: alterações do ciclo de sono (incluindo alterações no reflexo geral de
+postura). Comportamento: Sonolência (diminuição da actividade geral) Pulmões, tórax ou respiração:
+Dispnéia
+Corrosão/irritação cutânea
+dados não disponíveis
+Lesões oculares graves/irritação ocular
+dados não disponíveis
+Sensibilização respiratória ou cutânea
+dados não disponíveis
+Mutagenicidade em células germinativas
+Experimentos laboratoriais demonstraram efeitos mutagênicos.
+Os testes in vivo mostraram efeitos mutagénicos
+Carcinogenicidade
+Este produto é ou contém um componente que foi relatado como sendo provavelmente carcinogênico
+segundo sua classificação pela IARC, OSHA, ACGIH, NTP ou EPA.
+Carcinogénio humano possível
+IARC: 2B - Group 2B: Possibly carcinogenic to humans (Hexamethylphosphoric triamide)
+Sigma - H3380 Página 5 de 7
+--- PÁGINA 6 ---
+Toxicidade reprodutiva
+dados não disponíveis
+Toxicidade para órgãos-alvo específicos - exposição única
+dados não disponíveis
+Toxicidade para órgãos-alvo específicos - exposição repetida
+dados não disponíveis
+Perigo de aspiração
+dados não disponíveis
+Efeitos potenciais para a saúde
+Inalação Pode ser perigoso se for inalado. Pode causar uma irritação do aparelho
+respiratório.
+Ingestão Pode ser perigoso se for engolido.
+Pele Pode ser perigoso se for absorto pela pele. Pode causar uma irritação da
+pele.
+Olhos Pode causar uma irritação dos olhos.
+Sinais e sintomas de exposição
+Até onde sabemos, as propriedades químicas, físicas e toxicológicas não foram minuciosamente
+investigadas.
+Informação adicional
+RTECS: TD0875000
+12. INFORMAÇÍO ECOLÓGICA
+12.1 Toxicidade
+Toxicidade em peixes CL50 - Lepomis macrochirus - 7.240 mg/l - 96 h
+Toxicidade em dáfnias e CE50 - Daphnia magna - 6.670 mg/l - 48 h
+outros invertebrados
+aquáticos.
+12.2 Persistência e degradabilidade
+12.3 Potencial de bioacumulação
+Bioacumulação Cyprinodon variegatus - 33 d -40,4 mg/l
+Factor de bioconcentração (BCF): 3,3
+12.4 Mobilidade no solo
+dados não disponíveis
+12.5 Resultados da avaliação PBT e mpmb
+dados não disponíveis
+12.6 Outros efeitos adversos
+dados não disponíveis
+13. CONSIDERAÇÕES RELATIVAS À ELIMINAÇÍO
+13.1 Métodos de tratamento de resíduos
+Produto
+Propor a entrega de soluções excedentes e não recicláveis a uma empresa idónea de tratamento de
+resíduos. Entrar em contato com um serviço profissional credenciado de descarte de lixo para descartar
+esse material.
+Embalagens contaminadas
+Eliminar como produto Não utilizado.
+Sigma - H3380 Página 6 de 7
+--- PÁGINA 7 ---
+14. INFORMAÇÕES RELATIVAS AO TRANSPORTE
+14.1 Número ONU
+ADR/RID: - IMDG: - IATA: -
+14.2 Nome apropriado para embarque da ONU
+ADR/RID: Not dangerous goods
+IMDG: Mercadorias não perigosas
+IATA: Mercadorias não perigosas
+14.3 Classificação (classificações) do perigo de transporte
+ADR/RID: - IMDG: - IATA: -
+14.4 Grupo de embalagem
+ADR/RID: - IMDG: - IATA: -
+14.5 Perigos para o ambiente
+ADR/RID: no IMDG Poluente marinho: não IATA: não
+14.6 Precauções especiais para o utilizador
+dados não disponíveis
+15. INFORMAÇÍO SOBRE REGULAMENTAÇÍO
+Esta folha de dados de segurança obedece aos requerimentos da Regulamento (CE) No. 1907/2006
+15.1 Regulamentação/legislação específica para a substância ou mistura em matéria de saúde, segurança
+e ambiente
+dados não disponíveis
+15.2 Avaliação da segurança química
+dados não disponíveis
+16. OUTRAS INFORMAÇÕES
+Outras informações
+Direitos exclusivos, 2010, da Sigma-Aldrich. Permissão concedida para fazer número ilimitado de cópias
+em papel, somente para uso interno.
+Acredita-se que as informações acima estejam corretas, embora não pretendam ser totalmente
+abrangentes, devendo ser usadas apenas como um guia. A Sigma-Aldrich não deverá ter
+responsabilidade legal por quaisquer danos resultantes do manuseio ou do contato com o produto acima.
+Consultar o verso da fatura ou nota que acompanha o produto para tomar conhecimento dos termos
+adicionais e condições de venda.
+Sigma - H3380 Página 7 de 7

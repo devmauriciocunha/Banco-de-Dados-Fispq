@@ -1,0 +1,343 @@
+--- PÁGINA 1 ---
+SIGMA-ALDRICH
+sigma-aldrich.com
+FICHA DE DADOS DE SEGURANÇA
+de acordo com a Regulamento (CE) No. 1907/2006
+Versão 4.0 Data de revisão 12.03.2010
+Data de impressão 20.01.2011
+ENERIC EU MSDS - NO COUNTRY SPECIFIC DATA - NO OEL DATA
+1. IDENTIFICAÇÍO DA SUBSTÂNCIA/MISTURA E DA SOCIEDADE/EMPRESA
+Nome do produto : BENZENO 99+% - REAGENTE PARA
+ESPECTROFOTOMETRIA
+Referência do Produto : 154628
+Marca : Sigma-Aldrich
+Companhia : Sigma-Aldrich Brasil Ltda.
+Av. das Nações Unidas, 23.043
+04795-100 SÍO PAULO - SP
+BRAZIL
+Telefone : +551137323100
+Número de Fax : +551155229895
+Núnero de Telefone de :
+Emergência
+2. IDENTIFICAÇÍO DOS PERIGOS
+Classificação da substância ou da mistura
+Nos termos do Regulamento (CE) No1272/2008
+Líquidos inflamáveis (Categoria 2)
+Carcinogenicidade (Categoria 1A)
+Mutagenicidade em células germinativas (Categoria 1B)
+Toxicidade para órgãos-alvo específicos - exposição repetida (Categoria 1)
+Perigo de aspiração (Categoria 1)
+Iirritação ocular (Categoria 2)
+Irritação cutânea (Categoria 2)
+De acordo com a directiva Europeia 67/548/CEE, e emendas.
+Facilmente inflamável. Tóxico: risco de efeitos graves para a saúde em caso de exposição prolongada por
+inalação, em contacto com a pele e por ingestão. Pode causar cancro. Pode causar alterações genéticas
+hereditárias. Nocivo: pode causar danos nos pulmões se ingerido. Irritante para os olhos e pele.
+Elementos da etiqueta
+Pictograma
+Palavra-sinal Perigo
+Declaração de perigo
+H225 Líquido e vapor facilmente inflamáveis.
+H372 Afecta os órgãos após exposição prolongada ou repetida.
+H319 Provoca irritação ocular grave.
+H315 Provoca irritação cutânea.
+H304 Pode ser mortal por ingestão e penetração nas vias respiratórias.
+H340 Pode provocar anomalias genéticas.
+H350 Pode provocar cancro.
+declaração de precaução
+P201 Pedir instruções específicas antes da utilização.
+P210 Manter afastado do calor/faísca/chama aberta/superfícies quentes. - Não
+fumar.
+Sigma-Aldrich - 154628 Página 1 de 7
+--- PÁGINA 2 ---
+P301 + P310 EM CASO DE INGESTÍO: contacte imediatamente um CENTRO DE
+INFORMAÇÍO ANTIVENENOS ou um médico.
+P305 + P351 + P338 SE ENTRAR EM CONTACTO COM OS OLHOS: enxaguar
+cuidadosamente com água durante vários minutos. Se usar lentes de
+contacto, retire-as, se tal lhe for possível. Continuar a enxaguar.
+P308 + P313 EM CASO DE exposição ou suspeita de exposição: consulte um médico.
+P331 NÍO provocar o vómito.
+símbolo de perigosidade
+F Facilmente inflamável
+T Tóxico
+Frase(s) - R
+R45 Pode causar cancro.
+R46 Pode causar alterações genéticas hereditárias.
+R11 Facilmente inflamável.
+R36/38 Irritante para os olhos e pele.
+R48/23/24/25 Também tóxico: risco de efeitos graves para a saúde em caso de
+exposição prolongada por inalação, em contacto com a pele e por
+ingestão.
+R65 Também nocivo: pode causar danos nos pulmões se ingerido.
+Frase(s) - S
+S53 Evitar a exposição - obter instruções específicas antes da utilização.
+S45 Em caso de acidente ou de indisposição, consultar imediatamente o
+médico (se possível mostrar-lhe o rótulo).
+Reservado aos utilizadores profissionais.
+Outros Perigos - nenhum(a)
+3. COMPOSIÇÍO/INFORMAÇÍO SOBRE OS COMPONENTES
+Formula : C6H6
+Peso molecular : 78,11 g/mol
+No. CAS No. CE No. de Index Classificação Concentração
+Benzene
+71-43-2 200-753-7 601-020-00-8 Flam. Liq. 2; Carc. 1A; Muta. -
+1B; STOT RE 1; Asp. Tox. 1;
+Eye Irrit. 2; Skin Irrit. 2; H225,
+H372, H319, H315, H304,
+H340, H350
+F, T, Carc.Cat.1, Mut.Cat.2,
+R45 - R46 - R11 - R36/38 -
+R48/23/24/25 - R65
+Para o pleno texto das DECLARAÇÕES H mencionadas nesta Secção, ver a Secção 16.
+4. PRIMEIROS SOCORROS
+Recomendação geral
+Consultar um médico. Mostrar esta ficha de segurança ao médico de serviço.
+Se for inalado
+Se for respirado, levar a pessoa para o ar fresco. Se não respirar, aplicar a respiração artificial. Consultar um
+médico.
+No caso dum contacto com a pele
+Lavar com sabão e muita água. Transportar imediatamente paciente para um Hospital. Consultar um médico.
+No caso dum contacto com os olhos
+Lavar cuidadosamente com muita água, durante pelo menos quinze minutos, e consultar o médico.
+Sigma-Aldrich - 154628 Página 2 de 7
+--- PÁGINA 3 ---
+Se for engolido
+NÍO provocar vómitos. Nunca dar nada pela boca a uma pessoa inconsciente. Enxaguar a boca com água.
+Consultar um médico.
+5. MEDIDAS DE COMBATE A INCÊNDIO
+Meios adequados de extinção
+Para fogos incipientes ou pequenos usar meios como espuma de álcool, pó seco ou dióxido de carbono. Para
+grandes fogos aplicar agua desde o mais longe possível, usar grandes quantidades de agua
+(inundação)aplicadas como nevoeiro ou spray; córregos sólidos de agua podem não ser efectivos. Esfrie
+todos os depósitos ou vasilhas com grandes e inundantes quantidades de agua.
+Perigos específicos surgendo dos produtos químicos
+Flash back possível acima de uma distância considerável. Pode ocorrer a explosão do recipiente em situações
+de incêndio.
+Equipamento especial de protecção a utilizar pelo pessoal de combate a incêndio
+Usar equipamento de respiração autónomo para combate a incêndios, se necessário.
+Outras informações
+Os jactos de água podem ser utilizados para arrefecer os contentores fechados.
+6. MEDIDAS A TOMAR EM CASO DE FUGAS ACIDENTAIS
+Precauções individuais
+Usar equipamento de protecção individual. Evitar a respiração do vapor/névoa/gas. Assegurar ventilação
+adequada. Cortar todas as fontes de ignição. Evacuar o pessoal para áreas de segurança. Atenção com a
+acumulação de vapores que pode formar concentrações explosivas. Os vapores podem-se acumular nas
+áreas baixas.
+Precauções ambientais
+Prevenir dispersão ou derramamento ulterior se for mais seguro assim. Não permitir a entrada do produto no
+sistema de esgotos.
+Métodos e materiais para a contenção e a limpeza
+Controlar e recuperar o líquido derramado com um produto absorvente não combustível, (por exemplo areia,
+terra, terra diatomácea, vermiculite) e pôr o líquido dentro de contentores para eliminação de acordo com os
+regulamentos locais / nacionais (ver secção 13).
+7. MANUSEAMENTO E ARMAZENAGEM
+Precauções para um manuseamento seguro
+Evitar a inalação do vapor ou da névoa.Evitar a exposição - obter instruções específicas antes da utilização.
+Manter afastado de qualquer chama ou fonte de ignição - Não fumar. Tome medidas para impedir a formação
+de electricidade estática.
+Condições para uma armazenagem segura
+Armazenar em local fresco. Guardar o recipiente herméticamente fechado em lugar seco e bem ventilado. Os
+contentores abertos devem ser cuidadosamente fechados de novo e têm que ficar direitos para evitar a
+dispersão.
+8. CONTROLO DA EXPOSIÇÍO/PROTECÇÍO PESSOAL
+Protecção individual
+Protecção respiratória
+Nos casos em que a avaliação de risco mostrar que os respiradores purificadores do ar são apropriados,
+use um respirador de cobertura facial total com cartuchos de combinação multi-objectivos (E.U.A.) ou do
+tipo ABEK (EN 14387) como apoio a controlos de engenharia. Se o respirador for o único meio de
+protecção, usa um respirador de ar de cobertura facial total. Use respiradores e componentes testados e
+aprovados por normas governamentais apropriadas, tais como as NIOSH (E.U.A.) ou CEN (UE).
+Protecção das mãos
+As luvas de protecção seleccionadas devem satisfazer as especificações da Directiva da UE 89/689/CEE
+e a norma EN 374 derivada dela.
+Sigma-Aldrich - 154628 Página 3 de 7
+--- PÁGINA 4 ---
+Manusear com luvas.
+Protecção dos olhos
+Mascaras de protecção e óculos de segurança.
+Protecção do corpo e da pele
+Escolher uma protecção para o corpo conforme a quantidade e a concentração das substâncias
+perigosas no lugar de trabalho.
+Medidas de higiene
+Evitar o contacto com a pele, olhos e vestuário. Lavar as mãos antes de interrupções do trabalho, e
+imediatamente a seguir ao manuseamento do produto.
+9. PROPRIEDADES FÍSICAS E QUÍMICAS
+Aspecto
+Estado físico líquido
+Cor incolor
+Dados de segurança
+pH dados não disponíveis
+Ponto de fusão 5,5 °C
+Ponto de ebulição 80 °C
+Ponto de inflamação -11,0 °C - câmara fechada
+Temperatura de 562 °C
+ignição
+Limites de explosão, 1,3 %(V)
+inferior
+Limite de explosão, 8 %(V)
+superior
+Pressão de vapor 221,3 hPa a 37,7 °C
+99,5 hPa a 20,0 °C
+Hidrossolubilidade dados não disponíveis
+10. ESTABILIDADE E REACTIVIDADE
+Estabilidade química
+Estável sob as condições recomendadas de armazenamento.
+Condições a evitar
+Calor, chamas e faíscas.
+Matérias a evitar
+ácidos, Bases, Halogênios, Agentes oxidantes fortes, Sais metálicos
+Produtos de decomposição perigosos
+Produtos perigosos de decomposição formados durante os incêndios. - Óxidos de carbono
+11. INFORMAÇÍO TOXICOLÓGICA
+Toxicidade aguda
+DL50 Oral - ratazana - 2.990 mg/kg
+CL50 Inalação - ratazana - fêmea - 4 h - 44.700 mg/m3
+DL50 Dérmico - coelho - 8.263 mg/kg
+Corrosão/irritação cutânea
+Pele - coelho - Irritação dermal
+Sigma-Aldrich - 154628 Página 4 de 7
+--- PÁGINA 5 ---
+Lesões oculares graves/irritação ocular
+Olhos - coelho - Irritação ocular
+Sensibilização respiratória ou da pele
+dados não disponíveis
+Mutagenicidade em células germinativas
+Experimentos laboratoriais demonstraram efeitos mutagênicos.
+Os testes in vivo mostraram efeitos mutagénicos
+Genotoxicidade in vitro - Humano - linfócito
+Troca de cromatídeos homólogos
+Genotoxicidade in vitro - rato - linfócito
+Mutação de células somáticas de mamíferos.
+Genotoxicidade in vivo - rato - Inalação
+Troca de cromatídeos homólogos
+Carcinogenicidade
+Carcinogenicidade - Humano - macho - Inalação
+Oncogenia: Carcinogénico segundo os critérios de RTECS. Leucemia Sangue: trombocitopenia
+Carcinogenicidade - ratazana - Oral
+Oncogenia: Carcinogénico segundo os critérios de RTECS. Sistema endócrino: Tumores Leucemia
+Este produto é ou contém um componente que foi relatado como sendo carcinogênico segundo sua
+classificação pela IARC, OSHA, ACGIH, NTP ou EPA.
+Carcinogénico para os humanos.
+IARC: 1 - Grupo 1: Carcinogénico para os humanos (Benzene)
+Toxicidade reprodutiva
+Toxicidade reprodutiva - rato - intraperitoneal
+Efeitos sobre fertilidade: Mortalidade antes da implantação (por exemplo: a redução do número de implantes
+por fêmea; nº total de implantes por corpo lúteo) Efeitos no embrião ou no feto: morte fetal
+Efeitos tóxicos no desenvolvimento - ratazana - Inalação
+Efeitos no embrião ou no feto: Estruturas extra-embrionárias (por exemplo, placenta, cabo umbilical) Efeitos
+no embrião ou no feto: Fetotoxicidade (excepto a morte, por exemplo, atrofia do feto).
+Efeitos tóxicos no desenvolvimento - rato - Inalação
+Efeitos no embrião ou no feto: Alterações citológica (incluíndo omaterial genético das células somáticas),
+Malformações Específicas do Desenvolvimento: sangue e sistema linfático (incluíndo baço e medula óssea)
+Toxicidade para órgãos-alvo específicos - exposição única
+dados não disponíveis
+Toxicidade para órgãos-alvo específicos - exposição repetida
+dados não disponíveis
+Perigo de aspiração
+Pode ser mortal por ingestão e penetração nas vias respiratórias.
+Efeitos potenciais para a saúde
+Inalação Tóxico se inalado. Pode causar uma irritação do aparelho respiratório.
+Ingestão Tóxico se ingerido. Perigo de aspiração se for engolido - pode entrar nos
+pulmões e causar danos.
+Pele Tóxico se absorvido através da pele. Causa uma irritação da pele.
+Olhos Causa uma irritação nos olhos.
+Sinais e sintomas de exposição
+Sigma-Aldrich - 154628 Página 5 de 7
+--- PÁGINA 6 ---
+Náusea, Vertigem, Dor de cabeça, narcose, IA inalação de altas concentrações de benzeno pode ter um efeito
+inicialmente estimulador do sistema nervoso central, caracterizado por um estado de animação excessiva,
+excitação nervosa e/ou estouvamento, depressão, sonolência ou fadiga. A vítima pode sentir aperto no peito,
+falta de ar e perda de consciência. Tremores, convulsões e morte devido a parada respiratória ou colapso
+circulatório podem ocorrer dentro de alguns minutos a várias horas após exposições graves. A aspiração de
+pequenas quantidades de líquido provoca imediatamente edema pulmonar e hemorragia do tecido pulmonar.
+O contato direto com a pele pode provocar eritema. O contato repetido ou prolongado com a pele pode
+provocar ressecamento, dermatite esfoliativa ou o desenvolvimento de infecções cutâneas secundárias. O
+principal órgão-alvo é o sistema hematopoiético. À medida que o quadro evolui, pode ocorrer sangramento
+nasal, gengival ou das membranas mucosas, desenvolvimento de manchas purpúricas, pancitopenia,
+leucopenia, trombocitopenia, anemia aplásica e leucemia. A medula óssea pode apresentar-se normal,
+aplásica ou hiperplásica e pode não correlacionar-se com os tecidos hematopoiéticos periféricos. O início dos
+efeitos da exposição prolongada ao benzeno pode demorar vários meses ou anos para aparecer, após o
+término da exposição., Doenças do sangue
+Informação adicional
+RTECS: CY1400000
+12. INFORMAÇÍO ECOLÓGICA
+Toxicidade
+Toxicidade em CL50 - Oncorhynchus mykiss (truta arco-íris) - 5,90 mg/l - 96 h
+peixes
+CL50 - Pimephales promelas (vairão gordo) - 15,00 - 32,00 mg/l - 96 h
+CL50 - Lepomis macrochirus - 230,00 mg/l - 96 h
+NOEC - Pimephales promelas (vairão gordo) - 10,2 mg/l - 7 d
+LOEC - Pimephales promelas (vairão gordo) - 17,2 mg/l - 7 d
+Toxicidade em CE50 - Daphnia magna - 22,00 mg/l - 48 h
+dáfnias e outros
+invertebrados
+aquáticos.
+CE50 - Daphnia magna - 9,20 mg/l - 48 h
+Toxicidade em algas CE50 - Pseudokirchneriella subcapitata (alga verde) - 29,00 mg/l - 72 h
+Persistência e degradabilidade
+Biodegradabilidade Resultado: - Rápidamente biodegradável.
+Potencial de bioacumulação
+Bioacumulação Leuciscus idus (Carpa dourada) - 3 d
+Factor de bioconcentração (BCF): 10
+Mobilidade no solo
+dados não disponíveis
+Avaliação PBT e mPmB
+dados não disponíveis
+Outros efeitos adversos
+dados não disponíveis
+13. CONSIDERAÇÕES RELATIVAS À ELIMINAÇÍO
+Produto
+Queimar em um incinerador químico equipado com pós-combustor e purificador de gases, mas tomar
+precauções adicionais ao colocar esse material em ignição, visto que é altamente inflamável. Observar
+todos os regulamentos ambientais federais, estaduais e locais. Entrar em contato com um serviço
+profissional credenciado de descarte de lixo para descartar esse material.
+Sigma-Aldrich - 154628 Página 6 de 7
+--- PÁGINA 7 ---
+Embalagens contaminadas
+Eliminar como produto Não utilizado.
+14. INFORMAÇÕES RELATIVAS AO TRANSPORTE
+ADR/RID
+Número ONU: 1114 Classe: 3 Grupo de embalagem: II
+Denominação de expedição correcta: BENZENO
+IMDG
+Número ONU: 1114 Classe: 3 Grupo de embalagem: II EMS-No:
+F-E, S-D
+Denominação de expedição correcta: BENZENE
+Poluente marinho: No
+IATA
+Número ONU: 1114 Classe: 3 Grupo de embalagem: II
+Denominação de expedição correcta: Benzene
+15. INFORMAÇÍO SOBRE REGULAMENTAÇÍO
+Esta folha de dados de segurança obedece aos requerimentos da Regulamento (CE) No. 1907/2006
+16. OUTRAS INFORMAÇÕES
+Texto dos código(s) H e frase(s) R mencionados na secção 3
+Asp. Tox. Perigo de aspiração
+Carc. Carcinogenicidade
+Eye Irrit. Iirritação ocular
+Flam. Liq. Líquidos inflamáveis
+H225 Líquido e vapor facilmente inflamáveis.
+H304 Pode ser mortal por ingestão e penetração nas vias respiratórias.
+H315 Provoca irritação cutânea.
+H319 Provoca irritação ocular grave.
+H340 Pode provocar anomalias genéticas.
+H350 Pode provocar cancro.
+H372 Afecta os órgãos após exposição prolongada ou repetida.
+Muta. Mutagenicidade em células germinativas
+F Facilmente inflamável
+T Tóxico
+R11 Facilmente inflamável.
+R36/38 Irritante para os olhos e pele.
+R45 Pode causar cancro.
+R46 Pode causar alterações genéticas hereditárias.
+R48/23/24/25 Tóxico: risco de efeitos graves para a saúde em caso de exposição prolongada por
+inalação, em contacto com a pele e por ingestão.
+R65 Nocivo: pode causar danos nos pulmões se ingerido.
+Outras informações
+Direitos exclusivos, 2010, da Sigma-Aldrich. Permissão concedida para fazer número ilimitado de cópias
+em papel, somente para uso interno.
+Acredita-se que as informações acima estejam corretas, embora não pretendam ser totalmente
+abrangentes, devendo ser usadas apenas como um guia. A Sigma-Aldrich não deverá ter responsabilidade
+legal por quaisquer danos resultantes do manuseio ou do contato com o produto acima. Consultar o verso
+da fatura ou nota que acompanha o produto para tomar conhecimento dos termos adicionais e condições
+de venda.
+Sigma-Aldrich - 154628 Página 7 de 7

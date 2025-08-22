@@ -1,0 +1,545 @@
+--- PÁGINA 1 ---
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTO QUÍMICO
+FISPQ
+Produto Elaboração Última Revisão
+CLORO 16/DEZ/1998 24/MAR/2006
+1 - IDENTIFICAÇÍO DO PRODUTO E DA EMPRESA
+Nome do Produto : Cloro (Cl )
+2
+Nome da Empresa : Carbocloro S/A Indústrias Químicas
+Endereço da Sede : Av. Juscelino Kubitscheck, 1830 – Torre III –
+4º andar - Itaim Bibi
+São Paulo/SP – 04543-900
+Tel: (11) 3704-2000
+Fax: (11) 3078-9725
+Endereço da Fábrica : Estrada de Piaçaguera, Km 4 - Perequê
+(atual Rodovia Cônego Domênico Rangoni,
+Km 267,7 – SP-55 – Leste)
+Cubatão/SP – 11573-901
+Telefone : (13) 3362-8000 PABX
+Fax : (13) 3362-8008
+Telefone de Emergência: (13) 3362-8022
+Telefone PróQuímica
+Abiquim : 0800-118270 (Discagem Direta Gratuita)
+Internet : www.carbocloro.com.br
+comunicacao@carbocloro.com.br
+CLORO
+Página 1 de 14
+DATA DA ÚLTIMA REVISÍO: 24/MAR/2006
+--- PÁGINA 2 ---
+2 – COMPOSIÇÍO E INFORMAÇÕES SOBRE OS INGREDIENTES
+Substância : Cl (Cloro)
+2
+Nome Químico Comum
+ou Nome Genérico : Cloro Gás
+Sinônimo : Cloro
+Composição : Cloro (100 % em massa)
+Registro no Chemical
+Abstract Service (CAS) : 7782-50-5
+Ingredientes que
+Contribuem para o
+Perigo : O produto em si
+3 - IDENTIFICAÇÍO DE PERIGOS
+Perigos mais
+Importantes : (cid:104) Possível irritação severa ao ser inalado,
+(cid:104) Causa dermatites. No caso do gás liquefeito,
+causará queimaduras químicas e térmicas no
+contato com a pele,
+(cid:104) Nos olhos causa queimaduras químicas e
+distúrbios visuais
+Efeitos do Produto : Pode ocasionar severas lesões ao ser inalado,
+até levar à morte, se a exposição ocorrer em altas concentrações
+• Efeitos Adversos à Saúde Humana
+O cloro é um irritante das vias respiratórias e fortemente agressivo.
+Os efeitos dependem da concentração e do tempo de exposição. A
+inalação, mesmo que rápida, pode levar a lesões brônquicas. Se o
+tempo de exposição for elevado, ocorrerá edema pulmonar,
+seguido de morte. O contato do cloro com os olhos, causará
+irritações e queimaduras. Na pele, causará vermelhidão e formação
+de bolhas por queimadura por baixa temperatura (cloro liquefeito)
+• Efeitos Ambientais
+O cloro afeta os cursos d´água, a flora e a fauna
+• Perigos Físicos e Químicos
+O cloro tem grande afinidade com a maioria das substâncias e em
+temperaturas elevadas, reage fortemente com metais. O cloro não é
+inflamável nem explosivo, podendo no entanto, alimentar a
+combustão de outras substâncias
+• Perigos Específicos
+Reage com a água formando o ácido clorídrico, que pode aumentar
+a corrosão dos metais que compõem os recipientes
+CLORO
+Página 2 de 14
+DATA DA ÚLTIMA REVISÍO: 24/MAR/2006
+--- PÁGINA 3 ---
+• Principais Sintomas
+A exposição do gás resulta em dores de cabeça, inquietação e
+sensação de sufocamento, lacrimejamento e redução da capacidade
+respiratória
+• Classificação do Produto Químico
+Produto corrosivo, tendo as seguintes classificações:
+NFPA HMIS
+Risco à Saúde 3 Risco à Saúde 3
+Inflamabilidade 0 Inflamabilidade 0
+Reatividade 1 Reatividade 1
+Perigo Especial OXY EPI I/L
+• Ações em Emergências
+Manter as pessoas afastadas. Permanecer afastado das áreas baixas,
+tendo o vento pelas costas. Ventilar espaços fechados antes de
+entrar. Não permita a entrada de água nos recipientes e afaste-os
+da área do fogo se puder ser feito sem risco. Não usar água sobre o
+recipiente que estiver vazando, pois o vazamento poderá aumentar.
+A água pode ser usada apenas para resfriar os recipientes em caso
+de fogo, se não houver vazamento
+4 – MEDIDAS DE PRIMEIROS SOCORROS
+Medidas de Primeiros
+Socorros : Remover a pessoa da área contaminada. Se
+estiver inconsciente, não dar nada para beber.
+Retirar as roupas e calçados contaminados. Não
+aplicar soluções neutralizantes de cloro nas
+áreas atingidas. Encaminhar a pessoa para
+atendimento médico
+• Inalação
+Remover a pessoa para um ambiente ventilado e descontaminado.
+Aplique respiração artificial se não estiver respirando. Se estiver
+respirando com dificuldade, convém aplicar oxigenação por pessoa
+qualificada. Parando a respiração ou o pulso, aplicar ressuscitação
+cardio pulmonar. Encaminhar de imediato para atendimento
+médico
+• Contato com a Pele
+Descontaminar as áreas atingidas com água corrente e sabão,
+removendo as roupas e calçados contaminados. As roupas
+contaminadas devem ser lavadas antes do reuso. Acionar o
+atendimento médico imediatamente
+• Contato com os Olhos
+Lavar imediata e continuamente os olhos com água corrente.
+Durante a lavagem, manter as pálpebras abertas para garantir a
+irrigação dos olhos e dos tecidos oculares, a fim de obter resultado
+satisfatório. Providenciar socorro médico imediatamente
+CLORO
+Página 3 de 14
+DATA DA ÚLTIMA REVISÍO: 24/MAR/2006
+--- PÁGINA 4 ---
+• Ingestão
+A ocorrência de contaminação por esta via de penetração não é
+comum
+Ações a Serem
+Evitadas : Fornecer leite ou outro produto a fim de
+neutralizar os efeitos do cloro, bem como
+aplicar/aplicar medicamentos
+sem orientação médica
+Principais Sintomas
+E Efeitos : A exposição ao gás resulta em dores de cabeça,
+inquietação e sensação de sufocamento,
+lacrimejamento com redução
+da capacidade respiratória
+Proteção do Prestador
+De Socorros : Usar os EPI´s indicados (ver seção 8)
+Notas para o Médico : (cid:104) Tratamento sintomático,
+(cid:104) Aplicar terapia por esteróides, que se dada
+logo, será eficaz no tratamento preventivo
+de dema pulmonar
+5 – MEDIDAS DE COMBATE A INCÊNDIO
+Meios de Extinção
+Apropriados : De pequenas proporções, usar extintores. De
+grandes proporções, água em forma de neblina
+ou espuma, afastando o gás das pessoas
+efetuando a manobra
+Meios de Extinção
+Não Apropriados : Direcionar o jato de água direto para o
+recipiente de armazenamento
+Perigos Específicos : O cloro não é inflamável nem explosivo, porém
+é capaz de manter a combustão de várias
+substâncias e reage explosivamente com o
+acetileno, éter, amônia, hidrogênio, metais e
+materiais orgânicos
+Métodos Especiais : Em caso de fogo, os tanques e os recipientes
+com cloro, devem ser isolados e as tubulações
+desconectadas do restante do processo. Não
+havendo vazamento de cloro, resfriar os
+tanques ou os cilindros com água. Pessoas não
+envolvidas na emergência, não treinadas no
+manuseio do produto e não autorizadas para
+permanecer na área atingida, devem ser
+mantidas numa distância segura
+CLORO
+Página 4 de 14
+DATA DA ÚLTIMA REVISÍO: 24/MAR/2006
+--- PÁGINA 5 ---
+Proteção dos
+Bombeiros : Fazer uso da proteção respiratória com filtro
+contra gases ácidos, luvas em PVC, calçados de
+borracha e óculos de segurança
+6 – MEDIDAS DE CONTROLE PARA DERRAMAMENTO OU VAZAMENTO
+Precauções Pessoais : Percebendo cheiro do cloro, mantenha-se
+sempre com o vento pelas costas. Use, proteção
+respiratória (peça facial completa) com filtro
+contra gases ácidos, conjunto autônomo ou
+linha de ar respirável. Para sair do local
+atingido, usar máscaras de fuga com filtro
+contra gases ácidos. Para localizar melhor o
+vazamento, borrife o local com solução de
+amônia, pois no ponto de vazamento, haverá a
+formação de uma nuvem branca. Não jogue
+água no vazamento, e os reparos devem ser
+feitos sempre com 02 pessoas. Havendo ruptura
+do vaso, evacuar o local e isole a área.
+Vazamentos em estradas, estacionar em local
+afastado e providenciar os reparos e/ou acionar
+o socorro. Para os reparos, bloquear, isolar e
+raquetear a tubulação e/ou o vaso. Para serviços
+a quente, purgar com gás inerte (ex.:
+nitrogênio)
+• Remoção das Fontes de Ignição
+Não aplicável
+• Controle de Poeira
+Não aplicável
+• Prevenção da Inalação e do Contato com Pele, Mucosa e
+Olhos
+Usar os EPI´s específicos e indicados (ver seção 8)
+Precauções ao Meio
+Ambiente : O cloro derramado em água causa toxidez
+moderada e compostos corrosivos como o ácido
+clorídrico. Já no ar, causa irritação e afeta a
+vegetação. Ações de controle e prevenção do
+líquido contaminado com cloro, devem ser
+tomadas de imediato, para não contaminar
+cursos d´água. Em áreas internas, devem ser
+instalados detetores de cloro com sinalização
+sonora
+CLORO
+Página 5 de 14
+DATA DA ÚLTIMA REVISÍO: 24/MAR/2006
+--- PÁGINA 6 ---
+Métodos para Limpeza: O cloro pode ser absorvido em solução alcalina
+e a disposição dos resíduos e seu descarte,
+devem ocorrer de acordo com os regulamentos
+ambientais
+• Neutralização
+Direcionar, por meio de tubulação ou mangueira, o gás cloro para
+uma solução alcalina, para absorção
+• Disposição
+Atender a legislação ambiental da localidade
+7 – MANUSEIO E ARMAZENAMENTO
+Manuseio
+• Medidas Técnicas
+Utilizar os cilindros pequenos e grandes por ordem de recebimento.
+É proibido efetuar reparos nos cilindros e seus componentes, sem a
+prévia consulta ao fabricante dos mesmos. No manuseio dos
+cilindros, faça uso dos EPI´s indicados para a atividade
+• Prevenção da Exposição do Trabalhador
+Usar os EPI´s específicos como; máscara semifacial com filtro contra
+gases ácidos, óculos contra respingos, protetor facial, luvas em PVC
+e roupas de proteção. Lavar-se após o manuseio e descontaminar os
+EPI´s após o uso. Os EPI´s devem ser aprovados para uso somente
+com os respectivos CA´s – Certificado de Aprovação
+• Prevenção de Incêndio e Explosão
+Afastar de fontes de calor (faíscas, chama aberta, cigarro, etc..) e
+manter o produto afastado de substâncias incompatíveis
+• Precauções para Manuseio Seguro
+Atenção aos cilindros menores, pois quando estão em pé, o cloro
+está na forma gás e quando deitados, na forma líquida. Já os
+cilindros maiores, o cloro gás está na parte superior e o líquido na
+inferior. Portanto, atenção quando da abertura das válvulas dos
+cilindros. O manuseio deve ser feito por pessoas treinadas
+• Orientações para Manuseio Seguro
+Não aplicar fontes de calor nos cilindros com produto no seu
+interior. Após o manuseio lavar-se. Não deixe que atinja os olhos, a
+pele ou o uniforme
+CLORO
+Página 6 de 14
+DATA DA ÚLTIMA REVISÍO: 24/MAR/2006
+--- PÁGINA 7 ---
+Armazenamento : O armazenamento deve ser feito de acordo
+com os regulamentos e padrões existentes.
+Mantenha os recipientes fechados e os
+armazene em área ventilada, afastado de
+fontes de calor e separado de substâncias não
+compatíveis com o cloro
+• Medidas Técnicas Apropriadas
+Se o armazenamento for em local aberto, deverá estar isento de
+materiais/substâncias capazes de iniciar ignição. Se for em local
+fechado, precisa ser dotado de sistema de ventilação (ventilador ou
+exaustor)
+• Condições de Armazenamento
+(cid:104) Adequadas
+Armazenar em local ventilado, não permitindo a
+formação de corrosão, e protegido de choques
+de veículos. Separar os cilindros cheios dos vazios
+(cid:104) A Evitar
+Não é recomendável o armazenamento dos
+cilindros de cloro em porões e/ou ambientes
+subterrâneos como subsolos.
+(cid:104) De Sinalização de Risco
+Gás Tóxico - 2.3
+Oxidante - 5.1 (risco subsidiário)
+(cid:104) Produtos e Materiais Incompatíveis
+Reage fortemente com óleos, graxas, tintas,
+hidrocarbonetos, carvão vegetal ativado,
+amônia, hidrogênio, freon-22, soda cáustica e
+tolueno
+• Materiais Seguros para Embalagens
+(cid:104) Recomendadas
+Cilindros em aço construídos conforme as normas
+específicas (ABNT, etc.)
+CLORO
+Página 7 de 14
+DATA DA ÚLTIMA REVISÍO: 24/MAR/2006
+--- PÁGINA 8 ---
+8 – CONTROLE DE EXPOSIÇÍO E PROTEÇÍO INDIVIDUAL
+Medidas de Controle
+de Engenharia : Os tanques devem possuir dique de contenção
+de capacidade equivalente à do tanque de
+armazenamento. Utilizar ventilação exaustora
+onde houver geração de vapores, borrifos ou
+fumos. Usar equipamento de controle de
+poluição (absorvedores), para a absorção dos
+gases que saem dos suspiros
+• Limite de Exposição Ocupacional
+Anexo 11 da NR-15 da Portaria nº 3.214/78 (cid:198) 0,8 ppm
+TLV´s da ACGIH (cid:198) 0,5 ppm
+LT da NIOSH (cid:198) 0,5 ppm
+PEL da OSHA (cid:198) 1,0 ppm (valor teto)
+Equipamento de
+Proteção Individual : Para manuseio, manutenção, descarte e outras
+atividades que ofereçam risco, deve-se usar os
+seguintes EPI´s
+• Proteção Respiratória
+Máscara facial inteira com filtro contra gases ácidos, máscara facial
+inteira com linha de ar ou conjunto autônomo de ar respirável. A
+semi-máscara deve ser usada somente para fuga
+• Proteção das Mãos
+Luvas impermeáveis de borracha ou em PVC
+• Proteção dos Olhos
+Óculos de proteção contra respingos
+• Proteção da Pele e do Corpo
+Roupa em PVC ou Tyvek, e botas em borracha ou em PVC
+Precauções Especiais : Dotar os locais de manuseio do ácido, com
+conjunto de chuveiro de emergência e de
+lava olhos. Manter-se sempre com o vento nas
+costas, afastando-se das áreas baixas e ventilar
+os locais fechados antes de adentrar. O odor de
+cloro pode significar concentração acima do
+limite de exposição. Ventilar as áreas mais
+baixas, visto que o cloro é mais pesado que o ar
+CLORO
+Página 8 de 14
+DATA DA ÚLTIMA REVISÍO: 24/MAR/2006
+--- PÁGINA 9 ---
+9 – PROPRIEDADES FÍSICO-QUÍMICAS
+Estado Físico : Líquido sob pressão
+Gás à pressão atmosférica
+Cor : Âmbar (o gás possui cor esverdeada)
+Odor : Pungente, penetrante e irritante
+pH : 5,5 (solução de 0,7% de Cl)
+Temperaturas Específicas ou Faixas de Temperaturas
+nas quais Ocorrem Mudanças de Estado Físico
+• Ponto de Ebulição
+- 34,04 ºC (a 760 mmHg)
+• Ponto de Fusão
+- 101,0 ºC
+Temperatura Crítica : 144,0 ºC
+Ponto de Fulgor : Produto não inflamável
+Temperatura de Auto
+Ignição : Produto não inflamável
+Limites Inferior e Superior
+de Inflamabilidade : Produto não inflamável
+Pressão de Vapor : 5.830 mmHg a 0 ºC
+Densidade : 1,424 g/cm3 (do líquido a 15 ºC)
+Solubilidade em Água : 0,7 % a 20 ºC
+Solubilidade em
+Solventes : Não disponível
+10 – ESTABILIDADE E REATIVIDADE
+Condições Específicas
+• Instabilidade
+Em condições normais de uso, é estável
+• Reações Perigosas
+O cloro se combina com diversas substâncias, podendo reagir com a
+maioria dos elementos e compostos orgânicos, e em alguns casos,
+pode formar misturas explosivas. Se estiver com temperatura
+elevada, reage com metais. Forma compostos explosivos ao reagir
+com acetileno, éter, amônia, hidrogênio e metais finamente
+divididos
+CLORO
+Página 9 de 14
+DATA DA ÚLTIMA REVISÍO: 24/MAR/2006
+--- PÁGINA 10 ---
+Condições a Evitar : Reação com água, pois forma composto
+corrosivo (ácido clorídrico). Evitar também,
+contato com materiais orgânicos (seção 7)
+Materiais ou Substâncias
+Incompatíveis : Amônia, materiais combustíveis e metais
+Produtos Perigosos
+na Decomposição : Não há
+11 – INFORMAÇÕES TOXICOLÓGICAS
+Informações de Acordo com as Diferentes
+Vias de Exposição
+• Ingestão
+Via de penetração incomum, porém se ocorrer, encaminhe de
+imediato para atendimento médico
+• Inalação
+Causa graves irritações nas mucosas do nariz, vias respiratórias e
+garganta
+• Contato com a Pele
+O cloro gás causa leve queimadura e o cloro líquido provoca
+vermelhidão e formação de bolhas, que precisam ser tratadas como
+queimaduras químicas
+• Contato com os Olhos
+Dor e lacrimejamento. Pode causar queimadura na conjuntiva
+Toxicidade Aguda
+• Ingestão
+Via de penetração incomum, porém se ocorrer, encaminhe de
+imediato para atendimento médico
+• Inalação
+Causa graves irritações nas mucosas do nariz, vias respiratórias e
+garganta, além de tosse contínua
+• Contato com a Pele
+Queimadura ou irritação
+• Contato com os Olhos
+Edema da conjuntiva e danos permanentes à córnea
+Efeitos Locais : Os efeitos dependem da exposição conforme
+segue
+0,2 a 0,5 ppm (cid:198) Os efeitos tóxicos não são
+imediatos
+1 a 3 ppm (cid:198) Presença de odor com
+irritação dos olhos e nariz
+5 a 8 ppm (cid:198) Irritação nas mucosas dos
+olhos e garganta
+CLORO
+Página 10 de 14
+DATA DA ÚLTIMA REVISÍO: 24/MAR/2006
+--- PÁGINA 11 ---
+30 ppm (cid:198) Tosse intensa
+34 a 51 ppm (cid:198) Letal após 1,5hr. de exposição
+40 a 60 ppm (cid:198) Após 30 minutos pode causar
+aumento da respiração, até
+edema pulmonar
+100 ppm (cid:198) Pode ser letal após 50
+minutos de exposição
+430 ppm (cid:198) Pode causar letalgia após 30
+minutos de exposição
+1000 ppm (cid:198) Pode ser fatal por falta de ar
+Toxicidade Crônica : Idem à toxicidade aguda
+12 – INFORMAÇÕES ECOLÓGICAS
+Efeitos Ambientais,
+Comportamentos e
+Impactos do Produto : O cloro gera toxicidade moderada aos
+organismos aquáticos, não é biodegradável e
+não é bioacumulado no organismo
+13 – CONDIÇÕES SOBRE TRATAMENTO E DISPOSIÇÍO
+Métodos de Tratamento
+e Disposição : Manter as pessoas afastadas, isolar e cercar as
+áreas de risco. O tratamento e a disposição dos
+resíduos de cloro, devem ser feitos em local
+específico. Os cilindros danificados, devem
+retornar ao fornecedor de cloro
+• Produto
+Procurar estancar o vazamento, e caso isso não for possível, usar
+água em forma de neblina, a fim de abater os gases emanados.
+Nesse caso em particular, o manuseio deve ser feito com o uso dos
+EPI´s indicados. Não aplicar água sobre os pontos de vazamento
+• Restos de Produtos
+O resíduo que fica no interior dos cilindros, só deve ser retirado
+(degasagem) nas instalações do fornecedor de cloro, que possui o
+sistema de vácuo adequado para esse tipo de operação
+• Embalagem Usada
+As embalagens usadas devem ser descontaminadas, inertizadas e
+dispostas de forma adequada, não podendo ser reutilizadas para
+outros produtos. Se possível, retornar ao fabricante
+CLORO
+Página 11 de 14
+DATA DA ÚLTIMA REVISÍO: 24/MAR/2006
+--- PÁGINA 12 ---
+14 – INFORMAÇÕES SOBRE O TRANSPORTE
+Regulamentações Nacionais
+E Internacionais
+• Terrestre e Marítimo
+(cid:104) Número da ONU
+1017
+(cid:104) Nome Apropriado para Embarque
+Cloro Líquido
+(cid:104) Classe de Risco
+2.3 (risco subsidiário 5.1)
+(cid:104) Número de Risco
+268
+(cid:104) Grupo de Embalagem
+Gás Tóxico e Oxidante
+15 – REGULAMENTAÇÕES
+Regulamentações : Para o transporte rodoviário do cloro líquido,
+aplicam-se as seguintes normas e legislações
+• Decreto Lei nº 96.044 de 18/MAI/1988, que trata da regulamentação
+do transporte de produtos perigosos
+• Portaria nº 204 de 20/MAI/1997, que trata de instruções
+complementares ao regulamento do transporte de produtos
+perigosos
+• Resolução nº 420 de 12/FEV/2004, que trata de instruções
+complementares ao regulamento do transporte terrestre de
+produtos perigosos
+• NBR-7500 da ABNT, que normatiza os símbolos de riscos e manuseio
+para o transporte e armazenagem de materiais
+• NBR-7501 da ABNT, que normatiza a terminologia utilizada no
+transporte de produtos perigosos
+• NBR-7502 da ABNT, que normatiza a classificação do transporte de
+produtos perigosos
+• NBR-7503 da ABNT, que normatiza a ficha de emergência para o
+transporte de produtos perigosos – caracterísitcas e dimensões
+• NBR-7504 da ABNT, que normatiza o envelope para o transporte de
+produtos perigosos – dimensões e utilização
+• NBR-8285 da ABNT, que normatiza o preenchimento da ficha de
+emergência para o transporte de produtos perigosos –
+procedimentos
+CLORO
+Página 12 de 14
+DATA DA ÚLTIMA REVISÍO: 24/MAR/2006
+--- PÁGINA 13 ---
+• NBR-8286 da ABNT, que normatiza o emprego de simbologia para o
+transporte de produtos perigosos – procedimentos
+• NBR-9734 da ABNT, que normatiza o conjunto de equipamentos de
+proteção individual para avaliação de emergência e fuga no
+transporte de produtos perigosos
+• NBR-9735 da ABNT, que normatiza o conjunto de equipamentos
+para emergências no transporte de produtos perigosos
+Informações sobre Riscos
+e Segurança conforme
+Escritas no Rótulo : Gás Tóxico e Corrosivo
+(cid:104) Pode causar queimaduras graves à pele
+(cid:104) Pode causar danos permanentes à visão
+(cid:104) Pode ser fatal se ingerido e/ou inalado
+(cid:104) Em contato com metais, pode formar a
+liberação de hidrogênio, que é inflamável
+CLORO
+Página 13 de 14
+DATA DA ÚLTIMA REVISÍO: 24/MAR/2006
+--- PÁGINA 14 ---
+16 – OUTRAS INFORMAÇÕES
+Informações
+Complementares : Recomenda-se a leitura desta FISPQ antes do
+manuseio do produto. O treinamento sobre o
+produto é de suma importância para o
+manuseio seguro do mesmo
+Fonte de Informações : Referências bibliográficas utilizadas
+1. MSDS - Material Safety Data Sheet da Occidental Chemical
+Corporation
+2. Manuais Técnicos da ABICLOR (Associação Brasileira da Indústria de
+Álcalis e Cloro Derivados)
+3. Panfletos do Chlorine Institute
+4. Manual Básico de Rotulagem de Produtos Químicos
+(AssociQuim/SincoQuim) - Agosto/1998
+5. Manual de Produtos Químicos Perigosos da CETESB
+6. FISPQ – Ficha de Informação de Segurança de Produto Químico da
+Braskem S/A
+7. NIOSH Manual of Analytical Methods
+8. NR – 15 (MTE)
+9. Manual de Autoproteção para o Manuseio e Transporte Rodoviário
+de Produtos Perigosos (PP7) - 7ª Edição , 2004
+17 – OBSERVAÇÍO LEGAL IMPORTANTE
+“Os dados e informações transcritas neste documento, são fornecidos
+de boa fé e se baseiam no conhecimento científico disponível no
+momento e na literatura específica existente. Nenhuma garantia é dada
+sobre o resultado da aplicação destas informações, não eximindo os
+usuários de suas responsabilidades em qualquer fase do manuseio e do
+transporte do produto. Prevalece em primeiro lugar, os regulamentos
+legais existentes”
+FISPQ Cloro Rev3.DOC
+CLORO
+Página 14 de 14
+DATA DA ÚLTIMA REVISÍO: 24/MAR/2006

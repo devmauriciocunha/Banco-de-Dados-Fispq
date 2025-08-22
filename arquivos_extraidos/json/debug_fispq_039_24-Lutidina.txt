@@ -1,0 +1,282 @@
+--- PÁGINA 1 ---
+SIGMA-ALDRICH
+sigma-aldrich.com
+FICHA DE DADOS DE SEGURANÇA
+de acordo com a Regulamento (CE) No. 1907/2006
+Versão 4.0 Data de revisão 28.07.2010
+Data de impressão 19.01.2011
+ENERIC EU MSDS - NO COUNTRY SPECIFIC DATA - NO OEL DATA
+1. IDENTIFICAÇÍO DA SUBSTÂNCIA/MISTURA E DA SOCIEDADE/EMPRESA
+Nome do produto : 2,4-Lutidine
+Referência do Produto : L3609
+Marca : Aldrich
+Companhia : Sigma-Aldrich Brasil Ltda.
+Av. das Nações Unidas, 23.043
+04795-100 SÍO PAULO - SP
+BRAZIL
+Telefone : +551137323100
+Número de Fax : +551155229895
+Núnero de Telefone de :
+Emergência
+2. IDENTIFICAÇÍO DOS PERIGOS
+Classificação da substância ou mistura
+Nos termos do Regulamento (CE) No1272/2008
+Líquidos inflamáveis (Categoria 3)
+Toxicidade aguda, Inalação (Categoria 3)
+Toxicidade aguda, Dérmico (Categoria 3)
+Toxicidade aguda, Oral (Categoria 3)
+Irritação cutânea (Categoria 2)
+Iirritação ocular (Categoria 2)
+Toxicidade para órgãos-alvo específicos - exposição única (Categoria 3)
+De acordo com a directiva Europeia 67/548/CEE, e emendas.
+Inflamável. Tóxico por inalação, em contacto com a pele e por ingestão. Irritante para os olhos, vias
+respiratórias e pele.
+Elementos da etiqueta
+Pictograma
+Palavra-sinal Perigo
+Declaração de perigo
+H226 Líquido e vapor inflamáveis.
+H301 Tóxico por ingestão.
+H311 Tóxico em contacto com a pele.
+H315 Provoca irritação cutânea.
+H319 Provoca irritação ocular grave.
+H331 Tóxico por inalação.
+H335 Pode provocar irritação das vias respiratórias.
+declaração de precaução
+P261 Evitar respirar as poeiras/ fumos/ gases/ névoas/ vapores/ aerossóis.
+P280 Usar luvas de protecção/ vestuário de protecção.
+P301 + P310 EM CASO DE INGESTÍO: contacte imediatamente um CENTRO DE
+INFORMAÇÍO ANTIVENENOS ou um médico.
+P305 + P351 + P338 SE ENTRAR EM CONTACTO COM OS OLHOS: enxaguar
+Aldrich - L3609 Página 1 de 6
+--- PÁGINA 2 ---
+cuidadosamente com água durante vários minutos. Se usar lentes de
+contacto, retire-as, se tal lhe for possível. Continuar a enxaguar.
+P311 Contacte um CENTRO DE INFORMAÇÍO ANTIVENENOS ou um
+médico.
+símbolo de perigosidade
+T Tóxico
+Frase(s) - R
+R10 Inflamável.
+R23/24/25 Tóxico por inalação, em contacto com a pele e por ingestão.
+R36/37/38 Irritante para os olhos, vias respiratórias e pele.
+Frase(s) - S
+S16 Manter afastado de qualquer chama ou fonte de ignição - Não fumar.
+S26 Em caso de contacto com os olhos, lavar imediata e abundantemente com
+água e consultar um especialista.
+S36/37/39 Usar vestuário de protecção, luvas e equipamento protector para os
+olhos/face adequados.
+S45 Em caso de acidente ou de indisposição, consultar imediatamente o
+médico (se possível mostrar-lhe o rótulo).
+Outros Perigos - nenhum(a)
+3. COMPOSIÇÍO/INFORMAÇÍO SOBRE OS COMPONENTES
+Sinónimos : 2,4-Dimethylpyridine
+Formula : C7H9N
+Peso molecular : 107,15 g/mol
+No. CAS No. CE No. de Index Classificação Concentração
+2,4-Dimethylpyridine
+108-47-4 203-586-8 - Flam. Liq. 3; Acute Tox. 3; -
+Skin Irrit. 2; Eye Irrit. 2; STOT
+SE 3; H226, H301, H311,
+H315, H319, H331, H335
+T, R10 - R23/24/25 -
+R36/37/38
+Para o pleno texto das DECLARAÇÕES H mencionadas nesta Secção, ver a Secção 16.
+4. PRIMEIROS SOCORROS
+Recomendação geral
+Consultar um médico. Mostrar esta ficha de segurança ao médico de serviço.
+Se for inalado
+Se for respirado, levar a pessoa para o ar fresco. Se não respirar, dar respiração artificial. Consultar um
+médico.
+No caso dum contacto com a pele
+Lavar com sabão e muita água. Transportar imediatamente paciente para um Hospital. Consultar um médico.
+No caso dum contacto com os olhos
+Lavar cuidadosamente com muita água, durante pelo menos quinze minutos, e consultar o médico.
+Se for engolido
+NÍO provocar vómitos. Nunca dar nada pela boca a uma pessoa inconsciente. Enxaguar a boca com água.
+Consultar um médico.
+Aldrich - L3609 Página 2 de 6
+--- PÁGINA 3 ---
+5. MEDIDAS DE COMBATE A INCÊNDIO
+Meios adequados de extinção
+Para fogos incipientes ou pequenos usar meios como espuma de álcool, pó seco ou dióxido de carbono. Para
+grandes fogos aplicar agua desde o mais longe possível, usar grandes quantidades de agua
+(inundação)aplicadas como nevoeiro ou spray; córregos sólidos de agua podem não ser efectivos. Esfrie
+todos os depósitos ou vasilhas com grandes e inundantes quantidades de agua.
+Equipamento especial de protecção a utilizar pelo pessoal de combate a incêndio
+Usar equipamento de respiração autónomo para combate a incêndios, se necessário.
+Outras informações
+Os jactos de água podem ser utilizados para arrefecer os contentores fechados.
+6. MEDIDAS A TOMAR EM CASO DE FUGAS ACIDENTAIS
+Precauções individuais
+Pôr uma protecção respiratória. Evitar a respiração do vapor/névoa/gas. Assegurar ventilação adequada.
+Cortar todas as fontes de ignição. Evacuar o pessoal para áreas de segurança. Atenção com a acumulação
+de vapores que pode formar concentrações explosivas. Os vapores podem-se acumular nas áreas baixas.
+Precauções a nível ambiental
+Prevenir dispersão ou derramamento ulterior se for mais seguro assim. Não permitir a entrada do produto no
+sistema de esgotos.
+Métodos e materiais de confinamento e limpeza
+Controlar e recuperar o líquido derramado com aspirador protegido electricamente ou varrer a seco e por o
+líquido dentro de contentores para a eliminação de acordo com as regulações locais (ver secção 13).
+7. MANUSEAMENTO E ARMAZENAGEM
+Precauções para um manuseamento seguro
+Evitar o contacto com a pele e os olhos. Evitar a inalação do vapor ou da névoa.
+Manter afastado de qualquer chama ou fonte de ignição - Não fumar. Tome medidas para impedir a formação
+de electricidade estática.
+Condições para uma armazenagem segura
+Guardar o recipiente herméticamente fechado em lugar seco e bem ventilado. Os contentores abertos devem
+ser cuidadosamente fechados de novo e têm que ficar direitos para evitar a dispersão. Armazenar em local
+fresco.
+higroscópico
+8. CONTROLO DA EXPOSIÇÍO/PROTECÇÍO PESSOAL
+Protecção individual
+Protecção respiratória
+Nos casos em que a avaliação de risco mostrar que os respiradores purificadores do ar são apropriados,
+use um respirador de cobertura facial total com cartuchos de combinação multi-objectivos (E.U.A.) ou do
+tipo ABEK (EN 14387) como apoio a controlos de engenharia. Se o respirador for o único meio de
+protecção, usa um respirador de ar de cobertura facial total. Use respiradores e componentes testados e
+aprovados por normas governamentais apropriadas, tais como as NIOSH (E.U.A.) ou CEN (UE).
+Protecção das mãos
+Manusear com luvas. As luvas devem ser inspectadas antes da utilização. Use uma técnica adequada
+para a remoção das luvas (sem tocar a superfície exterior da luva) para evitar o contacto da pele com o
+produto. Descarte as luvas contaminadas após o uso, em conformidade com as leis e boas práticas de
+laboratório . Lavar e secar as mãos.
+As luvas de protecção seleccionadas devem satisfazer as especificações da Directiva da UE 89/689/CEE
+e a norma EN 374 derivada dela.
+Aldrich - L3609 Página 3 de 6
+--- PÁGINA 4 ---
+Protecção dos olhos
+Mascaras de protecção e óculos de segurança. Use equipamento de proteção ocular testado e aprovado
+de acordo com as normas governamentais adequadas, tais como NIOSH (US) ou EN 166 (EU).
+Protecção do corpo e da pele
+Fato completo de protecção para produtos químicos, Tecido protector anti-estático retardador de chama,
+O genero de equipamento de protecção deve ser escolhido de acordo com a concentração e a
+quantidade da substância perigosa no lugar de trabalho.
+Medidas de higiene
+Evitar o contacto com a pele, olhos e vestuário. Lavar as mãos antes de interrupções do trabalho, e
+imediatamente a seguir ao manuseamento do produto.
+9. PROPRIEDADES FÍSICAS E QUÍMICAS
+Aspecto
+Estado físico claro, líquido
+Cor vermelho-escuro
+Dados de segurança
+pH dados não disponíveis
+Ponto de fusão -60 °C - lit.
+Ponto de ebulição 159 °C - lit.
+Ponto de inflamação 47 °C - câmara fechada
+Temperatura de dados não disponíveis
+ignição
+Limites de explosão, dados não disponíveis
+inferior
+Limite de explosão, dados não disponíveis
+superior
+Densidade 0,927 g/cm3 a 25 °C
+Hidrossolubilidade dados não disponíveis
+10. ESTABILIDADE E REACTIVIDADE
+Estabilidade química
+Estável sob as condições recomendadas de armazenamento.
+Condições a evitar
+Calor, chamas e faíscas.
+Matérias a evitar
+ácidos, Cloretos ácidos, Oxidantes, Cloroformatos
+Produtos de decomposição perigosos
+Produtos perigosos de decomposição formados durante os incêndios. - Óxidos de carbono, óxidos de azoto
+(NOx)
+11. INFORMAÇÍO TOXICOLÓGICA
+Toxicidade aguda
+DL50 Oral - ratazana - 200 mg/kg
+Corrosão/irritação cutânea
+dados não disponíveis
+Lesões oculares graves/irritação ocular
+dados não disponíveis
+Aldrich - L3609 Página 4 de 6
+--- PÁGINA 5 ---
+Sensibilização respiratória ou cutânea
+dados não disponíveis
+Mutagenicidade em células germinativas
+dados não disponíveis
+Carcinogenicidade
+IARC: Nenhum componente deste produto presente a níveis maiores ou iguais a 0.1% é identificado como
+carcinogénio provável, possível ou confirmado pelo IARC.
+Toxicidade reprodutiva
+dados não disponíveis
+Toxicidade para órgãos-alvo específicos - exposição única
+Inalação - Pode provocar irritação das vias respiratórias.
+Toxicidade para órgãos-alvo específicos - exposição repetida
+dados não disponíveis
+Perigo de aspiração
+dados não disponíveis
+Efeitos potenciais para a saúde
+Inalação Tóxico se inalado. Causa uma irritação no aparelho respiratório.
+Ingestão Tóxico se ingerido.
+Pele Tóxico se absorvido através da pele. Causa uma irritação da pele.
+Olhos Provoca irritação ocular grave.
+Sinais e sintomas de exposição
+Tosse, dor de peito, Dificuldades respiratórias, Distúrbios gastro-intestinais, Até onde sabemos, as
+propriedades químicas, físicas e toxicológicas não foram minuciosamente investigadas.
+Informação adicional
+RTECS: OK9400000
+12. INFORMAÇÍO ECOLÓGICA
+Toxicidade
+dados não disponíveis
+Persistência e degradabilidade
+dados não disponíveis
+Potencial de bioacumulação
+dados não disponíveis
+Mobilidade no solo
+dados não disponíveis
+Avaliação PBT e mPmB
+dados não disponíveis
+Outros efeitos adversos
+dados não disponíveis
+13. CONSIDERAÇÕES RELATIVAS À ELIMINAÇÍO
+Produto
+Queimar em um incinerador químico equipado com pós-combustor e purificador de gases, mas tomar
+precauções adicionais ao colocar esse material em ignição, visto que é altamente inflamável. Propor a
+entrega de soluções excedentes e não recicláveis a uma empresa idónea de tratamento de resíduos. Entrar
+em contato com um serviço profissional credenciado de descarte de lixo para descartar esse material.
+Embalagens contaminadas
+Eliminar como produto Não utilizado.
+Aldrich - L3609 Página 5 de 6
+--- PÁGINA 6 ---
+14. INFORMAÇÕES RELATIVAS AO TRANSPORTE
+ADR/RID
+Número ONU: 1992 Classe: 3 (6.1) Grupo de embalagem: III
+Designação oficial de transporte da ONU: FLAMMABLE LIQUID, TOXIC, N.O.S. (2,4-Dimethylpyridine)
+IMDG
+Número ONU: 1992 Classe: 3 (6.1) Grupo de embalagem: III EMS-No:
+F-E, S-D
+Designação oficial de transporte da ONU: FLAMMABLE LIQUID, TOXIC, N.O.S. (2,4-Dimethylpyridine)
+Poluente marinho: No
+IATA
+Número ONU: 1992 Classe: 3 (6.1) Grupo de embalagem: III
+Designação oficial de transporte da ONU: Flammable liquid, toxic n.o.s. (2,4-Dimethylpyridine)
+IATA Passenger: Não permitido para o transporte
+15. INFORMAÇÍO SOBRE REGULAMENTAÇÍO
+Esta folha de dados de segurança obedece aos requerimentos da Regulamento (CE) No. 1907/2006
+16. OUTRAS INFORMAÇÕES
+Texto dos código(s) H e frase(s) R mencionados na secção 3
+Acute Tox. Toxicidade aguda
+Eye Irrit. Iirritação ocular
+Flam. Liq. Líquidos inflamáveis
+H226 Líquido e vapor inflamáveis.
+H301 Tóxico por ingestão.
+H311 Tóxico em contacto com a pele.
+H315 Provoca irritação cutânea.
+H319 Provoca irritação ocular grave.
+H331 Tóxico por inalação.
+H335 Pode provocar irritação das vias respiratórias.
+Skin Irrit. Irritação cutânea
+T Tóxico
+R10 Inflamável.
+R23/24/25 Tóxico por inalação, em contacto com a pele e por ingestão.
+R36/37/38 Irritante para os olhos, vias respiratórias e pele.
+Outras informações
+Direitos exclusivos, 2010, da Sigma-Aldrich. Permissão concedida para fazer número ilimitado de cópias
+em papel, somente para uso interno.
+Acredita-se que as informações acima estejam corretas, embora não pretendam ser totalmente
+abrangentes, devendo ser usadas apenas como um guia. A Sigma-Aldrich não deverá ter responsabilidade
+legal por quaisquer danos resultantes do manuseio ou do contato com o produto acima. Consultar o verso
+da fatura ou nota que acompanha o produto para tomar conhecimento dos termos adicionais e condições
+de venda.
+Aldrich - L3609 Página 6 de 6

@@ -1,0 +1,199 @@
+--- PÁGINA 1 ---
+SIGMA-ALDRICH
+SAFETY DATA SHEET
+according to Regulation (EC) No. 1907/2006
+Version 3.1 Revision Date 09.01.2009
+Print Date 09.06.2010
+GENERIC EU MSDS - NO COUNTRY SPECIFIC DATA - NO OEL DATA
+1. IDENTIFICATION OF THE SUBSTANCE/PREPARATION AND OF THE COMPANY/UNDERTAKING
+Product name : Trimethyl phosphite
+Product Number : 240907
+Brand : Aldrich
+Company : Sigma-Aldrich Brasil Ltda.
+Av. das Nações Unidas, 23.043
+04795-100 SÍO PAULO - SP
+BRAZIL
+Telephone : +551137323100
+Fax : +551155229895
+Emergency Phone # :
+2. HAZARDS IDENTIFICATION
+Risk advice to man and the environment
+Flammable. Harmful if swallowed. Irritating to eyes, respiratory system and skin.
+3. COMPOSITION/INFORMATION ON INGREDIENTS
+Synonyms : Methyl phosphite
+Formula : C3H9O3P
+Molecular Weight : 124,08 g/mol
+CAS-No. EC-No. Index-No. Classification Concentration
+Trimethyl phosphite
+121-45-9 204-471-5 - Xn, R10 - R22 - R36/37/38 -
+4. FIRST AID MEASURES
+General advice
+Consult a physician. Show this safety data sheet to the doctor in attendance.
+If inhaled
+If breathed in, move person into fresh air. If not breathing give artificial respiration Consult a physician.
+In case of skin contact
+Wash off with soap and plenty of water. Consult a physician.
+In case of eye contact
+Rinse thoroughly with plenty of water for at least 15 minutes and consult a physician.
+If swallowed
+Do NOT induce vomiting. Never give anything by mouth to an unconscious person. Rinse mouth with water.
+Consult a physician.
+Aldrich - 240907 www.sigma-aldrich.com Page 1 of 5
+--- PÁGINA 2 ---
+5. FIRE-FIGHTING MEASURES
+Suitable extinguishing media
+For small (incipient) fires, use media such as "alcohol" foam, dry chemical, or carbon dioxide. For large fires,
+apply water from as far as possible. Use very large quantities (flooding) of water applied as a mist or spray;
+solid streams of water may be ineffective. Cool all affected containers with flooding quantities of water.
+Special protective equipment for fire-fighters
+Wear self contained breathing apparatus for fire fighting if necessary.
+Further information
+Use water spray to cool unopened containers.
+6. ACCIDENTAL RELEASE MEASURES
+Personal precautions
+Use personal protective equipment. Avoid breathing vapors, mist or gas. Ensure adequate ventilation. Remove
+all sources of ignition. Beware of vapours accumulating to form explosive concentrations. Vapours can
+accumulate in low areas.
+Environmental precautions
+Do not let product enter drains.
+Methods for cleaning up
+Contain spillage, and then collect with non-combustible absorbent material, (e.g. sand, earth, diatomaceous
+earth, vermiculite) and place in container for disposal according to local / national regulations (see section 13).
+Keep in suitable, closed containers for disposal.
+7. HANDLING AND STORAGE
+Handling
+Avoid contact with skin and eyes. Avoid inhalation of vapour or mist.
+Keep away from sources of ignition - No smoking. Take measures to prevent the build up of electrostatic
+charge.
+Storage
+Store in cool place. Keep container tightly closed in a dry and well-ventilated place.
+8. EXPOSURE CONTROLS/PERSONAL PROTECTION
+Personal protective equipment
+Respiratory protection
+Where risk assessment shows air-purifying respirators are appropriate use a full-face respirator with multi-
+purpose combination (US) or type ABEK (EN 14387) respirator cartridges as a backup to engineering
+controls. If the respirator is the sole means of protection, use a full-face supplied air respirator. Use
+respirators and components tested and approved under appropriate government standards such as NIOSH
+(US) or CEN (EU).
+Hand protection
+The selected protective gloves have to satisfy the specifications of EU Directive 89/686/EEC and the
+standard EN 374 derived from it. Handle with gloves.
+Eye protection
+Safety glasses
+Skin and body protection
+Choose body protection according to the amount and concentration of the dangerous substance at the work
+place.
+Hygiene measures
+Handle in accordance with good industrial hygiene and safety practice. Wash hands before breaks and at
+the end of workday.
+Aldrich - 240907 www.sigma-aldrich.com Page 2 of 5
+--- PÁGINA 3 ---
+9. PHYSICAL AND CHEMICAL PROPERTIES
+Appearance
+Form liquid
+Colour colourless
+Safety data
+pH no data available
+Melting point -78 °C
+Boiling point 111 - 112 °C
+Flash point 28 °C - closed cup
+Ignition temperature no data available
+Lower explosion limit no data available
+Upper explosion limit no data available
+Vapour pressure 23 hPa at 20 °C
+Density 1,052 g/mL at 25 °C
+Water solubility no data available
+Relative vapour 4,28
+density - (Air = 1.0)
+10. STABILITY AND REACTIVITY
+Storage stability
+Stable under recommended storage conditions.
+Conditions to avoid
+Thermal decomposition of this product in combination with trimethylol propane, trimethylol propane derived
+products or their corresponding alkane analogs may result in the production of bicyclic phosphates or
+phosphites. Bicyclic phosphates and phosphites are products that display acute neurotoxic properties such as
+characteristic convulsive seizures Do not allow water to enter container.
+Heat, flames and sparks.
+Materials to avoid
+Oxidizing agents, Strong bases
+Hazardous decomposition products
+Hazardous decomposition products formed under fire conditions. - Carbon oxides, Oxides of phosphorus
+11. TOXICOLOGICAL INFORMATION
+Acute toxicity
+LD50 Oral - rat - 1.600 mg/kg
+LD50 Dermal - rabbit - 2.600 mg/kg
+Irritation and corrosion
+no data available
+Sensitisation
+no data available
+Chronic exposure
+IARC: No component of this product present at levels greater than or equal to 0.1% is identified as
+Aldrich - 240907 www.sigma-aldrich.com Page 3 of 5
+--- PÁGINA 4 ---
+probable, possible or confirmed human carcinogen by IARC.
+Developmental Toxicity - rat - Oral
+Specific Developmental Abnormalities: Central nervous system. Specific Developmental Abnormalities:
+Craniofacial (including nose and tongue). Specific Developmental Abnormalities: Musculoskeletal system.
+Developmental Toxicity - rat - Oral
+Specific Developmental Abnormalities: Urogenital system. Specific Developmental Abnormalities: Homeostasis
+Signs and Symptoms of Exposure
+Cough, Shortness of breath, Headache, Nausea, Vomiting, Aspiration or inhalation may cause chemical
+pneumonitis., To the best of our knowledge, the chemical, physical, and toxicological properties have not been
+thoroughly investigated.
+Potential Health Effects
+Inhalation May be harmful if inhaled. Causes respiratory tract irritation.
+Skin May be harmful if absorbed through skin. Causes skin irritation.
+Eyes Causes eye irritation.
+Ingestion Harmful if swallowed.
+Target Organs Nerves., Eyes, Liver, Lungs, Reproductive system.,
+Additional Information
+RTECS: TH1400000
+12. ECOLOGICAL INFORMATION
+Elimination information (persistence and degradability)
+no data available
+Ecotoxicity effects
+no data available
+Further information on ecology
+no data available
+13. DISPOSAL CONSIDERATIONS
+Product
+Burn in a chemical incinerator equipped with an afterburner and scrubber but exert extra care in igniting as this
+material is highly flammable. This combustible material may be burned in a chemical incinerator equipped with
+an afterburner and scrubber. Observe all federal, state, and local environmental regulations. Contact a licensed
+professional waste disposal service to dispose of this material.
+Contaminated packaging
+Dispose of as unused product.
+14. TRANSPORT INFORMATION
+ADR/RID
+UN-Number: 2329 Class: 3 Packing group: III
+Proper shipping name: TRIMETHYL PHOSPHITE
+IMDG
+UN-Number: 2329 Class: 3 Packing group: III EMS-No: F-E, S-D
+Proper shipping name: TRIMETHYL PHOSPHITE
+Marine pollutant: No
+IATA
+UN-Number: 2329 Class: 3 Packing group: III
+Proper shipping name: Trimethyl phosphite
+Aldrich - 240907 www.sigma-aldrich.com Page 4 of 5
+--- PÁGINA 5 ---
+15. REGULATORY INFORMATION
+Labelling according to EC Directives
+Hazard symbols
+Xn Harmful
+R-phrase(s)
+R10 Flammable.
+R22 Harmful if swallowed.
+R36/37/38 Irritating to eyes, respiratory system and skin.
+S-phrase(s)
+S26 In case of contact with eyes, rinse immediately with plenty of water and seek medical
+advice.
+16. OTHER INFORMATION
+Further information
+Copyright 2009 Sigma-Aldrich Co. License granted to make unlimited paper copies for internal use only.
+The above information is believed to be correct but does not purport to be all inclusive and shall be used
+only as a guide. The information in this document is based on the present state of our knowledge and is
+applicable to the product with regard to appropriate safety precautions. It does not represent any guarantee
+of the properties of the product. Sigma-Aldrich Co., shall not be held liable for any damage resulting from
+handling or from contact with the above product. See reverse side of invoice or packing slip for additional
+terms and conditions of sale.
+Aldrich - 240907 www.sigma-aldrich.com Page 5 of 5

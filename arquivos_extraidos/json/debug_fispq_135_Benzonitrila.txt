@@ -1,0 +1,235 @@
+--- PÁGINA 1 ---
+SIGMA-ALDRICH
+sigma-aldrich.com
+FICHA DE DADOS DE SEGURANÇA
+de acordo com a Regulamento (CE) No. 1907/2006
+Versão 4.0 Data de revisão 27.02.2010
+Data de impressão 20.01.2011
+ENERIC EU MSDS - NO COUNTRY SPECIFIC DATA - NO OEL DATA
+1. IDENTIFICAÇÍO DA SUBSTÂNCIA/MISTURA E DA SOCIEDADE/EMPRESA
+Nome do produto : Benzonitrile
+Referência do Produto : 294098
+Marca : Sigma-Aldrich
+Companhia : Sigma-Aldrich Brasil Ltda.
+Av. das Nações Unidas, 23.043
+04795-100 SÍO PAULO - SP
+BRAZIL
+Telefone : +551137323100
+Número de Fax : +551155229895
+Núnero de Telefone de :
+Emergência
+2. IDENTIFICAÇÍO DOS PERIGOS
+Classificação da substância ou da mistura
+Nos termos do Regulamento (CE) No1272/2008
+Toxicidade aguda (Categoria 4)
+Toxicidade aguda (Categoria 4)
+De acordo com a directiva Europeia 67/548/CEE, e emendas.
+Nocivo em contacto com a pele e por ingestão.
+Elementos da etiqueta
+Pictograma
+Palavra-sinal Atenção
+Declaração de perigo
+H302 Nocivo por ingestão.
+H312 Nocivo em contacto com a pele.
+declaração de precaução nenhum(a)
+símbolo de perigosidade
+Xn Nocivo
+Frase(s) - R
+R21/22 Nocivo em contacto com a pele e por ingestão.
+Frase(s) - S
+S23 Não respirar os gases/vapores/fumos/aerossóis.
+Outros Perigos
+Vesicante.
+3. COMPOSIÇÍO/INFORMAÇÍO SOBRE OS COMPONENTES
+Sinónimos : Phenyl cyanide
+Formula : C7H5N
+Sigma-Aldrich - 294098 Página 1 de 6
+--- PÁGINA 2 ---
+Peso molecular : 103,12 g/mol
+No. CAS No. CE No. de Index Classificação Concentração
+Benzonitrile
+100-47-0 202-855-7 608-012-00-3 Acute Tox. 4; H302, H312 -
+Xn, R21/22
+Para o pleno texto das DECLARAÇÕES H mencionadas nesta Secção, ver a Secção 16.
+4. PRIMEIROS SOCORROS
+Recomendação geral
+Consultar um médico. Mostrar esta ficha de segurança ao médico de serviço.
+Se for inalado
+Se for respirado, levar a pessoa para o ar fresco. Se não respirar, aplicar a respiração artificial. Consultar um
+médico.
+No caso dum contacto com a pele
+Lavar com sabão e muita água. Consultar um médico.
+No caso dum contacto com os olhos
+Lavar cuidadosamente com muita água, durante pelo menos quinze minutos, e consultar o médico.
+Se for engolido
+Nunca dar nada pela boca a uma pessoa inconsciente. Enxaguar a boca com água. Consultar um médico.
+5. MEDIDAS DE COMBATE A INCÊNDIO
+Meios adequados de extinção
+Utilizar água pulverizada, espuma resistente ao álcool, produto químico seco ou dióxido de carbono.
+Equipamento especial de protecção a utilizar pelo pessoal de combate a incêndio
+Usar equipamento de respiração autónomo para combate a incêndios, se necessário.
+6. MEDIDAS A TOMAR EM CASO DE FUGAS ACIDENTAIS
+Precauções individuais
+Usar equipamento de protecção individual. Evitar a respiração do vapor/névoa/gas. Assegurar ventilação
+adequada.
+Precauções ambientais
+Não permitir a entrada do produto no sistema de esgotos.
+Métodos e materiais para a contenção e a limpeza
+Embeber em material inerte e absorvente e tratar como desperdício especial. Manter em recipientes
+fechados adequados, para eliminação.
+7. MANUSEAMENTO E ARMAZENAGEM
+Precauções para um manuseamento seguro
+Evitar o contacto com a pele e os olhos. Evitar a inalação do vapor ou da névoa.
+Manter afastado de qualquer chama ou fonte de ignição - Não fumar. Tome medidas para impedir a formação
+de electricidade estática.
+Condições para uma armazenagem segura
+Armazenar em local fresco. Guardar o recipiente herméticamente fechado em lugar seco e bem ventilado.
+higroscópico Manipular e estocar sob gás inerte.
+Sigma-Aldrich - 294098 Página 2 de 6
+--- PÁGINA 3 ---
+8. CONTROLO DA EXPOSIÇÍO/PROTECÇÍO PESSOAL
+Protecção individual
+Protecção respiratória
+Nos casos em que a avaliação de risco mostrar que os respiradores purificadores do ar são apropriados,
+use um respirador de cobertura facial total com cartuchos de combinação multi-objectivos (E.U.A.) ou do
+tipo ABEK (EN 14387) como apoio a controlos de engenharia. Se o respirador for o único meio de
+protecção, usa um respirador de ar de cobertura facial total. Use respiradores e componentes testados e
+aprovados por normas governamentais apropriadas, tais como as NIOSH (E.U.A.) ou CEN (UE).
+Protecção das mãos
+As luvas de protecção seleccionadas devem satisfazer as especificações da Directiva da UE 89/689/CEE
+e a norma EN 374 derivada dela.
+Manusear com luvas.
+Protecção dos olhos
+Mascaras de protecção e óculos de segurança.
+Protecção do corpo e da pele
+Escolher uma protecção para o corpo conforme a quantidade e a concentração das substâncias
+perigosas no lugar de trabalho.
+Medidas de higiene
+Manusear de acordo com as boas práticas industriais de higiene e segurança. Lavar as mãos antes de
+interrupções, e no final do dia de trabalho.
+9. PROPRIEDADES FÍSICAS E QUÍMICAS
+Aspecto
+Estado físico líquido
+Cor incolor
+Dados de segurança
+pH dados não disponíveis
+Ponto de fusão -13 °C - lit.
+Ponto de ebulição 191 °C - lit.
+Ponto de inflamação 70 °C - câmara fechada
+Temperatura de 550 °C
+ignição
+Limites de explosão, 1,4 %(V)
+inferior
+Limite de explosão, 7,2 %(V)
+superior
+Pressão de vapor 1 hPa a 20 °C
+Densidade 1,000 g/cm3
+Hidrossolubilidade ca.10 g/l
+Coeficiente de log Pow: 1,56
+epartição n-
+octanol/água
+Densidade relativa 3,56
+do vapor - (Ar = 1.0)
+10. ESTABILIDADE E REACTIVIDADE
+Sigma-Aldrich - 294098 Página 3 de 6
+--- PÁGINA 4 ---
+Estabilidade química
+Estável sob as condições recomendadas de armazenamento.
+Condições a evitar
+Evitar a humidade. Não aquecer a temperaturas superiores a: 30 graus C
+Matérias a evitar
+Bases fortes, Agentes oxidantes fortes, Agentes redutores fortes, ácidos, Cloratos, Nitratos, Plásticos
+Produtos de decomposição perigosos
+Produtos perigosos de decomposição formados durante os incêndios. - Óxidos de carbono, óxidos de azoto
+(NOx)
+11. INFORMAÇÍO TOXICOLÓGICA
+Toxicidade aguda
+DL50 Oral - rato - 971 mg/kg
+CL50 Inalação - rato - 1.800 mg/m3
+DL50 Dérmico - coelho - 1.250 mg/kg
+Corrosão/irritação cutânea
+Pele - coelho - Irritação dermal - 24 h
+Lesões oculares graves/irritação ocular
+dados não disponíveis
+Sensibilização respiratória ou da pele
+dados não disponíveis
+Mutagenicidade em células germinativas
+dados não disponíveis
+Carcinogenicidade
+IARC: Nenhum componente deste produto presente a níveis maiores ou iguais a 0.1% é identificado como
+carcinogénio provável, possível ou confirmado pelo IARC.
+Toxicidade reprodutiva
+dados não disponíveis
+Toxicidade para órgãos-alvo específicos - exposição única
+dados não disponíveis
+Toxicidade para órgãos-alvo específicos - exposição repetida
+dados não disponíveis
+Perigo de aspiração
+dados não disponíveis
+Efeitos potenciais para a saúde
+Inalação Pode ser perigoso se for inalado. Pode causar uma irritação do aparelho
+respiratório.
+Ingestão Nocivo por ingestão.
+Pele Perigoso se for absorto pela pele. Pode causar uma irritação da pele.
+Olhos Pode causar uma irritação dos olhos.
+Sinais e sintomas de exposição
+Até onde sabemos, as propriedades químicas, físicas e toxicológicas não foram minuciosamente investigadas.
+Informação adicional
+RTECS: DI2450000
+12. INFORMAÇÍO ECOLÓGICA
+Toxicidade
+Toxicidade em CL50 - Oncorhynchus mykiss (truta arco-íris) - 32 mg/l - 96 h
+Sigma-Aldrich - 294098 Página 4 de 6
+--- PÁGINA 5 ---
+peixes
+Persistência e degradabilidade
+Biodegradabilidade Biótico/Aeróbico
+Resultado: - Rápidamente biodegradável.
+Biótico/Aeróbico
+Potencial de bioacumulação
+dados não disponíveis
+Mobilidade no solo
+dados não disponíveis
+Avaliação PBT e mPmB
+dados não disponíveis
+Outros efeitos adversos
+dados não disponíveis
+13. CONSIDERAÇÕES RELATIVAS À ELIMINAÇÍO
+Produto
+Esse material combustível deve ser queimado em um incinerador químico equipado com um pós-combustor
+e purificador de gases. Observar todos os regulamentos ambientais federais, estaduais e locais. Entrar em
+contato com um serviço profissional credenciado de descarte de lixo para descartar esse material.
+Embalagens contaminadas
+Eliminar como produto Não utilizado.
+14. INFORMAÇÕES RELATIVAS AO TRANSPORTE
+ADR/RID
+Número ONU: 2224 Classe: 6.1 Grupo de embalagem: II
+Denominação de expedição correcta: BENZONITRILO
+IMDG
+Número ONU: 2224 Classe: 6.1 Grupo de embalagem: II EMS-No:
+F-A, S-A
+Denominação de expedição correcta: BENZONITRILE
+Poluente marinho: No
+IATA
+Número ONU: 2224 Classe: 6.1 Grupo de embalagem: II
+Denominação de expedição correcta: Benzonitrile
+15. INFORMAÇÍO SOBRE REGULAMENTAÇÍO
+Esta folha de dados de segurança obedece aos requerimentos da Regulamento (CE) No. 1907/2006
+16. OUTRAS INFORMAÇÕES
+Texto dos código(s) H e frase(s) R mencionados na secção 3
+Acute Tox. Toxicidade aguda
+H302 Nocivo por ingestão.
+H312 Nocivo em contacto com a pele.
+Xn Nocivo
+R21/22 Nocivo em contacto com a pele e por ingestão.
+Outras informações
+Direitos exclusivos, 2010, da Sigma-Aldrich. Permissão concedida para fazer número ilimitado de cópias
+em papel, somente para uso interno.
+Sigma-Aldrich - 294098 Página 5 de 6
+--- PÁGINA 6 ---
+Acredita-se que as informações acima estejam corretas, embora não pretendam ser totalmente
+abrangentes, devendo ser usadas apenas como um guia. A Sigma-Aldrich não deverá ter responsabilidade
+legal por quaisquer danos resultantes do manuseio ou do contato com o produto acima. Consultar o verso
+da fatura ou nota que acompanha o produto para tomar conhecimento dos termos adicionais e condições
+de venda.
+Sigma-Aldrich - 294098 Página 6 de 6

@@ -1,0 +1,228 @@
+--- PÁGINA 1 ---
+SIGMA-ALDRICH
+sigma-aldrich.com
+FICHA DE DADOS DE SEGURANÇA
+de acordo com a Regulamento (CE) No. 1907/2006
+Versão 4.0 Data de revisão 13.03.2010
+Data de impressão 20.01.2011
+ENERIC EU MSDS - NO COUNTRY SPECIFIC DATA - NO OEL DATA
+1. IDENTIFICAÇÍO DA SUBSTÂNCIA/MISTURA E DA SOCIEDADE/EMPRESA
+Nome do produto : CARBONATO DE CÁLCIO SIGMAULTRA
+Referência do Produto : C4830
+Marca : Sigma-Aldrich
+Companhia : Sigma-Aldrich Brasil Ltda.
+Av. das Nações Unidas, 23.043
+04795-100 SÍO PAULO - SP
+BRAZIL
+Telefone : +551137323100
+Número de Fax : +551155229895
+Núnero de Telefone de :
+Emergência
+2. IDENTIFICAÇÍO DOS PERIGOS
+Classificação da substância ou da mistura
+Nos termos do Regulamento (CE) No1272/2008
+Irritação cutânea (Categoria 2)
+Lesões oculares graves (Categoria 1)
+Toxicidade para órgãos-alvo específicos - exposição única (Categoria 3)
+De acordo com a directiva Europeia 67/548/CEE, e emendas.
+Irritante para as vias respiratórias e pele. Risco de lesões oculares graves.
+Elementos da etiqueta
+Pictograma
+Palavra-sinal Perigo
+Declaração de perigo
+H315 Provoca irritação cutânea.
+H318 Provoca lesões oculares graves.
+H335 Pode provocar irritação das vias respiratórias.
+declaração de precaução
+P261 Evitar respirar as poeiras/fumos/gases/névoas/vapores/aerossóis.
+P280 Usar luvas de protecção/protecção ocular/protecção facial.
+P305 + P351 + P338 SE ENTRAR EM CONTACTO COM OS OLHOS: enxaguar
+cuidadosamente com água durante vários minutos. Se usar lentes de
+contacto, retire-as, se tal lhe for possível. Continuar a enxaguar.
+símbolo de perigosidade
+Xi Irritante
+Frase(s) - R
+R37/38 Irritante para as vias respiratórias e pele.
+R41 Risco de lesões oculares graves.
+Frase(s) - S
+S26 Em caso de contacto com os olhos, lavar imediata e abundantemente com
+Sigma-Aldrich - C4830 Página 1 de 5
+--- PÁGINA 2 ---
+água e consultar um especialista.
+S39 Usar um equipamento protector para os olhos/face.
+Outros Perigos - nenhum(a)
+3. COMPOSIÇÍO/INFORMAÇÍO SOBRE OS COMPONENTES
+Formula : CCaO3
+Peso molecular : 100,09 g/mol
+No. CAS No. CE No. de Index Classificação Concentração
+Calcium carbonate
+471-34-1 207-439-9 - Skin Irrit. 2; Eye Dam. 1; -
+STOT SE 3; H315, H318,
+H335
+Xi, R37/38 - R41
+Para o pleno texto das DECLARAÇÕES H mencionadas nesta Secção, ver a Secção 16.
+4. PRIMEIROS SOCORROS
+Recomendação geral
+Consultar um médico. Mostrar esta ficha de segurança ao médico de serviço.
+Se for inalado
+Se for respirado, levar a pessoa para o ar fresco. Se não respirar, aplicar a respiração artificial. Consultar um
+médico.
+No caso dum contacto com a pele
+Lavar com sabão e muita água. Consultar um médico.
+No caso dum contacto com os olhos
+Lavar cuidadosamente com muita água, durante pelo menos quinze minutos, e consultar o médico.
+Se for engolido
+Nunca dar nada pela boca a uma pessoa inconsciente. Enxaguar a boca com água. Consultar um médico.
+5. MEDIDAS DE COMBATE A INCÊNDIO
+Meios adequados de extinção
+Utilizar água pulverizada, espuma resistente ao álcool, produto químico seco ou dióxido de carbono.
+Equipamento especial de protecção a utilizar pelo pessoal de combate a incêndio
+Usar equipamento de respiração autónomo para combate a incêndios, se necessário.
+6. MEDIDAS A TOMAR EM CASO DE FUGAS ACIDENTAIS
+Precauções individuais
+Usar equipamento de protecção individual. Evitar a formação de poeira. Evitar de respirar o pó. Assegurar
+ventilação adequada.
+Precauções ambientais
+Não permitir a entrada do produto no sistema de esgotos.
+Métodos e materiais para a contenção e a limpeza
+Apanhar os resíduos sem levantar poeiras. Manter em recipientes fechados adequados, para eliminação.
+7. MANUSEAMENTO E ARMAZENAGEM
+Precauções para um manuseamento seguro
+Evitar o contacto com a pele e os olhos. Evitar a formação de pó e aerossois.
+Providenciar uma adequada ventilação em locais onde se formem poeiras. Medidas usuais de protecção
+preventiva contra incêndio.
+Sigma-Aldrich - C4830 Página 2 de 5
+--- PÁGINA 3 ---
+Condições para uma armazenagem segura
+Armazenar em local fresco. Guardar o recipiente herméticamente fechado em lugar seco e bem ventilado.
+higroscópico
+8. CONTROLO DA EXPOSIÇÍO/PROTECÇÍO PESSOAL
+Protecção individual
+Protecção respiratória
+Nos casos em que a avaliação de risco mostrar que os respiradores purificadores do ar são apropriados,
+use uma máscara de pó do tipo N95 (E.U.A.) ou um respirador do tipo P1 (EN 143). Use respiradores e
+componentes testados e aprovados por normas governamentais apropriadas, tais como as NIOSH
+(E.U.A.) ou CEN (UE).
+Protecção das mãos
+As luvas de protecção seleccionadas devem satisfazer as especificações da Directiva da UE 89/689/CEE
+e a norma EN 374 derivada dela.
+Manusear com luvas.
+Protecção dos olhos
+Óculos de protecção com um lado protector de acordo com EN 166
+Protecção do corpo e da pele
+Escolher uma protecção para o corpo conforme a quantidade e a concentração das substâncias
+perigosas no lugar de trabalho.
+Medidas de higiene
+Manusear de acordo com as boas práticas industriais de higiene e segurança. Lavar as mãos antes de
+interrupções, e no final do dia de trabalho.
+9. PROPRIEDADES FÍSICAS E QUÍMICAS
+Aspecto
+Estado físico pó
+Cor branco
+Dados de segurança
+pH 8,0
+Ponto de fusão 800 °C
+Ponto de ebulição dados não disponíveis
+Ponto de inflamação dados não disponíveis
+Temperatura de dados não disponíveis
+ignição
+Limites de explosão, dados não disponíveis
+inferior
+Limite de explosão, dados não disponíveis
+superior
+Hidrossolubilidade insolúvel
+10. ESTABILIDADE E REACTIVIDADE
+Estabilidade química
+Estável sob as condições recomendadas de armazenamento.
+Condições a evitar
+A exposição à humidade pode afectar a qualidade do produto.
+Sigma-Aldrich - C4830 Página 3 de 5
+--- PÁGINA 4 ---
+Matérias a evitar
+Agentes oxidantes fortes, Ácidos, Magnésio, Alumínio
+Produtos de decomposição perigosos
+Produtos perigosos de decomposição formados durante os incêndios. - Óxidos de carbono, Óxido de cálcio
+11. INFORMAÇÍO TOXICOLÓGICA
+Toxicidade aguda
+DL50 Oral - ratazana - 6.450 mg/kg
+Corrosão/irritação cutânea
+Pele - coelho - Irritação dermal - 24 h - Teste de Draize
+Observações: Irritação moderada da pele
+Lesões oculares graves/irritação ocular
+Olhos - coelho - Grave irritação dos olhos - 24 h - Teste de Draize
+Sensibilização respiratória ou da pele
+dados não disponíveis
+Mutagenicidade em células germinativas
+dados não disponíveis
+Carcinogenicidade
+IARC: Nenhum componente deste produto presente a níveis maiores ou iguais a 0.1% é identificado como
+carcinogénio provável, possível ou confirmado pelo IARC.
+Toxicidade reprodutiva
+dados não disponíveis
+Toxicidade para órgãos-alvo específicos - exposição única
+Inalação - Pode provocar irritação das vias respiratórias.
+Toxicidade para órgãos-alvo específicos - exposição repetida
+dados não disponíveis
+Perigo de aspiração
+dados não disponíveis
+Efeitos potenciais para a saúde
+Inalação Pode ser perigoso se for inalado. Causa uma irritação no aparelho respiratório.
+Ingestão Pode ser perigoso se for engolido.
+Pele Pode ser perigoso se for absorto pela pele. Causa uma irritação da pele.
+Olhos Provoca irritação ocular grave.
+Sinais e sintomas de exposição
+Até onde sabemos, as propriedades químicas, físicas e toxicológicas não foram minuciosamente investigadas.
+Informação adicional
+RTECS: FF9335000
+12. INFORMAÇÍO ECOLÓGICA
+Toxicidade
+dados não disponíveis
+Persistência e degradabilidade
+dados não disponíveis
+Potencial de bioacumulação
+dados não disponíveis
+Mobilidade no solo
+dados não disponíveis
+Avaliação PBT e mPmB
+Sigma-Aldrich - C4830 Página 4 de 5
+--- PÁGINA 5 ---
+dados não disponíveis
+Outros efeitos adversos
+dados não disponíveis
+13. CONSIDERAÇÕES RELATIVAS À ELIMINAÇÍO
+Produto
+Observar todos os regulamentos ambientais federais, estaduais e locais. Entrar em contato com um serviço
+profissional credenciado de descarte de lixo para descartar esse material. Dissolver ou misturar o material
+com um solvente combustível e queimar em incinerador químico equipado com pós-combustor e purificador
+de gases.
+Embalagens contaminadas
+Eliminar como produto Não utilizado.
+14. INFORMAÇÕES RELATIVAS AO TRANSPORTE
+ADR/RID
+Mercadorias não perigosas
+IMDG
+Mercadorias não perigosas
+IATA
+Mercadorias não perigosas
+15. INFORMAÇÍO SOBRE REGULAMENTAÇÍO
+Esta folha de dados de segurança obedece aos requerimentos da Regulamento (CE) No. 1907/2006
+16. OUTRAS INFORMAÇÕES
+Texto dos código(s) H e frase(s) R mencionados na secção 3
+Eye Dam. Lesões oculares graves
+H315 Provoca irritação cutânea.
+H318 Provoca lesões oculares graves.
+H335 Pode provocar irritação das vias respiratórias.
+Skin Irrit. Irritação cutânea
+STOT SE Toxicidade para órgãos-alvo específicos - exposição única
+Xi Irritante
+R37/38 Irritante para as vias respiratórias e pele.
+R41 Risco de lesões oculares graves.
+Outras informações
+Direitos exclusivos, 2010, da Sigma-Aldrich. Permissão concedida para fazer número ilimitado de cópias
+em papel, somente para uso interno.
+Acredita-se que as informações acima estejam corretas, embora não pretendam ser totalmente
+abrangentes, devendo ser usadas apenas como um guia. A Sigma-Aldrich não deverá ter responsabilidade
+legal por quaisquer danos resultantes do manuseio ou do contato com o produto acima. Consultar o verso
+da fatura ou nota que acompanha o produto para tomar conhecimento dos termos adicionais e condições
+de venda.
+Sigma-Aldrich - C4830 Página 5 de 5

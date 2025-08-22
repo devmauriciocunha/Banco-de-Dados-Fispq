@@ -1,0 +1,244 @@
+--- PÁGINA 1 ---
+SIGMA-ALDRICH
+sigma-aldrich.com
+SAFETY DATA SHEET
+according to Regulation (EC) No. 1907/2006
+Version 4.1 Revision Date 24.05.2010
+Print Date 25.01.2011
+GENERIC EU MSDS - NO COUNTRY SPECIFIC DATA - NO OEL DATA
+1. IDENTIFICATION OF THE SUBSTANCE/MIXTURE AND OF THE COMPANY/UNDERTAKING
+Product name : Sodium diethyldithiocarbamate trihydrate
+Product Number : 228680
+Brand : Sigma-Aldrich
+Company : Sigma-Aldrich Brasil Ltda.
+Av. das Nações Unidas, 23.043
+04795-100 SÍO PAULO - SP
+BRAZIL
+Telephone : +551137323100
+Fax : +551155229895
+Emergency Phone # :
+2. HAZARDS IDENTIFICATION
+Classification of the substance or mixture
+According to Regulation (EC) No1272/2008
+Acute toxicity, Oral (Category 4)
+Skin irritation (Category 2)
+Serious eye damage (Category 1)
+According to European Directive 67/548/EEC as amended.
+Harmful if swallowed. Irritating to skin. Risk of serious damage to eyes.
+Label elements
+Pictogram
+Signal word Danger
+Hazard statement(s)
+H302 Harmful if swallowed.
+H315 Causes skin irritation.
+H318 Causes serious eye damage.
+Precautionary statement(s)
+P280 Wear protective gloves/eye protection/face protection.
+P305 + P351 + P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove
+contact lenses, if present and easy to do. Continue rinsing.
+Hazard symbol(s)
+Xn Harmful
+R-phrase(s)
+R22 Harmful if swallowed.
+R38 Irritating to skin.
+R41 Risk of serious damage to eyes.
+S-phrase(s)
+S26 In case of contact with eyes, rinse immediately with plenty of water and
+seek medical advice.
+S39 Wear eye/face protection.
+Sigma-Aldrich - 228680 Page 1 of 6
+--- PÁGINA 2 ---
+Other hazards - none
+3. COMPOSITION/INFORMATION ON INGREDIENTS
+Synonyms : Diethyldithiocarbamic acidsodium salt
+Cupral
+Formula : C5H10NNaS2 · 3H2O
+Molecular Weight : 225,31 g/mol
+CAS-No. EC-No. Index-No. Classification Concentration
+Sodium diethyldithiocarbamate trihydrate
+20624-25-3 205-710-6 - Acute Tox. 4; Skin Irrit. 2; Eye -
+Dam. 1; H302, H315, H318
+Xn, R22 - R38 - R41
+For the full text of the H-Statements mentioned in this Section, see Section 16.
+4. FIRST AID MEASURES
+General advice
+Consult a physician. Show this safety data sheet to the doctor in attendance.
+If inhaled
+If breathed in, move person into fresh air. If not breathing, give artificial respiration. Consult a physician.
+In case of skin contact
+Wash off with soap and plenty of water. Consult a physician.
+In case of eye contact
+Rinse thoroughly with plenty of water for at least 15 minutes and consult a physician.
+If swallowed
+Never give anything by mouth to an unconscious person. Rinse mouth with water. Consult a physician.
+5. FIRE-FIGHTING MEASURES
+Suitable extinguishing media
+Use water spray, alcohol-resistant foam, dry chemical or carbon dioxide.
+Special protective equipment for fire-fighters
+Wear self contained breathing apparatus for fire fighting if necessary.
+6. ACCIDENTAL RELEASE MEASURES
+Personal precautions
+Use personal protective equipment. Avoid dust formation. Avoid breathing vapors, mist or gas. Ensure
+adequate ventilation. Evacuate personnel to safe areas. Avoid breathing dust.
+Environmental precautions
+Do not let product enter drains.
+Methods and materials for containment and cleaning up
+Pick up and arrange disposal without creating dust. Sweep up and shovel. Keep in suitable, closed
+containers for disposal.
+7. HANDLING AND STORAGE
+Precautions for safe handling
+Avoid contact with skin and eyes. Avoid formation of dust and aerosols.
+Provide appropriate exhaust ventilation at places where dust is formed. Normal measures for preventive fire
+protection.
+Conditions for safe storage
+Keep container tightly closed in a dry and well-ventilated place. Store in cool place.
+Sigma-Aldrich - 228680 Page 2 of 6
+--- PÁGINA 3 ---
+hygroscopic Store under inert gas.
+8. EXPOSURE CONTROLS/PERSONAL PROTECTION
+Personal protective equipment
+Respiratory protection
+Where risk assessment shows air-purifying respirators are appropriate use a full-face particle respirator
+type N100 (US) or type P3 (EN 143) respirator cartridges as a backup to engineering controls. If the
+respirator is the sole means of protection, use a full-face supplied air respirator. Use respirators and
+components tested and approved under appropriate government standards such as NIOSH (US) or CEN
+(EU).
+Hand protection
+The selected protective gloves have to satisfy the specifications of EU Directive 89/686/EEC and the
+standard EN 374 derived from it.
+Handle with gloves. Gloves must be inspected prior to use. Use proper glove removal technique (without
+touching glove's outer surface) to avoid skin contact with this product. Dispose of contaminated gloves
+after use in accordance with applicable laws and good laboratory practices. Wash and dry hands.
+Eye protection
+Face shield and safety glasses Use equipment for eye protection tested and approved under appropriate
+government standards such as NIOSH (US) or EN 166(EU).
+Skin and body protection
+Complete suit protecting against chemicals, The type of protective equipment must be selected according
+to the concentration and amount of the dangerous substance at the specific workplace.
+Hygiene measures
+Handle in accordance with good industrial hygiene and safety practice. Wash hands before breaks and at
+the end of workday.
+9. PHYSICAL AND CHEMICAL PROPERTIES
+Appearance
+Form solid
+Safety data
+pH no data available
+Melting point 95 - 98,5 °C - lit.
+Boiling point no data available
+Flash point no data available
+Ignition temperature no data available
+Lower explosion limit no data available
+Upper explosion limit no data available
+Density 1,100 g/cm3
+Water solubility soluble
+Relative vapour 5,9
+density
+10. STABILITY AND REACTIVITY
+Chemical stability
+Stable under recommended storage conditions.
+Conditions to avoid
+no data available
+Sigma-Aldrich - 228680 Page 3 of 6
+--- PÁGINA 4 ---
+Materials to avoid
+Strong oxidizing agents
+Hazardous decomposition products
+Hazardous decomposition products formed under fire conditions. - Carbon oxides, nitrogen oxides (NOx),
+Sulphur oxides
+11. TOXICOLOGICAL INFORMATION
+Acute toxicity
+LD50 Oral - rat - 1.500 mg/kg
+Skin corrosion/irritation
+no data available
+Serious eye damage/eye irritation
+no data available
+Respiratory or skin sensitization
+no data available
+Germ cell mutagenicity
+Genotoxicity in vitro - rat - Liver
+DNA damage
+Genotoxicity in vitro - rat - lymphocyte
+DNA inhibition
+Genotoxicity in vitro - Hamster - ovary
+Cytogenetic analysis
+Carcinogenicity
+IARC: No component of this product present at levels greater than or equal to 0.1% is identified as
+probable, possible or confirmed human carcinogen by IARC.
+Reproductive toxicity
+no data available
+Specific target organ toxicity - single exposure
+no data available
+Specific target organ toxicity - repeated exposure
+no data available
+Aspiration hazard
+no data available
+Potential health effects
+Inhalation May be harmful if inhaled. Causes respiratory tract irritation.
+Ingestion Harmful if swallowed.
+Skin May be harmful if absorbed through skin. Causes skin irritation.
+Eyes Causes eye burns.
+Signs and Symptoms of Exposure
+To the best of our knowledge, the chemical, physical, and toxicological properties have not been thoroughly
+investigated., Some dithiocarbamates have been reported to have teratogenic and/or carcinogenic potential
+and to affect male reproductive capacity. Exposure to thiocarbamates or thiurams and the intake of even small
+amounts of ethyl alcohol results in flushing, breathing difficulty, nausea, vomiting, and low blood pressure.
+Sensitization to alcohol may last as long as 6 to 14 days after exposure to these compounds. A serious toxic
+interaction has been observed in rats fed tetraethylthiuram and then exposed to vapors of 1,2-dibromoethane.
+NIOSH stated that similar toxic interactions may occur between chemicals structurally related to
+tetraethylthiuram and other halogenated hydrocarbons.
+Additional Information
+RTECS: EZ6550000
+Sigma-Aldrich - 228680 Page 4 of 6
+--- PÁGINA 5 ---
+12. ECOLOGICAL INFORMATION
+Toxicity
+no data available
+Persistence and degradability
+no data available
+Bioaccumulative potential
+no data available
+Mobility in soil
+no data available
+PBT and vPvB assessment
+no data available
+Other adverse effects
+no data available
+13. DISPOSAL CONSIDERATIONS
+Product
+Offer surplus and non-recyclable solutions to a licensed disposal company. Contact a licensed professional
+waste disposal service to dispose of this material. Dissolve or mix the material with a combustible solvent
+and burn in a chemical incinerator equipped with an afterburner and scrubber.
+Contaminated packaging
+Dispose of as unused product.
+14. TRANSPORT INFORMATION
+ADR/RID
+Not dangerous goods
+IMDG
+Not dangerous goods
+IATA
+Not dangerous goods
+15. REGULATORY INFORMATION
+This safety datasheet complies with the requirements of Regulation (EC) No. 1907/2006.
+16. OTHER INFORMATION
+Text of H-code(s) and R-phrase(s) mentioned in Section 3
+Acute Tox. Acute toxicity
+Eye Dam. Serious eye damage
+H302 Harmful if swallowed.
+H315 Causes skin irritation.
+H318 Causes serious eye damage.
+Skin Irrit. Skin irritation
+Xn Harmful
+R22 Harmful if swallowed.
+R38 Irritating to skin.
+R41 Risk of serious damage to eyes.
+Further information
+Copyright 2010 Sigma-Aldrich Co. License granted to make unlimited paper copies for internal use only.
+Sigma-Aldrich - 228680 Page 5 of 6
+--- PÁGINA 6 ---
+The above information is believed to be correct but does not purport to be all inclusive and shall be used
+only as a guide. The information in this document is based on the present state of our knowledge and is
+applicable to the product with regard to appropriate safety precautions. It does not represent any guarantee
+of the properties of the product. Sigma-Aldrich Co., shall not be held liable for any damage resulting from
+handling or from contact with the above product. See reverse side of invoice or packing slip for additional
+terms and conditions of sale.
+Sigma-Aldrich - 228680 Page 6 of 6

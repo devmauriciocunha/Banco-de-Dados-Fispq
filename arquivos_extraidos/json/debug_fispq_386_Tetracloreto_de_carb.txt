@@ -1,0 +1,156 @@
+--- PÁGINA 1 ---
+Ficha de Informação de Produto Químico
+IDENTIFICAÇÍO Help
+Número ONU Nome do produto Rótulo de risco
+1846 TETRACLORETO DE CARBONO
+Número de risco Classe / Subclasse
+60 6.1
+Sinônimos
+TETRACLOROMETANO; PERCLOROMETANO; NECATORINA; BENZINAFORM
+Aparência
+LÍQUIDO AQUOSO; SEM COLORAÇÍO; ODOR SUAVE; AFUNDA NA ÁGUA; PRODUZ VAPOR VENENOSO.
+Fórmula molecular Família química
+C Cl4 HIDROCARBONETO HALOGENADO
+Fabricantes
+Para informações atualizadas recomenda-se a consulta às seguintes instituições ou referências:
+ABIQUIM - Associação Brasileira da Indústria Química : Fone 0800-118270
+ANDEF - Associação Nacional de Defesa Vegetal: Fone (11) 3081-5033
+Revista Química e Derivados - Guia geral de produtos químicos, Editora QD: Fone (11) 3826-6899
+Programa Agrofit - Ministério da Agricultura
+MEDIDAS DE SEGURANÇA Help
+Medidas preventivas imediatas
+EVITAR CONTATO COM O LÍQUIDO E O VAPOR. MANTER AS PESSOAS AFASTADAS. PARAR O VAZAMENTO SE POSSÍVEL.
+FICAR CONTRA O VENTO E USAR NEBLINA D'ÁGUA PARA BAIXAR O VAPOR.
+Equipamentos de Proteção Individual (EPI)
+USAR LUVAS, BOTAS E ROUPAS DE VITON E MÁSCARA DE RESPIRAÇÍO AUTÔNOMA.
+RISCOS AO FOGO Help
+Ações a serem tomadas quando o produto entra em combustão
+NÍO É INFLAMÁVEL.
+Comportamento do produto no fogo
+DECOMPÕE EM FORMA DE CLORO E FOSGÊNIO.
+Produtos perigosos da reação de combustão
+FORMA GASES VENENOSOS DE FOSGÊNIO (CLORETO DE CARBONILA) QUANDO EXPOSTO A CHAMA ABERTA.
+Agentes de extinção que não podem ser usados
+NÍO PERTINENTE.
+Limites de inflamabilidade no ar
+Limite Superior: NÍO É INFLAMÁVEL
+Limite Inferior: NÍO É INFLAMÁVEL
+Ponto de fulgor
+NÍO É INFLAMÁVEL
+Temperatura de ignição
+NÍO É INFLAMÁVEL
+Taxa de queima
+NÍO É INFLAMÁVEL
+Taxa de evaporação (éter=1)
+2,6
+NFPA (National Fire Protection Association)
+Perigo de Saúde (Azul): 3
+Inflamabilidade (Vermelho): 0
+Reatividade (Amarelo): 0
+--- PÁGINA 2 ---
+PROPRIEDADES FÍSICO-QUÍMICAS E AMBIENTAIS Help
+Peso molecular Ponto de ebulição (°C) Ponto de fusão (°C)
+153,83 76,5 -22,6
+Temperatura crítica (°C) Pressão crítica (atm) Densidade relativa do vapor
+283 45 5,3
+Densidade relativa do líquido (ou Pressão de vapor Calor latente de vaporização (cal/g)
+sólido) 100 mm Hg A 23,0 °C 46,8
+1,59 A 20 °C (LÍQUIDO)
+Calor de combustão (cal/g) Viscosidade (cP)
+NÍO PERTINENTE 0,95
+Solubilidade na água pH
+0,08 g/100 mL DE ÁGUA A 25 °C NÍO PERT.
+Reatividade química com água
+NÍO REAGE.
+Reatividade química com materiais comuns
+NÍO REAGE.
+Polimerização
+NÍO OCORRE.
+Reatividade química com outros materiais
+INCOMPATÍVEL COM METAIS QUIMICAMENTE ATIVOS COMO SÓDIO, POTÁSSIO E MAGNÉSIO.
+Degradabilidade
+PRODUTO VOLÁTIL. DADOS DE DEGRADAÇÍO NÍO DISPONÍVEIS.
+Potencial de concentração na cadeia alimentar
+NENHUM.
+Demanda bioquímica de oxigênio (DBO)
+NENHUMA.
+Neutralização e disposição final
+O MATERIAL DEVE SER QUEIMADO NA PRESENÇA DE IGUAL VOLUME DE CARBONATO DE SÓDIO E HIDRÓXIDO DE CÁLCIO EM
+UM INCINERADOR QUÍMICO EQUIPADO COM PÓS-QUEIMADOR E LAVADOR DE GASES. RECOMENDA-SE O ACOMPANHAMENTO
+POR UM ESPECIALISTA DO ÓRGÍO AMBIENTAL.
+INFORMAÇÕES ECOTOXICOLÓGICAS Help
+Toxicidade - limites e padrões
+L.P.O.: 50 ppm
+P.P.: 2 ug/L
+IDLH: 200 ppm
+LT: Brasil - Valor Médio 48h: 8 ppm
+LT: Brasil - Valor Teto: 16 ppm
+LT: EUA - TWA: 5 ppm (PELE)
+LT: EUA - STEL: 10 ppm (PELE)
+Toxicidade ao homem e animais superiores (vertebrados)
+M.D.T.: TDLo=1700mg/kg(ORAL)/CARCINOGÊNICO:ANIMAL-POSITIVO
+M.C.T.: SER HUMANO: TCLo = 20 ppm (OBS.1)
+Toxicidade: Espécie: RATO
+Via Respiração (CL50): EXPOSIÇÍO CRÔNICA A 5 ppm
+Via Oral (DL 50): 2,92 g/kg
+Via Cutânea (DL 50): 5.070 mg/kg
+Toxicidade: Espécie: CAMUNDONGO
+Via Respiração (CL50): 9.000 ppm (8 h)Via Oral (DL 50): 12.800 mg/kg Via Cutânea (DL 50): LDLo = 12 g/kg (SUBCUT.)
+Toxicidade: Espécie: OUTROS
+Via Respiração (CL50): COBAIA: LEVE AUMENTO DO PESO DO FÍGADO APÓS EXPOSIÇÍO CRÔNICA A 5 ppm Via Oral (DL 50):
+COELHO: 6.380 mg/kg
+Toxicidade aos organismos aquáticos: PEIXES : Espécie
+POECILIA RETICULATA: CL50 (14 DIAS) = 67 ppm;LEPOMIS MACROCHIRUS: CL50 (96 h) = 125 ppm ; BIOEANSAIO
+ESTÁTICO COM ÁGUA CONTINENTAL A 23°C, AERAÇÍO BRANDA APLICADA APÓS 24 HORAS (OBS.2).
+Toxicidade aos organismos aquáticos: CRUSTÁCEOS : Espécie
+Toxicidade aos organismos aquáticos: ALGAS : Espécie
+L.tox T.I.M.C. MICROCYSTIS AERUGINOSA = 105mg/L; SCENEDESMUS QUADRICAUDA= > 600 mg/L (ALGA VERDE)
+Toxicidade a outros organismos: BACTÉRIAS
+L.tox T.I.M.C. PSEUDOMONAS PUTIDA = 30 mg/L
+--- PÁGINA 3 ---
+Toxicidade a outros organismos: MUTAGENICIDADE
+MUTAGENICIDADE NEGATIVA NO TESTE DE SALMONELLA < 0,001 COLÔNIAS REVERTENTES/nmol E < 70 COLÔNIAS
+REVERTENTES = 10 ug/PLACA
+Toxicidade a outros organismos: OUTROS
+PROTOZOÁRIOS: L.tox T.I.M.C ENTOSIPHON SULCATUM = 770 mg/L; L.tox T.I.M.C URONEMA PARDUCZI:(CHATTON-LWOFF)
+= 616 mg/L (OBS.3).
+Informações sobre intoxicação humana
+EVITAR CONTATO COM O LÍQUIDO E O VAPOR. MANTER AS PESSOAS AFASTADAS. PARAR O VAZAMENTO SE POSSÍVEL.
+FICAR CONTRA O VENTO E USAR NEBLINA D'ÁGUA PARA BAIXAR O VAPOR.
+Tipo de contato Síndrome tóxica Tratamento
+VAPOR IRRITANTE PARA OS OLHOS. MOVER PARA O AR FRESCO. SE A
+VENENOSO SE INALADO. RESPIRAÇÍO FOR DIFICULTADA OU PARAR,
+DAR OXIGÊNIO OU FAZER RESPIRAÇÍO
+ARTIFICIAL.
+Tipo de contato Síndrome tóxica Tratamento
+LÍQUIDO IRRITANTE PARA A PELE. IRRITANTE REMOVER ROUPAS E SAPATOS
+PARA OS OLHOS. VENENOSO SE CONTAMINADOS E ENXAGUAR COM MUITA
+INGERIDO. ÁGUA. MANTER AS PÁLPEBRAS ABERTAS E
+ENXAGUAR COM MUITA ÁGUA. MANTER A
+VÍTIMA AQUECIDA.
+DADOS GERAIS Help
+Temperatura e armazenamento
+AMBIENTE.
+Ventilação para transporte
+PRESSÍO A VÁCUO.
+Estabilidade durante o transporte
+ESTÁVEL.
+Usos
+REFRIGERANTES E PROPULSORES; DESENGRAXANTE DE METAL; CLORAÇÍO DE COMPOSTOS ORGÂNICOS; PRODUÇÍO DE
+SEMICONDUTORES; FUMIGANTE AGRÍCOLA.
+Grau de pureza
+COMERCIAL.
+Radioatividade
+NÍO TEM.
+Método de coleta
+MÉTODO 5.
+Código NAS (National Academy of Sciences)
+FOGO SAÚDE POLUIÇÍO DAS ÁGUAS REATIVIDADE
+Fogo: 0 Vapor Irritante: 2 Toxicidade humana: 2 Outros Produtos Químicos: 1
+Líquido/Sólido Irritante: 1 Toxicidade aquática: 2 Água: 0
+Venenos: 4 Efeito estético: 2 Auto reação: 0
+OBSERVAÇÕES Help
+1) SER HUMANO: LCLo = 1.000 ppm LDLo (ORAL) = 43 mg/kg 2) MENIDIA BERYLLINA: CL50 (96 h)=150 ppm, BIOENSAIO
+ESTÁTICO COM ÁGUA MARINHA SINTÉTICA A 23°C, AERAÇÍO BRANDA APLICADA APÓS 24h. 3) E.COLI: "dnd" = 300 ppm
+RATO: "dnd" (FIGADO) = 3 mmol/L CAMUNDONGO: "dni" = 2 g/kg TAXA DE TOXICIDADE AOS ORGANISMOS AQUÁTICOS =
+TLm (96 h) = 10 ppm - 100 ppm POTENCIAL DE IONIZAÇÍO (PI) = 11,47 eV.

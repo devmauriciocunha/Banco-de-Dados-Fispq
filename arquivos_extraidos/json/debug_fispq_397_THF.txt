@@ -1,0 +1,156 @@
+--- PÁGINA 1 ---
+Ficha de Informação de Produto Químico
+IDENTIFICAÇÍO Help
+Número ONU Nome do produto Rótulo de risco
+2056 TETRAHIDROFURANO
+Número de risco Classe / Subclasse
+33 3
+Sinônimos
+ÓXIDO DE TETRAMETILENO; T H F
+Aparência
+LÍQUIDO; SEM COLORAÇÍO; ODOR FRACO DE FRUTA; FLUTUA E MISTURA COM ÁGUA; PRODUZ VAPOR IRRITANTE
+INFLAMÁVEL
+Fórmula molecular Família química
+C4 H8 O ÉTER
+Fabricantes
+Para informações atualizadas recomenda-se a consulta às seguintes instituições ou referências:
+ABIQUIM - Associação Brasileira da Indústria Química : Fone 0800-118270
+ANDEF - Associação Nacional de Defesa Vegetal: Fone (11) 3081-5033
+Revista Química e Derivados - Guia geral de produtos químicos, Editora QD: Fone (11) 3826-6899
+Programa Agrofit - Ministério da Agricultura
+MEDIDAS DE SEGURANÇA Help
+Medidas preventivas imediatas
+EVITAR CONTATO COM O LÍQUIDO E O VAPOR. MANTER AS PESSOAS AFASTADAS. CHAMAR OS BOMBEIROS. PARAR O
+VAZAMENTO SE POSSÍVEL. ISOLAR E REMOVER O MATERIAL DERRAMADO. DESLIGAR AS FONTES DE IGNIÇÍO. FICAR
+CONTRA O VENTO E USAR NEBLINA D'ÁGUA PARA BAIXAR O VAPOR.
+Equipamentos de Proteção Individual (EPI)
+USAR LUVAS, BOTAS E ROUPAS DE BORRACHA BUTÍLICA OU NATURAL, PVC OU NEOPRENE E MÁSCARA DE RESPIRAÇÍO
+AUTÔNOMA
+RISCOS AO FOGO Help
+Ações a serem tomadas quando o produto entra em combustão
+EXTINGUIR COM PÓ QUÍMICO SECO OU DIÓXIDO DE CARBONO. ESFRIAR OS RECIPIENTES EXPOSTOS, COM ÁGUA. O VAPOR
+PODE EXPLODIR SE A IGNIÇÍO FOR EM ÁREA FECHADA.
+Comportamento do produto no fogo
+PODE EXPLODIR. O VAPOR É MAIS PESADO QUE O AR. ESTE VAPOR PODE SE DESLOCAR A UMA CONSIDERÁVEL DISTÂNCIA
+E, CASO HAJA CONTATO COM UMA FONTE DE IGNIÇÍO QUALQUER, PODERÁ OCORRER O RETROCESSO DA CHAMA.
+Produtos perigosos da reação de combustão
+PRODUZ VAPOR IRRITANTE QUANDO AQUECIDO.
+Agentes de extinção que não podem ser usados
+ÁGUA PODE SER INEFICAZ.
+Limites de inflamabilidade no ar
+Limite Superior: 11,8%
+Limite Inferior: 1,8%
+Ponto de fulgor
+-14,4°C(V.FECHADO); -20°C(V.ABERTO)
+Temperatura de ignição
+321 °C
+Taxa de queima
+4,7 mm/min
+Taxa de evaporação (éter=1)
+2,0
+NFPA (National Fire Protection Association)
+Perigo de Saúde (Azul): 2
+--- PÁGINA 2 ---
+Inflamabilidade (Vermelho): 3
+Reatividade (Amarelo): 1
+PROPRIEDADES FÍSICO-QUÍMICAS E AMBIENTAIS Help
+Peso molecular Ponto de ebulição (°C) Ponto de fusão (°C)
+72,10 66 -65
+Temperatura crítica (°C) Pressão crítica (atm) Densidade relativa do vapor
+267 51,2 NÍO PERTINENTE
+Densidade relativa do líquido (ou Pressão de vapor Calor latente de vaporização (cal/g)
+sólido) 170 mmHg A 26,6 °C 98
+0,888 A 20 °C (LÍQUIDO)
+Calor de combustão (cal/g) Viscosidade (cP)
+-8.330 DADO NÍO DISPONÍVEL
+Solubilidade na água pH
+MISCÍVEL DND
+Reatividade química com água
+NÍO REAGE.
+Reatividade química com materiais comuns
+NÍO REAGE.
+Polimerização
+NÍO OCORRE.
+Reatividade química com outros materiais
+INCOMPATÍVEL COM OXIDANTES FORTES.
+Degradabilidade
+DADO NÍO DISPONÍVEL.
+Potencial de concentração na cadeia alimentar
+NENHUM.
+Demanda bioquímica de oxigênio (DBO)
+DADO NÍO DISPONÍVEL.
+Neutralização e disposição final
+QUEIMAR EM UM INCINERADOR QUÍMICO, EQUIPADO COM PÓS-QUEIMADOR E LAVADOR DE GASES. TOMAR OS DEVIDOS
+CUIDADOS NA IGNIÇÍO, POIS O PRODUTO É ALTAMENTE INFLAMÁVEL. RECOMENDA-SE O ACOMPANHAMENTO POR UM
+ESPECIALISTA DO ÓRGÍO AMBIENTAL.
+INFORMAÇÕES ECOTOXICOLÓGICAS Help
+Toxicidade - limites e padrões
+L.P.O.: 20 - 50 ppm
+P.P.: NÍO ESTABELECIDO
+IDLH: 2.000 ppm
+LT: Brasil - Valor Médio 48h: 156 ppm
+LT: Brasil - Valor Teto: 195 ppm
+LT: EUA - TWA: 200 ppm
+LT: EUA - STEL: 250 ppm
+Toxicidade ao homem e animais superiores (vertebrados)
+M.D.T.: DADO NÍO DISPONÍVEL
+M.C.T.: SER HUMANO: TCLo = 25.000 ppm
+Toxicidade: Espécie: RATO
+Via Respiração (CL50): LCLo (2 h) = 28.000 ppm/m³; CL50 (2 h) = 60.000 ppm
+Via Oral (DL 50): LDLo = 3.000 mg/kg
+Via Cutânea (DL 50): LDLo = 500 mg/kg (INTRAP.); (OBS.1)
+Toxicidade: Espécie: CAMUNDONGO
+Via Respiração (CL50): LCLo (2 h) = 24.000 mg/m³
+Toxicidade: Espécie: OUTROS
+Via Cutânea (DL 50): COBAIA: LDLo = 500 mg/kg (INTRAP.)
+Toxicidade aos organismos aquáticos: PEIXES : Espécie
+Toxicidade aos organismos aquáticos: CRUSTÁCEOS : Espécie
+Toxicidade aos organismos aquáticos: ALGAS : Espécie
+MICROCYSTIS AERUGINOSA: INÍCIO DA INIBIÇÍO DA MULTIPLICAÇÍO CELULAR A 225 mg/L
+--- PÁGINA 3 ---
+Toxicidade a outros organismos: BACTÉRIAS
+PSEUDOMONAS PUTIDA: INÍCIO DA INIBIÇÍO DA MULTIPLICAÇÍO CELULAR A 580 mg/L
+Toxicidade a outros organismos: MUTAGENICIDADE
+MAMÍFEROS: "dnd" = 100 mmol/L (LINFÓCITO)
+Toxicidade a outros organismos: OUTROS
+PROTOZOÁRIOS: L. tox T.I.M.C. URONEMA PARDUCZI (CHATTON LWOFF) = 858 mg/L
+Informações sobre intoxicação humana
+EVITAR CONTATO COM O LÍQUIDO E O VAPOR. MANTER AS PESSOAS AFASTADAS. CHAMAR OS BOMBEIROS. PARAR O
+VAZAMENTO SE POSSÍVEL. ISOLAR E REMOVER O MATERIAL DERRAMADO. DESLIGAR AS FONTES DE IGNIÇÍO. FICAR
+CONTRA O VENTO E USAR NEBLINA D'ÁGUA PARA BAIXAR O VAPOR.
+Tipo de contato Síndrome tóxica Tratamento
+VAPOR IRRITANTE PARA OS OLHOS, NARIZ E MOVER PARA O AR FRESCO. SE A
+GARGANTA. SE INALADO CAUSARÁ RESPIRAÇÍO FOR DIFICULTADA OU PARAR,
+NÁUSEA, DOR DE CABEÇA OU PERDA DA DAR OXIGÊNIO OU FAZER RESPIRAÇÍO
+CONSCIÊNCIA. ARTIFICIAL.
+Tipo de contato Síndrome tóxica Tratamento
+LÍQUIDO IRRITANTE PARA A PELE. IRRITANTE REMOVER ROUPAS E SAPATOS
+PARA OS OLHOS. PREJUDICIAL SE CONTAMINADOS E ENXAGUAR COM MUITA
+INGERIDO. ÁGUA. MANTER AS PÁLPEBRAS ABERTAS E
+ENXAGUAR COM MUITA ÁGUA.
+DADOS GERAIS Help
+Temperatura e armazenamento
+AMBIENTE.
+Ventilação para transporte
+PRESSÍO A VÁCUO.
+Estabilidade durante o transporte
+ESTÁVEL, EXCETO TENDO 0.1% DE PERÓXIDO ACUMULADO DEVIDO AO ARMAZENAMENTO PROLONGADO EM PRESENÇA DE
+AR. (OBS. 2)
+Usos
+SOLVENTE DE RESINA NATURAL E SINTÉTICA; PRINCIPALMENTE, INTERMEDIÁRIO USADO EXTENSIVAMENTE COMO
+SOLVENTE DE CLORETO DE POLIVINILA.
+Grau de pureza
+DADO NÍO DISPONÍVEL.
+Radioatividade
+NÍO TEM.
+Método de coleta
+DADO NÍO DISPONÍVEL.
+Código NAS (National Academy of Sciences)
+FOGO SAÚDE POLUIÇÍO DAS ÁGUAS REATIVIDADE
+Fogo: 3 Vapor Irritante: 1 Toxicidade humana: 2 Outros Produtos Químicos: 1
+Líquido/Sólido Irritante: 1 Toxicidade aquática: 2 Água: 0
+Venenos: 2 Efeito estético: 0 Auto reação: 3
+OBSERVAÇÕES Help
+1) RATO: CL50 (1 h) = 80.975 ppm (4 h) = 18.000 ppm - 22.000 ppm NENHUM SINTOMA CLÍNICO A 3.000 ppm, 8 h/DIA, 20
+MESES 2) EXPLODE QUANDO A SOLUÇÍO É CONCENTRADA ATRAVÉS DE EVAPORAÇÍO POTENCIAL DE IONIZAÇÍO (PI) = 9,45
+eV

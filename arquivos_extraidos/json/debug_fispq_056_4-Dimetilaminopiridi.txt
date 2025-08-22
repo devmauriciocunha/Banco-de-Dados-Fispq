@@ -1,0 +1,312 @@
+--- PÁGINA 1 ---
+SIGMA-ALDRICH
+sigma-aldrich.com
+FICHA DE DADOS DE SEGURANÇA
+de acordo com a Regulamento (CE) No. 1907/2006
+Versão 4.0 Data de revisão 18.12.2010
+Data de impressão 19.01.2011
+ENERIC EU MSDS - NO COUNTRY SPECIFIC DATA - NO OEL DATA
+1. IDENTIFICAÇÍO DA SUBSTÂNCIA/MISTURA E DA SOCIEDADE/EMPRESA
+1.1 Identificadores do produto
+Nome do produto : 4-(DIMETILAMINO)PIRIDINA 99%
+Referência do Produto : 522805
+Marca : Aldrich
+No. CAS : 1122-58-3
+1.2 Utilizações relevantes identificadas da substância ou mistura e utilizações desaconselhadas
+Utilizações identificadas : Produtos químicos de laboratório, Fabricação de substâncias
+1.3 Pormenores acerca do fornecedor da ficha de dados de segurança
+Companhia : Sigma-Aldrich Brasil Ltda.
+Av. das Nações Unidas, 23.043
+04795-100 SÍO PAULO - SP
+BRAZIL
+Telefone : +551137323100
+Número de Fax : +551155229895
+1.4 Número de telefone de emergência
+Núnero de Telefone de :
+Emergência
+2. IDENTIFICAÇÍO DOS PERIGOS
+2.1 Classificação da substância ou mistura
+Classification according to Regulation (EC) No 1272/2008 [EU-GHS/CLP]
+Acute toxicity, Dermal (Category 1)
+Acute toxicity, Oral (Category 3)
+Skin irritation (Category 2)
+Eye irritation (Category 2)
+Specific target organ toxicity - single exposure (Category 3)
+Classificação de acordo com as Directivas da EU 67/548/CEE ou 1999/45/CE
+Tóxico por ingestão. Muito tóxico em contacto com a pele. Irritante para os olhos, vias respiratórias e pele.
+2.2 Elementos da etiqueta
+Labelling according Regulation (EC) No 1272/2008 [CLP]
+Pictogram
+Signal word Danger
+Hazard statement(s)
+H301 Toxic if swallowed.
+H310 Fatal in contact with skin.
+H315 Causes skin irritation.
+H319 Causes serious eye irritation.
+H335 May cause respiratory irritation.
+Precautionary statement(s)
+P261 Avoid breathing dust/ fume/ gas/ mist/ vapours/ spray.
+Aldrich - 522805 Página 1 de 7
+--- PÁGINA 2 ---
+P280 Wear protective gloves/ protective clothing.
+P302 + P350 IF ON SKIN: Gently wash with plenty of soap and water.
+P305 + P351 + P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove
+contact lenses, if present and easy to do. Continue rinsing.
+P310 Immediately call a POISON CENTER or doctor/ physician.
+Supplemental Hazard none
+Statements
+According to European Directive 67/548/EEC as amended.
+Hazard symbol(s)
+R-phrase(s)
+R25 Toxic if swallowed.
+R27 Very toxic in contact with skin.
+R36/37/38 Irritating to eyes, respiratory system and skin.
+S-phrase(s)
+S26 In case of contact with eyes, rinse immediately with plenty of water and
+seek medical advice.
+S28 After contact with skin, wash immediately with plenty of polyethylene
+glycol.
+S36/37/39 Wear suitable protective clothing, gloves and eye/face protection.
+S45 In case of accident or if you feel unwell, seek medical advice immediately
+(show the label where possible).
+2.3 Outros Perigos - nenhum(a)
+3. COMPOSIÇÍO/INFORMAÇÍO SOBRE OS COMPONENTES
+3.1 Substâncias
+Sinónimos : DMAP
+Formula : C7H10N2
+Peso molecular : 122,17 g/mol
+Componente Concentração
+N,N-Dimethylpyridin-4-amine
+No. CAS 1122-58-3 -
+No. CE 214-353-5
+4. PRIMEIROS SOCORROS
+4.1 Descrição das medidas de primeiros socorros
+Recomendação geral
+Consultar um médico. Mostrar esta ficha de segurança ao médico de serviço.
+Se for inalado
+Se for respirado, levar a pessoa para o ar fresco. Se não respirar, dar respiração artificial. Consultar um
+médico.
+No caso dum contacto com a pele
+Lavar com sabão e muita água. Transportar imediatamente paciente para um Hospital. Consultar um
+médico.
+No caso dum contacto com os olhos
+Lavar cuidadosamente com muita água, durante pelo menos quinze minutos, e consultar o médico.
+Se for engolido
+Nunca dar nada pela boca a uma pessoa inconsciente. Enxaguar a boca com água. Consultar um médico.
+Aldrich - 522805 Página 2 de 7
+--- PÁGINA 3 ---
+4.2 Sintomas e efeitos mais importantes, tanto agudos como retardados
+Debilidade, Convulsões
+4.3 Indicação de atenção medical imediata e tratamento especial necessário
+dados não disponíveis
+5. MEDIDAS DE COMBATE A INCÊNDIO
+5.1 Meios de extinção
+Meios adequados de extinção
+Utilizar água pulverizada, espuma resistente ao álcool, produto químico seco ou dióxido de carbono.
+5.2 Perigos especiais decorrentes da substância ou mistura
+Óxidos de carbono, óxidos de azoto (NOx), Cianeto de hidrogénio (ácido cianídrico)
+5.3 Recomendações para o pessoal de combate a incêndios
+Usar equipamento de respiração autónomo para combate a incêndios, se necessário.
+5.4 Outras informações
+dados não disponíveis
+6. MEDIDAS A TOMAR EM CASO DE FUGAS ACIDENTAIS
+6.1 Precauções individuais, equipamento de protecção e procedimentos de emergência
+Pôr uma protecção respiratória. Evitar a formação de poeira. Evitar a respiração do vapor/névoa/gas.
+Assegurar ventilação adequada. Evacuar o pessoal para áreas de segurança. Evitar de respirar o pó.
+6.2 Precauções a nível ambiental
+Prevenir dispersão ou derramamento ulterior se for mais seguro assim. Não permitir a entrada do produto
+no sistema de esgotos.
+6.3 Métodos e materiais de confinamento e limpeza
+Apanhar os resíduos sem levantar poeiras. Varrer e apanhar com uma pá. Manter em recipientes
+fechados adequados, para eliminação.
+6.4 Remissão para outras secções
+Para eliminação de resíduos ver secção 13.
+7. MANUSEAMENTO E ARMAZENAGEM
+7.1 Precauções para um manuseamento seguro
+Evitar o contacto com a pele e os olhos. Evitar a formação de pó e aerossois.
+Providenciar uma adequada ventilação em locais onde se formem poeiras.Medidas usuais de protecção
+preventiva contra incêndio.
+7.2 Condições de armazenagem segura, incluindo eventuais incompatibilidades
+Armazenar em local fresco. Guardar o recipiente herméticamente fechado em lugar seco e bem ventilado.
+7.3 Utilizações finais específicas
+dados não disponíveis
+8. CONTROLO DA EXPOSIÇÍO/PROTECÇÍO PESSOAL
+8.1 Parâmetros de controlo
+Componentes a controlar com relação ao local de trabalho
+8.2 Controlo da exposição
+Controlos técnicos adequados
+Evitar o contacto com a pele, olhos e vestuário. Lavar as mãos antes de interrupções do trabalho, e
+imediatamente a seguir ao manuseamento do produto.
+Aldrich - 522805 Página 3 de 7
+--- PÁGINA 4 ---
+Protecção individual
+Protecção para os olhos/cara
+Mascaras de protecção e óculos de segurança. Use equipamento de proteção ocular testado e
+aprovado de acordo com as normas governamentais adequadas, tais como NIOSH (US) ou EN 166
+(EU).
+Protecção da pele
+Manusear com luvas. As luvas devem ser inspectadas antes da utilização. Use uma técnica
+adequada para a remoção das luvas (sem tocar a superfície exterior da luva) para evitar o contacto
+da pele com o produto. Descarte as luvas contaminadas após o uso, em conformidade com as leis e
+boas práticas de laboratório . Lavar e secar as mãos.
+As luvas de protecção seleccionadas devem satisfazer as especificações da Directiva da UE
+89/689/CEE e a norma EN 374 derivada dela.
+Protecção do corpo
+Fato completo de protecção para produtos químicos, O genero de equipamento de protecção deve
+ser escolhido de acordo com a concentração e a quantidade da substância perigosa no lugar de
+trabalho.
+Protecção respiratória
+Nos casos em que a avaliação de risco mostrar que os respiradores purificadores do ar são
+apropriados, use um respirador de partículas do tipo N100 (E.U.A.) ou cartuchos de respiração do
+tipo P2 (EN 143) como apoio a controlos de engenharia. Se o respirador for o único meio de
+protecção, usa um respirador de ar de cobertura facial total. Use respiradores e componentes
+testados e aprovados por normas governamentais apropriadas, tais como as NIOSH (E.U.A.) ou
+CEN (UE).
+9. PROPRIEDADES FÍSICAS E QUÍMICAS
+9.1 Informações sobre propriedades físicas e químicas de base
+a) Aspecto Estado físico: cristalino
+Cor: beige
+b) Odor dados não disponíveis
+c) Limiar olfactivo dados não disponíveis
+d) pH dados não disponíveis
+e) Ponto de fusão/ponto Ponto/intervalo de fusão: 108 - 110 °C
+de congelação
+f) Ponto de ebulição inicial 162 °C a 67 hPa
+e intervalo de ebulição;
+g) Ponto de inflamação 110 °C - câmara fechada
+h) Taxa de evaporação dados não disponíveis
+i) Inflamabilidade (sólido, dados não disponíveis
+gás)
+j) limites de dados não disponíveis
+inflamabilidade superior
+/ inferior ou explosivas
+k) Pressão de vapor 0,169 hPa a 25 °C
+l) Densidade do vapor dados não disponíveis
+m) Densidade relativa dados não disponíveis
+n) Hidrossolubilidade 76 g/l a 20 °C
+o) Coeficiente de partição: log Pow: 1,34
+n-octanol/água
+p) Temperatura de auto- 420 °C
+Aldrich - 522805 Página 4 de 7
+--- PÁGINA 5 ---
+ignição
+q) Temperatura de dados não disponíveis
+decomposição
+r) Viscosidade dados não disponíveis
+s) Propriedades dados não disponíveis
+explosivas
+t) Propriedades oxidantes dados não disponíveis
+9.2 Outra informação de segurança
+Constante de 10,14 a 5 °C
+dissociação
+10. ESTABILIDADE E REACTIVIDADE
+10.1 Reactividade
+dados não disponíveis
+10.2 Estabilidade química
+dados não disponíveis
+10.3 Possibilidade de reacções perigosas
+dados não disponíveis
+10.4 Condições a evitar
+dados não disponíveis
+10.5 Materiais incompatíveis
+ácidos, Oxidantes
+10.6 Produtos de decomposição perigosos
+Outros produtos de decomposição perigosos - dados não disponíveis
+11. INFORMAÇÍO TOXICOLÓGICA
+11.1 Informações sobre os efeitos toxicológicos
+Toxicidade aguda
+DL50 Oral - ratazana - 140 mg/kg
+DL50 Dérmico - porquinho da índia - 100 - 200 mg/kg
+Corrosão/irritação cutânea
+dados não disponíveis
+Lesões oculares graves/irritação ocular
+dados não disponíveis
+Sensibilização respiratória ou cutânea
+dados não disponíveis
+Mutagenicidade em células germinativas
+dados não disponíveis
+Carcinogenicidade
+IARC: Nenhum componente deste produto presente a níveis maiores ou iguais a 0.1% é identificado
+como carcinogénio provável, possível ou confirmado pelo IARC.
+Toxicidade reprodutiva
+dados não disponíveis
+Toxicidade para órgãos-alvo específicos - exposição única
+Inalação - Pode provocar irritação das vias respiratórias.
+Toxicidade para órgãos-alvo específicos - exposição repetida
+dados não disponíveis
+Aldrich - 522805 Página 5 de 7
+--- PÁGINA 6 ---
+Perigo de aspiração
+dados não disponíveis
+Efeitos potenciais para a saúde
+Inalação Pode ser perigoso se for inalado. Causa uma irritação no aparelho
+respiratório.
+Ingestão Tóxico se ingerido.
+Pele Pode ser mortal se for absorto pela pele. Causa uma irritação da pele.
+Olhos Provoca irritação ocular grave.
+Sinais e sintomas de exposição
+Debilidade, Convulsões
+Informação adicional
+RTECS: US9230000
+12. INFORMAÇÍO ECOLÓGICA
+12.1 Toxicidade
+Toxicidade em peixes CL50 - Danio rerio (zebra fish) - 11,6 mg/l - 96 h
+NOEC - Danio rerio (zebra fish) - 5 mg/l - 96 h
+Toxicidade em dáfnias e - Daphnia magna - > 100 mg/l - 48 h
+outros invertebrados
+aquáticos.
+Toxicidade em algas CE50 - Pseudokirchneriella subcapitata (alga verde) - 1,82 - 4,22 mg/l - 72 h
+NOEC - Pseudokirchneriella subcapitata (alga verde) - 0,4 mg/l - 72 h
+12.2 Persistência e degradabilidade
+dados não disponíveis
+12.3 Potencial de bioacumulação
+dados não disponíveis
+12.4 Mobilidade no solo
+dados não disponíveis
+12.5 Resultados da avaliação PBT e mpmb
+dados não disponíveis
+12.6 Outros efeitos adversos
+dados não disponíveis
+13. CONSIDERAÇÕES RELATIVAS À ELIMINAÇÍO
+13.1 Métodos de tratamento de resíduos
+Produto
+Propor a entrega de soluções excedentes e não recicláveis a uma empresa idónea de tratamento de
+resíduos. Entrar em contato com um serviço profissional credenciado de descarte de lixo para descartar
+esse material. Dissolver ou misturar o material com um solvente combustível e queimar em incinerador
+químico equipado com pós-combustor e purificador de gases.
+Embalagens contaminadas
+Eliminar como produto Não utilizado.
+14. INFORMAÇÕES RELATIVAS AO TRANSPORTE
+14.1 Número ONU
+ADR/RID: 2811 IMDG: 2811 IATA: 2811
+14.2 Nome apropriado para embarque da ONU
+ADR/RID: TOXIC SOLID, ORGANIC, N.O.S. (N,N-Dimethylpyridin-4-amine)
+IMDG: TOXIC SOLID, ORGANIC, N.O.S. (N,N-Dimethylpyridin-4-amine)
+Aldrich - 522805 Página 6 de 7
+--- PÁGINA 7 ---
+IATA: Toxic solid, organic, n.o.s. (N,N-Dimethylpyridin-4-amine)
+14.3 Classificação (classificações) do perigo de transporte
+ADR/RID: 6.1 IMDG: 6.1 IATA: 6.1
+14.4 Grupo de embalagem
+ADR/RID: I IMDG: I IATA: I
+14.5 Perigos para o ambiente
+ADR/RID: no IMDG Poluente marinho: não IATA: não
+14.6 Precauções especiais para o utilizador
+dados não disponíveis
+15. INFORMAÇÍO SOBRE REGULAMENTAÇÍO
+Esta folha de dados de segurança obedece aos requerimentos da Regulamento (CE) No. 1907/2006
+15.1 Regulamentação/legislação específica para a substância ou mistura em matéria de saúde, segurança
+e ambiente
+dados não disponíveis
+15.2 Avaliação da segurança química
+dados não disponíveis
+16. OUTRAS INFORMAÇÕES
+Outras informações
+Direitos exclusivos, 2010, da Sigma-Aldrich. Permissão concedida para fazer número ilimitado de cópias
+em papel, somente para uso interno.
+Acredita-se que as informações acima estejam corretas, embora não pretendam ser totalmente
+abrangentes, devendo ser usadas apenas como um guia. A Sigma-Aldrich não deverá ter
+responsabilidade legal por quaisquer danos resultantes do manuseio ou do contato com o produto acima.
+Consultar o verso da fatura ou nota que acompanha o produto para tomar conhecimento dos termos
+adicionais e condições de venda.
+Aldrich - 522805 Página 7 de 7

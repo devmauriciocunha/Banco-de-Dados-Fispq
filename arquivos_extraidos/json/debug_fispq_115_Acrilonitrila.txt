@@ -1,0 +1,336 @@
+--- PÁGINA 1 ---
+SIGMA-ALDRICH
+sigma-aldrich.com
+FICHA DE DADOS DE SEGURANÇA
+de acordo com a Regulamento (CE) No. 1907/2006
+Versão 4.0 Data de revisão 14.03.2010
+Data de impressão 19.01.2011
+ENERIC EU MSDS - NO COUNTRY SPECIFIC DATA - NO OEL DATA
+1. IDENTIFICAÇÍO DA SUBSTÂNCIA/MISTURA E DA SOCIEDADE/EMPRESA
+Nome do produto : Acrylonitrile
+Referência do Produto : 31564
+Marca : Fluka
+Companhia : Sigma-Aldrich Brasil Ltda.
+Av. das Nações Unidas, 23.043
+04795-100 SÍO PAULO - SP
+BRAZIL
+Telefone : +551137323100
+Número de Fax : +551155229895
+Núnero de Telefone de :
+Emergência
+2. IDENTIFICAÇÍO DOS PERIGOS
+Classificação da substância ou da mistura
+Nos termos do Regulamento (CE) No1272/2008
+Líquidos inflamáveis (Categoria 2)
+Carcinogenicidade (Categoria 1B)
+Toxicidade para órgãos-alvo específicos - exposição única (Categoria 3)
+Irritação cutânea (Categoria 2)
+Lesões oculares graves (Categoria 1)
+Sensibilização da pele (Categoria 1)
+Toxicidade crónica para o ambiente aquático (Categoria 2)
+Toxicidade aguda, Inalação (Categoria 3)
+Toxicidade aguda, Dérmico (Categoria 3)
+Toxicidade aguda, Oral (Categoria 3)
+De acordo com a directiva Europeia 67/548/CEE, e emendas.
+Facilmente inflamável. Pode causar cancro. Tóxico por inalação, em contacto com a pele e por ingestão.
+Irritante para as vias respiratórias e pele. Risco de lesões oculares graves. Pode causar sensibilização em
+contacto com a pele. Tóxico para os organismos aquáticos, podendo causar efeitos nefastos a longo prazo no
+ambiente aquático.
+Elementos da etiqueta
+Pictograma
+Palavra-sinal Perigo
+Declaração de perigo
+H225 Líquido e vapor facilmente inflamáveis.
+H315 Provoca irritação cutânea.
+H301 Tóxico por ingestão.
+H311 Tóxico em contacto com a pele.
+H317 Pode provocar uma reacção alérgica cutânea.
+H318 Provoca lesões oculares graves.
+H331 Tóxico por inalação.
+H335 Pode provocar irritação das vias respiratórias.
+Fluka - 31564 Página 1 de 7
+--- PÁGINA 2 ---
+H350 Pode provocar cancro.
+H411 Tóxico para os organismos aquáticos com efeitos duradouros.
+declaração de precaução
+P201 Pedir instruções específicas antes da utilização.
+P210 Manter afastado do calor/faísca/chama aberta/superfícies quentes. - Não
+fumar.
+P261 Evitar respirar as poeiras/fumos/gases/névoas/vapores/aerossóis.
+P273 Evitar a libertação para o ambiente.
+P280 Usar luvas de protecção/protecção ocular/protecção facial.
+P301 + P310 EM CASO DE INGESTÍO: contacte imediatamente um CENTRO DE
+INFORMAÇÍO ANTIVENENOS ou um médico.
+símbolo de perigosidade
+F Facilmente inflamável
+T Tóxico
+N Perigoso para o ambiente
+Frase(s) - R
+R45 Pode causar cancro.
+R11 Facilmente inflamável.
+R23/24/25 Também tóxico por inalação, em contacto com a pele e por ingestão.
+R37/38 Irritante para as vias respiratórias e pele.
+R41 Risco de lesões oculares graves.
+R43 Pode causar sensibilização em contacto com a pele.
+R51/53 Tóxico para os organismos aquáticos, podendo causar efeitos nefastos a
+longo prazo no ambiente aquático.
+Frase(s) - S
+S 9 Manter o recipiente num local bem ventilado.
+S16 Manter afastado de qualquer chama ou fonte de ignição - Não fumar.
+S53 Evitar a exposição - obter instruções específicas antes da utilização.
+S45 Em caso de acidente ou de indisposição, consultar imediatamente o
+médico (se possível mostrar-lhe o rótulo).
+S61 Evitar a libertação para o ambiente. Obter instruções específicas/fichas de
+segurança.
+Reservado aos utilizadores profissionais.
+Outros Perigos
+Lacrimogênio., Vesicante.
+3. COMPOSIÇÍO/INFORMAÇÍO SOBRE OS COMPONENTES
+Sinónimos : Vinyl cyanide
+Formula : C3H3N
+Peso molecular : 53,06 g/mol
+No. CAS No. CE No. de Index Classificação Concentração
+Acrylonitrile
+107-13-1 203-466-5 608-003-00-4 Flam. Liq. 2; Carc. 1B; STOT -
+SE 3; Skin Irrit. 2; Eye Dam.
+1; Skin Sens. 1; Aquatic
+Chronic 2; Acute Tox. 3;
+H225, H315, H301, H311,
+H317, H318, H331, H335,
+H350, H411
+F, T, N, Carc.Cat.2, R45 -
+R11 - R23/24/25 - R37/38 -
+R41 - R43 - R51/53
+Fluka - 31564 Página 2 de 7
+--- PÁGINA 3 ---
+Para o pleno texto das DECLARAÇÕES H mencionadas nesta Secção, ver a Secção 16.
+4. PRIMEIROS SOCORROS
+Recomendação geral
+Consultar um médico. Mostrar esta ficha de segurança ao médico de serviço.
+Se for inalado
+Se for respirado, levar a pessoa para o ar fresco. Se não respirar, aplicar a respiração artificial. Consultar um
+médico.
+No caso dum contacto com a pele
+Lavar com sabão e muita água. Transportar imediatamente paciente para um Hospital. Consultar um médico.
+No caso dum contacto com os olhos
+Lavar cuidadosamente com muita água, durante pelo menos quinze minutos, e consultar o médico.
+Se for engolido
+NÍO provocar vómitos. Nunca dar nada pela boca a uma pessoa inconsciente. Enxaguar a boca com água.
+Consultar um médico.
+5. MEDIDAS DE COMBATE A INCÊNDIO
+Meios adequados de extinção
+Para fogos incipientes ou pequenos usar meios como espuma de álcool, pó seco ou dióxido de carbono. Para
+grandes fogos aplicar agua desde o mais longe possível, usar grandes quantidades de agua
+(inundação)aplicadas como nevoeiro ou spray; córregos sólidos de agua podem não ser efectivos. Esfrie
+todos os depósitos ou vasilhas com grandes e inundantes quantidades de agua.
+Equipamento especial de protecção a utilizar pelo pessoal de combate a incêndio
+Usar equipamento de respiração autónomo para combate a incêndios, se necessário.
+Outras informações
+Os jactos de água podem ser utilizados para arrefecer os contentores fechados.
+6. MEDIDAS A TOMAR EM CASO DE FUGAS ACIDENTAIS
+Precauções individuais
+Pôr uma protecção respiratória. Evitar a respiração do vapor/névoa/gas. Assegurar ventilação adequada.
+Cortar todas as fontes de ignição. Evacuar o pessoal para áreas de segurança. Atenção com a acumulação
+de vapores que pode formar concentrações explosivas. Os vapores podem-se acumular nas áreas baixas.
+Precauções ambientais
+Prevenir dispersão ou derramamento ulterior se for mais seguro assim. Não permitir a entrada do produto no
+sistema de esgotos. A descarga no meio ambiente deve ser evitada.
+Métodos e materiais para a contenção e a limpeza
+Controlar e recuperar o líquido derramado com um produto absorvente não combustível, (por exemplo areia,
+terra, terra diatomácea, vermiculite) e pôr o líquido dentro de contentores para eliminação de acordo com os
+regulamentos locais / nacionais (ver secção 13).
+7. MANUSEAMENTO E ARMAZENAGEM
+Precauções para um manuseamento seguro
+Evitar a exposição - obter instruções específicas antes da utilização.Evitar a inalação do vapor ou da névoa.
+Manter afastado de qualquer chama ou fonte de ignição - Não fumar. Tome medidas para impedir a formação
+de electricidade estática.
+Condições para uma armazenagem segura
+Guardar o recipiente herméticamente fechado em lugar seco e bem ventilado. Os contentores abertos devem
+ser cuidadosamente fechados de novo e têm que ficar direitos para evitar a dispersão. Armazenar em local
+fresco.
+Sensível à luz.
+Fluka - 31564 Página 3 de 7
+--- PÁGINA 4 ---
+8. CONTROLO DA EXPOSIÇÍO/PROTECÇÍO PESSOAL
+Protecção individual
+Protecção respiratória
+Nos casos em que a avaliação de risco mostrar que os respiradores purificadores do ar são apropriados,
+use um respirador de cobertura facial total com cartuchos de combinação multi-objectivos (E.U.A.) ou do
+tipo ABEK (EN 14387) como apoio a controlos de engenharia. Se o respirador for o único meio de
+protecção, usa um respirador de ar de cobertura facial total. Use respiradores e componentes testados e
+aprovados por normas governamentais apropriadas, tais como as NIOSH (E.U.A.) ou CEN (UE).
+Protecção das mãos
+As luvas de protecção seleccionadas devem satisfazer as especificações da Directiva da UE 89/689/CEE
+e a norma EN 374 derivada dela.
+Manusear com luvas.
+Protecção dos olhos
+Óculos de segurança bem ajustados. Proteção da face (mínimo de 8 polegadas (20 cm)).
+Protecção do corpo e da pele
+Escolher uma protecção para o corpo conforme a quantidade e a concentração das substâncias
+perigosas no lugar de trabalho.
+Medidas de higiene
+Evitar o contacto com a pele, olhos e vestuário. Lavar as mãos antes de interrupções do trabalho, e
+imediatamente a seguir ao manuseamento do produto.
+9. PROPRIEDADES FÍSICAS E QUÍMICAS
+Aspecto
+Estado físico claro, líquido
+Cor incolor
+Dados de segurança
+pH dados não disponíveis
+Ponto de fusão -83 °C - lit.
+Ponto de ebulição 77 °C - lit.
+Ponto de inflamação -5 °C - câmara fechada
+Temperatura de 481 °C
+ignição
+Limites de explosão, 3 %(V)
+inferior
+Limite de explosão, 17 %(V)
+superior
+Pressão de vapor 115 hPa a 20 °C
+Densidade 0,806 g/cm3
+Hidrossolubilidade solúvel
+Coeficiente de log Pow: 0,25
+epartição n-
+octanol/água
+Densidade relativa 1,83
+do vapor - (Ar = 1.0)
+10. ESTABILIDADE E REACTIVIDADE
+Fluka - 31564 Página 4 de 7
+--- PÁGINA 5 ---
+Estabilidade química
+Estável sob as condições recomendadas de armazenamento.
+Condições a evitar
+Calor. Pode polimerizar-se caso for exposto à luz
+Calor, chamas e faíscas.
+Matérias a evitar
+Oxidantes, Cobre
+Produtos de decomposição perigosos
+Produtos perigosos de decomposição formados durante os incêndios. - Óxidos de carbono, óxidos de azoto
+(NOx)
+11. INFORMAÇÍO TOXICOLÓGICA
+Toxicidade aguda
+DL50 Oral - ratazana - 78 mg/kg
+Observações: Comportamento: Convulsões ou acção sobre o despoletamento da crise epiléptica. Pulmões,
+tórax ou respiração: Dispnéia Aparelho gastrointestinal: Alterações de estructura ou da função das glândulas
+salivares.
+CL50 Inalação - ratazana - 4 h - 333 ppm
+Observações: Orgãos Sensoriais e Sentidos Especiais (Nariz, Olhos, Ouvidos e Gosto):Olhos: lacrijamento
+Comportamento: tremor Pulmões, tórax ou respiração: Dispnéia
+DL50 Dérmico - coelho - 63 mg/kg
+Observações: Comportamento: Sonolência (diminuição da actividade geral) Contacto prolongado com a pele
+pode causar irritação da pele e/ou dermatites.
+Corrosão/irritação cutânea
+Pele - coelho - Grave irritação da pele
+Lesões oculares graves/irritação ocular
+Olhos - coelho - Irritação moderada dos olhos
+Sensibilização respiratória ou da pele
+dados não disponíveis
+Pode causar sensibilização por inalação.
+Mutagenicidade em células germinativas
+dados não disponíveis
+Carcinogenicidade
+Este produto é ou contém um componente que foi relatado como sendo provavelmente carcinogênico
+segundo sua classificação pela IARC, OSHA, ACGIH, NTP ou EPA.
+Carcinogénio humano possível
+IARC: 2B - Group 2B: Possibly carcinogenic to humans (Acrylonitrile)
+Toxicidade reprodutiva
+dados não disponíveis
+Toxicidade para órgãos-alvo específicos - exposição única
+Pode afectar os órgãos.
+Toxicidade para órgãos-alvo específicos - exposição repetida
+dados não disponíveis
+Fluka - 31564 Página 5 de 7
+--- PÁGINA 6 ---
+Perigo de aspiração
+dados não disponíveis
+Efeitos potenciais para a saúde
+Inalação Tóxico se inalado. Causa uma irritação no aparelho respiratório.
+Ingestão Tóxico se ingerido.
+Pele Tóxico se absorvido através da pele. Causa uma irritação da pele.
+Olhos Provoca irritação ocular grave.
+Sinais e sintomas de exposição
+O material é extremamente destrutivo para os tecidos das membranas mucosas e para o trato respiratório
+superior, os olhos e a pele., Tosse, Respiração superficial, Dor de cabeça, Náusea
+Informação adicional
+RTECS: AT5250000
+12. INFORMAÇÍO ECOLÓGICA
+Toxicidade
+Toxicidade em CE50 - Daphnia magna - 7,4 - 10,0 mg/l - 48 h
+dáfnias e outros
+invertebrados
+aquáticos.
+Persistência e degradabilidade
+Biodegradabilidade Biótico/Aeróbico
+Potencial de bioacumulação
+Bioacumulação Lepomis macrochirus - 14 d
+Factor de bioconcentração (BCF): 48
+Mobilidade no solo
+dados não disponíveis
+Avaliação PBT e mPmB
+dados não disponíveis
+Outros efeitos adversos
+Tóxico para os organismos aquáticos, podendo causar efeitos nefastos a longo prazo no ambiente aquático.
+13. CONSIDERAÇÕES RELATIVAS À ELIMINAÇÍO
+Produto
+Queimar em um incinerador químico equipado com pós-combustor e purificador de gases, mas tomar
+precauções adicionais ao colocar esse material em ignição, visto que é altamente inflamável. Observar
+todos os regulamentos ambientais federais, estaduais e locais. Entrar em contato com um serviço
+profissional credenciado de descarte de lixo para descartar esse material.
+Embalagens contaminadas
+Eliminar como produto Não utilizado.
+14. INFORMAÇÕES RELATIVAS AO TRANSPORTE
+ADR/RID
+Número ONU: 1093 Classe: 3 (6.1) Grupo de embalagem: I
+Denominação de expedição correcta: ACRILONITRILO, ESTABILIZADO
+IMDG
+Número ONU: 1093 Classe: 3 (6.1) Grupo de embalagem: I EMS-No:
+F-E, S-D
+Denominação de expedição correcta: ACRYLONITRILE, STABILIZED
+Poluente marinho: No
+Fluka - 31564 Página 6 de 7
+--- PÁGINA 7 ---
+IATA
+Número ONU: 1093 Classe: 3 (6.1) Grupo de embalagem: I
+Denominação de expedição correcta: Acrylonitrile, stabilized
+IATA Passenger: Não permitido para o transporte
+15. INFORMAÇÍO SOBRE REGULAMENTAÇÍO
+Esta folha de dados de segurança obedece aos requerimentos da Regulamento (CE) No. 1907/2006
+16. OUTRAS INFORMAÇÕES
+Texto dos código(s) H e frase(s) R mencionados na secção 3
+Acute Tox. Toxicidade aguda
+Aquatic Chronic Toxicidade crónica para o ambiente aquático
+Carc. Carcinogenicidade
+Eye Dam. Lesões oculares graves
+Flam. Liq. Líquidos inflamáveis
+H225 Líquido e vapor facilmente inflamáveis.
+H301 Tóxico por ingestão.
+H311 Tóxico em contacto com a pele.
+H315 Provoca irritação cutânea.
+H317 Pode provocar uma reacção alérgica cutânea.
+H318 Provoca lesões oculares graves.
+H331 Tóxico por inalação.
+H335 Pode provocar irritação das vias respiratórias.
+H350 Pode provocar cancro.
+H411 Tóxico para os organismos aquáticos com efeitos duradouros.
+Skin Irrit. Irritação cutânea
+Skin Sens. Sensibilização da pele
+F Facilmente inflamável
+N Perigoso para o ambiente
+T Tóxico
+R11 Facilmente inflamável.
+R23/24/25 Tóxico por inalação, em contacto com a pele e por ingestão.
+R37/38 Irritante para as vias respiratórias e pele.
+R41 Risco de lesões oculares graves.
+R43 Pode causar sensibilização em contacto com a pele.
+R45 Pode causar cancro.
+R51/53 Tóxico para os organismos aquáticos, podendo causar efeitos nefastos a longo
+prazo no ambiente aquático.
+Outras informações
+Direitos exclusivos, 2010, da Sigma-Aldrich. Permissão concedida para fazer número ilimitado de cópias
+em papel, somente para uso interno.
+Acredita-se que as informações acima estejam corretas, embora não pretendam ser totalmente
+abrangentes, devendo ser usadas apenas como um guia. A Sigma-Aldrich não deverá ter responsabilidade
+legal por quaisquer danos resultantes do manuseio ou do contato com o produto acima. Consultar o verso
+da fatura ou nota que acompanha o produto para tomar conhecimento dos termos adicionais e condições
+de venda.
+Fluka - 31564 Página 7 de 7

@@ -1,0 +1,271 @@
+--- PÁGINA 1 ---
+SIGMA-ALDRICH
+sigma-aldrich.com
+FICHA DE DADOS DE SEGURANÇA
+de acordo com a Regulamento (CE) No. 1907/2006
+Versão 4.0 Data de revisão 14.03.2010
+Data de impressão 19.01.2011
+ENERIC EU MSDS - NO COUNTRY SPECIFIC DATA - NO OEL DATA
+1. IDENTIFICAÇÍO DA SUBSTÂNCIA/MISTURA E DA SOCIEDADE/EMPRESA
+Nome do produto : 1-Pentanol
+Referência do Produto : 398268
+Marca : Sigma-Aldrich
+Companhia : Sigma-Aldrich Brasil Ltda.
+Av. das Nações Unidas, 23.043
+04795-100 SÍO PAULO - SP
+BRAZIL
+Telefone : +551137323100
+Número de Fax : +551155229895
+Núnero de Telefone de :
+Emergência
+2. IDENTIFICAÇÍO DOS PERIGOS
+Classificação da substância ou da mistura
+Nos termos do Regulamento (CE) No1272/2008
+Líquidos inflamáveis (Categoria 3)
+Toxicidade aguda, Inalação (Categoria 4)
+Irritação cutânea (Categoria 2)
+Toxicidade para órgãos-alvo específicos - exposição única (Categoria 3)
+De acordo com a directiva Europeia 67/548/CEE, e emendas.
+Inflamável. Nocivo por inalação. Irritante para as vias respiratórias e pele. Pode provocar secura da pele ou
+fissuras, por exposição repetida.
+Elementos da etiqueta
+Pictograma
+Palavra-sinal Atenção
+Declaração de perigo
+H226 Líquido e vapor inflamáveis.
+H315 Provoca irritação cutânea.
+H332 Nocivo por inalação.
+H335 Pode provocar irritação das vias respiratórias.
+declaração de precaução
+P261 Evitar respirar as poeiras/fumos/gases/névoas/vapores/aerossóis.
+símbolo de perigosidade
+Xn Nocivo
+Frase(s) - R
+R10 Inflamável.
+R20 Nocivo por inalação.
+R37/38 Irritante para as vias respiratórias e pele.
+R66 Pode provocar secura da pele ou fissuras, por exposição repetida.
+Frase(s) - S
+S46 Em caso de ingestão, consultar imediatamente o médico e mostrar-lhe a
+Sigma-Aldrich - 398268 Página 1 de 6
+--- PÁGINA 2 ---
+embalagem ou o rótulo.
+Outros Perigos
+Lacrimogênio.
+3. COMPOSIÇÍO/INFORMAÇÍO SOBRE OS COMPONENTES
+Sinónimos : n-Amyl alcohol
+Pentyl alcohol
+Formula : C5H12O
+Peso molecular : 88,15 g/mol
+No. CAS No. CE No. de Index Classificação Concentração
+Pentan-1-ol
+71-41-0 200-752-1 603-006-00-7 Flam. Liq. 3; Acute Tox. 4; -
+Skin Irrit. 2; STOT SE 3;
+H226, H315, H332, H335
+Xn, R10 - R20 - R37/38
+Para o pleno texto das DECLARAÇÕES H mencionadas nesta Secção, ver a Secção 16.
+4. PRIMEIROS SOCORROS
+Recomendação geral
+Consultar um médico. Mostrar esta ficha de segurança ao médico de serviço.
+Se for inalado
+Se for respirado, levar a pessoa para o ar fresco. Se não respirar, aplicar a respiração artificial. Consultar um
+médico.
+No caso dum contacto com a pele
+Lavar com sabão e muita água. Consultar um médico.
+No caso dum contacto com os olhos
+Lavar cuidadosamente com muita água, durante pelo menos quinze minutos, e consultar o médico.
+Se for engolido
+NÍO provocar vómitos. Nunca dar nada pela boca a uma pessoa inconsciente. Enxaguar a boca com água.
+Consultar um médico.
+5. MEDIDAS DE COMBATE A INCÊNDIO
+Meios adequados de extinção
+Para fogos incipientes ou pequenos usar meios como espuma de álcool, pó seco ou dióxido de carbono. Para
+grandes fogos aplicar agua desde o mais longe possível, usar grandes quantidades de agua
+(inundação)aplicadas como nevoeiro ou spray; córregos sólidos de agua podem não ser efectivos. Esfrie
+todos os depósitos ou vasilhas com grandes e inundantes quantidades de agua.
+Equipamento especial de protecção a utilizar pelo pessoal de combate a incêndio
+Usar equipamento de respiração autónomo para combate a incêndios, se necessário.
+Outras informações
+Os jactos de água podem ser utilizados para arrefecer os contentores fechados.
+6. MEDIDAS A TOMAR EM CASO DE FUGAS ACIDENTAIS
+Precauções individuais
+Usar equipamento de protecção individual. Evitar a respiração do vapor/névoa/gas. Assegurar ventilação
+adequada. Cortar todas as fontes de ignição. Atenção com a acumulação de vapores que pode formar
+concentrações explosivas. Os vapores podem-se acumular nas áreas baixas.
+Precauções ambientais
+Não permitir a entrada do produto no sistema de esgotos.
+Sigma-Aldrich - 398268 Página 2 de 6
+--- PÁGINA 3 ---
+Métodos e materiais para a contenção e a limpeza
+Controlar e recuperar o líquido derramado com um produto absorvente não combustível, (por exemplo areia,
+terra, terra diatomácea, vermiculite) e pôr o líquido dentro de contentores para eliminação de acordo com os
+regulamentos locais / nacionais (ver secção 13). Manter em recipientes fechados adequados, para
+eliminação.
+7. MANUSEAMENTO E ARMAZENAGEM
+Precauções para um manuseamento seguro
+Evitar o contacto com a pele e os olhos. Evitar a inalação do vapor ou da névoa.
+Manter afastado de qualquer chama ou fonte de ignição - Não fumar. Tome medidas para impedir a formação
+de electricidade estática.
+Condições para uma armazenagem segura
+Armazenar em local fresco. Guardar o recipiente herméticamente fechado em lugar seco e bem ventilado.
+8. CONTROLO DA EXPOSIÇÍO/PROTECÇÍO PESSOAL
+Protecção individual
+Protecção respiratória
+Nos casos em que a avaliação de risco mostrar que os respiradores purificadores do ar são apropriados,
+use um respirador de cobertura facial total com cartuchos de combinação multi-objectivos (E.U.A.) ou do
+tipo ABEK (EN 14387) como apoio a controlos de engenharia. Se o respirador for o único meio de
+protecção, usa um respirador de ar de cobertura facial total. Use respiradores e componentes testados e
+aprovados por normas governamentais apropriadas, tais como as NIOSH (E.U.A.) ou CEN (UE).
+Protecção das mãos
+As luvas de protecção seleccionadas devem satisfazer as especificações da Directiva da UE 89/689/CEE
+e a norma EN 374 derivada dela.
+Manusear com luvas.
+Protecção dos olhos
+Mascaras de protecção e óculos de segurança.
+Protecção do corpo e da pele
+Escolher uma protecção para o corpo conforme a quantidade e a concentração das substâncias
+perigosas no lugar de trabalho.
+Medidas de higiene
+Manusear de acordo com as boas práticas industriais de higiene e segurança. Lavar as mãos antes de
+interrupções, e no final do dia de trabalho.
+9. PROPRIEDADES FÍSICAS E QUÍMICAS
+Aspecto
+Estado físico líquido
+Cor incolor
+Odor característico
+Dados de segurança
+pH 7
+Ponto de fusão -78 °C - lit.
+Ponto de ebulição 136 - 138 °C - lit.
+Ponto de inflamação 49 °C - câmara fechada
+Temperatura de 300 °C
+ignição
+Limites de explosão, 1,2 %(V)
+inferior
+Sigma-Aldrich - 398268 Página 3 de 6
+--- PÁGINA 4 ---
+1,6 %(V)
+Limite de explosão, 10 %(V)
+superior
+Pressão de vapor 2,0 hPa a 20 °C
+Densidade 0,811 g/cm3 a 25 °C
+Hidrossolubilidade 22,8 g/l a 25 °C
+Coeficiente de log Pow: 1,51
+epartição n-
+octanol/água
+Densidade relativa 3,04
+do vapor - (Ar = 1.0)
+10. ESTABILIDADE E REACTIVIDADE
+Estabilidade química
+Estável sob as condições recomendadas de armazenamento.
+Condições a evitar
+Calor, chamas e faíscas.
+Matérias a evitar
+Agentes oxidantes fortes, Metais alcalinos, Ácidos fortes, Haletos, Aldeídos
+Produtos de decomposição perigosos
+Produtos perigosos de decomposição formados durante os incêndios. - Óxidos de carbono
+Produtos perigosos de decomposição formados durante os incêndios. - A natureza dos produtos de
+decomposição não é conhecida.
+11. INFORMAÇÍO TOXICOLÓGICA
+Toxicidade aguda
+DL50 Oral - rato - 200 mg/kg
+Observações: Comportamento: anestésico geral
+DL50 Oral - ratazana - 3.670 mg/kg
+DL50 Dérmico - coelho - 2.306 mg/kg
+Observações: Fígado:Outras alterações. Rins, ureteres e bexiga urinária: outras alterações.
+Corrosão/irritação cutânea
+Pele - coelho - Irritação dermal - 24 h
+Lesões oculares graves/irritação ocular
+dados não disponíveis
+Sensibilização respiratória ou da pele
+Não provoca sensibilização em animais de laboratório.
+Mutagenicidade em células germinativas
+dados não disponíveis
+Carcinogenicidade
+IARC: Nenhum componente deste produto presente a níveis maiores ou iguais a 0.1% é identificado como
+carcinogénio provável, possível ou confirmado pelo IARC.
+Toxicidade reprodutiva
+dados não disponíveis
+Toxicidade para órgãos-alvo específicos - exposição única
+Inalação - Pode provocar irritação das vias respiratórias.
+Toxicidade para órgãos-alvo específicos - exposição repetida
+dados não disponíveis
+Sigma-Aldrich - 398268 Página 4 de 6
+--- PÁGINA 5 ---
+Perigo de aspiração
+dados não disponíveis
+Efeitos potenciais para a saúde
+Inalação Nocivo se for inalado. Causa uma irritação no aparelho respiratório.
+Ingestão Pode ser perigoso se for engolido.
+Pele Pode ser perigoso se for absorto pela pele. Causa uma irritação da pele. Pode
+provocar secura da pele ou fissuras, por exposição repetida.
+Olhos Pode causar uma irritação dos olhos.
+Sinais e sintomas de exposição
+Até onde sabemos, as propriedades químicas, físicas e toxicológicas não foram minuciosamente investigadas.
+Informação adicional
+RTECS: SB9800000
+12. INFORMAÇÍO ECOLÓGICA
+Toxicidade
+Toxicidade em CL50 - Oncorhynchus mykiss (truta arco-íris) - 370 - 490 mg/l - 96 h
+peixes
+Toxicidade em CE50 - Daphnia magna - 341 mg/l - 48 h
+dáfnias e outros
+invertebrados
+aquáticos.
+Persistência e degradabilidade
+Biodegradabilidade aeróbio
+Resultado: 97 % - Rápidamente biodegradável.
+Potencial de bioacumulação
+dados não disponíveis
+Mobilidade no solo
+dados não disponíveis
+Avaliação PBT e mPmB
+dados não disponíveis
+Outros efeitos adversos
+dados não disponíveis
+13. CONSIDERAÇÕES RELATIVAS À ELIMINAÇÍO
+Produto
+Esse material combustível deve ser queimado em um incinerador químico equipado com um pós-combustor
+e purificador de gases. Observar todos os regulamentos ambientais federais, estaduais e locais. Entrar em
+contato com um serviço profissional credenciado de descarte de lixo para descartar esse material.
+Embalagens contaminadas
+Eliminar como produto Não utilizado.
+14. INFORMAÇÕES RELATIVAS AO TRANSPORTE
+ADR/RID
+Número ONU: 1105 Classe: 3 Grupo de embalagem: III
+Denominação de expedição correcta: PENTANÓIS
+IMDG
+Número ONU: 1105 Classe: 3 Grupo de embalagem: III EMS-No:
+F-E, S-D
+Denominação de expedição correcta: PENTANOLS
+Poluente marinho: No
+Sigma-Aldrich - 398268 Página 5 de 6
+--- PÁGINA 6 ---
+IATA
+Número ONU: 1105 Classe: 3 Grupo de embalagem: III
+Denominação de expedição correcta: Pentanols
+15. INFORMAÇÍO SOBRE REGULAMENTAÇÍO
+Esta folha de dados de segurança obedece aos requerimentos da Regulamento (CE) No. 1907/2006
+16. OUTRAS INFORMAÇÕES
+Texto dos código(s) H e frase(s) R mencionados na secção 3
+Acute Tox. Toxicidade aguda
+Flam. Liq. Líquidos inflamáveis
+H226 Líquido e vapor inflamáveis.
+H315 Provoca irritação cutânea.
+H332 Nocivo por inalação.
+H335 Pode provocar irritação das vias respiratórias.
+Skin Irrit. Irritação cutânea
+STOT SE Toxicidade para órgãos-alvo específicos - exposição única
+Xn Nocivo
+R10 Inflamável.
+R20 Nocivo por inalação.
+R37/38 Irritante para as vias respiratórias e pele.
+Outras informações
+Direitos exclusivos, 2010, da Sigma-Aldrich. Permissão concedida para fazer número ilimitado de cópias
+em papel, somente para uso interno.
+Acredita-se que as informações acima estejam corretas, embora não pretendam ser totalmente
+abrangentes, devendo ser usadas apenas como um guia. A Sigma-Aldrich não deverá ter responsabilidade
+legal por quaisquer danos resultantes do manuseio ou do contato com o produto acima. Consultar o verso
+da fatura ou nota que acompanha o produto para tomar conhecimento dos termos adicionais e condições
+de venda.
+Sigma-Aldrich - 398268 Página 6 de 6

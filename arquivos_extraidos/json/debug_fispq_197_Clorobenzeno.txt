@@ -1,0 +1,273 @@
+--- PÁGINA 1 ---
+SIGMA-ALDRICH
+sigma-aldrich.com
+FICHA DE DADOS DE SEGURANÇA
+de acordo com a Regulamento (CE) No. 1907/2006
+Versão 4.0 Data de revisão 14.03.2010
+Data de impressão 09.06.2010
+ENERIC EU MSDS - NO COUNTRY SPECIFIC DATA - NO OEL DATA
+1. IDENTIFICAÇÍO DA SUBSTÂNCIA/MISTURA E DA SOCIEDADE/EMPRESA
+Nome do produto : Chlorobenzene
+Referência do Produto : 284513
+Marca : Sigma-Aldrich
+Companhia : Sigma-Aldrich Brasil Ltda.
+Av. das Nações Unidas, 23.043
+04795-100 SÍO PAULO - SP
+BRAZIL
+Telefone : +551137323100
+Número de Fax : +551155229895
+Núnero de Telefone de :
+Emergência
+2. IDENTIFICAÇÍO DOS PERIGOS
+Classificação da substância ou da mistura
+Nos termos do Regulamento (CE) No1272/2008
+Líquidos inflamáveis (Categoria 3)
+Toxicidade aguda (Categoria 4)
+Toxicidade crónica para o ambiente aquático (Categoria 2)
+De acordo com a directiva Europeia 67/548/CEE, e emendas.
+Inflamável. Nocivo por inalação. Tóxico para os organismos aquáticos, podendo causar efeitos nefastos a
+longo prazo no ambiente aquático.
+Elementos da etiqueta
+Pictograma
+Palavra-sinal Atenção
+Declaração de perigo
+H226 Líquido e vapor inflamáveis.
+H332 Nocivo por inalação.
+H411 Tóxico para os organismos aquáticos com efeitos duradouros.
+declaração de precaução
+P273 Evitar a libertação para o ambiente.
+símbolo de perigosidade
+Xn Nocivo
+N Perigoso para o ambiente
+Frase(s) - R
+R10 Inflamável.
+R20 Nocivo por inalação.
+R51/53 Tóxico para os organismos aquáticos, podendo causar efeitos nefastos a
+longo prazo no ambiente aquático.
+Frase(s) - S
+S24/25 Evitar o contacto com a pele e os olhos.
+S61 Evitar a libertação para o ambiente. Obter instruções específicas/fichas de
+Sigma-Aldrich - 284513 Página 1 de 6
+--- PÁGINA 2 ---
+segurança.
+Outros Perigos - nenhum(a)
+3. COMPOSIÇÍO/INFORMAÇÍO SOBRE OS COMPONENTES
+Formula : C6H5Cl
+Peso molecular : 112,56 g/mol
+No. CAS No. CE No. de Index Classificação Concentração
+Chlorobenzene
+108-90-7 203-628-5 602-033-00-1 Flam. Liq. 3; Acute Tox. 4; -
+Aquatic Chronic 2; H226,
+H332, H411
+Xn, N, R10 - R20 - R51/53
+Para o pleno texto das DECLARAÇÕES H mencionadas nesta Secção, ver a Secção 16.
+4. PRIMEIROS SOCORROS
+Recomendação geral
+Consultar um médico. Mostrar esta ficha de segurança ao médico de serviço.
+Se for inalado
+Se for respirado, levar a pessoa para o ar fresco. Se não respirar, aplicar a respiração artificial. Consultar um
+médico.
+No caso dum contacto com a pele
+Lavar com sabão e muita água. Consultar um médico.
+No caso dum contacto com os olhos
+Lavar cuidadosamente com muita água, durante pelo menos quinze minutos, e consultar o médico.
+Se for engolido
+NÍO provocar vómitos. Nunca dar nada pela boca a uma pessoa inconsciente. Enxaguar a boca com água.
+Consultar um médico.
+5. MEDIDAS DE COMBATE A INCÊNDIO
+Meios adequados de extinção
+Para fogos incipientes ou pequenos usar meios como espuma de álcool, pó seco ou dióxido de carbono. Para
+grandes fogos aplicar agua desde o mais longe possível, usar grandes quantidades de agua
+(inundação)aplicadas como nevoeiro ou spray; córregos sólidos de agua podem não ser efectivos. Esfrie
+todos os depósitos ou vasilhas com grandes e inundantes quantidades de agua.
+Equipamento especial de protecção a utilizar pelo pessoal de combate a incêndio
+Usar equipamento de respiração autónomo para combate a incêndios, se necessário.
+Outras informações
+Os jactos de água podem ser utilizados para arrefecer os contentores fechados.
+6. MEDIDAS A TOMAR EM CASO DE FUGAS ACIDENTAIS
+Precauções individuais
+Usar equipamento de protecção individual. Evitar a respiração do vapor/névoa/gas. Assegurar ventilação
+adequada. Cortar todas as fontes de ignição. Atenção com a acumulação de vapores que pode formar
+concentrações explosivas. Os vapores podem-se acumular nas áreas baixas.
+Precauções ambientais
+Prevenir dispersão ou derramamento ulterior se for mais seguro assim. Não permitir a entrada do produto no
+sistema de esgotos. A descarga no meio ambiente deve ser evitada.
+Sigma-Aldrich - 284513 Página 2 de 6
+--- PÁGINA 3 ---
+Métodos e materiais para a contenção e a limpeza
+Controlar e recuperar o líquido derramado com um produto absorvente não combustível, (por exemplo areia,
+terra, terra diatomácea, vermiculite) e pôr o líquido dentro de contentores para eliminação de acordo com os
+regulamentos locais / nacionais (ver secção 13). Manter em recipientes fechados adequados, para
+eliminação.
+7. MANUSEAMENTO E ARMAZENAGEM
+Precauções para um manuseamento seguro
+Evitar a inalação do vapor ou da névoa.
+Manter afastado de qualquer chama ou fonte de ignição - Não fumar. Tome medidas para impedir a formação
+de electricidade estática.
+Condições para uma armazenagem segura
+Armazenar em local fresco. Guardar o recipiente herméticamente fechado em lugar seco e bem ventilado. Os
+contentores abertos devem ser cuidadosamente fechados de novo e têm que ficar direitos para evitar a
+dispersão.
+8. CONTROLO DA EXPOSIÇÍO/PROTECÇÍO PESSOAL
+Protecção individual
+Protecção respiratória
+Nos casos em que a avaliação de risco mostrar que os respiradores purificadores do ar são apropriados,
+use um respirador de cobertura facial total com cartuchos de combinação multi-objectivos (E.U.A.) ou do
+tipo ABEK (EN 14387) como apoio a controlos de engenharia. Se o respirador for o único meio de
+protecção, usa um respirador de ar de cobertura facial total. Use respiradores e componentes testados e
+aprovados por normas governamentais apropriadas, tais como as NIOSH (E.U.A.) ou CEN (UE).
+Protecção das mãos
+As luvas de protecção seleccionadas devem satisfazer as especificações da Directiva da UE 89/689/CEE
+e a norma EN 374 derivada dela.
+Manusear com luvas.
+Protecção dos olhos
+Mascaras de protecção e óculos de segurança.
+Protecção do corpo e da pele
+Escolher uma protecção para o corpo conforme a quantidade e a concentração das substâncias
+perigosas no lugar de trabalho.
+Medidas de higiene
+Manusear de acordo com as boas práticas industriais de higiene e segurança. Lavar as mãos antes de
+interrupções, e no final do dia de trabalho.
+9. PROPRIEDADES FÍSICAS E QUÍMICAS
+Aspecto
+Estado físico líquido, claro
+Cor incolor
+Dados de segurança
+pH dados não disponíveis
+Ponto de fusão -45 °C - lit.
+Ponto de ebulição 132 °C - lit.
+Ponto de inflamação 27,0 °C - câmara fechada
+Temperatura de 637 °C
+ignição
+Limites de explosão, 1,3 %(V)
+inferior
+Sigma-Aldrich - 284513 Página 3 de 6
+--- PÁGINA 4 ---
+Limite de explosão, 7,1 %(V)
+superior
+Pressão de vapor 15,7 hPa a 25,0 °C
+Densidade 1,106 g/cm3 a 25 °C
+Hidrossolubilidade dados não disponíveis
+Coeficiente de log Pow: 2,89
+epartição n-
+octanol/água
+10. ESTABILIDADE E REACTIVIDADE
+Estabilidade química
+Estável sob as condições recomendadas de armazenamento.
+Condições a evitar
+Calor, chamas e faíscas.
+Matérias a evitar
+Agentes oxidantes fortes
+Produtos de decomposição perigosos
+Produtos perigosos de decomposição formados durante os incêndios. - Óxidos de carbono, Cloreto de
+hidrogénio gasoso
+11. INFORMAÇÍO TOXICOLÓGICA
+Toxicidade aguda
+CL50 Inalação - ratazana - 2965 ppm
+Corrosão/irritação cutânea
+dados não disponíveis
+Lesões oculares graves/irritação ocular
+dados não disponíveis
+Sensibilização respiratória ou da pele
+dados não disponíveis
+Mutagenicidade em células germinativas
+dados não disponíveis
+Carcinogenicidade
+Este produto é ou contém um componente que não é classificável quanto à sua carcinogenicidade segundo
+sua classificação pela IARC, ACGIH, NTP ou EPA.
+IARC: Nenhum componente deste produto presente a níveis maiores ou iguais a 0.1% é identificado como
+carcinogénio provável, possível ou confirmado pelo IARC.
+Toxicidade reprodutiva
+dados não disponíveis
+Toxicidade para órgãos-alvo específicos - exposição única
+dados não disponíveis
+Toxicidade para órgãos-alvo específicos - exposição repetida
+dados não disponíveis
+Sigma-Aldrich - 284513 Página 4 de 6
+--- PÁGINA 5 ---
+Perigo de aspiração
+dados não disponíveis
+Efeitos potenciais para a saúde
+Inalação Nocivo se for inalado. Pode causar uma irritação do aparelho respiratório.
+Ingestão Pode ser perigoso se for engolido.
+Pele Pode ser perigoso se for absorto pela pele. Pode causar uma irritação da pele.
+Olhos Pode causar uma irritação dos olhos.
+Sinais e sintomas de exposição
+Falta de coordenação., Até onde sabemos, as propriedades químicas, físicas e toxicológicas não foram
+minuciosamente investigadas.
+Informação adicional
+RTECS: CZ0175000
+12. INFORMAÇÍO ECOLÓGICA
+Toxicidade
+Toxicidade em CL100 - Leuciscus idus (Carpa dourada) - 0,03 - 28 mg/l - 48,0 h
+peixes
+CL50 - Cyprinodon variegatus - 10 mg/l - 96,0 h
+CL50 - Lepomis macrochirus - 4,5 - 7,4 mg/l - 76,0 h
+NOEC - Cyprinodon variegatus - 6,2 mg/l - 96,0 h
+Toxicidade em CE50 - Daphnia magna - 4,30 - 16,00 mg/l - 24 h
+dáfnias e outros
+invertebrados
+aquáticos.
+CE50 - Não existe informação disponível. - 7,60 mg/l - 24 h
+NOEC - Daphnia magna - < 1,4 mg/l - 11 d
+CL50 - Daphnia magna - 10,7 mg/l - 48 h
+Toxicidade em algas CE50 - Não existe informação disponível. - 235,00 mg/l - 48 h
+CE50 - Pseudokirchneriella subcapitata (alga verde) - 12,50 mg/l - 96 h
+Persistência e degradabilidade
+Potencial de bioacumulação
+Bioacumulação Leuciscus idus (Carpa dourada) - 3 d
+Factor de bioconcentração (BCF): 75
+Mobilidade no solo
+dados não disponíveis
+Avaliação PBT e mPmB
+dados não disponíveis
+Outros efeitos adversos
+Tóxico para os organismos aquáticos, podendo causar efeitos nefastos a longo prazo no ambiente aquático.
+13. CONSIDERAÇÕES RELATIVAS À ELIMINAÇÍO
+Produto
+Queimar em um incinerador químico equipado com pós-combustor e purificador de gases, mas tomar
+precauções adicionais ao colocar esse material em ignição, visto que é altamente inflamável. Esse material
+combustível deve ser queimado em um incinerador químico equipado com um pós-combustor e purificador
+de gases. Observar todos os regulamentos ambientais federais, estaduais e locais. Entrar em contato com
+um serviço profissional credenciado de descarte de lixo para descartar esse material.
+Sigma-Aldrich - 284513 Página 5 de 6
+--- PÁGINA 6 ---
+Embalagens contaminadas
+Eliminar como produto Não utilizado.
+14. INFORMAÇÕES RELATIVAS AO TRANSPORTE
+ADR/RID
+Número ONU: 1134 Classe: 3 Grupo de embalagem: III
+Denominação de expedição correcta: CLOROBENZENO
+IMDG
+Número ONU: 1134 Classe: 3 Grupo de embalagem: III EMS-No:
+F-E, S-D
+Denominação de expedição correcta: CHLOROBENZENE
+Poluente marinho: No
+IATA
+Número ONU: 1134 Classe: 3 Grupo de embalagem: III
+Denominação de expedição correcta: Chlorobenzene
+15. INFORMAÇÍO SOBRE REGULAMENTAÇÍO
+Esta folha de dados de segurança obedece aos requerimentos da Regulamento (CE) No. 1907/2006
+16. OUTRAS INFORMAÇÕES
+Texto dos código(s) H e frase(s) R mencionados na secção 3
+Acute Tox. Toxicidade aguda
+Aquatic Chronic Toxicidade crónica para o ambiente aquático
+Flam. Liq. Líquidos inflamáveis
+H226 Líquido e vapor inflamáveis.
+H332 Nocivo por inalação.
+H411 Tóxico para os organismos aquáticos com efeitos duradouros.
+N Perigoso para o ambiente
+Xn Nocivo
+R10 Inflamável.
+R20 Nocivo por inalação.
+R51/53 Tóxico para os organismos aquáticos, podendo causar efeitos nefastos a longo
+prazo no ambiente aquático.
+Outras informações
+Direitos exclusivos, 2010, da Sigma-Aldrich. Permissão concedida para fazer número ilimitado de cópias
+em papel, somente para uso interno.
+Acredita-se que as informações acima estejam corretas, embora não pretendam ser totalmente
+abrangentes, devendo ser usadas apenas como um guia. A Sigma-Aldrich não deverá ter responsabilidade
+legal por quaisquer danos resultantes do manuseio ou do contato com o produto acima. Consultar o verso
+da fatura ou nota que acompanha o produto para tomar conhecimento dos termos adicionais e condições
+de venda.
+Sigma-Aldrich - 284513 Página 6 de 6

@@ -1,0 +1,152 @@
+--- PÁGINA 1 ---
+Ficha de Informação de Produto Químico
+IDENTIFICAÇÍO Help
+Número ONU Nome do produto Rótulo de risco
+1158 DIISOPROPILAMINA
+Número de risco Classe / Subclasse
+338 3
+Sinônimos
+Aparência
+LÍQUIDO; SEM COLORAÇÍO; ODOR DE PEIXE; FLUTUA E MISTURA COM ÁGUA
+Fórmula molecular Família química
+C6 H15 N AMINA ALIFÁTICA
+Fabricantes
+Para informações atualizadas recomenda-se a consulta às seguintes instituições ou referências:
+ABIQUIM - Associação Brasileira da Indústria Química : Fone 0800-118270
+ANDEF - Associação Nacional de Defesa Vegetal: Fone (11) 3081-5033
+Revista Química e Derivados - Guia geral de produtos químicos, Editora QD: Fone (11) 3826-6899
+Programa Agrofit - Ministério da Agricultura
+MEDIDAS DE SEGURANÇA Help
+Medidas preventivas imediatas
+EVITAR CONTATO COM O LÍQUIDO. MANTER AS PESSOAS AFASTADAS. CHAMAR OS BOMBEIROS. PARAR O VAZAMENTO, SE
+POSSÍVEL. ISOLAR E REMOVER O MATERIAL DERRAMADO. DESLIGAR AS FONTES DE IGNIÇÍO. FICAR CONTRA O VENTO E
+USAR NEBLINA D'ÁGUA PARA BAIXAR O VAPOR.
+Equipamentos de Proteção Individual (EPI)
+USAR LUVAS, BOTAS E ROUPAS DE BORRACHA BUTÍLICA OU NITRÍLICA OU PVC E MÁSCARA DE RESPIRAÇÍO AUTÔNOMA.
+RISCOS AO FOGO Help
+Ações a serem tomadas quando o produto entra em combustão
+INFLAMÁVEL. EXTINGUIR COM PÓ QUÍMICO SECO, ESPUMA DE ÁLCOOL OU DIÓXIDO DE CARBONO. ESFRIAR OS
+RECIPIENTES EXPOSTOS, COM ÁGUA. O VAPOR PODE EXPLODIR, SE A IGNIÇÍO FOR EM ÁREA FECHADA. OS RECIPIENTES
+PODEM EXPLODIR NO FOGO.
+Comportamento do produto no fogo
+O VAPOR É MAIS PESADO QUE O AR. ESTE VAPOR PODE SE DESLOCAR A UMA CONSIDERÁVEL DISTÂNCIA E, CASO HAJA
+CONTATO COM UMA FONTE DE IGNIÇÍO QUALQUER, PODERÁ OCORRER O RETROCESSO DA CHAMA.
+Produtos perigosos da reação de combustão
+PODE FORMAR ÓXIDOS TÓXICOS DE NITROGÊNIO, NO FOGO.
+Agentes de extinção que não podem ser usados
+A ÁGUA PODE SER INEFICAZ NO FOGO.
+Limites de inflamabilidade no ar
+Limite Superior: 7,1%
+Limite Inferior: 0,8%
+Ponto de fulgor
+-6,67ºC(V.ABERTO);1,67ºC(V.FECHADO)
+Temperatura de ignição
+315,8 °C
+Taxa de queima
+DADO NÍO DISPONÍVEL
+Taxa de evaporação (éter=1)
+DADO NÍO DISPONÍVEL
+NFPA (National Fire Protection Association)
+Perigo de Saúde (Azul): 3
+Inflamabilidade (Vermelho): 3
+--- PÁGINA 2 ---
+Reatividade (Amarelo): 0
+PROPRIEDADES FÍSICO-QUÍMICAS E AMBIENTAIS Help
+Peso molecular Ponto de ebulição (°C) Ponto de fusão (°C)
+101,19 83,9 -96,3
+Temperatura crítica (°C) Pressão crítica (atm) Densidade relativa do vapor
+249,0 30 3,5
+Densidade relativa do líquido (ou Pressão de vapor Calor latente de vaporização (cal/g)
+sólido) 72 mmHg A 24 °C 67,5
+0,717 A 20 °C (LÍQUIDO)
+Calor de combustão (cal/g) Viscosidade (cP)
+-11.000 DADO NÍO DISPONÍVEL
+Solubilidade na água pH
+MISCÍVEL > 7,0
+Reatividade química com água
+NÍO REAGE.
+Reatividade química com materiais comuns
+PODE ATACAR ALGUMAS FORMAS DE PLÁSTICO.
+Polimerização
+NÍO OCORRE.
+Reatividade química com outros materiais
+INCOMPATÍVEL COM OXIDANTES FORTES E ÁCIDOS FORTES.
+Degradabilidade
+DADO NÍO DISPONÍVEL.
+Potencial de concentração na cadeia alimentar
+NENHUM.
+Demanda bioquímica de oxigênio (DBO)
+DADO NÍO DISPONÍVEL.
+Neutralização e disposição final
+QUEIMAR EM UM INCINERADOR QUÍMICO, EQUIPADO COM PÓS-QUEIMADOR E LAVADOR DE GASES. TOMAR OS DEVIDOS
+CUIDADOS NA IGNIÇÍO, POIS O PRODUTO É ALTAMENTE INFLAMÁVEL. PARA PEQUENAS QUANTIDADES: DERRAMAR EM
+BISSULFATO DE SÓDIO EM UM RECIPIENTE E DEIXAR EVAPORAR. BORRIFAR ÁGUA E NEUTRALIZAR. DRENAR PARA O ESGOTO
+COM MUITA ÁGUA. RECOMENDA-SE O ACOMPANHAMENTO POR UM ESPECIALISTA DO ÓRGÍO AMBIENTAL.
+INFORMAÇÕES ECOTOXICOLÓGICAS Help
+Toxicidade - limites e padrões
+L.P.O.: DADO NÍO DISPONÍVEL
+P.P.: NÍO ESTABELECIDO
+IDLH: 200 ppm
+LT: Brasil - Valor Médio 48h: 4 ppm
+LT: Brasil - Valor Teto: 8 ppm
+LT: EUA - TWA: 5 ppm
+LT: EUA - STEL: NÍO ESTABELECIDO
+Toxicidade ao homem e animais superiores (vertebrados)
+M.D.T.: DADO NÍO DISPONÍVEL
+M.C.T.: DADO NÍO DISPONÍVEL
+Toxicidade: Espécie: RATO
+Via Respiração (CL50): LCLo (4 h) = 1.000ppm
+Via Oral (DL 50): 770 mg/kg; 700 mg/kg
+Toxicidade: Espécie: CAMUNDONGO
+Via Respiração (CL50): LCLo (20 min) = 5.000 ppmVia Oral (DL 50): 2.120 mg/kg
+Toxicidade: Espécie: OUTROS
+Via Respiração (CL50): GATO: LCLo (72 min) = 2.207 ppm; COELHO: LCLo(150 min) = 2.207 ppm Via Oral (DL 50): COELHO:
+4.700 mg/kg; COBAIA : 2.800 mg/kg Via Cutânea (DL 50): COBAIA: LDLo = 1.400 mg/kg
+Toxicidade aos organismos aquáticos: PEIXES : Espécie
+SEMOLITUS ATROMACULATUS: FAIXA CRÍTICA (24 h) = 40 - 60 mg/L; DLo = (24 h) = 40 mg/L; DL100 = (24 h) = 60 mg/L
+( AMBOS COM ÁGUA DO RIO DETROIT - EUA)
+Toxicidade aos organismos aquáticos: CRUSTÁCEOS : Espécie
+Toxicidade aos organismos aquáticos: ALGAS : Espécie
+--- PÁGINA 3 ---
+Toxicidade a outros organismos: BACTÉRIAS
+Toxicidade a outros organismos: MUTAGENICIDADE
+Toxicidade a outros organismos: OUTROS
+Informações sobre intoxicação humana
+EVITAR CONTATO COM O LÍQUIDO. MANTER AS PESSOAS AFASTADAS. CHAMAR OS BOMBEIROS. PARAR O VAZAMENTO, SE
+POSSÍVEL. ISOLAR E REMOVER O MATERIAL DERRAMADO. DESLIGAR AS FONTES DE IGNIÇÍO. FICAR CONTRA O VENTO E
+USAR NEBLINA D'ÁGUA PARA BAIXAR O VAPOR.
+Tipo de contato Síndrome tóxica Tratamento
+VAPOR IRRITANTE PARA O NARIZ E A MANTER AS PÁLPEBRAS ABERTAS E
+GARGANTA. IRRITANTE PARA OS OLHOS. ENXAGUAR COM MUITA ÁGUA. SE A
+SE INALADO, CAUSARÁ TOSSE OU RESPIRAÇÍO FOR DIFICULTADA OU PARAR,
+DIFICULDADE RESPIRATÓRIA. DAR OXIGÊNIO OU FAZER RESPIRAÇÍO
+ARTIFICIAL.
+Tipo de contato Síndrome tóxica Tratamento
+LÍQUIDO IRRITANTE PARA A PELE. QUEIMARÁ OS REMOVER ROUPAS E SAPATOS
+OLHOS. SE INGERIDO, CAUSARÁ NÁUSEA CONTAMINADOS E ENXAGUAR COM MUITA
+E VÔMITO. ÁGUA. MANTER AS PÁLPEBRAS ABERTAS E
+ENXAGUAR COM MUITA ÁGUA. MANTER A
+VÍTIMA AQUECIDA.
+DADOS GERAIS Help
+Temperatura e armazenamento
+AMBIENTE.
+Ventilação para transporte
+ABERTA.
+Estabilidade durante o transporte
+ESTÁVEL.
+Usos
+CATALISADOR PARA POLIMERIZAÇÍO; SOLVENTE PARA EXTRAÇÍO; INTERMEDIÁRIO EM SÍNTESES ORGÂNICAS.
+Grau de pureza
+100% (COMERCIAL).
+Radioatividade
+NÍO TEM.
+Método de coleta
+DADO NÍO DISPONÍVEL.
+Código NAS (National Academy of Sciences)
+FOGO SAÚDE POLUIÇÍO DAS ÁGUAS REATIVIDADE
+Fogo: 3 Vapor Irritante: 3 Toxicidade humana: 3 Outros Produtos Químicos: 2
+Líquido/Sólido Irritante: 2 Toxicidade aquática: 2 Água: 3
+Venenos: 4 Efeito estético: 3 Auto reação: 0
+OBSERVAÇÕES Help
+TAXA DE TOXICIDADE AOS ORGANISMOS AQUÁTICOS: TLm (96 h) = 10 ppm - 100 ppm POTENCIAL DE IONIZAÇÍO (PI) =
+7,73 eV

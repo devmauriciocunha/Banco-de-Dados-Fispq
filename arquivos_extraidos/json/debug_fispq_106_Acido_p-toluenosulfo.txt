@@ -1,0 +1,181 @@
+--- PÁGINA 1 ---
+SIGMA-ALDRICH
+FICHA DE DADOS DE SEGURANÇA
+de acordo com a Regulamento (CE) No. 1907/2006
+Versão 3.0 Data de revisão 29.10.2009
+Data de impressão 09.06.2010
+ENERIC EU MSDS - NO COUNTRY SPECIFIC DATA - NO OEL DATA
+1. IDENTIFICAÇÍO DA SUBSTÂNCIA/MISTURA E DA SOCIEDADE/EMPRESA
+Nome do produto : p-Toluenesulfonic acid monohydrate
+Referência do Produto : 402885
+Marca : Sigma-Aldrich
+Companhia : Sigma-Aldrich Brasil Ltda.
+Av. das Nações Unidas, 23.043
+04795-100 SÍO PAULO - SP
+BRAZIL
+Telefone : +551137323100
+Número de Fax : +551155229895
+Núnero de Telefone de :
+Emergência
+2. IDENTIFICAÇÍO DOS PERIGOS
+Precauções para o homem e para o ambiente
+Irritante para os olhos e pele.
+3. COMPOSIÇÍO/INFORMAÇÍO SOBRE OS COMPONENTES
+Sinónimos : ptoluenesulfonic acid
+No. CAS No. CE No. de Index Classificação Concentração
+Sulfuric acid
+7664-93-9 231-639-5 016-020-00-8 C, R35 <= 1 %
+p-Toluensulphonic acid monohydrate
+6192-52-5 203-180-0 016-030-00-2 - >= 98 %
+Para o texto completo sobre as frases R mencionadas nesta Secção, ver a Secção 16.
+4. PRIMEIROS SOCORROS
+Recomendação geral
+Consultar um médico. Mostrar esta ficha de segurança ao médico de serviço.
+Se for inalado
+Se for respirado, levar a pessoa para o ar fresco. Se não respirar, aplicar a respiração artificial. Consultar um
+médico.
+No caso dum contacto com a pele
+Lavar com sabão e muita água. Consultar um médico.
+No caso dum contacto com os olhos
+Lavar cuidadosamente com muita água, durante pelo menos quinze minutos, e consultar o médico.
+Sigma-Aldrich - 402885 www.sigma-aldrich.com Página 1 of 5
+--- PÁGINA 2 ---
+Se for engolido
+Nunca dar nada pela boca a uma pessoa inconsciente. Enxaguar a boca com água. Consultar um médico.
+5. MEDIDAS DE COMBATE A INCÊNDIO
+Meios adequados de extinção
+Utilizar água pulverizada, espuma resistente ao álcool, produto químico seco ou dióxido de carbono.
+Equipamento especial de protecção a utilizar pelo pessoal de combate a incêndio
+Usar equipamento de respiração autónomo para combate a incêndios, se necessário.
+6. MEDIDAS A TOMAR EM CASO DE FUGAS ACIDENTAIS
+Precauções individuais
+Usar equipamento de protecção individual. Evitar a formação de poeira. Evitar de respirar o pó. Assegurar
+ventilação adequada.
+Precauções ambientais
+Não permitir a entrada do produto no sistema de esgotos.
+Métodos de limpeza
+Apanhar os resíduos sem levantar poeiras. Manter em recipientes fechados adequados, para eliminação.
+7. MANUSEAMENTO E ARMAZENAGEM
+Manuseamento
+Evitar o contacto com a pele e os olhos. Evitar a formação de pó e aerossois.
+Providenciar uma adequada ventilação em locais onde se formem poeiras. Medidas usuais de protecção
+preventiva contra incêndio.
+Armazenagem
+Armazenar em local fresco. Guardar o recipiente herméticamente fechado em lugar seco e bem ventilado.
+8. CONTROLO DA EXPOSIÇÍO/PROTECÇÍO PESSOAL
+Protecção individual
+Protecção respiratória
+Nos casos em que a avaliação de risco mostrar que os respiradores purificadores do ar são apropriados,
+use um respirador de partículas do tipo N100 (E.U.A.) ou cartuchos de respiração do tipo P2 (EN 143)
+como apoio a controlos de engenharia. Se o respirador for o único meio de protecção, usa um respirador
+de ar de cobertura facial total. Nos casos em que a avaliação de risco mostrar que os respiradores
+purificadores do ar são apropriados, use uma máscara de pó do tipo N95 (E.U.A.) ou um respirador do tipo
+P1 (EN 143). Use respiradores e componentes testados e aprovados por normas governamentais
+apropriadas, tais como as NIOSH (E.U.A.) ou CEN (UE).
+Protecção das mãos
+As luvas de protecção seleccionadas devem satisfazer as especificações da Directiva da UE 89/689/CEE e
+a norma EN 374 derivada dela. Manusear com luvas.
+Protecção dos olhos
+Mascaras de protecção e óculos de segurança.
+Protecção do corpo e da pele
+Escolher uma protecção para o corpo conforme a quantidade e a concentração das substâncias perigosas
+no lugar de trabalho.
+Medidas de higiene
+Manusear de acordo com as boas práticas industriais de higiene e segurança. Lavar as mãos antes de
+interrupções, e no final do dia de trabalho.
+Sigma-Aldrich - 402885 www.sigma-aldrich.com Página 2 of 5
+--- PÁGINA 3 ---
+9. PROPRIEDADES FÍSICAS E QUÍMICAS
+Aspecto
+Estado físico sólido
+Dados de segurança
+pH dados não disponíveis
+Ponto de fusão 103 - 106 °C
+Ponto de ebulição dados não disponíveis
+Ponto de inflamação dados não disponíveis
+Temperatura de dados não disponíveis
+ignição
+Limites de explosão, dados não disponíveis
+inferior
+Limite de explosão, dados não disponíveis
+superior
+Hidrossolubilidade dados não disponíveis
+10. ESTABILIDADE E REACTIVIDADE
+Estabilidade em armazenamento
+Estável sob as condições recomendadas de armazenamento.
+Matérias a evitar
+Agentes oxidantes fortes, Bases fortes
+Produtos de decomposição perigosos
+Produtos perigosos de decomposição formados durante os incêndios. - Óxidos de carbono, Óxidos de enxofre
+11. INFORMAÇÍO TOXICOLÓGICA
+Toxicidade aguda
+dados não disponíveis
+Irritação ou corrosão
+dados não disponíveis
+Sensibilização
+dados não disponíveis
+Exposição crónica
+IARC: Nenhum componente deste produto presente a níveis maiores ou iguais a 0.1% é
+identificado como carcinogénio provável, possível ou confirmado pelo IARC.
+Sinais e sintomas de exposição
+Até onde sabemos, as propriedades químicas, físicas e toxicológicas não foram minuciosamente investigadas.
+Efeitos potenciais sobre a saúde
+Inalação Pode ser perigoso se for inalado. Pode causar uma irritação do aparelho
+respiratório.
+Pele Pode ser perigoso se for absorto pela pele. Causa uma irritação da pele.
+Olhos Causa uma irritação nos olhos.
+Ingestão Pode ser perigoso se for engolido.
+Orgãos alvo Dentes, Pulmões,
+Sigma-Aldrich - 402885 www.sigma-aldrich.com Página 3 of 5
+--- PÁGINA 4 ---
+12. INFORMAÇÍO ECOLÓGICA
+Informação sobre eliminação (persistência e degradabilidade)
+dados não disponíveis
+Efeitos de ecotoxicidade
+dados não disponíveis
+Informações suplementares sobre a ecologia
+dados não disponíveis
+13. CONSIDERAÇÕES RELATIVAS À ELIMINAÇÍO
+Produto
+Observar todos os regulamentos ambientais federais, estaduais e locais. Entrar em contato com um serviço
+profissional credenciado de descarte de lixo para descartar esse material. Dissolver ou misturar o material com
+um solvente combustível e queimar em incinerador químico equipado com pós-combustor e purificador de
+gases.
+Embalagens contaminadas
+Eliminar como produto Não utilizado.
+14. INFORMAÇÕES RELATIVAS AO TRANSPORTE
+ADR/RID
+Número ONU: 2585 Classe: 8 Grupo de embalagem: III
+Denominação de expedição correcta: ARYLSULPHONIC ACIDS, SOLID
+IMDG
+Número ONU: 2585 Classe: 8 Grupo de embalagem: III EMS-No:
+F-A, S-B
+Denominação de expedição correcta: ARYLSULPHONIC ACIDS, SOLID
+Poluente marinho: No
+IATA
+Número ONU: 2585 Classe: 8 Grupo de embalagem: III
+Denominação de expedição correcta: Arylsulphonic acids, solid
+15. INFORMAÇÍO SOBRE REGULAMENTAÇÍO
+Rotulado de acordo com as directivas da CE
+Rotulagem CE
+Símbolos de perigo
+Xi Irritante
+Frase(s) - R
+R36/38 Irritante para os olhos e pele.
+Frase(s) - S
+S26 Em caso de contacto com os olhos, lavar imediata e abundantemente com água e
+consultar um especialista.
+16. OUTRAS INFORMAÇÕES
+Texto das Frases-R mencionado na Secção 3
+R35 Provoca queimaduras graves.
+Outras informações
+Sigma-Aldrich - 402885 www.sigma-aldrich.com Página 4 of 5
+--- PÁGINA 5 ---
+Direitos exclusivos, 2009, da Sigma-Aldrich. Permissão concedida para fazer número ilimitado de cópias
+em papel, somente para uso interno.
+Acredita-se que as informações acima estejam corretas, embora não pretendam ser totalmente
+abrangentes, devendo ser usadas apenas como um guia. A Sigma-Aldrich não deverá ter responsabilidade
+legal por quaisquer danos resultantes do manuseio ou do contato com o produto acima. Consultar o verso
+da fatura ou nota que acompanha o produto para tomar conhecimento dos termos adicionais e condições
+de venda.
+Sigma-Aldrich - 402885 www.sigma-aldrich.com Página 5 of 5

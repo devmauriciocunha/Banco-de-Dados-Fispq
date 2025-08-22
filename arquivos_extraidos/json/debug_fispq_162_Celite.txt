@@ -1,0 +1,285 @@
+--- PÁGINA 1 ---
+SIGMA-ALDRICH
+FOLHA DE DADOS DE SEGURANÇA DO PRODUTO (MSDS)
+Data de impressão 01/20/2011
+Data de Actualização. 06/17/2009
+Versão 1.14
+Secção 1 - Informação sobre o Produto e sobre a Companhia
+Nome do produto CELITE(R) 501, FILTER AID, FLUX CALCINED
+Referência do Produto 22147
+Marca SIAL
+Companhia Sigma-Aldrich Brasil Ltda.
+Direcção Av. das Nações Unidas, 23.043
+São Paulo SP 04795-100 BR
+Número do Serviço Técnico 55 11 3732 3100
+Número de Fax 55 11 5522 9895
+Número de Telefone de
+Secção 2 - Composição / Informação sobre os ingredientes.
+Nome da Substância Número CAS SARA 313
+CELITE(R), FILTER AID, FLUX 68855-54-9 Não
+CALCINED
+Nome dos Ingredientes: Número CAS PercentageSARA 313
+DIATOMACEOUS EARTH CALCINED AND FLUX 68855-54-9 <= 100 Não
+TREATED
+SAND 14464-46-1 < 50 Não
+QUARTZ 14808-60-7 < 4 Não
+Secção 3 - Identificação de Perigo
+INSTRUÇÕES EM CASO DE EMERGÊNCIA
+Tóxico
+Irritante para os olhos e sistema respiratório. Nocivo: perigo de
+danos sérios à saúde pela exposição prolongada por inalação. Pode
+provocar câncer por inalação.
+Órgão(s)-alvo: Pulmões Proposta 65 da Califórnia carcinógeno.
+Carcinogéneo confirmado (US).
+CLASSIFICAÇÍO DA HMIS
+SAÚDE: 2*
+INFLAMABILIDADE: 0
+REACTIVIDADE: 0
+CLASSIFICADO PELA NFPA
+SAÚDE: 2
+INFLAMABILIDADE: 0
+REACTIVIDADE: 0
+*perigos crónicos adicionais presentes.
+Para informação adicional referente à toxicidade, consulte por
+favor a seção 11.
+Secção 4. Primeiros Socorros
+EXPOSIÇÍO ORAL
+--- PÁGINA 2 ---
+Se ingerido, lavar a boca com água desde que a pessoa esteja
+consciente. Chamar um médico.
+EXPOSIÇÍO POR INALAÇÍO
+Se inalado, levar o paciente para o ar fresco. Caso a respiração
+se torne difícil, chamar um médico.
+EXPOSIÇÍO DÉRMICA
+Em caso de contato, lavar a pele imediatamente com sabão e água
+em abundância .
+EXPOSIÇÍO OCULAR
+Em caso de contato com os olhos, lavar com água em abundância
+por, no mínimo, 15 minutos. Separar as pálpebras com os dedos
+para garantir uma lavagem adequada. Chamar um médico.
+Secção 5 - Procedimento em caso de incêndio
+PONTO DE INFLAMAÇÍO
+N/A
+TEMPERATURA DE AUTOIGNIÇÍO
+N/A
+INFLAMABILIDADE
+N/A
+MEIOS DE EXTINÇÍO DE FOGOS
+Adequado: Não combustível. Utilizar meios extintores apropriados
+para circundar as situações de incêndio.
+COMBATE AOS INCÊNDIOS
+Equipamento de protecção: Utilizar aparelho de respiração
+autônomo e vestimenta de proteção para impedir o contato com a
+pele e com os olhos.
+Risco(s) específico(s): Emite vapores tóxicos em situações de
+incêndio.
+Secção 6 - Procedimento em caso de fuga acidental de produto
+PROCEDIMENTO EM CASO DE FUGA OU DERRAME
+Evacuar a área.
+PROCEDIMENTO(S) DE PROTECÇÍO INDIVIDUAL
+Usar aparelho de respiração autônoma, botas de borracha e luvas
+pesadas de borracha. Vestir capas descartáveis e descartá-las
+após o uso.
+MÉTODOS DE LIMPEZA
+Varrer, colocar em um saco e guardar até o seu descarte. Evitar
+o levantamento de pó. Ventilar a área e lavar o local derramado
+depois de terminar o recolhimento do material.
+Secção 7 - Instruções de manipulação e armazenamento
+MANIPULAÇÍO
+Exposição do Usuário: Não respirar a poeira. Não deixar que
+toque nos olhos, na pele ou no vestuário. Evitar a exposição
+prolongada ou repetida.
+ARMAZENAMENTO
+Adequado: Manter hermeticamente fechado.
+SIAL - 22147 www.sigma-aldrich.com Page 2
+--- PÁGINA 3 ---
+Secção 8 - Controlos de exposição / Medidas de protecção individual.
+CONTROLOS MECÂNICOS
+Usar exclusivamente em capela para vapores químicos. Ducha de
+segurança e lava-olhos.
+EQUIPAMENTO DE PROTECÇÍO INDIVIDUAL
+Respiratório: Use respiradores e componentes testados e aprovados
+por normas govername ntais apropriadas, tais como as NIOSH
+(E.U.A.) ou CEN (UE). Where risk assessment shows air-purifying
+respirators are appropriate use a dust mask type N95 (US) or type
+P1 (EN 143) respirator.
+Mão: Luvas compatíveis resistentes a produtos químicos
+Olhos: Óculos de segurança química.
+MEDIDAS DE HIGIENE GERAL
+Lavar as vestimentas contaminadas antes de utilizá-las novamente.
+Lavar bem após o manuseio.
+LIMITES DE EXPOSIÇÍO
+País Origem Tipo Valor
+EUA OSHA. PEL (Límit0.05 mg/m3
+EUA OSHA. PEL (Límit0.1 mg/m3
+Secção 9 - Propriedades Físicas e Químicas
+Aparência Estado Físico: Sólido
+Cor: Branco
+Forma: Pó
+Propriedade Valor A temperatura ou pressão
+pH N/A
+Ponto de Ebulição/ N/A
+Intervalo de pontos de
+ebulição
+Ponto de N/A
+fusão/Intervalo de
+pontos de fusão
+Ponto de congelação N/A
+Pressão de vapor N/A
+Densidade de vapor N/A
+Concentração de vapor N/A
+saturado
+Massa Volúmica Aparente N/A
+Umbral de Odor N/A
+% de compostos voláteis N/A
+Conteúdo de Compostos N/A
+Orgânicos Voláteis
+Conteúdo em água N/A
+Conteúdo de Solventes N/A
+Taxa de evaporação N/A
+Viscosidade N/A
+Tensão superficial N/A
+Coeficiente de partição N/A
+Temperatura de N/A
+decomposição
+Ponto de inflamação N/A
+Limites da explosão N/A
+Inflamabilidade N/A
+Temperatura de N/A
+SIAL - 22147 www.sigma-aldrich.com Page 3
+--- PÁGINA 4 ---
+autoignição
+Índice de refracção N/A
+Rotação Óptica N/A
+Dados diversos N/A
+Solubilidade N/A
+N/A = noa disponivel
+Secção 10 - Estabilidade e reactividade
+ESTABILIDADE
+Estável: Estável.
+Produtos a evitar: Ácidos fortes, Ácido fluorídrico.
+PRODUTOS DE DECOMPOSIÇÍO PERIGOSOS
+Produtos de decomposição perigosos: A natureza dos produtos de
+decomposição não é conhecida.
+POLIMERIZAÇÍO PERIGOSA
+Polimerização perigosa: Não ocorrerá
+Secção 11 - Informação Toxicológica
+VIA DE EXPOSIÇÍO
+Contacto cutâneo: Pode provocar irritação da pele.
+Absorção cutânea: Pode ser nocivo se absorvido através da pele.
+Contacto ocular: Provoca irritação nos olhos.
+Inalação: O material é irritante para as membranas mucosas e
+para o trato respiratório superior. Pode ser nocivo se inalado.
+Ingestão: Pode ser nocivo se deglutido.
+ORGÍOS OU SISTEMAS ALVO.
+Pulmões
+SINAIS E SINTOMAS DE EXPOSIÇÍO
+Respirable silica may cause immune system disorders, increased
+risk to develop pulmonary tuberculosis, and increased incidence
+of kidney disease. The chronic health risks are associated with
+respirable particles of 3-4 um over protracted periods of time.
+Currently, there is a limited understanding of the mechanisms of
+quartz toxicity, including its mechanisms for lung
+carcinogenicity. Additional studies are needed to determine
+whether the cell transforming activity of quartz is related to
+its carcinogenic potential. A inalação prolongada de sílica
+cristalina pode resultar em silicose, uma fibrose pulmonar
+incapacitante, caracterizada por alterações fibróticas e nódulos
+miliares nos pulmões, tosse seca, respiração curta, enfisema,
+redução da expansão torácica e aumento da suscetibilidade à
+tuberculose. Em estágios avançados da doença observa-se: perda
+do apetite, dor pleurítica e incapacidade total para o trabalho.
+A silicose avançada pode resultar em morte, em conseqüência de
+insuficiência cardíaca ou de destruição do tecido pulmonar. Os
+cristais de sílice estão classificados pela IARC como grupo 1
+"conhecido como carcinogéneo em humanos" e pelo NTP como
+"evidencia suficiente" da sua carcinogenicidade. " This product
+contains crystalline silica.
+CANCERÍGENO POR EXPOSIÇÍO CRÓNICA
+Resultado: Este produto é ou contém um componente que foi
+relatado como sendo carcinogênico segundo sua classificação pela
+IARC, OSHA, ACGIH, NTP ou EPA. This product contains crystalline
+silica (CS), which is considererd a hazard by inhalation. IARC
+SIAL - 22147 www.sigma-aldrich.com Page 4
+--- PÁGINA 5 ---
+has classified inhalation of CS as a carcinogen for humans
+(Group 1). CS is listed by NTP as a known human carcinogen.
+Inhalation of CS is also a known cause of silicosis, a
+noncancerous lung disease.
+Secção 12 - Informação Ecológica.
+Nenhun dado disponível
+Secção 13 - Considerações sobre a eliminação de resíduos.
+MÉTODO APROPRIADO PARA ELIMINAÇÍO DE SUBSTÂNCIAS OU PREPARAÇÕES.
+Entrar em contato com um serviço profissional credenciado de
+descarte de lixo para descartar esse material. Observar todos os
+regulamentos ambientais federais, estaduais e locais. (DN)Requires
+special label: "Contains a substance which is regulated by Dannish
+work environmental law due to the risk of carcinogenic properties."
+Secção 14 - Informações sobre o Transporte
+DOT
+Nome Apropriado para Embarque: None
+Não Perigoso para o transporte: This substance is
+considered to be non-hazardousfor transport.
+IATA
+Não Perigoso para o transporte aéreo: Non-hazardous
+for air transport.
+Secção 15 - Informações sobre a normativa vigente.
+CLASSIFICAÇÍO COMPLEMENTAR DA EU
+Símbolo de Perigo: T
+Indicação de perigo.: Tóxico.
+R: 36/37-48/20-45
+Frases de Risco: Irritante para os olhos e sistema respiratório.
+Nocivo: perigo de danos sérios à saúde pela exposição prolongada
+por inalação. Pode provocar câncer.
+S: 22-26-45-53
+Frase de Segurança.: Não inalar a poeira. Em caso de contato com
+os olhos, enxaguar imediatamente com água em abundância e
+procurar aconselhamento médico. Em caso de acidente ou
+mal-estar, procurar ajuda médica imediatamente (se possível,
+mostrar a etiqueta). Uso restringido a profissionais. Atenção -
+Evitar a exposição - obteras instrucções especiais antes de usar.
+CLASIFICAÇÍO E CONTEÚDO DAS ETIQUETAS SEGUNDA A NORMATIVA DOS EUA.
+Indicação de perigo.: Tóxico
+Frases de Risco: Irritante para os olhos e sistema respiratório.
+Nocivo: perigo de danos sérios à saúde pela exposição prolongada
+por inalação. Pode provocar câncer por inalação.
+Frase de Segurança.: Não inalar a poeira. Em caso de contato com
+os olhos, enxaguar imediatamente com água em abundância e
+procurar aconselhamento médico. Em caso de acidente ou
+mal-estar, procurar ajuda médica imediatamente (se possível,
+mostrar a etiqueta). Evitar exposição - obter instruções
+especiais antes de usar.
+Instruções segundo a normativa vigente nos EUA.: Órgão(s)-alvo:
+Pulmões Proposta 65 da Califórnia carcinógeno. Carcinogéneo
+confirmado (US).
+INFORMAÇÍO REGULAMENTARIA DOS EEUU
+SIAL - 22147 www.sigma-aldrich.com Page 5
+--- PÁGINA 6 ---
+INCLUÍDO NAS LISTA DA SARA: Não
+EUA: INFORMAÇÍO SOBRE LEGISLAÇÍO EM VIGOR NOS DIFERENTES ESTADOS
+CALIFÓRNIA PROP - 65
+Califórnia Prop - 65: Este produto é ou contém produto(s)
+químico(s) conhecido(s), no estado da Califórnia, como
+causadore(s) de câncer.
+INFORMAÇÍO SOBRE LEGISLAÇÍO EM VIGOR NO CANADÁ
+Classificação da WHMIS: Este produto foi classificado de acordo
+conm os critérios de perigo doCPR. A MSDS contém toda a
+informação exigida pela CPR.
+DSL: Sim
+NDSL: Não
+Secção 16 - Outras informações
+AVISO LEGAL:
+Deve ser usado somente para I+D e investigação. Não é apto para
+fabricação de medicamentos, material de uso doméstico ou outros
+usos.
+GARANTIA
+Acredita-se que as informações acima estejam corretas, embora não
+pretendam ser totalmente abrangentes, devendo ser usadas apenas
+como um guia. A Sigma não deverá ter responsabilidade legal por
+quaisquer danos resultantes do manuseio ou do contato com o
+produto acima. Consultar o verso da fatura ou nota que acompanha o
+produto para tomar conhecimento dos termos adicionais e condições
+de venda. Direitos exclusivos, 2007, da Sigma-Aldrich Co.
+Permissão concedida para fazer número ilimitado de cópias em
+papel, somente para uso interno.
+SIAL - 22147 www.sigma-aldrich.com Page 6

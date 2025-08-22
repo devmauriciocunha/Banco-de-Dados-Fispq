@@ -1,0 +1,140 @@
+--- PÁGINA 1 ---
+Ficha de Informação de Produto Químico
+IDENTIFICAÇÍO Help
+Número ONU Nome do produto Rótulo de risco
+1049 HIDROGÊNIO COMPRIMIDO
+Número de risco Classe / Subclasse
+* 2.1
+Sinônimos
+HIDROGÊNIO - LIQÜEFEITO; HIDROGÊNIO LÍQUIDO; para - HIDROGÊNIO.
+Aparência
+GÁS COMPRIMIDO LIQÜEFEITO; SEM COLORAÇÍO; SEM ODOR; FLUTUA E FERVE NA ÁGUA; PRODUZ NUVEM DE VAPOR
+VISÍVEL E INFLAMÁVEL.
+Fórmula molecular Família química
+H2 NÍO PERTINENTE
+Fabricantes
+Para informações atualizadas recomenda-se a consulta às seguintes instituições ou referências:
+ABIQUIM - Associação Brasileira da Indústria Química : Fone 0800-118270
+ANDEF - Associação Nacional de Defesa Vegetal: Fone (11) 3081-5033
+Revista Química e Derivados - Guia geral de produtos químicos, Editora QD: Fone (11) 3826-6899
+Programa Agrofit - Ministério da Agricultura
+MEDIDAS DE SEGURANÇA Help
+Medidas preventivas imediatas
+EVITAR CONTATO COM O LÍQUIDO. MANTER AS PESSOAS AFASTADAS. CHAMAR OS BOMBEIROS. PARAR O VAZAMENTO, SE
+POSSÍVEL. DESLIGAR AS FONTES DE IGNIÇÍO. FICAR CONTRA O VENTO E USAR NEBLINA D'ÁGUA PARA BAIXAR O VAPOR.
+Equipamentos de Proteção Individual (EPI)
+USAR ROUPA DE PROTEÇÍO TÉRMICA E MÁSCARA DE RESPIRAÇÍO AUTÔNOMA.
+RISCOS AO FOGO Help
+Ações a serem tomadas quando o produto entra em combustão
+INFLAMÁVEL. A CHAMA É QUASE INVISÍVEL. PARAR O FLUXO DE GÁS, SE POSSÍVEL. ESFRIAR OS RECIPIENTES EXPOSTOS,
+COM ÁGUA E UTILIZÁ-LA PARA PROTEGER O HOMEM CONTRA OS EFEITOS DO FOGO. EVACUAR A ÁREA AO REDOR.
+Comportamento do produto no fogo
+QUEIMA, COM UMA CHAMA QUASE INVISÍVEL. O VAPOR PODE EXPLODIR SE A IGNIÇÍO FOR EM ÁREA FECHADA. O
+RETROCESSO DA CHAMA PODE OCORRER, DURANTE O ARRASTE DE VAPOR.
+Produtos perigosos da reação de combustão
+NÍO PERTINENTE.
+Agentes de extinção que não podem ser usados
+DIÓXIDO DE CARBONO.
+Limites de inflamabilidade no ar
+Limite Superior: 75,0%
+Limite Inferior: 4,0%
+Ponto de fulgor
+NÍO PERTINENTE
+Temperatura de ignição
+574,3 °C
+Taxa de queima
+9,9 mm/min
+Taxa de evaporação (éter=1)
+DADO NÍO DISPONÍVEL
+NFPA (National Fire Protection Association)
+Perigo de Saúde (Azul): 0
+Inflamabilidade (Vermelho): 4
+--- PÁGINA 2 ---
+Reatividade (Amarelo): 0
+PROPRIEDADES FÍSICO-QUÍMICAS E AMBIENTAIS Help
+Peso molecular Ponto de ebulição (°C) Ponto de fusão (°C)
+2,0 - 253 - 259,1
+Temperatura crítica (°C) Pressão crítica (atm) Densidade relativa do vapor
+- 240 12,8 0,067
+Densidade relativa do líquido (ou Pressão de vapor Calor latente de vaporização (cal/g)
+sólido) 760 mm Hg A -252,5 °C 105,8
+0,071 A -253 °C (LÍQ.)
+Calor de combustão (cal/g) Viscosidade (cP)
+-27.823 DADO NÍO DISPONÍVEL
+Solubilidade na água pH
+INSOLÚVEL NÍO PERT.
+Reatividade química com água
+A ÁGUA, EM TEMPERATURA AMBIENTE, CAUSARÁ VIGOROSA VAPORIZAÇÍO DO HIDROGÊNIO.
+Reatividade química com materiais comuns
+NENHUMA REAÇÍO QUÍMICA MAS, A BAIXA TEMPERATURA TORNA A MAIORIA DOS MATERIAIS MUITO QUEBRADICOS.
+Polimerização
+NÍO OCORRE.
+Reatividade química com outros materiais
+DADO NÍO DISPONÍVEL.
+Degradabilidade
+PRODUTO VOLÁTIL.
+Potencial de concentração na cadeia alimentar
+NENHUM.
+Demanda bioquímica de oxigênio (DBO)
+NENHUMA.
+Neutralização e disposição final
+LIBERAR PARA A ATMOSFERA, LONGE DE FONTES DE IGNIÇÍO. RECOMENDA-SE O ACOMPANHAMENTO POR UM
+ESPECIALISTA DO ÓRGÍO AMBIENTAL.
+INFORMAÇÕES ECOTOXICOLÓGICAS Help
+Toxicidade - limites e padrões
+L.P.O.: NÍO PERTINENTE
+P.P.: NÍO PERTINENTE
+IDLH: DADO NÍO DISPONÍVEL
+LT: Brasil - Valor Médio 48h: ASFIXIANTE SIMPLES
+LT: Brasil - Valor Teto: ASFIXIANTE SIMPLES
+LT: EUA - TWA: ASFIXIANTE SIMPLES
+LT: EUA - STEL: ASFIXIANTE SIMPLES
+Toxicidade ao homem e animais superiores (vertebrados)
+M.D.T.: DADO NÍO DISPONÍVEL
+M.C.T.: DADO NÍO DISPONÍVEL
+Toxicidade: Espécie: RATO
+Toxicidade: Espécie: CAMUNDONGO
+Toxicidade: Espécie: OUTROS
+Toxicidade aos organismos aquáticos: PEIXES : Espécie
+Toxicidade aos organismos aquáticos: CRUSTÁCEOS : Espécie
+Toxicidade aos organismos aquáticos: ALGAS : Espécie
+Toxicidade a outros organismos: BACTÉRIAS
+Toxicidade a outros organismos: MUTAGENICIDADE
+--- PÁGINA 3 ---
+Toxicidade a outros organismos: OUTROS
+Informações sobre intoxicação humana
+EVITAR CONTATO COM O LÍQUIDO. MANTER AS PESSOAS AFASTADAS. CHAMAR OS BOMBEIROS. PARAR O VAZAMENTO, SE
+POSSÍVEL. DESLIGAR AS FONTES DE IGNIÇÍO. FICAR CONTRA O VENTO E USAR NEBLINA D'ÁGUA PARA BAIXAR O VAPOR.
+Tipo de contato Síndrome tóxica Tratamento
+VAPOR SE INALADO EM ALTAS CONCENTRAÇÕES MOVER PARA O AR FRESCO. SE A
+CAUSARÁ DIFICULDADE RESPIRATÓRIA OU RESPIRAÇÍO PARAR, FAZER RESPIRAÇÍO
+PERDA DA CONSCIÊNCIA. ARTIFICIAL.
+Tipo de contato Síndrome tóxica Tratamento
+LÍQUIDO CAUSARÁ ENREGELAMENTO. LAVAR AS ÁREAS AFETADAS COM MUITA
+ÁGUA. NÍO ESFREGAR AS ÁREAS
+AFETADAS.
+DADOS GERAIS Help
+Temperatura e armazenamento
+- 259,1 °C.
+Ventilação para transporte
+VÁLVULA DE ALIVIO.
+Estabilidade durante o transporte
+ESTÁVEL.
+Usos
+PRODUÇÍO DE AMONÍACO SINTÉTICO E METANOL; REFINAÇÍO DO PETRÓLEO, HIDROGENAÇÍO DE MATERIAIS ORGÂNICOS;
+AGENTE DE REDUÇÍO NA OBTENÇÍO DE METAIS, A PARTIR DOS MINÉRIOS; MAÇARICO OXÍDRICO E DE HIDROGÊNIO
+ATÔMICO. (OBS. 2)
+Grau de pureza
+COMERCIAL.
+Radioatividade
+NÍO TEM.
+Método de coleta
+DADO NÍO DISPONÍVEL.
+Código NAS (National Academy of Sciences)
+NÍO LISTADO
+OBSERVAÇÕES Help
+1) Nº ONU 1049 = HIDROGÊNIO COMPRIMIDO Nº ONU 1966 = HIDROGÊNIO, LÍQUIDO REFRIGERADO. Nº DE RISCO: Nº ONU
+1049 = DADO NÍO DISPONÍVEL. Nº DE RISCO: Nº ONU 1966 = DADO NÍO DISPONÍVEL. Nº DE RISCO PARA O Nº ONU 1049
+É: 23 - GÁS INFLAMÁVEL. GÁS INFLAMÁVEL ( Nº ONU 1049). 2) USOS : OBTENÇÍO DOS ÁCIDOS CLORÍDRICO E
+BROMÍDRICO; PRODUÇÍO DE METAIS DE ELEVADA PUREZA E BALÕES (APESAR DE SER EXPLOSIVO). POTENCIAL DE
+IONIZAÇÍO (PI) = 15,43 eV.

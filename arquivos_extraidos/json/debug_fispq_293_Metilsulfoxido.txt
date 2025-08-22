@@ -1,0 +1,203 @@
+--- PÁGINA 1 ---
+SIGMA-ALDRICH
+FICHA DE DADOS DE SEGURANÇA
+de acordo com a Regulamento (CE) No. 1907/2006
+Versão 3.0 Data de revisão 22.08.2009
+Data de impressão 24.01.2011
+ENERIC EU MSDS - NO COUNTRY SPECIFIC DATA - NO OEL DATA
+1. IDENTIFICAÇÍO DA SUBSTÂNCIA/PREPARAÇÍO E DA SOCIEDADE/EMPRESA
+Nome do produto : Methyl sulfoxide
+Referência do Produto : W387509
+Marca : Aldrich
+Companhia : Sigma-Aldrich Brasil Ltda.
+Av. das Nações Unidas, 23.043
+04795-100 SÍO PAULO - SP
+BRAZIL
+Telefone : +551137323100
+Número de Fax : +551155229895
+Núnero de Telefone de :
+Emergência
+2. IDENTIFICAÇÍO DOS PERIGOS
+Esta substância não é classificada como perigosa de acordo com a Directiva 67/548/CEE.
+3. COMPOSIÇÍO/INFORMAÇÍO SOBRE OS COMPONENTES
+Sinónimos : DMSO
+Methyl sulfoxide
+Dimethyl sulfoxide
+Formula : C2H6OS
+Peso molecular : 78,13 g/mol
+Nº CAS No. CE No. de Index Classificação Concentração
+Dimethyl sulfoxide
+67-68-5 200-664-3 - - -
+4. PRIMEIROS SOCORROS
+Se for inalado
+Se for respirado, levar a pessoa para o ar fresco. Se não respirar, aplicar a respiração artificial.
+No caso dum contacto com a pele
+Lavar com sabão e muita água.
+No caso dum contacto com os olhos
+Lavar os olhos com água como precaução.
+Se for engolido
+Nunca dar nada pela boca a uma pessoa inconsciente. Enxaguar a boca com água.
+5. MEDIDAS DE COMBATE A INCÊNDIO
+Meios adequados de extinção
+Utilizar água pulverizada, espuma resistente ao álcool, produto químico seco ou dióxido de carbono.
+Aldrich - W387509 www.sigma-aldrich.com Página 1 of 5
+--- PÁGINA 2 ---
+Equipamento especial de protecção a utilizar pelo pessoal de combate a incêndio
+Usar equipamento de respiração autónomo para combate a incêndios, se necessário.
+6. MEDIDAS A TOMAR EM CASO DE FUGAS ACIDENTAIS
+Precauções individuais
+Evitar a respiração do vapor/névoa/gas.
+Precauções ambientais
+Não permitir a entrada do produto no sistema de esgotos.
+Métodos de limpeza
+Manter em recipientes fechados adequados, para eliminação.
+7. MANUSEAMENTO E ARMAZENAGEM
+Manuseamento
+Manter afastado de qualquer chama ou fonte de ignição - Não fumar. Tome medidas para impedir a formação
+de electricidade estática.
+Armazenagem
+Armazenar em local fresco. Guardar o recipiente herméticamente fechado em lugar seco e bem ventilado.
+Estocar sob gás inerte. higroscópico
+8. CONTROLO DA EXPOSIÇÍO/PROTECÇÍO PESSOAL
+Protecção individual
+Protecção respiratória
+Não é necessária protecção respiratória. Se desejar protecção, use cartuchos de respiração de
+combinação de multi-objectivos (E.U.A.) ou do tipo ABEK (EN 14387). Use respiradores e componentes
+testados e aprovados por normas governamentais apropriadas, tais como as NIOSH (E.U.A.) ou CEN (UE).
+Protecção das mãos
+Para um contacto prologado ou repetitivo pôr luvas de protecção.
+Protecção dos olhos
+Óculos de protecção com um lado protector de acordo com EN 166
+Medidas de higiene
+Prática geral de higiéne industrial.
+9. PROPRIEDADES FÍSICAS E QUÍMICAS
+Aspecto
+Estado físico líquido, claro
+Cor incolor
+Dados de segurança
+pH dados não disponíveis
+Ponto de fusão 16 - 19 °C - lit.
+Ponto de ebulição 189 °C - lit.
+Ponto de inflamação 87 °C - câmara fechada
+Temperatura de 301 °C
+ignição
+Limites de explosão, 3,5 %(V)
+inferior
+Limite de explosão, 42 %(V)
+Aldrich - W387509 www.sigma-aldrich.com Página 2 of 5
+--- PÁGINA 3 ---
+superior
+Pressão de vapor 0,55 hPa a 20 °C
+Hidrossolubilidade completamente miscível
+Coeficiente de log Pow: -2,03
+epartição n-
+octanol/água
+Densidade relativa 2,70
+do vapor - (Ar = 1.0)
+10. ESTABILIDADE E REACTIVIDADE
+Estabilidade em armazenamento
+Estável sob as condições recomendadas de armazenamento.
+Matérias a evitar
+Cloretos ácidos, Haletos de fósforo, Ácidos fortes, Agentes oxidantes fortes, Agentes redutores fortes
+Produtos de decomposição perigosos
+Produtos perigosos de decomposição formados durante os incêndios. - Óxidos de carbono, Óxidos de enxofre
+Produtos perigosos de decomposição formados durante os incêndios. - A natureza dos produtos de
+decomposição não é conhecida.
+11. INFORMAÇÍO TOXICOLÓGICA
+Toxicidade aguda
+DL50 Oral - ratazana - 14.500 mg/kg
+CL50 Inalação - ratazana - 4 h - 40250 ppm
+DL50 Dérmico - coelho - > 5.000 mg/kg
+Irritação ou corrosão
+Pele - coelho - Leve irritação da pele - 24 h
+Olhos - coelho - Ligeira irritação dos olhos
+Sensibilização
+dados não disponíveis
+Exposição crónica
+Carcinogenicidade - ratazana - Oral
+Oncogenia: Agente oncogénico equívoco segundo os critérios da RTECS. Pele e Anexos: Outros: Tumores.
+Carcinogenicidade - rato - Oral
+Oncogenia: Agente oncogénico equívoco segundo os critérios da RTECS. Leucemia Pele e Anexos: Outros:
+Tumores.
+IARC: Nenhum componente deste produto presente a níveis maiores ou iguais a 0.1% é
+identificado como carcinogénio provável, possível ou confirmado pelo IARC.
+Genotoxicidade in vitro - rato - linfócito
+Análises citogenéticas
+Genotoxicidade in vitro - rato - linfócito
+Mutação de células somáticas de mamíferos.
+Genotoxicidade in vivo - ratazana - intraperitoneal
+Análises citogenéticas
+Genotoxicidade in vivo - rato - intraperitoneal
+Danificação do DNA
+Aldrich - W387509 www.sigma-aldrich.com Página 3 of 5
+--- PÁGINA 4 ---
+Efeitos tóxicos no desenvolvimento - rato - intraperitoneal
+Efeitos no embrião ou no feto: Fetotoxicidade (excepto a morte, por exemplo, atrofia do feto). Malformações
+Específicas do Desenvolvimento: Sistema musculoesquelético
+Toxicidade reprodutiva - ratazana - intraperitoneal
+Efeitos sobra a fertilidade: Aborto
+Toxicidade reprodutiva - ratazana - intraperitoneal
+Efeitos sobre a fertilidade: Mortalidade post-implantação (por exemplo: nº de implantes mortos ou
+reabsorvidos por nº total de implantes)
+Toxicidade reprodutiva - ratazana - Subcutâneo
+Efeitos sobre a fertilidade: Mortalidade post-implantação (por exemplo: nº de implantes mortos ou
+reabsorvidos por nº total de implantes) Efeitos sobre a fertilidade: Tamanho da ninhada (por ex: nº de fetos por
+ninhada, medido antes doparto).
+Toxicidade reprodutiva - rato - Oral
+Efeitos sobre fertilidade: Mortalidade antes da implantação (por exemplo: a redução do número de implantes
+por fêmea; nº total de implantes por corpo lúteo) Efeitos no embrião ou no feto: Fetotoxicidade (excepto a
+morte, por exemplo, atrofia do feto). Malformações Específicas do Desenvolvimento: Sistema
+musculoesquelético
+Efeitos potenciais sobre a saúde
+Inalação Pode ser perigoso se for inalado. Pode causar uma irritação do aparelho
+respiratório.
+Pele Pode ser perigoso se for absorto pela pele. Pode causar uma irritação da pele.
+Olhos Pode causar uma irritação dos olhos.
+Ingestão Pode ser perigoso se for engolido.
+Orgãos alvo Olhos, Pele,
+Informação adicional
+RTECS: PV6210000
+12. INFORMAÇÍO ECOLÓGICA
+Informação sobre eliminação (persistência e degradabilidade)
+dados não disponíveis
+Efeitos de ecotoxicidade
+Toxicidade em CL50 - Pimephales promelas (vairão gordo) - 34.000 mg/l - 96 h
+peixes
+CL50 - Oncorhynchus mykiss (truta arco-íris) - 35.000 mg/l - 96 h
+Toxicidade em CE50 - Daphnia pulex - 27.500 mg/l
+dáfnias e outros
+invertebrados
+aquáticos.
+Toxicidade em algas CE50 - Lepomis macrochirus - > 400.000 mg/l - 96 h
+Informações suplementares sobre a ecologia
+dados não disponíveis
+13. CONSIDERAÇÕES RELATIVAS À ELIMINAÇÍO
+Produto
+Esse material combustível deve ser queimado em um incinerador químico equipado com um pós-combustor e
+purificador de gases. Observar todos os regulamentos ambientais federais, estaduais e locais.
+Embalagens contaminadas
+Eliminar como produto Não utilizado.
+Aldrich - W387509 www.sigma-aldrich.com Página 4 of 5
+--- PÁGINA 5 ---
+14. INFORMAÇÕES RELATIVAS AO TRANSPORTE
+ADR/RID
+Mercadorias não perigosas
+IMDG
+Mercadorias não perigosas
+IATA
+Mercadorias não perigosas
+15. INFORMAÇÍO SOBRE REGULAMENTAÇÍO
+Rotulado de acordo com as directivas da CE
+Outras informações:
+O produto não necessita ser etiquetado de acordo com as directivas EC ou das respectivas leis
+nacionais.
+16. OUTRAS INFORMAÇÕES
+Outras informações
+Direitos exclusivos, 2009, da Sigma-Aldrich. Permissão concedida para fazer número ilimitado de cópias
+em papel, somente para uso interno.
+Acredita-se que as informações acima estejam corretas, embora não pretendam ser totalmente
+abrangentes, devendo ser usadas apenas como um guia. A Sigma-Aldrich não deverá ter responsabilidade
+legal por quaisquer danos resultantes do manuseio ou do contato com o produto acima. Consultar o verso
+da fatura ou nota que acompanha o produto para tomar conhecimento dos termos adicionais e condições
+de venda.
+Aldrich - W387509 www.sigma-aldrich.com Página 5 of 5

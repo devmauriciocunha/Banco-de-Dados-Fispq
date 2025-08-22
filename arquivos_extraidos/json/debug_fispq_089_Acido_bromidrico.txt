@@ -1,0 +1,306 @@
+--- PÁGINA 1 ---
+SIGMA-ALDRICH
+sigma-aldrich.com
+FICHA DE DADOS DE SEGURANÇA
+de acordo com a Regulamento (CE) No. 1907/2006
+Versão 4.0 Data de revisão 02.01.2011
+Data de impressão 19.01.2011
+ENERIC EU MSDS - NO COUNTRY SPECIFIC DATA - NO OEL DATA
+1. IDENTIFICAÇÍO DA SUBSTÂNCIA/MISTURA E DA SOCIEDADE/EMPRESA
+1.1 Identificadores do produto
+Nome do produto : Hydrobromic acid
+Referência do Produto : 18710
+Marca : Sigma-Aldrich
+No. de Index : 035-002-01-8
+No. CAS : 10035-10-6
+1.2 Utilizações relevantes identificadas da substância ou mistura e utilizações desaconselhadas
+Utilizações identificadas : Produtos químicos de laboratório, Fabricação de substâncias
+1.3 Pormenores acerca do fornecedor da ficha de dados de segurança
+Companhia : Sigma-Aldrich Brasil Ltda.
+Av. das Nações Unidas, 23.043
+04795-100 SÍO PAULO - SP
+BRAZIL
+Telefone : +551137323100
+Número de Fax : +551155229895
+1.4 Número de telefone de emergência
+Núnero de Telefone de :
+Emergência
+2. IDENTIFICAÇÍO DOS PERIGOS
+2.1 Classificação da substância ou mistura
+Classification according to Regulation (EC) No 1272/2008 [EU-GHS/CLP]
+Skin corrosion (Category 1B)
+Specific target organ toxicity - single exposure (Category 3)
+Classificação de acordo com as Directivas da EU 67/548/CEE ou 1999/45/CE
+Provoca queimaduras. Irritante para as vias respiratórias.
+2.2 Elementos da etiqueta
+Labelling according Regulation (EC) No 1272/2008 [CLP]
+Pictogram
+Signal word Danger
+Hazard statement(s)
+H314 Causes severe skin burns and eye damage.
+H335 May cause respiratory irritation.
+Precautionary statement(s)
+P261 Avoid breathing dust/ fume/ gas/ mist/ vapours/ spray.
+P280 Wear protective gloves/ protective clothing/ eye protection/ face
+protection.
+P305 + P351 + P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove
+contact lenses, if present and easy to do. Continue rinsing.
+P310 Immediately call a POISON CENTER or doctor/ physician.
+Sigma-Aldrich - 18710 Página 1 de 7
+--- PÁGINA 2 ---
+Supplemental Hazard none
+Statements
+According to European Directive 67/548/EEC as amended.
+Hazard symbol(s)
+R-phrase(s)
+R34 Causes burns.
+R37 Irritating to respiratory system.
+S-phrase(s)
+S 7/9 Keep container tightly closed and in a well-ventilated place.
+S26 In case of contact with eyes, rinse immediately with plenty of water and
+seek medical advice.
+S45 In case of accident or if you feel unwell, seek medical advice immediately
+(show the label where possible).
+2.3 Outros Perigos - nenhum(a)
+3. COMPOSIÇÍO/INFORMAÇÍO SOBRE OS COMPONENTES
+3.1 Substâncias
+Formula : HBr
+Componente Concentração
+Hydrobromic acid
+No. CAS 10035-10-6 >= 48 %
+No. CE 233-113-0
+No. de Index 035-002-01-8
+Water
+No. CAS 7732-18-5 <= 52 %
+No. CE 231-791-2
+4. PRIMEIROS SOCORROS
+4.1 Descrição das medidas de primeiros socorros
+Recomendação geral
+Consultar um médico. Mostrar esta ficha de segurança ao médico de serviço.
+Se for inalado
+Se for respirado, levar a pessoa para o ar fresco. Se não respirar, dar respiração artificial. Consultar um
+médico.
+No caso dum contacto com a pele
+Despir imediatamente a roupa e os sapatos contaminados. Lavar com sabão e muita água. Transportar
+imediatamente paciente para um Hospital. Consultar um médico.
+No caso dum contacto com os olhos
+Lavar cuidadosamente com muita água, durante pelo menos quinze minutos, e consultar o médico.
+Se for engolido
+NÍO provocar vómitos. Nunca dar nada pela boca a uma pessoa inconsciente. Enxaguar a boca com água.
+Consultar um médico.
+4.2 Sintomas e efeitos mais importantes, tanto agudos como retardados
+sensação de queimadura, Tosse, respiração ruidosa, laringite, Respiração superficial, espasmo, inflamação
+e edema da laringe, espasmo, inflamação e edema dos brônquios, pneumonite, edema pulmonar, O
+material é extremamente destrutivo para os tecidos das membranas mucosas e para o trato respiratório
+superior, os olhos e a pele.
+Sigma-Aldrich - 18710 Página 2 de 7
+--- PÁGINA 3 ---
+4.3 Indicação de atenção medical imediata e tratamento especial necessário
+dados não disponíveis
+5. MEDIDAS DE COMBATE A INCÊNDIO
+5.1 Meios de extinção
+Meios adequados de extinção
+Utilizar água pulverizada, espuma resistente ao álcool, produto químico seco ou dióxido de carbono.
+5.2 Perigos especiais decorrentes da substância ou mistura
+Gás bromídrico
+5.3 Recomendações para o pessoal de combate a incêndios
+Usar equipamento de respiração autónomo para combate a incêndios, se necessário.
+5.4 Outras informações
+dados não disponíveis
+6. MEDIDAS A TOMAR EM CASO DE FUGAS ACIDENTAIS
+6.1 Precauções individuais, equipamento de protecção e procedimentos de emergência
+Pôr uma protecção respiratória. Evitar a respiração do vapor/névoa/gas. Assegurar ventilação adequada.
+Evacuar o pessoal para áreas de segurança.
+6.2 Precauções a nível ambiental
+Prevenir dispersão ou derramamento ulterior se for mais seguro assim. Não permitir a entrada do produto
+no sistema de esgotos.
+6.3 Métodos e materiais de confinamento e limpeza
+Embeber em material inerte e absorvente e tratar como desperdício especial. Manter em recipientes
+fechados adequados, para eliminação.
+6.4 Remissão para outras secções
+Para eliminação de resíduos ver secção 13.
+7. MANUSEAMENTO E ARMAZENAGEM
+7.1 Precauções para um manuseamento seguro
+Evitar o contacto com a pele e os olhos. Evitar a inalação do vapor ou da névoa.
+Medidas usuais de protecção preventiva contra incêndio.
+7.2 Condições de armazenagem segura, incluindo eventuais incompatibilidades
+Armazenar em local fresco. Guardar o recipiente herméticamente fechado em lugar seco e bem ventilado.
+Os contentores abertos devem ser cuidadosamente fechados de novo e têm que ficar direitos para evitar a
+dispersão.
+Sensível ao ar e à luz.
+7.3 Utilizações finais específicas
+dados não disponíveis
+8. CONTROLO DA EXPOSIÇÍO/PROTECÇÍO PESSOAL
+8.1 Parâmetros de controlo
+Componentes a controlar com relação ao local de trabalho
+8.2 Controlo da exposição
+Controlos técnicos adequados
+Evitar o contacto com a pele, olhos e vestuário. Lavar as mãos antes de interrupções do trabalho, e
+imediatamente a seguir ao manuseamento do produto.
+Sigma-Aldrich - 18710 Página 3 de 7
+--- PÁGINA 4 ---
+Protecção individual
+Protecção para os olhos/cara
+Óculos de segurança bem ajustados. Proteção da face (mínimo de 8 polegadas (20 cm)). Use
+equipamento de proteção ocular testado e aprovado de acordo com as normas governamentais
+adequadas, tais como NIOSH (US) ou EN 166 (EU).
+Protecção da pele
+Manusear com luvas. As luvas devem ser inspectadas antes da utilização. Use uma técnica
+adequada para a remoção das luvas (sem tocar a superfície exterior da luva) para evitar o contacto
+da pele com o produto. Descarte as luvas contaminadas após o uso, em conformidade com as leis e
+boas práticas de laboratório . Lavar e secar as mãos.
+As luvas de protecção seleccionadas devem satisfazer as especificações da Directiva da UE
+89/689/CEE e a norma EN 374 derivada dela.
+Protecção do corpo
+Fato completo de protecção para produtos químicos, O genero de equipamento de protecção deve
+ser escolhido de acordo com a concentração e a quantidade da substância perigosa no lugar de
+trabalho.
+Protecção respiratória
+Nos casos em que a avaliação de risco mostrar que os respiradores purificadores do ar são
+apropriados, use um respirador de cobertura facial total com cartuchos de combinação multi-
+objectivos (E.U.A.) ou do tipo ABEK (EN 14387) como apoio a controlos de engenharia. Se o
+respirador for o único meio de protecção, usa um respirador de ar de cobertura facial total. Use
+respiradores e componentes testados e aprovados por normas governamentais apropriadas, tais
+como as NIOSH (E.U.A.) ou CEN (UE).
+9. PROPRIEDADES FÍSICAS E QUÍMICAS
+9.1 Informações sobre propriedades físicas e químicas de base
+a) Aspecto Estado físico: líquido
+b) Odor dados não disponíveis
+c) Limiar olfactivo dados não disponíveis
+d) pH dados não disponíveis
+e) Ponto de fusão/ponto dados não disponíveis
+de congelação
+f) Ponto de ebulição inicial 100 °C a 1.013 hPa
+e intervalo de ebulição;
+g) Ponto de inflamação dados não disponíveis
+h) Taxa de evaporação dados não disponíveis
+i) Inflamabilidade (sólido, dados não disponíveis
+gás)
+j) limites de dados não disponíveis
+inflamabilidade superior
+/ inferior ou explosivas
+k) Pressão de vapor 11 hPa a 25 °C
+l) Densidade do vapor 2,79 - (Ar = 1.0)
+m) Densidade relativa 1,49 g/cm3 a 25 °C
+n) Hidrossolubilidade dados não disponíveis
+o) Coeficiente de partição: dados não disponíveis
+n-octanol/água
+p) Temperatura de auto- dados não disponíveis
+ignição
+Sigma-Aldrich - 18710 Página 4 de 7
+--- PÁGINA 5 ---
+q) Temperatura de dados não disponíveis
+decomposição
+r) Viscosidade dados não disponíveis
+s) Propriedades dados não disponíveis
+explosivas
+t) Propriedades oxidantes dados não disponíveis
+9.2 Outra informação de segurança
+dados não disponíveis
+10. ESTABILIDADE E REACTIVIDADE
+10.1 Reactividade
+dados não disponíveis
+10.2 Estabilidade química
+dados não disponíveis
+10.3 Possibilidade de reacções perigosas
+dados não disponíveis
+10.4 Condições a evitar
+dados não disponíveis
+10.5 Materiais incompatíveis
+Agentes oxidantes fortes, Bases fortes, Amoníaco, Ozono, Flúor
+10.6 Produtos de decomposição perigosos
+Outros produtos de decomposição perigosos - dados não disponíveis
+11. INFORMAÇÍO TOXICOLÓGICA
+11.1 Informações sobre os efeitos toxicológicos
+Toxicidade aguda
+dados não disponíveis
+Corrosão/irritação cutânea
+dados não disponíveis
+Lesões oculares graves/irritação ocular
+dados não disponíveis
+Sensibilização respiratória ou cutânea
+dados não disponíveis
+Mutagenicidade em células germinativas
+dados não disponíveis
+Carcinogenicidade
+IARC: Nenhum componente deste produto presente a níveis maiores ou iguais a 0.1% é identificado
+como carcinogénio provável, possível ou confirmado pelo IARC.
+Toxicidade reprodutiva
+dados não disponíveis
+Toxicidade para órgãos-alvo específicos - exposição única
+dados não disponíveis
+Toxicidade para órgãos-alvo específicos - exposição repetida
+dados não disponíveis
+Perigo de aspiração
+dados não disponíveis
+Efeitos potenciais para a saúde
+Sigma-Aldrich - 18710 Página 5 de 7
+--- PÁGINA 6 ---
+Inalação Tóxico se inalado. O material é extremamente destrutivo para os tecidos
+das membranas mucosas e do trato respiratório superior. Causa uma
+irritação no aparelho respiratório.
+Ingestão Pode ser perigoso se for engolido. Provoca queimaduras.
+Pele Pode ser perigoso se for absorto pela pele. Causa queimaduras na pele.
+Olhos Causa queimaduras nos olhos.
+Sinais e sintomas de exposição
+sensação de queimadura, Tosse, respiração ruidosa, laringite, Respiração superficial, espasmo, inflamação
+e edema da laringe, espasmo, inflamação e edema dos brônquios, pneumonite, edema pulmonar, O
+material é extremamente destrutivo para os tecidos das membranas mucosas e para o trato respiratório
+superior, os olhos e a pele.
+Informação adicional
+RTECS: MW3850000
+12. INFORMAÇÍO ECOLÓGICA
+12.1 Toxicidade
+dados não disponíveis
+12.2 Persistência e degradabilidade
+dados não disponíveis
+12.3 Potencial de bioacumulação
+dados não disponíveis
+12.4 Mobilidade no solo
+dados não disponíveis
+12.5 Resultados da avaliação PBT e mpmb
+dados não disponíveis
+12.6 Outros efeitos adversos
+dados não disponíveis
+13. CONSIDERAÇÕES RELATIVAS À ELIMINAÇÍO
+13.1 Métodos de tratamento de resíduos
+Produto
+Propor a entrega de soluções excedentes e não recicláveis a uma empresa idónea de tratamento de
+resíduos. Entrar em contato com um serviço profissional credenciado de descarte de lixo para descartar
+esse material.
+Embalagens contaminadas
+Eliminar como produto Não utilizado.
+14. INFORMAÇÕES RELATIVAS AO TRANSPORTE
+14.1 Número ONU
+ADR/RID: 1788 IMDG: 1788 IATA: 1788
+14.2 Nome apropriado para embarque da ONU
+ADR/RID: HYDROBROMIC ACID
+IMDG: HYDROBROMIC ACID
+IATA: Hydrobromic acid
+14.3 Classificação (classificações) do perigo de transporte
+ADR/RID: 8 IMDG: 8 IATA: 8
+14.4 Grupo de embalagem
+ADR/RID: II IMDG: II IATA: II
+14.5 Perigos para o ambiente
+ADR/RID: no IMDG Poluente marinho: não IATA: não
+Sigma-Aldrich - 18710 Página 6 de 7
+--- PÁGINA 7 ---
+14.6 Precauções especiais para o utilizador
+dados não disponíveis
+15. INFORMAÇÍO SOBRE REGULAMENTAÇÍO
+Esta folha de dados de segurança obedece aos requerimentos da Regulamento (CE) No. 1907/2006
+15.1 Regulamentação/legislação específica para a substância ou mistura em matéria de saúde, segurança
+e ambiente
+dados não disponíveis
+15.2 Avaliação da segurança química
+dados não disponíveis
+16. OUTRAS INFORMAÇÕES
+Outras informações
+Direitos exclusivos, 2010, da Sigma-Aldrich. Permissão concedida para fazer número ilimitado de cópias
+em papel, somente para uso interno.
+Acredita-se que as informações acima estejam corretas, embora não pretendam ser totalmente
+abrangentes, devendo ser usadas apenas como um guia. A Sigma-Aldrich não deverá ter
+responsabilidade legal por quaisquer danos resultantes do manuseio ou do contato com o produto acima.
+Consultar o verso da fatura ou nota que acompanha o produto para tomar conhecimento dos termos
+adicionais e condições de venda.
+Sigma-Aldrich - 18710 Página 7 de 7

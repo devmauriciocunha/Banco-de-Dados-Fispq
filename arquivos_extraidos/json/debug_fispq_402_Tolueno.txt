@@ -1,0 +1,166 @@
+--- PÁGINA 1 ---
+Ficha de Informação de Produto Químico
+IDENTIFICAÇÍO Help
+Número ONU Nome do produto Rótulo de risco
+1294 TOLUENO
+Número de risco Classe / Subclasse
+33 3
+Sinônimos
+METILBENZENO; METILBENZOL; TOLUOL
+Aparência
+LÍQUIDO AQUOSO; SEM COLORAÇÍO; ODOR AGRADÁVEL; FLUTUA NA ÁGUA; PRODUZ VAPOR IRRITANTE E INFLAMÁVEL.
+Fórmula molecular Família química
+C7 H8 HIDROCARBONETO AROMÁTICO
+Fabricantes
+Para informações atualizadas recomenda-se a consulta às seguintes instituições ou referências:
+ABIQUIM - Associação Brasileira da Indústria Química : Fone 0800-118270
+ANDEF - Associação Nacional de Defesa Vegetal: Fone (11) 3081-5033
+Revista Química e Derivados - Guia geral de produtos químicos, Editora QD: Fone (11) 3826-6899
+Programa Agrofit - Ministério da Agricultura
+MEDIDAS DE SEGURANÇA Help
+Medidas preventivas imediatas
+EVITAR CONTATO COM O LÍQUIDO E O VAPOR. MANTER AS PESSOAS AFASTADAS. CHAMAR OS BOMBEIROS. PARAR O
+VAZAMENTO SE POSSÍVEL. ISOLAR E REMOVER O MATERIAL DERRAMADO. DESLIGAR AS FONTES DE IGNIÇÍO. FICAR
+CONTRA O VENTO E USAR NEBLINA D'ÁGUA PARA BAIXAR O VAPOR.
+Equipamentos de Proteção Individual (EPI)
+USAR LUVAS, BOTAS E ROUPAS DE VITON E MÁSCARA FACIAL PANORAMA, COM FILTRO CONTRA VAPORES ORGÂNICOS.
+RISCOS AO FOGO Help
+Ações a serem tomadas quando o produto entra em combustão
+EXTINGUIR COM PÓ QUÍMICO SECO, ESPUMA OU DIÓXIDO DE CARBONO. O VAPOR PODE EXPLODIR SE A IGNIÇÍO FOR EM
+ÁREA FECHADA. ESFRIAR OS RECIPIENTES EXPOSTOS, COM ÁGUA.
+Comportamento do produto no fogo
+O VAPOR É MAIS PESADO QUE O AR. ESTE VAPOR PODE SE DESLOCAR A UMA DISTÂNCIA CONSIDERÁVEL E, CASO HAJA
+CONTATO COM UMA FONTE DE IGNIÇÍO QUALQUER, PODERÁ OCORRER O RETROCESSO DA CHAMA.
+Produtos perigosos da reação de combustão
+NÍO PERTINENTE.
+Agentes de extinção que não podem ser usados
+A ÁGUA PODE SER INEFICAZ.
+Limites de inflamabilidade no ar
+Limite Superior: 7 %
+Limite Inferior: 1,27%
+Ponto de fulgor
+4,4°C (V.FECHADO);12,8°C (V.ABERTO)
+Temperatura de ignição
+536,5 °C
+Taxa de queima
+5,7 mm/min
+Taxa de evaporação (éter=1)
+4,5
+NFPA (National Fire Protection Association)
+Perigo de Saúde (Azul): 2
+Inflamabilidade (Vermelho): 3
+--- PÁGINA 2 ---
+Reatividade (Amarelo): 0
+PROPRIEDADES FÍSICO-QUÍMICAS E AMBIENTAIS Help
+Peso molecular Ponto de ebulição (°C) Ponto de fusão (°C)
+92,14 110,6 -95
+Temperatura crítica (°C) Pressão crítica (atm) Densidade relativa do vapor
+318,6 40,55 NÍO PERTINENTE
+Densidade relativa do líquido (ou Pressão de vapor Calor latente de vaporização (cal/g)
+sólido) 40 mm Hg A 31,8 °C 86,1
+0,867 A 20 °C (LÍQUIDO)
+Calor de combustão (cal/g) Viscosidade (cP)
+-9.686 0,58
+Solubilidade na água pH
+0,05 g/100 mL DE ÁGUA A 20 °C NÍO PERT.
+Reatividade química com água
+NÍO REAGE.
+Reatividade química com materiais comuns
+NÍO REAGE.
+Polimerização
+NÍO OCORRE.
+Reatividade química com outros materiais
+INCOMPATÍVEL COM OXIDANTES FORTES.
+Degradabilidade
+BIODEGRADÁVEL (100% DE REMOÇÍO APÓS 192 HORAS EM ÁGUA SUBTERRÂNEA NATURAL A 13°C).
+Potencial de concentração na cadeia alimentar
+NENHUM.
+Demanda bioquímica de oxigênio (DBO)
+0%5 DIAS;38%(TEOR),8DIAS.
+Neutralização e disposição final
+QUEIMAR EM UM INCINERADOR QUÍMICO EQUIPADO COM PÓS-QUEIMADOR E LAVADOR DE GASES. TOMAR OS DEVIDOS
+CUIDADOS NA IGNIÇÍO, POIS O PRODUTO É ALTAMENTE INFLAMÁVEL. RECOMENDA-SE O ACOMPANHAMENTO POR UM
+ESPECIALISTA DO ÓRGÍO AMBIENTAL.
+INFORMAÇÕES ECOTOXICOLÓGICAS Help
+Toxicidade - limites e padrões
+L.P.O.: 0,17 ppm
+P.P.: 0,17 mg/L
+IDLH: 500 ppm
+LT: Brasil - Valor Médio 48h: 78 ppm
+LT: Brasil - Valor Teto: 117 ppm
+LT: EUA - TWA: 50 ppm (PELE)
+LT: EUA - STEL: NÍO ESTABELECIDO
+Toxicidade ao homem e animais superiores (vertebrados)
+M.D.T.: DADO NÍO DISPONÍVEL (OBS. 1.)
+M.C.T.: SER HUMANO: TCLo = 200 ppm; HOMEM: TCLo = 100 ppm
+Toxicidade: Espécie: RATO
+Via Respiração (CL50): LCLo (4 h) = 4.000 ppm
+Via Oral (DL 50): 5.000 mg/kg
+Via Cutânea (DL 50): LDLo = 800 mg/kg (INTRAP.)
+Toxicidade: Espécie: CAMUNDONGO
+Via Respiração (CL50): (8 h) = 5.320 ppm Via Cutânea (DL 50): 1.120 ug/kg (INTRAP.)
+Toxicidade: Espécie: OUTROS
+Via Cutânea (DL 50): COELHO: 14 g/kg
+Toxicidade aos organismos aquáticos: PEIXES : Espécie
+CARASSIUS AURATUS: DL50 (24 h) = 58 mg/L; TLm (24 - 96 h) =57,7 mg/L; CL50 (96 h) = 22,8 ppm; LEPOMIS
+MACROCHIRUS: TLm (24-96 h) = 24,0 mg/L; POECILIA RETICULATA: CL50 (14 DIAS) = 68 ppm (OBS.2).
+Toxicidade aos organismos aquáticos: CRUSTÁCEOS : Espécie
+PALAEMONETES PUGIO: CL50 (96 h) = 9,5 ppm; CANCER MAGISTER (LARVA DE CARANGUEJO - ESTÁGIO I): CL50 (96 h) =
+28 ppm; CRANGON FRANCISCORUM (CAMARÍO): CL50 (96 h) = 4,3 ppm; DAPHNIA sp: DLo = 60 mg/L.
+Toxicidade aos organismos aquáticos: ALGAS : Espécie
+--- PÁGINA 3 ---
+L.tox T.I.M.C. MICROCYSTIS AERUGINOSA = 105 mg/L; SCENEDESMUS QUADRICAUDA= > 400 mg/L (ALGA VERDE);
+SCENEDESMUS sp: DLo = 120 mg/L; MACROCYSTIS ANGUSTIFOLIA: 75% DE REDUÇÍO NA FOTOSSÍNTESE (96 h) = 10 ppm
+Toxicidade a outros organismos: BACTÉRIAS
+E.COLI: DLo = 200 mg/L; L.tox T.I.M.C. PSEUDOMONAS PUTIDA = 29 mg/L
+Toxicidade a outros organismos: MUTAGENICIDADE
+E.COLI: "dns" = 1 pph; SACCHAROMYCES CEREVISIAE: "cyt" = 2.400 umol/TUBO (OBS.3);
+Toxicidade a outros organismos: OUTROS
+PROTOZOÁRIOS: L.tox T.I.M.C. ENTOSIPHON SULCATUM = 456 mg/L; URONEMA PARDUCZI (CHATTON LWOFF) = > 450
+mg/L (OBS.4).
+Informações sobre intoxicação humana
+EVITAR CONTATO COM O LÍQUIDO E O VAPOR. MANTER AS PESSOAS AFASTADAS. CHAMAR OS BOMBEIROS. PARAR O
+VAZAMENTO SE POSSÍVEL. ISOLAR E REMOVER O MATERIAL DERRAMADO. DESLIGAR AS FONTES DE IGNIÇÍO. FICAR
+CONTRA O VENTO E USAR NEBLINA D'ÁGUA PARA BAIXAR O VAPOR.
+Tipo de contato Síndrome tóxica Tratamento
+VAPOR IRRITANTE PARA OS OLHOS, NARIZ E MOVER PARA O AR FRESCO. SE A
+GARGANTA. SE INALADO CAUSARÁ RESPIRAÇÍO FOR DIFICULTADA OU PARAR,
+NÁUSEA, VÔMITO, DOR DE CABEÇA, DAR OXIGÊNIO OU FAZER RESPIRAÇÍO
+TONTURA, DIFICULDADE RESPIRATÓRIA ARTIFICIAL.
+OU PERDA DA CONSCIÊNCIA.
+Tipo de contato Síndrome tóxica Tratamento
+LÍQUIDO IRRITANTE PARA A PELE. IRRITANTE REMOVER ROUPAS E SAPATOS
+PARA OS OLHOS. SE INGERIDO CAUSARÁ CONTAMINADOS E ENXAGUAR COM MUITA
+NÁUSEA, VÔMITO OU PERDA DA ÁGUA. MANTER AS PÁLPEBRAS ABERTAS E
+CONSCIÊNCIA. ENXAGUAR COM MUITA ÁGUA. NÍO
+PROVOCAR O VÔMITO.
+DADOS GERAIS Help
+Temperatura e armazenamento
+AMBIENTE.
+Ventilação para transporte
+ABERTA OU PRESSÍO A VÁCUO.
+Estabilidade durante o transporte
+ESTÁVEL.
+Usos
+GASOLINA DE AVIAÇÍO E AGENTE DE ELEVAÇÍO DA OCTANAGEM; MATÉRIA-PRIMA PARA BENZENO, FENOL E
+CAPROLACTAMA; SOLVENTE PARA TINTAS E REVESTIMENTOS; GOMAS, RESINAS; BORRACHAS; DILUENTE E SOLVENTE PARA
+LACAS A BASE DE NITROCELULOSE.
+Grau de pureza
+PESQUISA, REAGENTE, NITRAÇÍO:98%; INDUSTRIAL:94% .
+Radioatividade
+NÍO TEM.
+Método de coleta
+MÉTODO 5.
+Código NAS (National Academy of Sciences)
+FOGO SAÚDE POLUIÇÍO DAS ÁGUAS REATIVIDADE
+Fogo: 3 Vapor Irritante: 1 Toxicidade humana: 1 Outros Produtos Químicos: 1
+Líquido/Sólido Irritante: 1 Toxicidade aquática: 3 Água: 0
+Venenos: 2 Efeito estético: 2 Auto reação: 0
+OBSERVAÇÕES Help
+1) IRRITAÇÍO AO OLHO HUMANO: 300 ppm; HOMEM: EFEITOS TÓXICOS SEVEROS: 1.000 ppm = 3.830 mg/m³, 60 min;
+SINTOMAS DE MAL ESTAR: 300 ppm = 1.149 mg/m³ INSATISFATÓRIO: > 100 ppm = 383 mg/m³. 2) LEPOMIS HUMILIS: TLm
+(96 h) = 1.180 mg/L - ÁGUA CONTINENTAL GAMBUSIA AFFINIS : TLm (24 - 96 h) = 1.340 - 1.280 mg/L - ÁGUAS TURVAS
+OKLAHOMA; LEBISTES sp: TLm (24 - 96 h) = 63 - 59 mg/L. 3) MUTAGÊNICOS: RATO: "dnd" = 30 umol/L (FÍGADO) "cyt" = 12
+g/kg/12 DIAS (SUBCUT.EXPOSIÇÍO INTERMITANTE) "cyt" = 610 mg/m³/16 SEMANAS (INALAÇÍO, EXPOSIÇÍO
+INTERMITENTE). 4) OUTROS: PROTOZOÁRIOS: TETRAHYMENA PYRIFORMIS: CL100 (24 h) = 5,97 mmol/L. TAXA DE
+TOXICIDADE AOS ORGANISMOS AQUÁTICOS: TLm (96 h) = 10 ppm - 100 ppm POTENCIAL DE IONIZAÇÍO (PI) = 8,82 eV

@@ -1,0 +1,289 @@
+--- PÁGINA 1 ---
+SIGMA-ALDRICH
+sigma-aldrich.com
+FICHA DE DADOS DE SEGURANÇA
+de acordo com a Regulamento (CE) No. 1907/2006
+Versão 4.0 Data de revisão 03.01.2011
+Data de impressão 24.01.2011
+ENERIC EU MSDS - NO COUNTRY SPECIFIC DATA - NO OEL DATA
+1. IDENTIFICAÇÍO DA SUBSTÂNCIA/MISTURA E DA SOCIEDADE/EMPRESA
+1.1 Identificadores do produto
+Nome do produto : (3-Glycidyloxypropyl) trimethoxysilane
+Referência do Produto : 440167
+Marca : Aldrich
+No. CAS : 2530-83-8
+1.2 Utilizações relevantes identificadas da substância ou mistura e utilizações desaconselhadas
+Utilizações identificadas : Produtos químicos de laboratório, Fabricação de substâncias
+1.3 Pormenores acerca do fornecedor da ficha de dados de segurança
+Companhia : Sigma-Aldrich Brasil Ltda.
+Av. das Nações Unidas, 23.043
+04795-100 SÍO PAULO - SP
+BRAZIL
+Telefone : +551137323100
+Número de Fax : +551155229895
+1.4 Número de telefone de emergência
+Núnero de Telefone de :
+Emergência
+2. IDENTIFICAÇÍO DOS PERIGOS
+2.1 Classificação da substância ou mistura
+Classification according to Regulation (EC) No 1272/2008 [EU-GHS/CLP]
+Eye irritation (Category 2)
+Esta substância não é classificada como perigosa de acordo com a Directiva 67/548/CEE.
+2.2 Elementos da etiqueta
+Labelling according Regulation (EC) No 1272/2008 [CLP]
+Pictogram
+Signal word Warning
+Hazard statement(s)
+H319 Causes serious eye irritation.
+Precautionary statement(s)
+P305 + P351 + P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove
+contact lenses, if present and easy to do. Continue rinsing.
+Supplemental Hazard none
+Statements
+2.3 Outros Perigos - nenhum(a)
+3. COMPOSIÇÍO/INFORMAÇÍO SOBRE OS COMPONENTES
+3.1 Substâncias
+Sinónimos : Glycidyl 3-(trimethoxysilyl)propyl ether
+Aldrich - 440167 Página 1 de 7
+--- PÁGINA 2 ---
+3-(2,3-Epoxypropoxy)propyltrimethoxysilane
+GLYMO
+Dow Corning® product Z-6040
+Formula : C9H20O5Si
+Peso molecular : 236,34 g/mol
+Componente Concentração
+[3-(2,3-Epoxypropoxy)propyl]trimethoxysilane
+No. CAS 2530-83-8 -
+No. CE 219-784-2
+4. PRIMEIROS SOCORROS
+4.1 Descrição das medidas de primeiros socorros
+Recomendação geral
+Consultar um médico. Mostrar esta ficha de segurança ao médico de serviço.
+Se for inalado
+Se for respirado, levar a pessoa para o ar fresco. Se não respirar, dar respiração artificial. Consultar um
+médico.
+No caso dum contacto com a pele
+Lavar com sabão e muita água. Consultar um médico.
+No caso dum contacto com os olhos
+Lavar cuidadosamente com muita água, durante pelo menos quinze minutos, e consultar o médico.
+Se for engolido
+Nunca dar nada pela boca a uma pessoa inconsciente. Enxaguar a boca com água. Consultar um médico.
+4.2 Sintomas e efeitos mais importantes, tanto agudos como retardados
+O material pode formar um polímero de siloxano sobre a pele, nos olhos ou nos pulmões. Em caso de
+contato direto do líquido com esses tecidos, procurar auxílio médico., Até onde sabemos, as propriedades
+químicas, físicas e toxicológicas não foram minuciosamente investigadas.
+4.3 Indicação de atenção medical imediata e tratamento especial necessário
+dados não disponíveis
+5. MEDIDAS DE COMBATE A INCÊNDIO
+5.1 Meios de extinção
+Meios adequados de extinção
+Utilizar água pulverizada, espuma resistente ao álcool, produto químico seco ou dióxido de carbono.
+5.2 Perigos especiais decorrentes da substância ou mistura
+Óxidos de carbono, óxidos de silicone
+5.3 Recomendações para o pessoal de combate a incêndios
+Usar equipamento de respiração autónomo para combate a incêndios, se necessário.
+5.4 Outras informações
+dados não disponíveis
+6. MEDIDAS A TOMAR EM CASO DE FUGAS ACIDENTAIS
+6.1 Precauções individuais, equipamento de protecção e procedimentos de emergência
+Usar equipamento de protecção individual. Evitar a respiração do vapor/névoa/gas. Assegurar ventilação
+adequada.
+6.2 Precauções a nível ambiental
+Prevenir dispersão ou derramamento ulterior se for mais seguro assim. Não permitir a entrada do produto
+no sistema de esgotos. A descarga no meio ambiente deve ser evitada.
+Aldrich - 440167 Página 2 de 7
+--- PÁGINA 3 ---
+6.3 Métodos e materiais de confinamento e limpeza
+Embeber em material inerte e absorvente e tratar como desperdício especial. Manter em recipientes
+fechados adequados, para eliminação.
+6.4 Remissão para outras secções
+Para eliminação de resíduos ver secção 13.
+7. MANUSEAMENTO E ARMAZENAGEM
+7.1 Precauções para um manuseamento seguro
+Evitar o contacto com a pele e os olhos. Evitar a inalação do vapor ou da névoa.
+Medidas usuais de protecção preventiva contra incêndio.
+7.2 Condições de armazenagem segura, incluindo eventuais incompatibilidades
+Armazenar em local fresco. Guardar o recipiente herméticamente fechado em lugar seco e bem ventilado.
+Os contentores abertos devem ser cuidadosamente fechados de novo e têm que ficar direitos para evitar a
+dispersão.
+7.3 Utilizações finais específicas
+dados não disponíveis
+8. CONTROLO DA EXPOSIÇÍO/PROTECÇÍO PESSOAL
+8.1 Parâmetros de controlo
+Componentes a controlar com relação ao local de trabalho
+8.2 Controlo da exposição
+Controlos técnicos adequados
+Manusear de acordo com as boas práticas industriais de higiene e segurança. Lavar as mãos antes de
+interrupções, e no final do dia de trabalho.
+Protecção individual
+Protecção para os olhos/cara
+Óculos de protecção com um lado protector de acordo com EN 166 Use equipamento de proteção
+ocular testado e aprovado de acordo com as normas governamentais adequadas, tais como NIOSH
+(US) ou EN 166 (EU).
+Protecção da pele
+Manusear com luvas. As luvas devem ser inspectadas antes da utilização. Use uma técnica
+adequada para a remoção das luvas (sem tocar a superfície exterior da luva) para evitar o contacto
+da pele com o produto. Descarte as luvas contaminadas após o uso, em conformidade com as leis e
+boas práticas de laboratório . Lavar e secar as mãos.
+As luvas de protecção seleccionadas devem satisfazer as especificações da Directiva da UE
+89/689/CEE e a norma EN 374 derivada dela.
+Protecção do corpo
+roupas impermeáveis, O genero de equipamento de protecção deve ser escolhido de acordo com a
+concentração e a quantidade da substância perigosa no lugar de trabalho.
+Protecção respiratória
+Nos casos em que a avaliação de risco mostrar que os respiradores purificadores do ar são
+apropriados, use um respirador de cobertura facial total com cartuchos de combinação multi-
+objectivos (E.U.A.) ou do tipo ABEK (EN 14387) como apoio a controlos de engenharia. Se o
+respirador for o único meio de protecção, usa um respirador de ar de cobertura facial total. Use
+respiradores e componentes testados e aprovados por normas governamentais apropriadas, tais
+como as NIOSH (E.U.A.) ou CEN (UE).
+9. PROPRIEDADES FÍSICAS E QUÍMICAS
+9.1 Informações sobre propriedades físicas e químicas de base
+a) Aspecto Estado físico: líquido
+Cor: incolor
+Aldrich - 440167 Página 3 de 7
+--- PÁGINA 4 ---
+b) Odor dados não disponíveis
+c) Limiar olfactivo dados não disponíveis
+d) pH dados não disponíveis
+e) Ponto de fusão/ponto dados não disponíveis
+de congelação
+f) Ponto de ebulição inicial 120 °C a 3 hPa - lit.
+e intervalo de ebulição;
+g) Ponto de inflamação 135 °C - câmara fechada
+h) Taxa de evaporação dados não disponíveis
+i) Inflamabilidade (sólido, dados não disponíveis
+gás)
+j) limites de Limites de explosão, inferior: 0,43 %(V)
+inflamabilidade superior
+/ inferior ou explosivas
+k) Pressão de vapor dados não disponíveis
+l) Densidade do vapor dados não disponíveis
+m) Densidade relativa 1,07 g/cm3 a 25 °C
+n) Hidrossolubilidade dados não disponíveis
+o) Coeficiente de partição: log Pow: -0,854
+n-octanol/água
+p) Temperatura de auto- dados não disponíveis
+ignição
+q) Temperatura de dados não disponíveis
+decomposição
+r) Viscosidade dados não disponíveis
+s) Propriedades dados não disponíveis
+explosivas
+t) Propriedades oxidantes dados não disponíveis
+9.2 Outra informação de segurança
+dados não disponíveis
+10. ESTABILIDADE E REACTIVIDADE
+10.1 Reactividade
+dados não disponíveis
+10.2 Estabilidade química
+dados não disponíveis
+10.3 Possibilidade de reacções perigosas
+dados não disponíveis
+10.4 Condições a evitar
+dados não disponíveis
+10.5 Materiais incompatíveis
+ácidos, Bases, Oxidantes
+10.6 Produtos de decomposição perigosos
+Reage com a água para formar: - Libertação de metanol durante o processo e por reação com a água.
+Aldrich - 440167 Página 4 de 7
+--- PÁGINA 5 ---
+11. INFORMAÇÍO TOXICOLÓGICA
+11.1 Informações sobre os efeitos toxicológicos
+Toxicidade aguda
+DL50 Oral - ratazana - 8.030 mg/kg
+DL50 Dérmico - coelho - 4.248 mg/kg
+Corrosão/irritação cutânea
+Lesões oculares graves/irritação ocular
+Olhos - coelho - Ligeira irritação dos olhos
+Sensibilização respiratória ou cutânea
+dados não disponíveis
+Mutagenicidade em células germinativas
+dados não disponíveis
+Carcinogenicidade
+IARC: Nenhum componente deste produto presente a níveis maiores ou iguais a 0.1% é identificado
+como carcinogénio provável, possível ou confirmado pelo IARC.
+Toxicidade reprodutiva
+dados não disponíveis
+Toxicidade para órgãos-alvo específicos - exposição única
+dados não disponíveis
+Toxicidade para órgãos-alvo específicos - exposição repetida
+dados não disponíveis
+Perigo de aspiração
+dados não disponíveis
+Efeitos potenciais para a saúde
+Inalação Pode ser perigoso se for inalado. Pode causar uma irritação do aparelho
+respiratório.
+Ingestão Pode ser perigoso se for engolido.
+Pele Pode ser perigoso se for absorto pela pele. Pode causar uma irritação da
+pele.
+Olhos Causa uma irritação nos olhos.
+Sinais e sintomas de exposição
+O material pode formar um polímero de siloxano sobre a pele, nos olhos ou nos pulmões. Em caso de
+contato direto do líquido com esses tecidos, procurar auxílio médico., Até onde sabemos, as propriedades
+químicas, físicas e toxicológicas não foram minuciosamente investigadas.
+Informação adicional
+RTECS: VV4025000
+12. INFORMAÇÍO ECOLÓGICA
+12.1 Toxicidade
+Toxicidade em peixes CL50 - Cyprinus carpio (Carpa) - 55 mg/l - 96 h
+CL0 - Cyprinus carpio (Carpa) - 30 mg/l - 96 h
+Toxicidade em dáfnias e CE50 - Daphnia magna - 473 mg/l - 48 h
+outros invertebrados
+aquáticos.
+Toxicidade em algas CE50 - Desmodesmus subspicatus (alga verde) - 255 mg/l - 72 h
+12.2 Persistência e degradabilidade
+dados não disponíveis
+Aldrich - 440167 Página 5 de 7
+--- PÁGINA 6 ---
+12.3 Potencial de bioacumulação
+dados não disponíveis
+12.4 Mobilidade no solo
+dados não disponíveis
+12.5 Resultados da avaliação PBT e mpmb
+dados não disponíveis
+12.6 Outros efeitos adversos
+Perigoso para os organismos aquáticos.
+dados não disponíveis
+13. CONSIDERAÇÕES RELATIVAS À ELIMINAÇÍO
+13.1 Métodos de tratamento de resíduos
+Produto
+Propor a entrega de soluções excedentes e não recicláveis a uma empresa idónea de tratamento de
+resíduos. Entrar em contato com um serviço profissional credenciado de descarte de lixo para descartar
+esse material.
+Embalagens contaminadas
+Eliminar como produto Não utilizado.
+14. INFORMAÇÕES RELATIVAS AO TRANSPORTE
+14.1 Número ONU
+ADR/RID: - IMDG: - IATA: -
+14.2 Nome apropriado para embarque da ONU
+ADR/RID: Not dangerous goods
+IMDG: Mercadorias não perigosas
+IATA: Mercadorias não perigosas
+14.3 Classificação (classificações) do perigo de transporte
+ADR/RID: - IMDG: - IATA: -
+14.4 Grupo de embalagem
+ADR/RID: - IMDG: - IATA: -
+14.5 Perigos para o ambiente
+ADR/RID: no IMDG Poluente marinho: não IATA: não
+14.6 Precauções especiais para o utilizador
+dados não disponíveis
+15. INFORMAÇÍO SOBRE REGULAMENTAÇÍO
+Esta folha de dados de segurança obedece aos requerimentos da Regulamento (CE) No. 1907/2006
+15.1 Regulamentação/legislação específica para a substância ou mistura em matéria de saúde, segurança
+e ambiente
+dados não disponíveis
+15.2 Avaliação da segurança química
+dados não disponíveis
+16. OUTRAS INFORMAÇÕES
+Outras informações
+Direitos exclusivos, 2011, da Sigma-Aldrich. Permissão concedida para fazer número ilimitado de cópias
+em papel, somente para uso interno.
+Acredita-se que as informações acima estejam corretas, embora não pretendam ser totalmente
+abrangentes, devendo ser usadas apenas como um guia. A Sigma-Aldrich não deverá ter
+responsabilidade legal por quaisquer danos resultantes do manuseio ou do contato com o produto acima.
+Aldrich - 440167 Página 6 de 7
+--- PÁGINA 7 ---
+Consultar o verso da fatura ou nota que acompanha o produto para tomar conhecimento dos termos
+adicionais e condições de venda.
+Aldrich - 440167 Página 7 de 7

@@ -1,0 +1,245 @@
+--- PÁGINA 1 ---
+SIGMA-ALDRICH
+sigma-aldrich.com
+FICHA DE DADOS DE SEGURANÇA
+de acordo com a Regulamento (CE) No. 1907/2006
+Versão 4.1 Data de revisão 09.09.2010
+Data de impressão 20.01.2011
+ENERIC EU MSDS - NO COUNTRY SPECIFIC DATA - NO OEL DATA
+1. IDENTIFICAÇÍO DA SUBSTÂNCIA/MISTURA E DA SOCIEDADE/EMPRESA
+Nome do produto : Calcium hydride
+Referência do Produto : 213268
+Marca : Sigma-Aldrich
+Companhia : Sigma-Aldrich Brasil Ltda.
+Av. das Nações Unidas, 23.043
+04795-100 SÍO PAULO - SP
+BRAZIL
+Telefone : +551137323100
+Número de Fax : +551155229895
+Núnero de Telefone de :
+Emergência
+2. IDENTIFICAÇÍO DOS PERIGOS
+Classificação da substância ou mistura
+Nos termos do Regulamento (CE) No1272/2008
+Substâncias que, em contacto com a água, libertam gases inflamáveis (Categoria 1)
+De acordo com a directiva Europeia 67/548/CEE, e emendas.
+Em contacto com a água liberta gases extremamente inflamáveis.
+Elementos da etiqueta
+Pictograma
+Palavra-sinal Perigo
+Declaração de perigo
+H260 Em contacto com a água liberta gases que se podem inflamar
+espontaneamente.
+declaração de precaução
+P223 Não deixar entrar em contacto com a água: risco de reacção violenta e
+possibilidade de formação de chama súbita.
+P231 + P232 Manusear em atmosfera de gás inerte. Manter ao abrigo da humidade.
+P370 + P378 Em caso de incêndio: Utilizar areia seca, um produto químico seco ou
+espuma resistente ao álcool para a extinção.
+P422 Armazenar o conteúdo sob gás inerte.
+símbolo de perigosidade
+F Facilmente inflamável
+Frase(s) - R
+R15 Em contacto com a água liberta gases extremamente inflamáveis.
+Frase(s) - S
+S 7/8 Conservar o recipiente bem fechado e ao abrigo da humidade.
+S24/25 Evitar o contacto com a pele e os olhos.
+S43 Em caso de incêndio, usar pó seco. Nunca usar água.
+Outros Perigos - nenhum(a)
+Sigma-Aldrich - 213268 Página 1 de 6
+--- PÁGINA 2 ---
+3. COMPOSIÇÍO/INFORMAÇÍO SOBRE OS COMPONENTES
+Formula : H2Ca
+Peso molecular : 42,09 g/mol
+No. CAS No. CE No. de Index Classificação Concentração
+Calcium Hydride
+7789-78-8 232-189-2 001-004-00-5 Water-react 1; H260 -
+F, R15
+Para o pleno texto das DECLARAÇÕES H mencionadas nesta Secção, ver a Secção 16.
+4. PRIMEIROS SOCORROS
+Recomendação geral
+Consultar um médico. Mostrar esta ficha de segurança ao médico de serviço.
+Se for inalado
+Se for respirado, levar a pessoa para o ar fresco. Se não respirar, dar respiração artificial. Consultar um
+médico.
+No caso dum contacto com a pele
+Lavar com sabão e muita água. Consultar um médico.
+No caso dum contacto com os olhos
+Lavar os olhos com água como precaução.
+Se for engolido
+Nunca dar nada pela boca a uma pessoa inconsciente. Enxaguar a boca com água. Consultar um médico.
+5. MEDIDAS DE COMBATE A INCÊNDIO
+Meios adequados de extinção
+Dióxido de carbono (CO2) Pó seco
+Meios de extinção que, por razões de segurança, não devam ser utilizados
+Água
+Equipamento especial de protecção a utilizar pelo pessoal de combate a incêndio
+Usar equipamento de respiração autónomo para combate a incêndios, se necessário.
+6. MEDIDAS A TOMAR EM CASO DE FUGAS ACIDENTAIS
+Precauções individuais
+Evitar a formação de poeira. Evitar a respiração do vapor/névoa/gas. Assegurar ventilação adequada.
+Evacuar o pessoal para áreas de segurança.
+Precauções a nível ambiental
+Prevenir dispersão ou derramamento ulterior se for mais seguro assim. Não permitir a entrada do produto no
+sistema de esgotos.
+Métodos e materiais de confinamento e limpeza
+Varrer e apanhar com uma pá. Controlar e recuperar o líquido derramado com aspirador protegido
+electricamente ou varrer a seco e por o líquido dentro de contentores para a eliminação de acordo com as
+regulações locais (ver secção 13). Não utilizar jactos de água. Manter em recipientes fechados adequados,
+para eliminação.
+7. MANUSEAMENTO E ARMAZENAGEM
+Precauções para um manuseamento seguro
+Providenciar uma adequada ventilação em locais onde se formem poeiras. Manter afastado de qualquer
+chama ou fonte de ignição - Não fumar.
+Sigma-Aldrich - 213268 Página 2 de 6
+--- PÁGINA 3 ---
+Condições para uma armazenagem segura
+Guardar o recipiente herméticamente fechado em lugar seco e bem ventilado. Armazenar em local fresco.
+Nunca permitir que o produto contacte com a água durante o armazenamento.
+8. CONTROLO DA EXPOSIÇÍO/PROTECÇÍO PESSOAL
+Protecção individual
+Protecção respiratória
+Nos casos em que a avaliação de risco mostrar que os respiradores purificadores do ar são apropriados,
+use um respirador de partículas do tipo N100 (E.U.A.) ou cartuchos de respiração do tipo P2 (EN 143)
+como apoio a controlos de engenharia. Se o respirador for o único meio de protecção, usa um respirador
+de ar de cobertura facial total. Use respiradores e componentes testados e aprovados por normas
+governamentais apropriadas, tais como as NIOSH (E.U.A.) ou CEN (UE).
+Protecção das mãos
+Manusear com luvas. As luvas devem ser inspectadas antes da utilização. Use uma técnica adequada
+para a remoção das luvas (sem tocar a superfície exterior da luva) para evitar o contacto da pele com o
+produto. Descarte as luvas contaminadas após o uso, em conformidade com as leis e boas práticas de
+laboratório . Lavar e secar as mãos.
+As luvas de protecção seleccionadas devem satisfazer as especificações da Directiva da UE 89/689/CEE
+e a norma EN 374 derivada dela.
+Protecção dos olhos
+Óculos de protecção com um lado protector de acordo com EN 166 Use equipamento de proteção ocular
+testado e aprovado de acordo com as normas governamentais adequadas, tais como NIOSH (US) ou EN
+166 (EU).
+Protecção do corpo e da pele
+Vestuário protector retardador de chama, O genero de equipamento de protecção deve ser escolhido de
+acordo com a concentração e a quantidade da substância perigosa no lugar de trabalho.
+Medidas de higiene
+Manusear de acordo com as boas práticas industriais de higiene e segurança. Lavar as mãos antes de
+interrupções, e no final do dia de trabalho.
+9. PROPRIEDADES FÍSICAS E QUÍMICAS
+Aspecto
+Estado físico pó
+Cor cinzento-claro
+Odor inodoro
+Dados de segurança
+pH dados não disponíveis
+Ponto de fusão 190 °C - lit.
+Ponto de ebulição 600 °C a 1.013 hPa
+Ponto de inflamação não aplicável
+Temperatura de > 300 °C -
+ignição
+Limites de explosão, dados não disponíveis
+inferior
+Limite de explosão, dados não disponíveis
+superior
+Densidade 1,900 g/cm3
+Hidrossolubilidade dados não disponíveis
+Sigma-Aldrich - 213268 Página 3 de 6
+--- PÁGINA 4 ---
+10. ESTABILIDADE E REACTIVIDADE
+Estabilidade química
+Estável sob as condições recomendadas de armazenamento.
+Possibilidade de reacções perigosas
+Reage violentamente em contacto com a água.
+Condições a evitar
+Não permitir que entre água no recipiente o que pode provocar uma reação violenta. Ar
+Exposição à humidade.
+Matérias a evitar
+Alcoois, Oxidantes, ácidos
+Produtos de decomposição perigosos
+Produtos perigosos de decomposição formados durante os incêndios. - Óxido de cálcio
+Reage com a água para formar: - Gás hidrogênio
+Decomposição térmica
+600 °C
+11. INFORMAÇÍO TOXICOLÓGICA
+Toxicidade aguda
+dados não disponíveis
+Corrosão/irritação cutânea
+dados não disponíveis
+Lesões oculares graves/irritação ocular
+dados não disponíveis
+Sensibilização respiratória ou cutânea
+dados não disponíveis
+Mutagenicidade em células germinativas
+dados não disponíveis
+Carcinogenicidade
+IARC: Nenhum componente deste produto presente a níveis maiores ou iguais a 0.1% é identificado como
+carcinogénio provável, possível ou confirmado pelo IARC.
+Toxicidade reprodutiva
+dados não disponíveis
+Toxicidade para órgãos-alvo específicos - exposição única
+dados não disponíveis
+Toxicidade para órgãos-alvo específicos - exposição repetida
+dados não disponíveis
+Perigo de aspiração
+dados não disponíveis
+Efeitos potenciais para a saúde
+Inalação Pode ser perigoso se for inalado. Pode causar uma irritação do aparelho
+respiratório.
+Ingestão Pode ser perigoso se for engolido.
+Pele Pode ser perigoso se for absorto pela pele. Pode causar uma irritação da pele.
+Olhos Pode causar uma irritação dos olhos.
+Sinais e sintomas de exposição
+Tosse, Respiração superficial, Dor de cabeça, Náusea, Vómitos
+Informação adicional
+RTECS: dados não disponíveis
+Sigma-Aldrich - 213268 Página 4 de 6
+--- PÁGINA 5 ---
+12. INFORMAÇÍO ECOLÓGICA
+Toxicidade
+dados não disponíveis
+Persistência e degradabilidade
+dados não disponíveis
+Potencial de bioacumulação
+dados não disponíveis
+Mobilidade no solo
+dados não disponíveis
+Avaliação PBT e mPmB
+dados não disponíveis
+Outros efeitos adversos
+dados não disponíveis
+13. CONSIDERAÇÕES RELATIVAS À ELIMINAÇÍO
+Produto
+Queimar em um incinerador químico equipado com pós-combustor e purificador de gases, mas tomar
+precauções adicionais ao colocar esse material em ignição, visto que é altamente inflamável. Propor a
+entrega de soluções excedentes e não recicláveis a uma empresa idónea de tratamento de resíduos. Entrar
+em contato com um serviço profissional credenciado de descarte de lixo para descartar esse material.
+Embalagens contaminadas
+Eliminar como produto Não utilizado.
+14. INFORMAÇÕES RELATIVAS AO TRANSPORTE
+ADR/RID
+Número ONU: 1404 Classe: 4.3 Grupo de embalagem: I
+Designação oficial de transporte da ONU: HIDRETO DE CÁLCIO
+IMDG
+Número ONU: 1404 Classe: 4.3 Grupo de embalagem: I EMS-No:
+F-G, S-O
+Designação oficial de transporte da ONU: CALCIUM HYDRIDE
+Poluente marinho: No
+IATA
+Número ONU: 1404 Classe: 4.3 Grupo de embalagem: I
+Designação oficial de transporte da ONU: Calcium hydride
+IATA Passenger: Não permitido para o transporte
+15. INFORMAÇÍO SOBRE REGULAMENTAÇÍO
+Esta folha de dados de segurança obedece aos requerimentos da Regulamento (CE) No. 1907/2006
+16. OUTRAS INFORMAÇÕES
+Texto dos código(s) H e frase(s) R mencionados na secção 3
+H260 Em contacto com a água liberta gases que se podem inflamar espontaneamente.
+Water-react Substâncias que, em contacto com a água, libertam gases inflamáveis
+F Facilmente inflamável
+R15 Em contacto com a água liberta gases extremamente inflamáveis.
+Outras informações
+Direitos exclusivos, 2010, da Sigma-Aldrich. Permissão concedida para fazer número ilimitado de cópias
+em papel, somente para uso interno.
+Sigma-Aldrich - 213268 Página 5 de 6
+--- PÁGINA 6 ---
+Acredita-se que as informações acima estejam corretas, embora não pretendam ser totalmente
+abrangentes, devendo ser usadas apenas como um guia. A Sigma-Aldrich não deverá ter responsabilidade
+legal por quaisquer danos resultantes do manuseio ou do contato com o produto acima. Consultar o verso
+da fatura ou nota que acompanha o produto para tomar conhecimento dos termos adicionais e condições
+de venda.
+Sigma-Aldrich - 213268 Página 6 de 6

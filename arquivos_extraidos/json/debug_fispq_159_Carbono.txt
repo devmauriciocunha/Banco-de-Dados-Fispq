@@ -1,0 +1,240 @@
+--- PÁGINA 1 ---
+SIGMA-ALDRICH
+MATERIAL SAFETY DATA SHEET
+Date Printed: 06/18/2010
+Date Updated: 02/02/2009
+Version 1.11
+Section 1 - Product and Company Information
+Product Name CARBON, GLASSY, SPHERICAL POWDER, 2-12
+MICRON, 99.95% METALS BASIS
+Product Number 484164
+Brand ALDRICH
+Company Sigma-Aldrich Brasil Ltda.
+Address Av. das Nações Unidas, 23.043
+São Paulo SP 04795-100 BR
+Technical Phone: 55 11 3732 3100
+Fax: 55 11 5522 9895
+Section 2 - Composition/Information on Ingredient
+Substance Name CAS # SARA 313
+CARBON 7440-44-0 No
+Formula C
+Synonyms Acticarbone * AG 3 (Adsorbent) * AG 5 * AG 5
+(Adsorbent) * AK (Adsorbent) * Amoco PX 21 *
+Anthrasorb * AR 3 * ART 2 * AU 3 * BAU * BG 6080
+* Colgon BPL * Colgon PCB-D * Colgon PCB 12X30 *
+Canesorb * Carbon-12 * Carbopol Extra * Carbopol
+M * Carbopol Z 4 * Carbopol Z Extra * Carbosieve
+* Carbosorbit R * Cecarbon * CF 8 * CF 8 (Carbon)
+* CLF II * CMB 50 * CMB 200 * Coke powder *
+Columbia LCK * CUZ 3 * CWN 2 * Darco * Filtrasorb
+* Filtrasorb 200 * Filtrasorb 400 * Grosafe *
+Hydrodarco * Irgalite 1104 * Jado * K 257 * MA
+100 (Carbon) * Norit * Nuchar * OU-B * Pelikan C
+11/1431a * SKG * SKT * SKT (adsorbent) * SU 2000
+* Suchar 681 * Supersorbon IV * Supersorbon S 1 *
+U 02 * Watercarb * Witcarb 940 * XE 340 * XF 4175L
+RTECS Number: FF5250100
+Section 3 - Hazards Identification
+EMERGENCY OVERVIEW
+Caution: Avoid contact and inhalation.
+HMIS RATING
+HEALTH: 0
+FLAMMABILITY: 0
+REACTIVITY: 0
+NFPA RATING
+HEALTH: 0
+FLAMMABILITY: 0
+REACTIVITY: 0
+For additional information on toxicity, please refer to Section 11.
+--- PÁGINA 2 ---
+Section 4 - First Aid Measures
+ORAL EXPOSURE
+If swallowed, wash out mouth with water provided person is
+conscious. Call a physician.
+INHALATION EXPOSURE
+If inhaled, remove to fresh air. If breathing becomes difficult,
+call a physician.
+DERMAL EXPOSURE
+In case of contact, immediately wash skin with soap and copious
+amounts of water.
+EYE EXPOSURE
+In case of contact with eyes, flush with copious amounts of
+water for at least 15 minutes. Assure adequate flushing by
+separating the eyelids with fingers. Call a physician.
+Section 5 - Fire Fighting Measures
+EXPLOSION DATA
+Dust Potential: This material, like most materials in powder
+form, is capable of creating a dust explosion.
+FLASH POINT
+N/A
+AUTOIGNITION TEMP
+450 °C
+FLAMMABILITY
+N/A
+EXTINGUISHING MEDIA
+Suitable: Water spray. Carbon dioxide, dry chemical powder, or
+appropriate foam.
+FIREFIGHTING
+Protective Equipment: Wear self-contained breathing apparatus
+and protective clothing to prevent contact with skin and eyes.
+Specific Hazard(s): Emits toxic fumes under fire conditions.
+Section 6 - Accidental Release Measures
+PROCEDURE(S) OF PERSONAL PRECAUTION(S)
+Exercise appropriate precautions to minimize direct contact with
+skin or eyes and prevent inhalation of dust.
+METHODS FOR CLEANING UP
+Sweep up, place in a bag and hold for waste disposal. Avoid
+raising dust. Ventilate area and wash spill site after material
+pickup is complete.
+Section 7 - Handling and Storage
+HANDLING
+User Exposure: Avoid inhalation. Avoid contact with eyes, skin,
+and clothing. Avoid prolonged or repeated exposure.
+STORAGE
+Suitable: Keep tightly closed. Keep away from heat, sparks, and
+ALDRICH - 484164 www.sigma-aldrich.com Page 2
+--- PÁGINA 3 ---
+open flame. Store in a cool dry place.
+Section 8 - Exposure Controls / PPE
+ENGINEERING CONTROLS
+Safety shower and eye bath. Mechanical exhaust required.
+PERSONAL PROTECTIVE EQUIPMENT
+Respiratory: Use respirators and components tested and approved
+under appropriate government standards such as NIOSH (US) or CEN
+(EU). Respiratory protection is not required. Where protection
+from nuisance levels of dusts are desired, use type N95 (US) or
+type P1 (EN 143) dust masks.
+Hand: Protective gloves.
+Eye: Chemical safety goggles.
+GENERAL HYGIENE MEASURES
+Wash thoroughly after handling.
+EXPOSURE LIMITS, RTECS
+Country Source Type Value
+USA MSHA Standard
+Remarks: Nuisance Particulates.
+USA OSHA. PEL 8H TWA 15 MG/M3, TOTAL DUST
+New Zealand OEL
+Remarks: check ACGIH TLV
+EXPOSURE LIMITS
+Country Source Type Value
+OSHA. REL 2.1 mg/m3
+Section 9 - Physical/Chemical Properties
+Appearance Physical State: Solid
+Color: Black
+Form: Powder Granules
+Odor: Odorless
+Property Value At Temperature or Pressure
+Molecular Weight 12.01 AMU
+pH 6.0 - 9.0
+BP/BP Range N/A
+MP/MP Range N/A
+Freezing Point N/A
+Vapor Pressure < 0.1 mmHg 20 °C
+Vapor Density N/A
+Saturated Vapor Conc. N/A
+Bulk Density 0.336 kg/l
+Odor Threshold N/A
+Volatile% N/A
+VOC Content N/A
+Water Content N/A
+Solvent Content N/A
+Evaporation Rate N/A
+Viscosity N/A
+Surface Tension N/A
+Partition Coefficient N/A
+Decomposition Temp. N/A
+Flash Point N/A
+Explosion Limits N/A
+Flammability N/A
+ALDRICH - 484164 www.sigma-aldrich.com Page 3
+--- PÁGINA 4 ---
+Autoignition Temp 450 °C
+Refractive Index N/A
+Optical Rotation N/A
+Miscellaneous Data N/A
+Solubility Solubility in Water:Insoluble.
+Solvent: Insoluble.
+Other Solvents: ORGANIC SOLVENTS
+N/A = not available
+Section 10 - Stability and Reactivity
+STABILITY
+Stable: Stable.
+Materials to Avoid: Strong oxidizing agents.
+HAZARDOUS DECOMPOSITION PRODUCTS
+Hazardous Decomposition Products: Carbon monoxide, Carbon dioxide.
+HAZARDOUS POLYMERIZATION
+Hazardous Polymerization: Will not occur
+Section 11 - Toxicological Information
+ROUTE OF EXPOSURE
+Skin Contact: May cause skin irritation.
+Skin Absorption: May be harmful if absorbed through the skin.
+Eye Contact: May cause eye irritation.
+Inhalation: Material may be irritating to mucous membranes and
+upper respiratory tract. May be harmful if inhaled.
+Ingestion: May be harmful if swallowed.
+SIGNS AND SYMPTOMS OF EXPOSURE
+To the best of our knowledge, the chemical, physical, and
+toxicological properties have not been thoroughly investigated.
+TOXICITY DATA
+Intravenous
+Mouse
+440 MG/KG
+LD50
+CHRONIC EXPOSURE - REPRODUCTIVE HAZARD
+Species: Rat
+Dose: 167 MG/KG
+Route of Application: Subcutaneous
+Exposure Time: (8D PREG)
+Result: Effects on Fertility: Post-implantation mortality (e.g.,
+dead and/or resorbed implants per total number of implants).
+Section 12 - Ecological Information
+No data available.
+Section 13 - Disposal Considerations
+APPROPRIATE METHOD OF DISPOSAL OF SUBSTANCE OR PREPARATION
+Contact a licensed professional waste disposal service to dispose
+of this material. Dissolve or mix the material with a combustible
+solvent and burn in a chemical incinerator equipped with an
+ALDRICH - 484164 www.sigma-aldrich.com Page 4
+--- PÁGINA 5 ---
+afterburner and scrubber. Observe all federal, state, and local
+environmental regulations.
+Section 14 - Transport Information
+DOT
+Proper Shipping Name: None
+Non-Hazardous for Transport: This substance is
+considered to be non-hazardous for transport.
+IATA
+Non-Hazardous for Air Transport: Non-hazardous for air
+transport.
+Section 15 - Regulatory Information
+EU ADDITIONAL CLASSIFICATION
+S: 24/25-22
+Safety Statements: Avoid contact with skin and eyes. Do not
+breathe dust.
+US CLASSIFICATION AND LABEL TEXT
+US Statements: Caution: Avoid contact and inhalation.
+UNITED STATES REGULATORY INFORMATION
+SARA LISTED: No
+TSCA INVENTORY ITEM: Yes
+CANADA REGULATORY INFORMATION
+WHMIS Classification: This product has been classified in
+accordance with the hazard criteria of the CPR, and the MSDS
+contains all the information required by the CPR.
+DSL: Yes
+NDSL: No
+Section 16 - Other Information
+DISCLAIMER
+For R&D use only. Not for drug, household or other uses.
+WARRANTY
+The above information is believed to be correct but does not
+purport to be all inclusive and shall be used only as a guide. The
+information in this document is based on the present state of our
+knowledge and is applicable to the product with regard to
+appropriate safety precautions. It does not represent any
+guarantee of the properties of the product. Sigma-Aldrich Inc.,
+shall not be held liable for any damage resulting from handling or
+from contact with the above product. See reverse side of invoice
+or packing slip for additional terms and conditions of sale.
+Copyright 2010 Sigma-Aldrich Co. License granted to make
+unlimitedpaper copies for internal use only.
+ALDRICH - 484164 www.sigma-aldrich.com Page 5

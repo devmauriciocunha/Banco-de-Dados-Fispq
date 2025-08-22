@@ -1,0 +1,311 @@
+--- PÁGINA 1 ---
+SIGMA-ALDRICH
+sigma-aldrich.com
+FICHA DE DADOS DE SEGURANÇA
+de acordo com a Regulamento (CE) No. 1907/2006
+Versão 4.0 Data de revisão 02.12.2010
+Data de impressão 24.01.2011
+ENERIC EU MSDS - NO COUNTRY SPECIFIC DATA - NO OEL DATA
+1. IDENTIFICAÇÍO DA SUBSTÂNCIA/MISTURA E DA SOCIEDADE/EMPRESA
+Nome do produto : Formaldehyde
+Referência do Produto : PS2031
+Marca : Supelco
+Companhia : Sigma-Aldrich Brasil Ltda.
+Av. das Nações Unidas, 23.043
+04795-100 SÍO PAULO - SP
+BRAZIL
+Telefone : +551137323100
+Número de Fax : +551155229895
+Núnero de Telefone de :
+Emergência
+2. IDENTIFICAÇÍO DOS PERIGOS
+Classificação da substância ou mistura
+According to Regulation (EC) No1272/2008
+Flammable liquids (Category 3)
+Acute toxicity, Oral (Category 3)
+Acute toxicity, Inhalation (Category 3)
+Acute toxicity, Dermal (Category 3)
+Skin corrosion (Category 1B)
+Skin sensitization (Category 1)
+Carcinogenicity (Category 2)
+Specific target organ toxicity - single exposure (Category 1)
+Specific target organ toxicity - single exposure (Category 3)
+De acordo com a directiva Europeia 67/548/CEE, e emendas.
+Tóxico por inalação, em contacto com a pele e por ingestão. Tóxico: perigo de efeitos irreversíveis muito
+graves por inalação, em contacto com a pele e por ingestão. Provoca queimaduras. Possibilidade de efeitos
+cancerígenos. Pode causar sensibilização em contacto com a pele.
+Elementos da etiqueta
+Pictogram
+Signal word Danger
+Hazard statement(s)
+H226 Flammable liquid and vapour.
+H301 Toxic if swallowed.
+H311 Toxic in contact with skin.
+H314 Causes severe skin burns and eye damage.
+H317 May cause an allergic skin reaction.
+H331 Toxic if inhaled.
+H335 May cause respiratory irritation.
+H351 Suspected of causing cancer.
+H370 Causes damage to organs.
+Supelco - PS2031 Página 1 de 7
+--- PÁGINA 2 ---
+Precautionary statement(s)
+P260 Do not breathe dust/ fume/ gas/ mist/ vapours/ spray.
+P280 Wear protective gloves/ protective clothing/ eye protection/ face protection.
+P301 + P310 IF SWALLOWED: Immediately call a POISON CENTER or doctor/
+physician.
+P305 + P351 + P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove
+contact lenses, if present and easy to do. Continue rinsing.
+P310 Immediately call a POISON CENTER or doctor/ physician.
+Hazard symbol(s)
+T Toxic
+R-phrase(s)
+R23/24/25 Toxic by inhalation, in contact with skin and if swallowed.
+R34 Causes burns.
+R39/23/24/25 Toxic: danger of very serious irreversible effects through inhalation, in
+contact with skin and if swallowed.
+R40 Limited evidence of a carcinogenic effect.
+R43 May cause sensitization by skin contact.
+S-phrase(s)
+S26 In case of contact with eyes, rinse immediately with plenty of water and
+seek medical advice.
+S36/37/39 Wear suitable protective clothing, gloves and eye/face protection.
+S45 In case of accident or if you feel unwell, seek medical advice immediately
+(show the label where possible).
+Outros Perigos - nenhum(a)
+3. COMPOSIÇÍO/INFORMAÇÍO SOBRE OS COMPONENTES
+No. CAS No. CE No. de Index Classificação Concentração
+Formaldehyde
+50-00-0 200-001-8 605-001-00-5 Carc. 2; Acute Tox. 3; Skin >= 35 - <= 40 %
+Corr. 1B; Skin Sens. 1; H301,
+H311, H314, H317, H331,
+H351
+T, Carc.Cat.3, R23/24/25 -
+R34 - R40 - R43
+Methanol
+67-56-1 200-659-6 603-001-00-X Flam. Liq. 2; Acute Tox. 3; 10 %
+STOT SE 1; H225, H301,
+H311, H331, H370
+F, T, R11 - R23/24/25 -
+R39/23/24/25
+Water
+7732-18-5 231-791-2 - - >= 50 - <= 55 %
+Para o pleno texto das DECLARAÇÕES H mencionadas nesta Secção, ver a Secção 16.
+4. PRIMEIROS SOCORROS
+Recomendação geral
+Consultar um médico. Mostrar esta ficha de segurança ao médico de serviço.
+Se for inalado
+Se for respirado, levar a pessoa para o ar fresco. Se não respirar, dar respiração artificial. Consultar um
+médico.
+Supelco - PS2031 Página 2 de 7
+--- PÁGINA 3 ---
+No caso dum contacto com a pele
+Lavar com sabão e muita água. Transportar imediatamente paciente para um Hospital. Consultar um médico.
+No caso dum contacto com os olhos
+Lavar cuidadosamente com muita água, durante pelo menos quinze minutos, e consultar o médico.
+Se for engolido
+NÍO provocar vómitos. Nunca dar nada pela boca a uma pessoa inconsciente. Enxaguar a boca com água.
+Consultar um médico.
+5. MEDIDAS DE COMBATE A INCÊNDIO
+Meios adequados de extinção
+Para fogos incipientes ou pequenos usar meios como espuma de álcool, pó seco ou dióxido de carbono. Para
+grandes fogos aplicar agua desde o mais longe possível, usar grandes quantidades de agua
+(inundação)aplicadas como nevoeiro ou spray; córregos sólidos de agua podem não ser efectivos. Esfrie
+todos os depósitos ou vasilhas com grandes e inundantes quantidades de agua.
+Equipamento especial de protecção a utilizar pelo pessoal de combate a incêndio
+Usar equipamento de respiração autónomo para combate a incêndios, se necessário.
+Outras informações
+Os jactos de água podem ser utilizados para arrefecer os contentores fechados.
+6. MEDIDAS A TOMAR EM CASO DE FUGAS ACIDENTAIS
+Precauções individuais
+Pôr uma protecção respiratória. Evitar a respiração do vapor/névoa/gas. Assegurar ventilação adequada.
+Cortar todas as fontes de ignição. Evacuar o pessoal para áreas de segurança. Atenção com a acumulação
+de vapores que pode formar concentrações explosivas. Os vapores podem-se acumular nas áreas baixas.
+Precauções a nível ambiental
+Prevenir dispersão ou derramamento ulterior se for mais seguro assim. Não permitir a entrada do produto no
+sistema de esgotos. A descarga no meio ambiente deve ser evitada.
+Métodos e materiais de confinamento e limpeza
+Controlar e recuperar o líquido derramado com aspirador protegido electricamente ou varrer a seco e por o
+líquido dentro de contentores para a eliminação de acordo com as regulações locais (ver secção 13).
+7. MANUSEAMENTO E ARMAZENAGEM
+Precauções para um manuseamento seguro
+Evitar o contacto com a pele e os olhos. Evitar a inalação do vapor ou da névoa.
+Manter afastado de qualquer chama ou fonte de ignição - Não fumar. Tome medidas para impedir a formação
+de electricidade estática.
+Condições para uma armazenagem segura
+Armazenar em local fresco. Guardar o recipiente herméticamente fechado em lugar seco e bem ventilado. Os
+contentores abertos devem ser cuidadosamente fechados de novo e têm que ficar direitos para evitar a
+dispersão.
+8. CONTROLO DA EXPOSIÇÍO/PROTECÇÍO PESSOAL
+Protecção individual
+Protecção respiratória
+Nos casos em que a avaliação de risco mostrar que os respiradores purificadores do ar são apropriados,
+use um respirador de cobertura facial total com cartuchos de combinação multi-objectivos (E.U.A.) ou do
+tipo ABEK (EN 14387) como apoio a controlos de engenharia. Se o respirador for o único meio de
+protecção, usa um respirador de ar de cobertura facial total. Use respiradores e componentes testados e
+aprovados por normas governamentais apropriadas, tais como as NIOSH (E.U.A.) ou CEN (UE).
+Supelco - PS2031 Página 3 de 7
+--- PÁGINA 4 ---
+Protecção das mãos
+Manusear com luvas. As luvas devem ser inspectadas antes da utilização. Use uma técnica adequada
+para a remoção das luvas (sem tocar a superfície exterior da luva) para evitar o contacto da pele com o
+produto. Descarte as luvas contaminadas após o uso, em conformidade com as leis e boas práticas de
+laboratório . Lavar e secar as mãos.
+As luvas de protecção seleccionadas devem satisfazer as especificações da Directiva da UE 89/689/CEE
+e a norma EN 374 derivada dela.
+Protecção dos olhos
+Óculos de segurança bem ajustados. Proteção da face (mínimo de 8 polegadas (20 cm)). Use
+equipamento de proteção ocular testado e aprovado de acordo com as normas governamentais
+adequadas, tais como NIOSH (US) ou EN 166 (EU).
+Protecção do corpo e da pele
+Fato completo de protecção para produtos químicos, Tecido protector anti-estático retardador de chama,
+O genero de equipamento de protecção deve ser escolhido de acordo com a concentração e a
+quantidade da substância perigosa no lugar de trabalho.
+Medidas de higiene
+Evitar o contacto com a pele, olhos e vestuário. Lavar as mãos antes de interrupções do trabalho, e
+imediatamente a seguir ao manuseamento do produto.
+9. PROPRIEDADES FÍSICAS E QUÍMICAS
+Aspecto
+Estado físico líquido, claro
+Cor incolor
+Odor acre
+Dados de segurança
+pH dados não disponíveis
+Ponto de fusão dados não disponíveis
+Ponto de ebulição 100 °C
+Ponto de inflamação 56 °C - câmara fechada
+Temperatura de 420 °C
+ignição
+Limites de explosão, 7 %(V)
+inferior
+Limite de explosão, 70 %(V)
+superior
+Pressão de vapor 53 hPa a 39 °C
+Densidade 1,090 g/cm3
+Hidrossolubilidade completamente solúvel
+Coeficiente de log Pow: 0,35
+partição: n-
+octanol/água
+Densidade relativa 1,04
+do vapor - (Ar = 1.0)
+Taxa de evaporação 1
+10. ESTABILIDADE E REACTIVIDADE
+Supelco - PS2031 Página 4 de 7
+--- PÁGINA 5 ---
+Estabilidade química
+Estável sob as condições recomendadas de armazenamento.
+Condições a evitar
+Calor, chamas e faíscas.
+Matérias a evitar
+Agentes oxidantes fortes, Aniline, Fenol, Isocianatos, Anídridos de ácido, Ácidos fortes, Bases fortes, Aminas,
+Peróxidos, Cloretos ácidos, Metais alcalinos, Agentes redutores
+Produtos de decomposição perigosos
+Produtos perigosos de decomposição formados durante os incêndios. - Óxidos de carbono
+Contem o(s) estabilizadore(s) seguintes:
+Methanol (10 %)
+11. INFORMAÇÍO TOXICOLÓGICA
+Toxicidade aguda
+dados não disponíveis
+Corrosão/irritação cutânea
+dados não disponíveis
+Lesões oculares graves/irritação ocular
+Olhos: dados não disponíveis
+Sensibilização respiratória ou cutânea
+Pode causar uma reacção alérgica na pele.
+Mutagenicidade em células germinativas
+dados não disponíveis
+Carcinogenicidade
+IARC: 1 - Grupo 1: Carcinogénico para os humanos (Formaldehyde)
+Toxicidade reprodutiva
+dados não disponíveis
+Toxicidade para órgãos-alvo específicos - exposição única
+dados não disponíveis
+Toxicidade para órgãos-alvo específicos - exposição repetida
+dados não disponíveis
+Perigo de aspiração
+dados não disponíveis
+Efeitos potenciais para a saúde
+Inalação Tóxico se inalado. Causa uma irritação no aparelho respiratório.
+Ingestão Tóxico se ingerido.
+Pele Tóxico se absorvido através da pele. Causa uma irritação da pele.
+Olhos Causa queimaduras nos olhos.
+Sinais e sintomas de exposição
+sensação de queimadura, Tosse, respiração ruidosa, laringite, Respiração superficial, espasmo, inflamação e
+edema da laringe, espasmo, inflamação e edema dos brônquios, pneumonite, edema pulmonar, O material é
+extremamente destrutivo para os tecidos das membranas mucosas e para o trato respiratório superior, os
+olhos e a pele.
+Informação adicional
+RTECS: dados não disponíveis
+12. INFORMAÇÍO ECOLÓGICA
+Toxicidade
+Supelco - PS2031 Página 5 de 7
+--- PÁGINA 6 ---
+dados não disponíveis
+Persistência e degradabilidade
+dados não disponíveis
+Potencial de bioacumulação
+dados não disponíveis
+Mobilidade no solo
+dados não disponíveis
+Avaliação PBT e mPmB
+dados não disponíveis
+Outros efeitos adversos
+Perigoso para os organismos aquáticos.
+13. CONSIDERAÇÕES RELATIVAS À ELIMINAÇÍO
+Produto
+Queimar em um incinerador químico equipado com pós-combustor e purificador de gases, mas tomar
+precauções adicionais ao colocar esse material em ignição, visto que é altamente inflamável. Propor a
+entrega de soluções excedentes e não recicláveis a uma empresa idónea de tratamento de resíduos. Entrar
+em contato com um serviço profissional credenciado de descarte de lixo para descartar esse material.
+Embalagens contaminadas
+Eliminar como produto Não utilizado.
+14. INFORMAÇÕES RELATIVAS AO TRANSPORTE
+ADR/RID
+UN-Number: 1198 Class: 3 (8) Packing group: III
+Proper shipping name: FORMALDEHYDE SOLUTION, FLAMMABLE
+IMDG
+Número ONU: 1198 Classe: 3 (8) Grupo de embalagem: III EMS-No:
+F-E, S-C
+Designação oficial de transporte da ONU: FORMALDEHYDE SOLUTION, FLAMMABLE
+Poluente marinho: No
+IATA
+Número ONU: 1198 Classe: 3 (8) Grupo de embalagem: III
+Designação oficial de transporte da ONU: Formaldehyde solution, flammable
+15. INFORMAÇÍO SOBRE REGULAMENTAÇÍO
+Esta folha de dados de segurança obedece aos requerimentos da Regulamento (CE) No. 1907/2006
+16. OUTRAS INFORMAÇÕES
+Text of H-code(s) and R-phrase(s) mentioned in Section 3
+Acute Tox. Acute toxicity
+Carc. Carcinogenicity
+Flam. Liq. Flammable liquids
+H225 Highly flammable liquid and vapour.
+H301 Toxic if swallowed.
+H311 Toxic in contact with skin.
+H314 Causes severe skin burns and eye damage.
+H317 May cause an allergic skin reaction.
+H331 Toxic if inhaled.
+H351 Suspected of causing cancer.
+H370 Causes damage to organs.
+Skin Corr. Skin corrosion
+Skin Sens. Skin sensitization
+STOT SE Specific target organ toxicity - single exposure
+Supelco - PS2031 Página 6 de 7
+--- PÁGINA 7 ---
+F Highly flammable
+R11 Highly flammable.
+R23/24/25 Toxic by inhalation, in contact with skin and if swallowed.
+R34 Causes burns.
+T Toxic
+R39/23/24/25 Toxic: danger of very serious irreversible effects through inhalation, in contact with
+skin and if swallowed.
+R40 Limited evidence of a carcinogenic effect.
+R43 May cause sensitization by skin contact.
+Outras informações
+Direitos exclusivos, 2010, da Sigma-Aldrich. Permissão concedida para fazer número ilimitado de cópias
+em papel, somente para uso interno.
+Acredita-se que as informações acima estejam corretas, embora não pretendam ser totalmente
+abrangentes, devendo ser usadas apenas como um guia. A Sigma-Aldrich não deverá ter responsabilidade
+legal por quaisquer danos resultantes do manuseio ou do contato com o produto acima. Consultar o verso
+da fatura ou nota que acompanha o produto para tomar conhecimento dos termos adicionais e condições
+de venda.
+Supelco - PS2031 Página 7 de 7

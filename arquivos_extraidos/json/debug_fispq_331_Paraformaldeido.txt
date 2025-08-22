@@ -1,0 +1,328 @@
+--- PÁGINA 1 ---
+SIGMA-ALDRICH
+sigma-aldrich.com
+FICHA DE DADOS DE SEGURANÇA
+de acordo com a Regulamento (CE) No. 1907/2006
+Versão 4.0 Data de revisão 13.12.2010
+Data de impressão 24.01.2011
+ENERIC EU MSDS - NO COUNTRY SPECIFIC DATA - NO OEL DATA
+1. IDENTIFICAÇÍO DA SUBSTÂNCIA/MISTURA E DA SOCIEDADE/EMPRESA
+1.1 Identificadores do produto
+Nome do produto : PARAFORMALDEIDO
+Referência do Produto : 76240
+Marca : Fluka
+No. CAS : 30525-89-4
+1.2 Utilizações relevantes identificadas da substância ou mistura e utilizações desaconselhadas
+Utilizações identificadas : Produtos químicos de laboratório, Fabricação de substâncias
+1.3 Pormenores acerca do fornecedor da ficha de dados de segurança
+Companhia : Sigma-Aldrich Brasil Ltda.
+Av. das Nações Unidas, 23.043
+04795-100 SÍO PAULO - SP
+BRAZIL
+Telefone : +551137323100
+Número de Fax : +551155229895
+1.4 Número de telefone de emergência
+Núnero de Telefone de :
+Emergência
+2. IDENTIFICAÇÍO DOS PERIGOS
+2.1 Classificação da substância ou mistura
+Classification according to Regulation (EC) No 1272/2008 [EU-GHS/CLP]
+Flammable solids (Category 2)
+Acute toxicity, Inhalation (Category 4)
+Acute toxicity, Oral (Category 4)
+Skin irritation (Category 2)
+Serious eye damage (Category 1)
+Skin sensitization (Category 1)
+Carcinogenicity (Category 2)
+Specific target organ toxicity - single exposure (Category 3)
+Classificação de acordo com as Directivas da EU 67/548/CEE ou 1999/45/CE
+Facilmente inflamável. Nocivo por inalação e ingestão. Irritante para as vias respiratórias e pele.
+Possibilidade de efeitos cancerígenos. Risco de lesões oculares graves. Pode causar sensibilização em
+contacto com a pele.
+2.2 Elementos da etiqueta
+Labelling according Regulation (EC) No 1272/2008 [CLP]
+Pictogram
+Signal word Danger
+Hazard statement(s)
+H228 Flammable solid
+H302 Harmful if swallowed.
+Fluka - 76240 Página 1 de 7
+--- PÁGINA 2 ---
+H315 Causes skin irritation.
+H317 May cause an allergic skin reaction.
+H318 Causes serious eye damage.
+H332 Harmful if inhaled.
+H335 May cause respiratory irritation.
+H351 Suspected of causing cancer.
+Precautionary statement(s)
+P210 Keep away from heat/sparks/open flames/hot surfaces. - No smoking.
+P261 Avoid breathing dust/ fume/ gas/ mist/ vapours/ spray.
+P280 Wear protective gloves/ eye protection/ face protection.
+P305 + P351 + P338 IF IN EYES: Rinse cautiously with water for several minutes. Remove
+contact lenses, if present and easy to do. Continue rinsing.
+Supplemental Hazard none
+Statements
+According to European Directive 67/548/EEC as amended.
+Hazard symbol(s)
+R-phrase(s)
+R11 Highly flammable.
+R20/22 Harmful by inhalation and if swallowed.
+R37/38 Irritating to respiratory system and skin.
+R40 Limited evidence of a carcinogenic effect.
+R41 Risk of serious damage to eyes.
+R43 May cause sensitization by skin contact.
+S-phrase(s)
+S26 In case of contact with eyes, rinse immediately with plenty of water and
+seek medical advice.
+S36/37/39 Wear suitable protective clothing, gloves and eye/face protection.
+S45 In case of accident or if you feel unwell, seek medical advice immediately
+(show the label where possible).
+2.3 Outros Perigos - nenhum(a)
+3. COMPOSIÇÍO/INFORMAÇÍO SOBRE OS COMPONENTES
+3.1 Substâncias
+Sinónimos : Polyoxymethylene
+Formula : HO(CH2O)nH
+Peso molecular : 30,03 g/mol
+Componente Concentração
+Paraformaldehyde
+No. CAS 30525-89-4 -
+4. PRIMEIROS SOCORROS
+4.1 Descrição das medidas de primeiros socorros
+Recomendação geral
+Consultar um médico. Mostrar esta ficha de segurança ao médico de serviço.
+Se for inalado
+Se for respirado, levar a pessoa para o ar fresco. Se não respirar, dar respiração artificial. Consultar um
+médico.
+No caso dum contacto com a pele
+Lavar com sabão e muita água. Consultar um médico.
+Fluka - 76240 Página 2 de 7
+--- PÁGINA 3 ---
+No caso dum contacto com os olhos
+Lavar cuidadosamente com muita água, durante pelo menos quinze minutos, e consultar o médico.
+Se for engolido
+NÍO provocar vómitos. Nunca dar nada pela boca a uma pessoa inconsciente. Enxaguar a boca com água.
+Consultar um médico.
+4.2 Sintomas e efeitos mais importantes, tanto agudos como retardados
+Pode provocar um dano irreparável nos olhos.
+4.3 Indicação de atenção medical imediata e tratamento especial necessário
+dados não disponíveis
+5. MEDIDAS DE COMBATE A INCÊNDIO
+5.1 Meios de extinção
+Meios adequados de extinção
+Utilizar água pulverizada, espuma resistente ao álcool, produto químico seco ou dióxido de carbono.
+5.2 Perigos especiais decorrentes da substância ou mistura
+Óxidos de carbono
+5.3 Recomendações para o pessoal de combate a incêndios
+Usar equipamento de respiração autónomo para combate a incêndios, se necessário.
+5.4 Outras informações
+Os jactos de água podem ser utilizados para arrefecer os contentores fechados.
+6. MEDIDAS A TOMAR EM CASO DE FUGAS ACIDENTAIS
+6.1 Precauções individuais, equipamento de protecção e procedimentos de emergência
+Usar equipamento de protecção individual. Evitar a formação de poeira. Evitar a respiração do
+vapor/névoa/gas. Assegurar ventilação adequada. Cortar todas as fontes de ignição. Evacuar o pessoal
+para áreas de segurança. Evitar de respirar o pó.
+6.2 Precauções a nível ambiental
+Prevenir dispersão ou derramamento ulterior se for mais seguro assim. Não permitir a entrada do produto
+no sistema de esgotos. A descarga no meio ambiente deve ser evitada.
+6.3 Métodos e materiais de confinamento e limpeza
+Varrer e apanhar com uma pá. Controlar e recuperar o líquido derramado com aspirador protegido
+electricamente ou varrer a seco e por o líquido dentro de contentores para a eliminação de acordo com as
+regulações locais (ver secção 13). Manter em recipientes fechados adequados, para eliminação. Conter o
+derramamento, apanhar com um aspirador protegido contra a electricidade ou por escovadela molhada e
+transferir para um contentor para a destruição de acordo com as regulações locais e nacionais (ver a
+secção 13).
+6.4 Remissão para outras secções
+Para eliminação de resíduos ver secção 13.
+7. MANUSEAMENTO E ARMAZENAGEM
+7.1 Precauções para um manuseamento seguro
+Evitar o contacto com a pele e os olhos. Evitar a formação de pó e aerossois.
+Providenciar uma adequada ventilação em locais onde se formem poeiras.Manter afastado de qualquer
+chama ou fonte de ignição - Não fumar.Tome medidas para impedir a formação de electricidade estática.
+7.2 Condições de armazenagem segura, incluindo eventuais incompatibilidades
+Armazenar em local fresco. Guardar o recipiente herméticamente fechado em lugar seco e bem ventilado.
+Manipular e estocar sob gás inerte. Sensível à humidade.
+7.3 Utilizações finais específicas
+dados não disponíveis
+Fluka - 76240 Página 3 de 7
+--- PÁGINA 4 ---
+8. CONTROLO DA EXPOSIÇÍO/PROTECÇÍO PESSOAL
+8.1 Parâmetros de controlo
+Componentes a controlar com relação ao local de trabalho
+8.2 Controlo da exposição
+Controlos técnicos adequados
+Manusear de acordo com as boas práticas industriais de higiene e segurança. Lavar as mãos antes de
+interrupções, e no final do dia de trabalho.
+Protecção individual
+Protecção para os olhos/cara
+Mascaras de protecção e óculos de segurança. Use equipamento de proteção ocular testado e
+aprovado de acordo com as normas governamentais adequadas, tais como NIOSH (US) ou EN 166
+(EU).
+Protecção da pele
+Manusear com luvas. As luvas devem ser inspectadas antes da utilização. Use uma técnica
+adequada para a remoção das luvas (sem tocar a superfície exterior da luva) para evitar o contacto
+da pele com o produto. Descarte as luvas contaminadas após o uso, em conformidade com as leis e
+boas práticas de laboratório . Lavar e secar as mãos.
+As luvas de protecção seleccionadas devem satisfazer as especificações da Directiva da UE
+89/689/CEE e a norma EN 374 derivada dela.
+Protecção do corpo
+Fato completo de protecção para produtos químicos, Tecido protector anti-estático retardador de
+chama, O genero de equipamento de protecção deve ser escolhido de acordo com a concentração
+e a quantidade da substância perigosa no lugar de trabalho.
+Protecção respiratória
+Nos casos em que a avaliação de risco mostrar que os respiradores purificadores do ar são
+apropriados, use um respirador de partículas do tipo N100 (E.U.A.) ou cartuchos de respiração do
+tipo P2 (EN 143) como apoio a controlos de engenharia. Se o respirador for o único meio de
+protecção, usa um respirador de ar de cobertura facial total. Use respiradores e componentes
+testados e aprovados por normas governamentais apropriadas, tais como as NIOSH (E.U.A.) ou
+CEN (UE).
+9. PROPRIEDADES FÍSICAS E QUÍMICAS
+9.1 Informações sobre propriedades físicas e químicas de base
+a) Aspecto Estado físico: sólido
+b) Odor acre
+c) Limiar olfactivo dados não disponíveis
+d) pH 4,0 - 5,5
+e) Ponto de fusão/ponto Ponto/intervalo de fusão: 120 - 170 °C
+de congelação Ponto/intervalo de fusão: 120 - 170 °C
+f) Ponto de ebulição inicial dados não disponíveis
+e intervalo de ebulição;
+g) Ponto de inflamação 70 °C - câmara fechada
+h) Taxa de evaporação dados não disponíveis
+i) Inflamabilidade (sólido, A substância ou a mistura é um sólido inflamável com a sub-categoria 2.
+gás)
+j) limites de dados não disponíveis
+inflamabilidade superior
+/ inferior ou explosivas
+Fluka - 76240 Página 4 de 7
+--- PÁGINA 5 ---
+k) Pressão de vapor dados não disponíveis
+l) Densidade do vapor dados não disponíveis
+m) Densidade relativa dados não disponíveis
+n) Hidrossolubilidade insolúvel
+o) Coeficiente de partição: dados não disponíveis
+n-octanol/água
+p) Temperatura de auto- dados não disponíveis
+ignição
+q) Temperatura de dados não disponíveis
+decomposição
+r) Viscosidade dados não disponíveis
+s) Propriedades dados não disponíveis
+explosivas
+t) Propriedades oxidantes dados não disponíveis
+9.2 Outra informação de segurança
+Densidade da massa 500 - 800 kg/m3
+10. ESTABILIDADE E REACTIVIDADE
+10.1 Reactividade
+dados não disponíveis
+10.2 Estabilidade química
+dados não disponíveis
+10.3 Possibilidade de reacções perigosas
+dados não disponíveis
+10.4 Condições a evitar
+Exposição à humidade.
+Calor, chamas e faíscas. As temperaturas extremas e à luz do sol direta.
+10.5 Materiais incompatíveis
+Latão, Aço (incluindo todos os tipos e tratamentos de superfície), Cobre, Anídridos de ácido, Agentes
+oxidantes fortes, Agentes redutores fortes
+10.6 Produtos de decomposição perigosos
+Outros produtos de decomposição perigosos - dados não disponíveis
+11. INFORMAÇÍO TOXICOLÓGICA
+11.1 Informações sobre os efeitos toxicológicos
+Toxicidade aguda
+DL50 Oral - ratazana - 592 mg/kg
+CL50 Inalação - ratazana - 4 h - 1.070 mg/m3
+Observações: Orgãos Sensoriais e Sentidos Especiais (Nariz, Olhos, Ouvidos e Gosto):Olhos: lacrijamento
+Pulmões, tórax ou respiração: Dispnéia
+LDLO Dérmico - ratazana - 10.000 mg/kg
+Corrosão/irritação cutânea
+Lesões oculares graves/irritação ocular
+Olhos - coelho - Grave irritação dos olhos
+Sensibilização respiratória ou cutânea
+Pode causar uma reacção alérgica na pele.
+Fluka - 76240 Página 5 de 7
+--- PÁGINA 6 ---
+Mutagenicidade em células germinativas
+dados não disponíveis
+Carcinogenicidade
+Formaldeído, o produto da decomposição do paraformaldeído, foi incluído na lista de carcinógenos pelo
+NTP e pela IARC (International Agency for Research on Cancer - Agência Internacional para a Pesquisa
+sobre o Câncer).
+Provas limitadas de carcinogénicidade nos estudos sobre os animais
+IARC: Nenhum componente deste produto presente a níveis maiores ou iguais a 0.1% é identificado
+como carcinogénio provável, possível ou confirmado pelo IARC.
+Toxicidade reprodutiva
+dados não disponíveis
+Toxicidade para órgãos-alvo específicos - exposição única
+Inalação - Pode provocar irritação das vias respiratórias.
+Toxicidade para órgãos-alvo específicos - exposição repetida
+dados não disponíveis
+Perigo de aspiração
+dados não disponíveis
+Efeitos potenciais para a saúde
+Inalação Nocivo se for inalado. Causa uma irritação no aparelho respiratório.
+Ingestão Nocivo por ingestão.
+Pele Pode ser perigoso se for absorto pela pele. Causa uma irritação da pele.
+Olhos Causa queimaduras nos olhos.
+Sinais e sintomas de exposição
+Pode provocar um dano irreparável nos olhos.
+Informação adicional
+RTECS: RV0540000
+12. INFORMAÇÍO ECOLÓGICA
+12.1 Toxicidade
+Toxicidade em dáfnias e CE50 - Daphnia magna - 42 mg/l - 24 h
+outros invertebrados
+aquáticos.
+12.2 Persistência e degradabilidade
+dados não disponíveis
+12.3 Potencial de bioacumulação
+dados não disponíveis
+12.4 Mobilidade no solo
+dados não disponíveis
+12.5 Resultados da avaliação PBT e mpmb
+dados não disponíveis
+12.6 Outros efeitos adversos
+Perigoso para os organismos aquáticos.
+dados não disponíveis
+Fluka - 76240 Página 6 de 7
+--- PÁGINA 7 ---
+13. CONSIDERAÇÕES RELATIVAS À ELIMINAÇÍO
+13.1 Métodos de tratamento de resíduos
+Produto
+Queimar em um incinerador químico equipado com pós-combustor e purificador de gases, mas tomar
+precauções adicionais ao colocar esse material em ignição, visto que é altamente inflamável. Propor a
+entrega de soluções excedentes e não recicláveis a uma empresa idónea de tratamento de resíduos.
+Entrar em contato com um serviço profissional credenciado de descarte de lixo para descartar esse
+material.
+Embalagens contaminadas
+Eliminar como produto Não utilizado.
+14. INFORMAÇÕES RELATIVAS AO TRANSPORTE
+14.1 Número ONU
+ADR/RID: 2213 IMDG: 2213 IATA: 2213
+14.2 Nome apropriado para embarque da ONU
+ADR/RID: PARAFORMALDEHYDE
+IMDG: PARAFORMALDEHYDE
+IATA: Paraformaldehyde
+14.3 Classificação (classificações) do perigo de transporte
+ADR/RID: 4.1 IMDG: 4.1 IATA: 4.1
+14.4 Grupo de embalagem
+ADR/RID: III IMDG: III IATA: III
+14.5 Perigos para o ambiente
+ADR/RID: no IMDG Poluente marinho: não IATA: não
+14.6 Precauções especiais para o utilizador
+dados não disponíveis
+15. INFORMAÇÍO SOBRE REGULAMENTAÇÍO
+Esta folha de dados de segurança obedece aos requerimentos da Regulamento (CE) No. 1907/2006
+15.1 Regulamentação/legislação específica para a substância ou mistura em matéria de saúde, segurança
+e ambiente
+dados não disponíveis
+15.2 Avaliação da segurança química
+dados não disponíveis
+16. OUTRAS INFORMAÇÕES
+Outras informações
+Direitos exclusivos, 2010, da Sigma-Aldrich. Permissão concedida para fazer número ilimitado de cópias
+em papel, somente para uso interno.
+Acredita-se que as informações acima estejam corretas, embora não pretendam ser totalmente
+abrangentes, devendo ser usadas apenas como um guia. A Sigma-Aldrich não deverá ter
+responsabilidade legal por quaisquer danos resultantes do manuseio ou do contato com o produto acima.
+Consultar o verso da fatura ou nota que acompanha o produto para tomar conhecimento dos termos
+adicionais e condições de venda.
+Fluka - 76240 Página 7 de 7

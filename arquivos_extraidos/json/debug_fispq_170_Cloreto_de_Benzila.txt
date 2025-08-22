@@ -1,0 +1,93 @@
+--- PÁGINA 1 ---
+845024 Cloreto de benzila
+para síntese farmacêutica, não-GMP
+Para informações, por favor, contate o nosso
+Serviço de Atendimento ao Cliente
+Merck KGaA
+Frankfurter Str. 250
+64293 Darmstadt
+Germany
+Telefone: +49 6151 72-0
+Fax: +49 6151 72 2000
+28 Setembro 2010
+Nº de produto Embalagem Tamanho
+8450240100 Frasco de vidro 100 ml
+8450242500 Frasco de vidro 2.5 l
+Informações sobre o produto
+Fórmula Hill C H Cl
+7 7
+Fórmula Química C H CH Cl
+6 5 2
+Código HS 2903 69 90
+Número CE 202-853-6
+Massa Molar 126.58 g/mol
+Numero índice CE 602-037-00-3
+Número CAS 100-44-7
+Dados físico-químicos
+Temperatura de Ignição 585 °C
+Solubilidade em água 460 mg/l (30 °C)
+Ponto de fusão -41.2 °C
+Massa Molar 126.58 g/mol
+Densidade 1.10 g/cm3 (20 °C)
+Valor de pH (H O) não aplicável
+2
+Ponto de Ebulição 179.3 °C (1013 hPa)
+Pressão de Vapor 1.2 hPa (20 °C)
+Limite de explosão 1.1 - 14 %(V)
+Ponto de inflamação 74 °C
+Índice de refracção 1.5415
+Informação de Segurança de acordo com o GHS
+Hazard Statement(s) H350: Pode provocar cancro.
+--- PÁGINA 2 ---
+H331: Tóxico por inalação.
+H302: Nocivo por ingestão.
+H373: Pode afectar os órgãos após exposição prolongada ou repetida.
+H335: Pode provocar irritação das vias respiratórias.
+H315: Provoca irritação cutânea.
+H318: Provoca lesões oculares graves.
+Precautionary Statement(s) P201: Pedir instruções específicas antes da utilização.
+P305 + P351 + P338: SE ENTRAR EM CONTACTO COM OS OLHOS: enxaguar cuidadosamente
+com água durante vários minutos. Se usar lentes de contacto, retire-as, se tal lhe for possível.
+Continuar a enxaguar.
+Signal Word Perigo
+Hazard Pictogram(s)
+RTECS XS8925000
+Classe de Armazenagem 6.1A Substâncias combustiveis, tóxico
+Germanwater-polution risk WGK 3 forte contaminante da água
+classes (Classes alemãs de
+riscos de poluição de água)
+Disposal 9
+Compostos carcinogénicos e compostos inflamáveis marcados como tóxicos ou muito tóxicos (à
+excepção de solventes) :Categoria F. Os sulfatos de alquilos são carcinogénicos. Tome um
+cuidado especial para evitar inalação e o contacto com a pele. Para desactivar sulfatos de alquilos,
+adicione cuidadosamente gota a gota, com funil conta gotas, a uma solução de amonia gelada (Art.
+105426) agitando vigorosamente. Antes de colocar na Categoria D, controle o pH com tiras
+indicadoras universais (Art. 109535).
+Informações de segurança
+Frases R R 45-22-23-37/38-41-48/22
+Pode causar cancro.Também nocivo por ingestão.Também tóxico por inalação.Irritante para as
+vias respiratórias e pele.Risco de lesões oculares graves.Também nocivo: risco de efeitos graves
+para a saúde em caso de exposição prolongada por ingestão.
+Frases S S 53-45
+Evitar a exposição - obter instruções específicas antes da utilização.Em caso de acidente ou de
+indisposição, consultar imediatamente o médico (se possível mostrar-lhe o rótulo).
+Categorias de perigo carcinogénico, tóxico, irritante
+Hazard Symbol
+Toxic
+Informações de transporte
+Transporte Terrestre ADR,RID UN 1738 Benzylchlorid, 6.1 (8), II
+Transporte Marítimo IMDG - UN 1738 BENZYL CHLORIDE, 6.1 (8), II, Segregation Group: 1 (Acids), 10 (Liquid halogenated
+Code hydrocarbons)
+Transporte Via Aérea UN 1738 BENZYL CHLORIDE, 6.1 (8), II
+IATA-DGR
+--- PÁGINA 3 ---
+Dados toxicológicos
+LD 50 Oral DL50 ratazana 440 mg/kg
+Especificações
+Colour (visual) colourless
+Appearance of clear liquid
+substance (visual)
+Assay (GC, area%) ≥ 99.0 %
+Density (d 20 °C/ 4 °C) 1.099 - 1.100
+Identity (IR) passes test
+© Merck KGaA, Darmstadt, Germany, quimica(at)merck.com.br, 2010

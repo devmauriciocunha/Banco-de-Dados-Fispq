@@ -1,0 +1,24 @@
+--- PÁGINA 1 ---
+Diagrama de Hommel
+Nome Inflamabilidade Risco Reatividade Obs.
+Acetonitrila 3 2 0 -
+Água régia 0 3 2 COR
+Cloreto de ferro 0 3 1 -
+III
+Cloreto de 0 3 0 COR
+mercúrio II
+Diclorometano 0 2 0 -
+Ditionito de 3 2 1 -
+sódio
+Hidróxido de 0 3 2 -
+sódio
+Magnésio 1 0 1 W
+Óleo de silicone 0 0 0 0
+Pentóxido de 1 3 3 W
+fósforo
+Perclorato de 0 1 1 -
+crômio III
+Perclorato de ? 4 4 OX
+mercúrio II
+Sódio 3 3 2 W
+Zinco 1 0 1 -

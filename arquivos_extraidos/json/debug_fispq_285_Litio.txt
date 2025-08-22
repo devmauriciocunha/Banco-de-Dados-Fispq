@@ -1,0 +1,142 @@
+--- PÁGINA 1 ---
+Ficha de Informação de Produto Químico
+IDENTIFICAÇÍO Help
+Número ONU Nome do produto Rótulo de risco
+1415 LÍTIO METÁLICO
+Número de risco Classe / Subclasse
+X423 4.3
+Sinônimos
+Aparência
+SÓLIDO MACIO ; BRANCO A PRATA BRILHANTE ; SEM ODOR ; REAGE VIOLENTAMENTE COM ÁGUA ; PRODUZ GÁS
+INFLAMÁVEL
+Fórmula molecular Família química
+Li NÍO PERTINENTE
+Fabricantes
+Para informações atualizadas recomenda-se a consulta às seguintes instituições ou referências:
+ABIQUIM - Associação Brasileira da Indústria Química : Fone 0800-118270
+ANDEF - Associação Nacional de Defesa Vegetal: Fone (11) 3081-5033
+Revista Química e Derivados - Guia geral de produtos químicos, Editora QD: Fone (11) 3826-6899
+Programa Agrofit - Ministério da Agricultura
+MEDIDAS DE SEGURANÇA Help
+Medidas preventivas imediatas
+EVITAR CONTATO COM O SÓLIDO. MANTER AS PESSOAS AFASTADAS. CHAMAR OS BOMBEIROS. ISOLAR E REMOVER O
+MATERIAL DERRAMADO.
+Equipamentos de Proteção Individual (EPI)
+USAR LUVAS, BOTAS E ROUPAS DE PVC, MÁSCARA CONTRA PÓ E ÓCULOS DE ACRÍLICO COM PROTEÇÍO LATERAL.
+RISCOS AO FOGO Help
+Ações a serem tomadas quando o produto entra em combustão
+EXTINGUIR COM PÓ DE GRAFITE SECO, CARBONATO DE SÓDIO OU OUTRO PÓ INERTE.
+Comportamento do produto no fogo
+O LÍTIO FUNDIDO IGNIZA FACILMENTE SENDO, ENTÍO, DIFÍCIL DE EXTINÇÍO. O LÍTIO QUENTE OU QUEIMADO REAGIRÁ
+COM TODOS OS GASES, EXCETO OS DO GRUPO HÉLIO / ARGÔNIO.
+Produtos perigosos da reação de combustão
+FORMA FUMOS FORTEMENTE ALCALINOS, NO FOGO.
+Agentes de extinção que não podem ser usados
+ÁGUA, AREIA, HIDROCARBONETOS HALOGENADOS, DIÓXIDO DE CARBONO, ÁCIDO - BASE OU PÓ QUÍMICO SECO.
+Limites de inflamabilidade no ar
+Limite Superior: NÍO PERTINENTE
+Limite Inferior: NÍO PERTINENTE
+Ponto de fulgor
+NÍO PERTIN. ( SÓLIDO COMBUSTÍVEL )
+Temperatura de ignição
+179 °C
+Taxa de queima
+NÍO PERTINENTE
+Taxa de evaporação (éter=1)
+DADO NÍO DISPONÍVEL
+NFPA (National Fire Protection Association)
+Perigo de Saúde (Azul): 3
+Inflamabilidade (Vermelho): 2
+Reatividade (Amarelo): 2
+Observação: N/USO ÁGUA
+--- PÁGINA 2 ---
+PROPRIEDADES FÍSICO-QUÍMICAS E AMBIENTAIS Help
+Peso molecular Ponto de ebulição (°C) Ponto de fusão (°C)
+6,939 NÍO PERT. 186
+Temperatura crítica (°C) Pressão crítica (atm) Densidade relativa do vapor
+NÍO PERTINENTE NÍO PERTINENTE NÍO PERTINENTE
+Densidade relativa do líquido (ou Pressão de vapor Calor latente de vaporização (cal/g)
+sólido) 1 mm Hg A 723 °C NÍO PERTINENTE
+0,53 A 20 °C ( SÓLIDO )
+Calor de combustão (cal/g) Viscosidade (cP)
+- 10.260 DADO NÍO DISPONÍVEL
+Solubilidade na água pH
+REAGE >7,0
+Reatividade química com água
+REAGE, VIOLENTAMENTE, PARA FORMAR GÁS HIDROGÊNIO INFLAMÁVEL E FORTE SOLUÇÍO CÁUSTICA. GERALMENTE,
+OCORRE IGNIÇÍO.
+Reatividade química com materiais comuns
+PODE IGNIZAR MATERIAIS COMBUSTÍVEIS, SE ESTIVER SOB A FORMA DE NEBLINA. REAGE, VIOLENTAMENTE, COM
+CONCRETO, MADEIRA, ASFALTO, AREIA E ASBESTOS.
+Polimerização
+NÍO OCORRE.
+Reatividade química com outros materiais
+DADO NÍO DISPONÍVEL.
+Degradabilidade
+PRODUTO INORGÂNICO.
+Potencial de concentração na cadeia alimentar
+NENHUM.
+Demanda bioquímica de oxigênio (DBO)
+NENHUMA.
+Neutralização e disposição final
+SOB UMA ATMOSFERA INERTE, ADICIONAR, CAUTELOSAMENTE, O MATERIAL E BUTANOL SECO EM UM SOLVENTE
+APROPRIADO. A REAÇÍO QUÍMICA PODE SER VIGOROSA E/OU EXOTÉRMICA. DEVEM SER TOMADAS PROVIDÊNCIAS PARA
+DAR, SEGURAMENTE, VAZÍO A GRANDES VOLUMES DE GÁS HIDROGÊNIO, ALTAMENTE INFLAMÁVEL, E/OU
+HIDROCARBONETOS. NEUTRALIZAR A SOLUÇÍO COM ÁCIDO AQUOSO. FILTRAR QUALQUER RESÍDUO SÓLIDO, PARA
+DISPOSIÇÍO COMO RESÍDUO PERIGOSO. QUEIMAR A PORÇÍO LÍQUIDA EM UM INCINERADOR QUÍMICO, EQUIPADO COM
+PÓS-QUEIMADOR E LAVADOR DE GASES. RECOMENDA-SE O ACOMPANHAMENTO POR UM ESPECIALISTA DO ÓRGÍO
+AMBIENTAL.
+INFORMAÇÕES ECOTOXICOLÓGICAS Help
+Toxicidade - limites e padrões
+L.P.O.: DADO NÍO DISPONÍVEL
+P.P.: NÍO ESTABELECIDO
+IDLH: DADO NÍO DISPONÍVEL
+LT: Brasil - Valor Médio 48h: DADO NÍO DISPONÍVEL
+LT: Brasil - Valor Teto: DADO NÍO DISPONÍVEL
+LT: EUA - TWA: NÍO ESTABELECIDO
+LT: EUA - STEL: NÍO ESTABELECIDO
+Toxicidade ao homem e animais superiores (vertebrados)
+M.D.T.: DADO NÍO DISPONÍVEL
+M.C.T.: DADO NÍO DISPONÍVEL
+Toxicidade: Espécie: RATO
+Toxicidade: Espécie: CAMUNDONGO
+Toxicidade: Espécie: OUTROS
+Via Cutânea (DL 50): CÍO: LDLo = 325 mg/kg ( INTRAV.); COELHO: LDLo = 4.000 mg/kg (SUBCUT.)
+Toxicidade aos organismos aquáticos: PEIXES : Espécie
+Toxicidade aos organismos aquáticos: CRUSTÁCEOS : Espécie
+Toxicidade aos organismos aquáticos: ALGAS : Espécie
+--- PÁGINA 3 ---
+Toxicidade a outros organismos: BACTÉRIAS
+Toxicidade a outros organismos: MUTAGENICIDADE
+SER HUMANO : " cyt " = 74 mg/kg ( 8 SEMANAS - EXPOSIÇÍO INTERMITENTE, VIA DE INTRODUÇÍO NÍO ESPECIFICADA )
+Toxicidade a outros organismos: OUTROS
+Informações sobre intoxicação humana
+EVITAR CONTATO COM O SÓLIDO. MANTER AS PESSOAS AFASTADAS. CHAMAR OS BOMBEIROS. ISOLAR E REMOVER O
+MATERIAL DERRAMADO.
+Tipo de contato Síndrome tóxica Tratamento
+SÓLIDO QUEIMARÁ A PELE. QUEIMARÁ OS REMOVER ROUPAS E SAPATOS
+OLHOS. PREJUDICIAL, SE INGERIDO. CONTAMINADOS E ENXAGUAR COM MUITA
+ÁGUA. MANTER AS PÁLPEBRAS ABERTAS E
+ENXAGUAR COM MUITA ÁGUA. MANTER A
+VÍTIMA AQUECIDA.
+Tipo de contato Síndrome tóxica Tratamento
+DADOS GERAIS Help
+Temperatura e armazenamento
+AMBIENTE.
+Ventilação para transporte
+VÁLVULA DE ALÍVIO.
+Estabilidade durante o transporte
+ESTÁVEL, SE AR E UMIDADE FOREM EXCLUÍDOS.
+Usos
+PRODUÇÍO DE TRÍTIO ; PRODUTOS FARMACÊUTICOS ; LIGAS MOLES ; LÍQUIDO DE TRANSFERÊNCIA DE CALOR ;
+CATALISADOR ; SABÕES DE LÍTIO ; PROPELENTES PARA FOGUETES ; SÍNTESE DE VITAMINA A ; SOLDAS DE PRATA.
+Grau de pureza
+PURO : 99,9 % .
+Radioatividade
+NÍO TEM.
+Método de coleta
+PARA Li: MÉTODO 13
+Código NAS (National Academy of Sciences)
+NÍO LISTADO
+OBSERVAÇÕES Help
+POTENCIAL DE IONIZAÇÍO (PI) = DADO NÍO DISPONÍVEL

@@ -1,0 +1,135 @@
+--- PÁGINA 1 ---
+Ficha de Informação de Produto Químico
+IDENTIFICAÇÍO Help
+Número ONU Nome do produto Rótulo de risco
+1737 BROMETO DE BENZILA
+Número de risco Classe / Subclasse
+- 6.1
+Sinônimos
+alfa - BROMOTOLUENO; omega - BROMOTOLUENO; CICLITA.
+Aparência
+LÍQUIDO; SEM COLORAÇÍO A AMARELO; ODOR PENETRANTE, IRRITANTE; AFUNDA NA ÁGUA.
+Fórmula molecular Família química
+C7 H7 Br HIDROCARBONETO HALOGENADO
+Fabricantes
+Para informações atualizadas recomenda-se a consulta às seguintes instituições ou referências:
+ABIQUIM - Associação Brasileira da Indústria Química : Fone 0800-118270
+ANDEF - Associação Nacional de Defesa Vegetal: Fone (11) 3081-5033
+Revista Química e Derivados - Guia geral de produtos químicos, Editora QD: Fone (11) 3826-6899
+Programa Agrofit - Ministério da Agricultura
+MEDIDAS DE SEGURANÇA Help
+Medidas preventivas imediatas
+EVITAR CONTATO COM O LÍQUIDO E O VAPOR. MANTER AS PESSOAS AFASTADAS. CHAMAR OS BOMBEIROS. PARAR O
+VAZAMENTO, SE POSSÍVEL. ISOLAR E REMOVER O MATERIAL DERRAMADO.
+Equipamentos de Proteção Individual (EPI)
+USAR LUVAS, BOTAS E ROUPAS DE VITON E MÁSCARA FACIAL PANORAMA, COM FILTRO CONTRA VAPORES ORGÂNICOS.
+RISCOS AO FOGO Help
+Ações a serem tomadas quando o produto entra em combustão
+COMBUSTÍVEL. EXTINGUIR COM ÁGUA, PÓ QUÍMICO SECO, ESPUMA OU DIÓXIDO DE CARBONO. ESFRIAR OS RECIPIENTES
+EXPOSTOS, COM ÁGUA.
+Comportamento do produto no fogo
+FORMA VAPOR QUE É UM PODEROSO GÁS LACRIMEJANTE.
+Produtos perigosos da reação de combustão
+PODE FORMAR GÁS IRRITANTE DE BROMETO DE HIDROGÊNIO.
+Agentes de extinção que não podem ser usados
+NÍO PERTINENTE.
+Limites de inflamabilidade no ar
+Limite Superior: NÍO PERTINENTE
+Limite Inferior: NÍO PERTINENTE
+Ponto de fulgor
+78,9 °C (VASO FECHADO)
+Temperatura de ignição
+DADO NÍO DISPONÍVEL
+Taxa de queima
+2,6 mm/min
+Taxa de evaporação (éter=1)
+DADO NÍO DISPONÍVEL
+NFPA (National Fire Protection Association)
+Perigo de Saúde (Azul): 2
+Inflamabilidade (Vermelho): 2
+Reatividade (Amarelo): 0
+--- PÁGINA 2 ---
+PROPRIEDADES FÍSICO-QUÍMICAS E AMBIENTAIS Help
+Peso molecular Ponto de ebulição (°C) Ponto de fusão (°C)
+171,0 198 - 4
+Temperatura crítica (°C) Pressão crítica (atm) Densidade relativa do vapor
+NÍO PERTINENTE NÍO PERTINENTE 5,9
+Densidade relativa do líquido (ou Pressão de vapor Calor latente de vaporização (cal/g)
+sólido) 1 mm Hg A 32,2 °C 66,4
+1,441 A 22 °C (LÍQUIDO)
+Calor de combustão (cal/g) Viscosidade (cP)
+- 5.000 1,43
+Solubilidade na água pH
+INSOLÚVEL/REAGE LENTAMENTE NÍO PERT.
+Reatividade química com água
+REAGE LENTAMENTE PARA GERAR ÁCIDO BROMÍDRICO.
+Reatividade química com materiais comuns
+DECOMPÕE RAPIDAMENTE NA PRESENÇA DE TODOS OS METAIS COMUNS, EXCETO NÍQUEL E CHUMBO, LIBERANDO CALOR E
+ÁCIDO BROMÍDRICO.
+Polimerização
+POLIMERIZA COM EVOLUÇÍO DE CALOR E ÁCIDO BROMÍDRICO, QUANDO EM CONTATO COM TODOS OS METAIS COMUNS,
+EXCETO NÍQUEL E CHUMBO, INIBIDOR DE POLIMERIZAÇÍO : NENHUM.
+Reatividade química com outros materiais
+DADO NÍO DISPONÍVEL.
+Degradabilidade
+DADO NÍO DISPONÍVEL.
+Potencial de concentração na cadeia alimentar
+NENHUM.
+Demanda bioquímica de oxigênio (DBO)
+DADO NÍO DISPONÍVEL.
+Neutralização e disposição final
+O MATERIAL É COMBUSTÍVEL E DEVE SER QUEIMADO EM UM INCINERADOR QUÍMICO, EQUIPADO COM PÓS-QUEIMADOR E
+LAVADOR DE GASES. RECOMENDA-SE O ACOMPANHAMENTO POR UM ESPECIALISTA DO ÓRGÍO AMBIENTAL.
+INFORMAÇÕES ECOTOXICOLÓGICAS Help
+Toxicidade - limites e padrões
+L.P.O.: DADO NÍO DISPONÍVEL
+P.P.: NÍO ESTABELECIDO
+IDLH: DADO NÍO DISPONÍVEL
+LT: Brasil - Valor Médio 48h: DADO NÍO DISPONÍVEL
+LT: Brasil - Valor Teto: DADO NÍO DISPONÍVEL
+LT: EUA - TWA: NÍO ESTABELECIDO
+LT: EUA - STEL: NÍO ESTABELECIDO
+Toxicidade ao homem e animais superiores (vertebrados)
+M.D.T.: DADO NÍO DISPONÍVEL
+M.C.T.: DADO NÍO DISPONÍVEL
+Toxicidade: Espécie: RATO
+Toxicidade: Espécie: CAMUNDONGO
+Toxicidade: Espécie: OUTROS
+Toxicidade aos organismos aquáticos: PEIXES : Espécie
+PEIXE MARINHO (ESPÉCIE NÍO IDENTIFICADA): NENHUMA RESPOSTA; IRRITANTE A 0,05 mg/L E ATIVIDADE
+EXTREMAMENTE IRRITANTE A 0,1 mg/L. TEMPO DE EXPOSIÇÍO NÍO DETERMINADO.
+Toxicidade aos organismos aquáticos: CRUSTÁCEOS : Espécie
+Toxicidade aos organismos aquáticos: ALGAS : Espécie
+Toxicidade a outros organismos: BACTÉRIAS
+Toxicidade a outros organismos: MUTAGENICIDADE
+E. COLI: "dns" = 1.300 umol/L
+--- PÁGINA 3 ---
+Toxicidade a outros organismos: OUTROS
+Informações sobre intoxicação humana
+EVITAR CONTATO COM O LÍQUIDO E O VAPOR. MANTER AS PESSOAS AFASTADAS. CHAMAR OS BOMBEIROS. PARAR O
+VAZAMENTO, SE POSSÍVEL. ISOLAR E REMOVER O MATERIAL DERRAMADO.
+Tipo de contato Síndrome tóxica Tratamento
+Tipo de contato Síndrome tóxica Tratamento
+LÍQUIDO IRRITANTE PARA A PELE. IRRITANTE REMOVER ROUPAS E SAPATOS
+PARA OS OLHOS. PREJUDICIAL, SE CONTAMINADOS E ENXAGUAR COM MUITA
+INGERIDO. ÁGUA. MANTER AS PÁLPEBRAS ABERTAS E
+ENXAGUAR COM MUITA ÁGUA.
+DADOS GERAIS Help
+Temperatura e armazenamento
+AMBIENTE.
+Ventilação para transporte
+PRESSÍO A VÁCUO.
+Estabilidade durante o transporte
+ESTÁVEL.
+Usos
+AGENTE FORMADOR DE ESPUMA; SÍNTESES ORGÂNICAS.
+Grau de pureza
+COMERCIAL.
+Radioatividade
+NÍO TEM.
+Método de coleta
+DADO NÍO DISPONÍVEL.
+Código NAS (National Academy of Sciences)
+NÍO LISTADO
+OBSERVAÇÕES Help
+POTENCIAL DE IONIZAÇÍO (PI) = DADO NÍO DISPONÍVEL.

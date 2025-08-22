@@ -1,0 +1,205 @@
+--- PÁGINA 1 ---
+SIGMA-ALDRICH
+FICHA DE DADOS DE SEGURANÇA
+de acordo com a Regulamento (CE) No. 1907/2006
+Versão 3.1 Data de revisão 11.12.2008
+Data de impressão 09.06.2010
+ENERIC EU MSDS - NO COUNTRY SPECIFIC DATA - NO OEL DATA
+1. IDENTIFICAÇÍO DA SUBSTÂNCIA/PREPARAÇÍO E DA SOCIEDADE/EMPRESA
+Nome do produto : (3-Aminopropyl)triethoxysilane
+Referência do Produto : A3648
+Marca : Sigma-Aldrich
+Companhia : Sigma-Aldrich Brasil Ltda.
+Av. das Nações Unidas, 23.043
+04795-100 SÍO PAULO - SP
+BRAZIL
+Telefone : +551137323100
+Número de Fax : +551155229895
+Núnero de Telefone de :
+Emergência
+2. IDENTIFICAÇÍO DOS PERIGOS
+Precauções para o homem e para o ambiente
+Nocivo por ingestão. Provoca queimaduras.
+3. COMPOSIÇÍO/INFORMAÇÍO SOBRE OS COMPONENTES
+Sinónimos : 3-Triethoxysilylpropylamine
+amino silane
+APTES
+Formula : C9H23NO3Si
+Peso molecular : 221,37 g/mol
+Nº CAS No. CE No. de Index Classificação Concentração
+3-Aminopropyltriethoxysilane
+919-30-2 213-048-4 612-108-00-0 C, R22 - R34 -
+4. PRIMEIROS SOCORROS
+Recomendação geral
+Consultar um médico. Mostrar esta ficha de segurança ao médico de serviço.
+Se for inalado
+Se for respirado, levar a pessoa para o ar fresco. Se não respirar, aplicar a respiração artificial. Consultar um
+médico.
+No caso dum contacto com a pele
+Despir imediatamente a roupa e os sapatos contaminados. Lavar com sabão e muita água. Consultar um
+médico.
+No caso dum contacto com os olhos
+Lavar cuidadosamente com muita água, durante pelo menos quinze minutos, e consultar o médico.
+Sigma-Aldrich - A3648 www.sigma-aldrich.com Página 1 of 5
+--- PÁGINA 2 ---
+Se for engolido
+NÍO provocar vómitos. Nunca dar nada pela boca a uma pessoa inconsciente. Enxaguar a boca com água.
+Consultar um médico.
+5. MEDIDAS DE COMBATE A INCÊNDIO
+Meios adequados de extinção
+Utilizar água pulverizada, espuma resistente ao álcool, produto químico seco ou dióxido de carbono.
+Equipamento especial de protecção a utilizar pelo pessoal de combate a incêndio
+Usar equipamento de respiração autónomo para combate a incêndios, se necessário.
+Outras informações
+Em situações de incêndio, o material pode se decompor para formar misturas inflamáveis e/ou explosivas no
+ar.
+6. MEDIDAS A TOMAR EM CASO DE FUGAS ACIDENTAIS
+Precauções individuais
+Usar equipamento de protecção individual. Evitar a respiração do vapor/névoa/gas. Assegurar ventilação
+adequada. Evacuar o pessoal para áreas de segurança.
+Precauções ambientais
+Não permitir a entrada do produto no sistema de esgotos.
+Métodos de limpeza
+Embeber em material inerte e absorvente e tratar como desperdício especial. Manter em recipientes fechados
+adequados, para eliminação.
+7. MANUSEAMENTO E ARMAZENAGEM
+Manuseamento
+Evitar a inalação do vapor ou da névoa.
+Medidas usuais de protecção preventiva contra incêndio.
+Armazenagem
+Armazenar em local fresco. Guardar o recipiente herméticamente fechado em lugar seco e bem ventilado. Os
+contentores abertos devem ser cuidadosamente fechados de novo e têm que ficar direitos para evitar a
+dispersão.
+Estocar sob gás inerte. Sensível à humidade.
+8. CONTROLO DA EXPOSIÇÍO/PROTECÇÍO PESSOAL
+Protecção individual
+Protecção respiratória
+Nos casos em que a avaliação de risco mostrar que os respiradores purificadores do ar são apropriados,
+use um respirador de cobertura facial total com cartuchos de combinação multi-objectivos (E.U.A.) ou do
+tipo ABEK (EN 14387) como apoio a controlos de engenharia. Se o respirador for o único meio de
+protecção, usa um respirador de ar de cobertura facial total. Use respiradores e componentes testados e
+aprovados por normas governamentais apropriadas, tais como as NIOSH (E.U.A.) ou CEN (UE).
+Protecção das mãos
+As luvas de protecção selecionadas devem satisfazer as especificações da Directiva da UE 89/686/CEE e
+o estandarte EN 374 derivado dele. Manusear com luvas.
+Protecção dos olhos
+Óculos de segurança
+Protecção do corpo e da pele
+Escolher uma protecção para o corpo conforme a quantidade e a concentração das substâncias perigosas
+no lugar de trabalho.
+Medidas de higiene
+Sigma-Aldrich - A3648 www.sigma-aldrich.com Página 2 of 5
+--- PÁGINA 3 ---
+Manusear de acordo com as boas práticas industriais de higiéne e segurança. Lavar as mãos antes de
+interrupções, e no final do dia de trabalho.
+9. PROPRIEDADES FÍSICAS E QUÍMICAS
+Aspecto
+Estado físico líquido, claro
+Cor incolor
+Dados de segurança
+pH dados não disponíveis
+Ponto de fusão dados não disponíveis
+Ponto de ebulição 213 - 216 °C
+Ponto de inflamação 98 °C - câmara fechada
+Temperatura de dados não disponíveis
+ignição
+Limites de explosão, 0,8 %(V)
+inferior
+Limite de explosão, 4,5 %(V)
+superior
+Pressão de vapor < 13 hPa a 100 °C
+133 hPa a 155 °C
+Densidade 0,949 g/cm3
+Hidrossolubilidade dados não disponíveis
+Densidade relativa 7,64
+do vapor - (Ar = 1.0)
+10. ESTABILIDADE E REACTIVIDADE
+Estabilidade em armazenamento
+Pode decompor-se em contato com ar úmido ou água. Estável sob as condições recomendadas de
+armazenamento.
+Matérias a evitar
+Agentes oxidantes fortes, Ácidos
+Produtos de decomposição perigosos
+Produtos perigosos de decomposição formados durante os incêndios. - Óxidos de carbono, óxidos de azoto
+(NOx), óxidos de silicone
+11. INFORMAÇÍO TOXICOLÓGICA
+Toxicidade aguda
+DL50 Oral - ratazana - 1.780 mg/kg
+DL50 Dérmico - coelho - 3,8 g/kg
+Irritação ou corrosão
+Pele - coelho - Grave irritação da pele - 24 h
+Olhos - coelho - Grave irritação dos olhos - 24 h
+Sensibilização
+Sigma-Aldrich - A3648 www.sigma-aldrich.com Página 3 of 5
+--- PÁGINA 4 ---
+dados não disponíveis
+Exposição crónica
+IARC: Nenhum componente deste produto presente a níveis maiores ou iguais a 0.1% é
+identificado como carcinogénio provável, possível ou confirmado pelo IARC.
+Sinais e sintomas de exposição
+O material é extremamente destrutivo para os tecidos das membranas mucosas e para o trato respiratório
+superior, os olhos e a pele., espasmo, inflamação e edema dos brônquios, pneumonite, edema pulmonar,
+sensação de queimadura, Tosse, respiração ruidosa, laringite, Respiração superficial, Dor de cabeça, Náusea,
+Vómitos
+Efeitos potenciais sobre a saúde
+Inalação Pode ser perigoso se for inalado. O material é extremamente destrutivo para os
+tecidos das membranas mucosas e do trato respiratório superior.
+Pele Pode ser perigoso se for absorto pela pele. Causa queimaduras na pele.
+Olhos Causa queimaduras nos olhos.
+Ingestão Nocivo por ingestão. Provoca queimaduras.
+Orgãos alvo Nervos, Fígado, Rim,
+Informação adicional
+RTECS: TX2100000
+12. INFORMAÇÍO ECOLÓGICA
+Informação sobre eliminação (persistência e degradabilidade)
+dados não disponíveis
+Efeitos de ecotoxicidade
+dados não disponíveis
+Informações suplementares sobre a ecologia
+dados não disponíveis
+13. CONSIDERAÇÕES RELATIVAS À ELIMINAÇÍO
+Produto
+Observar todos os regulamentos ambientais federais, estaduais e locais. Entrar em contato com um serviço
+profissional credenciado de descarte de lixo para descartar esse material. Dissolver ou misturar o material com
+um solvente combustível e queimar em incinerador químico equipado com pós-combustor e purificador de
+gases.
+Embalagens contaminadas
+Eliminar como produto Não utilizado.
+14. INFORMAÇÕES RELATIVAS AO TRANSPORTE
+ADR/RID
+Número ONU: 2735 Classe: 8 Grupo de embalagem: II
+Denominação de expedição correcta: AMINES, LIQUID, CORROSIVE, N.O.S. (3-Aminopropyltriethoxysilane)
+IMDG
+Número ONU: 2735 Classe: 8 Grupo de embalagem: II EMS-No: F-A, S-B
+Denominação de expedição correcta: AMINES, LIQUID, CORROSIVE, N.O.S. (3-Aminopropyltriethoxysilane)
+Poluente marinho: No
+IATA
+Número ONU: 2735 Classe: 8 Grupo de embalagem: II
+Sigma-Aldrich - A3648 www.sigma-aldrich.com Página 4 of 5
+--- PÁGINA 5 ---
+Denominação de expedição correcta: Amines, liquid, corrosive n.o.s. (3-Aminopropyltriethoxysilane)
+15. INFORMAÇÍO SOBRE REGULAMENTAÇÍO
+Rotulado de acordo com as directivas da CE
+Rotulagem CE
+Símbolos de perigo
+C Corrosivo
+Frase(s) - R
+R22 Nocivo por ingestão.
+R34 Provoca queimaduras.
+Frase(s) - S
+S26 Em caso de contacto com os olhos, lavar imediata e abundantemente com água e
+consultar um especialista.
+S36/37/39 Usar vestuário de protecção, luvas e equipamento protector para os olhos/face
+adequados.
+S45 Em caso de acidente ou de indisposição, consultar imediatamente o médico (se
+possível mostrar-lhe o rótulo).
+16. OUTRAS INFORMAÇÕES
+Outras informações
+Direitos exclusivos, 2008, da Sigma-Aldrich. Permissão concedida para fazer número ilimitado de cópias
+em papel, somente para uso interno.
+Acredita-se que as informações acima estejam corretas, embora não pretendam ser totalmente
+abrangentes, devendo ser usadas apenas como um guia. A Sigma-Aldrich não deverá ter responsabilidade
+legal por quaisquer danos resultantes do manuseio ou do contato com o produto acima. Consultar o verso
+da fatura ou nota que acompanha o produto para tomar conhecimento dos termos adicionais e condições
+de venda.
+Sigma-Aldrich - A3648 www.sigma-aldrich.com Página 5 of 5

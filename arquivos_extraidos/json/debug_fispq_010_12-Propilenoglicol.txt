@@ -1,0 +1,164 @@
+--- PÁGINA 1 ---
+SIGMA-ALDRICH
+FICHA DE DADOS DE SEGURANÇA
+de acordo com a Regulamento (CE) No. 1907/2006
+Versão 3.0 Data de revisão 22.08.2009
+Data de impressão 09.06.2010
+ENERIC EU MSDS - NO COUNTRY SPECIFIC DATA - NO OEL DATA
+1. IDENTIFICAÇÍO DA SUBSTÂNCIA/PREPARAÇÍO E DA SOCIEDADE/EMPRESA
+Nome do produto : Propylene glycol
+Referência do Produto : W294004
+Marca : Aldrich
+Companhia : Sigma-Aldrich Brasil Ltda.
+Av. das Nações Unidas, 23.043
+04795-100 SÍO PAULO - SP
+BRAZIL
+Telefone : +551137323100
+Número de Fax : +551155229895
+Núnero de Telefone de :
+Emergência
+2. IDENTIFICAÇÍO DOS PERIGOS
+Esta substância não é classificada como perigosa de acordo com a Directiva 67/548/CEE.
+3. COMPOSIÇÍO/INFORMAÇÍO SOBRE OS COMPONENTES
+Sinónimos : Propylene glycol
+1,2-Propanediol
+Formula : C3H8O2
+Peso molecular : 76,09 g/mol
+Nº CAS No. CE No. de Index Classificação Concentração
+Propane-1,2-diol
+57-55-6 200-338-0 - - -
+4. PRIMEIROS SOCORROS
+Se for inalado
+Se for respirado, levar a pessoa para o ar fresco. Se não respirar, aplicar a respiração artificial.
+No caso dum contacto com a pele
+Lavar com sabão e muita água.
+No caso dum contacto com os olhos
+Lavar os olhos com água como precaução.
+Se for engolido
+Nunca dar nada pela boca a uma pessoa inconsciente. Enxaguar a boca com água.
+5. MEDIDAS DE COMBATE A INCÊNDIO
+Meios adequados de extinção
+Utilizar água pulverizada, espuma resistente ao álcool, produto químico seco ou dióxido de carbono.
+Aldrich - W294004 www.sigma-aldrich.com Página 1 of 4
+--- PÁGINA 2 ---
+Equipamento especial de protecção a utilizar pelo pessoal de combate a incêndio
+Usar equipamento de respiração autónomo para combate a incêndios, se necessário.
+6. MEDIDAS A TOMAR EM CASO DE FUGAS ACIDENTAIS
+Precauções individuais
+Evitar a respiração do vapor/névoa/gas.
+Precauções ambientais
+Não permitir a entrada do produto no sistema de esgotos.
+Métodos de limpeza
+Manter em recipientes fechados adequados, para eliminação.
+7. MANUSEAMENTO E ARMAZENAGEM
+Manuseamento
+Medidas usuais de protecção preventiva contra incêndio.
+Armazenagem
+Armazenar em local fresco. Guardar o recipiente herméticamente fechado em lugar seco e bem ventilado.
+higroscópico
+8. CONTROLO DA EXPOSIÇÍO/PROTECÇÍO PESSOAL
+Protecção individual
+Protecção respiratória
+Não é necessária protecção respiratória. Se desejar protecção, use cartuchos de respiração de
+combinação de multi-objectivos (E.U.A.) ou do tipo ABEK (EN 14387). Use respiradores e componentes
+testados e aprovados por normas governamentais apropriadas, tais como as NIOSH (E.U.A.) ou CEN (UE).
+Protecção das mãos
+Para um contacto prologado ou repetitivo pôr luvas de protecção.
+Protecção dos olhos
+Óculos de segurança
+Medidas de higiene
+Prática geral de higiéne industrial.
+9. PROPRIEDADES FÍSICAS E QUÍMICAS
+Aspecto
+Estado físico líquido, claro, viscoso
+Cor incolor
+Dados de segurança
+pH dados não disponíveis
+Ponto de fusão -60 °C - lit.
+Ponto de ebulição 187 °C - lit.
+Ponto de inflamação 103 °C - câmara fechada
+Temperatura de 415 °C
+ignição
+Limites de explosão, 2,6 %(V)
+inferior
+Limite de explosão, 12,5 %(V)
+superior
+Aldrich - W294004 www.sigma-aldrich.com Página 2 of 4
+--- PÁGINA 3 ---
+Pressão de vapor 0,11 hPa a 20 °C
+Hidrossolubilidade dados não disponíveis
+Densidade relativa 2,63
+do vapor - (Ar = 1.0)
+10. ESTABILIDADE E REACTIVIDADE
+Estabilidade em armazenamento
+Estável sob as condições recomendadas de armazenamento.
+Matérias a evitar
+Cloretos ácidos, Anídridos de ácido, Oxidantes, Cloroformatos, Agentes redutores
+Produtos de decomposição perigosos
+Produtos perigosos de decomposição formados durante os incêndios. - Óxidos de carbono
+Produtos perigosos de decomposição formados durante os incêndios. - A natureza dos produtos de
+decomposição não é conhecida.
+11. INFORMAÇÍO TOXICOLÓGICA
+Toxicidade aguda
+DL50 Oral - ratazana - 20.000 mg/kg
+DL50 Dérmico - coelho - 20.800 mg/kg
+Irritação ou corrosão
+Pele - Humano - Leve irritação da pele - 7 d
+Olhos - coelho - Ligeira irritação dos olhos
+Sensibilização
+dados não disponíveis
+Exposição crónica
+IARC: Nenhum componente deste produto presente a níveis maiores ou iguais a 0.1% é
+identificado como carcinogénio provável, possível ou confirmado pelo IARC.
+Sinais e sintomas de exposição
+Distúrbios gastro-intestinais, Náusea, Dor de cabeça, Vómitos, Depressão do sistema nervoso central
+Efeitos potenciais sobre a saúde
+Inalação Pode ser perigoso se for inalado. Pode causar uma irritação do aparelho
+respiratório.
+Pele Pode ser perigoso se for absorto pela pele. Pode causar uma irritação da pele.
+Olhos Pode causar uma irritação dos olhos.
+Ingestão Pode ser perigoso se for engolido.
+Informação adicional
+RTECS: TY2000000
+12. INFORMAÇÍO ECOLÓGICA
+Informação sobre eliminação (persistência e degradabilidade)
+dados não disponíveis
+Efeitos de ecotoxicidade
+Toxicidade em mortalidade NOEC - Pimephales promelas (vairão gordo) - 52.930 mg/l - 96 h
+Aldrich - W294004 www.sigma-aldrich.com Página 3 of 4
+--- PÁGINA 4 ---
+peixes
+Toxicidade em mortalidade NOEC - Dáfnia - 13.020 mg/l - 48 h
+dáfnias e outros
+invertebrados
+aquáticos.
+CE50 - Daphnia magna - > 10.000 mg/l - 48 h
+Informações suplementares sobre a ecologia
+dados não disponíveis
+13. CONSIDERAÇÕES RELATIVAS À ELIMINAÇÍO
+Produto
+Observar todos os regulamentos ambientais federais, estaduais e locais.
+Embalagens contaminadas
+Eliminar como produto Não utilizado.
+14. INFORMAÇÕES RELATIVAS AO TRANSPORTE
+ADR/RID
+Mercadorias não perigosas
+IMDG
+Mercadorias não perigosas
+IATA
+Mercadorias não perigosas
+15. INFORMAÇÍO SOBRE REGULAMENTAÇÍO
+Rotulado de acordo com as directivas da CE
+Outras informações:
+O produto não necessita ser etiquetado de acordo com as directivas EC ou das respectivas leis
+nacionais.
+16. OUTRAS INFORMAÇÕES
+Outras informações
+Direitos exclusivos, 2009, da Sigma-Aldrich. Permissão concedida para fazer número ilimitado de cópias
+em papel, somente para uso interno.
+Acredita-se que as informações acima estejam corretas, embora não pretendam ser totalmente
+abrangentes, devendo ser usadas apenas como um guia. A Sigma-Aldrich não deverá ter responsabilidade
+legal por quaisquer danos resultantes do manuseio ou do contato com o produto acima. Consultar o verso
+da fatura ou nota que acompanha o produto para tomar conhecimento dos termos adicionais e condições
+de venda.
+Aldrich - W294004 www.sigma-aldrich.com Página 4 of 4
