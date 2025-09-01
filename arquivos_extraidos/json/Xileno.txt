@@ -1,0 +1,1302 @@
+| FICHA DE INFORMAÇÕES DE SEGURANÇA
+DE PRODUTO QUÍMICO - FISPQ | 
+Nome do Produto: XILENO FISPQ No: 06 | | 
+Revisão: 4 Data da Última Revisão: 22/12/2014 Página: 1 de 19 | | 
+ | | 
+1. IDENTIFICAÇÃO DO PRODUTO E DA EMPRESA | | 
+Nome do Produto: XILENO
+Código Interno de Identificação do
+01.037.1.0.2 / 01.037.1.1.0
+Produto:
+Nome da Empresa: Atlanta Química Industrial Ltda.
+Endereço: Rua Emília Golin, 684 – Bonsucesso
+Guarulhos / S.P. - Cep : 07250-155
+Telefone da Empresa / Fax: (11) 2413-4100 / (11) 2413-4128
+Nome do Responsável Técnico: Hermenegildo Pereira – CRQ IV 004427057
+Telefones para Emergências: 0800-11-8270 Pró-Química
+(11) 2413-4100 Atlanta Química Indl. Ltda.
+0800 0111 767 / 0800 7071 767-SOS COTEC
+193 - Bombeiros
+E-mail: info@atlantaquimica.com.br | | 
+2. IDENTIFICAÇÃO DE PERIGOS | | 
+Líquidos inflamáveis – Categoria 3
+Corrosão/irritação à pele – Categoria 2
+Toxicidade à reprodução – Categoria 2
+Toxicidade para órgãos-alvo específicos –
+Classificação de perigo do produto: Exposição única –
+Categoria 3
+Toxicidade para órgãos-alvo específicos –
+Exposição repetida –
+Categoria 2
+Perigo por aspiração – Categoria 1
+Perigoso ao ambiente aquático – Agudo –
+Categoria 2 | | 
+FICHA DE INFORMAÇÕES DE SEGURANÇA
+DE PRODUTO QUÍMICO - FISPQ
+Nome do Produto: XILENO FISPQ No: 06
+Revisão: 4 Data da Última Revisão: 22/12/2014 Página: 1 de 19
+1. IDENTIFICAÇÃO DO PRODUTO E DA EMPRESA
+Nome do Produto: XILENO
+Código Interno de Identificação do
+01.037.1.0.2 / 01.037.1.1.0
+Produto:
+Nome da Empresa: Atlanta Química Industrial Ltda.
+Endereço: Rua Emília Golin, 684 – Bonsucesso
+Guarulhos / S.P. - Cep : 07250-155
+Telefone da Empresa / Fax: (11) 2413-4100 / (11) 2413-4128
+Nome do Responsável Técnico: Hermenegildo Pereira – CRQ IV 004427057
+Telefones para Emergências: 0800-11-8270 Pró-Química
+(11) 2413-4100 Atlanta Química Indl. Ltda.
+0800 0111 767 / 0800 7071 767-SOS COTEC
+193 - Bombeiros
+E-mail: info@atlantaquimica.com.br
+2. IDENTIFICAÇÃO DE PERIGOS
+Líquidos inflamáveis – Categoria 3
+Corrosão/irritação à pele – Categoria 2
+Toxicidade à reprodução – Categoria 2
+Toxicidade para órgãos-alvo específicos –
+Classificação de perigo do produto: Exposição única –
+Categoria 3
+Toxicidade para órgãos-alvo específicos –
+Exposição repetida –
+Categoria 2
+Perigo por aspiração – Categoria 1
+Perigoso ao ambiente aquático – Agudo –
+Categoria 2
+ | FICHA DE INFORMAÇÕES DE SEGURANÇA
+DE PRODUTO QUÍMICO - FISPQ | 
+Nome do Produto: XILENO FISPQ No: 06 | | 
+Revisão: 4 Data da Última Revisão: 22/12/2014 Página: 1 de 19 | | 
+Sistema de classificação utilizado: Norma ABNT-NBR 14725-2:2009 – versão
+corrigida 2:2010.
+Sistema Globalmente Harmonizado para a
+Classificação e Rotulagem de Produtos
+Químicos, ONU.
+Outros perigos que não resultam em uma O produto pode formar misturas explosivas em
+lassificação: contato com o ar.
+ELEMENTOS APROPRIADOS PARA ROTULAGEM
+Pictogramas:
+Palavra de Advertência: PERIGO
+Frases de perigo: H226 – Líquidos e vapores inflamáveis.
+H315 – Provoca irritação à pele.
+H319 – Provoca irritação ocular grave.
+H335 – Pode provocar irritação das vias respiratórias.
+H304 – Pode ser fatal se ingerido e penetrar nas vias
+erespiratórias.
+H401 – Tóxico para os organismos aquáticos. | | 
+FICHA DE INFORMAÇÕES DE SEGURANÇA
+DE PRODUTO QUÍMICO - FISPQ
+Nome do Produto: XILENO FISPQ No: 06
+Revisão: 4 Data da Última Revisão: 22/12/2014 Página: 1 de 19
+Sistema de classificação utilizado: Norma ABNT-NBR 14725-2:2009 – versão
+corrigida 2:2010.
+Sistema Globalmente Harmonizado para a
+Classificação e Rotulagem de Produtos
+Químicos, ONU.
+Outros perigos que não resultam em uma O produto pode formar misturas explosivas em
+classificação: contato com o ar.
+ELEMENTOS APROPRIADOS PARA ROTULAGEM
+Pictogramas:
+Palavra de Advertência: PERIGO
+Frases de perigo: H226 – Líquidos e vapores inflamáveis.
+H315 – Provoca irritação à pele.
+H319 – Provoca irritação ocular grave.
+H335 – Pode provocar irritação das vias respiratórias.
+H304 – Pode ser fatal se ingerido e penetrar nas vias
+erespiratórias.
+H401 – Tóxico para os organismos aquáticos.
+ | FICHA DE INFORMAÇÕES DE SEGURANÇA
+DE PRODUTO QUÍMICO - FISPQ | 
+Nome do Produto: XILENO FISPQ No: 06 | | 
+Revisão: 4 Data da Última Revisão: 22/12/2014 Página: 1 de 19 | | 
+Frases de precaução:
+Prevenção:
+P210 – Mantenha afastado do calor, faísca, chama aberta e superfícies
+quentes – Não fume.
+P233 – Mantenha o recipiente hermeticamente fechado.
+P240 – Aterre o vaso contentor e o receptor do produto durante transfer
+P241 – Utilize equipamento elétrico, de ventilação e de iluminação à pro
+explosão.
+P242 – Utilize apenas ferramentas antifaiscantes.
+P243 – Evite o acúmulo de cargas estáticas.
+P261 – Evite inalar os fumos, gases, névoas, vapores e aerossóis.
+P264 – Lave cuidadosamente após o manuseio.
+P271 – Utilize apenas ao ar livre ou em locais bem ventilados.
+P273 – Evite a liberação para o meio ambiente.
+P280 – Use luvas de proteção, roupa de proteção, proteção ocular e pro
+facial.
+P301 + P310 – EM CASO DE INGESTÃO: Contate imediatamente um C
+Resposta à Emergência:
+DE INFORMAÇÃO TOXICOLÓGICA ou um médico.
+P302 + P352 – EM CASO DE CONTATO COM A PELE: Lave com água
+sabão em abundância.
+P303 + P361 + P353 – EM CASO DE CONTATO COM A PELE (ou com
+cabelo) Retire imediatamente toda a roupa contaminada. Enxague a pele
+água / tome uma ducha.
+P304 + P340 – EM CASO DE INALAÇÃO: Remova a pessoa para loca
+ventilado e a mantenha em repouso numa posição que não
+dificulte a respiração.
+P308 + P313 – EM CASO DE exposição ou suspeita de exposição: Con
+uum médico.
+P312 – Em caso de indisposição contate um CENTRO DE INFORMAÇ
+TTOXICOLOGICA ou um médico.
+P314 – Em caso de mal estar consulte um médico.
+P321 – Tratamento específico (ver no rótulo).
+P331 – NÃO provoque vômito.
+P332 + P313 – Em caso de irritação cutânea: Consulte um médico.
+P362 + P364 – Retire toda a roupa contaminada e lave-a antes de usá-l
+nnovamente.
+P370 + P378 – Em caso de incêndio: Para a extinção utilize pó químico
+eespuma para hidrocarbonetos, dióxido de carbono (CO2) e neblina de ág
+P403 + P233 – Armazene em local bem ventilado. Mantendo o
+- Armazenamento:
+r recipiente hermeticamente fechado.
+P403 + P235 – Armazene em local bem ventilado. Mantenha em
+l local fresco.
+P405 – Armazene em local fechado à chave.
+P501 – Descarte o produto em local devidamente regulamentado
+Disposição: e licenciado de acordo com as legislações Municipais, Estaduais e
+FFederais. | | 
+FICHA DE INFORMAÇÕES DE SEGURANÇA
+DE PRODUTO QUÍMICO - FISPQ
+Nome do Produto: XILENO FISPQ No: 06
+Revisão: 4 Data da Última Revisão: 22/12/2014 Página: 1 de 19
+Frases de precaução:
+- Prevenção:
+P210 – Mantenha afastado do calor, faísca, chama aberta e superfícies
+quentes – Não fume.
+P233 – Mantenha o recipiente hermeticamente fechado.
+P240 – Aterre o vaso contentor e o receptor do produto durante transferências.
+P241 – Utilize equipamento elétrico, de ventilação e de iluminação à prova de
+explosão.
+P242 – Utilize apenas ferramentas antifaiscantes.
+P243 – Evite o acúmulo de cargas estáticas.
+P261 – Evite inalar os fumos, gases, névoas, vapores e aerossóis.
+P264 – Lave cuidadosamente após o manuseio.
+P271 – Utilize apenas ao ar livre ou em locais bem ventilados.
+P273 – Evite a liberação para o meio ambiente.
+P280 – Use luvas de proteção, roupa de proteção, proteção ocular e proteção
+facial.
+P301 + P310 – EM CASO DE INGESTÃO: Contate imediatamente um CENTRO
+- Resposta à Emergência:
+DE INFORMAÇÃO TOXICOLÓGICA ou um médico.
+P302 + P352 – EM CASO DE CONTATO COM A PELE: Lave com água e
+sabão em abundância.
+P303 + P361 + P353 – EM CASO DE CONTATO COM A PELE (ou com o
+cabelo) Retire imediatamente toda a roupa contaminada. Enxague a pele com
+água / tome uma ducha.
+P304 + P340 – EM CASO DE INALAÇÃO: Remova a pessoa para local
+ventilado e a mantenha em repouso numa posição que não
+dificulte a respiração.
+P308 + P313 – EM CASO DE exposição ou suspeita de exposição: Consulte
+uum médico.
+P312 – Em caso de indisposição contate um CENTRO DE INFORMAÇÃO
+TTOXICOLOGICA ou um médico.
+P314 – Em caso de mal estar consulte um médico.
+P321 – Tratamento específico (ver no rótulo).
+P331 – NÃO provoque vômito.
+P332 + P313 – Em caso de irritação cutânea: Consulte um médico.
+P362 + P364 – Retire toda a roupa contaminada e lave-a antes de usá-la
+nnovamente.
+P370 + P378 – Em caso de incêndio: Para a extinção utilize pó químico seco,
+eespuma para hidrocarbonetos, dióxido de carbono (CO2) e neblina de água.
+P403 + P233 – Armazene em local bem ventilado. Mantendo o
+- Armazenamento:
+r recipiente hermeticamente fechado.
+P403 + P235 – Armazene em local bem ventilado. Mantenha em
+l local fresco.
+P405 – Armazene em local fechado à chave.
+P501 – Descarte o produto em local devidamente regulamentado
+- Disposição: e licenciado de acordo com as legislações Municipais, Estaduais e
+FFederais.
+ | FICHA DE INFORMAÇÕES DE SEGURANÇA
+DE PRODUTO QUÍMICO - FISPQ | | 
+Nome do Produto: XILENO FISPQ No: 06 | | | 
+Revisão: 4 Data da Última Revisão: 22/12/2014 Página: 1 de 19 | | | 
+ | | | 
+3 – COMPOSIÇÃO E INFORMAÇÕES SOBRE OS INGREDIENTES | | | 
+ste produto é uma SUBSTÂNCIA
+Nome químico comum ou técnico: Xileno.
+inônimo: Dimetilbenzeno, xilenos mistos, xilol.
+Número de Registro CAS: 1330-20-7
+mpurezas que contribuam para o Componente Concentração CAS
+erigo: Etilbenzeno 9% 100-41-4 | | | 
+4 – MEDIDAS DE PRIMEIROS-SOCORROS | | | 
+ | | | 
+Inalação: | | Remova a vítima para local ventilado e a
+mantenha em repouso numa posição que não
+dificulte a respiração. Caso sinta indisposição,
+contate um CENTRO DE INFORMAÇÃO
+TOXICOLÓGICA ou um médico. Leve esta FISP | Q.
+ | | | 
+Contato com a pele: | | Lave a pele exposta com quantidade suficiente
+de água e sabão para remoção do material. E
+caso de irritação cutânea: Consulte um médico
+Leve esta FISPQ. | m
+.
+Contato com os olhos: | | Enxágue cuidadosamente com água durante
+vários minutos mantendo as pálpebras abertas
+No caso de uso de lentes de contato, remova-
+se for fácil. Continue enxaguando. Caso a
+irritação ocular persista: consulte um médico.
+Leve esta FISPQ. | .
+as,
+Ingestão: | | Não induza o vômito. Nunca forneça algo por
+oral a uma pessoa inconsciente. Lave a boca d
+vítima com água em abundância. Caso sinta
+indisposição, contate um CENTRO DE
+INFORMAÇÃO TOXICOLÓGICA ou um médico.
+Leve esta FISPQ. | via
+a
+ | | | 
+FICHA DE INFORMAÇÕES DE SEGURANÇA
+DE PRODUTO QUÍMICO - FISPQ
+Nome do Produto: XILENO FISPQ No: 06
+Revisão: 4 Data da Última Revisão: 22/12/2014 Página: 1 de 19
+3 – COMPOSIÇÃO E INFORMAÇÕES SOBRE OS INGREDIENTES
+Este produto é uma SUBSTÂNCIA
+Nome químico comum ou técnico: Xileno.
+Sinônimo: Dimetilbenzeno, xilenos mistos, xilol.
+Número de Registro CAS: 1330-20-7
+Impurezas que contribuam para o Componente Concentração CAS
+perigo: Etilbenzeno 9% 100-41-4
+4 – MEDIDAS DE PRIMEIROS-SOCORROS
+Inalação: Remova a vítima para local ventilado e a
+mantenha em repouso numa posição que não
+dificulte a respiração. Caso sinta indisposição,
+contate um CENTRO DE INFORMAÇÃO
+TOXICOLÓGICA ou um médico. Leve esta FISPQ.
+Contato com a pele: Lave a pele exposta com quantidade suficiente
+de água e sabão para remoção do material. Em
+caso de irritação cutânea: Consulte um médico.
+Leve esta FISPQ.
+Contato com os olhos: Enxágue cuidadosamente com água durante
+vários minutos mantendo as pálpebras abertas.
+No caso de uso de lentes de contato, remova-as,
+se for fácil. Continue enxaguando. Caso a
+irritação ocular persista: consulte um médico.
+Leve esta FISPQ.
+Ingestão: Não induza o vômito. Nunca forneça algo por via
+oral a uma pessoa inconsciente. Lave a boca da
+vítima com água em abundância. Caso sinta
+indisposição, contate um CENTRO DE
+INFORMAÇÃO TOXICOLÓGICA ou um médico.
+Leve esta FISPQ.
+ | FICHA DE INFORMAÇÕES DE SEGURANÇA
+DE PRODUTO QUÍMICO - FISPQ | | 
+Nome do Produto: XILENO FISPQ No: 06 | | | 
+Revisão: 4 Data da Última Revisão: 22/12/2014 Página: 1 de 19 | | | 
+ | | | 
+Sintomas e efeitos mais importantes,
+agudos ou tardios: | | Provoca irritação à pele com vermelhidão, dor
+ressecamento. Pode provocar leve irritação
+ocular com lacrimejamento e vermelhidão. Po
+ser fatal se aspirado e penetrar nas vias
+respiratórias com edema pulmonar e pneumon
+química. A exposição única pode provocar efei
+narcóticos como tontura, sonolência,
+inconsciência, náusea, dor de cabeça e
+incoordenação motora; e, em elevadas
+concentrações, pode provocar irritação das via
+respiratórias com tosse, dor de garganta e
+dificuldade respiratória. A exposição repetida o
+prolongada pode provocar danos ao sistema
+nervoso central com perda de memória,
+distúrbios no sono, perda da habilidade de
+concentração, incoordenação motora, disfunçã
+auditiva e distúrbios visuais. | e
+de
+ite
+tos
+s
+u
+o
+Notas para médico: | | Evite contato com o produto ao socorrer a víti
+Se necessário, o tratamento sintomático deve
+compreender, sobretudo, medidas de suporte
+como correção de distúrbios hidroeletrolíticos,
+metabólicos, além de assistência respiratória.
+caso de contato com a pele, não friccione o lo
+atingido. | ma.
+Em
+cal
+ | | | 
+5 – MEDIDAS DE COMBATE A INCÊNDIO | | | 
+ | | | 
+Meios de extinção: | | Apropriados: Compatível com pó químico seco
+espuma para hidrocarbonetos, dióxido de
+carbono (CO2) e neblina d’água.
+Não recomendados: Água diretamente sobre o
+líquido em chamas. | ,
+Perigos específicos da mistura ou
+substância: | | Muito perigoso quando exposto a calor excess
+ou outras fontes de ignição como: faíscas,
+chamas abertas ou chamas de fósforos e
+cigarros, operações de solda, lâmpadas-piloto
+motores elétricos. Pode acumular carga estátic
+por fluxo ou agitação. Os vapores do líquido
+aquecido podem incendiar-se por descarga
+estática. Os vapores podem ser mais densos q | ivo
+e
+a
+ue
+ | | | 
+FICHA DE INFORMAÇÕES DE SEGURANÇA
+DE PRODUTO QUÍMICO - FISPQ
+Nome do Produto: XILENO FISPQ No: 06
+Revisão: 4 Data da Última Revisão: 22/12/2014 Página: 1 de 19
+Sintomas e efeitos mais importantes, Provoca irritação à pele com vermelhidão, dor e
+agudos ou tardios: ressecamento. Pode provocar leve irritação
+ocular com lacrimejamento e vermelhidão. Pode
+ser fatal se aspirado e penetrar nas vias
+respiratórias com edema pulmonar e pneumonite
+química. A exposição única pode provocar efeitos
+narcóticos como tontura, sonolência,
+inconsciência, náusea, dor de cabeça e
+incoordenação motora; e, em elevadas
+concentrações, pode provocar irritação das vias
+respiratórias com tosse, dor de garganta e
+dificuldade respiratória. A exposição repetida ou
+prolongada pode provocar danos ao sistema
+nervoso central com perda de memória,
+distúrbios no sono, perda da habilidade de
+concentração, incoordenação motora, disfunção
+auditiva e distúrbios visuais.
+Notas para médico: Evite contato com o produto ao socorrer a vítima.
+Se necessário, o tratamento sintomático deve
+compreender, sobretudo, medidas de suporte
+como correção de distúrbios hidroeletrolíticos,
+metabólicos, além de assistência respiratória. Em
+caso de contato com a pele, não friccione o local
+atingido.
+5 – MEDIDAS DE COMBATE A INCÊNDIO
+Meios de extinção: Apropriados: Compatível com pó químico seco,
+espuma para hidrocarbonetos, dióxido de
+carbono (CO2) e neblina d’água.
+Não recomendados: Água diretamente sobre o
+líquido em chamas.
+Perigos específicos da mistura ou Muito perigoso quando exposto a calor excessivo
+substância: ou outras fontes de ignição como: faíscas,
+chamas abertas ou chamas de fósforos e
+cigarros, operações de solda, lâmpadas-piloto e
+motores elétricos. Pode acumular carga estática
+por fluxo ou agitação. Os vapores do líquido
+aquecido podem incendiar-se por descarga
+estática. Os vapores podem ser mais densos que
+ | FICHA DE INFORMAÇÕES DE SEGURANÇA
+DE PRODUTO QUÍMICO - FISPQ | | 
+Nome do Produto: XILENO FISPQ No: 06 | | | 
+Revisão: 4 Data da Última Revisão: 22/12/2014 Página: 1 de 19 | | | 
+ | | | 
+ | | o ar e tendem a se acumular em áreas baixas
+confinadas, como bueiros e porões. Podem
+deslocar-se por grandes distâncias provocando
+retrocesso da chama ou novos focos de incênd
+tanto em ambientes abertos como confinados.
+contêineres podem explodir se aquecidos. A
+combustão do produto químico ou de sua
+embalagem pode formar gases irritantes e
+tóxicos como monóxido e dióxido de carbono. | ou
+io
+Os
+Medidas de proteção da equipe de combate
+a incêndio: | | Equipamento de proteção respiratória do tipo
+autônomo (SCBA) com pressão positiva e
+vestuário protetor completo. Contêineres e
+tanques envolvidos no incêndio devem ser
+resfriados com neblina d’água. | 
+ | | | 
+6 – MEDIDAS DE CONTROLE PARA DERRAMAMENTO OU VAZAMENTO | | | 
+ | | | 
+Precauções pessoais | | | 
+Para o pessoal que não faz parte dos serviços de
+emergência: | | Impeça fagulhas ou chamas. Não fume. Não
+toque nos recipientes danificados ou no mater
+derramado sem o uso de vestimentas adequad
+Evite exposição ao produto. Permaneça afasta
+de áreas baixas, tendo o vento pelas costas.
+Utilize equipamento de proteção individual
+conforme descrito na seção 8.Evacuar a área
+próxima ao derramamento/vazamento. | ial
+as.
+do
+Para o pessoal de serviço de emergência: | | Utilize EPI completo com óculos de segurança
+com proteção lateral, luvas de segurança de P
+ou látex, vestuário protetor adequado e sapat
+fechados. O material utilizado deve ser
+impermeável. Em caso de grandes vazamento
+onde a exposição é grande, recomenda-se o u
+de máscara de proteção com filtro contra vapo
+orgânico. Isole o vazamento de fontes de
+ignição. Evacue a área, num raio de, no mínim
+100 metros. Mantenha as pessoas não | VC
+os
+s,
+so
+res
+o,
+ | | | 
+FICHA DE INFORMAÇÕES DE SEGURANÇA
+DE PRODUTO QUÍMICO - FISPQ
+Nome do Produto: XILENO FISPQ No: 06
+Revisão: 4 Data da Última Revisão: 22/12/2014 Página: 1 de 19
+o ar e tendem a se acumular em áreas baixas ou
+confinadas, como bueiros e porões. Podem
+deslocar-se por grandes distâncias provocando
+retrocesso da chama ou novos focos de incêndio
+tanto em ambientes abertos como confinados. Os
+contêineres podem explodir se aquecidos. A
+combustão do produto químico ou de sua
+embalagem pode formar gases irritantes e
+tóxicos como monóxido e dióxido de carbono.
+Medidas de proteção da equipe de combate Equipamento de proteção respiratória do tipo
+a incêndio: autônomo (SCBA) com pressão positiva e
+vestuário protetor completo. Contêineres e
+tanques envolvidos no incêndio devem ser
+resfriados com neblina d’água.
+6 – MEDIDAS DE CONTROLE PARA DERRAMAMENTO OU VAZAMENTO
+Precauções pessoais
+Para o pessoal que não faz parte dos serviços de Impeça fagulhas ou chamas. Não fume. Não
+emergência: toque nos recipientes danificados ou no material
+derramado sem o uso de vestimentas adequadas.
+Evite exposição ao produto. Permaneça afastado
+de áreas baixas, tendo o vento pelas costas.
+Utilize equipamento de proteção individual
+conforme descrito na seção 8.Evacuar a área
+próxima ao derramamento/vazamento.
+Para o pessoal de serviço de emergência: Utilize EPI completo com óculos de segurança
+com proteção lateral, luvas de segurança de PVC
+ou látex, vestuário protetor adequado e sapatos
+fechados. O material utilizado deve ser
+impermeável. Em caso de grandes vazamentos,
+onde a exposição é grande, recomenda-se o uso
+de máscara de proteção com filtro contra vapores
+orgânico. Isole o vazamento de fontes de
+ignição. Evacue a área, num raio de, no mínimo,
+100 metros. Mantenha as pessoas não
+ | FICHA DE INFORMAÇÕES DE SEGURANÇA
+DE PRODUTO QUÍMICO - FISPQ | | 
+Nome do Produto: XILENO FISPQ No: 06 | | | 
+Revisão: 4 Data da Última Revisão: 22/12/2014 Página: 1 de 19 | | | 
+ | | | 
+ | | autorizadas afastadas da área. Pare o
+vazamento, se isso puder ser feito sem risco.
+Utilizar apenas ferramentas antifaiscante e à
+prova de explosão. | 
+Precauções ao meio ambiente: | | Evite que o produto derramado atinja cursos
+d’água e rede de esgotos. Não descarte
+diretamente no meio ambiente ou na rede de
+esgoto. A água de diluição proveniente do
+combate ao fogo pode causar poluição. | 
+Métodos e materiais para contenção e limpeza: | | Utilize névoa de água ou espuma supressora d
+vapor para reduzir a dispersão dos vapores.
+Utilize barreiras naturais ou de contenção de
+derrame. Colete o produto derramado e coloq
+em recipientes próprios. Adsorva o produto
+remanescente, com areia seca, terra, vermicul
+ou qualquer outro material inerte. Coloque o
+material adsorvido em recipientes apropriados
+remova-os para local seguro. Utilize ferrament
+que não provoquem faíscas para recolher o
+material absorvido. Para destinação final,
+proceda conforme a Seção 13 desta FISPQ. | e
+ue
+ite,
+e
+as
+Diferenças na ação de grandes e pequenos
+vazamentos: | | Grande derramamento: Confine o líquido em u
+dique longe do derramamento para posterior
+destinação apropriada. Pode ser utilizada nebli
+d’água para reduzir os vapores, mas isso não i
+prevenir a ignição em ambientes fechados. | m
+na
+rá
+ | | | 
+7 – MANUSEIO E ARMAZENAMENTO | | | 
+ | | | 
+MEDIDAS TÉCNICAS APROPRIADAS PARA O MANUSEIO | | | 
+Precauções para manuseio seguro: | | Manuseie em uma área ventilada ou com siste
+geral de ventilação/exaustão local. Evite
+formação de vapores ou névoas. Evite exposiç | ma
+ão
+ | | | 
+FICHA DE INFORMAÇÕES DE SEGURANÇA
+DE PRODUTO QUÍMICO - FISPQ
+Nome do Produto: XILENO FISPQ No: 06
+Revisão: 4 Data da Última Revisão: 22/12/2014 Página: 1 de 19
+autorizadas afastadas da área. Pare o
+vazamento, se isso puder ser feito sem risco.
+Utilizar apenas ferramentas antifaiscante e à
+prova de explosão.
+Precauções ao meio ambiente: Evite que o produto derramado atinja cursos
+d’água e rede de esgotos. Não descarte
+diretamente no meio ambiente ou na rede de
+esgoto. A água de diluição proveniente do
+combate ao fogo pode causar poluição.
+Métodos e materiais para contenção e limpeza: Utilize névoa de água ou espuma supressora de
+vapor para reduzir a dispersão dos vapores.
+Utilize barreiras naturais ou de contenção de
+derrame. Colete o produto derramado e coloque
+em recipientes próprios. Adsorva o produto
+remanescente, com areia seca, terra, vermiculite,
+ou qualquer outro material inerte. Coloque o
+material adsorvido em recipientes apropriados e
+remova-os para local seguro. Utilize ferramentas
+que não provoquem faíscas para recolher o
+material absorvido. Para destinação final,
+proceda conforme a Seção 13 desta FISPQ.
+Diferenças na ação de grandes e pequenos Grande derramamento: Confine o líquido em um
+vazamentos: dique longe do derramamento para posterior
+destinação apropriada. Pode ser utilizada neblina
+d’água para reduzir os vapores, mas isso não irá
+prevenir a ignição em ambientes fechados.
+7 – MANUSEIO E ARMAZENAMENTO
+MEDIDAS TÉCNICAS APROPRIADAS PARA O MANUSEIO
+Precauções para manuseio seguro: Manuseie em uma área ventilada ou com sistema
+geral de ventilação/exaustão local. Evite
+formação de vapores ou névoas. Evite exposição
+ | FICHA DE INFORMAÇÕES DE SEGURANÇA
+DE PRODUTO QUÍMICO - FISPQ | | 
+Nome do Produto: XILENO FISPQ No: 06 | | | 
+Revisão: 4 Data da Última Revisão: 22/12/2014 Página: 1 de 19 | | | 
+ | | | 
+ | | ao produto. Evite contato com materiais
+incompatíveis. Utilize equipamento de proteçã
+individual conforme descrito na seção 8. | o
+Medidas de higiene: | | Lave as mãos e o rosto cuidadosamente após
+manuseio e antes de comer, beber, fumar ou i
+ao banheiro. Roupas contaminadas devem ser
+trocadas e lavadas antes de sua reutilização.
+Remova a roupa e o equipamento de proteção
+contaminado antes de entrar nas áreas de
+alimentação. | o
+r
+Condições para armazenamento seguro, incluindo qualquer incompatibilidade | | | 
+Prevenção de incêndio e explosão: | | Mantenha afastado do calor, faísca, chama
+aberta e superfícies quentes. – Não fume.
+Mantenha o recipiente hermeticamente fechad
+Aterre o vaso contentor e o receptor do produ
+durante transferências. Utilize apenas
+ferramentas anti-faiscante. Evite o acúmulo de
+cargas eletrostáticas. Utilize equipamento
+elétrico, de ventilação e de iluminação à prova
+explosão. | o.
+to
+de
+Condições adequadas: | | Mantenha o produto em local fresco, seco e b
+ventilado, distante de fontes de calor e ignição
+Mantenha os recipientes bem fechados e
+devidamente identificados. O local de
+armazenamento deve ter piso impermeável,
+isento de materiais combustíveis e com dique
+contenção para reter em caso de vazamento.
+Especificações de engenharia devem atender à
+regulamentações locais. Não é necessária adiç
+de estabilizantes e antioxidantes para garantir
+durabilidade do produto. Mantenha afastado d
+materiais incompatíveis. | em
+.
+de
+s
+ão
+a
+e
+Materiais para embalagens: | | Semelhante à embalagem original. | 
+ | | | 
+FICHA DE INFORMAÇÕES DE SEGURANÇA
+DE PRODUTO QUÍMICO - FISPQ
+Nome do Produto: XILENO FISPQ No: 06
+Revisão: 4 Data da Última Revisão: 22/12/2014 Página: 1 de 19
+ao produto. Evite contato com materiais
+incompatíveis. Utilize equipamento de proteção
+individual conforme descrito na seção 8.
+Medidas de higiene: Lave as mãos e o rosto cuidadosamente após o
+manuseio e antes de comer, beber, fumar ou ir
+ao banheiro. Roupas contaminadas devem ser
+trocadas e lavadas antes de sua reutilização.
+Remova a roupa e o equipamento de proteção
+contaminado antes de entrar nas áreas de
+alimentação.
+Condições para armazenamento seguro, incluindo qualquer incompatibilidade
+Prevenção de incêndio e explosão: Mantenha afastado do calor, faísca, chama
+aberta e superfícies quentes. – Não fume.
+Mantenha o recipiente hermeticamente fechado.
+Aterre o vaso contentor e o receptor do produto
+durante transferências. Utilize apenas
+ferramentas anti-faiscante. Evite o acúmulo de
+cargas eletrostáticas. Utilize equipamento
+elétrico, de ventilação e de iluminação à prova de
+explosão.
+Condições adequadas: Mantenha o produto em local fresco, seco e bem
+ventilado, distante de fontes de calor e ignição.
+Mantenha os recipientes bem fechados e
+devidamente identificados. O local de
+armazenamento deve ter piso impermeável,
+isento de materiais combustíveis e com dique de
+contenção para reter em caso de vazamento.
+Especificações de engenharia devem atender às
+regulamentações locais. Não é necessária adição
+de estabilizantes e antioxidantes para garantir a
+durabilidade do produto. Mantenha afastado de
+materiais incompatíveis.
+Materiais para embalagens: Semelhante à embalagem original.
+ | FICHA DE INFORMAÇÕES DE SEGURANÇA
+DE PRODUTO QUÍMICO - FISPQ | | 
+Nome do Produto: XILENO FISPQ No: 06 | | | 
+Revisão: 4 Data da Última Revisão: 22/12/2014 Página: 1 de 19 | | | 
+ | | | 
+8 – CONTROLE DE EXPOSIÇÃO E PROTEÇÃO INDIVIDUAL | | | 
+Parâmetros de Controle
+- Limites de exposição ocupacional:
+Nome químico ou TLV - TWA TLV - STEL LT
+comum ( ACGIH, ( ACGIH, 2012 ( NR- 15, 1978
+2012 ) ) )
+Xileno 100 ppm 150 ppm 78 ppm
+Etilbenzeno 20 ppm - -
+* Absorção também pela pele. | | | 
+- Indicadores biológicos: Xileno.
+BEI ( ACGIH, 2014):
+Ácidos Metil hipúricos na urina: 1,5 g/g creatinina ( antes da última
+jornada da semana.)
+Etilbenzeno:
+BEI ( ACGIH, 2014):
+Ácidos Mandélico + fenilglicoxilico na urina: 0,15 g/g creatinina ( ante
+da última jornada da semana.) | | | s
+ | | | 
+Medidas de controle de engenharia: | | Promova ventilação mecânica e sistema de
+exaustão direta para o meio exterior. Estas
+medidas auxiliam na redução da exposição ao
+produto. Manter concentrações atmosféricas,
+constituintes do produto, abaixo dos limites de
+exposição ocupacional indicados. | dos
+Medidas de proteção pessoal | | | 
+Proteção dos olhos: | | Óculos de segurança com proteção lateral. | 
+Proteção da pele e corpo: | | Luvas de proteção de PVC e vestuário protetor | 
+ | | | 
+Nome químico ou
+comum | TLV - TWA
+( ACGIH,
+2012 ) | TLV - STEL
+( ACGIH, 2012
+) | LT
+( NR- 15, 1978
+)
+Xileno | 100 ppm | 150 ppm | 78 ppm
+Etilbenzeno | 20 ppm | - | -
+FICHA DE INFORMAÇÕES DE SEGURANÇA
+DE PRODUTO QUÍMICO - FISPQ
+Nome do Produto: XILENO FISPQ No: 06
+Revisão: 4 Data da Última Revisão: 22/12/2014 Página: 1 de 19
+8 – CONTROLE DE EXPOSIÇÃO E PROTEÇÃO INDIVIDUAL
+Parâmetros de Controle
+- Limites de exposição ocupacional:
+Nome químico ou TLV - TWA TLV - STEL LT
+comum ( ACGIH, ( ACGIH, 2012 ( NR- 15, 1978
+2012 ) ) )
+Xileno 100 ppm 150 ppm 78 ppm
+Etilbenzeno 20 ppm - -
+* Absorção também pela pele.
+- Indicadores biológicos: Xileno.
+BEI ( ACGIH, 2014):
+Ácidos Metil hipúricos na urina: 1,5 g/g creatinina ( antes da última
+jornada da semana.)
+Etilbenzeno:
+BEI ( ACGIH, 2014):
+Ácidos Mandélico + fenilglicoxilico na urina: 0,15 g/g creatinina ( antes
+da última jornada da semana.)
+Medidas de controle de engenharia: Promova ventilação mecânica e sistema de
+exaustão direta para o meio exterior. Estas
+medidas auxiliam na redução da exposição ao
+produto. Manter concentrações atmosféricas, dos
+constituintes do produto, abaixo dos limites de
+exposição ocupacional indicados.
+Medidas de proteção pessoal
+Proteção dos olhos: Óculos de segurança com proteção lateral.
+Proteção da pele e corpo: Luvas de proteção de PVC e vestuário protetor
+ | FICHA DE INFORMAÇÕES DE SEGURANÇA
+DE PRODUTO QUÍMICO - FISPQ | | 
+Nome do Produto: XILENO FISPQ No: 06 | | | 
+Revisão: 4 Data da Última Revisão: 22/12/2014 Página: 1 de 19 | | | 
+ | | | 
+ | | adequado. O material utilizado deve ser
+impermeável. | 
+Proteção respiratória: | | Recomenda-se a utilização de respirador com
+filtro para vapores orgânicos para exposições
+médias acima da metade do TLV-TWA. Nos ca
+em que a exposição exceda 3 vezes o valor TL
+TWA, utilize respirador do tipo autônomo (SCB
+com suprimento de ar, de peça facial inteira,
+operado em modo de pressão positiva.
+Siga orientação do Programa de Prevenção
+Respiratória (PPR), 3ª ed. São Paulo:
+Fundacentro, 2002. | sos
+V-
+A)
+Perigos térmicos: | | Não apresenta perigos térmicos. | 
+ | | | 
+9 – PROPRIEDADES FÍSICAS E QUÍMICAS | | | 
+ | | | 
+Aspecto (estado físico, forma e cor): | | Líquido límpido e incolor (isento de materiais e
+suspensão). | m
+Odor e limite de odor: | | Característico de hidrocarboneto aromático.
+Limite de odor: 20 ppm | 
+pH: | | Não disponível. | 
+Ponto de fusão/ponto de congelamento: | | -54 a -34 ºC. | 
+Ponto de ebulição inicial e faixa de
+temperatura de ebulição: | | 137 - 143 ºC. | 
+Ponto de fulgor: | | 31 ºC (vaso fechado) | 
+Taxa de evaporação: | | 0,79 (acetato de n-butila = 1). | 
+ | | | 
+FICHA DE INFORMAÇÕES DE SEGURANÇA
+DE PRODUTO QUÍMICO - FISPQ
+Nome do Produto: XILENO FISPQ No: 06
+Revisão: 4 Data da Última Revisão: 22/12/2014 Página: 1 de 19
+adequado. O material utilizado deve ser
+impermeável.
+Proteção respiratória: Recomenda-se a utilização de respirador com
+filtro para vapores orgânicos para exposições
+médias acima da metade do TLV-TWA. Nos casos
+em que a exposição exceda 3 vezes o valor TLV-
+TWA, utilize respirador do tipo autônomo (SCBA)
+com suprimento de ar, de peça facial inteira,
+operado em modo de pressão positiva.
+Siga orientação do Programa de Prevenção
+Respiratória (PPR), 3ª ed. São Paulo:
+Fundacentro, 2002.
+Perigos térmicos: Não apresenta perigos térmicos.
+9 – PROPRIEDADES FÍSICAS E QUÍMICAS
+Aspecto (estado físico, forma e cor): Líquido límpido e incolor (isento de materiais em
+suspensão).
+Odor e limite de odor: Característico de hidrocarboneto aromático.
+Limite de odor: 20 ppm
+pH: Não disponível.
+Ponto de fusão/ponto de congelamento: -54 a -34 ºC.
+Ponto de ebulição inicial e faixa de 137 - 143 ºC.
+temperatura de ebulição:
+Ponto de fulgor: 31 ºC (vaso fechado)
+Taxa de evaporação: 0,79 (acetato de n-butila = 1).
+ | FICHA DE INFORMAÇÕES DE SEGURANÇA
+DE PRODUTO QUÍMICO - FISPQ | | 
+Nome do Produto: XILENO FISPQ No: 06 | | | 
+Revisão: 4 Data da Última Revisão: 22/12/2014 Página: 1 de 19 | | | 
+ | | | 
+Inflamabilidade (sólido, gás): | | Não aplicável. | 
+Limite inferior/superior de inflamabilidade
+ou explosividade: | | Superior (LES): 7,0%
+Inferior (LEI): 1,0% | 
+Pressão de vapor: | | 0,8 – 1,2 kPa a 25 ºC. | 
+Densidade de vapor: | | 3,7 (ar = 1). | 
+Densidade relativa: | | 0,86 – 0,88 g/cm3 a 20 ºC | 
+Solubilidade(s): | | Muito pouco solúvel em água. Miscível em álc
+absoluto, éter e outros solventes orgânicos. | ool
+Coeficiente de partição – n-octanol/água: | | Log kow: 2,77 – 3,15 ( valor estimado). | 
+Temperatura de auto-ignição: | | 465 - 525 ºC | 
+Temperatura de decomposição: | | Não disponível. | 
+Viscosidade: | | 0,655 cSt a 25 ºC | 
+Outras informações: Não aplicável. | | | 
+10 – ESTABILIDADE E REATIVIDADE | | | 
+ | | | 
+Estabilidade e reatividade: | | Produto estável em condições normais de
+temperatura e pressão. | 
+Possibilidade de reações perigosas: | | Reage com ácidos e oxidantes fortes com risco
+de explosão. | 
+ | | | 
+FICHA DE INFORMAÇÕES DE SEGURANÇA
+DE PRODUTO QUÍMICO - FISPQ
+Nome do Produto: XILENO FISPQ No: 06
+Revisão: 4 Data da Última Revisão: 22/12/2014 Página: 1 de 19
+Inflamabilidade (sólido, gás): Não aplicável.
+Limite inferior/superior de inflamabilidade Superior (LES): 7,0%
+ou explosividade:
+Inferior (LEI): 1,0%
+Pressão de vapor: 0,8 – 1,2 kPa a 25 ºC.
+Densidade de vapor: 3,7 (ar = 1).
+Densidade relativa: 0,86 – 0,88 g/cm3 a 20 ºC
+Solubilidade(s): Muito pouco solúvel em água. Miscível em álcool
+absoluto, éter e outros solventes orgânicos.
+Coeficiente de partição – n-octanol/água: Log kow: 2,77 – 3,15 ( valor estimado).
+Temperatura de auto-ignição: 465 - 525 ºC
+Temperatura de decomposição: Não disponível.
+Viscosidade: 0,655 cSt a 25 ºC
+Outras informações: Não aplicável.
+10 – ESTABILIDADE E REATIVIDADE
+Estabilidade e reatividade: Produto estável em condições normais de
+temperatura e pressão.
+Possibilidade de reações perigosas: Reage com ácidos e oxidantes fortes com risco
+de explosão.
+ | FICHA DE INFORMAÇÕES DE SEGURANÇA
+DE PRODUTO QUÍMICO - FISPQ | | 
+Nome do Produto: XILENO FISPQ No: 06 | | | 
+Revisão: 4 Data da Última Revisão: 22/12/2014 Página: 1 de 19 | | | 
+ | | | 
+ | | Reação com ácido nítrico é explosiva. | 
+Condições a serem evitadas: | | Temperaturas elevadas. Fontes de ignição e
+contato com materiais incompatíveis. | 
+Materiais incompatíveis: | | Agentes oxidantes fortes e ácidos fortes como
+ácido acetico, ácido nítrico, cloro, bromo e iod | o.
+Produtos perigosos da decomposição: | | Pode liberar gases tóxicos e irritantes, como
+monóxido de carbono e dióxido de carbono,
+hidrocarbonetos reativos e aldeídos. | 
+ | | | 
+11 – INFORMAÇÕES TOXICOLÓGICAS | | | 
+ | | | 
+Toxicidade aguda: | | Não classificado como tóxico agudo por via or
+inalatória e dérmica.
+DL50 (oral, ratos): > 5000 mg/kg
+DL50 (dérmica, ratos): > 2000 mg/kg
+CL50 (inalação, vapores, ratos, 4 horas): > 20
+mg/L | al,
+Corrosão/irritação à pele: | | Provoca irritação à pele com vermelhidão, dor
+ressecamento. | e
+Lesões oculares graves/irritação ocular: | | Provoca irritação ocular com vermelhidão e do | r.
+Sensibilização respiratória ou à pele: | | Não é esperado que o produto provoque
+sensibilização respiratória ou à pele. | 
+Mutagenicidade em células germinativas:
+Carcinogenicidade: | | Não classificado como mutagênico.
+Estudos apresentaram resultados negativos e
+ensaios in vivo e in vitro. | m
+ | | | 
+FICHA DE INFORMAÇÕES DE SEGURANÇA
+DE PRODUTO QUÍMICO - FISPQ
+Nome do Produto: XILENO FISPQ No: 06
+Revisão: 4 Data da Última Revisão: 22/12/2014 Página: 1 de 19
+Reação com ácido nítrico é explosiva.
+Condições a serem evitadas: Temperaturas elevadas. Fontes de ignição e
+contato com materiais incompatíveis.
+Materiais incompatíveis: Agentes oxidantes fortes e ácidos fortes como
+ácido acetico, ácido nítrico, cloro, bromo e iodo.
+Produtos perigosos da decomposição: Pode liberar gases tóxicos e irritantes, como
+monóxido de carbono e dióxido de carbono,
+hidrocarbonetos reativos e aldeídos.
+11 – INFORMAÇÕES TOXICOLÓGICAS
+Toxicidade aguda: Não classificado como tóxico agudo por via oral,
+inalatória e dérmica.
+DL50 (oral, ratos): > 5000 mg/kg
+DL50 (dérmica, ratos): > 2000 mg/kg
+CL50 (inalação, vapores, ratos, 4 horas): > 20
+mg/L
+Corrosão/irritação à pele: Provoca irritação à pele com vermelhidão, dor e
+ressecamento.
+Lesões oculares graves/irritação ocular: Provoca irritação ocular com vermelhidão e dor.
+Sensibilização respiratória ou à pele: Não é esperado que o produto provoque
+sensibilização respiratória ou à pele.
+Mutagenicidade em células germinativas: Não classificado como mutagênico.
+Carcinogenicidade: Estudos apresentaram resultados negativos em
+ensaios in vivo e in vitro.
+ | FICHA DE INFORMAÇÕES DE SEGURANÇA
+DE PRODUTO QUÍMICO - FISPQ | | 
+Nome do Produto: XILENO FISPQ No: 06 | | | 
+Revisão: 4 Data da Última Revisão: 22/12/2014 Página: 1 de 19 | | | 
+ | | | 
+ | | Não classificado carcinogênio para humanos
+(Grupo 3 – IARC). | 
+Toxicidade à reprodução: | | Não é esperado que o produto apresente
+toxidade à reprodução. | 
+Toxicidade para órgãos-alvo específicos –
+exposição única: | | Pode provocar efeitos narcóticos como tontura
+sonolência, inconsciência, náusea, dor de cabe
+e incoordenação motora. Em elevadas
+concentrações, pode provocar irritação das via
+respiratórias com tosse, dor de garganta e
+dificuldade respiratória. | ,
+ça
+s
+Toxicidade para órgãos-alvo específicos –
+exposição repetida: | | Em elevedas concentrações, pode causar dano
+aos rins e figado por exposição repetida e
+prolongada. | s
+Perigo por aspiração: | | Pode ser fatal se ingerido e penetrar nas vias
+respiratórias com edema pulmonar e pneumon
+química. | ite
+ | | | 
+12 – INFORMAÇÕES ECOLÓGICAS | | | 
+ | | | 
+Efeitos ambientais, comportamentos e impactos do produto | | | 
+Ecotoxicidade: | | Tóxico para os organismos aquáticos.
+CL50 (Oncorhynchus mykiss, ): 2,6 mg/L
+CE50 (Ceriodaphnia dubia, 48h): 3,82 mg/L | 
+Persistência e degradabilidade: | | Não apresenta persistência e é considerado
+rapidamente degradável.
+Taxa de degradação: 60% em 28 dias. | 
+Potencial bioacumulativo: | | Apresenta baixo potencial de bioacumulativo e
+organismos aquáticos. | m
+ | | | 
+FICHA DE INFORMAÇÕES DE SEGURANÇA
+DE PRODUTO QUÍMICO - FISPQ
+Nome do Produto: XILENO FISPQ No: 06
+Revisão: 4 Data da Última Revisão: 22/12/2014 Página: 1 de 19
+Não classificado carcinogênio para humanos
+(Grupo 3 – IARC).
+Toxicidade à reprodução: Não é esperado que o produto apresente
+toxidade à reprodução.
+Toxicidade para órgãos-alvo específicos – Pode provocar efeitos narcóticos como tontura,
+exposição única: sonolência, inconsciência, náusea, dor de cabeça
+e incoordenação motora. Em elevadas
+concentrações, pode provocar irritação das vias
+respiratórias com tosse, dor de garganta e
+dificuldade respiratória.
+Toxicidade para órgãos-alvo específicos – Em elevedas concentrações, pode causar danos
+exposição repetida: aos rins e figado por exposição repetida e
+prolongada.
+Perigo por aspiração: Pode ser fatal se ingerido e penetrar nas vias
+respiratórias com edema pulmonar e pneumonite
+química.
+12 – INFORMAÇÕES ECOLÓGICAS
+Efeitos ambientais, comportamentos e impactos do produto
+Ecotoxicidade: Tóxico para os organismos aquáticos.
+CL50 (Oncorhynchus mykiss, ): 2,6 mg/L
+CE50 (Ceriodaphnia dubia, 48h): 3,82 mg/L
+Persistência e degradabilidade: Não apresenta persistência e é considerado
+rapidamente degradável.
+Taxa de degradação: 60% em 28 dias.
+Potencial bioacumulativo: Apresenta baixo potencial de bioacumulativo em
+organismos aquáticos.
+ | FICHA DE INFORMAÇÕES DE SEGURANÇA
+DE PRODUTO QUÍMICO - FISPQ | | 
+Nome do Produto: XILENO FISPQ No: 06 | | | 
+Revisão: 4 Data da Última Revisão: 22/12/2014 Página: 1 de 19 | | | 
+ | | | 
+ | | BCF: 25,9
+Log Kow: 2,77 – 3,15 ( valor estimado). | 
+Mobilidade no solo: | | É esperada moderada mobilidade no solo.
+Koc = 537. | 
+Outros efeitos adversos: | | Não são conhecidos outros efeitos ambientais
+para este produto. | 
+ | | | 
+13 – CONSIDERAÇÕES SOBRE TRATAMENTO E DISPOSIÇÃO | | | 
+ | | | 
+Métodos recomendados para destinação final | | | 
+Produto: | | Deve ser eliminado como resíduo perigoso de
+acordo com a legislação local. O tratamento e
+disposição final devem ser avaliados
+especificamente para cada produto. Devem se | a
+r
+consultadas legislações federais, estaduais e municipais, dentre estas: Lei n°12.305, de 02 de ago
+de 2010 (Política Nacional de Resíduos Sólidos). | | | sto
+Restos de produtos: | | Manter restos do produto em suas embalagen
+originais, fechadas e dentro de tambores
+metálicos, devidamente fechados, de acordo c
+a legislação aplicável. O descarte deve ser
+realizado conforme o estabelecido para o
+produto, recomendando-se as rotas de
+processamento em cimenteiras e a incineração | s
+om
+.
+Embalagem usada: | | Nunca reutilize embalagens vazias, pois elas
+podem conter restos do produto e devem ser
+mantidas fechadas e encaminhadas para sere
+destruídas em local apropriado. Neste caso,
+recomenda-se envio para rotas de recuperaçã | m
+o
+ | | | 
+FICHA DE INFORMAÇÕES DE SEGURANÇA
+DE PRODUTO QUÍMICO - FISPQ
+Nome do Produto: XILENO FISPQ No: 06
+Revisão: 4 Data da Última Revisão: 22/12/2014 Página: 1 de 19
+BCF: 25,9
+Log Kow: 2,77 – 3,15 ( valor estimado).
+Mobilidade no solo: É esperada moderada mobilidade no solo.
+Koc = 537.
+Outros efeitos adversos: Não são conhecidos outros efeitos ambientais
+para este produto.
+13 – CONSIDERAÇÕES SOBRE TRATAMENTO E DISPOSIÇÃO
+Métodos recomendados para destinação final
+Produto: Deve ser eliminado como resíduo perigoso de
+acordo com a legislação local. O tratamento e a
+disposição final devem ser avaliados
+especificamente para cada produto. Devem ser
+consultadas legislações federais, estaduais e municipais, dentre estas: Lei n°12.305, de 02 de agosto
+de 2010 (Política Nacional de Resíduos Sólidos).
+Restos de produtos: Manter restos do produto em suas embalagens
+originais, fechadas e dentro de tambores
+metálicos, devidamente fechados, de acordo com
+a legislação aplicável. O descarte deve ser
+realizado conforme o estabelecido para o
+produto, recomendando-se as rotas de
+processamento em cimenteiras e a incineração.
+Embalagem usada: Nunca reutilize embalagens vazias, pois elas
+podem conter restos do produto e devem ser
+mantidas fechadas e encaminhadas para serem
+destruídas em local apropriado. Neste caso,
+recomenda-se envio para rotas de recuperação
+ | FICHA DE INFORMAÇÕES DE SEGURANÇA
+DE PRODUTO QUÍMICO - FISPQ | | 
+Nome do Produto: XILENO FISPQ No: 06 | | | 
+Revisão: 4 Data da Última Revisão: 22/12/2014 Página: 1 de 19 | | | 
+ | | | 
+ | | dos tambores ou incineração. | 
+ | | | 
+14 – INFORMAÇÕES SOBRE TRANSPORTE | | | 
+ | | | 
+Regulamentações nacionais e internacionais | | | 
+Terrestre: | | Resolução nº. 420 de 12 de fevereiro de 2004
+Agência Nacional de Transportes Terrestres
+(ANTT), Aprova as Instruções Complementare
+ao Regulamento do Transporte Terrestre de
+Produtos Perigosos e suas modificações. | da
+s
+Número ONU: | | 1307 | 
+Nome apropriado para embarque: | | XILENOS | 
+Classe de risco/subclasse de risco principal: | | 3 | 
+Classe de risco/subclasse de risco subsidiário: | | NA | 
+Número de risco: | | 30 | 
+Grupo de embalagem: | | III | 
+Hidroviário: | | DPC – Diretoria de Portos e Costas (Transport
+em águas brasileiras)
+Normas de Autoridade Marítima (NORMAM)
+NORMAM 01/DPC: Embarcações Empregadas
+Navegação em Mar Aberto
+NORMAM 02/DPC: Embarcações Empregadas
+Navegação Interior | e
+na
+na
+ | | | 
+FICHA DE INFORMAÇÕES DE SEGURANÇA
+DE PRODUTO QUÍMICO - FISPQ
+Nome do Produto: XILENO FISPQ No: 06
+Revisão: 4 Data da Última Revisão: 22/12/2014 Página: 1 de 19
+dos tambores ou incineração.
+14 – INFORMAÇÕES SOBRE TRANSPORTE
+Regulamentações nacionais e internacionais
+Terrestre: Resolução nº. 420 de 12 de fevereiro de 2004 da
+Agência Nacional de Transportes Terrestres
+(ANTT), Aprova as Instruções Complementares
+ao Regulamento do Transporte Terrestre de
+Produtos Perigosos e suas modificações.
+Número ONU: 1307
+Nome apropriado para embarque: XILENOS
+Classe de risco/subclasse de risco principal: 3
+Classe de risco/subclasse de risco subsidiário: NA
+Número de risco: 30
+Grupo de embalagem: III
+Hidroviário: DPC – Diretoria de Portos e Costas (Transporte
+em águas brasileiras)
+Normas de Autoridade Marítima (NORMAM)
+NORMAM 01/DPC: Embarcações Empregadas na
+Navegação em Mar Aberto
+NORMAM 02/DPC: Embarcações Empregadas na
+Navegação Interior
+ | FICHA DE INFORMAÇÕES DE SEGURANÇA
+DE PRODUTO QUÍMICO - FISPQ | | 
+Nome do Produto: XILENO FISPQ No: 06 | | | 
+Revisão: 4 Data da Última Revisão: 22/12/2014 Página: 1 de 19 | | | 
+ | | | 
+ | | IMO – "International Maritime Organization"
+(Organização Marítima Internacional)
+International Maritime Dangerous Goods Code
+(IMDG Code). | 
+Número ONU: | | 1307 | 
+Nome apropriado para embarque: | | XYLENES | 
+Classe de risco/subclasse de risco principal: | | 3 | 
+Classe de risco/ subclasse de risco subsidiário: | | NA | 
+Número de risco: | | 30 | 
+Grupo de embalagem: | | III | 
+EmS: | | F-E, S-E | 
+Perigo ao meio ambiente: | | O produto não é considerado poluente marinh | o.
+Aéreo: | | ANAC – Agência Nacional de Aviação Civil –
+Resolução n°129 de 8 de dezembro de 2009.
+RBAC N°175 – (REGULAMENTO BRASILEIRO
+AVIAÇÃO CIVIL) – TRANSPORTE DE ARTIGOS
+PERIGOSOS EM AERONAVES CIVIS.
+IS N° 175-001 – INSTRUÇÃO SUPLEMENTAR
+IS
+ICAO – "International Civil Aviation Organizati
+(Organização da Aviação Civil Internacional) –
+Doc 9284-NA/905 | DA
+–
+on"
+ | | | 
+FICHA DE INFORMAÇÕES DE SEGURANÇA
+DE PRODUTO QUÍMICO - FISPQ
+Nome do Produto: XILENO FISPQ No: 06
+Revisão: 4 Data da Última Revisão: 22/12/2014 Página: 1 de 19
+IMO – "International Maritime Organization"
+(Organização Marítima Internacional)
+International Maritime Dangerous Goods Code
+(IMDG Code).
+Número ONU: 1307
+Nome apropriado para embarque: XYLENES
+Classe de risco/subclasse de risco principal: 3
+Classe de risco/ subclasse de risco subsidiário: NA
+Número de risco: 30
+Grupo de embalagem: III
+EmS: F-E, S-E
+Perigo ao meio ambiente: O produto não é considerado poluente marinho.
+Aéreo: ANAC – Agência Nacional de Aviação Civil –
+Resolução n°129 de 8 de dezembro de 2009.
+RBAC N°175 – (REGULAMENTO BRASILEIRO DA
+AVIAÇÃO CIVIL) – TRANSPORTE DE ARTIGOS
+PERIGOSOS EM AERONAVES CIVIS.
+IS N° 175-001 – INSTRUÇÃO SUPLEMENTAR –
+IS
+ICAO – "International Civil Aviation Organization"
+(Organização da Aviação Civil Internacional) –
+Doc 9284-NA/905
+ | FICHA DE INFORMAÇÕES DE SEGURANÇA
+DE PRODUTO QUÍMICO - FISPQ | | 
+Nome do Produto: XILENO FISPQ No: 06 | | | 
+Revisão: 4 Data da Última Revisão: 22/12/2014 Página: 1 de 19 | | | 
+ | | | 
+ | | IATA – "International Air Transport Associatio
+(Associação Nacional de Transporte Aéreo)
+Dangerous Goods Regulation (DGR). | n"
+Número ONU: | | 1307 | 
+Nome apropriado para embarque: | | XYLENES | 
+Classe de risco/ subclasse de risco principal: | | 3 | 
+Classe de risco/ subclasse de risco subsidiário: | | NA | 
+Número de risco: | | 30 | 
+Grupo de embalagem: | | III | 
+ | | | 
+15 – REGULAMENTAÇÕES | | | 
+ | | | 
+Regulamentações: | | Decreto Federal nº 2.657, de 3 de julho de 19
+Norma ABNT-NBR 14725:2012.
+Portaria nº 229, de 24 de Agosto de 2013 –
+Altera a Norma Regulamentadora nº 26.
+Portaria N° 1.274, de 25 de agosto de 2003:
+Produto sujeito a controle e fiscalização do
+Ministério da Justiça – Departamento de Polícia
+Federal – MJ/DPF, quando se tratar de
+importação, exportação e reexportação, sendo
+indispensável Autorização Prévia de DPF para
+realização destas operações. | 98
+ | | | 
+FICHA DE INFORMAÇÕES DE SEGURANÇA
+DE PRODUTO QUÍMICO - FISPQ
+Nome do Produto: XILENO FISPQ No: 06
+Revisão: 4 Data da Última Revisão: 22/12/2014 Página: 1 de 19
+IATA – "International Air Transport Association"
+(Associação Nacional de Transporte Aéreo)
+Dangerous Goods Regulation (DGR).
+Número ONU: 1307
+Nome apropriado para embarque: XYLENES
+Classe de risco/ subclasse de risco principal: 3
+Classe de risco/ subclasse de risco subsidiário: NA
+Número de risco: 30
+Grupo de embalagem: III
+15 – REGULAMENTAÇÕES
+Regulamentações: Decreto Federal nº 2.657, de 3 de julho de 1998
+Norma ABNT-NBR 14725:2012.
+Portaria nº 229, de 24 de Agosto de 2013 –
+Altera a Norma Regulamentadora nº 26.
+Portaria N° 1.274, de 25 de agosto de 2003:
+Produto sujeito a controle e fiscalização do
+Ministério da Justiça – Departamento de Polícia
+Federal – MJ/DPF, quando se tratar de
+importação, exportação e reexportação, sendo
+indispensável Autorização Prévia de DPF para
+realização destas operações.
+ | FICHA DE INFORMAÇÕES DE SEGURANÇA
+DE PRODUTO QUÍMICO - FISPQ | | 
+Nome do Produto: XILENO FISPQ No: 06 | | | 
+Revisão: 4 Data da Última Revisão: 22/12/2014 Página: 1 de 19 | | | 
+ | | | 
+ | | Decreto Nº 6.911, de 19 de janeiro de 1935 e
+Decreto Nº 3.665, de 20 de novembro de 2000
+Produto sujeito a controle e fiscalização do
+Ministério da Justiça – Departamento de Polícia
+Civil do Estado, quando se tratar de fabricação
+recuperação, manutenção, utilização industrial,
+manuseio, uso esportivo, colecionamento,
+exportação, importação, desembaraço
+alfandegário, armazenamento, comércio e
+tráfego dos produtos de produtos controlados,
+sendo indispensável autorização prévia do
+Comando da Polícia Civil para realização destas
+operações. | :
+,
+ | | | 
+16 – OUTRAS INFORMAÇÕES | | | 
+ | | | 
+Esta FISPQ foi elaborada com base nos atuais conhecimentos sobre o manuseio apropriado do
+produto e sob as condições normais de uso, de acordo com a aplicação especificada na embalage
+Qualquer outra forma de utilização do produto que envolva a sua combinação com outros materiai
+além de formas de uso diversas daquelas indicadas, são de responsabilidade do usuário.
+Adverte-se que o manuseio de qualquer substância química requer o conhecimento prévio de seus
+perigos pelo usuário. No local de trabalho cabe à empresa usuária do produto promover o
+treinamento de seus empregados e contratados quanto aos possíveis riscos advindos da exposição
+ao produto químico.
+FISPQ elaborada em Dezembro de 2014. | | | m.
+s,
+Legendas e abreviaturas: | | | 
+ACGIH – American Conference of Governmental Industrial Hygienists
+BCF – Bioconcentration Factor
+BEI – Biological Exposure Indices
+CAS – Chemical Abstracts Service | | | 
+ | | | 
+FICHA DE INFORMAÇÕES DE SEGURANÇA
+DE PRODUTO QUÍMICO - FISPQ
+Nome do Produto: XILENO FISPQ No: 06
+Revisão: 4 Data da Última Revisão: 22/12/2014 Página: 1 de 19
+Decreto Nº 6.911, de 19 de janeiro de 1935 e
+Decreto Nº 3.665, de 20 de novembro de 2000:
+Produto sujeito a controle e fiscalização do
+Ministério da Justiça – Departamento de Polícia
+Civil do Estado, quando se tratar de fabricação,
+recuperação, manutenção, utilização industrial,
+manuseio, uso esportivo, colecionamento,
+exportação, importação, desembaraço
+alfandegário, armazenamento, comércio e
+tráfego dos produtos de produtos controlados,
+sendo indispensável autorização prévia do
+Comando da Polícia Civil para realização destas
+operações.
+16 – OUTRAS INFORMAÇÕES
+Esta FISPQ foi elaborada com base nos atuais conhecimentos sobre o manuseio apropriado do
+produto e sob as condições normais de uso, de acordo com a aplicação especificada na embalagem.
+Qualquer outra forma de utilização do produto que envolva a sua combinação com outros materiais,
+além de formas de uso diversas daquelas indicadas, são de responsabilidade do usuário.
+Adverte-se que o manuseio de qualquer substância química requer o conhecimento prévio de seus
+perigos pelo usuário. No local de trabalho cabe à empresa usuária do produto promover o
+treinamento de seus empregados e contratados quanto aos possíveis riscos advindos da exposição
+ao produto químico.
+FISPQ elaborada em Dezembro de 2014.
+Legendas e abreviaturas:
+ACGIH – American Conference of Governmental Industrial Hygienists
+BCF – Bioconcentration Factor
+BEI – Biological Exposure Indices
+CAS – Chemical Abstracts Service
+ | FICHA DE INFORMAÇÕES DE SEGURANÇA
+DE PRODUTO QUÍMICO - FISPQ | 
+Nome do Produto: XILENO FISPQ No: 06 | | 
+Revisão: 4 Data da Última Revisão: 22/12/2014 Página: 1 de 19 | | 
+ | | 
+CE50 – Concentração Efetiva 50%
+CL50 – Concentração Letal 50% | | 
+DL50 – Dose Letal 50%
+IARC – International Agency for Research on Cancer
+IBMP – Índice Biológico Máximo Permitido
+IDLH – Immediately Dangerous to Life or Health
+LEI – Limite de explosividade inferior
+LES – Limite de explosividade superior
+LT – Limite de Tolerância
+NA – Não aplicável
+NR – Norma Regulamentadora
+NIOSH – National Institute for Occupational Safety
+and Health
+ONU – Organização das Nações Unidas
+SBCA – Self Contained Breathing Apparatus
+TLV – Threshold Limit Value
+TWA – Time Weighted Average | | 
+FICHA DE INFORMAÇÕES DE SEGURANÇA
+DE PRODUTO QUÍMICO - FISPQ
+Nome do Produto: XILENO FISPQ No: 06
+Revisão: 4 Data da Última Revisão: 22/12/2014 Página: 1 de 19
+CE50 – Concentração Efetiva 50%
+CL50 – Concentração Letal 50%
+DL50 – Dose Letal 50%
+IARC – International Agency for Research on Cancer
+IBMP – Índice Biológico Máximo Permitido
+IDLH – Immediately Dangerous to Life or Health
+LEI – Limite de explosividade inferior
+LES – Limite de explosividade superior
+LT – Limite de Tolerância
+NA – Não aplicável
+NR – Norma Regulamentadora
+NIOSH – National Institute for Occupational Safety
+and Health
+ONU – Organização das Nações Unidas
+SBCA – Self Contained Breathing Apparatus
+TLV – Threshold Limit Value
+TWA – Time Weighted Average

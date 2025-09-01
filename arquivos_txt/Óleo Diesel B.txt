@@ -1,0 +1,446 @@
+| 1 | | | - | | | IDENTIFICAÇÃO | 
+ | 2 | | | - | | | IDENTIFICAÇÃO DE PERIGOS | 
+Ficha de Informações de Segurança
+de Produto Químico - FISPQ
+PRODUTO: ÓLEO DIESEL B TFM GERAÇÃO Página 1 de 12
+Data: 12/11/2021 Nº FISPQ: BR0117 Versão: 14 Anula e substitui versão: T Todas as anteriores
+1 - IDENTIFICAÇÃO
+Nome do produto: ÓLEO DIESEL B TFM GERAÇÃO
+Código interno de identificação: BR0117
+Principais usos recomendados para a
+Utilizado como combustível.
+substância ou mistura:
+Nome da empresa: PETROBRAS DISTRIBUIDORA S.A.
+Endereço: Rua Correia Vasques, 250
+20211-140 - Cidade Nova - Rio de Janeiro (RJ).
+Telefone: 0800 728 9001
+Telefone para emergências: 08000 24 44 33
+2 - IDENTIFICAÇÃO DE PERIGOS
+Classificação de perigo do produto: Líquidos inflamáveis – Categoria 3
+Corrosão/ irritação à pele – Categoria 2
+Carcinogenicidade – Categoria 2
+Toxicidade para órgãos-alvo específicos – Exposição única –
+Categoria 3
+Perigo por aspiração – Categoria 2
+Sistema de classificação utilizado: Norma ABNT-NBR 14725.
+Sistema Globalmente Harmonizado para a Classificação e
+Rotulagem de Produtos Químicos, ONU.
+Outros perigos que não resultam em O produto não possui outros perigos.
+uma classificação:
+ELEMENTOS APROPRIADOS DA ROTULAGEM
+Pictogramas
+Palavra de advertência PERIGO.
+Frases de perigo: Líquido e vapores inflamáveis.
+Provoca irritação à pele.
+Pública
+ | 3 | | | - | | | COMPOSIÇÃO E INFORMAÇÕES SOBRE OS INGREDIENTES | 
+Ingredientes | Concentração (%) | CAS
+Biodiesel B-100 | 10% | NA
+Composto
+nitrogenado. | - | NA
+Composto
+oxigenado. | - | NA
+Enxofre | Máx 1800 mg/Kg | NA
+Ficha de Informações de Segurança
+de Produto Químico - FISPQ
+PRODUTO: ÓLEO DIESEL B TFM GERAÇÃO Página 2 de 12
+Data: 12/11/2021 Nº FISPQ: BR0117 Versão: 14 Anula e substitui versão: T Todas as anteriores
+Suspeito de provocar câncer.
+Pode provocar irritação das vias respiratórias.
+Pode provocar sonolência ou vertigem.
+Pode ser nocivo se ingerido e penetrar nas vias respiratórias.
+Frases de precaução: NÃO provoque vômito
+EM CASO DE INGESTÃO: Contate imediatamente um CENTRO DE
+INFORMAÇÃO TOXICOLÓGICA ou um médico.
+EM CASO DE INALAÇÃO: Remova a pessoa para local ventilado e
+a mantenha em repouso numa posição que não dificulte a
+respiração.
+EM CASO DE exposição ou suspeita de exposição: Consulte um
+médico.
+Em caso de irritação cutânea: Consulte um médico.
+Em caso de incêndio: Para a extinção utilize espuma para
+hidrocarbonetos, neblina d’água, pó químico e dióxido de carbono
+(CO2).
+3 - COMPOSIÇÃO E INFORMAÇÕES SOBRE OS INGREDIENTES
+>>>SUBSTÂNCIA DE PETRÓLEO
+Nome químico comum ou nome Gasóleos
+técnico:
+Grupo de substância de petróleo: Gasóleos e óleos destilados são misturas complexas de petróleo,
+compostas primariamente de hidrocarbonetos saturados (parafínicos
+ou naftênicos) ou aromáticos com cadeia carbônica composta de 9 a
+30 átomos de carbono e ponto de ebulição entre 150 e 471ºC.
+Sinônimo: Combustível diesel; óleo diesel automotivo.
+Número de registro CAS: 68334-30-5
+Impurezas que contribuam para o Ingredientes Concentração (%) CAS
+perigo:
+Biodiesel B-100 10% NA
+Composto - NA
+nitrogenado.
+Composto - NA
+oxigenado.
+Enxofre Máx 1800 mg/Kg NA
+Pública
+ | 4 | | | - | | | MEDIDAS DE PRIMEIROS-SOCORROS | 
+ | 5 | | | - | | | MEDIDAS DE COMBATE A INCÊNDIO | 
+Ficha de Informações de Segurança
+de Produto Químico - FISPQ
+PRODUTO: ÓLEO DIESEL B TFM GERAÇÃO Página 3 de 12
+Data: 12/11/2021 Nº FISPQ: BR0117 Versão: 14 Anula e substitui versão: T Todas as anteriores
+4 - MEDIDAS DE PRIMEIROS-SOCORROS
+Inalação: Remova a vítima para local ventilado e a mantenha em repouso
+numa posição que não dificulte a respiração. Caso sinta
+indisposição, contate um CENTRO DE INFORMAÇÃO
+TOXICOLÓGICA ou um médico. Leve esta FISPQ.
+Contato com a pele: Lave a pele exposta com quantidade suficiente de água para
+remoção do material. Em caso de irritação cutânea: Consulte um
+médico. Leve esta FISPQ.
+Contato com os olhos: Enxágue cuidadosamente com água durante vários minutos. No
+caso de uso de lentes de contato, remova-as, se for fácil. Continue
+enxaguando. Caso a irritação ocular persista: consulte um médico.
+Leve esta FISPQ.
+Ingestão: Não induza o vômito. Nunca forneça algo por via oral a uma pessoa
+inconsciente. Lave a boca da vítima com água em abundância. Caso
+sinta indisposição, contate um CENTRO DE INFORMAÇÃO
+TOXICOLÓGICA ou um médico. Leve esta FISPQ.
+Sintomas e efeitos mais importantes, Pode provocar irritação à pele com vermelhidão, dor e
+agudos ou tardios: ressecamento. Pode provocar leve irritação ocular com vermelhidão
+e lacrimejamento. Pode ser nocivo se ingerido e penetrar nas vias
+respiratórias com pneumonite química. A exposição única pode
+provocar efeitos narcóticos como sonolência, confusão mental, perda
+de consciência, dor de cabeça e tontura; e irritação às vias
+respiratórias com tosse, dor de garganta e falta de ar.
+Notas para médico: Evite contato com o produto ao socorrer a vítima. Se necessário, o
+tratamento sintomático deve compreender, sobretudo, medidas de
+suporte como correção de distúrbios hidroeletrolíticos, metabólicos,
+além de assistência respiratória. Em caso de contato com a pele não
+friccione o local atingido.
+5 - MEDIDAS DE COMBATE A INCÊNDIO
+Meios de extinção Apropriados: Compatível com espuma para hidrocarbonetos, neblina
+d’água, pó químico e dióxido de carbono (CO2).
+Não recomendados: Água diretamente sobre o líquido em chamas.
+Perigos específicos da mistura ou A combustão do produto químico ou de sua embalagem pode formar
+substância: gases irritantes e tóxicos como monóxido, dióxido de carbono e
+sulfeto de hidrogênio. Muito perigoso quando exposto a calor
+excessivo ou outras fontes de ignição como: faíscas, chamas
+abertas ou chamas de fósforos e cigarros, operações de solda,
+lâmpadas-piloto e motores elétricos. Pode acumular carga estática
+por fluxo ou agitação. Os vapores do líquido aquecido podem
+incendiar-se por descarga estática. Os vapores são mais densos que
+Pública
+ | 6 | | | - | | | MEDIDAS DE CONTROLE PARA DERRAMAMENTO OU VAZAMENTO | 
+ | 7 | | | - | | | MANUSEIO E ARMAZENAMENTO | 
+Ficha de Informações de Segurança
+de Produto Químico - FISPQ
+PRODUTO: ÓLEO DIESEL B TFM GERAÇÃO Página 4 de 12
+Data: 12/11/2021 Nº FISPQ: BR0117 Versão: 14 Anula e substitui versão: T Todas as anteriores
+o ar e tendem a se acumular em áreas baixas ou confinadas, como
+bueiros, porões, etc. Podem deslocar-se por grandes distâncias
+provocando retrocesso da chama ou novos focos de incêndio tanto
+em ambientes abertos como confinados. Os contêineres podem
+explodir se aquecidos.
+Medidas de proteção da equipe de Equipamento de proteção respiratória do tipo autônomo (SCBA) com
+combate a incêndio: pressão positiva e vestuário protetor completo. Contêineres e
+tanques envolvidos no incêndio devem ser resfriados com neblina
+d’água.
+6 - MEDIDAS DE CONTROLE PARA DERRAMAMENTO OU VAZAMENTO
+Precauções pessoais
+Para o pessoal que não faz parte dos Isole o vazamento de fontes de ignição. Impeça fagulhas ou serviços
+serviços de emergência: de emergência: chamas. Não fume. Evacuar a área, num raio de 50
+metros. Não toque nos recipientes danificados ou no material
+derramado sem o uso de vestimentas adequadas. Evite inalação,
+contato com os olhos e com a pele. Utilize equipamento de proteção
+individual conforme descrito na seção 8.
+Para pessoal de serviço de emergência: Utilizar EPI completo, com luvas de proteção de PVC, óculos de
+segurança com proteção lateral e vestimenta protetora adequada. O
+material utilizado deve ser impermeável. Em caso de grandes
+vazamentos, onde a exposição é grande, recomenda-se o uso de
+máscara de proteção com filtro contra vapores ou névoas.
+Precauções ao meio ambiente: Evite que o produto derramado atinja cursos d’água e rede de
+esgotos. A água de diluição proveniente do combate ao fogo pode
+causar poluição. Não descarte diretamente no meio ambiente ou na
+rede de esgoto.
+Métodos e materiais para contenção e Utilize névoa de água ou espuma supressora de vapor para reduzir a
+limpeza: dispersão dos vapores. Utilize barreiras naturais ou de contenção de
+derrame. Colete o produto derramado e coloque em recipientes
+próprios. Adsorva o produto remanescente, com areia seca, terra,
+vermiculite, ou qualquer outro material inerte. Coloque o material
+adsorvido em recipientes apropriados e remova-os para local seguro.
+Para destinação final, proceder conforme a Seção 13 desta FISPQ.
+Diferenças na ação de grandes e Não há distinção entre as ações de grandes e pequenos vazamentos
+pequenos vazamentos: para este produto.
+7 - MANUSEIO E ARMAZENAMENTO
+MEDIDAS TÉCNICAS APROPRIADAS PARA O MANUSEIO
+Precauções para manuseio seguro: Manuseie o produto somente em locais bem arejados ou com
+sistemas de ventilação geral. Evite formação de vapores ou névoas
+do produto. Não fume. Evite inalação e o contato com a pele, olhos e
+Pública
+ | 8 | | | - | | | CONTROLE DE EXPOSIÇÃO E PROTEÇÃO INDIVIDUAL | 
+Ingredientes | TLV – TWA
+(ACGIH) | TLV – STEL
+(ACGIH)
+Névoa de Óleo
+diesel. | 5 mg/m3 | -
+Ficha de Informações de Segurança
+de Produto Químico - FISPQ
+PRODUTO: ÓLEO DIESEL B TFM GERAÇÃO Página 5 de 12
+Data: 12/11/2021 Nº FISPQ: BR0117 Versão: 14 Anula e substitui versão: T Todas as anteriores
+roupas. Utilize equipamento de proteção individual ao manusear o
+produto, descritos na seção 8.
+Medidas de higiene: Lave as mãos e o rosto cuidadosamente após o manuseio e antes
+de comer, beber, fumar ou ir ao banheiro. Roupas contaminadas
+devem ser trocadas e lavadas antes de sua reutilização. Remova a
+roupa e o equipamento de proteção contaminado antes de entrar nas
+áreas de alimentação.
+Condições de armazenamento seguro, incluindo qualquer incompatibilidade
+Prevenção de incêndio e explosão: Mantenha afastado do calor, faísca, chama aberta e superfícies
+quentes. — Não fume. Mantenha o recipiente hermeticamente
+fechado. Aterre o vaso contentor e o receptor do produto durante
+transferências. Utilize apenas ferramentas antifaiscante. Evite o
+acúmulo de cargas eletrostáticas. Utilize equipamento elétrico, de
+ventilação e de iluminação à prova de explosão.
+Condições adequadas: Mantenha o produto em local fresco, seco e bem ventilado, distante
+de fontes de calor e ignição. O local de armazenamento deve conter
+bacia de contenção para reter o produto, em caso de vazamento.
+Mantenha os recipientes bem fechados e devidamente identificados.
+O local de armazenamento deve ter piso impermeável, isento de
+materiais combustíveis e com dique de contenção para reter em
+caso de vazamento. Mantenha afastado de materiais incompatíveis.
+Não é necessária adição de estabilizantes e antioxidantes para
+garantir a durabilidade do produto.
+Materiais para embalagens: Semelhante à embalagem original.
+8 - CONTROLE DE EXPOSIÇÃO E PROTEÇÃO INDIVIDUAL
+Parâmetros de controle
+Limites de exposição ocupacional:
+Ingredientes TLV – TWA TLV – STEL
+(ACGIH) (ACGIH)
+Névoa de Óleo 5 mg/m3 -
+diesel.
+Indicadores biológicos: Não estabelecidos.
+Medidas de controle de engenharia: Promova ventilação mecânica e sistema de exaustão direta para o
+meio exterior. Estas medidas auxiliam na redução da exposição ao
+produto. Manter as concentrações atmosféricas, dos constituintes do
+produto, abaixo dos limites de exposição ocupacional indicados.
+Medidas de proteção pessoal
+Proteção dos olhos: Óculos de segurança (onde houver risco de espirros).
+Pública
+ | 9 | | | - | | | PROPRIEDADES FÍSICAS E QUÍMICAS | 
+Ficha de Informações de Segurança
+de Produto Químico - FISPQ
+PRODUTO: ÓLEO DIESEL B TFM GERAÇÃO Página 6 de 12
+Data: 12/11/2021 Nº FISPQ: BR0117 Versão: 14 Anula e substitui versão: T Todas as anteriores
+Proteção da pele e do corpo: Luvas de proteção (recomenda-se PVC ou nitrílica) e vestimenta
+protetora resistente ao produto (onde houver risco de espirro).
+Proteção respiratória: Recomenda-se a utilização de respirador com filtro para vapores
+orgânicos para exposições médias acima da metade do TLV-TWA.
+Nos casos em que a exposição exceda 3 vezes o valor TLV-TWA,
+utilize respirador do tipo autônomo (SCBA) com suprimento de ar, de
+peça facial inteira, operado em modo de pressão positiva.
+Siga orientação do Programa de Prevenção Respiratória (PPR), 3ª
+ed. São Paulo: Fundacentro, 2002.
+Perigos térmicos: Não apresenta perigos térmicos.
+9 - PROPRIEDADES FÍSICAS E QUÍMICAS
+Aspecto: Líquido límpido (isento de materiais em suspensão).
+Odor: Característico.
+pH: Não aplicável.
+Ponto de fusão/ponto de
+Não disponível
+congelamento:
+Ponto de ebulição inicial e faixa de
+Não disponível
+temperatura de ebulição:
+Ponto de fulgor: 38 ºC (mínimo); Método NBR 7974
+Taxa de evaporação: Não disponível.
+Inflamabilidade: Produto inflamável.
+Limite inferior/superior de Não disponível.
+inflamabilidade ou explosividade:
+Pressão de vapor: Não disponível
+Densidade de vapor: Não disponível.
+Densidade relativa: Não disponível.
+0,82 – 0,88 @ 20 ºC Método NBR 7148
+Densidade:
+Solubilidade: Na água: Desprezível.
+Em solventes orgânicos: Solúvel.
+Coeficiente de partição – n- Não disponível
+octanol/água:
+Pública
+ | 10 | | | - | | | ESTABILIDADE E REATIVIDADE | 
+ | 11 | | | - | | | INFORMAÇÕES TOXICOLÓGICAS | 
+Ficha de Informações de Segurança
+de Produto Químico - FISPQ
+PRODUTO: ÓLEO DIESEL B TFM GERAÇÃO Página 7 de 12
+Data: 12/11/2021 Nº FISPQ: BR0117 Versão: 14 Anula e substitui versão: T Todas as anteriores
+Temperatura de auto-ignição: Não disponível
+Temperatura de decomposição: 400ºC.
+Outras informações: Não Disponível
+10 - ESTABILIDADE E REATIVIDADE
+Estabilidade e reatividade: Produto estável em condições normais de temperatura e pressão.
+Possibilidade de reações perigosas: Não são conhecidas reações perigosas com relação ao produto.
+Condições a serem evitadas: Temperaturas elevadas. Fontes de ignição. Contato com materiais
+incompatíveis.
+Materiais incompatíveis:
+Agentes oxidantes fortes como peróxidos, cloratos e ácido crômico.
+Produtos perigosos da decomposição: Em combustão libera hidrocarbonetos leves e pesados e coque.
+Quando aquecido pode liberar sulfeto de hidrogênio.
+11 - INFORMAÇÕES TOXICOLÓGICAS
+Toxicidade aguda: Produto não classificado como tóxico agudo por via oral e dérmica.
+DL50(oral, ratos): > 7500 mg/kg
+DL50 (dérmica, coelhos): > 4100 mg/kg
+Corrosão/irritação da pele: Provoca irritação à pele com vermelhidão, dor e ressecamento.
+Lesões oculares graves/ irritação Pode provocar leve irritação ocular com vermelhidão e
+ocular: lacrimejamento.
+Sensibilização respiratória ou à pele: A exposição repetida e prolongada pode causar dermatite por
+ressecamento. Não é esperado que o produto provoque
+sensibilização respiratória.
+Mutagenicidade em células Não é esperado que o produto apresente mutagenicidade em células
+germinativas: germinativas.
+Suspeito de provocar câncer.
+Carcinogenicidade: Possivelmente carcinogênico para humanos (Grupo 2B – IARC).
+Toxicidade à reprodução: Não é esperado que o produto apresente toxicidade à reprodução.
+Pública
+ | 12 | | | - | | | INFORMAÇÕES ECOLÓGICAS | 
+ | 13 | | | - | | | CONSIDERAÇÕES SOBRE DESTINAÇÃO FINAL | 
+Ficha de Informações de Segurança
+de Produto Químico - FISPQ
+PRODUTO: ÓLEO DIESEL B TFM GERAÇÃO Página 8 de 12
+Data: 12/11/2021 Nº FISPQ: BR0117 Versão: 14 Anula e substitui versão: T Todas as anteriores
+Toxicidade para órgãos-alvo Pode provocar efeitos narcóticos como sonolência, confusão mental,
+específicos – exposição única: perda de consciência, dor de cabeça e tontura. Pode provocar
+irritação às vias respiratórias com tosse, dor de garganta e falta de
+ar.
+Toxicidade para órgãos-alvo Não é esperado que o produto apresente toxicidade ao órgão-alvo
+específicos – exposição repetida: específico por exposição repetida.
+Perigo por aspiração: Pode ser nocivo se ingerido e penetrar nas vias respiratórias com
+pneumonite química.
+12 - INFORMAÇÕES ECOLÓGICAS
+Efeitos ambientais, comportamentos e impactos do produto
+Ecotoxicidade: Devido à natureza do produto, espera-se que este apresente
+ecotoxicidade.
+Persistência e degradabilidade: Em função da ausência de dados, espera-se que o produto
+apresente persistência e não seja rapidamente degradado.
+Potencial bioacumulativo: Apresenta alto potencial bioacumulativo em organismos aquáticos.
+Log kow: 7,22 (valor estimado)
+Mobilidade no solo: Não determinado.
+Outros efeitos adversos: A liberação de grandes quantidades de produto pode causar efeitos
+ambientais indesejáveis, como diminuição da disponibilidade de
+oxigênio em ambientes aquáticos devido à formação de camada
+oleosa na superfície, revestimento e consequente sufocamento de
+animais.
+13 - CONSIDERAÇÕES SOBRE DESTINAÇÃO FINAL
+Métodos recomendados para destinação final
+Produto: Deve ser eliminado como resíduos perigosos de acordo com a
+legislação local. O tratamento e a disposição devem ser avaliados
+especificamente para cada produto. Devem ser consultadas
+legislações federais, estaduais e municipais, dentre estas: Lei
+n°12.305, de 02 de agosto de 2010 (Política Nacional de Resíduos
+Sólidos).
+Restos de produtos: Manter restos do produto em suas embalagens originais, fechadas e
+dentro de tambores metálicos, devidamente fechados, de acordo
+com a legislação aplicável. O descarte deve ser realizado conforme
+o estabelecido para o produto, recomendando-se as rotas de
+processamento em cimenteiras e a incineração.
+Pública
+ | 14 | | | - | | | INFORMAÇÕES SOBRE TRANSPORTE | 
+Ficha de Informações de Segurança
+de Produto Químico - FISPQ
+PRODUTO: ÓLEO DIESEL B TFM GERAÇÃO Página 9 de 12
+Data: 12/11/2021 Nº FISPQ: BR0117 Versão: 14 Anula e substitui versão: T Todas as anteriores
+Embalagem usada: Nunca reutilize embalagens vazias, pois elas podem conter restos do
+produto e devem ser mantidas fechadas e encaminhadas para
+serem destruídas em local apropriado. Neste caso, recomenda-se
+envio para rotas de recuperação dos tambores ou incineração.
+14 - INFORMAÇÕES SOBRE TRANSPORTE
+Regulamentações nacionais e internacionais
+Terrestre Resolução nº 5947, de 01 de junho de 2021 - Atualiza o
+Regulamento para o Transporte Rodoviário de Produtos Perigosos e
+aprova as suas Instruções Complementares, e dá outras
+providências.
+Número ONU: 1202
+Nome apropriado para embarque: ÓLEO DIESEL
+Classe de risco/ subclasse de risco 3
+principal:
+Classe de risco/ subclasse de risco NA
+subsidiário:
+Número de risco: 30
+Grupo de embalagem: III
+Hidroviário DPC - Diretoria de Portos e Costas (Transporte em águas
+brasileiras)
+Normas de Autoridade Marítima (NORMAM)
+NORMAM 01/DPC: Embarcações Empregadas na Navegação em
+Mar Aberto
+NORMAM 02/DPC: Embarcações Empregadas na Navegação
+Interior
+IMO – “International Maritime Organization” (Organização Marítima
+Internacional)
+International Maritime Dangerous Goods Code (IMDG Code).
+Número ONU: 1202
+Nome apropriado para embarque: DIESEL FUEL
+Classe de risco/ subclasse de risco 3
+principal:
+Classe de risco/ subclasse de risco NA
+subsidiário:
+Pública
+ | 15 | | | - | | | INFORMAÇÕES SOBRE REGULAMENTAÇÕES | 
+Ficha de Informações de Segurança
+de Produto Químico - FISPQ
+PRODUTO: ÓLEO DIESEL B TFM GERAÇÃO Página 10 de 12
+Data: 12/11/2021 Nº FISPQ: BR0117 Versão: 14 Anula e substitui versão: T Todas as anteriores
+Grupo de embalagem: III
+EmS: F-E, S-E
+Perigo ao meio ambiente: O produto não é considerado poluente marinho.
+Aéreo ANAC - Agência Nacional de Aviação Civil – Resolução n°129 de 8
+de dezembro de 2009.
+RBAC N°175 – (REGULAMENTO BRASILEIRO DA AVIAÇÃO
+CIVIL) - TRANSPORTE DE ARTIGOS PERIGOSOS EM
+AERONAVES CIVIS.
+IS N° 175-001 – INSTRUÇÃO SUPLEMENTAR - IS
+ICAO – “International Civil Aviation Organization” (Organização da
+Aviação Civil Internacional) – Doc 9284-NA/905
+IATA - “International Air Transport Association” (Associação
+Internacional de Transporte Aéreo)
+Dangerous Goods Regulation (DGR).
+Número ONU: 1202
+Nome apropriado para embarque: DIESEL FUEL
+Classe de risco/ subclasse de risco 3
+principal:
+Classe de risco/ subclasse de risco NA
+subsidiário:
+Grupo de embalagem: III
+15 - INFORMAÇÕES SOBRE REGULAMENTAÇÕES
+Regulamentações: Norma ABNT NBR 14725.
+Decreto Federal nº 2.657, de 3 de julho de 1998 – Promulga a
+Convenção nº 170 da OIT, relativa à Segurança na Utilização de
+Produtos Químicos no Trabalho, assinada em Genebra, em 25 de
+junho de 1990.
+Portaria nº 229, de 24 de maio de 2011 - Altera a Norma
+Regulamentadora nº 26
+Decreto Federal n° 96.044 de 18 de junho de 1988 - Aprova o
+Regulamento para o Transporte Rodoviário de Produtos Perigosos.
+Resolução nº 5947, de 01 de junho de 2021 - Atualiza o
+Regulamento para o Transporte Rodoviário de Produtos Perigosos e
+aprova as suas Instruções Complementares, e dá outras
+providências.
+Pública
+ | 16 | | | - | | | OUTRAS INFORMAÇÕES | 
+Ficha de Informações de Segurança
+de Produto Químico - FISPQ
+PRODUTO: ÓLEO DIESEL B TFM GERAÇÃO Página 11 de 12
+Data: 12/11/2021 Nº FISPQ: BR0117 Versão: 14 Anula e substitui versão: T Todas as anteriores
+16 - OUTRAS INFORMAÇÕES
+Esta FISPQ foi elaborada com base nos atuais conhecimentos sobre o manuseio apropriado do produto e sob as
+condições normais de uso, de acordo com a aplicação especificada na embalagem. Qualquer outra forma de
+utilização do produto que envolva a sua combinação com outros materiais, além de formas de uso diversas
+daquelas indicadas, são de responsabilidade do usuário.
+Adverte-se que o manuseio de qualquer substância química requer o conhecimento prévio de seus perigos pelo
+usuário. No local de trabalho cabe à empresa usuária do produto promover o treinamento de seus empregados e
+contratados quanto aos possíveis riscos advindos da exposição ao produto químico.
+Siglas:
+ACGIH - American Conference of Governmental Industrial Hygienists
+CAS - Chemical Abstracts Service
+IARC – International Agency for Research on Cancer
+DL - Dose letal 50%
+50
+NA – Não aplicável
+ONU – Organização das Nações Unidas
+TLV - Threshold Limit Value
+TWA - Time Weighted Average
+Pública

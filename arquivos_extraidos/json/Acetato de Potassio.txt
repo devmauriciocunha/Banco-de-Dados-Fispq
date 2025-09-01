@@ -1,0 +1,361 @@
+| ACETATO DE POTÁSSIO | 
+Toxicidade específica para órgãos-alvo, exposição única, Irritação do aparelho respiratório –
+Categoria 3
+Nome do Produto: Acetato de Potássio
+Data de elaboração: 26/01/2006
+Revisão n° 03
+Data última revisão: 10/07/2017
+FICHA DE INFORMAÇÃO DE SEGURANÇA DE PRODUTO QUÍMICO
+ACETATO DE POTÁSSIO
+1. IDENTIFICAÇÃO DO PRODUTO E DA EMPRESA
+Nome do produto: Acetato de Potássio
+Código interno de identificação do produto: A-2192
+Principais usos: Reagente para laboratório.
+Nome da empresa: Anidrol Produtos para Laboratórios Ltda
+Endereço: Av. Fundibem, 275 – Jardim Casa Grande - CEP 09961-390 - Diadema - SP.
+Telefone da empresa: (0xx11) 4043 3555
+Fax: (0xx11) 4043 3555
+E-mail: qualidade@anidrol.com.br; vendas@anidrol.com.br
+Site: www.anidrol.com.br
+2. IDENTIFICAÇÃO DE PERIGOS
+Toxicidade aguda, Oral - Categoria 4
+Corrosão/ Irritação a pele - Categoria 2
+Classificação de
+Irritação ocular - Categoria 2A
+substância e mistura
+Toxicidade específica para órgãos-alvo, exposição única, Irritação do aparelho respiratório –
+Categoria 3
+Sistema de classificação Norma ABNT-NBR 14725-2. Adoção do Sistema Globalmente Harmonizado para a
+adotado: Classificação e Rotulagem de Produtos Químicos, ONU.
+Outros perigos que não A substância é ligeiramente irritante para os olhos e a pele.
+resultam em uma
+classificação:
+ELEMENTOS DE ROTULAGEM
+Pictogramas:
+Palavra de advertência: Atenção
+H302 Nocivo se ingerido
+H315 Provoca irritação a pele
+Frases de perigo:
+H319 Provoca irritação ocular grave
+H335 Pode provocar irritação das vias respiratórias
+Prevenção
+P261 Evite inalar as poeiras/ fumos/ gases/ névoas/ vapores/ aerossóis.
+P264 Lave cuidadosamente após o manuseio.
+P270 Não coma, beba ou fume durante a utilização deste produto.
+P271 Utilize apenas ao ar livre ou em locais bem ventilados.
+Frases de precaução:
+P280 Use luvas de proteção/ roupa de proteção/ proteção ocular/ proteção facial.
+Resposta à emergência
+P312 Caso sinta indisposição, contate um CENTRO DE INFORMAÇÃO TOXICOLÓGICA/
+médico.
+P321 Tratamento específico (veja em primeiros socorros neste rótulo)
+1/8
+ | ACETATO DE POTÁSSIO | 
+Nome do Produto: Acetato de Potássio
+Data de elaboração: 26/01/2006
+Revisão n° 03
+Data última revisão: 10/07/2017
+FICHA DE INFORMAÇÃO DE SEGURANÇA DE PRODUTO QUÍMICO
+ACETATO DE POTÁSSIO
+P330 Enxágue a boca.
+P301+P312 EM CASO DE INGESTÃO: Caso sinta indisposição, contate um CENTRO DE
+INFORMAÇÃO TOXICOLÓGICA/ médico.
+P302+P352 EM CASO DE CONTATO COM A PELE: Lave com água e sabão em abundância.
+P304+P340 EM CASO DE INALAÇÃO: Remova a pessoa para local ventilado e a mantenha em
+repouso numa posição que não dificulte a respiração.
+P332+P313 Em caso de irritação cutânea: Consulte um médico.
+P337+P313 Caso a irritação ocular persista: consulte um médico.
+P362+P364 Retire toda a roupa contaminada e lave-a antes de usá-la novamente.
+P305+P351+P338 EM CASO DE CONTATO COM OS OLHOS: Enxágue cuidadosamente com
+água durante vários minutos. No caso de uso de lentes de contato, remova-as, se for fácil.
+Continue enxaguando.
+Armazenamento
+P405 Armazene em local fechado à chave.
+P403+P233 Armazene em local bem ventilado. Mantenha o recipiente hermeticamente fechado.
+Disposição
+P501 Descarte o conteúdo/ recipiente em local adequado conforme legislação vigente.
+3. COMPOSIÇÃO E INFORMAÇÕES SOBRE OS INGREDIENTES
+Substância: Acetato de potássio
+Nome químico comum ou nome técnico: Acetato de potássio
+Sinônimo: Acetato de potássio
+Fórmula molecular: C2H3KO2
+Peso molecular: 98,14 g/mol
+Registro no Chemical Abstract Service (nº 127-08-2
+CAS):
+Nº CE: 204-822-2
+Concentração: <=99%
+Perigos mais importantes: Perigoso por ingestão
+Classificação do produto químico: Nocivo
+4. MEDIDAS DE PRIMEIROS SOCORROS
+Em caso de inalação, levar a vítima para o ar fresco. Se não respirar, dar
+Inalação:
+respiração artificial. Consultar um médico.
+Contato com a pele: Lavar com sabão e muita água. Consultar um médico.
+Enxaguar com água abundante por vários minutos (remova as lentes de contato
+Contato com os olhos:
+se possível). Consulte um médico.
+Nunca dar nada pela boca a uma pessoa inconsciente. Enxaguar a boca com
+Ingestão:
+água. Consultar um médico.
+As propriedades químicas, físicas e toxicológicas não foram minuciosamente
+Sintomas e efeitos mais importantes:
+investigadas.
+Notas para o médico: Dados não disponíveis
+2/8
+ | ACETATO DE POTÁSSIO | 
+Nome do Produto: Acetato de Potássio
+Data de elaboração: 26/01/2006
+Revisão n° 03
+Data última revisão: 10/07/2017
+FICHA DE INFORMAÇÃO DE SEGURANÇA DE PRODUTO QUÍMICO
+ACETATO DE POTÁSSIO
+5. MEDIDAS DE COMBATE A INCÊNDIO
+Meios de extinção: Utilizar água pulverizada, espuma resistente ao álcool, pó químico seco ou
+dióxido de carbono.
+Perigos específicos da substância ou Óxidos de carbono, Óxidos de potássio
+mistura:
+Medidas de proteção da equipe de combate Usar equipamento de respiração autónomo para combate a incêndios, se
+a incêndio: necessário.
+Informações complementares: Dados não disponíveis.
+6. MEDIDAS DE CONTROLE PARA DERRAMAMENTO OU VAZAMENTO
+PRECAUÇÕES PESSOAIS
+Para quem não faz parte dos serviços de Usar equipamento de proteção individual. Evitar a formação de poeira. Evitar a
+emergências: respiração do vapor/névoa/gás. Evitar de respirar o pó.
+Na eventualidade de fogo, vestir roupas protetoras completas e aparelho de
+Para quem faz parte do serviço de respiração autônoma com máscara facial completa, operando na pressão
+emergência: exigida ou outro modo de pressão positiva, óculos de proteção, luva de
+proteção e calçado de segurança.
+Precauções ao meio ambiente: Não permitir a entrada do produto no sistema de esgotos.
+Métodos e materiais de contenção e Apanhar os resíduos sem levantar poeiras. Varrer e apanhar com uma pá.
+limpeza: Manter em recipientes fechados adequados, para eliminação.
+7. MANUSEIO E ARMAZENAMENTO
+MEDIDAS TÉCNICAS APROPRIADAS PARA O MANUSEIO
+Precauções para manuseio seguro: Evitar a formação de pó e aerossóis.
+Providenciar uma adequada ventilação em locais onde se formem poeiras.
+Medidas de higiene: Lave bem as mãos antes de comer, beber, fumar ou ir ao banheiro. Roupas
+contaminadas devem ser trocadas e lavadas antes de sua reutilização.
+Condições para armazenamento seguro, Armazenar em local fresco. Guardar o recipiente hermeticamente fechado em
+incluindo incompatibilidades: lugar seco e bem ventilado.
+Higroscópico. Sensível ao ar e à umidade. Separar de ácidos fortes e oxidantes
+fortes.
+8. CONTROLE DE EXPOSIÇÃO E PROTEÇÃO INDIVIDUAL
+PARÂMETROS DE CONTROLE
+Limites de exposição ocupacional: Não classificado pela NR15.
+Medidas de controle de engenharia: Promova ventilação mecânica e sistema de exaustão direta para o meio
+exterior. Estas medidas auxiliam na redução da exposição ao produto. É
+recomendado tornar disponíveis chuveiros de emergência e lava olhos na área
+de trabalho.
+3/8
+ | ACETATO DE POTÁSSIO | 
+Nome do Produto: Acetato de Potássio
+Data de elaboração: 26/01/2006
+Revisão n° 03
+Data última revisão: 10/07/2017
+FICHA DE INFORMAÇÃO DE SEGURANÇA DE PRODUTO QUÍMICO
+ACETATO DE POTÁSSIO
+EQUIPAMENTO DE PROTEÇÃO INDIVIDUAL
+Proteção dos olhos/face: Necessário uso de óculos de ampla visão.
+Proteção da pele e do corpo: Manusear com luvas própria para a classe do produto.
+Proteção respiratória: Não é necessária proteção respiratória. Se desejar proteção contra níveis de pó
+incomodativos, use máscaras de pó tipo PFF2.
+Perigos térmicos: Decompõe-se ao aquecimento.
+Precauções especiais: Não disponível.
+9. PROPRIEDADES FÍSICAS E QUÍMICAS
+Aspecto: Forma: cristalino; Cor: branco
+Odor: Dados não disponíveis
+Limite de odor: Dados não disponíveis
+pH: 6,5 - 9 – (5% em água a 25 °C)
+Ponto de fusão: 292 °C
+Ponto de ebulição inicial e faixa de Dados não disponíveis
+temperatura de ebulição:
+Ponto de fulgor: Dados não disponíveis
+Taxa de evaporação: Dados não disponíveis
+Inflamabilidade (solido, gás): Dados não disponíveis
+Limite de explosividade: Dados não disponíveis
+Pressão do vapor: < 0.0000001 hPa a 25 °C
+Densidade relativa do vapor: Dados não disponíveis
+Densidade relativa: 1,6 g/cm³
+Densidade: Dados não disponíveis
+Solubilidade: 256 g/100ml a 20 °C – em água
+Coeficiente de partição (n- octanol/água): Dados não disponíveis
+Temperatura de autoignição: Dados não disponíveis
+Temperatura de decomposição: Dados não disponíveis
+Viscosidade: Dados não disponíveis
+Risco de explosão: Dados não disponíveis
+Temperatura de ignição: Dados não disponíveis
+4/8
+ | ACETATO DE POTÁSSIO | 
+Decompõe-se ao aquecimento e ao contato com ácidos fortes. Isso produz
+fumos de ácido acético. Reage violentamente com oxidantes fortes. A solução
+na água é uma base fraca.
+Nome do Produto: Acetato de Potássio
+Data de elaboração: 26/01/2006
+Revisão n° 03
+Data última revisão: 10/07/2017
+FICHA DE INFORMAÇÃO DE SEGURANÇA DE PRODUTO QUÍMICO
+ACETATO DE POTÁSSIO
+10. ESTABILIDADE E REATIVIDADE
+Reatividade: Decompõe-se ao aquecimento e ao contato com ácidos fortes. Isso produz
+fumos de ácido acético. Reage violentamente com oxidantes fortes. A solução
+na água é uma base fraca.
+Estabilidade química: Estável em condições normal de temperatura e pressão.
+Possibilidade de reações perigosas: Reação com ácidos fortes e oxidantes fortes.
+Condições a serem evitadas: Fortes aquecimentos.
+Materiais incompatíveis: Agentes oxidantes fortes e ácidos fortes.
+Produtos de decomposição perigosa: Dados não disponíveis
+11. INFORMAÇÕES TOXICOLÓGICAS
+Toxicidade aguda DL50 Oral - ratazana - 3,250 mg/kg
+Corrosão/Irritação à pele: Vermelhidão
+Lesões oculares graves/ Vermelhidão
+irritação ocular:
+Sensibilização respiratório ou Não causa uma sensibilização da pele.
+à pele: As informações dadas estão baseadas nos dados obtidos das substâncias similares.
+Perigo por aspiração: Dados não disponíveis
+Toxicidade para órgão-alvo
+específico – exposição Dados não disponíveis
+única:
+Toxicidade para órgão-alvo
+específico – exposição Dados não disponíveis
+repetida:
+EFEITOS ESPECÍFICOS
+Carcinogenicidade: IARC: Nenhum componente deste produto presente a níveis maiores ou iguais a 0.1% é
+identificado como carcinogénio provável, possível ou confirmado pelo IARC.
+Mutagenecidade em células
+Dados não disponíveis
+germinativas:
+Toxicidade à reprodução: Dados não disponíveis
+12. INFORMAÇÕES ECOLÓGICAS
+EFEITOS AMBIENTAIS, COMPORTAMENTO E IMPACTOS DO PRODUTO
+Ecotoxicidade: Toxicidade em peixes
+CL50 - Danio rerio (zebra fish) - > 992 mg/l - 96 h
+Método: OECD TG 203
+Toxicidade em dáfnias e outros invertebrados aquáticos
+CE50 - Dáfnia - > 919 mg/l - 48 h
+Método: OECD TG 202
+5/8
+ | ACETATO DE POTÁSSIO | 
+Nome do Produto: Acetato de Potássio
+Data de elaboração: 26/01/2006
+Revisão n° 03
+Data última revisão: 10/07/2017
+FICHA DE INFORMAÇÃO DE SEGURANÇA DE PRODUTO QUÍMICO
+ACETATO DE POTÁSSIO
+Toxicidade em algas
+CE50 - Skeletonema costatum - > 1,000 mg/l - 72 h
+Método: ISO 10253
+Persistência e Biodegradabilidade Resultado: - Rapidamente biodegradável.
+degradabilidade:
+Potencial bioacumulativo: Não se acumula nos organismos.
+Mobilidade no solo: Dados não disponíveis
+Outros efeitos adversos: Dados não disponíveis
+13. CONSIDERAÇÕES SOBRE DESTINAÇÃO FINAL
+Métodos recomendado para destinação Produto
+final: Propor a entrega de soluções excedentes e não recicláveis a uma empresa
+idónea de tratamento de resíduos. Dissolver ou misturar o material com um
+solvente combustível e queimar em incinerador químico equipado com pós-
+combustor e purificador de gases.
+Embalagens contaminadas
+Eliminar como o produto não utilizado.
+14. INFORMAÇÕES SOBRE TRANSPORTE
+REGULAMENTAÇÕES NACIONAIS E INTERNACIONAIS
+Resolução n° 420 de 12 de Fevereiro de 2004 da Agência Nacional de
+Transportes Terrestres (ANTT), Aprova as Instruções Complementares ao
+Terrestre:
+Regulamento do Transporte Terrestre de Produtos Perigosos e suas
+modificações.
+DPC - Diretoria de Portos e Costas (Transporte em águas brasileiras);
+Normas de Autoridade Marítima (NORMAM);
+NORMAM 01/DPC: Embarcações Empregadas na Navegação em Mar Aberto;
+NORMAM 02/DPC: Embarcações Empregadas na Navegação Interior;
+Hidroviário:
+IMO – “International Maritime Organization” (Organização Marítima
+Internacional);
+International Maritime Dangerous Goods Code (IMDG Code) – Incorporating
+Amendment 34-08; 2008 Edition.
+ANAC - Agência Nacional de Aviação Civil – Resolução n°129 de 8 de
+dezembro de 2009;
+RBAC N°175 – (Regulamento Brasileiro da Aviação Civil) - Transporte de
+Artigos Perigosos em Aeronaves Civis;
+IS N° 175-001 – Instrução Suplementar;
+Aéreo:
+ICAO – “International Civil Aviation Organization” (Organização da Aviação Civil
+Internacional) – Doc 9284-NA/905;
+IATA - “International Air Transport Association” (Associação Internacional de
+Transporte Aéreo);
+Dangerous Goods Regulation (DGR) – 52nd Edition, 2011.
+N° ONU: N.A.
+Nome apropriado para embarque: N.A.
+Classe ou subclasse de risco principal: N.A.
+6/8
+ | ACETATO DE POTÁSSIO | 
+Nome do Produto: Acetato de Potássio
+Data de elaboração: 26/01/2006
+Revisão n° 03
+Data última revisão: 10/07/2017
+FICHA DE INFORMAÇÃO DE SEGURANÇA DE PRODUTO QUÍMICO
+ACETATO DE POTÁSSIO
+Classe ou subclasse de risco subsidiário: N.A.
+Risco: N.A.
+Grupo de embalagem: N.A.
+15. INFORMAÇÕES SOBRE REGULAMENTAÇÕES
+Decreto Federal nº 2.657, de 3 de julho de 1998;
+Norma ABNT-NBR 14725:2014;
+Regulamentação:
+Portaria nº 229, de 24 de Agosto de 2013 – Altera a Norma Regulamentadora nº
+26.
+16. OUTRAS INFORMAÇÕES
+Nos locais onde se manipulam produtos químicos deverá ser realizado o monitoramento da exposição dos
+trabalhadores, conforme PPRA (Programa de Prevenção de Riscos Ambientais) da NR-9. Funcionários que manipulam
+produtos químicos, em geral, devem ser monitorados biologicamente conforme o PCMSO (Programa de Controle Médico
+de Saúde Ocupacional) da NR-7.
+As informações desta FISPQ representam os dados atuais e refletem o nosso conhecimento para o manuseio apropriado
+deste produto sobre condições normais e de acordo com a aplicação especifica na embalagem e/ou literatura. Qualquer
+outro uso que envolva o uso combinado com outro produto ou outros processos é de responsabilidade do usuário.
+Referências:
+Os dados desta ficha foram baseados nas fichas de informações de produtos de nossos fornecedores.
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 14725: 2014 Produtos químicos – Informações sobre
+segurança, saúde e meio ambiente. Parte 4: Ficha de informações de segurança de produtos químicos (FISPQ).
+Centros de Informações Toxicológicas
+Belo Horizonte - Serviço de Toxicologia de Minas Gerais - Hospital João XXIII
+Fone: (31) 3239.9224/3239.9223 (Hospital) (31) 3239-9308 / 3224-4000 (Tel. CIT.) Fax: (31) 3239.9260(CIT.).
+Porto Alegre - Centro de Informações Toxicológicas do Rio Grande do Sul
+Fone: (51) 3217.1751 (Tel. CIT.) Fax: (51) 3217.9067 Atendimento: 0800 721 3000.
+Recife - Centro de Assistência Toxicológica de Pernambuco - Hospital da Restauração - 1º andar
+Fone: (81) 3421.5444 R. 151 (Tel. Hospital) Fax: (81) 3421.5927 / 3423-8263.
+Rio de Janeiro - Centro de Controle de Intoxicações do Rio de Janeiro - Hospital Universitário Clementino Fraga Filho
+Fone: (21) 2573.3244/2290-3344 (Tel. CIT.) - Fax: (21) 2573-7079 (CIT.).
+Salvador - Centro de Informações Anti-Veneno da Bahia - CIAVE - Hospital Geral Roberto Santos
+Fone: (71) 387.3414/387-4343 e 0800 284 43 43 Fax: (71) 387.3414
+São Paulo - Centro de Controle de Intoxicações de São Paulo - Hospital Municipal Dr. Artur Ribeiro de Saboya
+Fone/Fax: (11) 5012/2399 (Tel. CIT.) (11) 5012-5311 (atendimento médico) Atendimento: 0800 771 37 33.
+https://pubchem.ncbi.nlm.nih.gov/
+https://chem.nlm.nih.gov/
+Para mais informações visite o site: http://www.anvisa.gov.br/toxicologia/centros.htm
+Legendas e abreviaturas
+NT = Não existe o registro
+ND = Não determinado/Não disponível
+NA = Não aplicável
+ACGIH – American Conference of Governmental Industrial Hygienists
+7/8
+ | ACETATO DE POTÁSSIO | 
+Nome do Produto: Acetato de Potássio
+Data de elaboração: 26/01/2006
+Revisão n° 03
+Data última revisão: 10/07/2017
+FICHA DE INFORMAÇÃO DE SEGURANÇA DE PRODUTO QUÍMICO
+ACETATO DE POTÁSSIO
+CAS – Chemical Abstracts Service
+CL50 – Concentração Letal 50%
+IARC – International Agency for Research on Cancer
+IDLH – Immediately Dangerous to Life or Health
+LT – Limite de Tolerância
+NA – Não aplicável
+NIOSH – National Institute for Occupational Safety and Health
+NR – Norma Regulamentadora
+ONU – Organização das Nações Unidas
+SBCA – Self Contained Breathing Apparatus
+TLV – Threshold Limit Value
+TWA – Time Weighted Average
+NR – Norma Regulamentadora
+CA – Certificado de Aprovação
+8/8

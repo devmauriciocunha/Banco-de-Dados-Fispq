@@ -1,0 +1,138 @@
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Nome do Produto: SORBATO DE POTÁSSIO
+Página: 1/4
+Data da última revisão: 01/06/2017
+1- Identificação do produto e da empresa
+- Nome do produto: SORBATO DE POTÁSSIO
+- Código interno de identificação do produto: S2849
+- Principais usos recomendados para a substância: Análises químicas, conservante
+- Nome da empresa: Labsynth Produtos para Laboratórios Ltda
+- Endereço: Av. Dr. Ulysses Guimarães, 3.857 – Vila Mary – Diadema - SP
+- Telefone para contato: (11) 4072-6100
+- Telefone para emergências: (11) 4072-6100
+- Fax: (11) 4072-6122
+- E-mail: synth@synth.com.br
+2- Identificação de perigos
+2.1 - Classificação da substância (de acordo com a ABNT NBR 14725-2): Esta substância não é classificada como perigosa de acordo com a
+legislação
+2.2 - Elementos de rotulagem (de acordo com a ABNT NBR 14725-2): Produto químico não classificado como perigoso
+2.3 - Outros Perigos que não resultam em uma classificação: Não disponível
+3- Composição e informações sobre os ingredientes
+3.1 - Substância:
+- Nome químico ou comum: Sorbato de Potássio
+- Sinônimo: Não disponível
+-Número de registro CAS: 24634-61-5
+- Impurezas que contribuam para o perigo: Não disponível
+4- Medidas de primeiros socorros
+4.1 - Medidas de primeiros socorros:
+- Inalação: Remover para local ventilado.
+- Contato com a pele: Lavar com água corrente.
+- Contato com os olhos: Lavar com água corrente, pelo menos 15 min..
+- Ingestão: Beber bastante água. Em caso de mal-estar, consultar um médico.
+4.2 - Sintomas e efeitos mais importantes: Irritante
+4.3 - Notas para o médico: Tratamento sintomático. Não há antídoto específico. Direcionar o tratamento de acordo com os sintomas e
+condições clínicas do paciente.
+5- Medidas de combate a incêndio
+5.1 - Meios de extinção: Água, CO2, espuma, pó
+5.2 - Perigos específicos da substância: Não disponível
+5.3 - Medidas de proteção da equipe de combate a incêndio: Utilizar equipamento de proteção individual e equipamento de proteção
+respiratória autônoma
+Av. Dr. Ulysses Guimarães, 3857 - Vila Mary - Diadema - SP - CEP 09990-090 – Tel. (11) 4072-6100 - CNPJ 51.462.471/0001-52 - IE 286.056.465.111
+Site : www.labsynth.com.br e-mail : synth@synth.com.br
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Nome do Produto: SORBATO DE POTÁSSIO
+Página: 2/4
+Data da última revisão: 01/06/2017
+6- Medidas de controle para derramamento ou vazamento
+6.1 - Precauções pessoais, equipamento de proteção e procedimentos de emergência
+6.1.1 - Para o pessoal que não faz parte dos serviços de emergência: Evitar o contato com o produto. Não inalar os pós
+6.1.2 - Para o pessoal do serviço de emergência: Utilizar equipamento de proteção individual e equipamento de proteção respiratória
+6.2 - Precaução ao meio ambiente: Não enviar o produto para redes de águas residuais
+6.3 - Métodos e materiais para a contenção e limpeza: Absorver em estado seco. Recolher o resíduo para eliminação posterior
+7- Manuseio e armazenamento
+7.1 - Precauções para o manuseio seguro: Manipular o produto respeitando as regras gerais de segurança
+7.2 - Condições de armazenamento seguro, incluindo qualquer incompatibilidade: Manter as embalagens bem fechadas, local seco e
+limpo. Temperatura ambiente
+8- Controle de exposição e proteção individual
+8.1 - Parâmetros de controle: Não disponível
+8.2 - Medidas de controle de engenharia: Manipular o produto em local com boa ventilação natural ou mecânica, de forma a manter a
+concentração de vapores/poeiras inferior ao limite de tolerância
+8.3 - Medidas de proteção pessoal:
+- Proteção dos olhos/face: Óculos de segurança
+- Proteção da pele: Luvas de proteção
+- Proteção respiratória: Máscara contra pós
+- Perigos térmicos: Não disponível
+9- Propriedades físico-químicas
+- Aspecto: Grânulos ou pó, branco amarelado
+- Odor: próprio
+- pH: 8,0 – 11,0
+- Ponto de fusão: 270ºC
+- Ponto de ebulição: Não disponível
+- Ponto de fulgor: Não disponível
+- Taxa de evaporação: Não disponível
+- Inflamabilidade: Não disponível
+- Limite inferior/superior de inflamabilidade ou explosividade: Não disponível
+- Pressão de vapor: Não disponível
+- Densidade de vapor: Não disponível
+- Densidade: Não disponível
+- Solubilidade: em Água: 1.400 g/l
+- Coeficiente de partição – n-octanol/água: Não disponível
+Av. Dr. Ulysses Guimarães, 3857 - Vila Mary - Diadema - SP - CEP 09990-090 – Tel. (11) 4072-6100 - CNPJ 51.462.471/0001-52 - IE 286.056.465.111
+Site : www.labsynth.com.br e-mail : synth@synth.com.br
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Nome do Produto: SORBATO DE POTÁSSIO
+Página: 3/4
+Data da última revisão: 01/06/2017
+- Temperatura de auto-ignição: Não disponível
+- Temperatura de decomposição: > 270ºC
+- Viscosidade: Não disponível
+10- Estabilidade e reatividade
+10.1 - Estabilidade química: Estável
+10.2 - Reatividade: Oxidantes
+10.3 - Possibilidade de reações perigosas: Não disponível
+10.4 - Condições a serem evitadas: Forte aquecimento
+10.5 - Materiais incompatíveis: Alumínio, zinco
+10.6 - Produtos perigosos da decomposição: Não disponível
+11- Informações toxicológicas
+- Toxicidade aguda: DL (oral, rato): 3800 mg/kg
+50
+- Corrosão / irritação da pele: Não disponível
+- Lesões oculares graves / irritação ocular: Não disponível
+- Sensibilização respiratória ou à pele: Não disponível
+- Mutagenicidade em células germinativas: Não disponível
+- Carcinogenicidade: Não disponível
+- Toxicidade à reprodução: Não disponível
+-Toxicidade para órgãos - alvo específico – exposição única: Não disponível
+-Toxicidade para órgãos - alvo específico – exposição repetida: Não disponível
+- Perigo por aspiração: Não disponível
+12- Informações ecológicas
+12.1 - Ecotoxicidade: Toxicidade nos peixes: Danio rerio LC50: 1250 mg / l / 96 h
+12.2 - Persistência e degradabilidade: Biodegradabilidade > 95 % / 8 d
+12.3 - Potencial bioacumulativo: Não disponível
+12.4 - Mobilidade no solo: Não disponível
+12.5 - Outros efeitos adversos: Não disponível
+13- Considerações sobre tratamento e disposição
+13.1 - Métodos recomendados para destinação final:
+- Produto: Seguir as normas locais do controle do meio ambiente ou incinerar
+- Restos de produtos: Recolher e armazenar adequadamente o produto derramado para posterior reutilização ou incineração
+- Embalagem usada: Devem ser eliminadas de acordo com as normas locais do controle do meio ambiente ou incinerar.
+Av. Dr. Ulysses Guimarães, 3857 - Vila Mary - Diadema - SP - CEP 09990-090 – Tel. (11) 4072-6100 - CNPJ 51.462.471/0001-52 - IE 286.056.465.111
+Site : www.labsynth.com.br e-mail : synth@synth.com.br
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Nome do Produto: SORBATO DE POTÁSSIO
+Página: 4/4
+Data da última revisão: 01/06/2017
+14- Informações sobre transporte
+14.1 - Regulamentações nacionais e internacionais:
+Este produto não está classificado como perigoso para o transporte de acordo com a Resolução nº 5232, de 14 de dezembro de 2016
+15- Informações sobre regulamentações
+15.1 - Regulamentações específicas de segurança, saúde e meio ambiente para o produto químico:
+Produto químico não classificado como perigoso de acordo com a Resolução nº 5232, de 14 de dezembro de 2016
+16- Outras informações
+Merck Index, 12ª ed., Nº 7841
+Os dados aqui contidos, são fornecidos com boa fé e a título orientativo, baseados em literaturas correntes e conceituadas (referidas no
+informativo, sempre que possível ou quando solicitadas).
+Apesar de serem dignas de confiança, não podemos nos responsabilizar pela sua exatidão. Recomendamos, sejam feitas as devidas avaliações
+pelo usuário.
+Av. Dr. Ulysses Guimarães, 3857 - Vila Mary - Diadema - SP - CEP 09990-090 – Tel. (11) 4072-6100 - CNPJ 51.462.471/0001-52 - IE 286.056.465.111
+Site : www.labsynth.com.br e-mail : synth@synth.com.br

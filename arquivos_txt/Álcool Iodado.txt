@@ -1,0 +1,351 @@
+FISPQ
+dinamicaquimica.com.br
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS
+QUÍMICOS
+Versão 2.0
+Data de revisão 14.02.2020
+1. IDENTIFICAÇÃO DO PRODUTO E DA EMPRESA
+1.1 Identificadores do produto
+Nome do produto : SOL. ALCOOL IODADO 0,5% ALCOOLICA
+Marca : Dinâmica Química
+1.2 Outros meios de identificação
+1.3 Utilizações identificadas relevantes da substância ou mistura e utilizações desaconselhadas
+Utilizações identificadas : Produtos químicos de laboratório, Síntese de substâncias
+1.4 Identificação do fornecedor da ficha de dados de segurança
+Companhia : Dinâmica Química Contemporânea LTDA.
+Rua Crisolita nº 145 – Recreio Campestre Jóia
+Indaiatuba – SP – CEP: 13347-060 - Brasil
+Telefone : +55 19 3114-9250
+E-mail : dinamica@dinamicaquimica.com.br
+1.5 Número de telefone de emergência
+(19) 3114-9232
+2. IDENTIFICAÇÃO DE PERIGOS
+2.1 Classificação GHS
+Líquidos inflamáveis (Categoria 1)
+Toxicidade aguda, Oral (Categoria 4)
+Toxicidade aguda, Inalação (Categoria 5)
+Irritação cutânea (Categoria 3)
+Iirritação ocular (Categoria 2A)
+Toxicidade para órgãos-alvo específicos - exposição única (Categoria 3)
+2.2 Elementos da Etiqueta GHS, incluindo declarações de prevenção
+Pictograma
+Palavra de advertência Perigo
+Frases de Perigo
+H224 Líquido e vapor extremamente inflamáveis.
+H302 Nocivo por ingestão.
+H316 Causa uma irritação suave da pele.
+H319 Provoca irritação ocular grave.
+H333 Pode ser perigoso se for inalação.
+Componente | Classificação | Concentração
+ÁLCOOL ETÍLICO | | 
+No. CAS 64-17-5 | Líquidos inflamáveis (Categoria 2).
+Irritação cutânea (Categoria 2).
+Irritação ocular (Categoria 2B).
+Toxicidade para órgãos-alvo
+específicos - exposição única
+(Categoria 3). | Máx. 100%
+H336 Pode provocar sonolência ou vertigens.
+Frases de Precaução
+Prevenção
+P210 Manter afastado do calor/faísca/chama aberta/ superfícies quentes. Não
+fumar.
+P233 Manter o recipiente bem fechado.
+P240 Ligação à terra/equipotencial do recipiente e do equipamento receptor.
+P241 Utilizar equipamento eléctrico/ de ventilação/ de iluminação/ à prova de
+explosão.
+P242 Utilizar apenas ferramentas antichispa.
+P243 Evitar acumulação de cargas electrostáticas.
+P261 Evitar respirar as poeiras/ fumos/ gases/ névoas/ vapores/ aerossóis.
+P264 Lavar a pele cuidadosamente após manuseamento.
+P270 Não comer, beber ou fumar durante a utilização deste produto.
+P271 Utilizar apenas ao ar livre ou em locais bem ventilados.
+P280 Usar luvas de protecção/ vestuário de protecção/ protecção ocular/
+protecção facial.
+Resposta
+P301 + P312 EM CASO DE INGESTÃO: Caso sinta indisposição, contacte um
+CENTRO DE INFORMAÇÃO ANTIVENENOS/médico.
+P303 + P361 + P353 SE ENTRAR EM CONTACTO COM A PELE (ou o cabelo): despir/ retirar
+imediatamente toda a roupa contaminada. Enxaguar a pele com água/
+tomar um duche.
+P304 + P340 EM CASO DE INALAÇÃO: retirar a vítima para uma zona ao ar livre e
+mantê-la em repouso numa posição que não dificulte a respiração.
+P305 + P351 + P338 SE ENTRAR EM CONTACTO COM OS OLHOS: enxaguar
+cuidadosamente com água durante vários minutos. Se usar lentes de
+contacto, retire-as, se tal lhe for possível. Continuar a enxaguar.
+P312 Caso sinta indisposição, contacte um CENTRO DE INFORMAÇÃO
+ANTIVENENOS/médico.
+P330 Enxaguar a boca.
+P332 + P313 Em caso de irritação cutânea: consulte um médico.
+P337 + P313 Caso a irritação ocular persista: consulte um médico.
+P370 + P378 Em caso de incêndio: para a extinção utilizar areia seca, um produto
+químico seco ou espuma resistente ao álcool.
+Armazenagem
+P403 + P233 Armazenar em local bem ventilado. Manter o recipiente bem fechado.
+P403 + P235 Armazenar em local bem ventilado. Conservar em ambiente fresco.
+P405 Armazenar em local fechado à chave.
+Destruição
+P501 Eliminar o conteúdo/ recipiente em instalação aprovada de destruição de
+resíduos.
+2.3 Outros Perigos
+Pode formar peróxidos explosivos., Pode provocar pele seca ou gretada, por exposição repetida.
+3. COMPOSIÇÃO E INFORMAÇÕES SOBRE OS INGREDIENTES
+3.1 Misturas
+Componente Classificação Concentração
+ÁLCOOL ETÍLICO
+Líquidos inflamáveis (Categoria 2).
+Irritação cutânea (Categoria 2).
+No. CAS 64-17-5 Irritação ocular (Categoria 2B). Máx. 100%
+Toxicidade para órgãos-alvo
+específicos - exposição única
+(Categoria 3).
+Componente | Classificação | Concentração
+IODO | | 
+No. CAS 7553-56-2 | Toxicidade aguda, Oral (Categoria 4).
+Corrosão cutânea (Categoria 2) Irritação
+Ocular (Categoria 2A). | 0,5%
+Componente Classificação Concentração
+IODO
+Toxicidade aguda, Oral (Categoria 4).
+Corrosão cutânea (Categoria 2) Irritação
+No. CAS 7553-56-2 Ocular (Categoria 2A). 0,5%
+4. MEDIDAS DE PRIMEIROS-SOCORROS
+4.1 Descrição das medidas de primeiros socorros
+Recomendação geral
+Consultar um médico. Mostrar esta ficha de segurança ao médico de serviço.
+Em caso de inalação
+Se for respirado, levar a pessoa para o ar fresco. Se não respirar, dar respiração artificial. Consultar um
+médico.
+Em caso de contacto com a pele
+Lavar com sabão e muita água. Consultar um médico.
+Se entrar em contacto com os olhos
+Lavar cuidadosamente com muita água, durante pelo menos quinze minutos, e consultar o médico.
+Em caso de ingestão
+NÃO provoca vómito. Nunca dar nada pela boca a uma pessoa inconsciente. Enxaguar a boca com água.
+Consultar um médico.
+4.2 Sintomas e efeitos mais importantes, tanto agudos como retardados
+Até onde sabemos, as propriedades químicas, físicas e toxicológicas não foram minuciosamente
+investigadas.
+4.3 Indicações sobre cuidados médicos urgentes e tratamentos especiais necessários
+Dados não disponíveis
+5. MEDIDAS DE COMBATE A INCÊNDIO
+5.1 Meios de extinção
+Meios adequados de extinção
+Utilizar água pulverizada, espuma resistente ao álcool, produto químico seco ou dióxido de carbono.
+5.2 Perigos especiais decorrentes da substância ou mistura
+Dados não disponíveis
+5.3 Recomendações para o pessoal de combate a incêndios
+Usar equipamento de respiração autónomo para combate a incêndios, se necessário.
+5.4 Informações adicionais
+Os jatos de água podem ser utilizados para arrefecer os contentores fechados.
+6. MEDIDAS DE CONTROLE PARA DERRAMAMENTO OU VAZAMENTO
+6.1 Precauções individuais, equipamento de proteção e procedimentos de emergência
+Usar equipamento de proteção individual. Evitar a respiração do vapor/névoa/gas. Assegurar ventilação
+adequada. Cortar todas as fontes de ignição. Evacuar o pessoal para áreas de segurança. Atenção com a
+acumulação de vapores que pode formar concentrações explosivas. Os vapores podem-se acumular nas
+áreas baixas.
+6.2 Precauções a nível ambiental
+Prevenir dispersão ou derramamento, se seguro. Não permitir a entrada do produto no sistema de
+esgotos.
+6.3 Métodos e materiais de confinamento e limpeza
+Controlar e recuperar o líquido derramado com aspirador protegido electricamente ou varrer a seco e por
+o líquido dentro de contentores para a eliminação de acordo com as regulações locais (ver secção 13).
+6.4 Remissão para outras secções
+Para eliminação de resíduos ver secção 13.
+7. MANUSEIO E ARMAZENAMENTO
+7.1 Precauções para um manuseamento seguro
+Evitar o contacto com a pele e os olhos. Evitar a inalação do vapor ou da névoa.
+Manter afastado de qualquer chama ou fonte de ignição - Não fumar.Tome medidas para impedir a
+formação de electricidade estática.
+7.2 Condições de armazenagem segura, incluindo eventuais incompatibilidades
+Armazenar em local fresco. Guardar o recipiente herméticamente fechado em lugar seco e bem ventilado.
+Os contentores abertos devem ser cuidadosamente fechados de novo e têm que ficar direitos para evitar a
+dispersão.
+Sensível à luz. Sensível ao calor. Sensível ao ar.
+7.3 Utilização(ões) final(is) específica(s)
+Dados não disponíveis
+8. CONTROLE DE EXPOSIÇÃO E PROTEÇÃO INDIVIDUAL
+8.1 Parâmetros de controlo
+8.2 Controlo da exposição
+Controlos técnicos adequados
+Manusear de acordo com as boas práticas industriais de higiene e segurança. Lavar as mãos antes dos
+intervalos e no final do dia de trabalho.
+Proteção individual
+Protecção ocular/ facial
+Mascaras de protecção e óculos de segurança. Use equipamento de proteção ocular testado e
+aprovado de acordo com as normas governamentais adequadas, tais como NIOSH (US) ou EN 166
+(EU).
+Protecção da pele
+Manusear com luvas. As luvas devem ser inspeccionadas antes da utilização. Use uma técnica
+adequada para a remoção das luvas (sem tocar a superfície exterior da luva) para evitar o contacto
+da pele com o produto. Descarte as luvas contaminadas após o uso, em conformidade com as leis e
+boas práticas de laboratório . Lavar e secar as mãos.
+As luvas de protecção seleccionadas devem satisfazer as especificações da Directiva da UE
+89/689/CEE e a norma EN 374 derivada dela.
+Contacto com salpicos Material:
+Borracha com flúor espessura
+mínima da capa: 0.7 mm Pausa
+através do tempo: 30 min
+Se for utilizado em solução, ou misturado com outras substâncias, e sob condições que diferem da
+EN 374, contactar o fornecedor de luvas da CE. Esta recomendação é apenas desejável e deve ser
+avaliada por um responsável de segurança e higiene industrial familiarizado com a situação
+específica de utilização pretendida pelos nossos clientes. Não deve ser interpretado como uma
+oferta de aprovação para qualquer cenário de uso específico
+Protecção do corpo
+Fato completo de protecção para produtos químicos, Tecido protector anti-estático retardador de
+chama., O tipo de equipamento de protecção deve ser escolhido de acordo com a concentração e a
+quantidade da substância perigosa no local de trabalho.
+Protecção respiratória
+Nos casos em que a avaliação de risco mostrar que os respiradores purificadores do ar são
+apropriados, usa um respirador de cobertura facial total com cartuchos de combinação multi-
+objectivos (E.U.A.) ou do tipo AXBEK (EN 14387) como apoio a controlos de engenharia. Se o
+respirador for o único meio de protecção, usa um respirador de ar de cobertura facial total. Use
+respiradores e componentes testados e aprovados por normas governamentais apropriadas, tais
+como as NIOSH (E.U.A.) ou CEN (UE).
+9. PROPRIEDADES FÍSICAS E QUÍMICAS
+9.1 Informações sobre propriedades físicas e químicas de base
+a) Aspeto Forma: líquido
+b) Odor Dados não disponíveis
+c) Limite de Odor Dados não disponíveis
+d) pH Dados não disponíveis
+e) Ponto de fusão/ponto Ponto/intervalo de fusão: -116 °C - lit.
+de congelamento
+f) Ponto de ebulição inicial 34.6 °C - lit.
+e intervalo de ebulição
+g) Ponto de fulgor -40 °C
+h) Taxa de evaporação Dados não disponíveis
+i) Inflamabilidade (sólido, Dados não disponíveis
+gás)
+j) Limites de Limite superior de explosão: 48 %(V)
+inflamabilidade superior Limite inferior de explosão: 1.8 %(V)
+/ inferior ou
+explosividade
+k) Pressão de vapor 189 hPa a 0 °C
+389 hPa a 10 °C
+563 hPa a 20 °C
+863 hPa a 30 °C
+1,228 hPa a 40 °C
+2,311 hPa a 60 °C
+l) Densidade de vapor 2.56 - (Ar = 1.0)
+m) Densidade relativa Dados não disponíveis
+n) Hidrossolubilidade Solúvel
+o) Coeficiente de partição Dados não disponíveis
+n-octanol/água
+p) Temperatura de auto- Dados não disponíveis
+ignição
+q) Temperatura de Dados não disponíveis
+decomposição
+r) Viscosidade Dados não disponíveis
+10. ESTABILIDADE E REATIVIDADE
+10.1 Reatividade
+Dados não disponíveis
+10.2 Estabilidade química
+Dados não disponíveis
+Contem o(s) estabilizadore(s) seguintes:
+BHT (<=1 %)
+10.3 Possibilidade de reações perigosas
+Dados não disponíveis
+10.4 Condições a evitar
+Calor, chamas e faíscas. As temperaturas extremas e à luz do sol direta.
+10.5 Materiais incompatíveis
+Oxidantes, Ácidos fortes
+10.6 Produtos de decomposição perigosos
+Produtos perigosos de decomposição formados durante os incêndios. - Óxidos de carbono
+Outros produtos de decomposição perigosos - Dados não disponíveis
+11. INFORMAÇÕES TOXICOLÓGICAS
+11.1 Informações sobre os efeitos toxicológicos
+Toxicidade aguda
+DL50 Oral - Ratazana - 1,215 mg/kg
+CL50 Inalação - Rato - 30 min - 31000 ppm
+Observações: Comportamento: Convulsões ou acção sobre o despoletamento da crise epiléptica.
+CL50 Inalação - Ratazana - 4 h - 32000 ppm
+DL50 Dérmico - Coelho - > 14.2 g/kg
+Corrosão/irritação cutânea
+Pele - Coelho - Não provoca irritação da pele - Directrizes do Teste OECD 404
+Lesões oculares graves/irritação ocular
+Olhos - Coelho - Não irrita os olhos - Directrizes do Teste OECD 405
+Sensibilização respiratória ou cutânea
+ensaios in vivo - Rato - Não provoca sensibilização em animais de laboratório. - Directrizes do Teste OECD
+429
+Mutagenicidade em células germinativas
+Genotoxicidade in vitro - Rato - embrião
+Inibição do DNA
+Carcinogenicidade
+Dados não disponíveis
+IARC: Nenhum componente deste produto presente a níveis maiores ou iguais a 0.1% é identificado
+como carcinogénio provável, possível ou confirmado pelo IARC.
+Toxicidade à reproduçã e lactação
+Dados não disponíveis
+Toxicidade sistêmica para órgãos-alvo específicos - exposição única
+Pode provocar sonolência ou vertigens.
+Toxicidade sistêmica para órgãos-alvo específicos - exposição repetida
+Dados não disponíveis
+Perigo de aspiração
+Dados não disponíveis
+Possíveis danos para a saúde
+Inalação Pode ser perigoso se for inalação. Pode causar uma irritação do aparelho
+respiratório. Pode provocar sonolência e vertigens, por inalação dos
+vapores.
+Ingestão Nocivo por ingestão.
+Pele Pode ser perigoso se for absorto pela pele. Pode causar uma irritação da
+pele.
+Olhos Provoca irritação ocular grave.
+Sinais e sintomas de exposição
+Até onde sabemos, as propriedades químicas, físicas e toxicológicas não foram minuciosamente
+investigadas.
+Informação adicional
+12. INFORMAÇÕES ECOLÓGICAS
+12.1 Ecotoxicidade
+Toxicidade em peixes CL50 - Pimephales promelas (vairão gordo) - 2,560 mg/l - 96 h
+Toxicidade em dáfnias e CE50 - Daphnia magna - 165 mg/l - 24 h
+outros invertebrados Método: DIN 38412
+aquáticos
+Toxicidade em algas NOEC - Desmodesmus subspicatus (alga verde) - > 100 mg/l - 72 h
+Método: OECD TG 201
+12.2 Persistência e degradabilidade
+Biodegradabilidade Resultado: - Não rapidamente biodegradável.
+12.3 Potencial biocumulativo
+Nenhuma bioacumulação é esperada (log P <= 4). (log Pow = coeficiente de partição P)
+12.4 Mobilidade no solo
+Dados não disponíveis
+12.5 Resultados da avaliação PBT e mPmB
+Dados não disponíveis
+12.6 Outros efeitos adversos
+Dados não disponíveis
+13. CONSIDERAÇÕES SOBRE TRATAMENTO E DISPOSIÇÃO
+13.1 Métodos de tratamento de resíduos
+Produto
+Queimar em um incinerador químico equipado com pós-combustor e purificador de gases, mas tomar
+precauções adicionais ao colocar esse material em ignição, visto que é altamente inflamável. Propor a
+entrega de soluções excedentes e não recicláveis a uma empresa idónea de tratamento de resíduos.
+Embalagens contaminadas
+Eliminar como produto Não utilizado.
+14. INFORMAÇÕES SOBRE TRANSPORTE
+14.1 Número ONU
+ADR/RID: 1993 DOT (US): 1993 IMDG: 1993 IATA: 1993 ANTT: 1993
+14.2 Designação oficial de transporte da ONU
+ADR/RID: LÍQUIDO COMBUSTÍVEL, N.S.A.
+DOT (US): Combustible liquid, n.o.s.
+IMDG: COMBUSTIBLE LIQUID, N.O.S.
+IATA: Combustible liquid, n.o.s.
+ANTT: LÍQUIDO INFLAMÁVEL, N.E.
+14.3 Classes de perigo para efeitos de transporte
+ADR/RID: 3 DOT (US): 3 IMDG: 3 IATA: 3 ANTT: 3
+14.4 Grupo de embalagem
+ADR/RID: III DOT (US): III IMDG: III IATA: III ANTT: III
+14.5 Perigos para o ambiente
+ADR/RID: não DOT (US): não IMDG Poluente marinho: não IATA: não
+14.6 Precauções especiais para o utilizador
+Dados não disponíveis
+14.7 Numero De Risco 30
+15. REGULAMENTAÇÕES
+15.1 Regulamentação/legislação específica para a substância ou mistura em matéria de saúde, segurança
+e ambiente
+Esta Ficha de Informações de Produtos Químicos foi preparada de acordo com a NBR 14725-4/2014 da
+ABNT (Associação Brasileira de Normas Técnicas)
+16. OUTRAS INFORMAÇÕES
+Direitos exclusivos da Dinâmica Química Contemporânea LTDA. Permissão concedida para fazer número
+ilimitado de cópias em papel, somente para uso interno. Acredita-se que as informações acima estejam
+corretas, embora não pretendam ser totalmente abrangentes, devendo ser usadas apenas como um guia.
+A informação contida neste documento esta baseada no presente estado do nosso conhecimento e é
+aplicável ás precauções de segurança apropriadas para o produto. A Dinâmica Química Contemporânea
+LTDA não responderá por nenhum dado resultante do manuseio ou do contato com o produto.

@@ -1,0 +1,940 @@
+Ficha de Informações de
+Segurança de Produto Químico
+
+ACEFATO CCAB 750 SP
+
+Página: (1 de 18)
+1. IDENTIFICAÇÃO
+Data de elaboração: (21/07/2017) Data de revisão: (00/00/0000)
+Número de Revisão: (00)
+Ficha de Informações de
+Segurança de Produto Químico
+ACEFATO CCAB 750 SP
+Página: (1 de 18)
+1. IDENTIFICAÇÃO
+Nome do Produto: Acefato CCAB 750 SP
+Aplicação: Inseticida sistêmico, de contato e ingestão, do grupo químico
+Organofosforado.
+Fornecedor: CCAB AGRO S/A.
+Rua Teixeira da Silva, 660 – conjunto 133/134 - CEP 04002-033
+São Paulo/SP- CNPJ: 08.938.255/0001-01
+Registro no órgão estadual CDA/SAA/SP sob nº 820 e SP-3374
+Telefone de emergência: 0800 70 10 450
+2. IDENTIFICAÇÃO DE PERIGOS
+Perigos mais importantes: o produto pode ser tóxico ao homem e ao meio
+ambiente se não utilizado conforme as recomendações.
+Efeitos do Produto:
+Efeitos adversos à saúde humana: o produto é nocivo se inalado e
+pode ser nocivo se ingerido e em contato com a pele. Provoca irritação
+moderada à pele e provoca irritação ocular. Pode provocar danos ao
+SNC e pode provocar danos aos pulmões por exposição repetida ou
+prolongada.
+Efeitos Ambientais: o produto é considerado muito tóxico para a vida
+aquática.
+Perigos físicos e químicos: o produto não é considerado inflamável.
+Principais Sintomas: o acefato é um organofosforado que inibe
+permanentemente a enzima acetilcolinesterase e causa sintomas que podem
+aparecer em poucos minutos ou até 12 horas após a exposição. A exposição
+pode causar sintomas muscarínicos como bradicardia, broncoespasmos,
+broncorréia (excesso de secreção na mucosa brônquica), salivação e
+sudorese excessiva, vômito, diarréia e miose. Os sintomas nicotínicos
+incluem taquicardia, hipertensão, fasciculação e contrações musculares,
+fraqueza e depressão respiratória. A ação no Sistema Nervoso Central pode
+provocar agitação, confusão, delírio, crises convulsivas e depressão do SNC.
+Data de elaboração: (21/07/2017) Data de revisão: (00/00/0000)
+Número de Revisão: (00)
+Ficha de Informações de
+Segurança de Produto Químico
+
+ACEFATO CCAB 750 SP
+
+Página: (2 de 18)
+Pictograma | | | 
+Palavra de
+advertência | Atenção | | 
+Data de elaboração: (21/07/2017) Data de revisão: (00/00/0000)
+Número de Revisão: (00)
+Ficha de Informações de
+Segurança de Produto Químico
+ACEFATO CCAB 750 SP
+Página: (2 de 18)
+Classificação de perigo do produto:
+Sistema de classificação de perigo de acordo com o Sistema
+Globalmente Harmonizado para a Classificação e Rotulagem de
+Produtos Químicos. Norma ABNT-NBR 14725 – Parte 2:2009.
+Toxicidade aguda - Oral: Categoria 5.
+Toxicidade aguda - Dérmica: Categoria 5.
+Toxicidade aguda - Inalação: Categoria 4.
+Corrosivo/irritante à pele: Categoria 3.
+Lesões oculares graves/irritação ocular: Categoria 2B.
+Sensibilizantes respiratórios: Classificação impossível.
+Sensibilização à pele: Não classificado.
+Mutagenicidade em células germinativas: Não classificado.
+Carcinogenicidade: Classificação impossível.
+Toxicidade à reprodução: Classificação impossível.
+Toxicidade sistêmica ao órgão-alvo (exposição única): Categoria 2.
+Toxicidade sistêmica ao órgão-alvo (exposição repetida): Categoria 2.
+Perigo por Aspiração: Classificação impossível.
+Perigo ao ambiente aquático - agudo: Categoria 1.
+Perigo ao ambiente aquático - crônico: Não classificado.
+Sólidos inflamáveis: Não classificado.
+Elementos apropriados da rotulagem:
+Pictograma
+Palavra de
+Atenção
+advertência
+Frases de perigo:
+H303 – Pode ser nocivo se ingerido.
+H313 – Pode ser nocivo em contato com a pele.
+H332 – Nocivo se inalado.
+H316 – Provoca irritação moderada à pele.
+H320 – Provoca irritação ocular.
+Data de elaboração: (21/07/2017) Data de revisão: (00/00/0000)
+Número de Revisão: (00)
+Ficha de Informações de
+Segurança de Produto Químico
+
+ACEFATO CCAB 750 SP
+
+Página: (3 de 18)
+ | Nome | | No CAS | | Concen- | | | Fórmula | | Sinônimos | | Classificação de | 
+ | químico | | | | tração | | | Molecular | | | | perigo | 
+N-
+[methoxy(met
+hylthio)phosp
+hinoyl]acetam
+ide | | | 30560-
+19-1 | 75% | | | C H NO PS
+4 10 3 | | | Acefato | | Toxicidade aguda – | 
+ | | | | | | | | | | | | oral: | 
+ | | | | | | | | | | | | Categoria 4. | 
+ | | | | | | | | | | | | | 
+ | | | | | | | | | | | | Toxicidade aguda – | 
+ | | | | | | | | | | | | dermal: Categoria 5. | 
+ | | | | | | | | | | | | | 
+ | | | | | | | | | | | | Toxicidade aguda - | 
+ | | | | | | | | | | | | Inalação: Categoria | 
+ | | | | | | | | | | | | 4. | 
+ | | | | | | | | | | | | | 
+ | | | | | | | | | | | | Corrosivo/irritante à | 
+ | | | | | | | | | | | | pele: Categoria 3. | 
+ | | | | | | | | | | | | | 
+ | | | | | | | | | | | | Toxicidade sistêmica | 
+ | | | | | | | | | | | | ao órgão-alvo | 
+ | | | | | | | | | | | | (exposição única): | 
+ | | | | | | | | | | | | Categoria 2. | 
+N-
+[methoxy(met
+hylthio)phosp
+hinoyl]acetam
+ide
+
+30560-
+19-1
+
+75%
+
+C H NO PS
+4 10 3
+Data de elaboração: (21/07/2017) Data de revisão: (00/00/0000)
+Número de Revisão: (00)
+Ficha de Informações de
+Segurança de Produto Químico
+ACEFATO CCAB 750 SP
+Página: (3 de 18)
+H371 – Pode provocar danos ao SNC.
+H373 – Pode provocar danos ao pulmão por exposição repetida ou
+prolongada.
+H400 – Muito tóxico para organismos aquáticos.
+Frases de precaução:
+P312 – Caso sinta indisposição, contate um CENTRO DE INFORMAÇÃO
+TOXICOLÓGICA/médico.
+P332 + P313 – Em caso de irritação cutânea: consulte um medico.
+P264 – Lave cuidadosamente após o manuseio.
+P305 + 351 + P338 – EM CASO DE CONTATO COM OS OLHOS: Enxágue
+cuidadosamente com água durante vários minutos. No caso de uso de lentes
+de contato, remova-as se for fácil. Continue enxaguando.
+P273 – Evite a liberação para o meio ambiente.
+3. COMPOSIÇÃO E INFORMAÇÕES SOBRE OS INGREDIENTES
+Natureza Química: Este produto é uma mistura.
+Ingredientes ou impurezas que contribuam para o perigo:
+Nome Concen- Fórmula Classificação de
+No CAS Sinônimos
+químico tração Molecular perigo
+Toxicidade aguda –
+oral:
+Categoria 4.
+Toxicidade aguda –
+dermal: Categoria 5.
+N-
+Toxicidade aguda -
+[methoxy(met
+Inalação: Categoria
+hylthio)phosp 30560- Acefato
+75% C H NO PS 4.
+hinoyl]acetam 19-1 4 10 3
+ide
+Corrosivo/irritante à
+pele: Categoria 3.
+Toxicidade sistêmica
+ao órgão-alvo
+(exposição única):
+Categoria 2.
+Data de elaboração: (21/07/2017) Data de revisão: (00/00/0000)
+Número de Revisão: (00)
+Ficha de Informações de
+Segurança de Produto Químico
+
+ACEFATO CCAB 750 SP
+
+Página: (4 de 18)
+ | | | | | | Perigo ao meio | 
+ | | | | | | ambiente aquático - | 
+ | | | | | | agudo: Categoria 1. | 
+Agente
+dispersante | ND | 12% | ND | ND | | | 
+ | | | | | | Toxicidade aguda – | 
+ | | | | | | oral: | 
+ | | | | | | Categoria 5. | 
+ | | | | | | | 
+ | | | | | | Lesões oculares | 
+ | | | | | | graves/irritação | 
+ | | | | | | ocular: Categoria 1. | 
+Veículo | ND | 23,8% | ND | ND | | | 
+ | | | | | | Corrosivo/irritante à | 
+ | | | | | | pele: Categoria 3. | 
+ | | | | | | | 
+ | | | | | | Toxicidade sistêmica | 
+ | | | | | | ao órgão-alvo | 
+ | | | | | | (exposição única): | 
+ | | | | | | Categoria 3. | 
+ | | | | | | | 
+ | | | | | | Toxicidade sistêmica | 
+ | | | | | | ao órgão-alvo | 
+ | | | | | | (exposição repetida): | 
+ | | | | | | Categoria 2. | 
+ | | | | | | | 
+ | | | | | | Lesões oculares | 
+ | | | | | | graves/irritação | 
+ | | | | | | ocular: Categoria 2B. | 
+ | | | | | | | 
+Agente
+dispersante
+Data de elaboração: (21/07/2017) Data de revisão: (00/00/0000)
+Número de Revisão: (00)
+Ficha de Informações de
+Segurança de Produto Químico
+ACEFATO CCAB 750 SP
+Página: (4 de 18)
+Perigo ao meio
+ambiente aquático -
+agudo: Categoria 1.
+Toxicidade aguda –
+oral:
+Agente Categoria 5.
+ND 12% ND ND
+dispersante
+Lesões oculares
+graves/irritação
+ocular: Categoria 1.
+Corrosivo/irritante à
+pele: Categoria 3.
+Toxicidade sistêmica
+ao órgão-alvo
+(exposição única):
+Categoria 3.
+Veículo ND 23,8% ND ND
+Toxicidade sistêmica
+ao órgão-alvo
+(exposição repetida):
+Categoria 2.
+Lesões oculares
+graves/irritação
+ocular: Categoria 2B.
+Sistema de classificação de classe toxicológica aguda conforme as diretrizes
+da Portaria nº 03/1992-MS e da classe do potencial de periculosidade ambiental
+conforme as diretrizes da Portaria n° 84/1996 do IBAMA.
+4. MEDIDAS DE PRIMEIROS SOCORROS
+Medidas de Primeiros Socorros: levar o acidentado para um local arejado.
+Retirar as roupas contaminadas. Lavar as partes do corpo atingidas com água
+em abundância e sabão. Se o acidentado estiver inconsciente e não respirar
+mais, praticar oxigenação ou respiração artificial. Encaminhar ao serviço
+médico mais próximo levando esta ficha.
+Data de elaboração: (21/07/2017) Data de revisão: (00/00/0000)
+Número de Revisão: (00)
+Ficha de Informações de
+Segurança de Produto Químico
+
+ACEFATO CCAB 750 SP
+
+Página: (5 de 18)
+Data de elaboração: (21/07/2017) Data de revisão: (00/00/0000)
+Número de Revisão: (00)
+Ficha de Informações de
+Segurança de Produto Químico
+ACEFATO CCAB 750 SP
+Página: (5 de 18)
+Inalação: remover a pessoa para local arejado. Se respirar com dificuldade,
+consultar um médico imediatamente. Se não estiver respirando, faça
+respiração artificial. Utilizar um intermediário (tipo Ambu®) para realizar o
+procedimento.
+Contato com a pele: lavar imediatamente a área afetada com água em
+abundância e sabão. Remover as roupas contaminadas. Ocorrendo
+efeitos/sintomas, consultar um médico. Lavar as roupas contaminadas antes
+de reutilizá-las e descartar os sapatos contaminados.
+Contato com os olhos: lavá-los imediatamente com água em abundância pela
+maior quantidade de tempo possível. Manter as pálpebras abertas de modo a
+garantir enxágüe adequado dos olhos. Consultar um médico caso se
+desenvolva irritação.
+Ingestão: não provocar vômito, entretanto é possível que o mesmo ocorra
+espontaneamente não devendo ser evitado. Deitar o paciente de lado para
+evitar que aspire resíduos. Procurar um médico imediatamente. ATENÇÃO:
+nunca dê algo por via oral para uma pessoa inconsciente.
+Quais ações devem ser evitadas: não aplicar respiração boca a boca caso o
+paciente tenha ingerido o produto. Utilizar um intermediário (tipo Ambu®) para
+realizar o procedimento.
+Proteção para os prestadores de primeiros socorros: evitar contato oral,
+cutâneo, ocular e inalatório com o produto durante o processo.
+Notas para o médico: o esvaziamento gástrico através de emese ou lavagem
+gástrica, só deverá ser realizado em ingestões recentes de grandes
+quantidades. Carvão ativado e catárticos serão úteis na prevenção da
+absorção do ingrediente ativo pelo trato gastrointestinal. Administrar sulfato
+de atropina em caso de sintomatologia colinérgica nas doses de 1-2 mg
+endovenoso, à cada 10 ou 20 minutos até que ocorra reversão dos sintomas.
+Não administrar atropina se a sintomatologia não estiver presente. O controle
+de crises convulsivas, se presentes, deverá ser realizado com fenobarbital ou
+benzodiazepínicos. Medidas de suporte tais como assistência respiratória,
+correção dos distúrbios hidroeletrolíticos e metabólicos devem ser adotadas.
+Monitoramento da função hepática e renal assim como do status mental e
+atividade do sistema nervoso central deverão ser mantidos. Colher
+gasometria em função do risco de acidose metabólica e, se possível, solicitar
+Data de elaboração: (21/07/2017) Data de revisão: (00/00/0000)
+Número de Revisão: (00)
+Ficha de Informações de
+Segurança de Produto Químico
+
+ACEFATO CCAB 750 SP
+
+Página: (6 de 18)
+Data de elaboração: (21/07/2017) Data de revisão: (00/00/0000)
+Número de Revisão: (00)
+Ficha de Informações de
+Segurança de Produto Químico
+ACEFATO CCAB 750 SP
+Página: (6 de 18)
+dosagem de atividade de colinesterases, o que será de grande valia como
+critério evolutivo. Em caso de contato ocular, proceder à lavagem com soro
+fisiológico e encaminhamento para avaliação oftalmológica.
+5. MEDIDAS DE COMBATE A INCÊNDIO
+Meios de extinção apropriados: extintores de água em forma de neblina, CO
+2
+ou pó químico.
+Meio de extinção não recomendados: evitar o uso de jatos de água
+diretamente sobre o produto.
+Perigos específicos e métodos especiais de combate a incêndio: produto não
+inflamável. Evacue a área e combata o fogo a uma distância segura. Utilize
+diques para conter a água usada no combate. Posicionar-se de costas para o
+vento. Usar água em forma de neblina para resfriar equipamentos expostos
+nas proximidades do fogo.
+Proteção das pessoas envolvidas no combate a incêndio: equipamento de
+respiração autônoma e roupas apropriadas para combate a incêndio.
+Perigos específicos da combustão do produto químico: exposto ao fogo, ocorre
+a decomposição do produto liberando gases e fumos tóxicos e irritantes.
+Equipamentos de proteção especial para combate ao fogo: equipamento de
+respiração autônoma e roupas apropriadas para combate a incêndio.
+6. MEDIDAS DE CONTROLE PARA DERRAMAMENTO OU VAZAMENTO
+Precauções pessoais: utilizar macacão impermeável, óculos protetores, botas
+de borracha e luvas de borracha nitrílica ou PVC. A proteção respiratória
+deverá ser realizada dependendo das concentrações presentes no ambiente
+ou da extensão do derramamento/vazamento, para tanto, deverá se optar por
+máscaras semifaciais ou faciais inteiras com filtro substituível ou ainda,
+respiradores de adução de ar (ex.: máscaras autônomas).
+Remoção de fontes de ignição: interromper a energia elétrica e desligar
+fontes geradoras de faíscas. Retirar do local todo material que possa
+causar princípio de incêndio (ex.: óleo diesel).
+Controle de poeira: não aplicável por tratar-se de um líquido.
+Data de elaboração: (21/07/2017) Data de revisão: (00/00/0000)
+Número de Revisão: (00)
+Ficha de Informações de
+Segurança de Produto Químico
+
+ACEFATO CCAB 750 SP
+
+Página: (7 de 18)
+Data de elaboração: (21/07/2017) Data de revisão: (00/00/0000)
+Número de Revisão: (00)
+Ficha de Informações de
+Segurança de Produto Químico
+ACEFATO CCAB 750 SP
+Página: (7 de 18)
+Prevenção da inalação e do contato com a pele, mucosas e olhos:
+utilizar roupas e acessórios descritos acima, no Item Precauções
+Pessoais.
+Precauções para o meio ambiente: evitar a contaminação dos cursos d’água
+vedando a entrada de galerias de águas pluviais (boca de lobo). Evitar que
+resíduos do produto derramado atinjam coleções de água.
+Métodos para limpeza: Eliminar toda fonte de fogo ou calor. Afastar os
+curiosos e sinalizar o perigo para o trânsito. Evitar o contato com a pele e
+roupas. Piso pavimentado: absorva o produto com serragem ou areia, recolha
+o material com auxílio de uma pá e coloque em recipiente lacrado e
+identificado devidamente. O produto derramado não deverá mais ser utilizado.
+Solo: retire as camadas de terra contaminada até atingir o solo não
+contaminado, recolha esse material e coloque em um recipiente lacrado e
+devidamente identificado. Contate a empresa registrante. Corpos d`água:
+interrompa imediatamente a captação para o consumo humano ou animal,
+contate o órgão ambiental mais próximo e o centro de emergência da
+empresa, visto que as medidas a serem adotadas dependem das proporções
+do acidente, das características do corpo hídrico em questão e da quantidade
+do produto envolvido. O produto derramado não deverá mais ser utilizado.
+Consulte o registrante através do telefone para a sua devolução e destinação
+final.
+Prevenção de perigos secundários: evitar que o produto contamine riachos,
+lagos, fontes de água, poços, esgotos pluviais e efluentes.
+7. MANUSEIO E ARMAZENAMENTO
+Manuseio:
+Medidas técnicas: PRODUTO DE USO EXCLUSIVO AGRÍCOLA.
+Utilizar EPI conforme descrito no Item 8. Manter pessoas,
+principalmente crianças e animais domésticos longe do local de
+trabalho. Não entrar em contato direto com o produto. Evitar derrames
+ou contaminação do equipamento de aplicação, durante o seu
+abastecimento. Seguir as instruções descritas no rótulo/bula do produto.
+Prevenção da exposição do trabalhador: utilizar EPI conforme
+descrito no Item 8. Não comer, beber ou fumar durante o
+manuseio do produto. Ao abrir a embalagem fazê-lo de modo a
+evitar respingos. Não utilizar equipamentos de proteção individual
+e de aplicação danificados e /ou defeituosos. Não desentupir
+Data de elaboração: (21/07/2017) Data de revisão: (00/00/0000)
+Número de Revisão: (00)
+Ficha de Informações de
+Segurança de Produto Químico
+
+ACEFATO CCAB 750 SP
+
+Página: (8 de 18)
+Data de elaboração: (21/07/2017) Data de revisão: (00/00/0000)
+Número de Revisão: (00)
+Ficha de Informações de
+Segurança de Produto Químico
+ACEFATO CCAB 750 SP
+Página: (8 de 18)
+bicos, orifícios, tubulações e válvulas com a boca. Não manipular
+e/ou carregar embalagens danificadas. Não transportar o produto
+juntamente com alimentos, medicamentos, rações, animais e
+pessoas.
+Precauções para manuseio seguro: utilizar EPI conforme descrito
+no Item 8. Não aplicar o produto nas horas mais quentes do dia,
+contra ou na presença de ventos fortes de modo a evitar a sua
+deriva. Não comer, beber ou fumar durante a aplicação do
+produto.
+Orientações para manuseio seguro: utilizar EPI conforme descrito no
+Item 8. Manusear o produto com exaustão local apropriada ou em área
+bem ventilada, se em ambientes abertos manuseá-lo a favor de vento.
+Aplicar somente as doses recomendadas pelo fabricante. No caso de
+sintomas de intoxicação, interromper imediatamente o trabalho e
+proceder conforme descrito no Item 4 desta ficha.
+Medidas de higiene:
+Apropriadas: tomar banho e trocar de roupa imediatamente após o uso
+do produto. Lavar as roupas contaminadas separadamente, evitando
+contato com outros utensílios de uso pessoal. Ao lavar as roupas utilizar
+luvas e avental impermeáveis.
+Inapropriadas: não lavar vestimentas contaminadas juntamente com
+outras peças de roupas ou utensílios de uso pessoal.
+Armazenamento
+Medidas técnicas
+Apropriadas: Manter o produto e as eventuais sobras em suas
+embalagens originais adequadamente fechadas.
+Inapropriadas: evitar manter o produto próximo de fontes de
+calor.
+Condições de armazenamento
+Adequadas: manter o recipiente adequadamente fechado, à
+temperatura ambiente e ao abrigo da luz. Armazená-lo em local,
+devidamente identificado, exclusivo para produtos tóxicos. A
+Data de elaboração: (21/07/2017) Data de revisão: (00/00/0000)
+Número de Revisão: (00)
+Ficha de Informações de
+Segurança de Produto Químico
+
+ACEFATO CCAB 750 SP
+
+Página: (9 de 18)
+Nome comum | | Limite de | | Tipo | | | Efeito | | | Referências | | 
+ | | Exposição | | | | | | | | | | 
+Acefato | | Não estabelecido | | | TLV-TWA | | | --- | | | ACGIH 2014 | 
+ | | Não estabelecido | | | REL-TWA | | | --- | | | NIOSH | 
+ | | Não estabelecido | | | PEL-TWA | | | --- | | | OSHA | 
+Agente dispersante | | Não estabelecido | | | TLV-TWA | | | --- | | | ACGIH 2014 | 
+ | | Não estabelecido | | | REL-TWA | | | --- | | | NIOSH | 
+ | | Não estabelecido | | | PEL-TWA | | | --- | | | OSHA | 
+Veículo | 2mg/m3(E,R) | | | TLV-TWA | | | | Pneumoco | | ACGIH 2014 | | 
+ | | | | | | | | niose | | | | 
+Data de elaboração: (21/07/2017) Data de revisão: (00/00/0000)
+Número de Revisão: (00)
+Ficha de Informações de
+Segurança de Produto Químico
+ACEFATO CCAB 750 SP
+Página: (9 de 18)
+construção deve ser de alvenaria ou de material não combustível.
+O local deve ser ventilado, coberto e ter piso impermeável.
+Trancar o local evitando o acesso de pessoas não autorizadas e
+crianças. Colocar placa de advertência com os dizeres:
+CUIDADO VENENO. Em caso de armazéns, deverão ser
+seguidas as instruções constantes da NBR 9843 da Associação
+Brasileira de Normas Técnicas - ABNT.
+A evitar: locais úmidos e com fontes de calor.
+Produtos e materiais incompatíveis: não armazenar junto com
+alimentos, bebidas, inclusive os destinados para animais.
+Materiais seguros para embalagens
+Recomendadas: produto já embalado em embalagem apropriada.
+Inadequados: não retirar o produto de sua embalagem original.
+8. CONTROLE DE EXPOSIÇÃO E PROTEÇÃO INDIVIDUAL
+Medidas de controle de engenharia: providenciar ventilação adequada. O
+operador deve sempre utilizar um equipamento para proteção respiratória
+mesmo quando providenciada uma boa ventilação. Manter as embalagens
+firmemente fechadas.
+Parâmetros de controle específicos:
+Limites de exposição ocupacional:
+Limite de
+Nome comum Tipo Efeito Referências
+Exposição
+Não estabelecido TLV-TWA --- ACGIH 2014
+Acefato Não estabelecido REL-TWA --- NIOSH
+Não estabelecido PEL-TWA --- OSHA
+Não estabelecido TLV-TWA --- ACGIH 2014
+Agente dispersante Não estabelecido REL-TWA --- NIOSH
+Não estabelecido PEL-TWA --- OSHA
+Pneumoco
+Veículo 2mg/m3(E,R) TLV-TWA ACGIH 2014
+niose
+Data de elaboração: (21/07/2017) Data de revisão: (00/00/0000)
+Número de Revisão: (00)
+Ficha de Informações de
+Segurança de Produto Químico
+
+ACEFATO CCAB 750 SP
+
+Página: (10 de 18)
+ | | 10 mg/m³ | | | REL-TWA | | | Fibrose | | | NIOSH | 
+ | 15 mg/m³ | | | PEL-TWA | | | | pulmonar | | OSHA | | 
+ | | | | | | | | crônica, | | | | 
+ | | | | | | | | granuloma | | | | 
+ | | | | | | | | no | | | | 
+ | | | | | | | | estômago, | | | | 
+ | | | | | | | | bronquite, | | | | 
+ | | | | | | | | tosse, | | | | 
+ | | | | | | | | dispneia, | | | | 
+ | | | | | | | | pneumoco | | | | 
+ | | | | | | | | niose e | | | | 
+ | | | | | | | | leve | | | | 
+ | | | | | | | | diminuição | | | | 
+ | | | | | | | | da função | | | | 
+ | | | | | | | | pulmonar | | | | 
+ | Nome comum | | | Limite Biológico | | | Tipo | | | Notas | | | Referências | 
+ | Acefato | | | Não estabelecido | | | BEI | | | --- | | | ACGIH 2014 | 
+ | Agente dispersante | | | Não estabelecido | | | BEI | | | --- | | | ACGIH 2014 | 
+ | Veículo | | | Não estabelecido | | | BEI | | | --- | | | ACGIH 2014 | 
+Data de elaboração: (21/07/2017) Data de revisão: (00/00/0000)
+Número de Revisão: (00)
+Ficha de Informações de
+Segurança de Produto Químico
+ACEFATO CCAB 750 SP
+Página: (10 de 18)
+10 mg/m³ REL-TWA Fibrose NIOSH
+pulmonar
+crônica,
+granuloma
+no
+estômago,
+bronquite,
+tosse,
+15 mg/m³ PEL-TWA OSHA
+dispneia,
+pneumoco
+niose e
+leve
+diminuição
+da função
+pulmonar
+Indicadores biológicos:
+Nome comum Limite Biológico Tipo Notas Referências
+Acefato Não estabelecido BEI --- ACGIH 2014
+Agente dispersante Não estabelecido BEI --- ACGIH 2014
+Veículo Não estabelecido BEI --- ACGIH 2014
+Equipamentos de proteção individual:
+Proteção respiratória: utilizar máscaras com filtro mecânico classe P2.
+Proteção para as mãos: utilizar luvas de borracha nitrílica, PVC ou outro
+material impermeável.
+Proteção para os olhos: utilizar óculos de segurança com proteção
+lateral para produtos químicos.
+Proteção para a pele e corpo: utilizar macacão impermeável com
+tratamento hidrorrepelente e mangas compridas passando por cima do
+punho das luvas e as pernas das calças por cima das botas, avental
+impermeável, botas de borracha e touca árabe.
+Precauções Especiais: manter os EPI’s devidamente limpos e em condições
+adequadas de uso, realizando periodicamente inspeções e possíveis
+manutenções e/ou substituições de equipamentos danificados.
+Data de elaboração: (21/07/2017) Data de revisão: (00/00/0000)
+Número de Revisão: (00)
+Ficha de Informações de
+Segurança de Produto Químico
+
+ACEFATO CCAB 750 SP
+
+Página: (11 de 18)
+ | 
+9. PROPRIEDADES FÍSICAS E QUÍMICAS | 
+ | Corrosividade: Alumínio: Livre de contato = 0,007mm/ano, parcialmente | 
+ | imerso= 0,007mm/ano e totalmente imerso = não houve corrosão; Latão: Livre | 
+ | de contato = 0,002mm/ano, parcialmente imerso = 0,021mm/ano e totalmente | 
+ | imerso = 0,012mm/ano; Aço: Livre de contato = 0,001mm/ano, parcialmente | 
+ | imerso = 0,006mm/ano e totalmente imerso = 0,005mm/ano. | 
+ | | 
+10.ESTABILIDADE E REATIVIDADE | | 
+ | | 
+Data de elaboração: (21/07/2017) Data de revisão: (00/00/0000)
+Número de Revisão: (00)
+Ficha de Informações de
+Segurança de Produto Químico
+ACEFATO CCAB 750 SP
+Página: (11 de 18)
+9. PROPRIEDADES FÍSICAS E QUÍMICAS
+Estado físico: Sólido
+Aspecto: Pó seco, homogêneo.
+Cor: branco.
+Odor: não determinado.
+pH: 4,59 (20 ± 1,0) em solução aquosa a 1% (m/v).
+Ponto de fusão/ponto de congelamento: não disponível.
+Ponto de ebulição inicial e faixa de temperatura de ebulição: não disponível.
+Ponto de fulgor: não disponível.
+Inflamabilidade: produto não inflamável.
+Taxa de evaporação: não disponível.
+Limite inferior/superior de inflamabilidade ou explosividade: não disponível.
+Pressão de vapor: não disponível.
+Densidade de vapor: não disponível.
+Densidade: 0,35-0,40 g/cm3.
+Solubilidade: a substância é parcialmente miscível em água, acetona, metanol
+e clorofórmio.
+Coeficiente de partição n-octanol/água: não disponível.
+Temperatura de atuo-ignição: não disponível.
+Temperatura de decomposição: não disponível.
+Viscosidade: não disponível.
+Tensão superficial: não disponível.
+Corrosividade: Alumínio: Livre de contato = 0,007mm/ano, parcialmente
+imerso= 0,007mm/ano e totalmente imerso = não houve corrosão; Latão: Livre
+de contato = 0,002mm/ano, parcialmente imerso = 0,021mm/ano e totalmente
+imerso = 0,012mm/ano; Aço: Livre de contato = 0,001mm/ano, parcialmente
+imerso = 0,006mm/ano e totalmente imerso = 0,005mm/ano.
+10.ESTABILIDADE E REATIVIDADE
+Estabilidade química: o produto é estável à temperatura ambiente e ao ar, sob
+condições normais de uso e armazenagem.
+Reatividade: não dados disponíveis sobre a reatividade do produto final.
+Possibilidade de reações perigosas: não há reações perigosas conhecidas.
+Condições a serem evitadas: evitar contato com calor, altas temperaturas e
+fontes de ignição.
+Data de elaboração: (21/07/2017) Data de revisão: (00/00/0000)
+Número de Revisão: (00)
+Ficha de Informações de
+Segurança de Produto Químico
+
+ACEFATO CCAB 750 SP
+
+Página: (12 de 18)
+Data de elaboração: (21/07/2017) Data de revisão: (00/00/0000)
+Número de Revisão: (00)
+Ficha de Informações de
+Segurança de Produto Químico
+ACEFATO CCAB 750 SP
+Página: (12 de 18)
+Materiais ou substâncias incompatíveis: não são conhecidos materiais ou
+substâncias incompatíveis.
+Produtos perigosos de decomposição: exposto ao fogo, ocorre a
+decomposição do produto liberando gases e fumos tóxicos e irritantes.
+11.INFORMAÇÕES TOXICOLÓGICAS
+Toxicidade aguda:
+DL Oral em ratos: >2019 mg/kg.
+50
+DL Dérmica em ratos: > 2006 mg/kg.
+50
+CL Inalatória em ratos(4h):
+50
+Acefato: 2,465 mg/L
+Efeitos Locais:
+Irritabilidade cutânea: nos estudos realizados em coelhos, o produto
+mostrou-se levemente irritante, causando eritema e edema na pele dos
+animais testados. As reações foram reversíveis em 21 dias.
+Irritabilidade ocular: nos estudos realizados em coelhos, o produto
+mostrou-se irritante aos olhos, causando irritação na córnea, na íris e
+nas mucosas oculares. As alterações foram reversíveis em até 48
+horas.
+Sensibilização:
+Cutânea: o produto mostrou-se não sensibilizante à pele de cobaias no
+período de observação.
+Respiratória: não há dados disponíveis.
+Toxicidade crônica:
+Mutagenicidade:
+Estudos conduzidos em células procariontes (Salmonella typhimurium) e
+eucariontes (Teste de micronúcleo em médula osséa de camundongos)
+demonstram que o produto não apresenta potencial genotóxico.
+Carcinogenicidade: não há dados disponíveis.
+Acefato: Efeito carcinogênico não foi observado em teste realizado com
+cobaias, com duração de 2 anos.
+Data de elaboração: (21/07/2017) Data de revisão: (00/00/0000)
+Número de Revisão: (00)
+Ficha de Informações de
+Segurança de Produto Químico
+
+ACEFATO CCAB 750 SP
+
+Página: (13 de 18)
+Data de elaboração: (21/07/2017) Data de revisão: (00/00/0000)
+Número de Revisão: (00)
+Ficha de Informações de
+Segurança de Produto Químico
+ACEFATO CCAB 750 SP
+Página: (13 de 18)
+Agente dispersante: não há dados disponíveis.
+Veículo: não há dados disponíveis.
+Efeitos na reprodução e lactação: não há dados disponíveis.
+Acefato: Efeito teratogênico não foi observado em teste realizado com
+cobaias, com duração de 2 anos.
+Agente dispersante: não há dados disponíveis.
+Veículo: não há dados disponíveis.
+Toxicidade sistêmica para órgão-alvo (única):
+Exposição única:
+Acefato: Tem como ação causar a inibição da colinesterase, resultando
+uma hiperestimulação do sistema nervoso.
+Agente dispersante: não há dados disponíveis.
+Veículo: Pode causar irritação respiratória.
+Toxicidade sistêmica para órgão-alvo:
+Exposição Repetida:
+Acefato: Tem como ação causar a inibição da colinesterase, resultando
+uma hiperestimulação do sistema nervoso.
+Agente dispersante: não há dados disponíveis.
+Veículo: a substância pode afetar o pulmão pela exposição prolongada
+resultando em fibrose e funções prejudicadas.
+Perigo de aspiração: não há dados disponíveis.
+Principais Sintomas: o acefato é um organofosforado que inibe
+permanentemente a enzima acetilcolinesterase e causa sintomas que podem
+aparecer em poucos minutos ou até 12 horas após a exposição. A exposição
+pode causar sintomas muscarínicos como bradicardia, broncoespasmos,
+broncorréia (excesso de secreção na mucosa brônquica), salivação e sudorese
+excessiva, vômito, diarréia e miose. Os sintomas nicotínicos incluem
+taquicardia, hipertensão, fasciculação e contrações musculares, fraqueza e
+depressão respiratória. A ação no Sistema Nervoso Central pode provocar
+agitação, confusão, delírio, crises convulsivas e depressão do SNC.
+12.INFORMAÇÕES ECOLÓGICAS
+Efeitos Ambientais, comportamentais e impactos do produto:
+Persistência/Degradabilidade:
+Acefato: Rapidamente degradado e não considerado não persistente.
+Data de elaboração: (21/07/2017) Data de revisão: (00/00/0000)
+Número de Revisão: (00)
+Ficha de Informações de
+Segurança de Produto Químico
+
+ACEFATO CCAB 750 SP
+
+Página: (14 de 18)
+Toxicidade aguda para aves (Coturnix coturnix japonica):
+DL (14 dias): 144,81mg/kg.
+50
+Data de elaboração: (21/07/2017) Data de revisão: (00/00/0000)
+Número de Revisão: (00)
+Ficha de Informações de
+Segurança de Produto Químico
+ACEFATO CCAB 750 SP
+Página: (14 de 18)
+Agente dispersante: não há dados disponíveis.
+Veículo: não há dados disponíveis.
+Ecotoxicidade:
+Toxicidade aguda para peixes (Pimephales promelas):
+CL (96h) = >1001,9 mg/L.
+50
+Toxicidade aguda para algas (Pseudokirchneriella subcapitata):
+CE (96h) = >1000,5 mg/L.
+r50
+Toxicidade aguda para microcrustáceos (Daphnia similis):
+CE (48h) = 0,45 mg/L
+50
+Toxicidade aguda para organismos do solo ( Eisenia foetida):
+CL (14 dias) = 197,62 mg/kg.
+50
+Toxicidade aguda para Abelhas (Apis Mellifera):
+DL (48h): 0,68 μg/abelha.
+50
+Toxicidade aguda para aves (Coturnix coturnix japonica):
+DL (14 dias): 144,81mg/kg.
+50
+Potencial bioacumulativo:
+Acefato: BCF estimado em 0,0533, a substância apresenta um baixo
+potencial de bioconcentração em organismos aquáticos
+Agente dispersante: não há dados disponíveis.
+Veículo: não há dados disponíveis.
+Mobilidade no solo:
+Acefato: Koc estimado em 4,7, sugerindo que esta substância
+apresenta mobilidade no solo alta.
+Agente dispersante: não há dados disponíveis.
+Veículo: não há dados disponíveis.
+13.CONSIDERAÇÕES SOBRE DESTINAÇÃO FINAL
+Métodos de tratamento e disposição:
+Produto: desativar o produto através de incineração realizada em
+plantas dotadas de forno primário rotativo ou estático, câmara de pós-
+Data de elaboração: (21/07/2017) Data de revisão: (00/00/0000)
+Número de Revisão: (00)
+Ficha de Informações de
+Segurança de Produto Químico
+
+ACEFATO CCAB 750 SP
+
+Página: (15 de 18)
+Data de elaboração: (21/07/2017) Data de revisão: (00/00/0000)
+Número de Revisão: (00)
+Ficha de Informações de
+Segurança de Produto Químico
+ACEFATO CCAB 750 SP
+Página: (15 de 18)
+combustão, sistema de tratamento de gases, estação de tratamento de
+efluentes e sistema de monitoramento e controle de emissões. Os
+resíduos resultantes do processo são coletados nos diversos sistemas
+das plantas, na forma de escórias, cinzas e lodos, e dispostos em
+aterros licenciados, e em conformidade com os requisitos estabelecidos
+pelos órgãos de controle ambiental.
+Restos de produtos: manter as eventuais sobras dos produtos e ou com
+validade vencida em suas embalagens originais adequadamente
+fechadas.
+Embalagem usada: É obrigatória a devolução desta embalagem ao
+estabelecimento onde foi adquirido o produto ou no local indicado, por
+escrito, na nota fiscal de compra, conforme instruções da bula. O
+armazenamento da embalagem vazia deve ser efetuado em local
+coberto, ventilado, ao abrigo de chuva e com piso impermeável. A
+destinação final das embalagens vazias somente poderá ser realizada
+pela Empresa registrante ou usuária ou por empresas legalmente
+autorizadas pelos órgãos competentes. É proibida ao usuário a
+reutilização e a reciclagem das embalagens vazias ou fracionamento e
+reembalagem deste produto.
+14.INFORMAÇÕES SOBRE TRANSPORTE
+Regulamentações nacionais e internacionais:
+TRANSPORTE TERRESTRE: Resolução ANTT 5232 de 16/12/2016 do
+Ministério dos Transportes.
+Número ONU: 3077
+Nome apropriado para embarque: SUBSTÂNCIA QUE APRESENTA
+RISCO AO MEIO AMBIENTE, SÓLIDA, N.E. (acefato).
+Classe de risco: 9
+Número de risco: 90
+Grupo de embalagem: III
+TRANSPORTE MARÍTIMO: IMDG (International Maritime Dangerous Goods
+Code).
+UN number: 3077
+Name and description: ENVIRONMENTALLY HAZARDOUS
+SUBSTANCE, SOLID, N.O.S. (acephate)
+Data de elaboração: (21/07/2017) Data de revisão: (00/00/0000)
+Número de Revisão: (00)
+Ficha de Informações de
+Segurança de Produto Químico
+
+ACEFATO CCAB 750 SP
+
+Página: (16 de 18)
+Data de elaboração: (21/07/2017) Data de revisão: (00/00/0000)
+Número de Revisão: (00)
+Ficha de Informações de
+Segurança de Produto Químico
+ACEFATO CCAB 750 SP
+Página: (16 de 18)
+Class risk: 9
+Packing group: III
+15. INFORMAÇÕES SOBRE REGULAMENTAÇÕES
+Regulamentações:
+ABNT NBR – 14725
+Resolução 5232 – ANTT
+16.OUTRAS INFORMAÇÕES
+"Esta Ficha foi elaborada por TOXICLIN® Serviços Médicos, a partir de dados
+fornecidos pela Empresa distribuidora. As informações desta FISPQ representam
+os dados atuais e refletem com exatidão o nosso melhor conhecimento para o
+manuseio apropriado deste produto de acordo com as especificações constantes
+no rótulo e bula. Quaisquer outros usos do produto que não os recomendados,
+serão de responsabilidade do usuário."
+Siglas:
+ABNT – Associação Brasileira de Normas Técnicas.
+ACGIH – American Conference of Governmental Industrial Hygienists.
+ANTT – Agência Nacional de Transporte Terrestre.
+BCF – Fator de Bioconcentração.
+BEI – Índice Biológico de exposição.
+CAS – Chemical Abstracts Service.
+CE – Concentração efetiva 50%.
+50
+CL – Concentração letal 50%.
+50
+DL – Dose letal 50%.
+50
+EPI – Equipamento de Proteção Individual.
+IBAMA – Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais
+Renováveis.
+Koc – Coeficiente de partição carbono orgânico-água.
+MS – Ministério da Saúde.
+NBR – Norma Brasileira.
+ONU – Organização das Nações Unidas.
+OSHA – Occupational Safety & Health Administration.
+PEL – Permissible Exposure Limit.
+REL – Recommended Exposure Limit.
+SNC – Sistema Nervoso Central.
+Data de elaboração: (21/07/2017) Data de revisão: (00/00/0000)
+Número de Revisão: (00)
+Ficha de Informações de
+Segurança de Produto Químico
+
+ACEFATO CCAB 750 SP
+
+Página: (17 de 18)
+Data de elaboração: (21/07/2017) Data de revisão: (00/00/0000)
+Número de Revisão: (00)
+Ficha de Informações de
+Segurança de Produto Químico
+ACEFATO CCAB 750 SP
+Página: (17 de 18)
+TLV – Threshold Limit Value.
+TRS – Trato Respiratório Superior.
+TWA – Time Weighted Average.
+Legendas:
+Classificação impossível – não há dados suficientes ou disponíveis para
+classificação do produto.
+Não classificado – produto não se enquadra na categoria de classificação GHS
+e, portanto, não apresenta perigo.
+Bibliografia:
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS – ABNT. NBR 14725.
+Adoção do GHS, Parte 2.
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS – ABNT. NBR 14725. Partes
+1, 3 e 4.
+THE CHEMICAL DATABASE. Disponível em: http://ull.chemistry.uakron.edu/erd/.
+Acesso em 21 de julho de 2017.
+CHEMICAL SAFETY INFORMATION FROM INTERGOVERNMENTAL
+ORGANIZATIONS – INCHEM. Disponível em: http://www.inchem.org/. Acesso em
+21 de julho de 2017.
+HAZARDOUS SUBSTANCES DATA BANK – HSDB. Disponível em:
+http://toxnet.nlm.nih.gov/cgi-bin/sis/htmlgen?HSDB. Acesso em 21 de julho de 2017.
+NATIONAL INSTITUTE OF OCCUPATIONAL AND SAFETY – NIOSH. International
+Chemical Safety Cards. Disponível em: www.cdc.gov/niosh/. Acesso em 21 de julho
+de 2017.
+OCCUPATIONAL SAFETY & HEALTH ADMINISTRATION – OSHA. Disponível em:
+http://www.osha.gov/. Acesso em 21 de julho de 2017.
+CHEMICAL SAFETY INFORMATION FROM INTERGOVERNMENTAL
+ORGANIZATIONS – INCHEM. Disponível em: http://www.inchem.org/. Acesso em
+21 de julho de 2017.
+ENVIROMENTAL PROTECTION AGENCY (UNITED STATES) - EPA. Disponível
+emhttp://www.epa.gov. Acesso em 21 de julho de 2017.
+Data de elaboração: (21/07/2017) Data de revisão: (00/00/0000)
+Número de Revisão: (00)
+Ficha de Informações de
+Segurança de Produto Químico
+
+ACEFATO CCAB 750 SP
+
+Página: (18 de 18)
+Data de elaboração: (21/07/2017) Data de revisão: (00/00/0000)
+Número de Revisão: (00)
+Ficha de Informações de
+Segurança de Produto Químico
+ACEFATO CCAB 750 SP
+Página: (18 de 18)
+RESOLUÇÃO N° 5232. Ministério dos Transportes. Agência Nacional de
+Transportes Terrestres, Resolução n° 5232 de 16 de dezembro de 2016.
+Data de elaboração: (21/07/2017) Data de revisão: (00/00/0000)
+Número de Revisão: (00)

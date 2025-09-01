@@ -1,0 +1,791 @@
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+
+1 - IDENTIFICAÇÃO | 
+Nome do produto (nome
+comercial): | SULFATO DE COBRE II (5 H2O)
+ | 
+Código Interno de
+Identificação do
+Produto: | 798001
+ | 
+Principais usos
+recomendados para
+substância ou mistura: | reagente analítico, utilizado como excipiente, como herbicida, fungicida, pesticida.
+ | 
+Nome da empresa: | Quimesp Química Ltda
+Endereço: | Rua Murilo, 48 - Vila Nova Cumbica CEP: 07230-060, Guarulhos - SP - BR
+Telefone para contato: | (11) 2488-2222
+Telefone para
+emergências: | 0800-7077022
+ | 
+Fax: | (11) 2482-0220
+E-mail: | laboratorio@quimesp.com
+2 - IDENTIFICAÇÃO DE PERIGOS | | | | | | | 
+Classificação de perigo
+do produto químico: | | Corrosão/irritação à pele - Categoria 2
+Lesões oculares graves/irritação ocular - Categoria 2A
+Perigoso ao ambiente aquático - Agudo - Categoria 1
+Perigoso ao ambiente aquático - Crônico - Categoria 1
+Toxicidade aguda - Oral - Categoria 4
+Toxicidade para órgãos-alvo específicos - Exposição única - Categoria 1 | | | | | 
+ | | | | | | | 
+Sistema de
+classificação utilizado: | | Norma ABNT-NBR 14725-2.
+Sistema Globalmente Harmonizado para a Classificação e Rotulagem de Produtos Químicos, ONU. | | | | | 
+Outros perigos que não
+resultam em uma
+classificação: | | O produto não possui outros perigos. | | | | | 
+ | | | | | | | 
+Elementos apropriados para rotulagem | | | | | | | 
+Pictogramas: | | | | | | | 
+ | | | | | | | 
+Palavra de advertência: | | PERIGO | | | | | 
+Frases de perigo: | | H302 Nocivo se ingerido.
+H315 Provoca irritação à pele.
+H319 Provoca irritação ocular grave.
+H370 Provoca danos ao sangue, aos rins e ao fígado.
+H410 Muito tóxico para os organismos aquáticos, com efeitos prolongados. | | | | | 
+ | | | | | | | 
+Frases de precaução: | | PREVENÇÃO:
+P260 Não inale as poeiras/fumos/gases/névoas/vapores/aerossóis.
+P264 Lave as mãos cuidadosamente após manuseio.
+P270 Não coma, beba ou fume durante a utilização deste produto.
+P273 Evite a liberação para o meio ambiente.
+P280 Use luvas de proteção, roupa de proteção, proteção ocular e proteção facial. | | | | | 
+ | | | | | | | 
+ | | | | | | | 
+FISPQ
+Em conformidade com NBR 14725
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Produto: SULFATO DE COBRE II (5 H2O)
+Revisão: 03 Data: 25/01/2021 Página: 1/8
+1 - IDENTIFICAÇÃO
+Nome do produto (nome SULFATO DE COBRE II (5 H2O)
+comercial):
+Código Interno de 798001
+Identificação do
+Produto:
+Principais usos reagente analítico, utilizado como excipiente, como herbicida, fungicida, pesticida.
+recomendados para
+substância ou mistura:
+Nome da empresa: Quimesp Química Ltda
+Endereço: Rua Murilo, 48 - Vila Nova Cumbica CEP: 07230-060, Guarulhos - SP - BR
+Telefone para contato: (11) 2488-2222
+Telefone para 0800-7077022
+emergências:
+Fax: (11) 2482-0220
+E-mail: laboratorio@quimesp.com
+2 - IDENTIFICAÇÃO DE PERIGOS
+Classificação de perigo Corrosão/irritação à pele - Categoria 2
+do produto químico: Lesões oculares graves/irritação ocular - Categoria 2A
+Perigoso ao ambiente aquático - Agudo - Categoria 1
+Perigoso ao ambiente aquático - Crônico - Categoria 1
+Toxicidade aguda - Oral - Categoria 4
+Toxicidade para órgãos-alvo específicos - Exposição única - Categoria 1
+Sistema de Norma ABNT-NBR 14725-2.
+classificação utilizado: Sistema Globalmente Harmonizado para a Classificação e Rotulagem de Produtos Químicos, ONU.
+Outros perigos que não O produto não possui outros perigos.
+resultam em uma
+classificação:
+Elementos apropriados para rotulagem
+Pictogramas:
+Palavra de advertência: PERIGO
+Frases de perigo: H302 Nocivo se ingerido.
+H315 Provoca irritação à pele.
+H319 Provoca irritação ocular grave.
+H370 Provoca danos ao sangue, aos rins e ao fígado.
+H410 Muito tóxico para os organismos aquáticos, com efeitos prolongados.
+Frases de precaução: PREVENÇÃO:
+P260 Não inale as poeiras/fumos/gases/névoas/vapores/aerossóis.
+P264 Lave as mãos cuidadosamente após manuseio.
+P270 Não coma, beba ou fume durante a utilização deste produto.
+P273 Evite a liberação para o meio ambiente.
+P280 Use luvas de proteção, roupa de proteção, proteção ocular e proteção facial.
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS | 
+ | 
+Produto: SULFAT | O DE COBRE II (5 H2O)
+Revisão: 03 | Data: 25/01/2021 Página: 2/8
+ | RESPOSTA À EMERGÊNCIA:
+P301 + P312 EM CASO DE INGESTÃO: Caso sinta indisposição, contate um CENTRO DE
+INFORMAÇÃO TOXICOLÓGICA ou um médico.
+P302 + P352 EM CASO DE CONTATO COM A PELE: Lave com água e sabão em abundância.
+P305 + P351 + P338 EM CASO DE CONTATO COM OS OLHOS: Enxágue cuidadosamente com
+água durante vários minutos. No caso de uso de lentes de contato, remova-as, se for fácil. Continue
+enxaguando.
+P308 + P311 EM CASO DE exposição ou suspeita de exposição: Contate um CENTRO DE
+INFORMAÇÃO TOXICOLÓGICA ou um médico.
+P321 Tratamento específico.
+P330 Enxágue a boca.
+P332 + P313 Em caso de irritação cutânea: Consulte um médico.
+P337 + P313 Caso a irritação ocular persista: Consulte um médico.
+P362 + P364 Retire a roupa contaminada. Lave-a antes de usá-la novamente.
+P391 Recolha o material derramado.
+ARMAZENAMENTO:
+P405 Armazene em local fechado à chave.
+DISPOSIÇÃO:
+P501 Descarte o conteúdo e o recipiente em conformidade com as regulamentações locais.
+3 - COMPOSIÇÃO E INFORMAÇÕES SOBRE OS INGREDIENTES | 
+SUBSTÂNCIA | 
+Nome químico comum
+ou nome técnico: | Sulfato cúprico.
+ | 
+Sinônimo: | Sulfato de cobre pentahidratado; azul de vitríolo.
+Número de registro
+CAS: | 7758-99-8
+ | 
+Impurezas que
+contribuam para o
+perigo: | Não apresenta componentes que contribuam para o perigo.
+ | 
+4 - MEDIDAS DE PRIMEIROS-SOCORROS | 
+Inalação: | Remova a vítima para local ventilado e a mantenha em repouso numa posição que não dificulte a
+respiração. Caso sinta indisposição, contate um CENTRO DE INFORMAÇÃO TOXICOLÓGICA ou
+um médico. Leve esta FISPQ.
+ | 
+Contato com a pele: | Lave com água e sabão em abundância. Em caso de irritação cutânea: Consulte um médico. Leve
+esta FISPQ.
+ | 
+Contato com os olhos: | Enxágue cuidadosamente com água durante vários minutos. No caso de uso de lentes de contato,
+remova-as, se for fácil. Caso a irritação ocular persista: consulte um médico. Leve esta FISPQ.
+ | 
+Ingestão: | Lave a boca da vítima com água em abundância. Caso sinta indisposição, contate um CENTRO DE
+INFORMAÇÃO TOXICOLÓGICA ou um médico Leve esta FISPQ.
+ | 
+Sintomas e efeitos mais
+importantes, agudos e
+tardios: | Provoca irritação à pele com vermelhidão e ressecamento. Provoca irritação ocular grave com
+lacrimejamento e dor. Nocivo se ingerido. Provoca danos ao sangue, aos rins e ao fígado.
+ | 
+Notas para o médico: | Evite contato com o produto ao socorrer a vítima. Se necessário, o tratamento sintomático deve
+compreender, sobretudo, medidas de suporte como correção de distúrbios hidroeletrolíticos,
+metabólicos, além de assistência respiratória. Em caso de contato com a pele não friccione o local
+atingido.
+ | 
+FISPQ
+Em conformidade com NBR 14725
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Produto: SULFATO DE COBRE II (5 H2O)
+Revisão: 03 Data: 25/01/2021 Página: 2/8
+RESPOSTA À EMERGÊNCIA:
+P301 + P312 EM CASO DE INGESTÃO: Caso sinta indisposição, contate um CENTRO DE
+INFORMAÇÃO TOXICOLÓGICA ou um médico.
+P302 + P352 EM CASO DE CONTATO COM A PELE: Lave com água e sabão em abundância.
+P305 + P351 + P338 EM CASO DE CONTATO COM OS OLHOS: Enxágue cuidadosamente com
+água durante vários minutos. No caso de uso de lentes de contato, remova-as, se for fácil. Continue
+enxaguando.
+P308 + P311 EM CASO DE exposição ou suspeita de exposição: Contate um CENTRO DE
+INFORMAÇÃO TOXICOLÓGICA ou um médico.
+P321 Tratamento específico.
+P330 Enxágue a boca.
+P332 + P313 Em caso de irritação cutânea: Consulte um médico.
+P337 + P313 Caso a irritação ocular persista: Consulte um médico.
+P362 + P364 Retire a roupa contaminada. Lave-a antes de usá-la novamente.
+P391 Recolha o material derramado.
+ARMAZENAMENTO:
+P405 Armazene em local fechado à chave.
+DISPOSIÇÃO:
+P501 Descarte o conteúdo e o recipiente em conformidade com as regulamentações locais.
+3 - COMPOSIÇÃO E INFORMAÇÕES SOBRE OS INGREDIENTES
+SUBSTÂNCIA
+Nome químico comum Sulfato cúprico.
+ou nome técnico:
+Sinônimo: Sulfato de cobre pentahidratado; azul de vitríolo.
+Número de registro 7758-99-8
+CAS:
+Impurezas que Não apresenta componentes que contribuam para o perigo.
+contribuam para o
+perigo:
+4 - MEDIDAS DE PRIMEIROS-SOCORROS
+Inalação: Remova a vítima para local ventilado e a mantenha em repouso numa posição que não dificulte a
+respiração. Caso sinta indisposição, contate um CENTRO DE INFORMAÇÃO TOXICOLÓGICA ou
+um médico. Leve esta FISPQ.
+Contato com a pele: Lave com água e sabão em abundância. Em caso de irritação cutânea: Consulte um médico. Leve
+esta FISPQ.
+Contato com os olhos: Enxágue cuidadosamente com água durante vários minutos. No caso de uso de lentes de contato,
+remova-as, se for fácil. Caso a irritação ocular persista: consulte um médico. Leve esta FISPQ.
+Ingestão: Lave a boca da vítima com água em abundância. Caso sinta indisposição, contate um CENTRO DE
+INFORMAÇÃO TOXICOLÓGICA ou um médico Leve esta FISPQ.
+Sintomas e efeitos mais Provoca irritação à pele com vermelhidão e ressecamento. Provoca irritação ocular grave com
+importantes, agudos e lacrimejamento e dor. Nocivo se ingerido. Provoca danos ao sangue, aos rins e ao fígado.
+tardios:
+Notas para o médico: Evite contato com o produto ao socorrer a vítima. Se necessário, o tratamento sintomático deve
+compreender, sobretudo, medidas de suporte como correção de distúrbios hidroeletrolíticos,
+metabólicos, além de assistência respiratória. Em caso de contato com a pele não friccione o local
+atingido.
+5 - MEDIDAS DE COMBATE A INCÊNDIO | 
+Meios de extinção: | Apropriados: Compatível com qualquer meio de extinção.
+Não recomendados: jatos de água de forma direta.
+ | 
+Perigos específicos da
+mistura ou substância: | A combustão do produto químico ou de sua embalagem pode formar gases irritantes e tóxicos como
+óxidos de enxofre, monóxido e dióxido de carbono.
+Medidas de proteção
+da equipe de combate
+a incêndio: | Equipamento de proteção respiratória do tipo autônomo (SCBA) com pressão positiva e vestuário
+protetor completo. Contêineres e tanques envolvidos no incêndio podem ser resfriados com neblina
+d'água.
+6 - MEDIDAS DE CONTROLE PARA DERRAMAMENTO OU VAZAMENTO | 
+Precauções pessoais, equipamento de proteção e procedimentos de emergência | 
+Para o pessoal que não
+faz parte dos serviços
+de emergência: | Remova preventivamente todas as fontes de ignição. Não fume. Evite contato com o produto. Caso
+necessário, utilize equipamento de proteção individual conforme descrito na seção 8.
+ | 
+Para o pessoal do
+serviço de emergência: | Utilize EPI completo com óculos de segurança, luvas de segurança, vestuário protetor adequado e
+sapatos fechados. Em caso de vazamento, onde a exposição é grande, recomenda-se o uso de
+máscara de proteção respiratória adequada.
+ | 
+Precauções ao meio
+ambiente: | Evite que o produto derramado atinja cursos d'água e rede de esgotos.
+ | 
+Método e materiais
+para a contenção e
+limpeza: | Colete o produto com uma pá limpa ou outro instrumento que não disperse o produto. Coloque o
+material em recipientes apropriados e remova-os para local seguro. Para destinação final, proceder
+conforme a Seção 13 desta FISPQ.
+Diferenças na ação de
+grandes e pequenos
+vazamentos: | Não há distinção entre as ações de grandes e pequenos vazamentos para este produto.
+ | 
+7 - MANUSEIO E ARMAZENAMENTO | 
+Medidas técnicas apropriadas para o manuseio | 
+Precauções para
+manuseio seguro: | Manuseie em uma área ventilada ou com sistema geral de ventilação/exaustão local. Evite contato
+com materiais incompatíveis. Evite contato com pele, olhos e roupas. Evite respirar poeiras do
+produto. Use equipamento de proteção individual como indicado na Seção 8.
+ | 
+Medidas de higiene: | Lave as mãos e o rosto cuidadosamente após o manuseio e antes de comer, beber, fumar ou ir ao
+banheiro.
+ | 
+Condições de armazenamento seguro, incluindo qualquer incompatibilidade | 
+Prevenção de incêndio
+e explosão: | Não é esperado que o produto apresente perigo de incêndio ou explosão.
+ | 
+Condições adequadas: | Armazene em local ventilado e protegido do calor. Mantenha afastado de materiais incompatíveis.
+Manter armazenado em temperatura ambiente que não exceda 35°C.
+Não é necessária adição de estabilizantes e antioxidantes para garantir a durabilidade do produto.
+ | 
+Materiais adequados
+para embalagem: | embalagens plásticas.
+ | 
+Materiais inadequados
+para embalagem: | Não são conhecidos materiais inadequados para este produto.
+ | 
+8 - CONTROLE DE EXPOSIÇÃO E PROTEÇÃO INDIVIDUAL | 
+Parâmetros de controle | 
+Limites de exposição | Não estabelecidos.
+ | 
+FISPQ
+Em conformidade com NBR 14725
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Produto: SULFATO DE COBRE II (5 H2O)
+Revisão: 03 Data: 25/01/2021 Página: 3/8
+5 - MEDIDAS DE COMBATE A INCÊNDIO
+Meios de extinção: Apropriados: Compatível com qualquer meio de extinção.
+Não recomendados: jatos de água de forma direta.
+Perigos específicos da A combustão do produto químico ou de sua embalagem pode formar gases irritantes e tóxicos como
+mistura ou substância: óxidos de enxofre, monóxido e dióxido de carbono.
+Medidas de proteção Equipamento de proteção respiratória do tipo autônomo (SCBA) com pressão positiva e vestuário
+da equipe de combate protetor completo. Contêineres e tanques envolvidos no incêndio podem ser resfriados com neblina
+a incêndio: d'água.
+6 - MEDIDAS DE CONTROLE PARA DERRAMAMENTO OU VAZAMENTO
+Precauções pessoais, equipamento de proteção e procedimentos de emergência
+Para o pessoal que não Remova preventivamente todas as fontes de ignição. Não fume. Evite contato com o produto. Caso
+faz parte dos serviços necessário, utilize equipamento de proteção individual conforme descrito na seção 8.
+de emergência:
+Para o pessoal do Utilize EPI completo com óculos de segurança, luvas de segurança, vestuário protetor adequado e
+serviço de emergência: sapatos fechados. Em caso de vazamento, onde a exposição é grande, recomenda-se o uso de
+máscara de proteção respiratória adequada.
+Precauções ao meio Evite que o produto derramado atinja cursos d'água e rede de esgotos.
+ambiente:
+Método e materiais Colete o produto com uma pá limpa ou outro instrumento que não disperse o produto. Coloque o
+para a contenção e material em recipientes apropriados e remova-os para local seguro. Para destinação final, proceder
+limpeza: conforme a Seção 13 desta FISPQ.
+Diferenças na ação de Não há distinção entre as ações de grandes e pequenos vazamentos para este produto.
+grandes e pequenos
+vazamentos:
+7 - MANUSEIO E ARMAZENAMENTO
+Medidas técnicas apropriadas para o manuseio
+Precauções para Manuseie em uma área ventilada ou com sistema geral de ventilação/exaustão local. Evite contato
+manuseio seguro: com materiais incompatíveis. Evite contato com pele, olhos e roupas. Evite respirar poeiras do
+produto. Use equipamento de proteção individual como indicado na Seção 8.
+Medidas de higiene: Lave as mãos e o rosto cuidadosamente após o manuseio e antes de comer, beber, fumar ou ir ao
+banheiro.
+Condições de armazenamento seguro, incluindo qualquer incompatibilidade
+Prevenção de incêndio Não é esperado que o produto apresente perigo de incêndio ou explosão.
+e explosão:
+Condições adequadas: Armazene em local ventilado e protegido do calor. Mantenha afastado de materiais incompatíveis.
+Manter armazenado em temperatura ambiente que não exceda 35°C.
+Não é necessária adição de estabilizantes e antioxidantes para garantir a durabilidade do produto.
+Materiais adequados embalagens plásticas.
+para embalagem:
+Materiais inadequados Não são conhecidos materiais inadequados para este produto.
+para embalagem:
+8 - CONTROLE DE EXPOSIÇÃO E PROTEÇÃO INDIVIDUAL
+Parâmetros de controle
+Limites de exposição Não estabelecidos.
+ocupacional: | 
+ | 
+Indicadores biológicos: | Não estabelecidos.
+Outros limites e valores: | Não estabelecidos.
+Medidas de controle de
+engenharia: | Recomenda-se promover ventilação mecânica e sistema de exaustão direta para o meio exterior.
+Estas medidas auxiliam na redução da exposição ao produto.
+Medidas de proteção pessoal | 
+Proteção dos
+olhos/face: | Óculos com proteção lateral.
+ | 
+Proteção da pele e do
+corpo: | Sapatos fechados, vestimenta de segurança para proteção de todo o corpo.
+ | 
+Proteção respiratória: | Máscara de proteção com filtro contra poeiras.
+Perigos térmicos: | Não apresenta perigos térmicos.
+9 - PROPRIEDADES FÍSICAS E QUÍMICAS | 
+Aspecto (estado físico,
+forma e cor): | Sólido cristalino azul.
+ | 
+Odor e limite de odor: | Inodoro.
+pH: | 4.
+Ponto de fusão/ponto
+de congelamento: | 110 °C.
+ | 
+Ponto de ebulição inicial
+e faixa de temperatura
+de ebulição: | Não disponível.
+ | 
+Ponto de fulgor: | Não disponível.
+Taxa de evaporação: | Não disponível.
+Inflamabilidade: | Não disponível.
+Limite inferior/superior
+de inflamabilidade ou
+explosividade: | Não disponível.
+ | 
+Pressão de vapor: | Não disponível.
+Densidade de vapor: | Não disponível.
+Densidade relativa: | 2,29 (água a 4°C=1) a 15,6 °C.
+Solubilidade(s): | Solúvel em água (317 g/L a 20 °C). Facilmente solúvel em metanol e em glicerina. Levemente
+solúvel em álcool e praticamente insolúvel na maioria dos solventes orgânicos.
+ | 
+Coeficiente de partição
+- n-octanol/água: | log Kow: 0,44.
+ | 
+Temperatura de
+autoignição: | Não disponível.
+ | 
+Temperatura de
+decomposição: | > 150 °C.
+ | 
+Viscosidade: | Não disponível.
+Outras informações: | Não aplicável.
+FISPQ
+Em conformidade com NBR 14725
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Produto: SULFATO DE COBRE II (5 H2O)
+Revisão: 03 Data: 25/01/2021 Página: 4/8
+ocupacional:
+Indicadores biológicos: Não estabelecidos.
+Outros limites e valores: Não estabelecidos.
+Medidas de controle de Recomenda-se promover ventilação mecânica e sistema de exaustão direta para o meio exterior.
+engenharia: Estas medidas auxiliam na redução da exposição ao produto.
+Medidas de proteção pessoal
+Proteção dos Óculos com proteção lateral.
+olhos/face:
+Proteção da pele e do Sapatos fechados, vestimenta de segurança para proteção de todo o corpo.
+corpo:
+Proteção respiratória: Máscara de proteção com filtro contra poeiras.
+Perigos térmicos: Não apresenta perigos térmicos.
+9 - PROPRIEDADES FÍSICAS E QUÍMICAS
+Aspecto (estado físico, Sólido cristalino azul.
+forma e cor):
+Odor e limite de odor: Inodoro.
+pH: 4.
+Ponto de fusão/ponto 110 °C.
+de congelamento:
+Ponto de ebulição inicial Não disponível.
+e faixa de temperatura
+de ebulição:
+Ponto de fulgor: Não disponível.
+Taxa de evaporação: Não disponível.
+Inflamabilidade: Não disponível.
+Limite inferior/superior Não disponível.
+de inflamabilidade ou
+explosividade:
+Pressão de vapor: Não disponível.
+Densidade de vapor: Não disponível.
+Densidade relativa: 2,29 (água a 4°C=1) a 15,6 °C.
+Solubilidade(s): Solúvel em água (317 g/L a 20 °C). Facilmente solúvel em metanol e em glicerina. Levemente
+solúvel em álcool e praticamente insolúvel na maioria dos solventes orgânicos.
+Coeficiente de partição log Kow: 0,44.
+- n-octanol/água:
+Temperatura de Não disponível.
+autoignição:
+Temperatura de > 150 °C.
+decomposição:
+Viscosidade: Não disponível.
+Outras informações: Não aplicável.
+
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+
+10 - ESTABILIDADE E REATIVIDADE | 
+Reatividade: | Pode agredir metais quando em presença de água.
+Estabilidade: | Produto estável em condições normais de temperatura e pressão.
+Possibilidade de
+reações perigosas: | Não são conhecidas reações perigosas com relação ao produto.
+ | 
+Condições a serem
+evitadas: | Temperaturas elevadas. Contato com materiais incompatíveis.
+ | 
+Materiais incompatíveis: | Magnésio e Pós metálicos.
+Produtos perigosos da
+decomposição: | A decomposição do produto emite óxidos de enxofre.
+ | 
+11 - INFORMAÇÕES TOXICOLÓGICAS | 
+Toxicidade Aguda: | Produto não classificado como tóxico agudo por via dérmica.
+Nocivo se ingerido.
+DL50 (Oral, ratos): 666 mg/kg.
+DL50 (Dérmica, ratos): > 2000 mg/kg.
+ | 
+Corrosão/irritação à
+pele: | Provoca irritação à pele com vermelhidão e ressecamento.
+ | 
+Lesões oculares
+graves/irritação ocular: | Provoca irritação ocular grave com lacrimejamento e dor.
+ | 
+Sensibilização
+respiratória ou à pele: | Não é esperado que o produto apresente sensibilização respiratória ou à pele.
+ | 
+Mutagenicidade em
+células germinativas: | Não classificado para Mutagenicidade em células germinativas.
+Estudos de mutagenicidade (teste ames) obtiveram resultados negativos.
+Carcinogenicidade: | Não é esperado que o produto apresente carcinogenicidade.
+Toxicidade à
+reprodução: | Não é esperado que o produto apresente toxicidade à reprodução.
+ | 
+Toxicidade para
+órgãos-alvo específicos
+–exposição única: | Provoca danos ao fígado, rins e sangue.
+Estudos epidemiológicos relataram que a substância provoca alterações nas células sanguíneas
+(hemáceas), rins e fígado.
+Toxicidade para órgão-
+salvo específicos –
+exposição repetida: | Não é esperado que o produto apresente toxicidade ao órgão-alvo específico por exposição
+repetida.
+ | 
+Perigo por aspiração: | Não é esperado que o produto apresente perigo por aspiração.
+12 - INFORMAÇÕES ECOLÓGICAS | 
+Efeitos ambientais, comportamento e impactos do produto | 
+Ecotoxicidade: | Muito tóxico para os organismos aquáticos, com efeitos prolongados.
+CEr50 (Algas verdes, 96h): 0,02 mg/L;
+CE50 (Crustáceos, 48h): 0,18 mg/L;
+CL50 (Peixes, 96h): 0,89 mg/L.
+ | 
+Persistência e
+degradabilidade: | O produto apresenta persistência e não é considerado rapidamente degradável.
+ | 
+Potencial
+bioacumulativo: | Apresenta baixo potencial bioacumulativo em organismos aquáticos.
+log Kow: 0,44.
+Mobilidade no solo: | Não determinada.
+FISPQ
+Em conformidade com NBR 14725
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Produto: SULFATO DE COBRE II (5 H2O)
+Revisão: 03 Data: 25/01/2021 Página: 5/8
+10 - ESTABILIDADE E REATIVIDADE
+Reatividade: Pode agredir metais quando em presença de água.
+Estabilidade: Produto estável em condições normais de temperatura e pressão.
+Possibilidade de Não são conhecidas reações perigosas com relação ao produto.
+reações perigosas:
+Condições a serem Temperaturas elevadas. Contato com materiais incompatíveis.
+evitadas:
+Materiais incompatíveis: Magnésio e Pós metálicos.
+Produtos perigosos da A decomposição do produto emite óxidos de enxofre.
+decomposição:
+11 - INFORMAÇÕES TOXICOLÓGICAS
+Toxicidade Aguda: Produto não classificado como tóxico agudo por via dérmica.
+Nocivo se ingerido.
+DL50 (Oral, ratos): 666 mg/kg.
+DL50 (Dérmica, ratos): > 2000 mg/kg.
+Corrosão/irritação à Provoca irritação à pele com vermelhidão e ressecamento.
+pele:
+Lesões oculares Provoca irritação ocular grave com lacrimejamento e dor.
+graves/irritação ocular:
+Sensibilização Não é esperado que o produto apresente sensibilização respiratória ou à pele.
+respiratória ou à pele:
+Mutagenicidade em Não classificado para Mutagenicidade em células germinativas.
+células germinativas: Estudos de mutagenicidade (teste ames) obtiveram resultados negativos.
+Carcinogenicidade: Não é esperado que o produto apresente carcinogenicidade.
+Toxicidade à Não é esperado que o produto apresente toxicidade à reprodução.
+reprodução:
+Toxicidade para Provoca danos ao fígado, rins e sangue.
+órgãos-alvo específicos Estudos epidemiológicos relataram que a substância provoca alterações nas células sanguíneas
+–exposição única: (hemáceas), rins e fígado.
+Toxicidade para órgão- Não é esperado que o produto apresente toxicidade ao órgão-alvo específico por exposição
+salvo específicos – repetida.
+exposição repetida:
+Perigo por aspiração: Não é esperado que o produto apresente perigo por aspiração.
+12 - INFORMAÇÕES ECOLÓGICAS
+Efeitos ambientais, comportamento e impactos do produto
+Ecotoxicidade: Muito tóxico para os organismos aquáticos, com efeitos prolongados.
+CEr50 (Algas verdes, 96h): 0,02 mg/L;
+CE50 (Crustáceos, 48h): 0,18 mg/L;
+CL50 (Peixes, 96h): 0,89 mg/L.
+Persistência e O produto apresenta persistência e não é considerado rapidamente degradável.
+degradabilidade:
+Potencial Apresenta baixo potencial bioacumulativo em organismos aquáticos.
+bioacumulativo: log Kow: 0,44.
+Mobilidade no solo: Não determinada.
+
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+
+Outros efeitos
+adversos: | Não são conhecidos outros efeitos ambientais para este produto.
+ | 
+13 - CONSIDERAÇÕES SOBRE DESTINAÇÃO FINAL | 
+Métodos recomendados para destinação final | 
+Produto: | O tratamento e a disposição devem ser avaliados especificamente para cada produto. Devem ser
+consultadas legislações federais, estaduais e municipais, dentre estas: Lei n°12.305, de 02 de
+agosto de 2010 (Política Nacional de Resíduos Sólidos).
+ | 
+Restos de produto: | Manter restos do produto em suas embalagens originais e devidamente fechadas. O descarte deve
+ser realizado conforme o estabelecido para o produto.
+ | 
+Embalagem usada: | Não reutilize embalagens vazias. Estas podem conter restos do produto e devem ser mantidas
+fechadas e encaminhadas para descarte apropriado conforme estabelecido para o produto.
+ | 
+14 - INFORMAÇÕES SOBRE TRANSPORTE | | 
+Regulamentações nacionais e internacionais | | 
+Terrestre: | | ANTT - Agência Nacional de Transportes Terrestres:
+• Resolução nº 5232 de 14 de dezembro de 2016: Aprova as Instruções Complementares
+ao Regulamento Terrestre do Transporte de Produtos Perigosos, e dá outras providências.
+ | | 
+Número ONU: | | 3077
+Nome apropriado para
+embarque: | | SUBSTÂNCIA QUE APRESENTA RISCO PARA O MEIO AMBIENTE, SÓLIDA, N.E. (Sulfato
+cúprico)
+Classe ou subclasse de
+risco principal: | | 9
+ | | 
+Classe ou subclasse de
+risco subsidiário: | | NA
+ | | 
+Número de risco: | | 90
+Grupo de embalagem: | | III
+Hidroviário: | | DPC - Diretoria de Portos e Costas: Transporte em águas brasileiras.- Normas de Autoridade
+Marítima:
+• NORMAM 01/DPC: Embarcações Empregadas na Navegação em Mar Aberto.
+• NORMAM 02/DPC: Embarcações Empregadas na Navegação Interior.- International
+Maritime Organization (Organização Marítima Internacional):
+• IMDG Code - International Maritime Dangerous Goods Code
+(Código Marítimo Internacional de Produtos Perigosos).
+ | | 
+Número ONU: | | 3077
+Nome apropriado para
+embarque: | | ENVIRONMENTALLY HAZARDOUS SUBSTANCE, SOLID, N.O.S. (Copper sulfate pentahydrate)
+ | | 
+Classe ou subclasse de
+risco principal: | | 9
+ | | 
+Classe ou subclasse de
+risco subsidiário: | | NA
+ | | 
+Grupo de embalagem: | | III
+EmS: | | F-A,S-F
+Perigo ao Meio
+Ambiente: | | O produto é considerado poluente marinho.
+Aéreo: | | ANAC - Agência Nacional de Aviação Civil: Resolução n°129 de 8 de dezembro de 2009.N°175 -
+(Regulamento Brasileiro da Avianção Civil):
+ | | 
+ | | 
+FISPQ
+Em conformidade com NBR 14725
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Produto: SULFATO DE COBRE II (5 H2O)
+Revisão: 03 Data: 25/01/2021 Página: 6/8
+Outros efeitos Não são conhecidos outros efeitos ambientais para este produto.
+adversos:
+13 - CONSIDERAÇÕES SOBRE DESTINAÇÃO FINAL
+Métodos recomendados para destinação final
+Produto: O tratamento e a disposição devem ser avaliados especificamente para cada produto. Devem ser
+consultadas legislações federais, estaduais e municipais, dentre estas: Lei n°12.305, de 02 de
+agosto de 2010 (Política Nacional de Resíduos Sólidos).
+Restos de produto: Manter restos do produto em suas embalagens originais e devidamente fechadas. O descarte deve
+ser realizado conforme o estabelecido para o produto.
+Embalagem usada: Não reutilize embalagens vazias. Estas podem conter restos do produto e devem ser mantidas
+fechadas e encaminhadas para descarte apropriado conforme estabelecido para o produto.
+14 - INFORMAÇÕES SOBRE TRANSPORTE
+Regulamentações nacionais e internacionais
+Terrestre: ANTT - Agência Nacional de Transportes Terrestres:
+• Resolução nº 5232 de 14 de dezembro de 2016: Aprova as Instruções Complementares
+ao Regulamento Terrestre do Transporte de Produtos Perigosos, e dá outras providências.
+Número ONU: 3077
+Nome apropriado para SUBSTÂNCIA QUE APRESENTA RISCO PARA O MEIO AMBIENTE, SÓLIDA, N.E. (Sulfato
+embarque: cúprico)
+Classe ou subclasse de 9
+risco principal:
+Classe ou subclasse de NA
+risco subsidiário:
+Número de risco: 90
+Grupo de embalagem: III
+Hidroviário: DPC - Diretoria de Portos e Costas: Transporte em águas brasileiras.- Normas de Autoridade
+Marítima:
+• NORMAM 01/DPC: Embarcações Empregadas na Navegação em Mar Aberto.
+• NORMAM 02/DPC: Embarcações Empregadas na Navegação Interior.- International
+Maritime Organization (Organização Marítima Internacional):
+• IMDG Code - International Maritime Dangerous Goods Code
+(Código Marítimo Internacional de Produtos Perigosos).
+Número ONU: 3077
+Nome apropriado para ENVIRONMENTALLY HAZARDOUS SUBSTANCE, SOLID, N.O.S. (Copper sulfate pentahydrate)
+embarque:
+Classe ou subclasse de 9
+risco principal:
+Classe ou subclasse de NA
+risco subsidiário:
+Grupo de embalagem: III
+EmS: F-A,S-F
+Perigo ao Meio O produto é considerado poluente marinho.
+Ambiente:
+Aéreo: ANAC - Agência Nacional de Aviação Civil: Resolução n°129 de 8 de dezembro de 2009.N°175 -
+(Regulamento Brasileiro da Avianção Civil):
+
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+
+Revisão: 03 | Data: 25/01/2021 Página: 7/8
+ | • Transporte de Artigos Perigosos em Aeronaves Civis.
+• IS N° 175-001 - Instrução Suplementar.- International Civil Aviation Organization
+(Organização da Aviação Civil Internacional):
+• Doc 9284-NA/905.- International Air Transport Association (Associação Internacional de
+Transporte Aéreo):
+• DGR - Dangerous Goods Regulation (Regulação de Produtos Perigosos).
+Número ONU: | 3077
+Nome apropriado para
+embarque: | ENVIRONMENTALLY HAZARDOUS SUBSTANCE, SOLID, N.O.S. (Copper sulfate pentahydrate)
+ | 
+Classe ou subclasse de
+risco principal: | 9
+ | 
+Classe ou subclasse de
+risco subsidiário: | NA
+ | 
+Grupo de embalagem: | III
+Medidas e condições
+específicas de
+precaução: | Não aplicável
+ | 
+15 - INFORMAÇÕES SOBRE REGULAMENTAÇÕES | 
+Regulamentações
+específicas para o
+produto químico: | Decreto Federal nº 10.088, de 5 de novembro de 2019.
+Portaria nº 229, de 24 de maio de 2011 - Altera a Norma Regulamentadora nº 26.
+Norma ABNT-NBR 14725.
+16 - OUTRAS INFORMAÇÕES
+Informações importantes, mas não especificamente descritas nas seções anteriores:
+Esta FISPQ foi elaborada com base nos atuais conhecimentos sobre o manuseio apropriado do produto e sob as condições
+normais de uso, de acordo com a aplicação especificada na embalagem. Qualquer outra forma de utilização do produto que
+envolva a sua combinação com outros materiais, além de formas de uso diversas daquelas indicadas, são de
+responsabilidade do usuário. Adverte-se que o manuseio de qualquer substância química requer o conhecimento prévio de
+seus perigos pelo usuário. No local de trabalho cabe à empresa usuária do produto promover o treinamento de seus
+empregados e contratados quanto aos possíveis riscos advindos da exposição ao produto químico.
+Elaborada em agosto de 2019.
+Legendas e Abreviaturas:
+ACGIH - American Conference of Governmental Industrial Hygienists;
+CAS - Chemical Abstracts Service;
+CE50 - Concentração Efetiva 50%;
+CEr50 - Concentração efetiva que resulta na redução de 50% da taxa de crescimento;
+CL50 - Concentração Letal 50%;
+DL50 - Dose Letal 50%;
+Kow - Coeficiente de partição octanol/água;
+NR - Norma Regulamentadora;
+ONU - Organização das Nações Unidas.
+Referências bibliográficas:
+BRASIL. MINISTÉRIO DO TRABALHO E EMPREGO (MTE). Norma Regulamentadora (NR) n°7: Programa de controle
+médico de saúde ocupacional. Brasília, DF. Jun. 1978.
+BRASIL. MINISTÉRIO DO TRABALHO E EMPREGO (MTE). Norma Regulamentadora (NR) n°15: Atividades e operações
+insalubres. Brasília, DF. Jun. 1978.
+GHS - GLOBALLY HARMONIZED SYSTEM OF CLASSIFICATION AND LABELLING OF CHEMICALS. 8th rev. ed. New
+FISPQ
+Em conformidade com NBR 14725
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Produto: SULFATO DE COBRE II (5 H2O)
+Revisão: 03 Data: 25/01/2021 Página: 7/8
+• Transporte de Artigos Perigosos em Aeronaves Civis.
+• IS N° 175-001 - Instrução Suplementar.- International Civil Aviation Organization
+(Organização da Aviação Civil Internacional):
+• Doc 9284-NA/905.- International Air Transport Association (Associação Internacional de
+Transporte Aéreo):
+• DGR - Dangerous Goods Regulation (Regulação de Produtos Perigosos).
+Número ONU: 3077
+Nome apropriado para ENVIRONMENTALLY HAZARDOUS SUBSTANCE, SOLID, N.O.S. (Copper sulfate pentahydrate)
+embarque:
+Classe ou subclasse de 9
+risco principal:
+Classe ou subclasse de NA
+risco subsidiário:
+Grupo de embalagem: III
+Medidas e condições Não aplicável
+específicas de
+precaução:
+15 - INFORMAÇÕES SOBRE REGULAMENTAÇÕES
+Regulamentações Decreto Federal nº 10.088, de 5 de novembro de 2019.
+específicas para o Portaria nº 229, de 24 de maio de 2011 - Altera a Norma Regulamentadora nº 26.
+produto químico: Norma ABNT-NBR 14725.
+16 - OUTRAS INFORMAÇÕES
+Informações importantes, mas não especificamente descritas nas seções anteriores:
+Esta FISPQ foi elaborada com base nos atuais conhecimentos sobre o manuseio apropriado do produto e sob as condições
+normais de uso, de acordo com a aplicação especificada na embalagem. Qualquer outra forma de utilização do produto que
+envolva a sua combinação com outros materiais, além de formas de uso diversas daquelas indicadas, são de
+responsabilidade do usuário. Adverte-se que o manuseio de qualquer substância química requer o conhecimento prévio de
+seus perigos pelo usuário. No local de trabalho cabe à empresa usuária do produto promover o treinamento de seus
+empregados e contratados quanto aos possíveis riscos advindos da exposição ao produto químico.
+Elaborada em agosto de 2019.
+Legendas e Abreviaturas:
+ACGIH - American Conference of Governmental Industrial Hygienists;
+CAS - Chemical Abstracts Service;
+CE50 - Concentração Efetiva 50%;
+CEr50 - Concentração efetiva que resulta na redução de 50% da taxa de crescimento;
+CL50 - Concentração Letal 50%;
+DL50 - Dose Letal 50%;
+Kow - Coeficiente de partição octanol/água;
+NR - Norma Regulamentadora;
+ONU - Organização das Nações Unidas.
+Referências bibliográficas:
+BRASIL. MINISTÉRIO DO TRABALHO E EMPREGO (MTE). Norma Regulamentadora (NR) n°7: Programa de controle
+médico de saúde ocupacional. Brasília, DF. Jun. 1978.
+BRASIL. MINISTÉRIO DO TRABALHO E EMPREGO (MTE). Norma Regulamentadora (NR) n°15: Atividades e operações
+insalubres. Brasília, DF. Jun. 1978.
+GHS - GLOBALLY HARMONIZED SYSTEM OF CLASSIFICATION AND LABELLING OF CHEMICALS. 8th rev. ed. New
+
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Produto: SULFATO DE COBRE II (5 H2O)
+Revisão: 03 Data: 25/01/2021 Página: 8/8
+York: United Nations, 2019.
+ACGIH - AMERICAN CONFERENCE OF GOVERNMENTAL INDUSTRIALS HYGIENISTS. TLVs® and BEIs®: Based on the
+Documentation of the Threshold Limit Values (TLVs®) for Chemical Substances and Physical Agents & Biological Exposure
+Indices (BEIs®). Cincinnati-USA, 2020.
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+
+FISPQ
+Em conformidade com NBR 14725
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Produto: SULFATO DE COBRE II (5 H2O)
+Revisão: 03 Data: 25/01/2021 Página: 8/8
+York: United Nations, 2019.
+ACGIH - AMERICAN CONFERENCE OF GOVERNMENTAL INDUSTRIALS HYGIENISTS. TLVs® and BEIs®: Based on the
+Documentation of the Threshold Limit Values (TLVs®) for Chemical Substances and Physical Agents & Biological Exposure
+Indices (BEIs®). Cincinnati-USA, 2020.

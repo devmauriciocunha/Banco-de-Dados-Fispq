@@ -1,0 +1,386 @@
+Nome | Identificação do produto | %
+2-metilpropeno
+(Impureza) | (nº CAS) 115-11-7 | 0,2
+buteno
+(Impureza) | (nº CAS) 25167-67-3 | 0,15
+Buteno-1
+Ficha de Informações de Segurança de Produtos Químicos
+De acordo com ABNT NBR 14725-4
+Data de emissão: 05 Outubro 2018 Data da revisão: 01 Novembro 2021 Versão: 12.0
+SEÇÃO 1: Identificação do Produto e da Empresa
+1.1. Identificação do produto
+Nome comercial : Buteno-1
+Nome IUPAC : but-1-ene
+Código do produto : P420, P420T, P529
+1.2. Identificação da Empresa
+Braskem S.A.
+Rua Eteno, 1561, Polo Petroquímico de Camaçari
+Camaçari, BA, CEP: 42810-000, Brasil
+E-mail: productsafety@braskem.com
+Número de emergência : CHEMTREC: (021) 3958-1449, (011) 4349-1359, 0800 892 0479 (BRASIL)
+1-703-741-5970 (INTERNACIONAL)
+SEÇÃO 2: Identificação de perigos
+2.1. Classificação da substância ou mistura
+Classificação de acordo com GHS-BR (ABNT NBR 14725-2)
+Gases inflamáveis, Categoria 1
+Gases sob pressão: Gás liquefeito
+2.2. Elementos apropriados de rotulagem
+GHS-BR rotulagem
+Pictogramas de perigo (GHS-BR) :
+GHS02 GHS04
+Palavra de advertência (GHS-BR) : Perigo
+Frases de perigo (GHS-BR) : H220 - Gás extremamente inflamável
+H280 - Contém gás sob pressão: pode explodir sob ação do calor
+Frases de precaução (GHS-BR) : P210 - Mantenha afastado do calor, faísca, chama aberta, superfícies quentes. - Não fume
+P377 - Vazamento de gás com chamas: não apague, a menos que se possa conter o
+vazamento com segurança
+P381 - Elimine todas as fontes de ignição se puder ser feito com segurança
+P403 - Armazene em local bem ventilado.
+P410+P403 - Mantenha ao abrigo da luz solar. Armazene em local bem ventilado
+2.3. Outros perigos que não resultam em uma classificação
+Pode causar asfixia em altas concentrações. O contato com o produto pode causar queimaduras por frio ou por congelamento. Quando misturado
+com o ar ou exposto a fonte de ignição pode queimar em ambiente aberto ou explodir em espaços confinados. Contribui para a formação de smog
+fotoquímico por degradação na atmosfera através de reações fotoquímicas para formar oxidantes fotoquímicos e interferir com o ciclo fotoquímico
+de óxidos de nitrogênio
+SEÇÃO 3: Composição e informações sobre os ingredientes
+3.1. Substância
+Nome comercial : Buteno-1
+Nome IUPAC : but-1-ene
+Sinônimos : 1-Butylene; Ethylethylene
+Fórmula : C4H8
+Nome : 1-Buteno
+nº CAS : 106-98-9
+nº EC : 203-449-2
+nº de índice EC : 601-012-00-4
+Nome Identificação do produto %
+2-metilpropeno (nº CAS) 115-11-7 0,2
+(Impureza)
+buteno (nº CAS) 25167-67-3 0,15
+(Impureza)
+01 Novembro 2021 PT (português - BR) 1/6
+Nome | Identificação do produto | %
+isobutano
+(Impureza) | (nº CAS) 75-28-5 | 0,1
+Buteno-1
+Ficha de Informações de Segurança de Produtos Químicos
+De acordo com ABNT NBR 14725-4
+Data de emissão: 05 Outubro 2018 Data da revisão: 01 Novembro 2021 Versão: 12.0
+Nome Identificação do produto %
+isobutano (nº CAS) 75-28-5 0,1
+(Impureza)
+3.2. Mistura
+Não aplicável
+SEÇÃO 4: Medidas de primeiros-socorros
+4.1. Descrição das medidas de primeiros socorros
+Medidas gerais de primeiros-socorros : Não esfregue a pele e os olhos após contato direto com o produto.
+Medidas de primeiros-socorros após inalação : Remova a pessoa para local ventilado e a mantenha em repouso numa posição que não dificulte
+a respiração. Em caso de parada respiratória, aplicar respiração artificial. Se a respiração for
+difícil, administrar oxigênio. Procurar orientação médica imediatamente.
+Medidas de primeiros-socorros após contato : Pode causar queimaduras por congelamento. Remover a vítima para longe da área
+com a pele contaminada. Retire roupas ou joias que possam restringir a circulação. Lavar imediatamente
+com água em abundância por 15 minutos. Procurar orientação médica imediatamente.
+Medidas de primeiros-socorros após contato : Pode causar queimaduras por congelamento. Lavar imediatamente e com cuidado, mantendo
+com os olhos as pálpebras bem abertas (por pelo menos 15 minutos). No caso de uso de lentes de contato,
+remova-as, se for fácil. Continue enxaguando. Procurar orientação médica imediatamente.
+Medidas de primeiros-socorros após ingestão : Não se aplica especificamente (gás).
+4.2. Sintomas e efeitos mais importantes, agudos ou tardios
+Sintomas/efeitos em caso de inalação : Asfixiante em altas concentrações. Infarto/parada cardíaca. Os sintomas incluem dores de
+cabeça, tontura, fadiga, fraqueza muscular, sonolência e, em casos extremos, perda de
+consciência. Morte.
+Sintomas/efeitos em caso de contato com a : Pode causar queimaduras por congelamento.
+pele
+Sintomas/efeitos em caso de contato com os : Pode causar queimaduras por congelamento.
+olhos
+Sintomas/efeitos em caso de ingestão : Não se aplica especificamente (gás).
+4.3. Indicações sobre cuidados médicos urgentes e tratamentos especiais necessários
+Nota ao médico: : Tratar sintomaticamente.
+SEÇÃO 5: Medidas de combate a incêndio
+5.1. Meios de extinção
+Meios de extinção adequados : dióxido de carbono (CO2), pó químico seco, espuma. Em caso de incêndios grandes: Usar
+pulverização/nebulização de água para resfriamento.
+Meios de extinção inadequados : Não usar jatos de água. Não extinguir chamas devido à possibilidade de re-ignição explosiva.
+Não dirija a água diretamente para o ponto onde o gás comprimido está escapando, pois a água
+pode congelar.
+5.2. Perigos específicos decorrentes da substância ou mistura
+Perigo de incêndio : Gás extremamente inflamável. Explosivo quando misturado com substâncias oxidantes. Os
+vapores podem percorrer longas distâncias junto ao chão antes de se inflamarem/regressarem
+à fonte de vapor. Combata o incêndio tomando as precauções normais, a uma distância
+razoável. A exposição prolongada ao fogo pode causar ruptura e/ou explosão dos recipientes.
+Mais pesados do que o ar, os vapores podem percorrer grandes distâncias junto ao solo,
+inflamarem-se ou explodirem e regressarem à fonte. Pode causar queimaduras por
+congelamento. Asfixiante em altas concentrações. Produtos de combustão perigosos. Por
+combustão, forma: Dióxido de carbono. Monóxido de carbono.
+Perigo de explosão : Pode formar uma mistura vapor-ar inflamável/explosiva. O calor pode acumular pressão,
+rompendo os recipientes fechados, espalhando fogo e aumentando o risco de queimaduras e
+ferimentos.
+5.3. Recomendações para a equipe de combate a incêndio
+Instruções de combate a incêndios : Resfriar as embalagens fechadas expostas ao fogo com água pulverizada.
+Proteção durante o combate a incêndios : Em caso de incêndio: Usar equipamento autônomo de respiração. Roupa de proteção completa
+à prova de fogo.
+SEÇÃO 6: Medidas de controle para derramamento ou vazamento
+6.1. Precauções pessoais, equipamento de proteção e procedimentos de emergência
+6.1.1. Para não-socorristas
+Equipamento de proteção : Use o equipamento de proteção individual conforme for necessário. Para maiores informações
+consultar a seção 8: "Controle da exposição/proteção individual".
+01 Novembro 2021 PT (português - BR) 2/6
+ | Buteno-1 (106-98-9) | | | | | | | 
+EUA | | | Nome local | | | Butenes, all isomers | | 
+EUA | | | ACGIH TWA (Média Ponderada no Tempo) (ppm) | | | 250 ppm | | 
+ | EUA | | | Referência regulamentar | | | ACGIH 2018 | 
+2- metilpropeno (115-11-7) | | | | | | | | 
+EUA | | | Nome local | | | Isobutene | | 
+EUA | | | ACGIH TWA (Média Ponderada no Tempo) (ppm) | | | 250 ppm | | 
+EUA | | | Observação (ACGIH) | | | URT irr; body weight eff | | 
+EUA | | | Referência regulamentar | | | ACGIH 2018 | | 
+ | isobutano (75-28-5) | | | | | | | 
+EUA | | | Nome local | | | Butane, all isomers | | 
+EUA | | | ACGIH TWA (Média Ponderada no Tempo) (ppm) | | | 1000 ppm | | 
+EUA | | | ACGIH STEL (Limites de Exposição a Curto Prazo)
+(ppm) | | | 1000 ppm | | 
+EUA | | | Observação (ACGIH) | | | CNS impair | | 
+EUA | | | Referência regulamentar | | | ACGIH 2018 | | 
+ | buteno (25167-67-3) | | | | | | | 
+EUA | | | Nome local | | | Butenes, all isomers | | 
+EUA | | | ACGIH TWA (Média Ponderada no Tempo) (ppm) | | | 250 ppm | | 
+EUA | | | Referência regulamentar | | | ACGIH 2018 | | 
+Buteno-1
+Ficha de Informações de Segurança de Produtos Químicos
+De acordo com ABNT NBR 14725-4
+Data de emissão: 05 Outubro 2018 Data da revisão: 01 Novembro 2021 Versão: 12.0
+Procedimentos de emergência : Eliminar as fontes de ignição. Não fumar. Evacuar e limitar o acesso.
+6.1.2. Para socorristas
+Equipamento de proteção : Roupa de proteção completa. Equipamento autônomo de respiração. Para maiores informações
+consultar a seção 8: "Controle da exposição/proteção individual".
+Procedimentos de emergência : Eliminar as fontes de ignição. Não fumar. Evacuar e limitar o acesso.
+6.2. Precauções ambientais
+Evite a liberação para o meio ambiente. Usar água pulverizada para dispersar vapores.
+6.3. Métodos e materiais de contenção e limpeza
+Para contenção : Interromper o vazamento, se possível sem riscos. Ventile a área afetada.
+Métodos de limpeza : Ventilar completamente a área.
+SEÇÃO 7: Manuseio e armazenamento
+7.1. Precauções para manuseio seguro
+Precauções para manuseio seguro : Evitar o contato com a pele, os olhos e a roupa. Evitar a inalação dos vapores. Use os
+equipamentos de proteção pessoal recomendados. Manter afastado de fontes de ignição - Não
+fumar.
+Medidas de higiene : Manusear de acordo com as boas práticas de higiene industrial e de segurança.
+7.2. Condições para armazenamento seguro, incluindo incompatibilidades
+Medidas técnicas : Devem ser seguidos os procedimentos de aterramento adequados para evitar eletricidade
+estática. Manter afastado de chamas abertas, superfícies quentes e fontes de ignição. Usar
+equipamento à prova de explosão. Utilize apenas ferramentas antifaiscantes. Tenha
+equipamentos para sanar vazamentos e combater incêndio prontamente disponíveis.
+Condições de armazenamento : Armazenar em lugar seco, fresco e bem ventilado. Evitar fontes de ignição.
+Produtos incompatíveis : Agente oxidante. Cloratos. Percloratos. Nitratos. Peróxidos. Permanganatos. Tris-tetra-
+hidroborato de alumínio.
+Área de armazenamento : Armazenar em lugar seco, fresco e bem ventilado. Manter afastado de fontes de ignição.
+Mantenha o recipiente hermeticamente fechado. Aterrar os equipamentos / recipientes.
+Certifique-se de que a válvula do cilindro esteja fecha e livre de vazamentos. Os recipientes
+abertos devem ser devidamente fechados e mantidos em posição vertical para evitar fugas.
+Materiais para embalagem : Aço carbono. Aço inoxidável. Cilindros. Este material pode atacar certas formas de plásticos,
+borrachas e revestimentos.
+SEÇÃO 8: Controle de exposição e proteção individual
+8.1. Parâmetros de controle
+Buteno-1 (106-98-9)
+EUA Nome local Butenes, all isomers
+EUA ACGIH TWA (Média Ponderada no Tempo) (ppm) 250 ppm
+EUA Referência regulamentar ACGIH 2018
+2- metilpropeno (115-11-7)
+EUA Nome local Isobutene
+EUA ACGIH TWA (Média Ponderada no Tempo) (ppm) 250 ppm
+EUA Observação (ACGIH) URT irr; body weight eff
+EUA Referência regulamentar ACGIH 2018
+isobutano (75-28-5)
+EUA Nome local Butane, all isomers
+EUA ACGIH TWA (Média Ponderada no Tempo) (ppm) 1000 ppm
+EUA ACGIH STEL (Limites de Exposição a Curto Prazo)
+(ppm) 1000 ppm
+EUA Observação (ACGIH) CNS impair
+EUA Referência regulamentar ACGIH 2018
+buteno (25167-67-3)
+EUA Nome local Butenes, all isomers
+EUA ACGIH TWA (Média Ponderada no Tempo) (ppm) 250 ppm
+EUA Referência regulamentar ACGIH 2018
+01 Novembro 2021 PT (português - BR) 3/6
+Buteno-1
+Ficha de Informações de Segurança de Produtos Químicos
+De acordo com ABNT NBR 14725-4
+Data de emissão: 05 Outubro 2018 Data da revisão: 01 Novembro 2021 Versão: 12.0
+8.2. Controles de exposição
+Controles apropriados de engenharia : Fornecer exaustão local ou ventilação geral na área de trabalho para minimizar a concentração
+de vapores. Fontes para lavagem dos olhos e chuveiros de segurança para emergência devem
+estar disponíveis nas imediações de qualquer potencial de exposição.
+Controles de exposição ambiental : Evite a liberação para o meio ambiente. Não permitir a contaminação de esgotos ou cursos de
+água. Usar água pulverizada para dispersar vapores.
+8.3. Equipamento de proteção individual
+Materiais para roupas de proteção : Cloreto de polivinilo (PVC).
+Proteção para as mãos : Luvas de proteção de PVC.
+Proteção para os olhos : Óculos de segurança com proteções laterais. Lentes de contato não devem ser usadas.
+Proteção para a pele e o corpo : Botas feitas de PVC. Avental de PVC cobrindo a parte superior das botas.
+Proteção respiratória : Um respirador/suprimento de ar contra vapor orgânico aprovado ou um equipamento autônomo
+de respiração deve ser usado quando a concentração de vapor exceder os limites de exposição
+aplicáveis.
+SEÇÃO 9: Propriedades físicas e químicas
+9.1. Informações sobre propriedades físico-químicas básicas
+Estado físico : Gás
+Aparência : Gás incolor.
+Cor : Incolor
+Odor : Odor semelhante a petróleo
+Limiar de odor : Não disponível
+pH : Não aplicável
+Ponto de fusão : -185,3 °C
+Ponto de solidificação : Não disponível
+Ponto de ebulição : -6,47 °C
+Ponto de fulgor : -80 °C (valor estimado)
+Taxa de evaporação relativa (acetato de butila = 1) : Não disponível
+Inflamabilidade (sólido/gás) : Gás extremamente inflamável
+Limites de explosão : 1,6 - 10 vol. %
+Pressão de vapor : 2253 mm Hg @ 25 °C
+Densidade relativa do vapor a 20°C : 1,93
+Densidade relativa : Não disponível
+Solubilidade : Insolúvel em: Água. Solúvel em: Benzeno. Éter. Etanol.
+Log Pow : 2,4
+Log Kow : Não disponível
+Temperatura de auto-ignição : 385 °C
+Temperatura de decomposição : Não disponível
+Viscosidade, cinemática : Não disponível
+Viscosidade, dinâmica : Não disponível
+9.2. Outras informações
+Grupo de gás : Press. Gas (Liq.)
+SEÇÃO 10: Estabilidade e reatividade
+Estabilidade química : O produto é estável em condições normais de manipulação e armazenagem
+Condições a evitar : Evite chamas e faíscas. Elimine todas as fontes de ignição. Manter afastado de chamas abertas,
+superfícies quentes e fontes de ignição
+Produtos perigosos da decomposição : Em caso de incêndio:Monóxido de carbono,dióxido de carbono (CO2)
+Materiais incompatíveis : Oxigênio,Agentes oxidantes fortes,Tris-tetra-hidroborato de alumínio
+Possibilidade de reações perigosas : Perigo de explosão em contato com:Oxigênio,Nenhuma polimerização
+SEÇÃO 11: Informações toxicológicas
+11.1. Informações sobre os efeitos toxicológicos
+Toxicidade aguda (oral) : Não disponível
+Toxicidade aguda (dérmica) : Não disponível
+Toxicidade aguda (inalação) : Não disponível
+01 Novembro 2021 PT (português - BR) 4/6
+ | Butene (25167-67-3) | | 
+CL50 inalação rato (mg/l) | | 658 mg/l/4h | 
+ | Buteno-1 (106-98-9) | | 
+Persistência e degradabilidade | | Rapidamente degradável | 
+ | Buteno-1 (106-98-9) | | 
+Log Pow | | 2,4 | 
+Potencial bioacumulativo | | Baixo potencial de bioacumulação. | 
+ | Butene (25167-67-3) | | 
+Log Pow | | <= 2,8 | 
+Buteno-1
+Ficha de Informações de Segurança de Produtos Químicos
+De acordo com ABNT NBR 14725-4
+Data de emissão: 05 Outubro 2018 Data da revisão: 01 Novembro 2021 Versão: 12.0
+Butene (25167-67-3)
+CL50 inalação rato (mg/l) 658 mg/l/4h
+Corrosão/irritação à pele : Não disponível
+pH: Não aplicável
+Lesões oculares graves/irritação ocular : Não disponível
+pH: Não aplicável
+Sensibilização respiratória ou à pele : Não disponível
+Mutagenicidade em células germinativas : Não disponível
+Carcinogenicidade : Não disponível
+Toxicidade à reprodução : Não disponível
+Toxicidade para órgãos-alvo específicos - : Não disponível
+Exposição única
+Toxicidade para órgãos-alvo específicos - : Não disponível
+Exposição repetida
+Perigo por aspiração : Não disponível
+Potenciais efeitos e sintomas adversos à saúde : Asfixia por falta de oxigênio: risco de morte. Os sintomas incluem dores de cabeça, tontura,
+humana fadiga, fraqueza muscular, sonolência e, em casos extremos, perda de consciência. Pode causar
+queimaduras por congelamento.
+Outras informações : Vias prováveis de exposição: inalação, pele e olhos.
+11.2. Sintomas e efeitos mais importantes, agudos ou tardios
+Sintomas/efeitos em caso de inalação : Asfixiante em altas concentrações. Infarto/parada cardíaca. Os sintomas incluem dores de
+cabeça, tontura, fadiga, fraqueza muscular, sonolência e, em casos extremos, perda de
+consciência. Morte.
+Sintomas/efeitos em caso de contato com a : Pode causar queimaduras por congelamento.
+pele
+Sintomas/efeitos em caso de contato com os : Pode causar queimaduras por congelamento.
+olhos
+Sintomas/efeitos em caso de ingestão : Não se aplica especificamente (gás).
+SEÇÃO 12: Informações ecológicas
+12.1. Toxicidade
+Ecologia - ar : Contribui para a formação de smog fotoquímico por degradação na atmosfera através de
+reações fotoquímicas para formar oxidantes fotoquímicos e interferir com o ciclo fotoquímico de
+óxidos de nitrogênio.
+Perigoso ao ambiente aquático - Agudo : Não disponível
+Perigoso ao ambiente aquático - Crônico : Não disponível
+12.2. Persistência e degradabilidade
+Buteno-1 (106-98-9)
+Persistência e degradabilidade Rapidamente degradável
+12.3. Potencial bioacumulativo
+Buteno-1 (106-98-9)
+Log Pow 2,4
+Potencial bioacumulativo Baixo potencial de bioacumulação.
+Butene (25167-67-3)
+Log Pow <= 2,8
+12.4. Mobilidade no solo
+Nenhuma informação adicional disponível
+12.5. Outros efeitos adversos
+Efeitos sobre a camada de ozônio : Nenhuma informação adicional disponível.
+SEÇÃO 13: Considerações sobre destinação final
+Métodos de tratamento de resíduos : Pode ser incinerado de acordo com os regulamentos locais. O descarte deve ser realizado de
+acordo com as legislações oficiais.
+01 Novembro 2021 PT (português - BR) 5/6
+Buteno-1
+Ficha de Informações de Segurança de Produtos Químicos
+De acordo com ABNT NBR 14725-4
+Data de emissão: 05 Outubro 2018 Data da revisão: 01 Novembro 2021 Versão: 12.0
+SEÇÃO 14: Informações sobre transporte
+14.1 Regulamentações nacionais e internacionais
+Transporte Terrestre - ANTT
+Número ONU : UN1012
+Nome apropriado para embarque : BUTILENO
+Classe/Subclasse de risco : 2.1 - Gases inflamáveis
+Grupo de embalagem : Não aplicável
+Número de Risco : 23 - Gás inflamável
+Perigo ao meio ambiente : Não
+Transporte marítimo - IMDG
+Número ONU : UN1012
+Nome apropriado para embarque (Português) : BUTILENO
+Nome apropriado para embarque (IMDG) : BUTYLENE
+Classe/Subclasse de risco : 2.1 – Gases inflamáveis
+Grupo de embalagem : Não aplicável
+Perigo ao meio ambiente : Não
+Poluente marinho : Não
+Transporte a granel conforme o Anexo II da
+Convenção MARPOL 73/78 e o Código IGC
+Nome do produto : Butylenes
+Transporte aéreo - IATA
+Número ONU : UN1012
+Nome apropriado para embarque (Português) : Butileno
+Nome apropriado para embarque (IATA) : Butylene
+Classe/Subclasse de risco : 2.1 – Gases inflamáveis
+Grupo de embalagem : Não aplicável
+Perigo ao meio ambiente : Não
+14.2 Outras informações
+Precauções especiais para o transporte : Essas informações não têm o objetivo de abranger todos os requisitos/informações regulatórias
+ou operacionais específicas relacionadas a esse produto. Outras informações do sistema de
+transporte podem ser obtidas através de um representante autorizado de vendas ou do
+atendimento ao cliente. É de responsabilidade da empresa de transportes seguir todas as leis,
+regulamentos e regras aplicáveis ao transporte do material.
+SEÇÃO 15: Informações sobre regulamentações
+Referência regulamentar : Listado no AICS (Inventário Australiano de Substâncias Químicas)
+Listado na DSL (Domestic Sustances List) canadiana
+Listado no IECSC (Inventory of Existing Chemical Substances Produced or Imported in China)
+Listado no EINECS (European Inventory of Existing Commercial Chemical Substances)
+Listado no inventário japonês ENCS (Existing & New Chemical Substances)
+Listado na ISHL (Industrial Safety and Health Law) do Japão
+Listado na ECL (Existing Chemicals List) corena
+Listado no NZIoC (New Zealand Inventory of Chemicals)
+Listado no PICCS (Philippines Inventory of Chemicals and Chemical Substances)
+Listado no inventário do TSCA (Toxic Substances Control Act) dos Estados Unidos
+Listado no INSQ (Mexican national Inventory of Chemical Substances)
+Listado no inventário de produtos químicos da Turquia
+Listado no TCSI (Inventário de Substâncias Químicas de Taiwan)
+SEÇÃO 16: Outras informações
+Nenhuma informação adicional disponível
+Braskem - SDS_Brazil (modified 180613)
+Esta FISPQ foi elaborada baseada nos conhecimentos atuais do produto químico e fornece informações quanto à proteção, à segurança, à saúde e ao meio ambiente. Adverte-se que o manuseio
+de qualquer substância química requer o conhecimento prévio de seus perigos pelo usuário. Cabe à empresa usuária do produto disponibilizar esta FISPQ a e promover o treinamento de seus
+empregados e contratados quanto aos possíveis riscos advindos do produto. Os empregados ou contratados que trabalham com a manipulação ou manuseio do produto químico, ou que estão
+sujeitos à exposição ao produto químico, deverão ser monitorados de acordo com o Programa de Prevenção de Riscos Ambientais – PPRA e o Programa de Controle Médico de Saúde Ocupacional
+– PCMSO, de responsabilidade da empresa usuária do produto. As informações contidas nesta FISPQ não são absolutas, mas apenas informações gerais sobre a utilização do produto químico e
+indicação de medidas de proteção e segurança.
+01 Novembro 2021 PT (português - BR) 6/6

@@ -1,0 +1,477 @@
+FICHA DE INFORMAÇÃO DE Versão 8.3
+Data da revisão 27.10.2021
+SEGURANÇA DE PRODUTO Data de impressão 16.11.2021
+QUÍMICO
+1. IDENTIFICAÇÃO DO PRODUTO E DA EMPRESA
+1.1 Identificadores do produto
+Nome do produto : 1-Propanol EMPLURA®
+Referência do Produto : 1.00996
+No. de catálogo : 100996
+Marca : Millipore
+N° de Index : 603-003-00-0
+Número REACH : 01-2119486761-29-XXXX
+Nº CAS : 71-23-8
+1.2 Usos identificados da substância ou mistura e usos não recomendados
+Usos identificados : Reagente para análise, Produção química
+1.3 Detalhes do fornecedor da Ficha de Informação de Segurança de Produto Químico
+- FISPQ
+Empresa : Merck S/A
+Rua Torre Eifell, 100
+PARQUE RINCÃO - GLEBA A COTIA, SÃO PAULO
+06705-481
+BRAZIL
+Telefone : 0800 727-7292
+Número de Fax : 0800 727-7292
+1.4 Número do telefone de emergência
+Núnero de Telefone de : Chemtrec: +(55)-2139581449 *
+Emergência Suatrans: 0800 707 7022 / 0800 17 2020
+2. IDENTIFICAÇÃO DE PERIGOS
+2.1 Classificação da substância ou mistura
+Classificação de acordo com o regulamento (CE) 1272/2008
+Líquidos inflamáveis (Categoria 2), H225
+Toxicidade aguda, Dérmico (Categoria 5), H313
+Lesões oculares graves (Categoria 1), H318
+Toxicidade sistêmica de órgão-alvo específico - exposição única (Categoria 3), Sistema
+nervoso central, H336
+Millipore- 1.00996 Página 1 de 11
+The life science business of Merck operates as MilliporeSigma in
+the US and Canada
+Para obter o texto completo das frases de perigo mencionadas nesta seção, consulte a
+seção 16.
+2.2 Elementos do rótulo
+Rotulagem de acordo com o Regulamento (CE) 1272/2008
+Pictograma
+Palavra de advertência Perigo
+Declaração de perigo
+H225 Líquido e vapores altamente inflamáveis.
+H313 Pode ser nocivo em contato com a pele.
+H318 Provoca lesões oculares graves.
+H336 Pode provocar sonolência ou vertigem.
+declaração de precaução
+Prevenção
+P210 Mantenha afastado do calor/ faísca/ chama aberta/ superfícies
+quentes. Não fume.
+P233 Mantenha o recipiente hermeticamente fechado.
+P261 Evite inalar as poeiras/ fumos/ gases/ névoas/ vapores/
+aerossóis.
+P280 Use luvas de proteção/ proteção ocular/ proteção facial.
+Resposta de emergência
+P303 + P361 + P353 EM CASO DE CONTATO COM A PELE (ou com o cabelo): Retire
+imediatamente toda a roupa contaminada. Enxágue a pele com
+água/ tome uma ducha.
+P304 + P340 + P312 EM CASO DE INALAÇÃO: Remova a pessoa para local ventilado
+e a mantenha em repouso numa posição que não dificulte a
+respiração. Caso sinta indisposição, contate um CENTRO DE
+INFORMAÇÃO TOXOCOLÓGICA/ médico.
+P305 + P351 + P338 + EM CASO DE CONTATO COM OS OLHOS: Enxágue
+P310 cuidadosamente com água durante vários minutos. No caso de
+uso de lentes de contato, remova-as, se for fácil. Continue
+enxaguando. Contate imediatamente um CENTRO DE
+INFORMAÇÃO TOXICOLÓGICA ou um médico.
+P312 Caso sinta indisposição, contate um CENTRO DE INFORMAÇÃO
+TOXOCOLÓGICA/ médico.
+P370 + P378 Em caso de incêndio: Para a extinção utilize areia seca, produto
+químico seco ou espuma resistente ao álcool.
+Armazenamento
+P403 + P233 Armazene em local bem ventilado. Mantenha o recipiente
+hermeticamente fechado.
+2.3 Outros Perigos - nenhum
+3. COMPOSIÇÃO E INFORMAÇÕES SOBRE OS INGREDIENTES
+3.1 Substâncias
+Fórmula : C3H8O
+Peso molecular : 60.1 g/mol
+Nº CAS : 71-23-8
+N° CE : 200-746-9
+Millipore- 1.00996 Página 2 de 11
+The life science business of Merck operates as MilliporeSigma in
+the US and Canada
+ | Componente | | | Classificação | | | Concentração | 
+1-Propanol | | | | | | | | 
+ | | | Flam. Liq. 2; Acute Tox. 5;
+Eye Dam. 1; STOT SE 3;
+H225, H313, H318, H336
+Limites de concentração:
+20 %: STOT SE 3, H336; | | | <= 100 % | | 
+N° de Index : 603-003-00-0
+Componente Classificação Concentração
+1-Propanol
+Flam. Liq. 2; Acute Tox. 5; <= 100 %
+Eye Dam. 1; STOT SE 3;
+H225, H313, H318, H336
+Limites de concentração:
+20 %: STOT SE 3, H336;
+Para obter o texto completo das frases de perigo mencionadas nesta seção, consulte a
+seção 16.
+4. MEDIDAS DE PRIMEIROS-SOCORROS
+4.1 Descrição das medidas de primeiros-socorros
+Recomendação geral
+Mostrar esta FISPQ ao médico de plantão.
+Se inalado
+Depois de inalar: Exposição ao ar fresco. Chamar um médico.
+Em caso de contato com a pele
+No caso dum contacto com a pele: Retirar imediatamente toda a roupa contaminada.
+Enxaguar a pele com água/tomar um duche.
+Em caso de contato com o olho
+Após contacto com os olhos: Enxaguar abundantemente com água. Consultar
+imediatamente um oftalmologista. Remova as lentes de contato.
+Se ingerido
+Após ingestão: fazer a vitima beber imediatamente água ( dois copos no máximo)
+Consultar um médico.
+4.2 Sintomas e efeitos mais importantes, agudos e retardados
+Os sintomas e efeitos mais importantes conhecidos descrevem-se na etiqueta (ver secção
+2.2) e / ou na secção 11
+4.3 Indicação da atenção médica imediata e do tratamento especial necessário
+dados não disponíveis
+5. MEDIDAS DE COMBATE A INCÊNDIO
+5.1 Meios de extinção
+Meios adequados de extinção
+Dióxido de carbono (CO2) Espuma Pó seco
+Agentes de extinção inadequados
+Para esta substância/mistura, não há limitações dos agentes de extinção.
+5.2 Riscos especiais resultantes da substância ou da mistura
+Óxidos de carbono
+Combustível.
+Prestar atenção aos retornos.
+Os vapores são mais pesados que o ar e podem espalhar-se junto ao solo.
+Millipore- 1.00996 Página 3 de 11
+The life science business of Merck operates as MilliporeSigma in
+the US and Canada
+Em caso de incêndio formam-se gases inflamáveis e vapores perigosos.
+A formação de misturas explosivas com o ar é possível já a temperaturas normais.
+5.3 Precauções para bombeiros
+Usar equipamento de respiração autônomo em casos de incêndio.
+5.4 Informações complementares
+Remover o recipiente da zona de perigo; arrefecer com água. Evitar a contaminação de
+águas superficiais e subterrâneas pela água de combate a incêndios.
+6. MEDIDAS DE CONTROLE PARA DERRAMAMENTO OU VAZAMENTO
+6.1 Precauções pessoais, equipamentos de proteção e procedimentos de emergência
+Conselho para o pessoal da não emergência: Não respirar vapores nem aerossóis. Evitar
+o contacto com a substância. Assegurar ventilação adequada. Manter afastado do calor e
+de fontes de ignição. Evacuar a área de perigo, observar os procedimentos de
+emergência, consultar um especialista.
+Para a proteção individual, consultar a seção 8.
+6.2 Precauções ambientais
+Não permitir a entrada do produto nos esgotos. Risco de explosão.
+6.3 Métodos e materiais de contenção e limpeza
+Cobrir os drenos. Colectar, ligar e bombear fugas para fora. Observar as possíveis
+restricções materiais (ver secções 7 e 10). Absorver com aborvente de líquidos, p.ex.,
+Chemizorb®. Proceder à eliminação de resíduos. Limpar a área afectada.
+6.4 Consulta a outras seções
+Para eliminação de resíduos ver secção 13.
+7. MANUSEIO E ARMAZENAMENTO
+7.1 Precauções para manuseio seguro
+Recomendações para manuseio seguro
+Trabalhar com chaminé. Não inalar a substância/mistura. Evitar a formação de
+vapores/aerossóis.
+Orientação para prevenção de fogo e explosão
+Armazenar afastado de chamas, superfícies aquecidas e fontes de ignição.Evite acúmulo de
+cargas eletrostáticas.
+Medidas de higiene
+Mudar a roupa contaminada. Depois de terminar o trabalho, lavar as mãos.
+Ver precauções na secção 2.2
+7.2 Condições para armazenamento seguro, incluindo incompatibilidades
+Condições de armazenamento
+Guardar o recipiente hermeticamente fechado em local seco e bem ventilado. Manter
+afastado do calor e de fontes de ignição.
+Temperatura recomendada de armazenagem, consulte na etiqueta de produto.
+Classe de armazenagem
+Classe de armazenagem (Alemanha) (TRGS 510): 3: Líquidos inflamáveis
+7.3 Utilizações finais específicas
+Aparte dos usos mencionados na secção 1.2 não se estipulam outros usos específicos
+Millipore- 1.00996 Página 4 de 11
+The life science business of Merck operates as MilliporeSigma in
+the US and Canada
+Componente | Nº CAS | Valor | | Parâmetros de | | Base
+ | | | | controle | | 
+1-Propanol | 71-23-8 | LT | 156 ppm
+390 mg/m3 | | | Brasil. NR 15 - Atividades e
+operações insalubres
+ | Observaçõ
+es | Absorção também pela pele
+Grau de insalubridade: médio | | | | 
+8. CONTROLE DE EXPOSIÇÃO E PROTEÇÃO INDIVIDUAL
+8.1 Parâmetros de controle
+Componentes com parâmetros a controlar no local de trabalho
+Componente Nº CAS Valor Parâmetros de Base
+controle
+1-Propanol 71-23-8 LT 156 ppm Brasil. NR 15 - Atividades e
+390 mg/m3 operações insalubres
+Observaçõ Absorção também pela pele
+es Grau de insalubridade: médio
+8.2 Controles da exposição
+Controles apropriados de engenharia
+Mudar a roupa contaminada. Depois de terminar o trabalho, lavar as mãos.
+Equipamento de Proteção Individual (EPI)
+Proteção para a pele/olhos
+Use equipamento de proteção ocular testado e aprovado de acordo com as normas
+governamentais adequadas, tais como NIOSH (US) ou EN 166 (EU). Óculos de
+segurança bem ajustados
+Proteção para a pele
+Esta recomendação aplica-se apenas ao produto descrito na ficha de dados de
+segurança por nós fornecida bem como para a aplicação especificada. Quando
+houver dissolução ou mistura com outras substâncias e sob as devidas condições
+houver desvios aos descritos na EN374, por favor, contactar o fornecedor de luvas
+com marcação CE (ex: KCL GmbH, D-36124 Eichenzell, Internet: www.kcl.de).
+Contato total
+Materiais: Borracha nitrílica
+espessura mínima da capa: 0.4 mm
+Pausa: 480 min
+Material ensaiado:Camatril® (KCL 730 / Aldrich Z677442, Tamanho M)
+Esta recomendação aplica-se apenas ao produto descrito na ficha de dados de
+segurança por nós fornecida bem como para a aplicação especificada. Quando
+houver dissolução ou mistura com outras substâncias e sob as devidas condições
+houver desvios aos descritos na EN374, por favor, contactar o fornecedor de luvas
+com marcação CE (ex: KCL GmbH, D-36124 Eichenzell, Internet: www.kcl.de).
+Contato com salpicos
+Materiais: Cloroprene
+espessura mínima da capa: 0.65 mm
+Pausa: 120 min
+Material ensaiado:KCL 720 Camapren®
+Proteção do corpo
+Tecido protetor antiestático retardador de chama.
+Proteção respiratória
+necessário em caso de formação de vapores/aerossóis. Nossas recomendações
+sobre proteção respiratória de filtragem são baseadas nas seguintes normas: DIN
+EN 143, DIN 14387 e outras normas associadas relacionadas ao sistema de
+proteção respiratória utilizado.
+Controle da exposição ambiental
+Não permitir a entrada do produto nos esgotos. Risco de explosão.
+Millipore- 1.00996 Página 5 de 11
+The life science business of Merck operates as MilliporeSigma in
+the US and Canada
+9. PROPRIEDADES FÍSICAS E QUÍMICAS
+9.1 Informações sobre propriedades físico-químicas básicas
+a) Aspecto Estado físico: líquido
+Cor: incolor
+b) Odor alcoólico
+c) Limite de Odor 2.6 ppm
+d) pH 8.5 em 200 g/l em 20 °C
+e) Ponto de Ponto de fusão: -127 °C
+fusão/congelamento
+f) Ponto de ebulição 97 °C em 1,013.25 hPa
+inicial e faixa de
+temperatura de
+ebulição
+g) Ponto de inflamação 22 °C - vaso fechado
+h) Taxa de evaporação 1
+i) Inflamabilidade dados não disponíveis
+(sólido, gás)
+j) Limites superiores / Limite superior de explosividade: 13.7 %(V)
+inferiores de Limite inferior de explosividade: 2.1 %(V)
+inflamabilidade ou de
+explosão
+k) Pressão de vapor 19.3 hPa em 20 °C
+l) Densidade do vapor 2.07 - (Ar = 1,0)
+m) Densidade 0.8 gr/cm3 em 20 °C - DIN 51757
+Densidade relativa dados não disponíveis
+n) Solubilidade em água em 20 °C completamente miscível
+o) Coeficiente de log Pow: 0.2 em 25 °C - Não se prevê qualquer bio-acumulação.
+partição (n-
+octanol/água)
+p) Temperatura de 400 °C
+autoignição em 1,013.25 hPa - DIN 51794
+q) Temperatura de dados não disponíveis
+decomposição
+r) Viscosidade Viscosidade, cinemática: dados não disponíveis
+Viscosidade, dinâmica: 2.21 mPa.s em 20 °C
+s) Riscos de explosão dados não disponíveis
+t) Propriedades não
+oxidantes
+9.2 Outra informação de segurança
+Tensão superficial 23.45 mN/m em 20 °C
+Millipore- 1.00996 Página 6 de 11
+The life science business of Merck operates as MilliporeSigma in
+the US and Canada
+Densidade relativa 2.07 - (Ar = 1,0)
+do vapor
+10. ESTABILIDADE E REATIVIDADE
+10.1 Reatividade
+Os vapores podem formar misturas explosivas com o ar.
+10.2 Estabilidade química
+O produto é estável quimicamente sob condições ambiente padrão (temperatura
+ambiente).
+10.3 Possibilidade de reações perigosas
+Reacção exotérmica com:
+Metais alcalinos terrosos
+alcoolatos
+Metais alcalinos
+Em caso de libertação de:
+Hidrogênio
+Reacções violentas são possíveis com:
+Agentes oxidantes fortes
+10.4 Condições a serem evitadas
+Aquecimento.
+10.5 Materiais incompatíveis
+borracha, diversos materiais plásticos
+10.6 Produtos perigosos de decomposição
+Em caso de incendio: veja-se secção 5
+11. INFORMAÇÕES TOXICOLÓGICAS
+11.1 Informações sobre efeitos toxicológicos
+Toxicidade aguda
+Oral: dados não disponíveis
+Sintomas: Perigo de aspiração após vómito., A aspiração pode causar edema pulmonar e
+pneumonia.
+CL50 Inalação - Rato - masculino e feminino - 4 h - > 33.8 mg/l - vapor
+(Diretriz de Teste de OECD 403)
+Sintomas: Possiveis concequências:, irritação das mucosas
+DL50 Dérmico - Coelho - macho - 4,032 mg/kg
+(Diretriz de Teste de OECD 402)
+Corrosão/irritação à pele.
+Pele - Coelho
+Resultado: Não provoca irritação na pele
+(Diretriz de Teste de OECD 404)
+Lesões oculares graves/irritação ocular
+Olhos - Coelho
+Resultado: Provoca lesões oculares graves.
+Millipore- 1.00996 Página 7 de 11
+The life science business of Merck operates as MilliporeSigma in
+the US and Canada
+(Diretriz de Teste de OECD 405)
+Sensibilização respiratória ou à pele
+Teste de maximização - Cobaia
+Resultado: negativo
+Observações: (ECHA)
+Teste do selo: - Humano
+Resultado: negativo
+Observações: (IUCLID)
+Mutagenicidade em células germinativas
+Tipos de testes: Teste de Ames
+Sistema de teste: Escherichia coli/Salmonella typhimurium
+Ativação metabólica: com ou sem ativação metabólica
+Método: Diretriz de Teste de OECD 471
+Resultado: negativo
+Tipos de testes: Teste de mutação de genes em células de mamíferos in vitro
+Sistema de teste: Célular ovarianas de hamster chinês
+Ativação metabólica: com ou sem ativação metabólica
+Método: Diretriz de Teste de OECD 476
+Resultado: negativo
+Tipos de testes: Mutagenicidade(teste em célula de mamifero): aberração de
+cromossomas.
+Sistema de teste: Células pulmonares de hamster chinês
+Ativação metabólica: com ou sem ativação metabólica
+Método: Diretriz de Teste de OECD 473
+Resultado: negativo
+Carcinogenicidade
+dados não disponíveis
+Toxicidade à reprodução
+dados não disponíveis
+Toxicidade sistêmica de órgão-alvo específico - exposição única
+Pode provocar sonolência ou vertigem. - Sistema nervoso central
+Toxicidade sistêmica de órgão-alvo específico - exposição repetida
+dados não disponíveis
+Perigo por aspiração.
+dados não disponíveis
+11.2 Informação adicional
+Depressão do sistema nervoso central, a exposição prolongada ou repetida pode provocar:,
+narcose, Irritação da pele
+Até onde sabemos, as propriedades químicas, físicas e toxicológicas não foram
+minuciosamente investigadas.
+Efeitos sistémicos:
+Dor de cabeça
+Vertigens
+embriagado
+Inconsciência
+narcose
+Depois da ingestão de grandes quantidades:
+Millipore- 1.00996 Página 8 de 11
+The life science business of Merck operates as MilliporeSigma in
+the US and Canada
+Coma
+Outras propriedades perigosas não podem ser excluídas.
+Manusear de acordo com as boas práticas industriais de higiene e segurança.
+12. INFORMAÇÕES ECOLÓGICAS
+12.1 Toxicidade
+Toxicidade para os Ensaio por escoamento CL50 - Pimephales promelas (vairão gordo) -
+peixes 4,555 mg/l - 96 h
+(Diretriz de Teste de OECD 203)
+Toxicidade em Ensaio estático CE50 - Daphnia magna (pulga d'água ou dáfnia) -
+daphnias e outros 3,644 mg/l - 48 h
+invertebrados (DIN 38412)
+aquáticos.
+Toxicidade para as Ensaio estático CE50r - Pseudokirchneriella subcapitata (alga verde) -
+algas 9,170 mg/l - 48 h
+Observações: (ECHA)
+Toxicidade para as Ensaio estático CI50 - lodo ativado - > 1,000 mg/l - 3 h
+bactérias (Diretrizes para o teste 209 da OECD)
+12.2 Persistência e degradabilidade
+Biodegradabilidade aeróbio - Duração da exposição 20 d
+Resultado: 75 % - Rapidamente biodegradável.
+Observações: (ECHA)
+Demanda química de 2,230 mg/g
+oxigênio (DQO) Observações: (IUCLID)
+Demanda teórica de 2,400 mg/g
+oxigênio Observações: (Literatura)
+Relação BOD/ThBOD < 2 %
+12.3 Potencial bioacumulativo
+O produto é miscível na água e prontamente biodegradável, tanto na água como no solo.
+Não se espera que seja acumulativo.
+12.4 Mobilidade no solo
+dados não disponíveis
+12.5 Resultados da avaliação PBT e vPvB
+A valoração de PBT / mPmB não está disponível já que a avaliação de segurança química
+não é necessária / não se realizou
+12.6 Propriedades desreguladoras do sistema endócrino
+dados não disponíveis
+12.7 Outros efeitos adversos
+Millipore- 1.00996 Página 9 de 11
+The life science business of Merck operates as MilliporeSigma in
+the US and Canada
+13. CONSIDERAÇÕES SOBRE TRATAMENTO E DISPOSIÇÃO
+13.1 Métodos de tratamento de resíduos
+Produto
+O material residual deve ser eliminado de acordo com os regulamentos nacionais e locais.
+Deixar os produtos químicos nos recipientes originais. Não misturar com outros materiais
+residuais. Manusear os recipientes não limpos como o próprio produto. As advertências
+de perigo e recomendações de prudência apresentadas na etiqueta aplicam-se também a
+todos os resíduos deixados no recipiente. Uma eliminação ou reciclagem descontrolada
+desta embalagem não é permitida e pode ser perigosa. A embalagem tem de ser
+incinerada numa instalação de incineração adequada que disponha de uma autorização
+fornecida pelas autoridades competentes.
+14. INFORMAÇÕES SOBRE TRANSPORTE
+14.1 Número ONU
+ADR/RID: 1274 DOT (US): 1274 IMDG: 1274 IATA: 1274 ANTT: 1274
+14.2 Nome de embarque correto da ONU
+ADR/RID: n-PROPANOL
+DOT (US): n-Propanol
+IMDG: n-PROPANOL
+IATA: n-Propanol
+ANTT: n-PROPANOL
+14.3 Classes de riscos de transporte
+ADR/RID: 3 DOT (US): 3 IMDG: 3 IATA: 3 ANTT: 3
+14.4 Grupo de embalagem
+ADR/RID: II DOT (US): II IMDG: II IATA: II ANTT: II
+14.5 Perigos ambientais
+ADR/RID: não DOT (US): não IMDG Poluente IATA: não
+marinho: não
+14.6 Precauções especiais para os usuários
+dados não disponíveis
+14.7 Numero De Risco
+15. REGULAMENTAÇÕES
+15.1 Normas de segurança, saúde e ambientais específicas para a substância ou
+mistura
+Esta Ficha de Informações de Produtos Químicos foi preparada de acordo com a NBR
+14725-4/2014 da ABNT (Associação Brasileira de Normas Técnicas)
+16. OUTRAS INFORMAÇÕES
+Informações complementares
+Acredita-se que as informações acima estejam correctas, embora não pretendam ser
+totalmente abrangentes, devendo ser usadas apenas como um guia. A informação
+contida neste documento esta baseada no presente estado do nosso conhecimento e é
+Millipore- 1.00996 Página 10 de 11
+The life science business of Merck operates as MilliporeSigma in
+the US and Canada
+aplicável ás precauções de segurança apropriadas para o produto. Não representa
+nenhuma garantia das propriedades do produto. A Corporação Sigma-Aldrich e as suas
+companhias afiliadas, não responderão por nenhum dano resultante do manuseio ou do
+contato com o produto acima. Consultar www.sigma-aldrich.com e/ou o verso da
+factura ou nota que acompanha o produto para tomar conhecimento dos termos
+adicionais e condições de venda.
+Direitos exclusivos, 2020, da Sigma-Aldrich Co. LLC. Permissão concedida para fazer
+número ilimitado de cópias em papel, somente para uso interno.
+A marca no cabeçalho e/ou rodapé deste documento pode não corresponder
+temporariamente ao produto adquirido, uma vez que alteramos a nossa marca. No
+entanto, todas as informações no documento referentes ao produto não sofreram
+alterações e correspondem ao produto encomendado. Para obter mais informações,
+envie um e-mail para mlsbranding@sial.com.
+Millipore- 1.00996 Página 11 de 11
+The life science business of Merck operates as MilliporeSigma in
+the US and Canada

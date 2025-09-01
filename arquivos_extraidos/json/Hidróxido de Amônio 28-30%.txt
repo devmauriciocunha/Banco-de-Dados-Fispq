@@ -1,0 +1,385 @@
+| FICHA DE SEGURANÇA
+De acordo com a norma NBR 14725-4:2014 | FISPQ No. 2107
+ | | Página 1 de 5
+1. Identificação do produto e da empresa
+Identificação da substância/preparação
+Referência do produto:
+Nome do produto: HIDROXIDO DE AMONIO 28-30%
+Identificação da sociedade/empresa
+Empresa: CONTROL LAB COM. DE PROD. P/LAB. LTDA
+Rua Niterói, 81, CEP 83010-600 – São Jose dos Pinhais - Paraná - Brasil
+Tel (0xx41) 32821090 - Fax (0xx41) 32821090 e-Mail: contato@ctrl-lab.com.br
+2. Iden | tificação de perigos
+CLASSIFICAÇÃO DE PERIGO DO PRODUTO (ABNT NBR 14725-2)
+Corrosivo para os metais (Categoria 1)
+Lesão na pele (Categoria 1B)
+Toxicidade sistêmica de órgão-alvo específico – exposição única (Categoria 3)
+Toxicidade aguda em meio aquático – (Categoria 1)
+ELEMENTOS APROPRIADOS DA ROTULAGEM (ABNT NBR 14725-3)
+Pictogramas:
+Palavra de Advertência: Perigo!
+Frases de Perigo:
+H290 Pode ser corrosivo a metais.
+H314 Causa queimadura severa a pele e dano aos olhos
+H335 Pode causar irritação respiratória
+H400 Muito tóxico para a vida aquática
+Frases de Precaução:
+P273 Evitar a libertação para o ambiente.
+P280 Usar luvas de proteção/ vestuário de proteção/ proteção ocular/ proteção facial.
+P301 + P330 + P331EM CASO DE INGESTÃO: Enxágue a boca. NÃO provoque vômito.
+P304 + P340 SE INALADO: Remover a vítima para um ambiente de ar puro e permanecer em repouso em
+uma posição confortável para respirar.
+P305 + P351 + P338 SE NOS OLHOS: Lavar cuidadosamente com água durante vários minutos. Remover as
+lentes de contato, se presentes e de fácil remoção. Continue enxaguando.
+P309 + P310 EM CASO DE exposição ou de indisposição; Contate imediatamente um CENTRO DE
+INFORMAÇÃO ANTIVENENOS ou um médico.
+NATIONAL FIRE PROTECTION ASSOCIATION (NFPA) | 
+FISPQ No. 2107
+FICHA DE SEGURANÇA
+De acordo com a norma NBR 14725-4:2014 Página 1 de 5
+Data da emissão: 03/07/2012 No. da revisão: 04
+1. Identificação do produto e da empresa
+Identificação da substância/preparação
+Referência do produto:
+Nome do produto: HIDROXIDO DE AMONIO 28-30%
+Identificação da sociedade/empresa
+Empresa: CONTROL LAB COM. DE PROD. P/LAB. LTDA
+Rua Niterói, 81, CEP 83010-600 – São Jose dos Pinhais - Paraná - Brasil
+Tel (0xx41) 32821090 - Fax (0xx41) 32821090 e-Mail: contato@ctrl-lab.com.br
+2. Identificação de perigos
+CLASSIFICAÇÃO DE PERIGO DO PRODUTO (ABNT NBR 14725-2)
+Corrosivo para os metais (Categoria 1)
+Lesão na pele (Categoria 1B)
+Toxicidade sistêmica de órgão-alvo específico – exposição única (Categoria 3)
+Toxicidade aguda em meio aquático – (Categoria 1)
+ELEMENTOS APROPRIADOS DA ROTULAGEM (ABNT NBR 14725-3)
+Pictogramas:
+Palavra de Advertência: Perigo!
+Frases de Perigo:
+H290 Pode ser corrosivo a metais.
+H314 Causa queimadura severa a pele e dano aos olhos
+H335 Pode causar irritação respiratória
+H400 Muito tóxico para a vida aquática
+Frases de Precaução:
+P273 Evitar a libertação para o ambiente.
+P280 Usar luvas de proteção/ vestuário de proteção/ proteção ocular/ proteção facial.
+P301 + P330 + P331EM CASO DE INGESTÃO: Enxágue a boca. NÃO provoque vômito.
+P304 + P340 SE INALADO: Remover a vítima para um ambiente de ar puro e permanecer em repouso em
+uma posição confortável para respirar.
+P305 + P351 + P338 SE NOS OLHOS: Lavar cuidadosamente com água durante vários minutos. Remover as
+lentes de contato, se presentes e de fácil remoção. Continue enxaguando.
+P309 + P310 EM CASO DE exposição ou de indisposição; Contate imediatamente um CENTRO DE
+INFORMAÇÃO ANTIVENENOS ou um médico.
+NATIONAL FIRE PROTECTION ASSOCIATION (NFPA)
+ | FICHA DE SEGURANÇA
+De acordo com a norma NBR 14725-4:2014 | FISPQ No. 2107
+ | | Página 2 de 5
+3. Composição e informação sobre os ingredientes | 
+Nome comum: Hidróxido de Amônio 28-30%
+N° CAS: 1336-21-6
+Peso molecular: 35,05 g/mol
+Fórmula química: NH4OH.H2O | 
+4. Medidas de primeiros socorros | 
+Após a inalação: Exposição ao ar fresco. Chamar imediatamente um médico.
+Após contato com a pele: Lavar abundantemente com. Tirar as roupas e calçados contaminados. Chamar
+um médico. Limpar com algodão embebido em polietilenoglicol 400.
+Após contato com os olhos: Em caso de contato com os olhos, lavar com água em abundância por, no
+mínimo, 10 minutos. Separar as pálpebras com os dedos para garantir uma lavagem adequada. Chamar um
+médico.
+Após a ingestão: Beber muita água (vários litros). Evitar o vômito (risco de perfuração!). Chamar
+imediatamente um médico. Não tentar neutralizar a substância. | 
+5. Medidas de combate a incêndio | 
+Meios adequados de extinção: As medidas tomadas devem estar de acordo com as circunstâncias locais e
+com o meio ambiente.
+Riscos especiais: Não combustível. Pode formar misturar explosivas com o ar em caso de aquecimento no
+estado vapor/gás. Risco de formação de fumos perigosos em caso de incêndio. Pode também formar-se óxido
+nítrico.
+Equipamento especial de proteção para o combate ao incêndio: Equipamento de proteção: Utilizar
+aparelho de respiração autônomo e vestimenta de proteção para impedir o contato com a pele e com os olhos.
+Outras informações: Esfriar o recipiente com água de pulverização. Evitar a infiltração da água de extinção
+nas águas superficiais ou nas águas subterrâneas. | 
+6. Medidas de controle para derramamento ou vazamentos | 
+Medidas de proteção para as pessoas: Não inalar os vapores/aerossóis. Evitar o contato com a substância.
+Garantir a ventilação com ar fresco em recintos fechados.
+Medidas de proteção do meio ambiente: Não permita que entre para a canalização de águas residuais.
+Procedimentos de limpeza / absorção: Absorver com absorvente e neutralizante de líquidos. Proceder à
+eliminação de resíduos. Limpar a área afetada. | 
+7. Manuseio e armazenamento | 
+• MANUSEIO
+Indicações para manuseio seguro: Não respirar os vapores/aerossóis. Não deixar que toque nos olhos, na
+pele ou no vestuário. Evitar a exposição prolongada ou repetida.
+• ARMAZENAMENTO
+Hermeticamente fechado. À temperatura entre 2-25°C; | 
+8. Controle de exposição e proteção individual | 
+• CONTROLE DE EXPOSIÇÃO
+Medidas de controle de engenharia: Ventilação local adequada, sistema de exaustão e outros controles de
+engenharia necessários para manter os níveis de exposição abaixo dos limites recomendados. Chuveiros de | 
+FISPQ No. 2107
+FICHA DE SEGURANÇA
+De acordo com a norma NBR 14725-4:2014 Página 2 de 5
+Nome do produto: Hidróxido de Amônio 28-30% Referência do produto: ALPHA437
+Data da revisão: 03/07/2016 No. da revisão: 04
+3. Composição e informação sobre os ingredientes
+Nome comum: Hidróxido de Amônio 28-30%
+N° CAS: 1336-21-6
+Peso molecular: 35,05 g/mol
+Fórmula química: NH4OH.H2O
+4. Medidas de primeiros socorros
+Após a inalação: Exposição ao ar fresco. Chamar imediatamente um médico.
+Após contato com a pele: Lavar abundantemente com. Tirar as roupas e calçados contaminados. Chamar
+um médico. Limpar com algodão embebido em polietilenoglicol 400.
+Após contato com os olhos: Em caso de contato com os olhos, lavar com água em abundância por, no
+mínimo, 10 minutos. Separar as pálpebras com os dedos para garantir uma lavagem adequada. Chamar um
+médico.
+Após a ingestão: Beber muita água (vários litros). Evitar o vômito (risco de perfuração!). Chamar
+imediatamente um médico. Não tentar neutralizar a substância.
+5. Medidas de combate a incêndio
+Meios adequados de extinção: As medidas tomadas devem estar de acordo com as circunstâncias locais e
+com o meio ambiente.
+Riscos especiais: Não combustível. Pode formar misturar explosivas com o ar em caso de aquecimento no
+estado vapor/gás. Risco de formação de fumos perigosos em caso de incêndio. Pode também formar-se óxido
+nítrico.
+Equipamento especial de proteção para o combate ao incêndio: Equipamento de proteção: Utilizar
+aparelho de respiração autônomo e vestimenta de proteção para impedir o contato com a pele e com os olhos.
+Outras informações: Esfriar o recipiente com água de pulverização. Evitar a infiltração da água de extinção
+nas águas superficiais ou nas águas subterrâneas.
+6. Medidas de controle para derramamento ou vazamentos
+Medidas de proteção para as pessoas: Não inalar os vapores/aerossóis. Evitar o contato com a substância.
+Garantir a ventilação com ar fresco em recintos fechados.
+Medidas de proteção do meio ambiente: Não permita que entre para a canalização de águas residuais.
+Procedimentos de limpeza / absorção: Absorver com absorvente e neutralizante de líquidos. Proceder à
+eliminação de resíduos. Limpar a área afetada.
+7. Manuseio e armazenamento
+• MANUSEIO
+Indicações para manuseio seguro: Não respirar os vapores/aerossóis. Não deixar que toque nos olhos, na
+pele ou no vestuário. Evitar a exposição prolongada ou repetida.
+• ARMAZENAMENTO
+Hermeticamente fechado. À temperatura entre 2-25°C;
+8. Controle de exposição e proteção individual
+• CONTROLE DE EXPOSIÇÃO
+Medidas de controle de engenharia: Ventilação local adequada, sistema de exaustão e outros controles de
+engenharia necessários para manter os níveis de exposição abaixo dos limites recomendados. Chuveiros de
+ | FICHA DE SEGURANÇA
+De acordo com a norma NBR 14725-4:2014 | FISPQ No. 2107
+ | | Página 3 de 5
+9. Propriedades físico-químicas | 
+Forma: Líquido Ponto de fulgor: Não disponível
+Cor: Incolor Temperatura de auto-ignição: Não disponível
+Odor: Pungente Limite de explosividade superior: Não disponível
+pH (20ºC: Fortemente alcalino Limite de explosividade inferior: Não disponível
+Ponto de fusão: ~ -77ºC Pressão de vapor (20ºC): ~685 hPa
+Ponto de ebulição: 30°C Densidade de vapor: ~0,91g/cm3
+Temperatura de decomposição: Não disponível Solubilidade (20ºC) (água): Solúvel
+Densidade: 1,22 g/cm3 Taxa de evaporação: Não disponível
+Viscosidade dinâmica: Não disponível Coeficiente de partição octanol/água: -2,1 | 
+10. Estabilidade e reatividade | 
+Condições a serem evitadas:
+Forte Aquecimento.
+Substâncias a serem evitadas:
+Risco de explosão e/ou formação de gás tóxico com as seguintes substâncias: Soluções fortes de hidróxidos
+alcalinos (pode formar amoníaco), acroleína, hidrogeneto de antimônio/calor, boro, brometo de hidrogênio,
+cloratos, cloreto de hidrogênio, CrO3 , cloreto de cromilo, sulfato de dimetilo, óxido de etileno (polimerização), fluoreto de hidrogênio,
+halogênios, compostos halogênio-halogênio, óxidos de halogênios, dióxido de carbono,
+ar, oxidante, fosfogênio, óxidos de fósforo, mercúrio/água, ácido nítrico, oxigênio, ácidos, dióxidos de enxofre,
+sulfureto de hidrogênio, composto de prata (durante a conservação), óxido nítrico, tricloreto de azoto
+(decomposição), peróxido de hidrogênio, prata, chumbo, zinco, metais pesados, sais de metais pesados.
+Produtos de decomposição perigosa:
+Não existem indicações
+Outras informações:
+Incompatível com diversos metais como zinco, cobre, alumínio e chumbo. | 
+FISPQ No. 2107
+FICHA DE SEGURANÇA
+De acordo com a norma NBR 14725-4:2014 Página 3 de 5
+Nome do produto: Hidróxido de Amônio 28-30% Referência do produto: ALPHA437
+Data da revisão: 03/07/2016 No. da revisão: 04
+emergência e lava-olhos devem estar próximos ao local de trabalho.
+Limites de exposição ocupacional (NR-15)
+Limite de Tolerância (LT) (48 h/semana): 20 ppm ou 14 mg/m3
+Valor Teto (VT): Não há
+Grau de Insalubridade (GI): Médio
+• PROTEÇÃO INDIVIDUAL
+As características dos meios de proteção para o corpo devem ser selecionadas em função da concentração e
+da quantidade das substâncias tóxicas de acordo com as condições específicas do local de trabalho. A
+resistência dos meios de proteção aos agentes químicos deve ser esclarecida junto dos fornecedores.
+Proteção respiratória: Necessária em caso de formação de vapores e ou aerossóis. Filtro K.
+Proteção dos olhos: Necessária, como óculos de segurança química.
+Proteção das mãos: Luvas compatíveis resistentes a produtos químicos. Aconselha-se a utilização do
+material butilo para contato total, assim como para contato com o produto derramado.
+Proteção da pele e do corpo: Roupas protetoras (Avental de segurança)
+Higiene Industrial: Mudar imediatamente a roupa contaminada. Profilaxia cutânea. Depois de terminar o
+trabalho, lavar as mãos e o rosto.
+9. Propriedades físico-químicas
+Forma: Líquido Ponto de fulgor: Não disponível
+Cor: Incolor Temperatura de auto-ignição: Não disponível
+Odor: Pungente Limite de explosividade superior: Não disponível
+pH (20ºC: Fortemente alcalino Limite de explosividade inferior: Não disponível
+Ponto de fusão: ~ -77ºC Pressão de vapor (20ºC): ~685 hPa
+Ponto de ebulição: 30°C Densidade de vapor: ~0,91g/cm3
+Temperatura de decomposição: Não disponível Solubilidade (20ºC) (água): Solúvel
+Densidade: 1,22 g/cm3 Taxa de evaporação: Não disponível
+Viscosidade dinâmica: Não disponível Coeficiente de partição octanol/água: -2,1
+10. Estabilidade e reatividade
+Condições a serem evitadas:
+Forte Aquecimento.
+Substâncias a serem evitadas:
+Risco de explosão e/ou formação de gás tóxico com as seguintes substâncias: Soluções fortes de hidróxidos
+alcalinos (pode formar amoníaco), acroleína, hidrogeneto de antimônio/calor, boro, brometo de hidrogênio,
+cloratos, cloreto de hidrogênio, CrO3 , cloreto de cromilo, sulfato de dimetilo, óxido de etileno (polimerização), fluoreto de hidrogênio,
+halogênios, compostos halogênio-halogênio, óxidos de halogênios, dióxido de carbono,
+ar, oxidante, fosfogênio, óxidos de fósforo, mercúrio/água, ácido nítrico, oxigênio, ácidos, dióxidos de enxofre,
+sulfureto de hidrogênio, composto de prata (durante a conservação), óxido nítrico, tricloreto de azoto
+(decomposição), peróxido de hidrogênio, prata, chumbo, zinco, metais pesados, sais de metais pesados.
+Produtos de decomposição perigosa:
+Não existem indicações
+Outras informações:
+Incompatível com diversos metais como zinco, cobre, alumínio e chumbo.
+ | FICHA DE SEGURANÇA
+De acordo com a norma NBR 14725-4:2014 | FISPQ No. 2107
+ | | Página 4 de 5
+11. Informações toxicológicas | 
+• TOXICIDADE AGUDA
+LC50 (inalação, rato): 1,14 mg/L/4h (substância anidra) (RETCS)
+LD50 (oral, rato): 350 mg/kg (solução a 29%) (RTECS)
+LDLo (oral, humano): 43 mg/kg (solução a 29%) (RTECS)
+Sintomas específicos em estudos com animais:
+Teste de irritação dos olhos (coelho): Irritações severas (solução a 29%) (RTECS)
+Teste de irritação da pele (coelho): Irritações severas (solução a 29%) (RTECS)
+• TOXICIDADE SUBAGUDA OU CRÔNICA
+Sensibilização:
+Teste do selo (cobaia): negativo (substância anidra) (IUCLID)
+Mutagenicidade:
+Mutagenicidade bacteriana: Salmonella typhimurium: negativa (substância anidra) (IUCLID)
+Mutagenicidade bacteriana: Escherichia coli: negativa (substância anidra) (IUCLID)
+• OUTRAS INFORMAÇÕES TOXICOLÓGICAS
+Após a inalação: Tosse, bronquite, edema pulmonar. Quando são produzidos vapores/aerossóis: efeito
+fortemente irritante.
+Após contato com a pele: Possíveis feitos irritantes e cáusticos como dermatite e necrose.
+Depois do contato com os olhos: Queimadura. Perigo de cegueira!
+Após ingestão: Irritação das mucosas, dores de estômago, vômito com sangue. Perigo de perfuração do
+esôfago e do estômago. Efeitos sistêmicos: Náuseas, colapso, choque, dispnéia, desmaio. | 
+12. Informações ecológicas | 
+• TOXICIDADE:
+Efeitos biológicos: Muito tóxico para organismos aquáticos. Efeitos prejudiciais devido à mudança de pH.
+Apesar da diluição, forma misturas tóxicas em água.
+Toxicidade nos peixes: Onchorhynchus mukiss LC50: 0,53 mg/L/96h (substância anidra)
+Toxicidade em Daphnia: Daphnia magna CE50: 24 mg/L/48h (substância anidra)
+Toxicidade em bactérias: Photobacterium phosphoreum CE50: 2mg/L/5 min (substância anidra)
+• DEGRADAÇÃO BIOLÓGICA:
+Degradação abiótica:
+Degradação lenta.
+Degradação biológica:
+Dificilmente biodegradável
+• POTENCIAL BIOACUMULATIVO:
+Distribuição: log Pow: -1,38 (substância anidra)
+Não se prevê qualquer bioacumulação. (log Pow < 1) (substância anidra).
+• OUTROS EFEITOS ADVERSOS:
+Não permita a entrada em águas residuais ou solos! | 
+13. Considerações sobre tratamento e disposição | 
+• PRODUTO | 
+FISPQ No. 2107
+FICHA DE SEGURANÇA
+De acordo com a norma NBR 14725-4:2014 Página 4 de 5
+Nome do produto: Hidróxido de Amônio 28-30% Referência do produto: ALPHA437
+Data da revisão: 03/07/2016 No. da revisão: 04
+Susceptível de formar misturas explosivas com o ar em caso de aquecimento no estado de vapor/gás.
+11. Informações toxicológicas
+• TOXICIDADE AGUDA
+LC50 (inalação, rato): 1,14 mg/L/4h (substância anidra) (RETCS)
+LD50 (oral, rato): 350 mg/kg (solução a 29%) (RTECS)
+LDLo (oral, humano): 43 mg/kg (solução a 29%) (RTECS)
+Sintomas específicos em estudos com animais:
+Teste de irritação dos olhos (coelho): Irritações severas (solução a 29%) (RTECS)
+Teste de irritação da pele (coelho): Irritações severas (solução a 29%) (RTECS)
+• TOXICIDADE SUBAGUDA OU CRÔNICA
+Sensibilização:
+Teste do selo (cobaia): negativo (substância anidra) (IUCLID)
+Mutagenicidade:
+Mutagenicidade bacteriana: Salmonella typhimurium: negativa (substância anidra) (IUCLID)
+Mutagenicidade bacteriana: Escherichia coli: negativa (substância anidra) (IUCLID)
+• OUTRAS INFORMAÇÕES TOXICOLÓGICAS
+Após a inalação: Tosse, bronquite, edema pulmonar. Quando são produzidos vapores/aerossóis: efeito
+fortemente irritante.
+Após contato com a pele: Possíveis feitos irritantes e cáusticos como dermatite e necrose.
+Depois do contato com os olhos: Queimadura. Perigo de cegueira!
+Após ingestão: Irritação das mucosas, dores de estômago, vômito com sangue. Perigo de perfuração do
+esôfago e do estômago. Efeitos sistêmicos: Náuseas, colapso, choque, dispnéia, desmaio.
+12. Informações ecológicas
+• TOXICIDADE:
+Efeitos biológicos: Muito tóxico para organismos aquáticos. Efeitos prejudiciais devido à mudança de pH.
+Apesar da diluição, forma misturas tóxicas em água.
+Toxicidade nos peixes: Onchorhynchus mukiss LC50: 0,53 mg/L/96h (substância anidra)
+Toxicidade em Daphnia: Daphnia magna CE50: 24 mg/L/48h (substância anidra)
+Toxicidade em bactérias: Photobacterium phosphoreum CE50: 2mg/L/5 min (substância anidra)
+• DEGRADAÇÃO BIOLÓGICA:
+Degradação abiótica:
+Degradação lenta.
+Degradação biológica:
+Dificilmente biodegradável
+• POTENCIAL BIOACUMULATIVO:
+Distribuição: log Pow: -1,38 (substância anidra)
+Não se prevê qualquer bioacumulação. (log Pow < 1) (substância anidra).
+• OUTROS EFEITOS ADVERSOS:
+Não permita a entrada em águas residuais ou solos!
+13. Considerações sobre tratamento e disposição
+• PRODUTO
+ | FICHA DE SEGURANÇA
+De acordo com a norma NBR 14725-4:2014 | FISPQ No. 2107
+ | | Página 5 de 5
+14. Informações sobre transporte | 
+• TERRESTRE
+Nome apropriado para embarque: AMÔNIA, SOLUÇÃO
+Nº. ONU: 2672
+Classe de Risco: 8
+Número de Risco: 80
+Grupo de Embalagem: III
+• HIDROVIÁRIO (IMDG-IMO)
+Classe: 8
+Nº. ONU: 2672
+Grupo de Embalagem: III
+N°EMS: F-A S-B
+Nome apropriado para embarque: AMMONIA SOLUTION
+• AÉREO (CAO- PAX)
+Nº. ONU: 2672
+Classe de Risco: 8
+Grupo de Embalagem: III
+Nome apropriado para embarque: AMMONIA SOLUTION | 
+15. Regulamentações | 
+NORMA ABNT NBR 14725-4:2014 | 
+16. Outras Informações | 
+As informações acima foram obtidas de fontes confiáveis. Embora estas não sejam totalmente abrangentes, apresentam um vasto
+conhecimento referente às características do produto, devendo ser usadas como um guia. A Control Lab não deverá
+ter responsabilidade legal por quaisquer danos resultantes do manuseio ou do contato com o produto acima. | 
+FISPQ No. 2107
+FICHA DE SEGURANÇA
+De acordo com a norma NBR 14725-4:2014 Página 5 de 5
+Nome do produto: Hidróxido de Amônio 28-30% Referência do produto: ALPHA437
+Data da revisão: 03/07/2016 No. da revisão: 04
+No tratamento e disposição do produto e da embalagem, deve-se atentar para a legislação nos âmbitos
+municipal, estadual e federal.
+• EMBALAGEM:
+Descontaminação: Lavar com água. Não reaproveitar as embalagens para outros fins.
+Eliminação: Reciclar após limpeza ou descartar em instalação autorizada.
+14. Informações sobre transporte
+• TERRESTRE
+Nome apropriado para embarque: AMÔNIA, SOLUÇÃO
+Nº. ONU: 2672
+Classe de Risco: 8
+Número de Risco: 80
+Grupo de Embalagem: III
+• HIDROVIÁRIO (IMDG-IMO)
+Classe: 8
+Nº. ONU: 2672
+Grupo de Embalagem: III
+N°EMS: F-A S-B
+Nome apropriado para embarque: AMMONIA SOLUTION
+• AÉREO (CAO- PAX)
+Nº. ONU: 2672
+Classe de Risco: 8
+Grupo de Embalagem: III
+Nome apropriado para embarque: AMMONIA SOLUTION
+15. Regulamentações
+NORMA ABNT NBR 14725-4:2014
+16. Outras Informações
+As informações acima foram obtidas de fontes confiáveis. Embora estas não sejam totalmente abrangentes, apresentam um vasto
+conhecimento referente às características do produto, devendo ser usadas como um guia. A Control Lab não deverá
+ter responsabilidade legal por quaisquer danos resultantes do manuseio ou do contato com o produto acima.

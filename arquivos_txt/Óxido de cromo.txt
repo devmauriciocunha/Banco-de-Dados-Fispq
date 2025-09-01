@@ -1,0 +1,802 @@
+SECÇÃO 1: Identificação da substância/mistura e da sociedade/empresa | 
+Nome | Rua | Código
+postal/ci-
+dade | Telefone | Sítio da inter-
+net
+Centro de Informação Antivene-
+nos | Rua Almirante Barroso, 36 | 1000-013
+Lisboa | 808 250 143 | 
+ | Código | | 
+postal/ | | | 
+ | | | 
+ | | dade | 
+Sítio da | | inter-
+ | | 
+ | net | 
+Centro de Informação | Antivene-
+Informações de segurança voluntárias em conformidade
+com o formato da ficha de dados de segurança segundo o
+regulamento (CE) n.º 1907/2006 (REACH)
+Óxido de cromo (III) ≥ 98%, extra puro
+número do artigo: 9886 data de elaboração: 24.08.2016
+Versão: 2.0 pt Revisão: 15.11.2021
+Substitui a versão de: 24.08.2016
+Versão: (1)
+SECÇÃO 1: Identificação da substância/mistura e da sociedade/empresa
+1.1 Identificador do produto
+Identificação da substância Óxido de cromo (III) ≥ 98%, extra puro
+Número do artigo 9886
+Número de registo (REACH) 01-2119433951-39-xxxx
+Número CE 215-160-9
+Número CAS 1308-38-9
+1.2 Utilizações identificadas relevantes da substância ou mistura e utilizações desaconselhadas
+Utilizações identificadas relevantes: Produto químico de laboratório
+Utilização laboratorial e analítica
+Utilizações desaconselhadas: Não utilizar para produtos que são destinados a
+contacto com alimentos. Não utilizar para fins
+particulares (domésticos).
+1.3 Identificação do fornecedor da ficha de dados de segurança
+Carl Roth GmbH + Co KG
+Schoemperlenstr. 3-5
+D-76185 Karlsruhe
+Alemanha
+Telefone:+49 (0) 721 - 56 06 0
+Telefax: +49 (0) 721 - 56 06 149
+e-mail: sicherheit@carlroth.de
+Sítio da internet: www.carlroth.de
+Pessoa competente responsável pela ficha de :Department Health, Safety and Environment
+dados de segurança:
+e-mail (pessoa competente): sicherheit@carlroth.de
+Fornecedor (importador): BetaLab Lda.
+Rua Sérgio Soares, 12-A Pendao
+2745-051 Queluz
++351 21 4358437
++351 21 4358439
+betalab@sapo.pt
+-
+1.4 Número de telefone de emergência
+Nome Rua Código Telefone Sítio da inter-
+postal/ci- net
+dade
+Centro de Informação Antivene- Rua Almirante Barroso, 36 1000-013 808 250 143
+nos Lisboa
+Portugal (pt) Página 1 / 14
+SECÇÃO 2: Identificação dos perigos | 
+SECÇÃO 3: Composição e informações sobre os ingredientes | 
+SECÇÃO 4: Medidas de primeiros socorros | 
+ | | | 
+ | | | 
+ | | | 
+ | | | 
+Informações de segurança voluntárias em conformidade
+com o formato da ficha de dados de segurança segundo o
+regulamento (CE) n.º 1907/2006 (REACH)
+Óxido de cromo (III) ≥ 98%, extra puro
+número do artigo: 9886
+1.5 Importador
+BetaLab Lda.
+Rua Sérgio Soares, 12-A Pendao
+2745-051 Queluz
+Portugal
+Telefone: +351 21 4358437
+Telefax: +351 21 4358439
+e-Mail: betalab@sapo.pt
+Sítio da internet: -
+SECÇÃO 2: Identificação dos perigos
+2.1 Classificação da substância ou mistura
+Classificação em conformidade com o Regulamento (CE) nº 1272/2008 (CRE)
+Esta substância não cumpre os critérios para a sua classificação de acordo com o Regulamento nº
+1272/2008/CE.
+2.2 Elementos do rótulo
+Rotulagem de acordo com o Regulamento (CE) nº. 1272/2008 (CRE)
+não é necessário
+2.3 Outros perigos
+Resultados da avaliação PBT e mPmB
+De acordo com os resultados da avaliação, esta substância não é uma substância PBT ou mPmB.
+SECÇÃO 3: Composição e informações sobre os ingredientes
+3.1 Substâncias
+Nome da substância Óxido de cromo (III)
+Fórmula molecular Cr₂O₃
+Massa molar 152 g/
+mol
+Nº de registo REACH 01-2119433951-39-xxxx
+Nº CAS 1308-38-9
+Nº CE 215-160-9
+SECÇÃO 4: Medidas de primeiros socorros
+4.1 Descrição das medidas de primeiros socorros
+Notas gerais
+Retirar a roupa contaminada.
+Após inalação
+Proporcionar ar fresco. Se surgirem queixas ou em caso de persistência dos sintomas, consultar um
+médico.
+Portugal (pt) Página 2 / 14
+SECÇÃO 5: Medidas de combate a incêndios | 
+SECÇÃO 6: Medidas a tomar em caso de fugas acidentais | 
+Informações de segurança voluntárias em conformidade
+com o formato da ficha de dados de segurança segundo o
+regulamento (CE) n.º 1907/2006 (REACH)
+Óxido de cromo (III) ≥ 98%, extra puro
+número do artigo: 9886
+Após contacto com a pele
+Enxaguar a pele com água/tomar uma ducha. Se surgirem queixas ou em caso de persistência dos
+sintomas, consultar um médico.
+Após contacto com os olhos
+Enxaguar cuidadosamente com água durante vários minutos. Se surgirem queixas ou em caso de
+persistência dos sintomas, consultar um médico.
+Após ingestão
+Enxaguar a boca. Caso sinta indisposição contacte um médico.
+4.2 Sintomas e efeitos mais importantes, tanto agudos como retardados
+Até ao momento, não são conhecidos os sintomas e efeitos.
+4.3 Indicações sobre cuidados médicos urgentes e tratamentos especiais necessários
+nenhum
+SECÇÃO 5: Medidas de combate a incêndios
+5.1 Meios de extinção
+Meios adequados de extinção
+coordenar as medidas de combate a incêndios com o ambiente do incêndio
+água, espuma, pó seco para extinção de incêndios, pó ABC
+Meios inadequados de extinção
+jacto de água
+5.2 Perigos especiais decorrentes da substância ou mistura
+Não combustível.
+5.3 Recomendações para o pessoal de combate a incêndios
+Em caso de incêndio e/ou explosão não respirar os fumos. Combater o incêndio tomando as precau-
+ções normais e a partir de uma distância razoável. Use equipamento de respiração autónomo.
+SECÇÃO 6: Medidas a tomar em caso de fugas acidentais
+6.1 Precauções individuais, equipamento de proteção e procedimentos de emergência
+Para o pessoal não envolvido na resposta à emergência
+Não são necessárias medidas expeciais.
+6.2 Precauções a nível ambiental
+Manter afastado dos esgotos, das águas superficiais e subterrâneas.
+6.3 Métodos e materiais de confinamento e limpeza
+Recomendações sobre como confinar um derrame
+Limpeza com material absorvente (por exemplo: tecido, lã). Remover utilizando meios mecânicos.
+Portugal (pt) Página 3 / 14
+SECÇÃO 7: Manuseamento e armazenagem | 
+SECÇÃO 8: Controlo da exposição/Proteção individual | 
+DNEL e outros níveis limite relevantes | | | | 
+Parâmetro de
+perigo | Nível limite | Objectivo de pro-
+tecção, via de ex-
+posição | Utilizado em | Tempo de exposição
+DNEL | 0,5 mg/m³ | humana, inalatória | trabalhador (indústria) | crónicos - efeitos locais
+DNEL | 2 mg/m³ | humana, inalatória | trabalhador (indústria) | agudos - efeitos locais
+Objectivo de | pro- | 
+ | | 
+tecção, via de | | ex-
+
+perigo
+
+posição
+Informações de segurança voluntárias em conformidade
+com o formato da ficha de dados de segurança segundo o
+regulamento (CE) n.º 1907/2006 (REACH)
+Óxido de cromo (III) ≥ 98%, extra puro
+número do artigo: 9886
+Recomendações sobre como proceder à limpeza de um derrame
+Remover utilizando meios mecânicos.
+Outras informações relacionadas com a actuação em caso de derrames ou emissões
+Colocar em recipientes adequados para eliminação.
+6.4 Remissão para outras secções
+Produtos de combustão perigosos: ver secção 5. Equipamento de protecção individual: ver secção 8.
+Materiais incompatíveis: ver secção 10. Condições relativas à eliminação: ver secção 13.
+SECÇÃO 7: Manuseamento e armazenagem
+7.1 Precauções para um manuseamento seguro
+Não são necessárias medias especiais.
+Recomendações de ordem geral sobre higiene no local de trabalho
+Manter afastado de alimentos e bebidas incluindo os dos animais.
+7.2 Condições de armazenagem segura, incluindo eventuais incompatibilidades
+Armazenar em local seco. Manter o recipiente bem fechado.
+Substâncias ou misturas incompatíveis
+Ter em conta as indicações sobre o armazenamento compatível de produtos químicos.
+Ter em conta outros conselhos:
+Concepção especial de compartimentos ou recipientes de armazenagem
+Temperatura de armazenagem recomendada: 15 – 25 °C
+7.3 Utilização(ões) final(is) específica(s)
+Não existe informação disponível.
+SECÇÃO 8: Controlo da exposição/Proteção individual
+8.1 Parâmetros de controlo
+Valores-limite nacionais
+Valores limite de exposição profissional (limites de exposição no local de trabalho)
+Esta informação não está disponível.
+Valores para a saúde humana
+DNEL e outros níveis limite relevantes
+Parâmetro de Nível limite Objectivo de pro- Utilizado em Tempo de exposição
+perigo tecção, via de ex-
+posição
+DNEL 0,5 mg/m³ humana, inalatória trabalhador (indústria) crónicos - efeitos locais
+DNEL 2 mg/m³ humana, inalatória trabalhador (indústria) agudos - efeitos locais
+Portugal (pt) Página 4 / 14
+PNEC e outros níveis limite relevantes | | | | 
+Parâme-
+tro de
+perigo | Nível limite | Organismo | Compartimento ambi-
+ental | Tempo de exposição
+PNEC | 0,005 mg/l | organismos aquáticos | água doce | curto-prazo (exposição úni-
+ca)
+PNEC | 0,005 mg/l | organismos aquáticos | água do mar | curto-prazo (exposição úni-
+ca)
+PNEC | 10 mg/l | organismos aquáticos | estação de tratamento de
+águas residuais (ETAR) | curto-prazo (exposição úni-
+ca)
+PNEC | 0,005 mg/l | organismos aquáticos | água | libertação intermitente
+PNEC | 18,2 mg/kg | organismos aquáticos | sedimento em água doce | curto-prazo (exposição úni-
+ca)
+PNEC | 3,2 mg/kg | organismos terrestres | solo | curto-prazo (exposição úni-
+ca)
+PNEC | 1,31 mg/kg | organismos aquáticos | sedimento marinho | curto-prazo (exposição úni-
+ca)
+Compartimento | ambi-
+
+tro de
+
+perigo
+
+enta
+curto-prazo (exposição | úni-
+curto-prazo (exposição | úni-
+10 | mg/
+curto-prazo (exposição | úni-
+18,2 | mg/
+curto-prazo (exposição | úni-
+3,2 | mg/k
+curto-prazo (exposição | úni-
+1,31 | mg/
+curto-prazo (exposição | úni-
+Informações de segurança voluntárias em conformidade
+com o formato da ficha de dados de segurança segundo o
+regulamento (CE) n.º 1907/2006 (REACH)
+Óxido de cromo (III) ≥ 98%, extra puro
+número do artigo: 9886
+Valores ambientais
+PNEC e outros níveis limite relevantes
+Parâme- Nível limite Organismo Compartimento ambi- Tempo de exposição
+tro de ental
+perigo
+PNEC 0,005 mg/l organismos aquáticos água doce curto-prazo (exposição úni-
+ca)
+PNEC 0,005 mg/l organismos aquáticos água do mar curto-prazo (exposição úni-
+ca)
+PNEC 10 mg/l organismos aquáticos estação de tratamento de curto-prazo (exposição úni-
+águas residuais (ETAR) ca)
+PNEC 0,005 mg/l organismos aquáticos água libertação intermitente
+PNEC 18,2 mg/kg organismos aquáticos sedimento em água doce curto-prazo (exposição úni-
+ca)
+PNEC 3,2 mg/kg organismos terrestres solo curto-prazo (exposição úni-
+ca)
+PNEC 1,31 mg/kg organismos aquáticos sedimento marinho curto-prazo (exposição úni-
+ca)
+8.2 Controlo da exposição
+Medidas de protecção individual (equipamentos de protecção individual)
+Protecção ocular/facial
+Usar óculos de segurança com protecção lateral.
+Protecção da pele
+• protecção das mãos
+Usar luvas adequadas. As luvas de protecção química adequadas, se testadas de acordo com a NE
+374.
+• tipo de material
+NBR (Borracha de nitrilo)
+• espessura do material
+>0,11 mm
+• duração do material das luvas
+> 480 minutos (permeação: nível 6)
+• outras medidas de protecção
+Fazer períodos de recuperação para a regeneração da pele. É recomendável a protecção preventiva
+da pele (cremes/pomadas de protecção).
+Portugal (pt) Página 5 / 14
+SECÇÃO 9: Propriedades físico-químicas | 
+Informações de segurança voluntárias em conformidade
+com o formato da ficha de dados de segurança segundo o
+regulamento (CE) n.º 1907/2006 (REACH)
+Óxido de cromo (III) ≥ 98%, extra puro
+número do artigo: 9886
+Protecção respiratória
+É necessária protecção respiratória quando: Desenvolvimento de poeiras. Dispositivo filtrador de par-
+tículas (NE 143). P1 (filtra pelo menos 80% das partículas em suspensão, código de cores: Branco).
+Controlo da exposição ambiental
+Manter afastado dos esgotos, das águas superficiais e subterrâneas.
+SECÇÃO 9: Propriedades físico-químicas
+9.1 Informações sobre propriedades físicas e químicas de base
+Estado físico sólido
+Forma pó cristalino
+Cor verde
+Odor sem odor
+Ponto de fusão/ponto de congelação 2.435 °C (ECHA)
+Ponto de ebulição ou ponto de ebulição inicial e 4.000 °C (ECHA)
+intervalo de ebulição
+Inflamabilidade não combustível
+Limite superior e inferior de explosividade não determinado
+Ponto de inflamação não aplicável
+Temperatura de autoignição não determinado
+Temperatura de decomposição não relevante
+pH (valor) não aplicável
+Viscosidade cinemática não relevante
+Solubilidade(s)
+Solubilidade em água (insolúvel (< 1 mg/l))
+Coeficiente de partição
+Coeficiente de partição n-octanol/água (valor não relevante (inorgânico)
+logarítmico):
+Pressão de vapor não determinado
+Densidade 5,22 g/ a 20 °C
+cm³
+Densidade relativa do vapor não está disponível informação relativa a esta
+propriedade
+Portugal (pt) Página 6 / 14
+SECÇÃO 10: Estabilidade e reatividad | e
+SECÇÃO 11: Informação toxicológica | 
+Toxicidade aguda | | | | | 
+Via de exposi-
+ção | Parâmetro de
+perigo | Valor | Espécies | Método | Fonte
+oral | LD50 | >5.000 mg/kg | rato | | ECHA
+inalatória: poeira/
+névoa | LC50 | >5,41 mg/l/4h | rato | | ECHA
+Via de | | exposi-
+ | | 
+ | ção | 
+
+perigo
+>5,41 | mg/ | l/4h
+Informações de segurança voluntárias em conformidade
+com o formato da ficha de dados de segurança segundo o
+regulamento (CE) n.º 1907/2006 (REACH)
+Óxido de cromo (III) ≥ 98%, extra puro
+número do artigo: 9886
+Características das partículas Sem dados disponíveis.
+Outros parâmetros de segurança
+Propriedades comburentes nenhum
+9.2 Outras informações
+Informações relativas às classes de perigo físico: classes de perigo de acordo com GHS
+(perigos físicos): não relevante
+Outras características de segurança: Não existe informação adicional.
+SECÇÃO 10: Estabilidade e reatividade
+10.1 Reactividade
+Este material não é reactivo em condições ambientais normais.
+10.2 Estabilidade química
+Sólido higroscópico.
+10.3 Possibilidade de reações perigosas
+Reage violentamente com: muito comburente
+10.4 Condições a evitar
+Manter ao abrigo da humidade.
+10.5 Materiais incompatíveis
+Não existe informação adicional.
+10.6 Produtos de decomposição perigosos
+Produtos de combustão perigosos: ver secção 5.
+SECÇÃO 11: Informação toxicológica
+11.1 Informações sobre as classes de perigo, tal como definidas no Regulamento (CE) n.o 1272/2008
+Classificação de acordo com o GHS (1272/2008/CE, CRE)
+Esta substância não cumpre os critérios para a sua classificação de acordo com o Regulamento nº
+1272/2008/CE.
+Toxicidade aguda
+Não deve ser classificado como gravemente tóxico.
+Toxicidade aguda
+Via de exposi- Parâmetro de Valor Espécies Método Fonte
+ção perigo
+oral LD50 >5.000 mg/kg rato ECHA
+inalatória: poeira/ LC50 >5,41 mg/l/4h rato ECHA
+névoa
+Corrosão/irritação cutânea
+Não deve ser classificado como corrosivo/irritante cutâneo.
+Portugal (pt) Página 7 / 14
+Informações de segurança voluntárias em conformidade
+com o formato da ficha de dados de segurança segundo o
+regulamento (CE) n.º 1907/2006 (REACH)
+Óxido de cromo (III) ≥ 98%, extra puro
+número do artigo: 9886
+Lesões oculares graves/irritação ocular
+Não deve ser classificado como susceptível de provocar lesões oculares graves ou irritante ocular.
+Sensibilização respiratória ou cutânea
+Não deve ser classificado como sensibilizante respiratório ou cutâneo.
+Mutagenicidade para as células germinais
+Não deve ser classificado como mutagénico para as células germinais.
+Carcinogenicidade
+Não deve ser classificado como cancerígeno.
+Toxicidade reprodutiva
+Não deve ser classificado como tóxico reprodutivo.
+Toxicidade para órgãos-alvo específicos - exposição única
+Não deve ser classificado como tóxico para órgãos-alvo específicos (exposição única).
+Toxicidade para órgãos-alvo específicos - exposição repetida
+Não deve ser classificado como tóxico para órgãos-alvo específicos (exposição repetida).
+Perigo de aspiração
+Não deve ser classificado como apresentando perigo de aspiração.
+Sintomas relacionados com as características físicas, químicas e toxicológicas
+• Em caso de ingestão
+Não estão disponíveis dados.
+• Se entrar em contacto com os olhos
+Não estão disponíveis dados.
+• Em caso de inalação
+Não estão disponíveis dados.
+• Se entrar em contacto com a pele
+O contacto frequente e prolongado com a pele pode causar iritação
+• Outras informações
+nenhum
+11.2 Propriedades desreguladoras do sistema endócrino
+Não referido.
+11.3 Informações sobre outros perigos
+Não existe informação adicional.
+Portugal (pt) Página 8 / 14
+SECÇÃO 12: Informação ecológica | 
+Toxicidade em meio aquático (aguda) | | | | 
+Parâmetro de perigo | Valor | Espécies | Fonte | Tempo de
+exposição
+LC50 | >10.000 mg/l | peixe | ECHA | 96 h
+Tempo de
+
+exposição
+>10.000 | mg/
+Toxicidade em meio aquático (crónica) | | | | 
+Parâmetro de perigo | Valor | Espécies | Fonte | Tempo de
+exposição
+EC50 | >10.000 mg/l | microrganismos | ECHA | 3 h
+Tempo de
+
+exposição
+>10.000 | mg/
+SECÇÃO 13: Considerações relativas à eliminação | 
+Informações de segurança voluntárias em conformidade
+com o formato da ficha de dados de segurança segundo o
+regulamento (CE) n.º 1907/2006 (REACH)
+Óxido de cromo (III) ≥ 98%, extra puro
+número do artigo: 9886
+SECÇÃO 12: Informação ecológica
+12.1 Toxicidade
+Não deve ser classificado como perigoso para o ambiente aquático.
+.
+Toxicidade em meio aquático (aguda)
+Parâmetro de perigo Valor Espécies Fonte Tempo de
+exposição
+LC50 >10.000 mg/l peixe ECHA 96 h
+Toxicidade em meio aquático (crónica)
+Parâmetro de perigo Valor Espécies Fonte Tempo de
+exposição
+EC50 >10.000 mg/l microrganismos ECHA 3 h
+Biodegradação
+Os métodos para determinação da degradabilidade biológica não são aplicáveis a substâncias inorgâ-
+nicas.
+12.2 Processo de degradabilidade
+Não estão disponíveis dados.
+12.3 Potencial de bioacumulação
+Não estão disponíveis dados.
+12.4 Mobilidade no solo
+Não estão disponíveis dados.
+12.5 Resultados da avaliação PBT e mPmB
+Não estão disponíveis dados.
+12.6 Propriedades desreguladoras do sistema endócrino
+Não referido.
+12.7 Outros efeitos adversos
+Não estão disponíveis dados.
+SECÇÃO 13: Considerações relativas à eliminação
+13.1 Métodos de tratamento de resíduos
+Para o tratamento dos resíduos, contactar a entidade responsável e autorizada para o tratamento.
+Informações relevantes relativas à descarga através das águas residuais
+Não deitar os resíduos no esgoto.
+Portugal (pt) Página 9 / 14
+SECÇÃO 14: Informações relativas ao transporte | 
+SECÇÃO 15: Informação sobre regulamentação | 
+Informações de segurança voluntárias em conformidade
+com o formato da ficha de dados de segurança segundo o
+regulamento (CE) n.º 1907/2006 (REACH)
+Óxido de cromo (III) ≥ 98%, extra puro
+número do artigo: 9886
+13.2 Disposições pertinentes em matéria de resíduos
+A atribuição de códigos de resíduos/classificação de resíduos específicos do ramo e do processo deve
+ocorrer de acordo com o regulamento para a classificação de resíduos segundo o CER (Catálogo Eu-
+ropeu de Resíduos). Portaria referente à lista de resíduos (Alemanha).
+13.3 Observações
+Deve fazer-se a triagem dos resíduos em categorias que possam ser tratadas separadamente pelas
+instalações, locais ou nacionais, de tratamento de resíduos. Tenha em conta a legislação nacional ou
+regional pertinente em vigor.
+SECÇÃO 14: Informações relativas ao transporte
+14.1 Número ONU ou número de ID não são submetidas a prescrições de transporte
+14.2 Designação oficial de transporte da ONU não atribuído
+14.3 Classes de perigo para efeitos de transporte nenhum
+14.4 Grupo de embalagem não atribuído
+14.5 Perigos para o ambiente não é perigoso para o ambiente de acordo com
+os regulamentos relativos a mercadorias perigo-
+sas
+14.6 Precauções especiais para o utilizador
+Não existe informação adicional.
+14.7 Transporte marítimo a granel em conformidade com os instrumentos da OMI
+A carga não será transportada como carga a granel.
+14.8 Informações para cada um dos regulamentos-tipo da ONU
+Transporte de mercadorias perigosas por estrada, por caminho-de-ferro ou por via navegável
+(ADR/RID/ADN) - Informações suplementares
+Não submetido ao ADR, RID ou ADN.
+Código Marítimo Internacional de Mercadorias Perigosas (IMDG) - Informações suplementares
+Não submetido ao IMDG.
+Organização da Aviação Civil Internacional (OACI-IATA/DGR) - Informações suplementares
+Não submetido ao OACI-IATA.
+SECÇÃO 15: Informação sobre regulamentação
+15.1 Regulamentação/legislação específica para a substância ou mistura em matéria de saúde,
+segurança e ambiente
+Disposições pertinentes da União Europeia (UE)
+Restrições de acordo com REACH, Apêndice XVII
+não referido
+Lista das substâncias sujeitas a autorização (REACH, Apêndice XIV)/SVHC - lista de substâncias
+candidatas
+Não referido.
+Portugal (pt) Página 10 / 14
+2012/18/UE (Seveso III) | | | 
+Nº | Substância perigosa/categorias de perigo | Quantidades-limiar (em toneladas) pa-
+ra a aplicação de requisitos de nível in-
+ferior e superior | Notas
+ | não atribuído | | 
+Quantidades-limiar (em toneladas) | pa-
+ | 
+ra a aplicação de requisitos de nível | in-
+
+ferior e superior
+Teor de COV | 0 %
+, 0 g/
+l
+Teor de COV | 0 %
+Teor de COV | 0 g/
+l
+Lista de poluentes (WFD) | | | | 
+Nome da substância | Nome, de acordo com o in-
+ventário | Nº CAS | Listada
+na/no(s) | Observações
+Óxido de cromo (III) | Metais e respectivos compostos | | A) | 
+Nome, de acordo com o | in-
+Listada
+
+na/no(s)
+
+ventário
+Informações de segurança voluntárias em conformidade
+com o formato da ficha de dados de segurança segundo o
+regulamento (CE) n.º 1907/2006 (REACH)
+Óxido de cromo (III) ≥ 98%, extra puro
+número do artigo: 9886
+Directiva Seveso
+2012/18/UE (Seveso III)
+Nº Substância perigosa/categorias de perigo Quantidades-limiar (em toneladas) pa- Notas
+ra a aplicação de requisitos de nível in-
+ferior e superior
+não atribuído
+Directiva Tintas Decorativas (Deco-Paints)
+Teor de COV 0 %
+, 0 g/
+l
+Industrial Emissions Directive (IED) (Directiva Emissões Industriais)
+Teor de COV 0 %
+Teor de COV 0 g/
+l
+Directiva relativa à restrição do uso de determinadas substâncias perigosas em equipamentos
+eléctricos e electrónicos (RoHS)
+não referido
+Regulamento relativo à criação do Registo Europeu das Emissões e Transferências de Poluentes
+(PRTR)
+não referido
+Diretiva Quadro Água (WFD)
+‑
+Lista de poluentes (WFD)
+Nome da substância Nome, de acordo com o in- Nº CAS Listada Observações
+ventário na/no(s)
+Óxido de cromo (III) Metais e respectivos compostos A)
+Legenda
+A) Lista indicativa dos principais poluentes
+Regulamento sobre a comercialização e utilização de precursores de explosivos
+não referido
+Regulamento relativo aos precursores de drogas
+não referido
+Regulamento relativo às substâncias que empobrecem a camada de ozono
+não referido
+Regulamento relativo à exportação e importação de produtos químicos perigosos (PIC)
+não referido
+Regulamento relativo a poluentes orgânicos persistentes (POP)
+não referido
+Portugal (pt) Página 11 / 14
+País | Inventário | Estatuto
+AU | AICS | a substância está listada
+CA | DSL | a substância está listada
+CN | IECSC | a substância está listada
+EU | ECSI | a substância está listada
+EU | REACH Reg. | a substância está listada
+JP | CSCL-ENCS | a substância está listada
+KR | KECI | a substância está listada
+MX | INSQ | a substância está listada
+NZ | NZIoC | a substância está listada
+PH | PICCS | a substância está listada
+TR | CICR | a substância está listada
+TW | TCSI | a substância está listada
+US | TSCA | a substância está listada
+SECÇÃO 16: Outras informações | 
+Informações de segurança voluntárias em conformidade
+com o formato da ficha de dados de segurança segundo o
+regulamento (CE) n.º 1907/2006 (REACH)
+Óxido de cromo (III) ≥ 98%, extra puro
+número do artigo: 9886
+Outras informações
+Directiva 94/33/CE relativa à protecção dos jovens no trabalho. Respeitar as restrições à ocupação de
+mulheres grávidas e lactantes, de acordo com a directiva regulamentar 92/85/CEE (relativa a medi-
+das destinadas a promover a melhoria da segurança e da saúde das trabalhadoras grávidas).
+Inventários nacionais
+País Inventário Estatuto
+AU AICS a substância está listada
+CA DSL a substância está listada
+CN IECSC a substância está listada
+EU ECSI a substância está listada
+EU REACH Reg. a substância está listada
+JP CSCL-ENCS a substância está listada
+KR KECI a substância está listada
+MX INSQ a substância está listada
+NZ NZIoC a substância está listada
+PH PICCS a substância está listada
+TR CICR a substância está listada
+TW TCSI a substância está listada
+US TSCA a substância está listada
+Legenda
+AICS Australian Inventory of Chemical Substances
+CICR Chemical Inventory and Control Regulation
+CSCL-ENCS List of Existing and New Chemical Substances (CSCL-ENCS)
+DSL Domestic Substances List (DSL)
+ECSI Inventário CE de substâncias (EINECS, ELINCS, NLP)
+IECSC Inventory of Existing Chemical Substances Produced or Imported in China
+INSQ National Inventory of Chemical Substances
+KECI Korea Existing Chemicals Inventory
+NZIoC New Zealand Inventory of Chemicals
+PICCS Philippine Inventory of Chemicals and Chemical Substances (PICCS)
+REACH Reg. REACH substâncias registadas
+TCSI Taiwan Chemical Substance Inventory
+TSCA Toxic Substance Control Act
+15.2 Avaliação da segurança química
+Não se efectuou nenhuma avaliação da segurança química para esta substância.
+SECÇÃO 16: Outras informações
+Indicação de alterações (ficha de dados de segurança revista)
+Alinhamento com o regulamento: Regulamento (CE) nº 1907/2006 (REACH), alterado por 2020/878/UE
+Reestruturação: secção 9, secção 14
+Portugal (pt) Página 12 / 14
+Secção | Registo anterior (texto/valor) | Registo actual (texto/valor) | Rele-
+vante
+em ter-
+mos de
+segu-
+rança
+2.2 | Palavra-sinal:
+não é necessário | | sim
+2.3 | Outros perigos:
+Não existe informação adicional. | Outros perigos | sim
+2.3 | | Resultados da avaliação PBT e mPmB:
+De acordo com os resultados da avaliação, esta
+substância não é uma substância PBT ou
+mPmB. | sim
+Rele- | 
+ | 
+vante | 
+ | 
+ | te
+ | 
+
+segu-
+
+rança
+Abrev. | Descrição das abreviaturas utilizadas
+ADN | Accord européen relatif au transport international des marchandises dangereuses par voies de navigati-
+on intérieures (Acordo Europeu relativo ao transporte internacional de mercadorias perigosas por via na-
+vegável interior)
+ADR | Accord relatif au transport international des marchandises dangereuses par voies de navigation intérieu-
+res (Acordo relativo ao transporte internacional de mercadorias perigosas por estrada)
+CAS | Chemical Abstracts Service (serviço que mantém a lista mais completa de substâncias químicas)
+COV | Compostos Orgânicos Voláteis
+CRE | Regulamento (CE) nº 1272/2008 relativo à classificação, rotulagem e embalagem de substâncias e mistu-
+ras
+DGR | Regulamentação referente a Mercadorias Perigosas (ver IATA/DGR)
+DNEL | Nível derivado de exposição sem efeitos
+EC50 | Effective Concentration 50 % (concentraçãoe fectiva 50 %). A EC50 corresponde à concentração de uma
+substância testada que provoca 50 % de alterações na resposta (por exemplo, no crescimento) durante
+um intervalo de tempo específico
+EINECS | European Inventory of Existing Commercial Chemical Substances (inventário europeu das substâncias
+químicas existentes no mercado)
+ELINCS | European List of Notified Chemical Substances (lista europeia das substâncias químicas notificadas)
+GHS | "Globally Harmonized System of Classification and Labelling of Chemicals" "Sistema Mundial Harmoniza-
+do de Classificação e Rotulagem de Produtos Químicos" desenvolvido pelas Nações Unidas
+IATA | Associação Internacional do Transporte Aéreo
+IATA/DGR | Dangerous Goods Regulations (DGR) for the air transport (IATA) (regulamentação referente a Mercadori-
+as Perigosas para o transporte aéreo)
+IMDG | International Maritime Dangerous Goods (Código Marítimo Internacional de Mercadorias Perigosas)
+LC50 | Concentração Letal 50 %: a CL50 corresponde à concentração de uma substância submetida a ensaio,
+que provoca 50 % de mortalidade durante um intervalo de tempo específico.
+LD50 | Dose Letal 50 %: a DL50 corresponde à dose de uma substância submetida a ensaio, que provoca 50 % de
+mortalidade durante um intervalo de tempo específico
+mPmB | Muito persistente e muito bioacumulável
+NLP | Ex-polímero
+Accord européen relatif au transport international des marchandises dangereuses par voies de | navigati
+n intérieures (Acordo Europeu relativo ao transporte internacional de mercadorias perigosas por via na | 
+ccord relatif au transport international des marchandises dangereuses par voies de navigation | | intérieu
+ | res (Acordo relativo ao transporte internacional de mercadorias perigosas por estrada | 
+Regulamento (CE) nº 1272/2008 relativo à classificação, rotulagem e embalagem de substâncias e | mistu
+Effective Concentration 50 % (concentraçãoe fectiva 50 %). A EC50 corresponde à concentração de uma
+substância testada que provoca 50 % de alterações na resposta (por exemplo, no crescimento) durante
+Globally Harmonized System of Classification and Labelling of Chemicals" "Sistema Mundial | Harmoniza
+Dangerous Goods Regulations (DGR) for the air transport (IATA) (regulamentação referente a | Mercadori
+Informações de segurança voluntárias em conformidade
+com o formato da ficha de dados de segurança segundo o
+regulamento (CE) n.º 1907/2006 (REACH)
+Óxido de cromo (III) ≥ 98%, extra puro
+número do artigo: 9886
+Secção Registo anterior (texto/valor) Registo actual (texto/valor) Rele-
+vante
+em ter-
+mos de
+segu-
+rança
+2.2 Palavra-sinal: sim
+não é necessário
+2.3 Outros perigos: Outros perigos sim
+Não existe informação adicional.
+2.3 Resultados da avaliação PBT e mPmB: sim
+De acordo com os resultados da avaliação, esta
+substância não é uma substância PBT ou
+mPmB.
+Abreviaturas e acrónimos
+Abrev. Descrição das abreviaturas utilizadas
+ADN Accord européen relatif au transport international des marchandises dangereuses par voies de navigati-
+on intérieures (Acordo Europeu relativo ao transporte internacional de mercadorias perigosas por via na-
+vegável interior)
+ADR Accord relatif au transport international des marchandises dangereuses par voies de navigation intérieu-
+res (Acordo relativo ao transporte internacional de mercadorias perigosas por estrada)
+CAS Chemical Abstracts Service (serviço que mantém a lista mais completa de substâncias químicas)
+COV Compostos Orgânicos Voláteis
+CRE Regulamento (CE) nº 1272/2008 relativo à classificação, rotulagem e embalagem de substâncias e mistu-
+ras
+DGR Regulamentação referente a Mercadorias Perigosas (ver IATA/DGR)
+DNEL Nível derivado de exposição sem efeitos
+EC50 Effective Concentration 50 % (concentraçãoe fectiva 50 %). A EC50 corresponde à concentração de uma
+substância testada que provoca 50 % de alterações na resposta (por exemplo, no crescimento) durante
+um intervalo de tempo específico
+EINECS European Inventory of Existing Commercial Chemical Substances (inventário europeu das substâncias
+químicas existentes no mercado)
+ELINCS European List of Notified Chemical Substances (lista europeia das substâncias químicas notificadas)
+GHS "Globally Harmonized System of Classification and Labelling of Chemicals" "Sistema Mundial Harmoniza-
+do de Classificação e Rotulagem de Produtos Químicos" desenvolvido pelas Nações Unidas
+IATA Associação Internacional do Transporte Aéreo
+IATA/DGR Dangerous Goods Regulations (DGR) for the air transport (IATA) (regulamentação referente a Mercadori-
+as Perigosas para o transporte aéreo)
+IMDG International Maritime Dangerous Goods (Código Marítimo Internacional de Mercadorias Perigosas)
+LC50 Concentração Letal 50 %: a CL50 corresponde à concentração de uma substância submetida a ensaio,
+que provoca 50 % de mortalidade durante um intervalo de tempo específico.
+LD50 Dose Letal 50 %: a DL50 corresponde à dose de uma substância submetida a ensaio, que provoca 50 % de
+mortalidade durante um intervalo de tempo específico
+mPmB Muito persistente e muito bioacumulável
+NLP Ex-polímero
+Portugal (pt) Página 13 / 14
+Abrev. | Descrição das abreviaturas utilizadas
+nº CE | O Inventário CE (EINECS, ELINCS e lista NLP) é a fonte do número CE composto por sete dígitos que iden-
+tifica as substâncias comercialmente disponíveis na UE (União Europeia)
+OACI | Organização da Aviação Civil Internacional
+PBT | Persistente, Bioacumulável e Tóxico
+PNEC | Concentração Previsivelmente Sem Efeitos
+REACH | Registration, Evaluation, Authorisation and Restriction of Chemicals (Registo, Avaliação, Autorização e
+Restrição de Substâncias Químicas)
+RID | Règlement concernant le transport International ferroviaire des marchandises Dangereuses (Acordo Eu-
+ropeu relativo ao transporte internacional ferroviário de mercadorias perigosas)
+SVHC | Substance of Very High Concern (Substância que Suscita Elevada Preocupação)
+O Inventário CE (EINECS, ELINCS e lista NLP) é a fonte do número CE composto por sete dígitos que | iden-
+Règlement concernant le transport International ferroviaire des marchandises Dangereuses (Acordo | Eu-
+Informações de segurança voluntárias em conformidade
+com o formato da ficha de dados de segurança segundo o
+regulamento (CE) n.º 1907/2006 (REACH)
+Óxido de cromo (III) ≥ 98%, extra puro
+número do artigo: 9886
+Abrev. Descrição das abreviaturas utilizadas
+nº CE O Inventário CE (EINECS, ELINCS e lista NLP) é a fonte do número CE composto por sete dígitos que iden-
+tifica as substâncias comercialmente disponíveis na UE (União Europeia)
+OACI Organização da Aviação Civil Internacional
+PBT Persistente, Bioacumulável e Tóxico
+PNEC Concentração Previsivelmente Sem Efeitos
+REACH Registration, Evaluation, Authorisation and Restriction of Chemicals (Registo, Avaliação, Autorização e
+Restrição de Substâncias Químicas)
+RID Règlement concernant le transport International ferroviaire des marchandises Dangereuses (Acordo Eu-
+ropeu relativo ao transporte internacional ferroviário de mercadorias perigosas)
+SVHC Substance of Very High Concern (Substância que Suscita Elevada Preocupação)
+Referências bibliográficas importantes e fontes dos dados utilizados
+Regulamento (CE) nº 1272/2008 relativo à classificação, rotulagem e embalagem de substâncias e
+misturas. Regulamento (CE) nº 1907/2006 (REACH), alterado por 2020/878/UE.
+Transporte de mercadorias perigosas por estrada, por caminho-de-ferro ou por via navegável (ADR/
+RID/ADN). Código Marítimo Internacional de Mercadorias Perigosas (IMDG). Dangerous Goods Regu-
+lations (DGR) for the air transport (IATA) (regulamentação referente a Mercadorias Perigosas para o
+transporte aéreo).
+Declarações de exoneração de responsabilidade
+Estas informações baseiam-se no actual estado do nosso conhecimento. Esta FDS foi elaborada e des-
+tina-se apenas a este produto.
+Portugal (pt) Página 14 / 14

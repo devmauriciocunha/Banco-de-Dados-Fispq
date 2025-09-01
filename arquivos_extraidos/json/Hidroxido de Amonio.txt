@@ -1,0 +1,169 @@
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Nome do Produto: HIDRÓXIDO DE AMÔNIO
+Página: 1/4
+Data da última revisão: 18/04/2017
+1- Identificação do produto e da empresa
+- Nome do produto: HIDRÓXIDO DE AMÔNIO
+- Código interno de identificação do produto: H1010 / H2001 / H2003
+- Principais usos recomendados para a substância: Análises químicas
+- Nome da empresa: Labsynth Produtos para Laboratórios Ltda
+- Endereço: Av. Dr. Ulysses Guimarães, 3.857 – Vila Mary – Diadema - SP
+- Telefone para contato: (11) 4072-6100
+- Telefone para emergências: (11) 4072-6100
+- Fax: (11) 4072-6122
+- E-mail: synth@synth.com.br
+2- Identificação de perigos
+2.1 - Classificação da substância (de acordo com a ABNT NBR 14725-2):
+Corrosivo, Categoria 1B – H314 - Provoca queimadura severa à pele
+Toxicidade aguda em meio aquático, Categoria 1, H400 – Muito tóxico para organismos aquáticos
+2.2 - Elementos de rotulagem (de acordo com a ABNT NBR 14725-2):
+Pictogramas de risco
+Palavras de advertência: Perigo
+Frase de perigo: H314 – Provoca queimadura severa à pele e danos aos olhos
+Frases de precaução:
+P260 – Não inale as poeiras / fumos / vapores
+P264 – Lave cuidadosamente as mãos após o manuseio
+P280 – Use equipamentos de proteção individual
+P301+P330+P331 – Em caso de ingestão: enxágue a boca. Não provoque vômito
+P303+P361+353 – Em caso de contato com a pele: retire imediatamente toda a roupa contaminada. Enxágue a pele com a água
+P363 – Lave a roupa contaminada antes de usá-la novamente
+P304+P340 – Em caso de inalação: remova a pessoa para local ventilado e mantenha em repouso numa posição que não dificulte a respiração
+P310 – Contate imediatamente um médico
+P321 – Tratamento específico
+P305+P351+P338 – Em caso de contato com os olhos: enxágue cuidadosamente com água durante vários minutos.
+P405 – Armazene em local fechado
+P501 - Descarte o conteúdo / recipiente em instalação aprovada de destruição de resíduos.
+2.3 - Outros Perigos que não resultam em uma classificação: Não disponível
+3- Composição e informações sobre os ingredientes
+3.1 - Substância:
+- Nome químico ou comum: Hidróxido de Amônio
+- Sinônimo: Amônia Solução, Amoníaco
+- Número de registro CAS: 1336-21-6
+- Impurezas que contribuam para o perigo: Não disponível
+Av. Dr. Ulysses Guimarães, 3857 - Vila Mary - Diadema - SP - CEP 09990-090 – Tel. (11) 4072-6100 - CNPJ 51.462.471/0001-52 - IE 286.056.465.111
+Site : www.labsynth.com.br e-mail : synth@synth.com.br
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Nome do Produto: HIDRÓXIDO DE AMÔNIO
+Página: 2/4
+Data da última revisão: 18/04/2017
+4- Medidas de primeiros socorros
+4.1 - Medidas de primeiros socorros:
+- Inalação: Remover para local ventilado. Chamar um médico.
+- Contato com a pele: Lavar abundantemente com água. Limpar com algodão embebido em polietilenoglicol 400.. Retirar as roupas
+contaminadas.
+- Contato com os olhos: Lavar imediatamente com bastante água, por 15 min.. Procurar um oftalmologista imediatamente.
+- Ingestão: beber imediatamente muita água. Não provocar o vômito. Procurar auxílio médico imediato. Não tentar neutralizar a
+substância
+4.2 - Sintomas e efeitos mais importantes: Devido à liberação de amônia, pode ser sufocante e de extrema irritação aos olhos, garganta e trato
+respiratório. Dependendo do tempo de exposição, podem ocorrer efeitos que vão de suaves irritações a severas lesões no corpo, devido a sua
+ação cáustica alcalina.
+4.3 - Notas para o médico: O nível de NH3 no sangue não é uma indicação proveitosa no controle de pessoas expostas. Acidentes com alta
+inalação de gases requerem observação e avaliação clínica de um possível edema pulmonar e falência respiratória, com respectiva conduta
+médica.
+5- Medidas de combate a incêndio
+5.1 - Meios de extinção: Não combustível
+5.2 - Perigos específicos da substância: Não disponível
+5.3 - Medidas de proteção da equipe de combate a incêndio: Não disponível
+6- Medidas de controle para derramamento ou vazamento
+6.1 - Precauções pessoais, equipamento de proteção e procedimentos de emergência
+6.1.1 - Para o pessoal que não faz parte dos serviços de emergência: Evitar o contato com o produto. Não inalar os vapores.
+6.1.2 - Para o pessoal do serviço de emergência: Utilizar equipamento de proteção individual e equipamento de proteção respiratória
+autônoma
+6.2 - Precaução ao meio ambiente: Não enviar o produto para redes de águas residuais
+6.3 - Métodos e materiais para a contenção e limpeza: Absorver com agente higroscópico. Recolher o resíduo para eliminação posterior
+7- Manuseio e armazenamento
+7.1 - Precauções para o manuseio seguro: Manipular o produto respeitando as regras gerais de segurança
+7.2 - Condições de armazenamento seguro, incluindo qualquer incompatibilidade: Manter as embalagens bem fechadas, local seco e
+limpo. Temperatura ambiente.
+8- Controle de exposição e proteção individual
+8.1 - Parâmetros de controle: Não disponível
+8.2 - Medidas de controle de engenharia: Utilização dos EPI’s recomendados durante o manuseio do produto, prover exaustão dos vapores
+na sua fonte de emissão, bem como a ventilação geral dos locais.
+8.3 - Medidas de proteção pessoal:
+- Proteção dos olhos/face: Óculos de segurança
+- Proteção da pele: Luvas de proteção
+- Proteção respiratória: Máscara semi facial para vapores químicos
+- Perigos térmicos: Não disponível
+Av. Dr. Ulysses Guimarães, 3857 - Vila Mary - Diadema - SP - CEP 09990-090 – Tel. (11) 4072-6100 - CNPJ 51.462.471/0001-52 - IE 286.056.465.111
+Site : www.labsynth.com.br e-mail : synth@synth.com.br
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Nome do Produto: HIDRÓXIDO DE AMÔNIO
+Página: 3/4
+Data da última revisão: 18/04/2017
+9- Propriedades físico-químicas
+- Aspecto: Líquido, incolor
+- Odor: Pungente
+- pH: Básico (alcalino)
+- Ponto de fusão: - 57,5ºC
+- Ponto de ebulição: 37,7ºC
+- Ponto de fulgor: Não disponível
+- Taxa de evaporação: Não disponível
+- Inflamabilidade: Não disponível
+- Limite inferior/superior de inflamabilidade ou explosividade: 15,4 – 33,6 % v
+- Pressão de vapor: Não aplicável
+- Densidade de vapor: Não disponível
+- Densidade: 0,910
+- Solubilidade: em água: solúvel
+- Coeficiente de partição – n-octanol/água: Não disponível
+- Temperatura de auto-ignição: 651ºC
+- Temperatura de decomposição: 132,4ºC
+- Viscosidade: Não disponível
+10- Estabilidade e reatividade
+10.1 - Estabilidade química: Estável
+10.2 - Reatividade: Não disponível
+10.3 - Possibilidade de reações perigosas: Não disponível
+10.4 - Condições a serem evitadas: Forte aquecimento
+10.5 - Materiais incompatíveis: Iodo, ácidos fortes
+10.6 - Produtos perigosos da decomposição: Em caso de incêndio pode formar: óxido nítrico.
+11- Informações toxicológicas
+- Toxicidade aguda: DL50 (oral, rato): 350 mg/kg / LCL0 (inalação, humano): 5000 ppm (V) / LC50 (inalação, rato): 1,4 mg/l/4h
+- Corrosão / irritação da pele: Queimaduras
+- Lesões oculares graves / irritação ocular: Queimaduras
+- Sensibilização respiratória ou à pele: Irritação das mucosas
+- Mutagenicidade em células germinativas: Não disponível
+- Carcinogenicidade: Não disponível
+- Toxicidade à reprodução: Não disponível
+-Toxicidade para órgãos - alvo específico – exposição única: Não disponível
+Av. Dr. Ulysses Guimarães, 3857 - Vila Mary - Diadema - SP - CEP 09990-090 – Tel. (11) 4072-6100 - CNPJ 51.462.471/0001-52 - IE 286.056.465.111
+Site : www.labsynth.com.br e-mail : synth@synth.com.br
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Nome do Produto: HIDRÓXIDO DE AMÔNIO
+Página: 4/4
+Data da última revisão: 18/04/2017
+-Toxicidade para órgãos - alvo específico – exposição repetida: Não disponível
+- Perigo por aspiração: Não disponível
+12- Informações ecológicas
+12.1 - Ecotoxicidade: Efeito prejudicial nos organismos aquáticos. Toxicidade nos peixes: Onchorhynchus mykiss LC50: 0,53 mg/l/96h
+12.2 - Persistência e degradabilidade: Não facilmente degradável
+12.3 - Potencial bioacumulativo: Não se prevê qualquer bio acumulação
+12.4 - Mobilidade no solo: Completamente solúvel em água
+12.5 - Outros efeitos adversos: Não disponível
+13- Considerações sobre tratamento e disposição
+13.1 - Métodos recomendados para destinação final:
+- Produto: Seguir as normas locais do controle do meio ambiente ou incinerar
+- Restos de produtos: Recolher e armazenar adequadamente o produto derramado para posterior reutilização ou incineração
+- Embalagem usada: Devem ser eliminadas de acordo com as normas locais do controle do meio ambiente ou incinerar.
+14- Informações sobre transporte
+14.1 - Regulamentações nacionais e internacionais:
+- Terrestre: Agência Nacional de Transporte Terrestre (ANTT)
+- Marítimo: Código IMDG: 2672
+- Aéreo: Código IATA: 2672
+14.2 - Para produto classificado como perigoso para o transporte:
+- Número ONU: 2672
+- Nome apropriado para embarque: AMÔNIA, SOLUÇÃO AQUOSA
+- Classe/subclasse de risco principal e subsidiário: 8
+- Número de risco: 80
+- Grupo de embalagem: II!
+- Perigo ao meio ambiente: Não disponível
+15- Informações sobre regulamentações
+15.1 - Regulamentações específicas de segurança, saúde e meio ambiente para o produto químico
+- Produto controlado pela Polícia Federal e pela Secretaria da Segurança Pública
+Produto Corrosivo
+16- Outras informações
+Merck Index, 12ª ed., Nº 517
+Os dados aqui contidos, são fornecidos com boa fé e a título orientativo, baseados em literaturas correntes e conceituadas (referidas no
+informativo, sempre que possível ou quando solicitadas).
+Apesar de serem dignas de confiança, não podemos nos responsabilizar pela sua exatidão. Recomendamos, sejam feitas as devidas avaliações
+pelo usuário.
+Av. Dr. Ulysses Guimarães, 3857 - Vila Mary - Diadema - SP - CEP 09990-090 – Tel. (11) 4072-6100 - CNPJ 51.462.471/0001-52 - IE 286.056.465.111
+Site : www.labsynth.com.br e-mail : synth@synth.com.br

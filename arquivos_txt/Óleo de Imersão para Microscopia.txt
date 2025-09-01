@@ -1,0 +1,221 @@
+FICHA DE INFORMAÇÃO E SEGURANÇA DE PRODUTO QUÍMICO
+Produto OLEO DE IMERSAO-MICROSCOPIA
+Data de revisão 27.05.2019
+Versão 03
+1. IDENTIFICAÇÃO DO PRODUTO E DA EMPRESA
+1.1 Identificação do Produto
+Código LB: 570662
+Produto: OLEO DE IMERSAO-MICROSCOPIA-FR 100mL
+Embalagem: Frasco plástico branco, conta gota, contendo 100mL de óleo.
+1.2 Aplicação
+Óleo para ser utilizado com objetiva de imersão (100x) em microscopia. Viscosidade
+cinemática e Índice de refração citados no certificado de análise.
+1.3 Fornecedor
+Laborclin Produtos para Laboratórios
+Rua Casimiro de Abreu, 521 – Vargem Grande
+83.321-210 – Pinhais/PR
+Telefone/Fax: 0xx – 41 – 3661-9050 SAC: 0800-410027
+Telefone de emergência: 0xx – 41 3661-9000
+e-mail: sac@laborclin.com.br Home page: www.laborclin.com.br
+2. IDENTIFICAÇÃO DE PERIGOS
+Classificação:
+Toxicidade aguda, Oral (Categoria 4)
+Toxicidade aguda, Dérmico (Categoria 5)
+Toxicidade aguda para o ambiente aquático (Categoria 2)
+Toxicidade crônica para o ambiente aquático (Categoria 2)
+Pictograma:
+Palavra de advertência: ATENÇÃO
+Frase de perigo:
+H302: Nocivo por ingestão.
+H313:Pode ser perigoso com o contato com a pele.
+H411: Tóxico para os organismos aquáticos com efeitos duradouros.
+Frase de precaução:
+P264: Lavar a pele cuidadosamente após manuseamento.
+Laborclin Produtos para Laboratórios Ltda. f. 0800410027
+Rua Casimiro de Abreu, 521 – Vargem Grande sac@laborclin.com.br
+83.321-210 – Pinhais/PR
+Pág. 1 de 5
+FICHA DE INFORMAÇÃO E SEGURANÇA DE PRODUTO QUÍMICO
+Produto OLEO DE IMERSAO-MICROSCOPIA
+Data de revisão 27.05.2019
+Versão 03
+P270: Não comer, beber ou fumar durante a utilização deste produto.
+P273: Evitar a libertação para o ambiente.
+P301 + P312: EM CASO DE INGESTÃO: caso sinta indisposição, contate um CENTRO
+DEINFORMAÇÃO ANTIVENENOS ou um médico.
+P312: Caso sinta indisposição, contate um CENTRO DE INFORMAÇÃO ANTIVENENOS
+ou um médico.
+P330: Enxaguar a boca.
+P391: Recolher o produto derramado.
+P501: Eliminar o conteúdo/ recipiente em instalação aprovada de destruição de resíduos.
+3. COMPOSIÇÃO E INFORMAÇÃO DE INGREDIENTES
+Solução contendo Óleo de Rícino e Benzoato de Benzila.
+Ingredientes perigosos: Benzoato de Benzila.
+Classificação:
+Toxicidade aguda, Oral (Categoria 4)
+Toxicidade aguda, Dérmico (Categoria 5)
+Toxicidade aguda para o ambiente aquático (Categoria 2)
+Toxicidade crônica para o ambiente aquático (Categoria 2)
+4. MEDIDAS DE PRIMEIROS SOCORROS
+Em contato com a pele/mucosas: Enxaguar a pele com água/tomar uma ducha. Se
+surgirem queixas ou em caso de persistência dos sintomas, consultar um médico.
+Em contato com os olhos: Enxaguar os olhos durante alguns minutos sob água corrente,
+mantendo as pálpebras abertas. Buscar auxílio médico, se necessário.
+Ingestão: Beber imediatamente muita água. Consultar um médico, se necessário. Não
+provocar vômitos.
+Inalação: Proporcionar ar fresco. Se surgirem queixas ou em caso de persistência dos
+sintomas, consultar um médico.
+Sintomas e efeitos mais importantes, tanto agudos como retardados: Em caso de
+ingestão: Náuseas, Vômito, Problemas gastrointestinais; em caso de inalação: Tosse
+Indicações sobre cuidados médicos urgentes e tratamentos especiais necessários:
+nenhum.
+5. MEDIDAS DE COMBATE A INCÊNDIOS
+Em caso de incêndio: Utilizar CO , pó químico seco ou espuma.
+2
+Riscos especiais resultante de substâncias ou da mistura: Combustível. Vapores mais
+pesados que o ar. Em caso de forte aquecimento formam-se misturas explosivas com o
+ar. Em caso de incêndio formam-se gases inflamáveis e vapores perigosos.
+Recomendações para o pessoal de combate a incêndios: Não permitir que a água de
+combate a incêndios entre em esgotos ou cursos de água. Combater o incêndio tomando
+as precauções normais e a partir de uma distância razoável. Use equipamento de
+respiração autónomo.
+Laborclin Produtos para Laboratórios Ltda. f. 0800410027
+Rua Casimiro de Abreu, 521 – Vargem Grande sac@laborclin.com.br
+83.321-210 – Pinhais/PR
+Pág. 2 de 5
+FICHA DE INFORMAÇÃO E SEGURANÇA DE PRODUTO QUÍMICO
+Produto OLEO DE IMERSAO-MICROSCOPIA
+Data de revisão 27.05.2019
+Versão 03
+6. MEDIDAS DE CONTROLE EM CASOS DE DERRAMAMENTO E VAZAMENTO
+Precauções pessoais e equipamentos de proteção: Usar luvas descartáveis. Evitar o contato
+com a substância e a inalação de vapores-aerossóis. Garantir ventilação com ar fresco em recintos
+fechados
+Precauções ambientais: Não despejar os resíduos no esgoto, águas superficiais e águas
+subterrâneas.
+Método de remoção: Absorver com absorvente de líquidos. Proceder à eliminação de resíduos.
+Limpeza posterior da área afetada.
+7. MANUSEIO E ARMAZENAMENTO
+Manipulação: Seguir as boas práticas laboratoriais. O manuseio do produto pelo usuário final
+deve ser feito com o uso de EPI comuns ao laboratório (jaleco e luvas).
+Armazenamento: Armazenar em temperatura ambiente em local fresco e seco, ao abrigo
+da exposição direta a luz solar. Manter afastado do calor e de fontes de ignição.
+Armazenar ao abrigo de solventes.
+Transporte: Efetuar o transporte adotando os cuidados usuais e não expondo o produto a
+extremos de temperatura.
+8. CONTROLE DE EXPOSIÇÃO E PROTEÇÃO INDIVIDUAL
+Indicações adicionais para concepção de instalações técnicas: Ventilação local adequada,
+sistema de exaustão e outros controles de engenharia necessários para manter os níveis
+de exposição abaixo dos limites recomendados. Chuveiros de emergência e lava-olhos
+devem estar próximos ao local de trabalho.
+Parâmetros de controle: Nenhum dos componentes da formulação é considerado
+perigoso, nas quantidades presentes.
+Medidas de proteção individual: As características dos meios de proteção para o trabalho
+devem ser selecionadas em função da concentração e da quantidade das substâncias
+tóxicas de acordo com as condições especificas do local de trabalho. A resistência dos
+meios de proteção aos agentes químicos deve ser esclarecida junto dos fornecedores.
+Medidas gerais de higiene: Manter limpo o local de trabalho. Manter recipientes fechados.
+Mudar imediatamente a roupa contaminada. Profilaxia cutânea. Depois de terminar o
+trabalho lavar as mãos e o rosto.
+Proteção das mãos: Utilizar luvas. Após o trabalho lavar as mãos com água e sabão.
+Proteção dos olhos: Necessária.
+Proteção da pele: Utilizar guarda-pó.
+Proteção respiratória: Não necessária.
+9. PROPRIEDADES FÍSICO-QUÍMICAS
+Informações aplicadas ao produto: OLEO DE IMERSAO-MICROSCOPIA-FR 100mL
+Estado físico: líquido
+Cor: Transparente incolor à levemente amarelado.
+Odor: característico
+Laborclin Produtos para Laboratórios Ltda. f. 0800410027
+Rua Casimiro de Abreu, 521 – Vargem Grande sac@laborclin.com.br
+83.321-210 – Pinhais/PR
+Pág. 3 de 5
+FICHA DE INFORMAÇÃO E SEGURANÇA DE PRODUTO QUÍMICO
+Produto OLEO DE IMERSAO-MICROSCOPIA
+Data de revisão 27.05.2019
+Versão 03
+Limite do odor: não existem informações disponíveis.
+pH: não existem informações disponíveis.
+Ponto de fusão: não existem informações disponíveis.
+Ponto/intervalo de ebulição: não classificado
+Ponto de combustão: não classificado
+Velocidade de evaporação: não existem informações disponíveis
+Inflamabilidade (sólido, gás): não aplicável
+Limite de explosão inferior: o produto não corre o risco de explosão
+Limite de explosão superior: o produto não corre o risco de explosão
+Pressão do vapor: não existem informações disponíveis.
+Densidade relativa do vapor: não classificado
+Densidade relativa: não classificado
+Solubilidade em água: não solúvel
+Coeficiente de partição: não classificado
+Temperatura de auto-ignição: não classificado
+Temperatura de decomposição: não existem informações disponíveis.
+Viscosidade, dinâmica: não classificado
+Riscos de explosão: o produto não corre o risco de explosão
+Propriedades oxidantes: não existem informações disponíveis.
+10. ESTABILIDADE E REATIVIDADE
+Reatividade: Não aplicável.
+Estabilidade: Produto estável nas condições indicadas de armazenamento.
+Condições a serem evitadas: Sem indicações
+Substâncias a serem evitadas: Reações violentas são possíveis com: Oxidantes fortes.
+Reação exotérmica com: Metais alcalinos e Alumínio.
+Produtos de decomposição: Sem indicações.
+Materiais incompatíveis: Sem indicações.
+Produtos de decomposição perigosa: Sem indicações.
+11. INFORMAÇÕES TOXICOLÓGICAS
+Toxicidade aguda (Benzoato de Benzila): LD50 (cutânea, oral): 4000 mg/kg (RTECS);
+LD50 (rato, oral): 1904 mg/kg (RTECS)
+Corrosão/irritação da pele: Por contato prolongado com a pele, pode produzir dermatite
+por ressecamento. Conjuntivites em exposição prolongada.
+Lesões oculares graves/irritação ocular: Ligeiras irritações.
+Sensibilização respiratória ou à pele: Ligeira irritação.
+Mutagenicidade: Não aplicável
+Carcinogenicidade: Não aplicável
+Toxicidade aguda por inalação: Não aplicável
+Toxicidade sistêmica de órgão-alvo específico – exposição repetida: a mistura não está
+classificada como um tóxico específico com alvo de órgão, exposição repetida.
+Informações complementares: o produto deve ser manipulado com as precauções
+habituais dos produtos químicos.
+Laborclin Produtos para Laboratórios Ltda. f. 0800410027
+Rua Casimiro de Abreu, 521 – Vargem Grande sac@laborclin.com.br
+83.321-210 – Pinhais/PR
+Pág. 4 de 5
+FICHA DE INFORMAÇÃO E SEGURANÇA DE PRODUTO QUÍMICO
+Produto OLEO DE IMERSAO-MICROSCOPIA
+Data de revisão 27.05.2019
+Versão 03
+12. MEIO AMBIENTE
+Toxicidade: Tóxico para os organismos aquáticos com efeitos duradouros.
+Persistência e degradabilidade: não existem informações disponíveis.
+Potencial biocumulativo: Não se acumula significativamente nos organismos.
+Mobilidade no solo: Coeficiente de adsorção normalizado em relação ao carbono
+orgânico.
+Informações ecológicas adicionais: Não são esperados problemas ecológicos quando o
+produto é manuseado e usado com os devidos cuidados e atenção. A descarga no meio
+ambiente deve ser evitada.
+13. CONSIDERAÇÕES SOBRE TRATAMENTO E DISPOSIÇÃO
+Descarte: Descartar o produto conforme legislação sanitária vigente e normas internas, ou
+em conformidade com os procedimentos técnicos do usuário. Mantenha as substâncias
+químicas em seus recipientes originais.
+14. INFORMAÇÕES SOBRE TRANSPORTE
+Transporte Terrestre: Produto não perigoso segundo o regulamento de transporte.
+Transporte fluvial: Produto não perigoso segundo o regulamento de transporte.
+Transporte aéreo: Produto não perigoso segundo o regulamento de transporte.
+Transporte marítimo: Produto não perigoso segundo o regulamento de transporte.
+15. REGULAMENTAÇÕES
+Regulamentação/legislação específica para a substância ou mistura em matéria de saúde,
+segurança e ambiente.
+16. INFORMAÇÕES SOBRE ESTE DOCUMENTO
+As informações contidas neste documento representam os dados atuais e refletem com
+exatidão, nosso conhecimento sobre o manuseio apropriado deste produto, sob condições
+normais e de acordo com as recomendações apresentadas na embalagem e literatura
+técnica. Qualquer outro uso do produto que envolva ou não o uso combinado com outro
+produto, ou que utiliza processo diverso do indicado, é de responsabilidade exclusiva do
+usuário.
+FISPQ emitidas por fornecedores das matérias primas utilizadas na elaboração do
+produto.
+FISPQ de acordo com a NBR 14725-4:2014.
+Laborclin Produtos para Laboratórios Ltda. f. 0800410027
+Rua Casimiro de Abreu, 521 – Vargem Grande sac@laborclin.com.br
+83.321-210 – Pinhais/PR
+Pág. 5 de 5

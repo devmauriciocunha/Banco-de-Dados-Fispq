@@ -1,0 +1,824 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sistema de Consulta FISPQ</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            color: #333;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        .header {
+            background: rgba(255, 255, 255, 0.95);
+            backdrop-filter: blur(10px);
+            border-radius: 20px;
+            padding: 30px;
+            margin-bottom: 30px;
+            box-shadow: 0 10px 40px rgba(0, 0, 0, 0.1);
+            text-align: center;
+        }
+
+        .header h1 {
+            color: #2c3e50;
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+            font-weight: 700;
+        }
+
+        .header p {
+            color: #7f8c8d;
+            font-size: 1.1rem;
+        }
+
+        .controls {
+            background: rgba(255, 255, 255, 0.95);
+            backdrop-filter: blur(10px);
+            border-radius: 15px;
+            padding: 25px;
+            margin-bottom: 30px;
+            box-shadow: 0 5px 25px rgba(0, 0, 0, 0.1);
+        }
+
+        .file-input-container {
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+            margin-bottom: 20px;
+        }
+
+        .file-input-wrapper {
+            position: relative;
+            overflow: hidden;
+            display: inline-block;
+            background: linear-gradient(135deg, #3498db, #2980b9);
+            color: white;
+            border-radius: 10px;
+            padding: 12px 24px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .file-input-wrapper:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(52, 152, 219, 0.3);
+        }
+
+        .file-input-wrapper input[type=file] {
+            position: absolute;
+            left: -9999px;
+        }
+
+        .search-container {
+            display: flex;
+            gap: 15px;
+            flex-wrap: wrap;
+            align-items: center;
+        }
+
+        .search-input {
+            flex: 1;
+            min-width: 250px;
+            padding: 12px 20px;
+            border: 2px solid #e9ecef;
+            border-radius: 10px;
+            font-size: 1rem;
+            transition: all 0.3s ease;
+        }
+
+        .search-input:focus {
+            outline: none;
+            border-color: #3498db;
+            box-shadow: 0 0 0 3px rgba(52, 152, 219, 0.1);
+        }
+
+        .filter-select {
+            padding: 12px 15px;
+            border: 2px solid #e9ecef;
+            border-radius: 10px;
+            background: white;
+            font-size: 1rem;
+            cursor: pointer;
+        }
+
+        .stats {
+            background: rgba(255, 255, 255, 0.95);
+            backdrop-filter: blur(10px);
+            border-radius: 15px;
+            padding: 20px;
+            margin-bottom: 30px;
+            box-shadow: 0 5px 25px rgba(0, 0, 0, 0.1);
+            display: flex;
+            justify-content: space-around;
+            flex-wrap: wrap;
+            gap: 20px;
+        }
+
+        .stat-item {
+            text-align: center;
+            padding: 15px;
+            background: linear-gradient(135deg, #f8f9fa, #e9ecef);
+            border-radius: 10px;
+            min-width: 150px;
+        }
+
+        .stat-number {
+            font-size: 2rem;
+            font-weight: bold;
+            color: #3498db;
+        }
+
+        .stat-label {
+            color: #7f8c8d;
+            margin-top: 5px;
+        }
+
+        .substances-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+            gap: 25px;
+        }
+
+        .substance-card {
+            background: rgba(255, 255, 255, 0.95);
+            backdrop-filter: blur(10px);
+            border-radius: 15px;
+            padding: 25px;
+            box-shadow: 0 5px 25px rgba(0, 0, 0, 0.1);
+            transition: all 0.3s ease;
+            cursor: pointer;
+            border: 2px solid transparent;
+        }
+
+        .substance-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 15px 35px rgba(0, 0, 0, 0.15);
+            border-color: #3498db;
+        }
+
+        .substance-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            margin-bottom: 20px;
+        }
+
+        .substance-name {
+            font-size: 1.4rem;
+            font-weight: 700;
+            color: #2c3e50;
+            margin-bottom: 5px;
+        }
+
+        .onu-badge {
+            background: linear-gradient(135deg, #e74c3c, #c0392b);
+            color: white;
+            padding: 5px 12px;
+            border-radius: 20px;
+            font-size: 0.9rem;
+            font-weight: 600;
+        }
+
+        .substance-info {
+            display: grid;
+            gap: 15px;
+        }
+
+        .info-section {
+            background: #f8f9fa;
+            padding: 15px;
+            border-radius: 10px;
+            border-left: 4px solid #3498db;
+        }
+
+        .section-title {
+            font-weight: 600;
+            color: #2c3e50;
+            margin-bottom: 8px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .section-content {
+            color: #555;
+            line-height: 1.6;
+        }
+
+        .emergency-icon {
+            width: 20px;
+            height: 20px;
+            background: #e74c3c;
+            border-radius: 50%;
+            display: inline-block;
+        }
+
+        .transport-icon {
+            width: 20px;
+            height: 20px;
+            background: #f39c12;
+            border-radius: 50%;
+            display: inline-block;
+        }
+
+        .handling-icon {
+            width: 20px;
+            height: 20px;
+            background: #27ae60;
+            border-radius: 50%;
+            display: inline-block;
+        }
+
+        .no-data {
+            text-align: center;
+            padding: 60px 20px;
+            color: #7f8c8d;
+            font-size: 1.2rem;
+            background: rgba(255, 255, 255, 0.9);
+            border-radius: 15px;
+            margin-top: 30px;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 40px;
+            font-size: 1.1rem;
+            color: #7f8c8d;
+        }
+
+        .modal {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.8);
+            z-index: 1000;
+        }
+
+        .modal-content {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background: white;
+            border-radius: 15px;
+            padding: 30px;
+            max-width: 800px;
+            max-height: 80vh;
+            overflow-y: auto;
+            width: 90%;
+        }
+
+        .modal-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 25px;
+            padding-bottom: 15px;
+            border-bottom: 2px solid #e9ecef;
+        }
+
+        .modal-title {
+            font-size: 1.8rem;
+            color: #2c3e50;
+            font-weight: 700;
+        }
+
+        .close-button {
+            background: none;
+            border: none;
+            font-size: 2rem;
+            cursor: pointer;
+            color: #7f8c8d;
+            padding: 5px;
+            border-radius: 50%;
+            width: 40px;
+            height: 40px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .close-button:hover {
+            background: #f8f9fa;
+            color: #e74c3c;
+        }
+
+        .detail-section {
+            margin-bottom: 25px;
+            background: #f8f9fa;
+            padding: 20px;
+            border-radius: 10px;
+            border-left: 4px solid #3498db;
+        }
+
+        .detail-title {
+            font-size: 1.2rem;
+            font-weight: 600;
+            color: #2c3e50;
+            margin-bottom: 15px;
+        }
+
+        .detail-content {
+            line-height: 1.7;
+            color: #555;
+        }
+
+        .detail-item {
+            margin-bottom: 10px;
+            padding: 10px;
+            background: white;
+            border-radius: 8px;
+            border: 1px solid #e9ecef;
+        }
+
+        .detail-label {
+            font-weight: 600;
+            color: #2c3e50;
+            margin-bottom: 5px;
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                padding: 15px;
+            }
+
+            .header h1 {
+                font-size: 2rem;
+            }
+
+            .substances-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .search-container {
+                flex-direction: column;
+            }
+
+            .search-input {
+                min-width: 100%;
+            }
+
+            .stats {
+                flex-direction: column;
+                text-align: center;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Sistema de Consulta FISPQ</h1>
+            <p>Fichas de Informação de Segurança de Produtos Químicos</p>
+        </div>
+
+        <div class="controls">
+            <div class="file-input-container">
+                <div class="file-input-wrapper">
+                    <input type="file" id="jsonFile" accept=".json" />
+                    <span>📁 Carregar Arquivo FISPQ (JSON)</span>
+                </div>
+                <small style="color: #7f8c8d;">Selecione o arquivo fispq_completo.json</small>
+            </div>
+
+            <div class="search-container">
+                <input type="text" id="searchInput" class="search-input" placeholder="🔍 Buscar por nome da substância..." />
+                <select id="onuFilter" class="filter-select">
+                    <option value="">Todos os números ONU</option>
+                </select>
+                <select id="classFilter" class="filter-select">
+                    <option value="">Todas as classes de risco</option>
+                </select>
+            </div>
+        </div>
+
+        <div class="stats" id="stats" style="display: none;">
+            <div class="stat-item">
+                <div class="stat-number" id="totalCount">0</div>
+                <div class="stat-label">Total de Substâncias</div>
+            </div>
+            <div class="stat-item">
+                <div class="stat-number" id="onuCount">0</div>
+                <div class="stat-label">Números ONU Únicos</div>
+            </div>
+            <div class="stat-item">
+                <div class="stat-number" id="classCount">0</div>
+                <div class="stat-label">Classes de Risco</div>
+            </div>
+            <div class="stat-item">
+                <div class="stat-number" id="filteredCount">0</div>
+                <div class="stat-label">Resultados Filtrados</div>
+            </div>
+        </div>
+
+        <div id="substancesContainer">
+            <div class="no-data">
+                <h3>👆 Carregue o arquivo JSON para começar</h3>
+                <p>Selecione o arquivo fispq_completo.json usando o botão acima</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal para detalhes -->
+    <div id="substanceModal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 class="modal-title" id="modalTitle">Detalhes da Substância</h2>
+                <button class="close-button" onclick="closeModal()">&times;</button>
+            </div>
+            <div id="modalBody">
+                <!-- Conteúdo será preenchido dinamicamente -->
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let fispqData = [];
+        let filteredData = [];
+
+        // Debug: Verificar se o elemento existe
+        console.log('Elemento jsonFile encontrado:', document.getElementById('jsonFile'));
+
+        // Carregar arquivo JSON com debug
+        document.getElementById('jsonFile').addEventListener('change', function(e) {
+            console.log('Evento change disparado');
+            console.log('Arquivos selecionados:', e.target.files);
+            
+            const file = e.target.files[0];
+            if (file) {
+                console.log('Arquivo encontrado:', file.name, 'Tamanho:', file.size, 'Tipo:', file.type);
+                
+                const reader = new FileReader();
+                reader.onload = function(e) {
+                    console.log('Arquivo lido com sucesso');
+                    try {
+                        const jsonContent = e.target.result;
+                        console.log('Conteúdo do arquivo (primeiros 200 chars):', jsonContent.substring(0, 200));
+                        
+                        fispqData = JSON.parse(jsonContent);
+                        console.log('JSON parseado com sucesso. Total de items:', fispqData.length);
+                        
+                        filteredData = [...fispqData];
+                        updateStats();
+                        populateFilters();
+                        renderSubstances();
+                        document.getElementById('stats').style.display = 'flex';
+                        
+                        console.log('Interface atualizada com sucesso');
+                    } catch (error) {
+                        console.error('Erro ao processar JSON:', error);
+                        alert('Erro ao carregar arquivo JSON: ' + error.message);
+                    }
+                };
+                
+                reader.onerror = function(error) {
+                    console.error('Erro ao ler arquivo:', error);
+                    alert('Erro ao ler o arquivo');
+                };
+                
+                reader.readAsText(file);
+            } else {
+                console.log('Nenhum arquivo selecionado');
+            }
+        });
+
+        // Teste se o clique no wrapper funciona
+        document.querySelector('.file-input-wrapper').addEventListener('click', function() {
+            console.log('Wrapper clicado');
+            document.getElementById('jsonFile').click();
+        });
+
+        // Resto do código permanece igual...
+        function updateStats() {
+            const onuNumbers = new Set(fispqData.map(item => item.identificacao?.numero_onu).filter(Boolean));
+            const classes = new Set(fispqData.map(item => item.identificacao?.classe_risco).filter(Boolean));
+            
+            document.getElementById('totalCount').textContent = fispqData.length;
+            document.getElementById('onuCount').textContent = onuNumbers.size;
+            document.getElementById('classCount').textContent = classes.size;
+            document.getElementById('filteredCount').textContent = filteredData.length;
+        }
+        function populateFilters() {
+            const onuFilter = document.getElementById('onuFilter');
+            const classFilter = document.getElementById('classFilter');
+            
+            // Limpar filtros
+            onuFilter.innerHTML = '<option value="">Todos os números ONU</option>';
+            classFilter.innerHTML = '<option value="">Todas as classes de risco</option>';
+            
+            // Popular filtro ONU
+            const onuNumbers = [...new Set(fispqData.map(item => item.identificacao?.numero_onu).filter(Boolean))].sort();
+            onuNumbers.forEach(onu => {
+                const option = document.createElement('option');
+                option.value = onu;
+                option.textContent = `ONU ${onu}`;
+                onuFilter.appendChild(option);
+            });
+            
+            // Popular filtro de classe
+            const classes = [...new Set(fispqData.map(item => item.identificacao?.classe_risco).filter(Boolean))].sort();
+            classes.forEach(classe => {
+                const option = document.createElement('option');
+                option.value = classe;
+                option.textContent = `Classe ${classe}`;
+                classFilter.appendChild(option);
+            });
+        }
+
+        function filterSubstances() {
+            const searchTerm = document.getElementById('searchInput').value.toLowerCase();
+            const onuFilter = document.getElementById('onuFilter').value;
+            const classFilter = document.getElementById('classFilter').value;
+
+            filteredData = fispqData.filter(item => {
+                const matchSearch = !searchTerm || 
+                    (item.identificacao?.substancia || '').toLowerCase().includes(searchTerm) ||
+                    (item.arquivo || '').toLowerCase().includes(searchTerm);
+                
+                const matchOnu = !onuFilter || item.identificacao?.numero_onu === onuFilter;
+                const matchClass = !classFilter || item.identificacao?.classe_risco === classFilter;
+                
+                return matchSearch && matchOnu && matchClass;
+            });
+
+            document.getElementById('filteredCount').textContent = filteredData.length;
+            renderSubstances();
+        }
+
+        function renderSubstances() {
+            const container = document.getElementById('substancesContainer');
+            
+            if (filteredData.length === 0) {
+                container.innerHTML = '<div class="no-data"><h3>🔍 Nenhuma substância encontrada</h3><p>Tente ajustar os filtros de busca</p></div>';
+                return;
+            }
+
+            const html = `
+                <div class="substances-grid">
+                    ${filteredData.map(substance => createSubstanceCard(substance)).join('')}
+                </div>
+            `;
+            
+            container.innerHTML = html;
+        }
+
+        function createSubstanceCard(substance) {
+            const identificacao = substance.identificacao || {};
+            const emergencia = substance.emergencia || {};
+            const primeiros_socorros = emergencia.primeiros_socorros || {};
+            const combate_incendio = emergencia.combate_incendio || {};
+            const manuseio = substance.manuseio_armazenamento || {};
+
+            return `
+                <div class="substance-card" onclick="showDetails('${substance.arquivo}')">
+                    <div class="substance-header">
+                        <div>
+                            <div class="substance-name">${identificacao.substancia || 'Não informado'}</div>
+                            <small style="color: #7f8c8d;">${substance.arquivo}</small>
+                        </div>
+                        ${identificacao.numero_onu ? `<div class="onu-badge">ONU ${identificacao.numero_onu}</div>` : ''}
+                    </div>
+                    
+                    <div class="substance-info">
+                        ${identificacao.classe_risco ? `
+                            <div class="info-section">
+                                <div class="section-title">
+                                    <span class="transport-icon"></span>
+                                    Classe de Risco: ${identificacao.classe_risco}
+                                </div>
+                            </div>
+                        ` : ''}
+                        
+                        ${primeiros_socorros.inalacao ? `
+                            <div class="info-section">
+                                <div class="section-title">
+                                    <span class="emergency-icon"></span>
+                                    Primeiros Socorros - Inalação
+                                </div>
+                                <div class="section-content">${primeiros_socorros.inalacao.substring(0, 100)}...</div>
+                            </div>
+                        ` : ''}
+                        
+                        ${combate_incendio.meios_extincao && combate_incendio.meios_extincao !== 'Não disponível' ? `
+                            <div class="info-section">
+                                <div class="section-title">
+                                    <span class="emergency-icon"></span>
+                                    Combate a Incêndio
+                                </div>
+                                <div class="section-content">${combate_incendio.meios_extincao}</div>
+                            </div>
+                        ` : ''}
+                        
+                        ${manuseio.precaucoes_manuseio ? `
+                            <div class="info-section">
+                                <div class="section-title">
+                                    <span class="handling-icon"></span>
+                                    Precauções de Manuseio
+                                </div>
+                                <div class="section-content">${manuseio.precaucoes_manuseio.substring(0, 100)}...</div>
+                            </div>
+                        ` : ''}
+                    </div>
+                </div>
+            `;
+        }
+
+        function showDetails(arquivo) {
+            const substance = fispqData.find(item => item.arquivo === arquivo);
+            if (!substance) return;
+
+            document.getElementById('modalTitle').textContent = substance.identificacao?.substancia || 'Substância';
+            document.getElementById('modalBody').innerHTML = createDetailedView(substance);
+            document.getElementById('substanceModal').style.display = 'block';
+        }
+
+        function createDetailedView(substance) {
+            const identificacao = substance.identificacao || {};
+            const emergencia = substance.emergencia || {};
+            const primeiros_socorros = emergencia.primeiros_socorros || {};
+            const combate_incendio = emergencia.combate_incendio || {};
+            const manuseio = substance.manuseio_armazenamento || {};
+            const transporte = substance.transporte || {};
+
+            return `
+                <div class="detail-section">
+                    <div class="detail-title">📋 Identificação</div>
+                    <div class="detail-content">
+                        <div class="detail-item">
+                            <div class="detail-label">Nome da Substância:</div>
+                            ${identificacao.substancia || 'Não informado'}
+                        </div>
+                        <div class="detail-item">
+                            <div class="detail-label">Arquivo de Origem:</div>
+                            ${substance.arquivo}
+                        </div>
+                        ${identificacao.numero_onu ? `
+                            <div class="detail-item">
+                                <div class="detail-label">Número ONU:</div>
+                                ${identificacao.numero_onu}
+                            </div>
+                        ` : ''}
+                        ${identificacao.classe_risco ? `
+                            <div class="detail-item">
+                                <div class="detail-label">Classe de Risco:</div>
+                                ${identificacao.classe_risco}
+                            </div>
+                        ` : ''}
+                        ${identificacao.risco_subsidiario ? `
+                            <div class="detail-item">
+                                <div class="detail-label">Risco Subsidiário:</div>
+                                ${identificacao.risco_subsidiario}
+                            </div>
+                        ` : ''}
+                        ${identificacao.grupo_embalagem ? `
+                            <div class="detail-item">
+                                <div class="detail-label">Grupo de Embalagem:</div>
+                                ${identificacao.grupo_embalagem}
+                            </div>
+                        ` : ''}
+                    </div>
+                </div>
+
+                ${Object.keys(primeiros_socorros).length > 0 ? `
+                    <div class="detail-section">
+                        <div class="detail-title">🚨 Primeiros Socorros</div>
+                        <div class="detail-content">
+                            ${primeiros_socorros.inalacao ? `
+                                <div class="detail-item">
+                                    <div class="detail-label">Inalação:</div>
+                                    ${primeiros_socorros.inalacao.replace(/\\n/g, '<br>')}
+                                </div>
+                            ` : ''}
+                            ${primeiros_socorros.contato_pele ? `
+                                <div class="detail-item">
+                                    <div class="detail-label">Contato com a Pele:</div>
+                                    ${primeiros_socorros.contato_pele.replace(/\\n/g, '<br>')}
+                                </div>
+                            ` : ''}
+                            ${primeiros_socorros.contato_olhos ? `
+                                <div class="detail-item">
+                                    <div class="detail-label">Contato com os Olhos:</div>
+                                    ${primeiros_socorros.contato_olhos.replace(/\\n/g, '<br>')}
+                                </div>
+                            ` : ''}
+                            ${primeiros_socorros.ingestao ? `
+                                <div class="detail-item">
+                                    <div class="detail-label">Ingestão:</div>
+                                    ${primeiros_socorros.ingestao.replace(/\\n/g, '<br>')}
+                                </div>
+                            ` : ''}
+                            ${primeiros_socorros.sintomas ? `
+                                <div class="detail-item">
+                                    <div class="detail-label">Sintomas:</div>
+                                    ${primeiros_socorros.sintomas.replace(/\\n/g, '<br>')}
+                                </div>
+                            ` : ''}
+                        </div>
+                    </div>
+                ` : ''}
+
+                ${Object.keys(combate_incendio).length > 0 ? `
+                    <div class="detail-section">
+                        <div class="detail-title">🔥 Combate a Incêndio</div>
+                        <div class="detail-content">
+                            ${combate_incendio.meios_extincao ? `
+                                <div class="detail-item">
+                                    <div class="detail-label">Meios de Extinção:</div>
+                                    ${combate_incendio.meios_extincao}
+                                </div>
+                            ` : ''}
+                            ${combate_incendio.perigos_especificos ? `
+                                <div class="detail-item">
+                                    <div class="detail-label">Perigos Específicos:</div>
+                                    ${combate_incendio.perigos_especificos}
+                                </div>
+                            ` : ''}
+                        </div>
+                    </div>
+                ` : ''}
+
+                ${Object.keys(manuseio).length > 0 ? `
+                    <div class="detail-section">
+                        <div class="detail-title">⚠️ Manuseio e Armazenamento</div>
+                        <div class="detail-content">
+                            ${manuseio.precaucoes_manuseio ? `
+                                <div class="detail-item">
+                                    <div class="detail-label">Precauções de Manuseio:</div>
+                                    ${manuseio.precaucoes_manuseio.replace(/\\n/g, '<br>')}
+                                </div>
+                            ` : ''}
+                        </div>
+                    </div>
+                ` : ''}
+
+                ${Object.keys(transporte).length > 0 ? `
+                    <div class="detail-section">
+                        <div class="detail-title">🚚 Transporte</div>
+                        <div class="detail-content">
+                            ${transporte.numero_onu ? `
+                                <div class="detail-item">
+                                    <div class="detail-label">Número ONU:</div>
+                                    ${transporte.numero_onu}
+                                </div>
+                            ` : ''}
+                            ${transporte.grupo_embalagem ? `
+                                <div class="detail-item">
+                                    <div class="detail-label">Grupo de Embalagem:</div>
+                                    ${transporte.grupo_embalagem}
+                                </div>
+                            ` : ''}
+                        </div>
+                    </div>
+                ` : ''}
+
+                <div class="detail-section">
+                    <div class="detail-title">📅 Informações do Processamento</div>
+                    <div class="detail-content">
+                        <div class="detail-item">
+                            <div class="detail-label">Data de Processamento:</div>
+                            ${new Date(substance.data_processamento).toLocaleString('pt-BR')}
+                        </div>
+                    </div>
+                </div>
+            `;
+        }
+
+        function closeModal() {
+            document.getElementById('substanceModal').style.display = 'none';
+        }
+
+        // Fechar modal clicando fora
+        window.onclick = function(event) {
+            const modal = document.getElementById('substanceModal');
+            if (event.target === modal) {
+                closeModal();
+            }
+        }
+
+        // Fechar modal com ESC
+        document.addEventListener('keydown', function(event) {
+            if (event.key === 'Escape') {
+                closeModal();
+            }
+        });
+    </script>
+</body>
+</html>

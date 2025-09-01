@@ -1,0 +1,451 @@
+FISPQ
+dinamicaquimica.com.br
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE Versão 3.0
+Atualização:
+PRODUTOS QUÍMICOS
+17/02/2020 13:00
+1. ID ENTIFICAÇÃO DO PRODUTO E DA EMPRESA
+1.1. Identificadores do Produto
+Nome do Produto: SULFATO DE HIDROXILAMINA PA ACS
+Código do Produto: P.10.0960.051.00
+M arca: Dinâmica Química ®
+1.2. Outros Meios de Identificação:
+1.3. Utilizações Identificadas relevantes da substância ou mistura e utilizações desaconselhadas
+Utilizações identificadas: Utilização em Laboratório de Controle de Qualidade para aferição e
+calibração de aparelhos de medição de condutividade.
+Utilizações desaconselhadas: Não permitido para fins alimentícios e medicinais.
+1.4. Identificação do Fornecedor da FISPQ:
+Companhia: Dinâmica Química Contemporânea LTDA
+Rua Crisolita, 145 • Recreio Campestre Jóia
+Indaiatuba – SP – Brasil.
+Telefone: +55 19 3114-9250 / 19 3114-9247
+E-Mail: dinamica@dinamicaquimica.com.br
+dinamica@dinamicacontemporanea.com
+1.5. Número de telefone de Emergência
+(19) 3114-9232
+_________________________________________________________________________________________
+2. IDENTIFICAÇÃO DE PERIGOS
+2.1. Classificação GHS
+Corrosivo para os metais (Categoria 1)
+Toxicidade aguda, Oral (Categoria 4)
+Toxicidade aguda, Dérmico (Categoria 4)
+Irritação cutânea (Categoria 2)
+Versão: 3.0
+Data da Versão: 04/12/2019 Página 1 de 13
+Revisado por: Douglas Ribeiro
+FISPQ
+dinamicaquimica.com.br
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE Versão 3.0
+Atualização:
+PRODUTOS QUÍMICOS
+17/02/2020 13:00
+Irr itação ocular (Categoria 2A)
+Se nsibilização da pele (Categoria 1)
+Carcinogenicidade (Categoria 2)
+Toxicidade para órgãos-alvo específicos - exposição repetida, Oral (Categoria 2)
+Perigo (agudo) de curto prazo para o ambiente aquático (Categoria 1)
+Perigo (crônico) de longo prazo para o ambiente aquático (Categoria 3)
+2.2. Elementos da Etiqueta GHS, incluindo declarações de prevenção
+Palavra-sinal Atenção
+Declaração de perigo
+H290 Pode ser corrosivo para os metais.
+H302 + H312 Nocivo por ingestão ou contato com a pele.
+H315 Provoca irritação cutânea. H317 Pode provocar uma reação alérgica cutânea.
+H319 Provoca irritação ocular grave.
+H351 Suspeito de provocar cancro.
+H373 Pode afetar os órgãos após exposição prolongada ou repetida por ingestão.
+H400 Muito tóxico para os organismos aquáticos.
+H412 Nocivo para os organismos aquáticos com efeitos duradouros.
+Declaração de precaução
+Prevenção
+P201 Pedir instruções específicas antes da utilização.
+P234 Conservar unicamente no recipiente de origem.
+P260 Não respirar as poeiras/ fumos/ gases/ névoas/ vapores/ aerossóis.
+P273 Evitar a libertação para o ambiente.
+P280 Usar luvas de proteção/ vestuário de proteção/ proteção ocular/ proteção facial.
+Versão: 3.0
+Data da Versão: 04/12/2019 Página 2 de 13
+Revisado por: Douglas Ribeiro
+Produto | CAS | Perigo | Concentração
+Sulfato de Hidroxilamina | 10039-54-9 | Corrosivo para os metais (Categoria 1)
+Toxicidade aguda, Oral (Categoria 4)
+Toxicidade aguda, Dérmico (Categoria 4)
+Irritação cutânea (Categoria 2)
+Irritação ocular (Categoria 2A)
+Sensibilização da pele (Categoria 1)
+Carcinogenicidade (Categoria 2)
+Toxicidade para órgãos-alvo específicos -
+exposição repetida, Oral (Categoria 2)
+Perigo (agudo) de curto prazo para o
+ambiente aquático (Categoria 1)
+Perigo (crônico) de longo prazo para o
+ambiente aquático (Categoria 3) | 99%
+FISPQ
+dinamicaquimica.com.br
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE Versão 3.0
+Atualização:
+PRODUTOS QUÍMICOS
+17/02/2020 13:00
+Re sposta
+P3 02 + P352 + P312 SE ENTRAR EM CONTATO COM A PELE: lavar abundantemente com água. Caso sinta
+indisposição, contacte um CENTRO DE INFORMAÇÃO ANTIVENENOS/médico.
+P308 + P313 EM CASO DE exposição ou suspeita de exposição: consulte um médico.
+P333 + P313 Em caso de irritação ou erupção cutânea: consulte um médico.
+P337 + P313 Caso a irritação ocular persista: consulte um médico.
+P362 + P364 Retirar a roupa contaminada e lavá-la antes de a voltar a usar.
+Armazenagem
+P403 + P233 Armazenar em local bem ventilado. Manter o recipiente bem fechado.
+2.3. Outros Perigos
+Nenhum (a)
+_________________________________________________________________________________________
+3. COMPOSIÇÃO E INFORMAÇÕES SOBRE OS INGREDIENTES
+3.1. Substância
+Fórmula Molecular: H N O S
+8 2 6
+Peso Molecular: 164,14 g/mol
+Produto CAS Perigo Concentração
+Corrosivo para os metais (Categoria 1)
+Toxicidade aguda, Oral (Categoria 4)
+Toxicidade aguda, Dérmico (Categoria 4)
+Irritação cutânea (Categoria 2)
+Irritação ocular (Categoria 2A)
+Sensibilização da pele (Categoria 1)
+Sulfato de Hidroxilamina 10039-54-9 Carcinogenicidade (Categoria 2) 99%
+Toxicidade para órgãos-alvo específicos -
+exposição repetida, Oral (Categoria 2)
+Perigo (agudo) de curto prazo para o
+ambiente aquático (Categoria 1)
+Perigo (crônico) de longo prazo para o
+ambiente aquático (Categoria 3)
+_________________________________________________________________________________________
+Versão: 3.0
+Data da Versão: 04/12/2019 Página 3 de 13
+Revisado por: Douglas Ribeiro
+FISPQ
+dinamicaquimica.com.br
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE Versão 3.0
+Atualização:
+PRODUTOS QUÍMICOS
+17/02/2020 13:00
+4. M EDIDAS DE PRIMEIROS-SOCORROS
+4.1. Descrição das medidas de primeiros socorros
+Recomendação geral:
+Co nsultar um médico. Mostrar esta ficha de segurança ao médico de serviço.
+Em caso de inalação:
+Se for respirado, levar a pessoa para o ar fresco. Se não respirar, dar respiração artificial. Consultar um
+médico.
+Em caso de contato com a pele:
+Retirar imediatamente a roupa e os sapatos contaminados. Lavar com sabão e muita água. Transportar
+imediatamente paciente para um Hospital. Consultar um médico.
+Em caso de contato com os olhos:
+Lavar cuidadosamente com muita água, durante pelo menos quinze minutos, e consultar o médico.
+Em caso de ingestão:
+NÃO provocar vômito. Nunca dar nada pela boca a uma pessoa inconsciente. Enxaguar a boca com água.
+Consultar um médico.
+4.2. Sintomas e efeitos mais importantes, tanto agudos como retardados
+Os sintomas e efeitos mais importantes conhecidos descrevem-se na etiqueta.
+4.3. Indicações sobre cuidados médicos urgentes e tratamentos especiais necessários
+Informação não disponível
+_________________________________________________________________________________________
+5. MEDIDAS DE COMBATE A INCÊNDIO
+5.1. Meios de extinção
+Meios adequados de extinção:
+Utilizar água pulverizada, espuma resistente ao álcool, pó químico seco ou dióxido de carbono.
+Versão: 3.0
+Data da Versão: 04/12/2019 Página 4 de 13
+Revisado por: Douglas Ribeiro
+FISPQ
+dinamicaquimica.com.br
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE Versão 3.0
+Atualização:
+PRODUTOS QUÍMICOS
+17/02/2020 13:00
+5.2. Pe rigos especiais decorrentes da substância ou mistura:
+Ó xidos de azoto (NOx), Óxidos de enxofre
+5.3. Recomendações para o pessoal de combate a incêndios:
+Usar equipamento de respiração autónomo para combate a incêndios, se necessário.
+5.4. Informações adicionais
+Os jatos de água podem ser utilizados para arrefecer os contentores fechados.
+_________________________________________________________________________________________
+6. MEDIDAS DE CONTROLE PARA DERRAMAMENTO OU VAZAMENTO
+6.1. Precauções individuais, equipamento de proteção e procedimentos de emergência
+Usar equipamento de proteção individual. Evitar a respiração do vapor/névoa/gás. Assegurar ventilação
+adequada. Cortar todas as fontes de ignição. Evacuar o pessoal para áreas de segurança. Atenção com a
+acumulação de vapores que pode formar concentrações explosivas. Os vapores podem-se acumular nas
+áreas baixas. Para a proteção individual ver a secção 8.
+6.2. Precauções a nível ambiental
+Prevenir dispersão ou derramamento, se seguro. Não permitir a entrada do produto no sistema de esgotos.
+6.3. Métodos e materiais de confinamento e limpeza
+Varrer e apanhar com uma pá. Controlar e recuperar o líquido derramado com aspirador protegido
+eletricamente ou varrer a seco e por o líquido dentro de contentores para a eliminação de acordo com as
+regulações locais (ver secção 13). Manter em recipientes fechados adequados, para eliminação.
+6.4. Remissão para outras secções
+Para eliminação de resíduos verificar seção 13.
+_________________________________________________________________________________________
+7. MANUSEIO E ARMAZENAMENTO
+7.1. Precauções para um manuseamento seguro
+Versão: 3.0
+Data da Versão: 04/12/2019 Página 5 de 13
+Revisado por: Douglas Ribeiro
+FISPQ
+dinamicaquimica.com.br
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE Versão 3.0
+Atualização:
+PRODUTOS QUÍMICOS
+17/02/2020 13:00
+Ev itar o contato com a pele e os olhos. Evitar a inalação do vapor ou da névoa. Manter afastado de qualquer
+ch ama ou fonte de ignição - Não fumar. Tome medidas para impedir a formação de eletricidade estática.
+7.2. Condições de armazenagem segura, incluindo eventuais incompatibilidades
+Armazenar em local fresco. Guardar o recipiente hermeticamente fechado em lugar seco e bem ventilado.
+7.3. Utilização(ões) final(is) específica(s)
+Informação não disponível
+_________________________________________________________________________________________
+8. CONTROLE DE EXPOSIÇÃO E PROTEÇÃO INDIVIDUAL
+8.1. Parâmetros de controle
+Componentes a controlar com relação ao local de trabalho
+8.2. Controlo da exposição
+Controlos técnicos adequados
+Evitar o contato com a pele, olhos e vestuário. Lavar as mãos antes de interrupções do trabalho, e
+imediatamente a seguir ao manuseamento do produto.
+Proteção individual
+Proteção ocular/ facial
+Óculos de segurança bem ajustados. Proteção da face (mínimo de 8 polegadas (20
+cm)). Use equipamento de proteção ocular testado e aprovado de acordo com as
+normas governamentais adequadas, tais como NIOSH (US) ou EN 166 (EU).
+Proteção da pele
+Manusear com luvas. As luvas devem ser inspecionadas antes da utilização. Use
+uma técnica adequada para a remoção das luvas (sem tocar a superfície exterior da
+luva) para evitar o contacto da pele com o produto. Descarte as luvas contaminadas
+após o uso, em conformidade com as leis e boas práticas de laboratório. Lavar e
+secar as mãos.
+Contato total
+Material: Borracha de nitrilo
+espessura mínima da capa: 0.11 mm
+Versão: 3.0
+Data da Versão: 04/12/2019 Página 6 de 13
+Revisado por: Douglas Ribeiro
+FISPQ
+dinamicaquimica.com.br
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE Versão 3.0
+Atualização:
+PRODUTOS QUÍMICOS
+17/02/2020 13:00
+Pa usa através do tempo: 480 min
+Co ntato com salpicos
+M aterial: Borracha de nitrilo
+es pessura mínima da capa: 0.11 mm
+Pa usa através do tempo: 480 min
+Pr oteção do corpo
+Fato completo de protecção para produtos químicos, O tipo de equipamento de protecção deve ser
+escolhido de acordo com a concentração e a quantidade da substância perigosa no local de trabalho.
+Proteção respiratória
+Nos casos em que a avaliação de risco mostrar que os respiradores purificadores do
+ar são apropriados, use um respirador de cobertura facial total com cartuchos de
+combinação multi-objetivos (E.U.A.) ou do tipo ABEK (EN 14387) como apoio a
+controlos de engenharia. Se o respirador for o único meio de proteção, usa um
+respirador de ar de cobertura facial total. Use respiradores e componentes testados
+e aprovados por normas governamentais apropriadas.
+Controlo da exposição ambiental
+Prevenir dispersão ou derramamento, se seguro. Não permitir a entrada do produto
+no sistema de esgotos.
+_________________________________________________________________________________________
+9. PROPRIEDADES FÍSICAS E QUÍMICAS
+9.1. Informações sobre propriedades físicas e químicas de base
+a) Aspecto Forma: Sólido
+b) Odor Inodoro
+c) Limite de Odor Informação não disponível
+d) pH Informação não disponível
+e) Ponto de Fusão/ Congelamento 170ºC
+f) Ponto de Ebulição Inicial e Intervalo Informação não disponível
+de Ebulição
+g) Ponto de fulgor Não aplicável
+Versão: 3.0
+Data da Versão: 04/12/2019 Página 7 de 13
+Revisado por: Douglas Ribeiro
+FISPQ
+dinamicaquimica.com.br
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE Versão 3.0
+Atualização:
+PRODUTOS QUÍMICOS
+17/02/2020 13:00
+h) Taxa de evaporação Informação não disponível
+i) Inflamabilidade (Sólido, gás) Não inflamável
+j) Limites de inflamabilidade superior, Informação não disponível
+Inferior ou explosividade
+k) Pressão de vapor Informação não disponível
+l) Densidade do vapor Informação não disponível
+m) Densidade relativa 1,88 g/cm³
+n) Hidrossolubilidade 587 g/L a 20 °C
+o) Coeficiente de partição log Pow: -3.6 a 25 °C
+n-octanol/ água
+p) Temperatua de auto-ignição Informação não disponível
+q) Temperatura de decomposição Informação não disponível
+r) Viscosidade Informação não disponível
+9.2. Outra informação de segurança
+Informação não disponível
+10. ESTABILIDADE E REATIVIDADE
+10.1. Reatividade
+Informação não disponível
+10.2. Estabilidade química
+Estável sob as condições recomendadas de armazenamento.
+10.3. Possibilidade de reações perigosas
+Informação não disponível
+10.4. Condições a evitar
+Informação não disponível
+Versão: 3.0
+Data da Versão: 04/12/2019 Página 8 de 13
+Revisado por: Douglas Ribeiro
+FISPQ
+dinamicaquimica.com.br
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE Versão 3.0
+Atualização:
+PRODUTOS QUÍMICOS
+17/02/2020 13:00
+10.5. M ateriais incompatíveis
+O xidantes
+10.6. Produtos de decomposição perigosos
+Produtos perigosos de decomposição formados durante os incêndios:
+Óxidos de azoto (NOx), Óxidos de enxofre;
+Outros produtos de decomposição perigosos - Informação não disponível
+_________________________________________________________________________________________
+11. INFORMAÇÕES TOXICOLÓGICAS
+11.1. Informações sobre os efeitos toxicológicos
+Toxicidade aguda
+DL50 Oral - Ratazana - 842 mg/kg
+DL50 Dérmico - Coelho - macho e fêmea - 1,500 - 2,000 mg/kg
+Corrosão/irritação cutânea
+Dermatites
+Lesões oculares graves/irritação ocular
+Informação não disponível
+Sensibilização respiratória ou cutânea
+Informação não disponível
+Mutagenicidade em células germinativas
+Informação não disponível
+Carcinogenicidade
+Suspeito de provocar cancro.
+IARC: Nenhum componente deste produto presente a níveis maiores ou iguais a 0.1% é identificado como
+carcinogênio provável, possível ou confirmado pelo IARC.
+Versão: 3.0
+Data da Versão: 04/12/2019 Página 9 de 13
+Revisado por: Douglas Ribeiro
+FISPQ
+dinamicaquimica.com.br
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE Versão 3.0
+Atualização:
+PRODUTOS QUÍMICOS
+17/02/2020 13:00
+To xicidade à reprodução e lactação
+In formação não disponível
+Toxicidade sistêmica para órgãos-alvo específicos - exposição única
+Toxicidade aguda por via oral - Irritação, Doenças do estômago / intestinais, contração muscular, Convulsões,
+Coma Toxicidade aguda por via inalatória - Possiveis concequências: irritação das mucosas Toxicidade aguda
+por via cutânea - Reações alérgicas.
+Toxicidade sistêmica para órgãos-alvo específicos - exposição repetida
+Ingestão - Pode afetar os órgãos após exposição prolongada ou repetida. – Sangue
+Perigo de aspiração
+Informação não disponível
+Informação adicional
+Após absorção.
+Reações alérgicas, Irritação, Tosse, depressão respiratória, Sonolência, Respiração superficial, Doenças do
+estômago / intestinais, contração muscular, Cianose, Convulsões, Coma De uma maneira geral, os sais de
+amónio originam as seguintes complicações: Depois de engolir: fenómenos de irritação local, náuseas,
+vómitos, diarreia.
+Ação sistémica: após a ingestão de quantidades muito grandes: queda da pressão sanguínea, colapso
+circulatório, distúrbios do SNC, convulsões, entorpecimento, paragem respiratória, hemólise. Perigo de
+formação de metahemoglobina.
+Outras propriedades perigosas não podem ser excluídas.
+Manusear de acordo com as boas práticas industriais de higiene e segurança
+_________________________________________________________________________________________
+12. INFORMAÇÕES ECOLÓGICAS
+12.1. Ecotoxicidade
+Toxicidade em peixes CL50 - Pimephales promelas (vairão gordo) - 1 - 10 mg/l - 96 h
+Versão: 3.0
+Data da Versão: 04/12/2019 Página 10 de 13
+Revisado por: Douglas Ribeiro
+FISPQ
+dinamicaquimica.com.br
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE Versão 3.0
+Atualização:
+PRODUTOS QUÍMICOS
+17/02/2020 13:00
+Toxicidade em dáfnias e CE50 - Daphnia magna - 1.62 mg/l - 48 h
+outros invertebrados aquáticos
+Toxicidade em algas CI50 - Desmodesmus subspicatus (alga verde) - 0.86 mg/l - 96 h
+12.2. Persistência e degradabilidade
+Informação não disponível
+12.3. Potencial biocumulativo
+Informação não disponível
+12.4. Mobilidade no solo
+Informação não disponível
+12.5. Resultados da avaliação PBT e mPmB
+A valoração de PBT / mPmB não está disponível já que a avaliação de segurança química não é
+necessária / não se realizou
+12.6. Outros efeitos adversos
+Muito tóxico para os organismos aquáticos.
+A descarga no meio ambiente deve ser evitada.
+_________________________________________________________________________________________
+13. CONSIDERAÇÕES SOBRE TRATAMENTO E DISPOSIÇÃO
+13.1. Métodos de tratamento de resíduos
+Produto
+Propor a entrega de soluções excedentes e não recicláveis a uma empresa idónea de tratamento de resíduos.
+Dissolver ou misturar o material com um solvente combustível e queimar em incinerador químico equipado
+com pós-combustor e purificador de gases.
+Versão: 3.0
+Data da Versão: 04/12/2019 Página 11 de 13
+Revisado por: Douglas Ribeiro
+FISPQ
+dinamicaquimica.com.br
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE Versão 3.0
+Atualização:
+PRODUTOS QUÍMICOS
+17/02/2020 13:00
+Embalagens contaminadas
+Não reutilize embalagens vazias. Estas podem conter restos do produto e devem ser
+mantidas fechadas e encaminhadas para descarte apropriado conforme estabelecido para
+o produto.
+_________________________________________________________________________________________
+14. INFORMAÇÕES SOBRE TRANSPORTE
+14.1. Número ONU
+ADR/RID: 2865 DOT (US): 2865 IMDG: 2865 IATA: 2865 ANTT: 2865
+14.2. Designação oficial de Transporte da ONU
+ADR/RID: SULFATO NEUTRO DE HIDROXILAMINA
+DOT (US): Hydroxylamine sulfate
+IMDG: HYDROXYLAMINE SULPHATE
+IATA: Hydroxylamine sulphate
+ANTT: SULFATO DE HIDROXILAMINA
+14.3. Classes de Perigo para efeitos de transporte:
+ADR/RID: 8 DOT (US): 8 IMDG: 8 IATA: 8 ANTT: 8
+14.4. Grupo de embalagem:
+ADR/RID: III DOT (US): III IMDG: III IATA: III ANTT: III
+14.5. Perigos para o ambiente:
+ADR/RID: Sim DOT (US): Não IMDG: IATA: Não
+Poluente Marinho: Sim
+Versão: 3.0
+Data da Versão: 04/12/2019 Página 12 de 13
+Revisado por: Douglas Ribeiro
+FISPQ
+dinamicaquimica.com.br
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE Versão 3.0
+Atualização:
+PRODUTOS QUÍMICOS
+17/02/2020 13:00
+14.6. Pr ecauções especiais para o utilizador
+In formação não disponível
+14.7. N úmero de Risco
+__ ______________________________________________________________________________________
+15. REGULAMENTAÇÕES
+15.1. Regulamentação/legislação específica para a substância ou mistura em matéria de saúde,
+segurança e ambiente
+Esta Ficha de Informações de Produtos Químicos foi preparada de acordo com a NBR 14725-4/2014
+da ABNT (Associação Brasileira de Normas Técnicas).
+16. OUTRAS INFORMAÇÕES
+Direitos exclusivos da Dinâmica Química Contemporânea LTDA. Permissão concedida para fazer
+número ilimitado de cópias em papel, somente para uso interno. Acredita-se que as informações
+acima estejam corretas, embora não pretendam ser totalmente abrangentes, devendo ser usadas
+apenas como um guia. A informação contida neste documento está baseada no presente estado do
+nosso conhecimento e é aplicável às precauções de segurança apropriadas para o produto. A
+Dinâmica Química Contemporânea LTDA. não responderá por nenhum dado resultante do
+manuseio ou do contato com o produto.
+Versão: 3.0
+Data da Versão: 04/12/2019 Página 13 de 13
+Revisado por: Douglas Ribeiro

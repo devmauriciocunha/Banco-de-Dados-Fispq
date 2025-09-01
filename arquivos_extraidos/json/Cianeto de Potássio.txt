@@ -1,0 +1,382 @@
+| CIANETO DE POTASSIO | 
+FICHA DE INFORMAÇÕES DE SEGURANÇA
+DE PRODUTOS QUÍMICOS
+Elaboração: 05/06/2013 Revisão nº02 Última Revisão:24/10/2019 Página 1 de 9
+CIANETO DE POTASSIO
+1. IDENTIFICAÇÃO DO PRODUTO E DA EMPRESA
+Nome da substância ou mistura (nome
+CIANETO DE POTASSIO
+comercial):
+Código interno de identificação do produto: A-2107
+Principais usos recomendados para a
+Reagente para laboratório.
+substância ou mistura:
+Nome da empresa: Anidrol Produtos para Laboratórios Ltda
+Endereço: Av. Fundibem, 275 – Casa Grande - CEP 09961-390 - Diadema - SP.
+Telefone da empresa: (0xx11) 4043 3555
+Fax: Não disponível.
+Telefone para emergências 0800 771 06 06
+E-mail: sac@anidrol.com.br
+Site: www.anidrol.com.br
+2. IDENTIFICAÇÃO DE PERIGOS
+Toxicidade Aguda - Oral – Categoria 2
+Toxicidade Aguda- Dérmica –Categoria 1
+Classificação de Toxicidade Aguda- Inalação –Categoria 2
+substância e mistura: Perigoso ao ambiente aquático- Agudo – Categoria 1
+Perigoso ao ambiente aquático- Crônico – Categoria 1
+Sistema de classificação Norma ABNT-NBR 14725-2:2010. Adoção do Sistema Globalmente Harmonizado para a
+adotado: Classificação e Rotulagem de Produtos Químicos (Purple Book, ONU).
+Outros perigos que não
+resultam em uma Não existem informações disponíveis.
+classificação:
+Elementos de Rotulagem do GHS, incluindo as frases de precaução:
+Pictogramas:
+Palavra de advertência: Perigo
+Frases de perigo: H300 Fatal se ingerido
+H310 Fatal em contato com a pele
+H330 Fatal se inalado
+ | CIANETO DE POTASSIO | 
+FICHA DE INFORMAÇÕES DE SEGURANÇA
+DE PRODUTOS QUÍMICOS
+Elaboração: 05/06/2013 Revisão nº02 Última Revisão:24/10/2019 Página 2 de 9
+CIANETO DE POTASSIO
+H400 Muito Tóxico para os organismos aquáticos
+H410 Muito Tóxico para os organismos aquáticos, com efeitos
+prolongados
+Frases de precaução: Prevenção
+P273 Evite a liberação para o meio ambiente
+P284 [Em caso de ventilação inadequada] Use equipamento de
+proteção respiratória.
+P271 Utilize apenas ao ar livre ou em locais bem ventilados
+P260 Não inale as poeiras/fumos/gases/névoas/vapores/aerossóis
+P262 Evite o contato com os olhos , a pele ou a roupa
+P264 Lave cuidadosamente após o manuseio
+P270 Não coma, beba ou fume durante a utilização deste produto
+P280 Use luvas de proteção/roupa de proteção/proteção
+ocular/proteção facial.
+Resposta à emergência
+P302+P352 Em caso de contato com a pele: Lave com água e sabão em
+abundância
+P304+P340 Em caso de Inalação: Remova a pessoa para o local ventilado e a
+mantenha em repouso numa posição que não dificulte a
+respiração
+P310 Contate imediatamente um CENTRO DE INFORMAÇÃO
+TOXICOLOGICA ou um médico.
+P330 Enxágue a boca.
+P321 Tratamento Especifico (veja mais informações na seção 4 neste
+rotulo)
+P361+P364 Retire imediatamente toda a roupa contaminada e lave-a antes de
+usá-la novamente
+P320 É urgente um tratamento especifico (veja mais informações na
+seção 4 neste rotulo)
+P391 Recolha o material derramado
+P301+P310 EM CASO DE INGESTÃO: Contate imediatamente um CENTRO
+DE INFORMAÇÃO TOXICOLOGICA/médico/...
+Armazenamento
+P405 Armazene em local fechado à chave
+P403 + P233 Armazene em local bem ventilado. Mantenha o recipiente
+hermeticamente fechado.
+ | CIANETO DE POTASSIO | 
+FICHA DE INFORMAÇÕES DE SEGURANÇA
+DE PRODUTOS QUÍMICOS
+Elaboração: 05/06/2013 Revisão nº02 Última Revisão:24/10/2019 Página 3 de 9
+CIANETO DE POTASSIO
+Disposição
+P501 Descarte o conteúdo/recipiente em local adequado. De acordo
+com a legislação vigente
+Outros perigos que não
+resultam em uma Não aplicável.
+classificação:
+3. COMPOSIÇÃO E INFORMAÇÕES SOBRE OS INGREDIENTES
+Substância ou mistura: Substância
+Ingredientes ou impurezas Nome químico Número do CAS Concentração
+que contribuam para o
+Cianeto de Potássio 151-50-8 Min 96%
+perigo:
+Nome químico comum ou nome técnico: Cianeto de Potássio
+Sinônimos: Cianeto de Potássio
+Fórmula molecular: KCN
+Peso molecular: 65,12g/mol
+Registro no Chemical Abstract Service
+151-50-8
+(nº CAS):
+Nº CE: 205-792-3
+Concentração: Mín. 96%
+4. MEDIDAS DE PRIMEIROS SOCORROS
+Mova o paciente para o ar fresco. Monitorar a dificuldade
+respiratória. Em caso de tosse ou dificuldade em respirar, procurar
+Inalação:
+um médico e fazer avaliação de irritação do trato respiratório,
+bronquite ou pneumonite.
+Remova a roupa e lave a pele com água abundante. Os profissionais
+Contato com a pele: de saúde devem usar equipamento de proteção individual, se houver
+exposição cutânea.
+Enxágue cuidadosamente com água durante vários minutos. No caso de uso
+Contato com os olhos: de lentes de contato, remova-as, se for fácil. Caso ocorra irritação ocular:
+consulte um médico.
+NÃO induzir vômito. Contate imediatamente um CENTRO DE INFORMAÇÃO
+Ingestão:
+TOXICOLÓGICA ou um médico.
+ | CIANETO DE POTASSIO | 
+FICHA DE INFORMAÇÕES DE SEGURANÇA
+DE PRODUTOS QUÍMICOS
+Elaboração: 05/06/2013 Revisão nº02 Última Revisão:24/10/2019 Página 4 de 9
+CIANETO DE POTASSIO
+Sintomas e efeitos mais importantes, Pode causar cegueira, e danificar os nervos óticos e retina náusea, dor de
+agudos ou tardios: cabeça, vômito
+O uso de carvão ativado deve ser considerado somente quando o contato
+com o sal for inferior que 1 hora.
+Notas para o médico:
+Um antídoto de cianeto, hidroxocobalamina ou kit nitrito de sódio / tiossulfato
+de sódio, deve ser administrado a pacientes sintomáticos.
+5. MEDIDAS DE COMBATE A INCÊNDIO
+Meios de extinção: Água, espuma resistente ao álcool, pó químico seco.
+Perigos específicos da substância ou Em contato com ácidos libera gás com risco à vida
+mistura:
+Medidas de proteção da equipe de combate Usar equipamento de respiração autônoma em caso de incêndio.
+a incêndio:
+Suprimir com jatos de água os gases, vapores e névoas. Evitar a contaminação
+Informações complementares:
+da água de superfície e da água subterrânea com a água de combate a
+incêndios.
+Produtos de decomposição perigosa: Soluções de cianeto de potássio emitem cianeto de hidrogênio quando
+aquecidas acima de 80°C, Gases e vapores Tóxicos (como cianeto de
+hidrogênio e monóxido de carbono)
+6. MEDIDAS DE CONTROLE PARA DERRAMAMENTO OU VAZAMENTO
+Precauções pessoais, equipamento de proteção e procedimentos de emergência:
+Para quem não faz parte dos serviços de Não respirar vapores nem aerossóis. Evacuar a área de perigo, observar os
+emergências: procedimentos de emergência, consultar um especialista.
+Para quem faz parte do serviço de Equipamento protetor vide a seção 8.
+emergência:
+Precauções ao meio ambiente: Não permitir a entrada do produto nos esgotos.
+Métodos e materiais de contenção e Contenha o vazamento se puder ser feito com segurança. Absorva o produto
+limpeza: derramado a fim de evitar danos materiais.
+7. MANUSEIO E ARMAZENAMENTO
+MEDIDAS TÉCNICAS APROPRIADAS PARA O MANUSEIO
+Precauções para manuseio seguro: Observar os avisos nos rótulos.
+Medidas de higiene: Proibido comer, beber ou fumar nas áreas de trabalho, lave as mãos após o
+uso do produto e remova a roupa e o equipamento de proteção contaminados
+antes de entrar nas áreas de alimentação.
+Condições para armazenamento seguro, Hermeticamente fechado. Temperatura recomendada de armazenamento
+incluindo incompatibilidades: consulte no rótulo.
+8. CONTROLE DE EXPOSIÇÃO E PROTEÇÃO INDIVIDUAL
+ | CIANETO DE POTASSIO | 
+ponderada no tempo: 5 mg / cu m. Designação da pele
+Limite de teto: 5 mg / cu m, pele / sais de cianeto, conforme CN /
+NIOSH: Limite de exposição recomendado: 10 min Valor do teto: 5 mg / cu m
+(4,7 ppm).
+FICHA DE INFORMAÇÕES DE SEGURANÇA
+DE PRODUTOS QUÍMICOS
+Elaboração: 05/06/2013 Revisão nº02 Última Revisão:24/10/2019 Página 5 de 9
+CIANETO DE POTASSIO
+PARÂMETROS DE CONTROLE
+Limites de exposição ocupacional: OSHA:Limite de exposição admissível: Tabela Z-1 Média de 8 horas
+ponderada no tempo: 5 mg / cu m. Designação da pele
+Limite de teto: 5 mg / cu m, pele / sais de cianeto, conforme CN /
+NIOSH: Limite de exposição recomendado: 10 min Valor do teto: 5 mg / cu m
+(4,7 ppm).
+Medidas de controle de engenharia: Medidas técnicas e operações de trabalho adequadas devem ter prioridade
+sobre o uso de equipamento de proteção pessoal. Vide seção 7.
+EQUIPAMENTO DE PROTEÇÃO INDIVIDUAL
+Proteção dos olhos/face: Óculos de proteção contra respingos.
+Proteção da pele e do corpo: Sapatos fechados, vestimenta de segurança para proteção de todo o corpo
+contra respingos de produtos químicos. Luvas de proteção testadas e
+registradas de acordo com a legislação vigente.
+Proteção respiratória: Necessário respirador de ar com máscara completa, com cartucho(s) para
+vapores orgânicos e gases ácidos, em caso de formação de vapores.
+Perigos térmicos: Não representa perigos térmicos
+9. PROPRIEDADES FÍSICAS E QUÍMICAS
+Aspecto (estado físico, forma, cor, etc): Pó branco, amorfos brancos ou massas cristalinas
+Odor: Odor fraco de amêndoas amargas
+Limite de odor: Não aplicável
+pH: 11,0
+Ponto de fusão/Ponto de Congelamento: 634°C
+Ponto de ebulição inicial e faixa de Informação não disponível
+temperatura de ebulição:
+Ponto de fulgor: Informação não disponível
+Taxa de evaporação: Informação não disponível
+Inflamabilidade (sólido, gás): Informação não disponível
+Limite de explosividade: Informação não disponível
+Pressão do vapor: Informação não disponível
+Densidade relativa do vapor: Informação não disponível
+Densidade relativa: 1,55 a 20°C
+Solubilidade: Solúvel em agua quente 100g/100cc , solúvel 25 partes em metanol
+Coeficiente de partição (n- octanol/água): Informação não disponível
+Temperatura de autoignição: Informação não disponível
+ | CIANETO DE POTASSIO | 
+No ar, gradualmente se decompõe com a exposição ao dióxido de carbono e
+à umidade.
+FICHA DE INFORMAÇÕES DE SEGURANÇA
+DE PRODUTOS QUÍMICOS
+Elaboração: 05/06/2013 Revisão nº02 Última Revisão:24/10/2019 Página 6 de 9
+CIANETO DE POTASSIO
+Temperatura de decomposição: Informação não disponível
+Viscosidade: Informação não disponível
+Risco de explosão: Informação não disponível
+Temperatura de ignição: Informação não disponível
+10. ESTABILIDADE E REATIVIDADE
+Reatividade: Reage com água ou qualquer ácido que libere cianeto de hidrogênio
+Estabilidade química: No ar, gradualmente se decompõe com a exposição ao dióxido de carbono e
+à umidade.
+Possibilidade de reações perigosas: Com Nitritos, percloratos, óxidos fortes.
+Condições a serem evitadas: CALOR e ATRITO.
+Materiais incompatíveis: Ácido e xaropes de ácido, alcaloides, hidrato metálico, permanganatos,
+cloratos, peróxidos cloratos
+Produtos de decomposição perigosa: Soluções de cianeto de potássio emitem cianeto de hidrogênio quando
+aquecidas acima de 80°C, Gases e vapores Tóxicos (como cianeto de
+hidrogênio e monóxido de carbono)
+11. INFORMAÇÕES TOXICOLÓGICAS
+Toxicidade aguda causa congestão e corrosão da mucosa gástrica
+Corrosão/Irritação da pele: Soluções fortes são corrosivas para a pele e podem causar úlceras profundas
+Lesões oculares graves/ Causa cegueira e danifica a retina
+irritação ocular:
+Sensibilização respiratória ou à Causa perda de ar
+pele:
+Mutagenicidade em células Informação não disponível
+germinativas:
+Carcinogenicidade: Produto pode causar Câncer
+Toxicidade à reprodução: Alto nível de Cianeto de potássio não teve nenhum efeito marcado no desempenho da
+gestação e lactação
+Toxicidade para órgão-alvo Informação não disponível
+específico – exposição única:
+Toxicidade para órgão-alvo Informação não disponível
+específico – exposição
+repetida:
+Perigo por aspiração: Pode causar envenenamento
+12. INFORMAÇÕES ECOLÓGICAS
+ | CIANETO DE POTASSIO | 
+Os sais de metais alcalinos são muito solúveis em água e, como resultado, se dissociam
+rapidamente em seus respectivos ânions e cátions após a liberação na água. O íon cianeto
+resultante pode então formar cianeto de hidrogênio ou reagir com vários metais presentes
+na água natural. Se o íon cianeto estiver presente em excesso, metalocianetos complexos
+podem se formar; no entanto, se os metais são predominantes, cianetos metálicos simples
+podem se formar. / Cianetos de metais alcalinos /
+FICHA DE INFORMAÇÕES DE SEGURANÇA
+DE PRODUTOS QUÍMICOS
+Elaboração: 05/06/2013 Revisão nº02 Última Revisão:24/10/2019 Página 7 de 9
+CIANETO DE POTASSIO
+EFEITOS AMBIENTAIS, COMPORTAMENTO E IMPACTOS DO PRODUTO
+Ecotoxicidade: Os sais de metais alcalinos são muito solúveis em água e, como resultado, se dissociam
+rapidamente em seus respectivos ânions e cátions após a liberação na água. O íon cianeto
+resultante pode então formar cianeto de hidrogênio ou reagir com vários metais presentes
+na água natural. Se o íon cianeto estiver presente em excesso, metalocianetos complexos
+podem se formar; no entanto, se os metais são predominantes, cianetos metálicos simples
+podem se formar. / Cianetos de metais alcalinos /
+Persistência e Informação não disponível
+degradabilidade:
+Potencial bioacumulativo: Informação não disponível
+Mobilidade no solo: Informação não disponível
+Outros efeitos adversos: Contaminação
+13. CONSIDERAÇÕES SOBRE DESTINAÇÃO FINAL
+Métodos recomendado para destinação Os dejetos devem ser descartados em conformidade com regulamentações
+final: nacionais e locais. Mantenha as substâncias químicas em seus recipientes
+originais. Não misturar com outros dejetos. O manuseio de recipientes sujos
+deve ser realizado da mesma forma que o do produto em si.
+As frases de perigo e de precaução apresentadas no rótulo também se aplicam
+a qualquer resíduo deixado na embalagem. A disposição não controlada ou
+reciclagem desta embalagem não é permitida e pode ser perigosa. Deve ser
+incinerado em instalação de incineração adequada pelas autoridades
+competentes.
+14. INFORMAÇÕES SOBRE TRANSPORTE
+REGULAMENTAÇÕES NACIONAIS E INTERNACIONAIS
+Terrestre: Resolução n° 5232 de 14 de Dezembro de 2016 da Agência Nacional de
+Transportes Terrestres (ANTT), Aprova as Instruções Complementares ao
+Regulamento do Transporte Terrestre de Produtos Perigosos e dá outras
+providências.
+Hidroviário: DPC - Diretoria de Portos e Costas (Transporte em águas brasileiras);
+Normas de Autoridade Marítima (NORMAM);
+NORMAM 01/DPC: Embarcações Empregadas na Navegação em Mar
+Aberto;
+NORMAM 02/DPC: Embarcações Empregadas na Navegação Interior;
+IMO – “International Maritime Organization” (Organização Marítima
+Internacional);
+International Maritime Dangerous Goods Code (IMDG Code) – Incorporating
+Amendment 34-08; 2008 Edition.
+Aéreo: ANAC - Resolução n°129 de 8 de dezembro de 2009;
+RBAC N°175 – (Regulamento Brasileiro da Aviação Civil) - Transporte de
+Artigos Perigosos em Aeronaves Civis;
+IS N° 175-001 – Instrução Suplementar;
+ICAO – “International Civil Aviation Organization” (Organização da Aviação
+Civil
+Internacional) – Doc 9284-NA/905;
+IATA - “International Air Transport Association” (Associação Internacional de
+ | CIANETO DE POTASSIO | 
+FICHA DE INFORMAÇÕES DE SEGURANÇA
+DE PRODUTOS QUÍMICOS
+Elaboração: 05/06/2013 Revisão nº02 Última Revisão:24/10/2019 Página 8 de 9
+CIANETO DE POTASSIO
+Transporte Aéreo);
+Dangerous Goods Regulation (DGR) – 52nd Edition, 2011.
+N° ONU: 1680
+Nome apropriado para embarque: CIANETO DE POTASSIO, SÓLIDO
+Classe/subclasse de risco principal: 6,1
+Classe/subclasse de risco subsidiário: Não aplicável.
+Risco: 66
+Grupo de embalagem: I.
+Perigo ao meio ambiente: Substância Toxica
+15. INFORMAÇÕES SOBRE REGULAMENTAÇÕES
+Regulamentação: Decreto Federal nº 2.657, de 3 de julho de 1998;
+Norma ABNT-NBR 14725 e suas partes (1,2,3 e 4);
+Portaria nº 229, de 24 de Agosto de 2013 – Altera a Norma Regulamentadora
+nº 26.
+NR 15 – Anexos XI e XIII
+Norma ABNT-NBR 14619:2018
+Resolução nº 5232, 14 de Dezembro de 2016 (ANTT)
+GHS (Purple Book)
+Controle: Produto controlado pela Policia Civil, Exercito e IBAMA
+16. OUTRAS INFORMAÇÕES
+Nos locais onde se manipulam produtos químicos deverá ser realizado o monitoramento da exposição dos trabalhadores,
+conforme PPRA (Programa de Prevenção de Riscos Ambientais) da NR-9. Funcionários que manipulam produtos
+químicos, em geral, devem ser monitorados biologicamente conforme o PCMSO (Programa de Controle Médico de
+Saúde Ocupacional) da NR-7.
+As informações desta FISPQ representam os dados atuais e refletem o nosso conhecimento para o manuseio apropriado
+deste produto sobre condições normais e de acordo com a aplicação especifica na embalagem e/ou literatura. Qualquer
+outro uso que envolva o uso combinado com outro produto ou outros processos é de responsabilidade do usuário.
+Referências:
+Os dados desta ficha foram baseados nas fichas de informações de produtos de nossos fornecedores.
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 14725-4: 2014 Produtos químicos – Informações sobre
+segurança, saúde e meio ambiente. Ficha de informações de segurança de produtos químicos (FISPQ).
+Centros de Informações Toxicológicas
+Belo Horizonte - Serviço de Toxicologia de Minas Gerais - Hospital João XXIII
+Fone: (31) 3239.9224/3239.9223 (Hospital) (31) 3239-9308 / 3224-4000 (Tel. CIT.) Fax: (31) 3239.9260(CIT.).
+Porto Alegre - Centro de Informações Toxicológicas do Rio Grande do Sul
+Fone: (51) 3217.1751 (Tel. CIT.) Fax: (51) 3217.9067 Atendimento: 0800 721 3000.
+Recife - Centro de Assistência Toxicológica de Pernambuco - Hospital da Restauração - 1º andar
+Fone: (81) 3421.5444 R. 151 (Tel. Hospital) Fax: (81) 3421.5927 / 3423-8263.
+Rio de Janeiro - Centro de Controle de Intoxicações do Rio de Janeiro - Hospital Universitário Clementino Fraga Filho
+Fone: (21) 2573.3244/2290-3344 (Tel. CIT.) - Fax: (21) 2573-7079 (CIT.).
+Salvador - Centro de Informações Anti-Veneno da Bahia - CIAVE - Hospital Geral Roberto Santos
+Fone: (71) 387.3414/387-4343 e 0800 284 43 43 Fax: (71) 387.3414
+ | CIANETO DE POTASSIO | 
+FICHA DE INFORMAÇÕES DE SEGURANÇA
+DE PRODUTOS QUÍMICOS
+Elaboração: 05/06/2013 Revisão nº02 Última Revisão:24/10/2019 Página 9 de 9
+CIANETO DE POTASSIO
+São Paulo - Centro de Controle de Intoxicações de São Paulo - Hospital Municipal Dr. Artur Ribeiro de Saboya
+Fone/Fax: (11) 5012/2399 (Tel. CIT.) (11) 5012-5311 (atendimento médico) Atendimento: 0800 771 37 33.
+https://pubchem.ncbi.nlm.nih.gov/
+https://chem.nlm.nih.gov/
+https://chem.nlm.nih.gov/chemidplus/chemide
+http://www.abiquim.org.br/
+http://www.fundacentro.gov.br/
+Para mais informações visite o site: http://www.anvisa.gov.br/toxicologia/centros.htm
+Legendas e abreviaturas:
+ANAC – Agência Nacional de Aviação Civil
+ACGIH – American Conference of Governmental Industrial Hygienists
+CAS – Chemical Abstracts Service
+CL50 – Concentração Letal 50%
+DGR – Dangerous Goods Regulation
+DPC – Diretoria de Portos e Costas
+IATA – International Air Transport Association
+ICAO – International Civil Aviation Organization
+IARC – International Agency for Research on Cancer
+IDLH – Immediately Dangerous to Life or Health
+LT – Limite de Tolerância
+NIOSH – National Institute for Occupational Safety and Health
+NR – Norma Regulamentadora
+ONU – Organização das Nações Unidas
+SBCA – Self Contained Breathing Apparatus
+TLV – Threshold Limit Value
+TWA – Time Weighted Average
+NR – Norma Regulamentadora
+CA – Certificado de Aprovação

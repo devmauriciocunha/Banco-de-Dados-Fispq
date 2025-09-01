@@ -1,0 +1,631 @@
+Bioquímica
+e Química
+Ltda. | Bioquímica
+e Química
+Ltda. | FICHA DE SEGURANÇA
+De acordo com a norma NBR 14725-4:2014 | FISPQ No. OT - 016
+ | | | Página 1 de 7
+ | 1. Identificação do produto e da empresa | 
+1.1 Identificadores do produto Nome do produto:
+TETRABORATO DE SÓDIO DECAHIDRATADO
+Referência do Produto: FMA0000114080
+1.2 Outros meios de identificação
+Dados não disponíveis
+1.3 Utilizações identificadas relevantes da substância ou mistura e utilizações desaconselhadas
+Só para utilização R&D. Não para utilização farmacêutica, doméstica ou outras utilizações.
+1.4 Identificação do fornecedor da ficha de dados de segurança
+Bioquímica e Química Ltda.
+Rua Leiria, 537 - São Francisco - Belo Horizonte - MG - CEP: 31255-100
+Telefone: (31) 2534-5001 - www.bioquimicaonline.com
+1.5 Número de telefone de emergência
+31 - 2534-5001 | | 
+ | 2. Identificação de perigos | 
+2.1 Classificação GHS
+Toxicidade aguda, Oral (Categoria 5)
+Toxicidade reprodutiva (Categoria 1B)
+2.2 Elementos da Etiqueta GHS, incluindo declarações de prevenção
+Pictograma
+Palavra de advertência
+Perigo
+Frases de Perigo
+H303 Pode ser perigoso por ingestão.
+H360 Pode afetar a fertilidade ou o nascituro.
+Frases de Precaução
+Prevenção
+P201 Pedir instruções específicas antes da utilização.
+P202 Não manuseie o produto antes de ter lido e percebido todas as precauções de segurança.
+P281 Usar o equipamento de proteção individual exigido.
+Resposta
+P308 + P313 EM CASO DE exposição ou suspeita de exposição: consulte um médico.
+Armazenagem
+P405 Armazenar em local fechado à chave.
+Destruição
+P501 Eliminar o conteúdo/ recipiente em instalação aprovada de destruição de resíduos.
+Reservado aos utilizadores profissionais.
+2.3 Outros Perigos
+Nenhum(a) | | 
+Bioquímica FISPQ No. OT - 016
+FICHA DE SEGURANÇA
+e Química
+Ltda. De acordo com a norma NBR 14725-4:2014 Página 1 de 7
+Nome do produto: Tetraborato de Sódio Decahidratado Referência do produto: FMA0000114080
+Data da revisão: 21/10/2016 No. da revisão: 04
+1. Identificação do produto e da empresa
+1.1 Identificadores do produto Nome do produto:
+TETRABORATO DE SÓDIO DECAHIDRATADO
+Referência do Produto: FMA0000114080
+1.2 Outros meios de identificação
+Dados não disponíveis
+1.3 Utilizações identificadas relevantes da substância ou mistura e utilizações desaconselhadas
+Só para utilização R&D. Não para utilização farmacêutica, doméstica ou outras utilizações.
+1.4 Identificação do fornecedor da ficha de dados de segurança
+Bioquímica e Química Ltda.
+Rua Leiria, 537 - São Francisco - Belo Horizonte - MG - CEP: 31255-100
+Telefone: (31) 2534-5001 - www.bioquimicaonline.com
+1.5 Número de telefone de emergência
+31 - 2534-5001
+2. Identificação de perigos
+2.1 Classificação GHS
+Toxicidade aguda, Oral (Categoria 5)
+Toxicidade reprodutiva (Categoria 1B)
+2.2 Elementos da Etiqueta GHS, incluindo declarações de prevenção
+Pictograma
+Palavra de advertência
+Perigo
+Frases de Perigo
+H303 Pode ser perigoso por ingestão.
+H360 Pode afetar a fertilidade ou o nascituro.
+Frases de Precaução
+Prevenção
+P201 Pedir instruções específicas antes da utilização.
+P202 Não manuseie o produto antes de ter lido e percebido todas as precauções de segurança.
+P281 Usar o equipamento de proteção individual exigido.
+Resposta
+P308 + P313 EM CASO DE exposição ou suspeita de exposição: consulte um médico.
+Armazenagem
+P405 Armazenar em local fechado à chave.
+Destruição
+P501 Eliminar o conteúdo/ recipiente em instalação aprovada de destruição de resíduos.
+Reservado aos utilizadores profissionais.
+2.3 Outros Perigos
+Nenhum(a)
+Bioquímica
+e Química
+Ltda. | Bioquímica
+e Química
+Ltda. | FICHA DE SEGURANÇA
+De acordo com a norma NBR 14725-4:2014 | FISPQ No. OT - 016
+ | | | Página 2 de 7
+ | 3. Composição e informação sobre os ingredientes | 
+3.1 Substâncias
+Sinônimos: Borax decahidratado
+Tetraborato de sódio decahidratado
+Fórmula: B4Na2O7 · 10H2O
+Peso molecular: 381.37 g/mol
+COMPONENTE CONCENTRAÇÃO
+Tetraborato de sódio
+No. CAS 1303-96-4
+No. CE 215-540-4
+<=100%
+No. Index 005-011-01-1
+Número de Registro 01-2119490790-32-XXXX
+3.4 Mistura
+Não aplicável | | 
+COMPONENTE | CONCENTRAÇÃO
+Tetraborato de sódio | 
+No. CAS 1303-96-4
+No. CE 215-540-4
+No. Index 005-011-01-1
+Número de Registro 01-2119490790-32-XXXX | <=100%
+ | 4. Medidas de primeiros socorros | 
+4.1 Descrição das medidas de primeiros socorros
+Recomendação geral
+Consultar um médico. Mostrar esta ficha de segurança ao médico de serviço.
+Se for inalado
+Se for respirado, levar a pessoa para o ar fresco. Se não respirar, dar respiração artificial. Consultar um médico.
+No caso dum contato com a pele
+Lavar com sabão e muita água. Consultar um médico.
+No caso dum contato com os olhos
+Lavar os olhos com água como precaução.
+Se for engolido
+Nunca dar nada pela boca a uma pessoa inconsciente. Enxaguar a boca com água. Consultar um médico.
+4.2 Sintomas e efeitos mais importantes, tanto agudos como retardados
+O estudo na alimentação animal no rato, rato e o cão, em doses elevadas, demonstrou efeitos na fertilidade e nos testículos. Os
+estudos químicos relacionados com ácido bórico no rato, na rata e no coelho em doses elevadas, demonstram efeitos no
+desenvolvimento do feto que incluem perda do peso do feto e modificações esqueléticas menores. As doses administradas eram
+muitas vezes superiores daquelas a que os seres humanos seriam expostos normalmente. Os estudos epidemiológicos em humanos
+não mostram nenhum aumento das doenças pulmonares em populações que trabalham com exposições crônica à poeira de ácido
+bórico e de borato de sódio. Um estudo epidemiológico recente sob as circunstâncias do exposição ocupacional normal à poeira de
+borato não indicou nenhum efeito na fertilidade.
+4.3 Indicações sobre cuidados médicos urgentes e tratamentos especiais necessários
+Dados não disponíveis | | 
+ | 5. Medidas de combate a incêndio | 
+5.1 Meios de extinção
+Meios adequados de extinção
+Usar meios de extinção que sejam apropriados às circunstâncias locais e ao ambiente envolvente.
+5.2 Perigos especiais decorrentes da substância ou mistura
+Borano/óxidos de boro, Óxidos de sódio
+5.3 Recomendações para o pessoal de combate a incêndios
+Usar equipamento de respiração autônomo para combate a incêndios, se necessário.
+5.4 Outras informações
+O produto não queima. | | 
+Bioquímica FISPQ No. OT - 016
+FICHA DE SEGURANÇA
+e Química
+Ltda. De acordo com a norma NBR 14725-4:2014 Página 2 de 7
+Nome do produto: Tetraborato de Sódio Decahidratado Referência do produto: FMA0000114080
+Data da revisão: 21/10/2016 No. da revisão: 04
+3. Composição e informação sobre os ingredientes
+3.1 Substâncias
+Sinônimos: Borax decahidratado
+Tetraborato de sódio decahidratado
+Fórmula: B4Na2O7 · 10H2O
+Peso molecular: 381.37 g/mol
+COMPONENTE CONCENTRAÇÃO
+Tetraborato de sódio
+No. CAS 1303-96-4
+No. CE 215-540-4
+<=100%
+No. Index 005-011-01-1
+Número de Registro 01-2119490790-32-XXXX
+3.4 Mistura
+Não aplicável
+4. Medidas de primeiros socorros
+4.1 Descrição das medidas de primeiros socorros
+Recomendação geral
+Consultar um médico. Mostrar esta ficha de segurança ao médico de serviço.
+Se for inalado
+Se for respirado, levar a pessoa para o ar fresco. Se não respirar, dar respiração artificial. Consultar um médico.
+No caso dum contato com a pele
+Lavar com sabão e muita água. Consultar um médico.
+No caso dum contato com os olhos
+Lavar os olhos com água como precaução.
+Se for engolido
+Nunca dar nada pela boca a uma pessoa inconsciente. Enxaguar a boca com água. Consultar um médico.
+4.2 Sintomas e efeitos mais importantes, tanto agudos como retardados
+O estudo na alimentação animal no rato, rato e o cão, em doses elevadas, demonstrou efeitos na fertilidade e nos testículos. Os
+estudos químicos relacionados com ácido bórico no rato, na rata e no coelho em doses elevadas, demonstram efeitos no
+desenvolvimento do feto que incluem perda do peso do feto e modificações esqueléticas menores. As doses administradas eram
+muitas vezes superiores daquelas a que os seres humanos seriam expostos normalmente. Os estudos epidemiológicos em humanos
+não mostram nenhum aumento das doenças pulmonares em populações que trabalham com exposições crônica à poeira de ácido
+bórico e de borato de sódio. Um estudo epidemiológico recente sob as circunstâncias do exposição ocupacional normal à poeira de
+borato não indicou nenhum efeito na fertilidade.
+4.3 Indicações sobre cuidados médicos urgentes e tratamentos especiais necessários
+Dados não disponíveis
+5. Medidas de combate a incêndio
+5.1 Meios de extinção
+Meios adequados de extinção
+Usar meios de extinção que sejam apropriados às circunstâncias locais e ao ambiente envolvente.
+5.2 Perigos especiais decorrentes da substância ou mistura
+Borano/óxidos de boro, Óxidos de sódio
+5.3 Recomendações para o pessoal de combate a incêndios
+Usar equipamento de respiração autônomo para combate a incêndios, se necessário.
+5.4 Outras informações
+O produto não queima.
+Bioquímica
+e Química
+Ltda. | Bioquímica
+e Química
+Ltda. | FICHA DE SEGURANÇA
+De acordo com a norma NBR 14725-4:2014 | FISPQ No. OT - 016
+ | | | Página 3 de 7
+ | 6. Medidas de controle para derramamento ou vazamentos | 
+6.1 Precauções individuais, equipamento de proteção e procedimentos de emergência
+Usar equipamento de proteção individual. Evitar a formação de poeira. Evitar a respiração do vapor/névoa/gás. Assegurar ventilação
+adequada. Evacuar o pessoal para áreas de segurança. Evitar de respirar o pó.
+6.2 Precauções ao meio ambiente
+Prevenir dispersão ou derramamento ulterior se for mais seguro assim. Não permitir a entrada do produto no sistema de esgotos.
+6.3 Métodos e materiais de confinamento e limpeza
+Apanhar os resíduos sem levantar poeiras. Varrer e apanhar com uma pá. Manter em recipientes fechados adequados, para
+eliminação.
+6.4 Remissão para outras seções
+Para eliminação de resíduos ver seção 13. | | 
+ | 7. Manuseio e armazenamento | 
+7.1 Precauções para um manuseamento seguro
+Evitar a formação de pó e aerossóis.Evitar a exposição - obter instruções específicas antes da utilização. Providenciar uma adequada
+ventilação em locais onde se formem poeiras.
+7.2 Condições de armazenagem segura, incluindo eventuais incompatibilidades
+Armazenar em local fresco. Guardar o recipiente hermeticamente fechado em lugar seco e bem ventilado.
+7.3 Utilizações finais específicas
+Dados não disponíveis | | 
+ | 8. Controle de exposição e proteção individual | 
+8.1 Parâmetros de controle
+Limites de exposição ocupacional
+Nós não temos conhecimento de nenhuma limite de exposição nacional.
+8.2 Controle da exposição
+Controles técnicos adequados
+Manusear de acordo com as boas práticas industriais de higiene e segurança. Lavar as mãos antes de interrupções, e no final do dia
+de trabalho.
+Proteção individual
+Proteção ocular/ facial
+Óculos de proteção com um lado protetor de acordo com EN 166 Use equipamento de proteção ocular testado e aprovado de acordo
+com as normas governamentais adequadas, tais como NIOSH (US) ou EN 166 (EU).
+Proteção da pele
+Manusear com luvas. As luvas devem ser inspecionados antes da utilização. Use uma técnica adequada para a remoção das luvas
+(sem tocar a superfície exterior da luva) para evitar o contato da pele com o produto. Descarte as luvas contaminadas após o uso, em
+conformidade com as leis e boas práticas de laboratório . Lavar e secar as mãos.
+As luvas de proteção selecionadas devem satisfazer as especificações da Diretiva da UE 89/689/CEE e a norma EN 374 derivada
+dela.
+Contato total
+Substância: Borracha de nitrilo
+Espessura mínima da capa: 0.11 mm
+Pausa através do tempo: 480 min
+Material ensaiado:Dermatril® (KCL 740 / Aldrich Z677272, Tamanho M)
+Contato com salpicos
+Substância: Borracha de nitrilo
+Espessura mínima da capa: 0.11 mm
+Pausa através do tempo: 480 min
+Material ensaiado:Dermatril® (KCL 740 / Aldrich Z677272, Tamanho M)
+Fonte de dados: KCL GmbH, D-36124 Eichenzell, Telefone +49 (0)6659 87300, e-mail sales@kcl.de,
+Método de ensaio: EN374 | | 
+Bioquímica FISPQ No. OT - 016
+FICHA DE SEGURANÇA
+e Química
+Ltda. De acordo com a norma NBR 14725-4:2014 Página 3 de 7
+Nome do produto: Tetraborato de Sódio Decahidratado Referência do produto: FMA0000114080
+Data da revisão: 21/10/2016 No. da revisão: 04
+6. Medidas de controle para derramamento ou vazamentos
+6.1 Precauções individuais, equipamento de proteção e procedimentos de emergência
+Usar equipamento de proteção individual. Evitar a formação de poeira. Evitar a respiração do vapor/névoa/gás. Assegurar ventilação
+adequada. Evacuar o pessoal para áreas de segurança. Evitar de respirar o pó.
+6.2 Precauções ao meio ambiente
+Prevenir dispersão ou derramamento ulterior se for mais seguro assim. Não permitir a entrada do produto no sistema de esgotos.
+6.3 Métodos e materiais de confinamento e limpeza
+Apanhar os resíduos sem levantar poeiras. Varrer e apanhar com uma pá. Manter em recipientes fechados adequados, para
+eliminação.
+6.4 Remissão para outras seções
+Para eliminação de resíduos ver seção 13.
+7. Manuseio e armazenamento
+7.1 Precauções para um manuseamento seguro
+Evitar a formação de pó e aerossóis.Evitar a exposição - obter instruções específicas antes da utilização. Providenciar uma adequada
+ventilação em locais onde se formem poeiras.
+7.2 Condições de armazenagem segura, incluindo eventuais incompatibilidades
+Armazenar em local fresco. Guardar o recipiente hermeticamente fechado em lugar seco e bem ventilado.
+7.3 Utilizações finais específicas
+Dados não disponíveis
+8. Controle de exposição e proteção individual
+8.1 Parâmetros de controle
+Limites de exposição ocupacional
+Nós não temos conhecimento de nenhuma limite de exposição nacional.
+8.2 Controle da exposição
+Controles técnicos adequados
+Manusear de acordo com as boas práticas industriais de higiene e segurança. Lavar as mãos antes de interrupções, e no final do dia
+de trabalho.
+Proteção individual
+Proteção ocular/ facial
+Óculos de proteção com um lado protetor de acordo com EN 166 Use equipamento de proteção ocular testado e aprovado de acordo
+com as normas governamentais adequadas, tais como NIOSH (US) ou EN 166 (EU).
+Proteção da pele
+Manusear com luvas. As luvas devem ser inspecionados antes da utilização. Use uma técnica adequada para a remoção das luvas
+(sem tocar a superfície exterior da luva) para evitar o contato da pele com o produto. Descarte as luvas contaminadas após o uso, em
+conformidade com as leis e boas práticas de laboratório . Lavar e secar as mãos.
+As luvas de proteção selecionadas devem satisfazer as especificações da Diretiva da UE 89/689/CEE e a norma EN 374 derivada
+dela.
+Contato total
+Substância: Borracha de nitrilo
+Espessura mínima da capa: 0.11 mm
+Pausa através do tempo: 480 min
+Material ensaiado:Dermatril® (KCL 740 / Aldrich Z677272, Tamanho M)
+Contato com salpicos
+Substância: Borracha de nitrilo
+Espessura mínima da capa: 0.11 mm
+Pausa através do tempo: 480 min
+Material ensaiado:Dermatril® (KCL 740 / Aldrich Z677272, Tamanho M)
+Fonte de dados: KCL GmbH, D-36124 Eichenzell, Telefone +49 (0)6659 87300, e-mail sales@kcl.de,
+Método de ensaio: EN374
+Bioquímica
+e Química
+Ltda. | Bioquímica
+e Química
+Ltda. | FICHA DE SEGURANÇA
+De acordo com a norma NBR 14725-4:2014 | FISPQ No. OT - 016
+ | | | Página 4 de 7
+ | 9. Propriedades físico-químicas | 
+9.1 Informações sobre propriedades físicas e químicas de base
+a) Aspecto Forma: Cristalino
+Cor: Branco
+b) Odor Dados não disponíveis
+c) Limite de Odor Dados não disponíveis
+d) pH 9.2 a 10 g/l
+e) Ponto de fusão/ponto de congelamento 62 °C
+f) Ponto de ebulição inicial e intervalo de ebulição Dados não disponíveis
+g) Ponto de fulgor Dados não disponíveis
+h) Taxa de evaporação Dados não disponíveis
+i) Inflamabilidade (sólido, gás) Dados não disponíveis
+j) Limites de inflamabilidade superior/inferior ou explosividade Dados não disponíveis
+k) Pressão de vapor Dados não disponíveis
+l) Densidade de vapor Dados não disponíveis
+m) Densidade relativa 1.73 g/cm3 a 25 °C
+n) Hidrossolubilidade 38.1 g/l a 20 °C - completamente solúvel
+o) Coeficiente de partição n-octanol/água Dados não disponíveis
+p) Temperatura de autoignição Dados não disponíveis
+q) Temperatura de decomposição Dados não disponíveis
+r) Viscosidade Dados não disponíveis
+9.2 Outra informação de segurança
+Dados não disponíveis | | 
+ | 10. Estabilidade e reatividade | 
+10.1 Reatividade
+Dados não disponíveis
+10.2 Estabilidade química
+Dados não disponíveis
+10.3 Possibilidade de reações perigosas
+Dados não disponíveis
+10.4 Condições a evitar
+Dados não disponíveis | | 
+Bioquímica FISPQ No. OT - 016
+FICHA DE SEGURANÇA
+e Química
+Ltda. De acordo com a norma NBR 14725-4:2014 Página 4 de 7
+Nome do produto: Tetraborato de Sódio Decahidratado Referência do produto: FMA0000114080
+Data da revisão: 21/10/2016 No. da revisão: 04
+Se for utilizado em solução, ou misturado com outras substâncias, e sob condições que diferem da EN 374, contatar o fornecedor de
+luvas da CE. Esta recomendação é apenas desejável e deve ser avaliada por um responsável de segurança e higiene industrial
+familiarizado com a situação específica de utilização pretendida pelos nossos clientes. Não deve ser interpretado como uma oferta de
+aprovação para qualquer cenário de uso específico
+Proteção do corpo
+Roupas impermeáveis, O gênero de equipamento de proteção deve ser escolhido de acordo com a concentração e a quantidade da
+substância perigosa no lugar de trabalho.
+Proteção respiratória
+Nos casos em que a avaliação de risco mostrar que os respiradores purificadores do ar são apropriados, use um respirador de
+partículas do tipo N100 (E.U.A.) ou cartuchos de respiração do tipo P2 (EN 143) como apoio a controles de engenharia. Se o
+respirador for o único meio de proteção, usa um respirador de ar de cobertura facial total. Use respiradores e componentes
+testados e aprovados por normas governamentais apropriadas, tais como as NIOSH (E.U.A.) ou CEN (UE).
+9. Propriedades físico-químicas
+9.1 Informações sobre propriedades físicas e químicas de base
+a) Aspecto Forma: Cristalino
+Cor: Branco
+b) Odor Dados não disponíveis
+c) Limite de Odor Dados não disponíveis
+d) pH 9.2 a 10 g/l
+e) Ponto de fusão/ponto de congelamento 62 °C
+f) Ponto de ebulição inicial e intervalo de ebulição Dados não disponíveis
+g) Ponto de fulgor Dados não disponíveis
+h) Taxa de evaporação Dados não disponíveis
+i) Inflamabilidade (sólido, gás) Dados não disponíveis
+j) Limites de inflamabilidade superior/inferior ou explosividade Dados não disponíveis
+k) Pressão de vapor Dados não disponíveis
+l) Densidade de vapor Dados não disponíveis
+m) Densidade relativa 1.73 g/cm3 a 25 °C
+n) Hidrossolubilidade 38.1 g/l a 20 °C - completamente solúvel
+o) Coeficiente de partição n-octanol/água Dados não disponíveis
+p) Temperatura de autoignição Dados não disponíveis
+q) Temperatura de decomposição Dados não disponíveis
+r) Viscosidade Dados não disponíveis
+9.2 Outra informação de segurança
+Dados não disponíveis
+10. Estabilidade e reatividade
+10.1 Reatividade
+Dados não disponíveis
+10.2 Estabilidade química
+Dados não disponíveis
+10.3 Possibilidade de reações perigosas
+Dados não disponíveis
+10.4 Condições a evitar
+Dados não disponíveis
+Bioquímica
+e Química
+Ltda. | Bioquímica
+e Química
+Ltda. | FICHA DE SEGURANÇA
+De acordo com a norma NBR 14725-4:2014 | FISPQ No. OT - 016
+ | | | Página 5 de 7
+ | 11. Informações toxicológicas | 
+11.1 Informações sobre os efeitos toxicológicos
+Toxicidade aguda
+DL50 Oral - ratazana - 4,500 - 5,000 mg/kg
+DL50 Dérmico - coelho - 10,000 mg/kg
+Corrosão/irritação cutânea
+Dados não disponíveis
+Lesões oculares graves/irritação ocular
+Dados não disponíveis
+Sensibilização respiratória ou cutânea
+Dados não disponíveis
+Mutagenicidade em células germinativas
+Dados não disponíveis
+Carcinogenicidade
+IARC: Nenhum componente deste produto presente a níveis maiores ou iguais a 0.1% é identificado como
+carcinogênico provável, possível ou confirmado pelo IARC.
+Toxicidade à reprodução e lactação
+Feto toxicidade
+Tóxico reprodutivo para os humanos
+Toxicidade sistêmica para órgãos-alvo específicos - exposição única
+Dados não disponíveis
+Toxicidade sistêmica para órgãos-alvo específicos - exposição repetida
+Dados não disponíveis
+Perigo de aspiração
+Dados não disponíveis
+Efeitos potenciais para a saúde
+Inalação: Pode ser perigoso se for inalação. Pode causar uma irritação do aparelho respiratório.
+Ingestão. Pode ser perigoso se for engolido.
+Pele. Pode ser perigoso se for absorto pela pele. Pode causar uma irritação da pele.
+Olhos. Pode causar uma irritação dos olhos.
+Sinais e sintomas de exposição
+O estudo na alimentação animal no rato, rato e o cão, em doses elevadas, demonstrou efeitos na fertilidade e nos testículos. Os
+estudos químicos relacionados com ácido bórico no rato, na rata e no coelho em doses elevadas, demonstram efeitos no
+desenvolvimento do feto que incluem perda do peso do feto e modificações esqueléticas menores. As doses administradas eram
+muitas vezes superiores daquelas a que os seres humanos seriam expostos normalmente. Os estudos epidemiológicos em humanos
+não mostram nenhum aumento das doenças pulmonares em populações que trabalham com exposições crônica à poeira de ácido
+bórico e de borato de sódio. Um estudo epidemiológico recente sob as circunstâncias do exposição ocupacional normal à poeira de
+borato não indicou nenhum efeito na fertilidade.
+Informação adicional
+RTECS: VZ2275000 | | 
+Bioquímica FISPQ No. OT - 016
+FICHA DE SEGURANÇA
+e Química
+Ltda. De acordo com a norma NBR 14725-4:2014 Página 5 de 7
+Nome do produto: Tetraborato de Sódio Decahidratado Referência do produto: FMA0000114080
+Data da revisão: 21/10/2016 No. da revisão: 04
+10.5 Materiais incompatíveis
+Agentes oxidantes fortes, Agentes redutores fortes
+10.6 Produtos de decomposição perigosos
+Outros produtos de decomposição perigosos - dados não disponíveis
+11. Informações toxicológicas
+11.1 Informações sobre os efeitos toxicológicos
+Toxicidade aguda
+DL50 Oral - ratazana - 4,500 - 5,000 mg/kg
+DL50 Dérmico - coelho - 10,000 mg/kg
+Corrosão/irritação cutânea
+Dados não disponíveis
+Lesões oculares graves/irritação ocular
+Dados não disponíveis
+Sensibilização respiratória ou cutânea
+Dados não disponíveis
+Mutagenicidade em células germinativas
+Dados não disponíveis
+Carcinogenicidade
+IARC: Nenhum componente deste produto presente a níveis maiores ou iguais a 0.1% é identificado como
+carcinogênico provável, possível ou confirmado pelo IARC.
+Toxicidade à reprodução e lactação
+Feto toxicidade
+Tóxico reprodutivo para os humanos
+Toxicidade sistêmica para órgãos-alvo específicos - exposição única
+Dados não disponíveis
+Toxicidade sistêmica para órgãos-alvo específicos - exposição repetida
+Dados não disponíveis
+Perigo de aspiração
+Dados não disponíveis
+Efeitos potenciais para a saúde
+Inalação: Pode ser perigoso se for inalação. Pode causar uma irritação do aparelho respiratório.
+Ingestão. Pode ser perigoso se for engolido.
+Pele. Pode ser perigoso se for absorto pela pele. Pode causar uma irritação da pele.
+Olhos. Pode causar uma irritação dos olhos.
+Sinais e sintomas de exposição
+O estudo na alimentação animal no rato, rato e o cão, em doses elevadas, demonstrou efeitos na fertilidade e nos testículos. Os
+estudos químicos relacionados com ácido bórico no rato, na rata e no coelho em doses elevadas, demonstram efeitos no
+desenvolvimento do feto que incluem perda do peso do feto e modificações esqueléticas menores. As doses administradas eram
+muitas vezes superiores daquelas a que os seres humanos seriam expostos normalmente. Os estudos epidemiológicos em humanos
+não mostram nenhum aumento das doenças pulmonares em populações que trabalham com exposições crônica à poeira de ácido
+bórico e de borato de sódio. Um estudo epidemiológico recente sob as circunstâncias do exposição ocupacional normal à poeira de
+borato não indicou nenhum efeito na fertilidade.
+Informação adicional
+RTECS: VZ2275000
+Bioquímica
+e Química
+Ltda. | Bioquímica
+e Química
+Ltda. | FICHA DE SEGURANÇA
+De acordo com a norma NBR 14725-4:2014 | FISPQ No. OT - 016
+ | | | Página 6 de 7
+ | 12. Informações ecológicas | 
+12.1 Eco toxicidade
+Toxicidade em peixes CL50 - Carassius auratus (Peixe dourado) - 178 mg/l - 72 h
+Toxicidade em dáfnias e CE50 - Daphnia magna - 1,085 - 1,402 mg/l - 48 h
+outros invertebrados
+aquáticos
+Toxicidade em algas CI50 - Desmodesmus subspicatus (alga verde) - 158 mg/l - 96 h
+12.2 Persistência e degradabilidade
+Dados não disponíveis
+12.3 Potencial biocumulativo
+Dados não disponíveis
+12.4 Mobilidade no solo
+Dados não disponíveis
+12.5 Resultados da avaliação PBT e mPmB
+Dados não disponíveis
+12.6 Outros efeitos adversos
+Dados não disponíveis | | 
+ | 13. Considerações sobre tratamento e disposição | 
+13.1 Métodos de tratamento de resíduos
+Produto
+Os dejetos devem ser descartados em conformidade com regulamentações nacionais e locais. Mantenha as substâncias químicas
+em seus recipientes originais. Não misturar com outros dejetos. O manuseio de recipientes sujos deve ser realizado da mesma forma
+que o do produto em si.
+Embalagens contaminadas
+Eliminar como produto não utilizado. | | 
+ | 14. Informações sobre transporte | 
+14.1 Número ONU
+ADR/RID: - DOT (US): - IMDG: - IATA: -
+14.2 Designação oficial de transporte da ONU
+ADR/RID: Mercadorias não perigosas
+DOT (US): Mercadorias não perigosas
+IMDG: Mercadorias não perigosas
+IATA: Mercadorias não perigosas
+14.3 Classes de perigo para efeitos de transporte
+ADR/RID: - DOT (US): - IMDG: - IATA: -
+14.4 Grupo de embalagem
+ADR/RID: - DOT (US): - IMDG: - IATA: -
+14.5 Perigos para o ambiente
+ADR/RID: não DOT (US): não IMDG Poluente marinho: não IATA: não
+14.6 Precauções especiais para o utilizador
+Dados não disponíveis | | 
+Bioquímica FISPQ No. OT - 016
+FICHA DE SEGURANÇA
+e Química
+Ltda. De acordo com a norma NBR 14725-4:2014 Página 6 de 7
+Nome do produto: Tetraborato de Sódio Decahidratado Referência do produto: FMA0000114080
+Data da revisão: 21/10/2016 No. da revisão: 04
+12. Informações ecológicas
+12.1 Eco toxicidade
+Toxicidade em peixes CL50 - Carassius auratus (Peixe dourado) - 178 mg/l - 72 h
+Toxicidade em dáfnias e CE50 - Daphnia magna - 1,085 - 1,402 mg/l - 48 h
+outros invertebrados
+aquáticos
+Toxicidade em algas CI50 - Desmodesmus subspicatus (alga verde) - 158 mg/l - 96 h
+12.2 Persistência e degradabilidade
+Dados não disponíveis
+12.3 Potencial biocumulativo
+Dados não disponíveis
+12.4 Mobilidade no solo
+Dados não disponíveis
+12.5 Resultados da avaliação PBT e mPmB
+Dados não disponíveis
+12.6 Outros efeitos adversos
+Dados não disponíveis
+13. Considerações sobre tratamento e disposição
+13.1 Métodos de tratamento de resíduos
+Produto
+Os dejetos devem ser descartados em conformidade com regulamentações nacionais e locais. Mantenha as substâncias químicas
+em seus recipientes originais. Não misturar com outros dejetos. O manuseio de recipientes sujos deve ser realizado da mesma forma
+que o do produto em si.
+Embalagens contaminadas
+Eliminar como produto não utilizado.
+14. Informações sobre transporte
+14.1 Número ONU
+ADR/RID: - DOT (US): - IMDG: - IATA: -
+14.2 Designação oficial de transporte da ONU
+ADR/RID: Mercadorias não perigosas
+DOT (US): Mercadorias não perigosas
+IMDG: Mercadorias não perigosas
+IATA: Mercadorias não perigosas
+14.3 Classes de perigo para efeitos de transporte
+ADR/RID: - DOT (US): - IMDG: - IATA: -
+14.4 Grupo de embalagem
+ADR/RID: - DOT (US): - IMDG: - IATA: -
+14.5 Perigos para o ambiente
+ADR/RID: não DOT (US): não IMDG Poluente marinho: não IATA: não
+14.6 Precauções especiais para o utilizador
+Dados não disponíveis
+Bioquímica
+e Química
+Ltda. | Bioquímica
+e Química
+Ltda. | FICHA DE SEGURANÇA
+De acordo com a norma NBR 14725-4:2014 | FISPQ No. OT - 016
+ | | | Página 7 de 7
+ | 15. Regulamentações | 
+15.1 Regulamentação/legislação específica para a substância ou mistura em matéria de saúde, segurança e ambiente
+Esta Ficha de Informações de Produtos Químicos foi preparada de acordo com a NBR 14725-4/2014 da ABNT (Associação Brasileira
+de Normas Técnicas) | | 
+ | 16. Outras informações | 
+Esta FISPQ foi elaborada baseada nos conhecimentos atuais do produto químico e fornece informações quanto à proteção, à
+segurança, à saúde e ao meio ambiente. Adverte-se que o manuseio de qualquer substância química requer o conhecimento prévio
+de seus perigos pelo usuário. Cabe à empresa usuária do produto promover o treinamento de seus empregados e contratados
+quanto aos possíveis riscos advindos do produto.
+Este produto deve ser armazenado e manuseado de acordo com as boas práticas de higiene industrial e em conformidade com as
+regulamentações locais. | | 
+Bioquímica FISPQ No. OT - 016
+FICHA DE SEGURANÇA
+e Química
+Ltda. De acordo com a norma NBR 14725-4:2014 Página 7 de 7
+Nome do produto: Tetraborato de Sódio Decahidratado Referência do produto: FMA0000114080
+Data da revisão: 21/10/2016 No. da revisão: 04
+15. Regulamentações
+15.1 Regulamentação/legislação específica para a substância ou mistura em matéria de saúde, segurança e ambiente
+Esta Ficha de Informações de Produtos Químicos foi preparada de acordo com a NBR 14725-4/2014 da ABNT (Associação Brasileira
+de Normas Técnicas)
+16. Outras informações
+Esta FISPQ foi elaborada baseada nos conhecimentos atuais do produto químico e fornece informações quanto à proteção, à
+segurança, à saúde e ao meio ambiente. Adverte-se que o manuseio de qualquer substância química requer o conhecimento prévio
+de seus perigos pelo usuário. Cabe à empresa usuária do produto promover o treinamento de seus empregados e contratados
+quanto aos possíveis riscos advindos do produto.
+Este produto deve ser armazenado e manuseado de acordo com as boas práticas de higiene industrial e em conformidade com as
+regulamentações locais.

@@ -1,0 +1,612 @@
+Ficha de Informações de Segurança de Produtos
+Químicos - FISPQ
+De acordo com a NBR 14725-4:2014
+Data da revisão 03.12.2015 Versão 1.7
+SEÇÃO 1. Identificação do produto e da empresa
+1.1 Identificador do produto
+No. de catálogo 802637
+Nome do produto 3-Cloro-1,2-propanodiol para síntese
+Número de registro REACH Não há número de registro disponível para essa substância, uma vez
+que a substância ou a utilização da mesma são isentas de registro de
+acordo com o Artigo 2 da norma REACH (CE) No. 1907/2006, a
+tonelagem anual não exige registro ou o registro está previsto para um
+prazo posterior.
+Nº CAS 96-24-2
+1.2 Usos identificados da substância ou mistura e usos não recomendados
+Usos identificados Químico para síntese
+Para informações adicionais sobre os usos, por favor consulte o portal
+Merck Chemicals (www.merckgroup.com).
+1.3 Detalhes do fornecedor da Ficha de Informação de Segurança de Produto Químico - FISPQ
+Empresa Merck S/A * Brasil * Rua Torre Eifell, 100 - Parque Rincão - Gleba A
+Cotia - CEP: 06705-481 - São Paulo - SP * tel/fax: +55 11 3127-7389
+1.4 Número do telefone de Suatrans: : 0800 707 7022 / 0800 17 2020
+emergência
+SEÇÃO 2. Identificação de perigos
+2.1 Classificação da substância ou mistura
+Classificação (de acordo com a ABNT 14725-2)
+Toxicidade aguda, Categoria 2, Oral, H300
+Toxicidade aguda, Categoria 2, Inalação, H330
+Toxicidade aguda, Categoria 4, Dérmico, H312
+Irritação ocular, Categoria 2, H319
+Toxicidade à reprodução, Categoria 1B, H360F
+Toxicidade sistêmica de órgão-alvo específico - exposição repetida, Categoria 1, H372
+Para obter o texto completo das frases de perigo mencionadas nesta seção, consulte a seção 16.
+Classificação (67/548/CEE ou 1999/45/CE)
+Repr.Cat.2 Tóxico à reprodução Categoria 2 R60
+T+ Muito tóxico R26
+T Tóxico R25 - 48/25
+Xn Nocivo R21
+Xi Irritante R36
+Para o texto completo sobre as frases R mencionadas nesta Seção, ver a Seção 16.
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com
+Página 1 de 14
+Ficha de Informações de Segurança de Produtos Químicos - FISPQ
+De acordo com a NBR 14725-4:2014
+No. de catálogo 802637
+Nome do produto 3-Cloro-1,2-propanodiol para síntese
+2.2 Elementos do rótulo
+Rotulagem (de acordo com a ABNT 14725-2)
+Pictogramas de risco
+Palavra de advertência
+Perigo
+Frases de perigo
+H360F Pode prejudicar a fertilidade.
+H300 + H330 Fatal se ingerido ou se inalado.
+H312 Nocivo em contato com a pele.
+H319 Provoca irritação ocular grave.
+H372 Provoca danos aos órgãos por exposição repetida ou prolongada.
+Frases de precaução
+Prevenção
+P201 Obtenha instruções específicas antes da utilização.
+Resposta de emergência
+P302 + P352 EM CASO DE CONTATO COM A PELE: Lave com água e sabão em abundância.
+P304 + P340 EM CASO DE INALAÇÃO: Remova a pessoa para local ventilado e a mantenha em
+repouso numa posição que não dificulte a respiração.
+P305 + P351 + P338 EM CASO DE CONTATO COM OS OLHOS: Enxágue cuidadosamente com
+água durante vários minutos. No caso de uso de lentes de contato, remova-as, se for fácil. Continue
+enxaguando.
+P308 + P310 EM CASO DE exposição ou suspeita de exposição: Contacte imediatamente um
+CENTRO DE INFORMAÇÃO ANTIVENENOS ou um médico.
+Restrita ao uso por profissionais.
+Rótulagem reduzida (≤125 ml)
+Pictogramas de risco
+Palavra de advertência
+Perigo
+Frases de perigo
+H360F Pode prejudicar a fertilidade.
+H300 + H330 Fatal se ingerido ou se inalado.
+H372 Provoca danos aos órgãos por exposição repetida ou prolongada.
+Frases de precaução
+P201 Obtenha instruções específicas antes da utilização.
+P304 + P340 EM CASO DE INALAÇÃO: Remova a pessoa para local ventilado e a mantenha em repouso numa
+posição que não dificulte a respiração.
+P308 + P310 EM CASO DE exposição ou suspeita de exposição: Contacte imediatamente um CENTRO DE
+INFORMAÇÃO ANTIVENENOS ou um médico.
+Nº CAS 96-24-2
+2.3 Outros perigos
+Não conhecidos.
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com
+Página 2 de 14
+ | Nome químico (Concentração) | | | | | | | 
+ | Nº CAS | | | Número de registo | | | Classificação | 
+ | Nome químico (Concentração) | | | | 
+ | Nº CAS | | | Classificação | 
+Ficha de Informações de Segurança de Produtos Químicos - FISPQ
+De acordo com a NBR 14725-4:2014
+No. de catálogo 802637
+Nome do produto 3-Cloro-1,2-propanodiol para síntese
+SEÇÃO 3. Composição e informações sobre os ingredientes
+3.1 Substância
+Fórmula ClCH₂CH(OH)CH₂OH C₃H₇ClO₂ (Hill)
+N° CE 202-492-4
+Massa molar 110,54 g/mol
+Componentes perigosos (de acordo com a ABNT 14725-2)
+Nome químico (Concentração)
+Nº CAS Número de registo Classificação
+3-chloro-1,2-propanediol (<= 100 % )
+96-24-2 *)
+Toxicidade aguda, Categoria 2, H300
+Toxicidade aguda, Categoria 2, H330
+Toxicidade aguda, Categoria 4, H312
+Irritação ocular, Categoria 2, H319
+Toxicidade à reprodução, Categoria 1B, H360F
+Toxicidade sistêmica de órgão-alvo específico - exposição
+repetida, Categoria 1, H372
+*) Não há número de registro disponível para essa substância, uma vez que a substância ou a utilização da mesma são isentas de
+registro de acordo com o Artigo 2 da norma REACH (CE) No. 1907/2006, a tonelagem anual não exige registro ou o registro está
+previsto para um prazo posterior.
+Para obter o texto completo das frases de perigo mencionadas nesta seção, consulte a seção 16.
+Componentes perigosos (1999/45/CE)
+Nome químico (Concentração)
+Nº CAS Classificação
+3-chloro-1,2-propanediol (<= 100 % )
+96-24-2 Repr.Cat.2; R60
+T+, Muito tóxico; R26
+T, Tóxico; R25-48/25
+Xn, Nocivo; R21
+Xi, Irritante; R36
+Para o texto completo sobre as frases R mencionadas nesta Seção, ver a Seção 16.
+3.2 Mistura
+Não aplicável
+SEÇÃO 4. Medidas de primeiros-socorros
+4.1 Descrição das medidas de primeiros-socorros
+Recomendação geral
+O prestador de primeiros socorros deve se proteger.
+Após inalação: Exposição ao ar fresco. Proceder imediatamente á ventilação mecânica. Se
+necessário mascara de oxigénio. Chamar imediatamente um médico.
+Após o contato com a pele: lavar com água em abundância. Remover imediat amente roupas
+contaminadas. Esfregar com polietilenoglicol 400 se dispon ível. Consultar um médico.
+Após contacto com os olhos: Enxaguar abundantemente com água. Consultar um
+oftalmologista.
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com
+Página 3 de 14
+Ficha de Informações de Segurança de Produtos Químicos - FISPQ
+De acordo com a NBR 14725-4:2014
+No. de catálogo 802637
+Nome do produto 3-Cloro-1,2-propanodiol para síntese
+Se ingerido: dar água a beber (dois copos no máximo). Consultar um médico imediatamente.
+Apenas em casos excepcionais , se o cuidado médico não estiver disponível numa hora, induzir
+o vómito (apenas em pessoas que estejam bem acordadas e conscientes), administrar carvão
+activado (20 - 40 g numa pasta a 10% ) e consultar o médico assim que possível.
+4.2 Sintomas e efeitos mais importantes, agudos e retardados
+efeitos irritantes, Tosse, Respiração superficial, Náusea, Vômitos, Dor de cabeça
+4.3 Indicação da atenção médica imediata e do tratamento especial necessário
+Não existem informações disponíveis.
+SEÇÃO 5. Medidas de combate a incêndio
+5.1 Meios de extinção
+Meios adequados de extinção
+Água, Dióxido de carbono (CO2), Espuma, Pó seco
+Agentes de extinção inadequados
+Nenhuma limitação de agentes extintores é dada para essa substância/mist ura.
+5.2 Riscos especiais resultantes da substância ou da mistura
+Material combustível
+Os vapores são mais pesados que o ar e podem espalhar-se junto ao solo.
+Em caso de forte aquecimento podem formar-se misturas explosivas com o ar.
+Em caso de incêndio formam-se gases inflamáveis e vapores perigosos.
+Um incêndio pode provocar o desenvolvimento de:
+Cloreto de hidrogênio gasoso, Fosgênio
+5.3 Precauções para bombeiros
+Equipamentos especiais para proteção das pessoas envolvidas no combate a incêndio.
+Não ficar na zona de perigo sem aparelhos respiratórios autónomos apropriados para
+respiração independente do ambiente. De forma a evitar o contacto com a pele, mantenha uma
+distância de segurança e utilize vestuário protetor adequado.
+Informações complementares
+Esfriar os contêineres fechados expostos ao fogo com água pulverizada. Evitar a contaminação
+da água de superfície e da água subterrânea com a água de combate a incêndios.
+SEÇÃO 6. Medidas de controle para derramamento ou vazamento
+6.1 Precauções pessoais, equipamentos de proteção e procedimentos de emergência
+Recomendações para pessoal não envolvido com emergências: Evitar o contacto com a
+substância. Não respirar vapores nem aerossóis. Assegurar ventilação adequada. Evacuar a
+área de perigo, observar os procedimentos de emergência, consu ltar um especialista.
+Recomendações para atendentes de emergências: Equipamento protetor, vide seção 8.
+6.2 Precauções ambientais
+Não despejar os resíduos no esgoto.
+6.3 Métodos e materiais de contenção e limpeza
+Cobrir ralos. Recolher, emendar e bombear vazamentos.
+Observar as possíveis restrições de material (vide seções 7 e 10).
+Absorver com aborvente de líquidos, p.ex., Chemizorb®. Proceder à eliminação de resíduos.
+Limpar a área afectada.
+6.4 Consulta a outras seções
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com
+Página 4 de 14
+Ficha de Informações de Segurança de Produtos Químicos - FISPQ
+De acordo com a NBR 14725-4:2014
+No. de catálogo 802637
+Nome do produto 3-Cloro-1,2-propanodiol para síntese
+Indicações sobre tratamento de dejetos, vide seção 13
+SEÇÃO 7. Manuseio e armazenamento
+7.1 Precauções para manuseio seguro
+Recomendações para manuseio seguro
+Trabalhar com chaminé. Não inalar a substância/mistura. Evitar a formação de
+vapores/aerossóis.
+Observar os avisos dos rótulos.
+Medidas de higiene
+Mudar imediatamente a roupa contaminada. Profilaxia cutânea. Depois de terminar o trabalho,
+lavar as mãos e a cara.
+7.2 Condições para armazenamento seguro, incluindo incompatibilidades
+Condições de armazenamento
+Herméticamente fechado. Armazene em local bem ventilado. Manter fechado ou numa área
+acessível só a pessoas qualificadas ou autorizadas.
+Temperatura recomendada de armazenamento, consulte na etiqueta de produto.
+7.3 Utilizações finais específicas
+Nenhum uso específico é previsto além dos mencionados na sessão 1.2.
+SEÇÃO 8. Controle de exposição e proteção individual
+8.1 Parâmetros de controle
+Não contém substâncias com valores limites de exposição ocupacional.
+8.2 Controles da exposição
+Medidas de controle de engenharia
+Medidas técnicas e operações de trabalho adequadas devem ter prioridade sobre o uso de
+equipamento de proteção pessoal.
+Vide seção 7.1.
+Medidas de proteção individual
+As características dos meios de protecção para o corpo devem ser seleccionadas em função da
+concentração e da quantidade das substâncias tóxicas de acordo com as condições específicas
+do local de trabalho. A resistência dos meios de protecção aos agentes químicos deve ser
+esclarecida junto dos fornecedores.
+Proteção para a pele/olhos
+Óculos de segurança
+Proteção das mãos
+contacto total:
+Substância da luva: policloroprene
+Espessura da luva: 0,65 mm
+Pausa: > 480 min
+contacto com salpicos:
+Substância da luva: látex natural
+Espessura da luva: 0,6 mm
+Pausa: > 240 min
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com
+Página 5 de 14
+Ficha de Informações de Segurança de Produtos Químicos - FISPQ
+De acordo com a NBR 14725-4:2014
+No. de catálogo 802637
+Nome do produto 3-Cloro-1,2-propanodiol para síntese
+As luvas de protecção a usar têm que obedecer às especificações da directiva EC 89/686/EEC
+e do padrão resultante EN374, por exemplo KCL 720 Camapren® (contacto total), KCL 706
+Lapren® (contacto com salpicos).
+As ruturas acima descritas foram determinadas pelo KCL em testes de laboratório seg. a EN374
+com amostras dos tipos de luvas recomendados.
+Esta recomendação aplica-se apenas ao produto descrito na ficha de dados de segurança por
+nós fornecida bem como para a aplicação especificada.Quando houver dissolução ou mistura
+com outras substâncias e sob as devidas condições houver desvios aos descritos na EN374 por
+favor contactar o fornecedor de luvas com marcação CE (ex: KCL GmbH, D-36124 Eichenzell,
+Internet: www.kcl.de).
+Outro equipamento de protecção
+roupa de proteção
+Proteção respiratória
+necessário em caso de formação de vapores/aerossóis.
+Controles de riscos ambientais
+Não despejar os resíduos no esgoto.
+SEÇÃO 9. Propriedades físicas e químicas
+9.1 Informações sobre propriedades físico-químicas básicas
+Estado físico líquido
+Cor incolor
+Odor inodoro
+Limite de Odor Não existem informações disponíveis.
+pH 3 - 6
+em 500 g/l
+20 °C
+Ponto de fusão -40 °C
+Ponto de ebulição inicial e faixa 213 °C
+de temperatura de ebulição em 1.013 hPa
+Ponto de fulgor 135 °C
+Método: DIN 51758
+Taxa de evaporação Não existem informações disponíveis.
+Inflamabilidade (sólido, gás) Não existem informações disponíveis.
+Limite inferior de explosividade Não existem informações disponíveis.
+Limite superior de explosividade Não existem informações disponíveis.
+pressão de vapor 0,01 hPa
+em 20 °C
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com
+Página 6 de 14
+Ficha de Informações de Segurança de Produtos Químicos - FISPQ
+De acordo com a NBR 14725-4:2014
+No. de catálogo 802637
+Nome do produto 3-Cloro-1,2-propanodiol para síntese
+Densidade relativa do vapor Não existem informações disponíveis.
+Densidade 1,32 g/cm3
+em 20 °C
+Densidade relativa Não existem informações disponíveis.
+Solubilidade em água em 20 °C
+miscível
+Coeficiente de partição (n- log Pow: -0,53
+octanol/água) (calculado)
+Não se prevê qualquer bio-acumulação. (Ficha de datos de
+seguridad externa)
+Temperatura de autoignição Não existem informações disponíveis.
+Temperatura de decomposição > 213 °C
+Viscosidade, dinâmica 728 mPa.s
+em 20 °C
+Riscos de explosão Não existem informações disponíveis.
+Propriedades oxidantes Não existem informações disponíveis.
+9.2 Outras informações
+não
+SEÇÃO 10. Estabilidade e reatividade
+10.1 Reatividade
+Em caso de forte aquecimento podem formar-se misturas explosivas com o ar.
+10.2 Estabilidade química
+sensível à acção da humidade
+10.3 Possibilidade de reações perigosas
+Reacções violentas são possiveis com:
+alcalis, Oxidantes
+10.4 Condições a serem evitadas
+Forte aquecimento.
+Uma gama de aproximadamente 15 Kelvin abaixo do ponto flash é considerada como crítica.
+10.5 Materiais incompatíveis
+não existem indicações
+10.6 Produtos de decomposição perigosa
+em caso de incêndio: vide o capítulo 5°.
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com
+Página 7 de 14
+Ficha de Informações de Segurança de Produtos Químicos - FISPQ
+De acordo com a NBR 14725-4:2014
+No. de catálogo 802637
+Nome do produto 3-Cloro-1,2-propanodiol para síntese
+SEÇÃO 11. Informações toxicológicas
+11.1 Informações sobre efeitos toxicológicos
+Toxicidade aguda oral
+Ratazana: 150 - 200 mg/kg
+Diretriz de Teste de OECD 401
+Toxicidade aguda - Inalação
+absorção
+CL50 Ratazana: > 0,077 mg/l; 6 h ; vapor
+Diretriz de Teste de OECD 403
+Toxicidade aguda - Dérmica
+DL50 Ratazana: 1.057 mg/kg
+(Ficha de datos de seguridad externa)
+absorção
+Irritação da pele
+Estudo in vitro
+Resultado: irritante
+Irritação nos olhos
+Provoca irritação ocular grave.
+Estudo in vitro
+Resultado: Irritações severas
+Teste com membrana do ovo de galinha respeito a irritação (HET-CAM)
+Sensibilização
+Teste de sensibilização: Cobaia
+Resultado: negativo
+Método: Diretriz de Teste de OECD 406
+Mutagenicidade em células germinativas
+Genotoxicidade in vivo
+Genotoxicidade in vivo
+Ratazana
+macho
+Oral
+Resultado: negativo
+Método: OECD TG 486
+Teste de micronúcleo
+Ratazana
+macho
+Oral
+Resultado: negativo
+Método: OECD TG 474
+Genotoxicidade in vitro
+Teste de mutação de genes em células de mamíferos in vitro
+Resultado: positivo
+Método: OECD TG 476
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com
+Página 8 de 14
+Ficha de Informações de Segurança de Produtos Químicos - FISPQ
+De acordo com a NBR 14725-4:2014
+No. de catálogo 802637
+Nome do produto 3-Cloro-1,2-propanodiol para síntese
+Carcinogenicidade
+Esta informação não está disponível.
+Toxicidade à reprodução
+Esta informação não está disponível.
+Teratogenicidade
+Via de aplicação: Oral
+Ratazana
+Efeitos carcinogênicos, mutagênicos e tóxicos à reprodução
+Toxicidade à reprodução:
+Pode prejudicar a fertilidade.
+Toxicidade sistêmica de órgão-alvo específico - exposição única
+Esta informação não está disponível.
+Toxicidade sistêmica de órgão-alvo específico - exposição repetida
+Provoca danos aos órgãos por exposição repetida ou prolongada.
+Toxicidade em dosagem repetitiva
+Rato
+fêmea
+Oral
+13 Weeks
+NOAEL: 15,02 mg/kg
+Diretrizes para o teste 408 da OECD
+Rato
+macho
+Oral
+13 Weeks
+NOAEL: 18,05 mg/kg
+Diretrizes para o teste 408 da OECD
+Ratazana
+masculino e feminino
+inalação (vapor)
+2 Weeks
+Diariamente
+Diretriz de Teste de OECD 412
+Perigo por aspiração.
+Esta informação não está disponível.
+11.2 Informações complementares
+Não estão disponíveis dados quantitativos relativamente à toxicidade do produto.
+Outras especificações toxicologicas:
+Após absorção.
+Náusea, Vômitos, Dor de cabeça
+Depois de longa exposição ao produto:
+Efeito tóxico em:
+Rim
+Dados adicionais:
+Outras propriedades perigosas não podem ser excluídas.
+Esta substância deve ser manuseada com cuidado especial.
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com
+Página 9 de 14
+Ficha de Informações de Segurança de Produtos Químicos - FISPQ
+De acordo com a NBR 14725-4:2014
+No. de catálogo 802637
+Nome do produto 3-Cloro-1,2-propanodiol para síntese
+SEÇÃO 12. Informações ecológicas
+12.1 Toxicidade
+Toxicidade em daphnias e outros invertebrados aquáticos.
+NOEC Daphnia magna (pulga d'água ou dáfnia): 100 mg/l
+Diretrizes para o teste 202 da OECD
+CE50 Daphnia magna (pulga d'água ou dáfnia): > 100 mg/l
+Diretrizes para o teste 202 da OECD
+Toxicidade para as algas
+Inibição do crescimento NOEC Pseudokirchneriella subcapitata (Selenastrum capricornutum): <
+100 mg/l; 72 h
+Diretrizes para o teste 201 da OECD
+Inibição do crescimento CE50 Pseudokirchneriella subcapitata (Selenastrum capricornutum): >
+100 mg/l; 72 h
+Diretrizes para o teste 201 da OECD
+12.2 Persistência e degradabilidade
+Demanda bioquímica de oxigênio (DBO)
+10 mg/g (5 d)
+(Ficha de datos de seguridad externa)
+Demanda química de oxigênio (DQO)
+980 mg/g
+(Ficha de datos de seguridad externa)
+12.3 Potencial bioacumulativo
+Coeficiente de partição (n-octanol/água)
+log Pow: -0,53
+(calculado)
+Não se prevê qualquer bio-acumulação. (Ficha de datos de seguridad externa)
+12.4 Mobilidade no solo
+Não existem informações disponíveis.
+12.5 Resultados da avaliação PBT e vPvB
+Avaliação de PBT/vPvB não realizada uma vez que a avaliação de segurança química não é
+exigida/não foi realizada.
+12.6 Outros efeitos adversos
+Informações ecológicas adicionais
+A descarga no meio ambiente deve ser evitada.
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com
+Página 10 de 14
+Ficha de Informações de Segurança de Produtos Químicos - FISPQ
+De acordo com a NBR 14725-4:2014
+No. de catálogo 802637
+Nome do produto 3-Cloro-1,2-propanodiol para síntese
+SEÇÃO 13. Considerações sobre tratamento e disposição
+Métodos de tratamento de resíduos
+Os dejetos devem ser descartados em conformidade com regulamentações nacionais e locais.
+Mantenha as substâncias químicas em seus recipientes originais. Não misturar com outros
+dejetos. O manuseio de recipientes sujos deve ser realizado da mesma forma que o do produto
+em si.
+As frases de perigo e de precaução apresentadas no rótulo também se aplicam a qualquer
+resíduo deixado na embalagem. A disposição não controlada ou reciclagem desta embalagem
+não é permitida e pode ser perigosa.
+Deve ser incinerado em instalação de incineração adequada pelas autoridades competentes.
+SEÇÃO 14. Informações sobre transporte
+Transporte terrestre (ADR/RID)
+14.1 Número ONU UN 2689
+14.2 Nome apropriado para GLYCEROL ALPHA-MONOCHLOROHYDRIN
+embarque
+14.3 Classe de risco 6.1
+14.4 Grupo de embalagem III
+14.5 Perigoso para o meio --
+ambiente
+14.6 Precauções especiais para sim
+os usuários
+Código de restrição para túneis E
+Transporte fluvial (ADN)
+Não relevante
+Transporte aéreo (IATA)
+14.1 Número ONU UN 2689
+14.2 Nome apropriado para GLYCEROL ALPHA-MONOCHLOROHYDRIN
+embarque
+14.3 Classe de risco 6.1
+14.4 Grupo de embalagem III
+14.5 Perigoso para o meio --
+ambiente
+14.6 Precauções especiais para não
+os usuários
+Transporte marítimo (IMDG)
+14.1 Número ONU UN 2689
+14.2 Nome apropriado para GLYCEROL ALPHA-MONOCHLOROHYDRIN
+embarque
+14.3 Classe de risco 6.1
+14.4 Grupo de embalagem III
+14.5 Perigoso para o meio --
+ambiente
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com
+Página 11 de 14
+Ficha de Informações de Segurança de Produtos Químicos - FISPQ
+De acordo com a NBR 14725-4:2014
+No. de catálogo 802637
+Nome do produto 3-Cloro-1,2-propanodiol para síntese
+14.6 Precauções especiais para sim
+os usuários
+EmS F-A S-A
+14.7 Transporte em massa de acordo com o Anexo II de MARPOL 73/78 e do Código IBC
+Não relevante
+SEÇÃO 15. Regulamentações
+15.1 Normas de segurança, saúde e ambientais específicas para a substância ou mistura
+Legislação nacional
+Classe de armazenagem 6.1A
+15.2 Avaliação de segurança química
+Não foi realizada uma avaliação de segurança química conforme a regulame ntação UE REACH
+Nº 1907/2006 para este produto.
+SEÇÃO 16. Outras informações
+Texto completo das Declarações H mencionadas nas seções 2 e 3.
+H300 Fatal se ingerido.
+H312 Nocivo em contato com a pele.
+H319 Provoca irritação ocular grave.
+H330 Fatal se inalado.
+H360F Pode prejudicar a fertilidade.
+H372 Provoca danos aos órgãos por exposição repetida ou prolongada.
+Texto das frases-R referidas nos títulos 2 e 3
+R21 Nocivo em contato com a pele.
+R25 Tóxico por ingestão.
+R26 Muito tóxico por inalação.
+R36 Irritante para os olhos.
+R48/25 Tóxico: risco de efeitos graves para a saúde em caso de
+exposição prolongada por ingestão.
+R60 Pode comprometer a fertilidade.
+Recomendação de treinamento
+Proporcione informações, instruções e treinamento adequados para os operadores.
+Rotulagem
+Pictogramas de risco
+Palavra de advertência
+Perigo
+Frases de perigo
+H300 + H330 Fatal se ingerido ou se inalado.
+H312 Nocivo em contato com a pele.
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com
+Página 12 de 14
+Ficha de Informações de Segurança de Produtos Químicos - FISPQ
+De acordo com a NBR 14725-4:2014
+No. de catálogo 802637
+Nome do produto 3-Cloro-1,2-propanodiol para síntese
+H319 Provoca irritação ocular grave.
+H360 Pode prejudicar a fertilidade ou o feto.
+H372 Provoca danos aos órgãos por exposição repetida ou prolongada.
+Frases de precaução
+Prevenção
+P201 Obtenha instruções específicas antes da utilização.
+Resposta de emergência
+P302 + P352 EM CASO DE CONTATO COM A PELE: Lave com água e sabão em abundância.
+P304 + P340 EM CASO DE INALAÇÃO: Remova a pessoa para local ventilado e a mantenha em
+repouso numa posição que não dificulte a respiração.
+P305 + P351 + P338 EM CASO DE CONTATO COM OS OLHOS: Enxágue cuidadosamente com
+água durante vários minutos. No caso de uso de lentes de contato, remova-as, se for fácil. Continue
+enxaguando.
+P308 + P310 EM CASO DE exposição ou suspeita de exposição: Contacte imediatamente um
+CENTRO DE INFORMAÇÃO ANTIVENENOS ou um médico.
+Restrita ao uso por profissionais.
+Rotulagem (67/548/CEE ou 1999/45/CE)
+Símbolo(s): T+ Muito tóxico
+R - Frase(s) 60-21-25-26-48/25- Pode comprometer a fertilidade. Também nocivo em contato
+36 com a pele. Também tóxico por ingestão. Também muito
+tóxico por inalação. Tambén tóxico: risco de efeitos graves
+para a saúde em caso de exposição prolongada por
+ingestão. Irritante para os olhos.
+Frase(s) - S 53-28-36/37-45 Evitar a exposição - obter instruções específicas antes do
+uso. Após contato com a pele, lavar imediata e
+abundantemente com sabão e água. Usar roupas de
+proteção e luvas adequadas. Nos casos de acidente ou
+indisposição, consultar imediatamente o médico (se possível,
+mostrar-lhe o rótulo).
+Informações complementares
+Restrita ao uso por profissionais.
+Restrita ao uso por profissionais.
+N° CE 202-492-4
+Rótulagem reduzida (≤125 ml)
+Símbolo(s): T+ Muito tóxico
+R - Frase(s) 60-21-25-26-48/25 Pode comprometer a fertilidade. Também nocivo em contato com a
+pele. Também tóxico por ingestão. Também muito tóxico por
+inalação. Tambén tóxico: risco de efeitos graves para a saúde em
+caso de exposição prolongada por ingestão.
+Frase(s) - S 53-28-36/37-45 Evitar a exposição - obter instruções específicas antes do uso. Após
+contato com a pele, lavar imediata e abundantemente com sabão e
+água. Usar roupas de proteção e luvas adequadas. Nos casos de
+acidente ou indisposição, consultar imediatamente o médico (se
+possível, mostrar-lhe o rótulo).
+Legenda das abreviações e acrônimos
+As abreviaturas e acrônimos utilizados podem ser consultados em http://w ww.wikipedia.org.
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com
+Página 13 de 14
+Ficha de Informações de Segurança de Produtos Químicos - FISPQ
+De acordo com a NBR 14725-4:2014
+No. de catálogo 802637
+Nome do produto 3-Cloro-1,2-propanodiol para síntese
+As indicações baseiam-se no nível actual dos nossos conhecimentos e servem para a caracterização do produto no
+que se refere às medidas de segurança a tomar. Estas indicações não implicam qualquer garantia de propriedades do
+produto descrito.
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com
+Página 14 de 14

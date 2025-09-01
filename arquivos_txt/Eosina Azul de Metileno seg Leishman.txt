@@ -1,0 +1,395 @@
+Ficha de Informações de Segurança de Produtos
+Químicos - FISPQ
+De acordo com a NBR 14725-4:2014
+Data da revisão 02.12.2015 Versão 1.3
+SEÇÃO 1. Identificação do produto e da empresa
+1.1 Identificador do produto
+No. de catálogo 101350
+Nome do produto Eosina azul de metileno segundo Leishman para microscopia
+Número de registro REACH Este produto é uma preparação. Número de registro REACH vide o
+capítulo 3.
+1.2 Usos identificados da substância ou mistura e usos não recomendados
+Usos identificados Reagente para diagnóstico in vitro, Reagente para análise
+Para informações adicionais sobre os usos, por favor consulte o portal
+Merck Chemicals (www.merckgroup.com).
+1.3 Detalhes do fornecedor da Ficha de Informação de Segurança de Produto Químico - FISPQ
+Empresa Merck S/A * Brasil * Rua Torre Eifell, 100 - Parque Rincão - Gleba A
+Cotia - CEP: 06705-481 - São Paulo - SP * tel/fax: +55 11 3127-7389
+1.4 Número do telefone de Suatrans: : 0800 707 7022 / 0800 17 2020
+emergência
+SEÇÃO 2. Identificação de perigos
+2.1 Classificação da substância ou mistura
+Classificação (de acordo com a ABNT 14725-2)
+Irritação ocular, Categoria 2, H319
+Para obter o texto completo das frases de perigo mencionadas nesta seção, consulte a seção 16.
+Classificação (67/548/CEE ou 1999/45/CE)
+Xi Irritante R36
+Para o texto completo sobre as frases R mencionadas nesta Seção, ver a Seção 16.
+2.2 Elementos do rótulo
+Rotulagem (de acordo com a ABNT 14725-2)
+Pictogramas de risco
+Palavra de advertência
+Atenção
+Frases de perigo
+H319 Provoca irritação ocular grave.
+Frases de precaução
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com
+Página 1 de 9
+ | Nome químico (Concentração) | | | | | | | 
+ | Nº CAS | | | Número de registo | | | Classificação | 
+ | Nome químico (Concentração) | | | | 
+ | Nº CAS | | | Classificação | 
+Ficha de Informações de Segurança de Produtos Químicos - FISPQ
+De acordo com a NBR 14725-4:2014
+No. de catálogo 101350
+Nome do produto Eosina azul de metileno segundo Leishman para microscopia
+Resposta de emergência
+P305 + P351 + P338 EM CASO DE CONTATO COM OS OLHOS: Enxágue cuidadosamente com
+água durante vários minutos. No caso de uso de lentes de contato, remova-as, se for fácil. Continue
+enxaguando.
+Rótulagem reduzida (≤125 ml)
+Pictogramas de risco
+Palavra de advertência
+Atenção
+2.3 Outros perigos
+Não conhecidos.
+SEÇÃO 3. Composição e informações sobre os ingredientes
+Natureza química Mistura de corantes
+3.1 Substância
+Não aplicável
+3.2 Mistura
+Componentes perigosos (de acordo com a ABNT 14725-2)
+Nome químico (Concentração)
+Nº CAS Número de registo Classificação
+Eosina G (>= 25 % - < 50 % )
+17372-87-1 *)
+Irritação ocular, Categoria 2, H319
+*) Não há número de registro disponível para essa substância, uma vez que a substância ou a utilização da mesma são isentas de
+registro de acordo com o Artigo 2 da norma REACH (CE) No. 1907/2006, a tonelagem anual não exige registro ou o registro está
+previsto para um prazo posterior.
+Para obter o texto completo das frases de perigo mencionadas nesta seção, consulte a seção 16.
+Componentes perigosos (1999/45/CE)
+Nome químico (Concentração)
+Nº CAS Classificação
+Eosina G (>= 25 % - < 50 % )
+17372-87-1 Xi, Irritante; R36
+Para o texto completo sobre as frases R mencionadas nesta Seção, ver a Seção 16.
+SEÇÃO 4. Medidas de primeiros-socorros
+4.1 Descrição das medidas de primeiros-socorros
+Após inalação: Exposição ao ar fresco.
+Após contacto com a pele: Lavar abundantemente com água. Tirar a roupa contaminada.
+Após contacto com os olhos: Enxaguar abundantemente com água. Consultar imediatamente
+um oftalmologista.
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com
+Página 2 de 9
+Ficha de Informações de Segurança de Produtos Químicos - FISPQ
+De acordo com a NBR 14725-4:2014
+No. de catálogo 101350
+Nome do produto Eosina azul de metileno segundo Leishman para microscopia
+Após ingestão: fazer a vitima beber imediatamente água ( dois copos no máximo) Consultar um
+médico.
+4.2 Sintomas e efeitos mais importantes, agudos e retardados
+efeitos irritantes
+4.3 Indicação da atenção médica imediata e do tratamento especial necessário
+Não existem informações disponíveis.
+SEÇÃO 5. Medidas de combate a incêndio
+5.1 Meios de extinção
+Meios adequados de extinção
+Água, Dióxido de carbono (CO2), Espuma, Pó seco
+Agentes de extinção inadequados
+Nenhuma limitação de agentes extintores é dada para essa substância/mist ura.
+5.2 Riscos especiais resultantes da substância ou da mistura
+Material combustível
+Os vapores são mais pesados que o ar e podem espalhar-se junto ao solo.
+Em caso de incêndio formam-se gases inflamáveis e vapores perigosos.
+Um incêndio pode provocar o desenvolvimento de:
+Cloreto de hidrogênio gasoso, brometo de hidrogénio, Óxidos de enxofre, óxido nítrico
+5.3 Precauções para bombeiros
+Equipamentos especiais para proteção das pessoas envolvidas no combate a incêndio.
+Não ficar na zona de perigo sem aparelhos respiratórios autónomos apropriados para
+respiração independente do ambiente. De forma a evitar o contacto com a pele, mantenha uma
+distância de segurança e utilize vestuário protetor adequado.
+Informações complementares
+Suprimir (abater) com jatos de água os gases, vapores e névoas. Evitar a contaminação da
+água de superfície e da água subterrânea com a água de combate a incêndios.
+SEÇÃO 6. Medidas de controle para derramamento ou vazamento
+6.1 Precauções pessoais, equipamentos de proteção e procedimentos de emergência
+Recomendações para pessoal não envolvido com emergências: Evitar a produção de pós; não
+inalar os pós. Evitar o contacto com a substância. Assegurar ventilação adequada. Evacuar a
+área de perigo, observar os procedimentos de emergência, consu ltar um especialista.
+Recomendações para atendentes de emergências: Equipamento protetor, vide seção 8.
+6.2 Precauções ambientais
+Não despejar os resíduos no esgoto.
+6.3 Métodos e materiais de contenção e limpeza
+Cobrir ralos. Recolher, emendar e bombear vazamentos.
+Observar as possíveis restrições de material (vide seções 7 e 10).
+Absorver em estado seco. Proceder à eliminação de resíduos. Limpeza posterior. Evitar a
+formação de pós.
+6.4 Consulta a outras seções
+Indicações sobre tratamento de dejetos, vide seção 13
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com
+Página 3 de 9
+Ficha de Informações de Segurança de Produtos Químicos - FISPQ
+De acordo com a NBR 14725-4:2014
+No. de catálogo 101350
+Nome do produto Eosina azul de metileno segundo Leishman para microscopia
+SEÇÃO 7. Manuseio e armazenamento
+7.1 Precauções para manuseio seguro
+Recomendações para manuseio seguro
+Observar os avisos dos rótulos.
+Medidas de higiene
+Mudar imediatamente a roupa contaminada. Profilaxia cutânea. Depois de terminar o trabalho,
+lavar as mãos e a cara.
+7.2 Condições para armazenamento seguro, incluindo incompatibilidades
+Condições de armazenamento
+Herméticamente fechado. Em local seco.
+Temperatura recomendada de armazenamento, consulte na etiqueta de produto.
+7.3 Utilizações finais específicas
+Nenhum uso específico é previsto além dos mencionados na sessão 1.2.
+SEÇÃO 8. Controle de exposição e proteção individual
+8.1 Parâmetros de controle
+Não contém substâncias com valores limites de exposição ocupacional.
+8.2 Controles da exposição
+Medidas de controle de engenharia
+Medidas técnicas e operações de trabalho adequadas devem ter prioridade sobre o uso de
+equipamento de proteção pessoal.
+Vide seção 7.1.
+Medidas de proteção individual
+As características dos meios de protecção para o corpo devem ser seleccionadas em função da
+concentração e da quantidade das substâncias tóxicas de acordo com as condições específicas
+do local de trabalho. A resistência dos meios de protecção aos agentes químicos deve ser
+esclarecida junto dos fornecedores.
+Proteção para a pele/olhos
+Óculos de segurança
+Proteção das mãos
+contacto total:
+Substância da luva: Borracha nitrílica
+Espessura da luva: 0,11 mm
+Pausa: > 480 min
+contacto com salpicos:
+Substância da luva: Borracha nitrílica
+Espessura da luva: 0,11 mm
+Pausa: > 480 min
+As luvas de protecção a usar têm que obedecer às especificações da directiva EC 89/686/EEC
+e do padrão resultante EN374, por exemplo KCL 741 Dermatril® L (contacto total), KCL 741
+Dermatril® L (contacto com salpicos).
+As ruturas acima descritas foram determinadas pelo KCL em testes de laboratório seg. a EN374
+com amostras dos tipos de luvas recomendados.
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com
+Página 4 de 9
+Ficha de Informações de Segurança de Produtos Químicos - FISPQ
+De acordo com a NBR 14725-4:2014
+No. de catálogo 101350
+Nome do produto Eosina azul de metileno segundo Leishman para microscopia
+Esta recomendação aplica-se apenas ao produto descrito na ficha de dados de segurança por
+nós fornecida bem como para a aplicação especificada.Quando houver dissolução ou mistura
+com outras substâncias e sob as devidas condições houver desvios aos descritos na EN374 por
+favor contactar o fornecedor de luvas com marcação CE (ex: KCL GmbH, D-36124 Eichenzell,
+Internet: www.kcl.de).
+Proteção respiratória
+necessário em caso de formação de pós.
+Controles de riscos ambientais
+Não despejar os resíduos no esgoto.
+SEÇÃO 9. Propriedades físicas e químicas
+9.1 Informações sobre propriedades físico-químicas básicas
+Estado físico sólido
+Cor verde-escuro
+Odor inodoro
+Limite de Odor Não existem informações disponíveis.
+pH Não existem informações disponíveis.
+Ponto de fusão Não existem informações disponíveis.
+Ponto de ebulição Não existem informações disponíveis.
+Ponto de fulgor Não existem informações disponíveis.
+Taxa de evaporação Não existem informações disponíveis.
+Inflamabilidade (sólido, gás) Não existem informações disponíveis.
+Limite inferior de explosividade Não existem informações disponíveis.
+Limite superior de explosividade Não existem informações disponíveis.
+pressão de vapor Não existem informações disponíveis.
+Densidade relativa do vapor Não existem informações disponíveis.
+Densidade Não existem informações disponíveis.
+Densidade relativa Não existem informações disponíveis.
+Solubilidade em água em 20 °C
+praticamente insolúvel
+Coeficiente de partição (n- Não existem informações disponíveis.
+octanol/água)
+Temperatura de autoignição Não existem informações disponíveis.
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com
+Página 5 de 9
+Ficha de Informações de Segurança de Produtos Químicos - FISPQ
+De acordo com a NBR 14725-4:2014
+No. de catálogo 101350
+Nome do produto Eosina azul de metileno segundo Leishman para microscopia
+Temperatura de decomposição Não existem informações disponíveis.
+Viscosidade, dinâmica Não existem informações disponíveis.
+Riscos de explosão Não existem informações disponíveis.
+Propriedades oxidantes Não existem informações disponíveis.
+9.2 Outras informações
+Densidade aparente ca.700 kg/m3
+SEÇÃO 10. Estabilidade e reatividade
+10.1 Reatividade
+Em geral o seguinte aplica-se a substâncias e misturas orgânicas inflamáveis: numa distribuição
+geralmente fina, quando voltado para cima pode gerar uma potencial explosão de pó.
+10.2 Estabilidade química
+O produto é quimicamente estável em condições ambientes padrão (temperat ura ambiente).
+10.3 Possibilidade de reações perigosas
+não existem indicações
+10.4 Condições a serem evitadas
+Aquecimento forte.
+10.5 Materiais incompatíveis
+não existem indicações
+10.6 Produtos de decomposição perigosa
+em caso de incêndio: vide o capítulo 5°.
+SEÇÃO 11. Informações toxicológicas
+11.1 Informações sobre efeitos toxicológicos
+Mistura
+Toxicidade aguda oral
+Sintomas: Irritação das mucosas, da bocca, da faringa, do esófago e aparelho gastrointestinal.
+Toxicidade aguda - Inalação
+Sintomas: irritação das mucosas, Tosse, Respiração superficial
+Toxicidade aguda - Dérmica
+Esta informação não está disponível.
+Irritação da pele
+irritação leve
+Irritação nos olhos
+Irritação
+Sensibilização
+Esta informação não está disponível.
+Mutagenicidade em células germinativas
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com
+Página 6 de 9
+Ficha de Informações de Segurança de Produtos Químicos - FISPQ
+De acordo com a NBR 14725-4:2014
+No. de catálogo 101350
+Nome do produto Eosina azul de metileno segundo Leishman para microscopia
+Esta informação não está disponível.
+Carcinogenicidade
+Esta informação não está disponível.
+Toxicidade à reprodução
+Esta informação não está disponível.
+Teratogenicidade
+Esta informação não está disponível.
+Toxicidade sistêmica de órgão-alvo específico - exposição única
+Esta informação não está disponível.
+Toxicidade sistêmica de órgão-alvo específico - exposição repetida
+Esta informação não está disponível.
+Perigo por aspiração.
+Esta informação não está disponível.
+11.2 Informações complementares
+Não estão disponíveis dados quantitativos relativamente à toxicidade do produto.
+Outras especificações toxicologicas:
+Outras informações
+Efeito possível depois do contacto com a substância:
+Danger of photosensitization.
+Dados adicionais:
+Outras propriedades perigosas não podem ser excluídas.
+Manusear de acordo com as boas práticas industriais de higiene e segurança.
+Componentes
+Eosina G
+Toxicidade aguda oral
+DL50 Ratazana: > 2.000 mg/kg
+(Ficha de datos de seguridad externa)
+Irritação da pele
+Coelho
+Resultado: Sem irritação.
+Diretriz de Teste de OECD 404
+Irritação nos olhos
+Coelho
+Resultado: Irritação nos olhos
+Diretriz de Teste de OECD 405
+Mutagenicidade em células germinativas
+Genotoxicidade in vitro
+Teste de Ames
+Resultado: negativo
+(Literatura)
+SEÇÃO 12. Informações ecológicas
+Mistura
+12.1 Toxicidade
+Não existem informações disponíveis.
+12.2 Persistência e degradabilidade
+Não existem informações disponíveis.
+12.3 Potencial bioacumulativo
+Não existem informações disponíveis.
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com
+Página 7 de 9
+Ficha de Informações de Segurança de Produtos Químicos - FISPQ
+De acordo com a NBR 14725-4:2014
+No. de catálogo 101350
+Nome do produto Eosina azul de metileno segundo Leishman para microscopia
+12.4 Mobilidade no solo
+Não existem informações disponíveis.
+12.5 Resultados da avaliação PBT e vPvB
+A(s) substância(s) da mistura não cumpre(m) os critérios para PBT ou vPv B conforme a Norma
+(CE) No. 1907/2006, Anexo XIII ou não foi realizada u ma avaliação PVT/vPvB.
+12.6 Outros efeitos adversos
+Informações ecológicas adicionais
+A descarga no meio ambiente deve ser evitada.
+Componentes
+Eosina G
+Não existem informações disponíveis.
+SEÇÃO 13. Considerações sobre tratamento e disposição
+Métodos de tratamento de resíduos
+Os dejetos devem ser descartados em conformidade com regulamentações nacionais e locais.
+Mantenha as substâncias químicas em seus recipientes originais. Não misturar com outros
+dejetos. O manuseio de recipientes sujos deve ser realizado da mesma forma que o do produto
+em si.
+As frases de perigo e de precaução apresentadas no rótulo também se aplicam a qualquer
+resíduo deixado na embalagem. A disposição não controlada ou reciclagem desta embalagem
+não é permitida e pode ser perigosa.
+Deve ser incinerado em instalação de incineração adequada pelas autoridades competentes.
+SEÇÃO 14. Informações sobre transporte
+Transporte terrestre (ADR/RID)
+14.1 - 14.6 Produto não perigoso segundo o regulamento de transporte.
+Transporte fluvial (ADN)
+Não relevante
+Transporte aéreo (IATA)
+14.1 - 14.6 Produto não perigoso segundo o regulamento de transporte.
+Transporte marítimo (IMDG)
+14.1 - 14.6 Produto não perigoso segundo o regulamento de transporte.
+14.7 Transporte em massa de acordo com o Anexo II de MARPOL 73/78 e do Código IBC
+Não relevante
+SEÇÃO 15. Regulamentações
+15.1 Normas de segurança, saúde e ambientais específicas para a substância ou mistura
+Legislação nacional
+Classe de armazenagem 10 - 13
+15.2 Avaliação de segurança química
+Não foi realizada uma avaliação de segurança química conforme a regulame ntação UE REACH
+Nº 1907/2006 para este produto.
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com
+Página 8 de 9
+Ficha de Informações de Segurança de Produtos Químicos - FISPQ
+De acordo com a NBR 14725-4:2014
+No. de catálogo 101350
+Nome do produto Eosina azul de metileno segundo Leishman para microscopia
+SEÇÃO 16. Outras informações
+Texto completo das Declarações H mencionadas nas seções 2 e 3.
+H319 Provoca irritação ocular grave.
+Texto das frases-R referidas nos títulos 2 e 3
+R36 Irritante para os olhos.
+Recomendação de treinamento
+Proporcione informações, instruções e treinamento adequados para os operadores.
+Rotulagem
+Pictogramas de risco
+Palavra de advertência
+Atenção
+Frases de perigo
+H319 Provoca irritação ocular grave.
+Frases de precaução
+Resposta de emergência
+P305 + P351 + P338 EM CASO DE CONTATO COM OS OLHOS: Enxágue cuidadosamente com
+água durante vários minutos. No caso de uso de lentes de contato, remova-as, se for fácil. Continue
+enxaguando.
+Rotulagem (67/548/CEE ou 1999/45/CE)
+Símbolo(s): Xi Irritante
+R - Frase(s) 36 Irritante para os olhos.
+Frase(s) - S 22-26 Não respirar a poeira. No caso de contato com os olhos,
+lavar imediata e abundantemente com água e consultar um
+especialista.
+Rótulagem reduzida (≤125 ml)
+Símbolo(s): Xi Irritante
+Legenda das abreviações e acrônimos
+As abreviaturas e acrônimos utilizados podem ser consultados em http://w ww.wikipedia.org.
+As indicações baseiam-se no nível actual dos nossos conhecimentos e servem para a caracterização do produto no
+que se refere às medidas de segurança a tomar. Estas indicações não implicam qualquer garantia de propriedades do
+produto descrito.
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com
+Página 9 de 9

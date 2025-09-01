@@ -1,0 +1,473 @@
+| 
+ | 
+ | 
+ | 
+Última revisão: 27/07/2016 Rev.: 04
+1. IDENTIFICAÇÃO DO PRODUTO E DA EMPRESA.
+Nome do Produto: BIFLUORETO DE AMÔNIO
+Nome da empresa: Gotaquimica Produtos Químicos Ltda.
+Endereço: Rua Paschoal Zimbardi, 307- Cumbica - Guarulhos - SP. – 07224-107
+Telefone da empresa: (011) 2413-9922 Fax: (011) 2412-4195
+Telefone para emergências: Abiquim : 0800-118270 (Discagem Direta Gratuita)
+Internet: vendas@gotaquimica.com.br
+qualidade@gotaquimica.com.br
+www.gotaquimica.com.br
+2. IDENTIFICAÇÃO DE PERIGOS.
+Sistema de classificação utilizado: Norma ABNT-NBR 14725.
+Adoção do Sistema Globalmente Harmonizado para a
+Classificação e Rotulagem de Produtos Químicos, ONU.
+Classificação da substância:
+Classificação da substância
+Toxicidade aguda, Oral (Categoria 3)
+Corrosão cutânea (Categoria 1B)
+Lesões oculares graves (Categoria 1)
+Elementos Apropriados da Rotulagem
+Rotulagem de acordo com NBR 14725-3
+ Pictogramas:
+ Palavra de advertência:
+PERIGO
+ Frases de perigo:
+H301 Tóxico por ingestão.
+H314 Provoca queimaduras na pele e lesões oculares graves.
+Bifluoreto de Amônio
+Página 1 de 12
+27/07/2016
+ | 
+ | 
+ | 
+ | 
+3. | COMPOSIÇÃO E INFORMAÇÕES SOBRE OS INGREDIENTES. | 
+Última revisão: 27/07/2016 Rev.: 04
+ Prevenção
+ P260 Não respirar as poeiras ou as névoas.
+P264 Lavar a pele cuidadosamente após manuseamento.
+P270 Não comer, beber ou fumar durante a utilização deste produto.
+P280 Usar luvas de proteção/ vestuário de proteção/ proteção ocular/proteção facial
+ Resposta à emergência:
+P301 + P310 EM CASO DE INGESTÃO: contate imediatamente um CENTRO DE
+INFORMAÇÃO ANTIVENENOS ou um médico.
+P301 + P330 + P331 EM CASO DE INGESTÃO: enxaguar a boca. NÃO provocar o vómito.
+P303 + P361 + P353 SE ENTRAR EM CONTACTO COM A PELE (ou o cabelo): despir/ retirar
+imediatamente toda a roupa
+contaminada. Enxaguar a pele com água/ tomar um duche.
+P304 + P340 EM CASO DE INALAÇÃO: retirar a vítima para uma zona ao ar livre e mantê-la
+em repouso numa posição que não
+dificulte a respiração.
+P305 + P351 + P338 SE ENTRAR EM CONTACTO COM OS OLHOS: enxaguar
+cuidadosamente com água durante vários minutos.
+Se usar lentes de contato, retire-as, se tal lhe for possível. Continuar a enxaguar.
+P310 Contate imediatamente um CENTRO DE INFORMAÇÃO ANTIVENENOS ou um
+médico.
+P321 Tratamento específico (ver as instruções suplementares de primeiros socorros no
+presente rótulo).
+P363 Lavar a roupa contaminada antes de a voltar a usar.
+ Armazenamento:
+P405 Armazenar em local fechado à chave.
+ Descarte
+P501 Eliminar o conteúdo/ recipiente em instalação aprovada de destruição de resíduos.
+ Outros perigos
+Não existem informações disponíveis
+3. COMPOSIÇÃO E INFORMAÇÕES SOBRE OS INGREDIENTES.
+Substância : Bifluoreto de Amônio
+Sinônimos : Bifluoreto de Amônio.
+Nome químico : Hidrogenodifluoreto de amónio
+Nº CAS : 1341-49-7
+N.º CE : 215-676-4
+N.º Index : 009-009-00-4
+Fórmula molecular : NH5F2
+Bifluoreto de Amônio
+Página 2 de 12
+27/07/2016
+ | 
+ | 
+ | 
+ | 
+Última revisão: 27/07/2016 Rev.: 04
+Peso molecular : 57.04 g/mol
+Concentração : < = 100 %
+4. MEDIDAS DE PRIMEIROS-SOCORROS.
+Medidas de primeiros-socorros: Para garantir sua segurança pessoal, antes de socorrer uma
+vítima colocar os EPIs necessários. O socorrista deve ser um brigadista ou alguém familiarizado com
+técnicas de primeiros socorros. Procurar um médico.
+Inalação: Afastar a fonte de contaminação ou transportar a vítima para local arejado. Se houver
+dificuldades respiratórias, administrar oxigênio. NÃO UTILIZAR O MÉTODO DE RESPIRAÇÃO
+BOCA A BOCA. Manter o paciente aquecido e não permitir que a vítima se movimente
+desnecessariamente. Transportar a vítima para um hospital.
+Contato com a pele: Lavar a pele com água (ou água e sabão não abrasivo), suavemente, por pelo
+menos 20 minutos ou até que a substância tenha sido removida. NÃO INTERROMPER O
+ENXÁGÜE. Sob água corrente (chuveiro de emergência) remover roupas, sapatos e outros
+acessórios pessoais contaminados (cintos, joias etc.). Descontaminar as roupas antes da
+reutilização. Se a irritação persistir ao repetir o enxágue, requisitar assistência médica.
+Contato com os olhos: Não permitir que a vítima esfregue os olhos. Remover o excesso da
+substância dos olhos rapidamente e com cuidado. Retirar lentes de contato quando for o caso. Lavar
+o(s) olho(s) contaminado(s) com bastante água deixando-a fluir por, pelo menos, 20 minutos, ou até
+que a substância tenha sido removida mantendo as pálpebras afastadas durante a irrigação.
+Cuidado para não introduzir água contaminada no olho não afetado ou na face. A vítima deve ser
+encaminhada ao oftalmologista.
+Ingestão: Lavar a boca da vítima com água. NÃO INDUZIR VÔMITO. NÃO UTILIZAR O MÉTODO
+DE RESPIRAÇÃO BOCA A BOCA. Se o vômito ocorrer naturalmente inclinar a vítima para evitar o
+risco de aspiração traqueo-bronquial do material ingerido. Lavar novamente a boca da vítima. Repetir
+a administração de água. Nada deve ser administrado por via oral se a pessoa estiver perdendo a
+consciência, inconsciente ou em convulsão. Manter o paciente aquecido e em repouso. Transportar
+a vítima para um hospital.
+Sintomas e efeitos mais importantes: Produto pode causar efeitos agudos, dependendo da via de
+exposição. Dependendo da intensidade e da duração da exposição, os efeitos podem variar desde
+leve irritação até severa destruição do tecido. Dano aos olhos.
+Notas para o médico: Uma lavagem gástrica é recomendada somente para pacientes que
+apresentarem sintomas.
+5. MEDIDAS DE COMBATE A INCÊNDIO.
+Meios de extinção: Água, Dióxido de carbono, Espuma, pó seco. Nenhuma limitação de agentes
+extintores é dada para essa substância.
+Bifluoreto de Amônio
+Página 3 de 12
+27/07/2016
+ | 
+ | 
+ | 
+ | 
+Última revisão: 27/07/2016 Rev.: 04
+Perigos específicos da substância: substância não combustível. Um incêndio pode provocar o
+desenvolvimento de óxidos de Azoto (NOx), Ácido Fluorídrico.
+Medidas de proteção da equipe de combate a incêndio: Equipamento de proteção para o pessoal
+destacado para o combate a incêndios. Na eventualidade de fogo, vestir roupas protetoras
+completas e aparelho de respiração autônoma com máscara facial completa, operando na pressão
+exigida ou outro modo de pressão positiva.
+Informações complementares
+Evitar a contaminação da agua de superfície e da subterrânea com a agua de combate a incêndios.
+6. MEDIDAS DE CONTROLE PARA DERRAMAMENTO OU VAZAMENTO.
+Precauções pessoais, equipamentos de proteção e procedimentos de emergência.
+Precauções pessoais para quem não faz parte dos serviços de emergências: Evitar a inalação
+de pó. Evacuar a área de perigo, observar os procedimentos de emergência.
+Precauções pessoais para quem faz parte do serviço de emergência: vestir roupas protetoras
+completas e aparelho de respiração autônoma.
+Precauções ambientais: Não despejar os resíduos no esgoto.
+Métodos e materiais de contenção e limpeza: Cobrir ralos. Recolher, emendar e bombear
+vazamentos. Proceder à eliminação de resíduos. Limpeza posterior. Evitar a formação de pós.
+7. MANUSEIO E ARMAZENAMENTO.
+Manuseio: Este produto deve ser manuseado por pessoal que possua treinamento adequado, e
+devidamente protegido, utilizando os EPIs apropriados.
+Medidas técnicas apropriadas:
+Prevenção da exposição do trabalhador: Antes do manuseio é extremamente importante que as
+medidas de controle de engenharia necessárias para a eliminação ou minimização do risco estejam
+em operação, que os EPIs (protetor respiratório apropriado, protetor ocular, luvas, calçados, etc)
+sejam usados e as medidas de higiene pessoal sejam seguidas (proibição de fumar, comer e beber
+durante o manuseio). Lavar as mãos ao término da jornada de trabalho. As pessoas que manipulam
+esta substância devem ser treinadas quanto ao risco da manipulação e seu uso seguro. Evitar a
+inalação dos vapores e contato da substância com olhos, pele e roupas. Evitar todas as práticas de
+trabalho que possam permitir o contato ou a inalação da substância. Banhar-se ao
+final do dia de trabalho. Esteja atento quanto aos sinais e sintomas típicos de intoxicação e as
+medidas de
+primeiros socorros. Quaisquer sinais ou sintomas da intoxicação devem ser reportados
+imediatamente ao supervisor imediato.
+Prevenção de incêndio e explosão: Evitar a formação e/ou liberação de poeiras e névoas para o ar
+do ambiente de trabalho. Ao manipular o produto, verificar sempre a compatibilidade do mesmo com
+Bifluoreto de Amônio
+Página 4 de 12
+27/07/2016
+ | 
+ | 
+ | 
+ | 
+Última revisão: 27/07/2016 Rev.: 04
+substâncias com as quais irá entrar em contato. O produto em si não queima, mas pode se
+decompor quando aquecido, liberando vapores corrosivos e/ou tóxicos. Não trabalhar perto de fontes
+de ignição como fogo, faísca e chama de cigarro. Instalações elétricas no local devem ser à prova de
+explosão. Inspecionar os recipientes quanto a danos ou vazamentos antes de manuseá-los. Usar
+sistemas de ventilação que não gerem faísca e sistema elétrico seguro na área de manuseio. O
+recipiente pode explodir se aquecido. Os tambores, as mangueiras e tubulações devem estar
+eletricamente aterradas nas operações de transbordo e transferências. Manter bem acessíveis os
+equipamentos de combate a incêndio, derramamento e vazamento. Para operações em grande
+escala a instalação de um sistema de detecção de vazamento e fogo juntamente com um sistema
+automático de supressão de fogo é necessária. Manter as saídas de emergência livre de obstruções.
+Relatar imediatamente vazamentos, derramamentos e falhas no sistema de ventilação. (CHRIS,
+2001, HSDB, 2000)
+7.1 Precauções para manuseio seguro: Manipular em área com ventilação local de exaustão ou
+hermetizar o processo se necessário para evitar a liberação de névoas e vapores para o ambiente.
+Manter no local de trabalho as menores quantidades possíveis em área separada da área de
+armazenamento. Quando manipular grandes quantidades, manipule em sistema hermetizado.
+Sempre trabalhar em capelas ou locais bem ventilados. O assoalho da área de trabalho deve ser de
+fácil limpeza. Utilize os EPIs apropriados. Não fumar, comer ou beber no local de trabalho e lavar-se
+bem após o manuseio. Evitar o uso de lentes de contato e usar equipamentos de
+proteção individual – EPIs - ao manusear o produto.
+Medidas de higiene: Não fumar, comer ou beber no local de trabalho. Lavar bem as mãos com
+água e sabão antes de comer, beber, fumar ou ir ao banheiro. Roupas contaminadas devem ser
+trocadas e lavadas antes da sua reutilização.
+7.2 Condições de armazenamento seguro, incluindo qualquer incompatibilidade:
+Medidas técnicas: Armazenar em containeres apropriados, feitos de materiais compatíveis. Estocar
+os containeres em uma altura conveniente. Proteja os rótulos e mantenha-os bem visíveis.
+Mantenha-os bem fechados quando não estiverem em uso, inclusive os vazios. Inspecione os
+containeres regularmente para verificação de vazamentos e data de validade. O sistema elétrico e de
+ventilação da área de estoque devem ser seguros (à prova de explosão e de incêndio e resistente à
+corrosão) e separado de outros sistemas de ventilação. As embalagens devem ser etiquetadas
+devidamente e mantidas fechadas quando não estiverem em uso. Recipientes vazios podem conter
+resíduos perigosos do produto, mantenha-os bem fechados e não reutilize as embalagens.
+Condições de armazenamento:
+Condições adequadas: Armazenar em local fresco e seco, distante da luz solar direta e afastado de
+fontes de calor e de ignição. Manter absorventes para o caso de vazamentos ou derramamentos
+facilmente disponíveis. As passagens e portas deverão ser providas de soleiras ou rampas de
+desnível. O assoalho deve ser vedado.
+Inspecionar a área regularmente para identificar quaisquer danos no local prevenindo acidentes.
+Manter os recipientes afastados de substâncias incompatíveis, tais como, agentes oxidantes, ácidos,
+álcalis. A área de armazenamento deve estar claramente identificada, livre de obstruções e acessível
+somente a pessoas autorizadas
+Condições que devem ser evitadas: Danificar as embalagens. Luz solar direta, calor, faíscas,
+água, umidade.
+Bifluoreto de Amônio
+Página 5 de 12
+27/07/2016
+ | 
+ | 
+ | 
+ | 
+Última revisão: 27/07/2016 Rev.: 04
+Chamas abertas, superfícies aquecidas, operações de soldagem ou qualquer fonte de aquecimento.
+Evitar armazenar juntamente com substâncias incompatíveis.
+De sinalização de risco: A área de armazenamento deve ser claramente identificada, livre de
+obstruções e acessível somente a pessoas autorizadas. Sinalizar com placas NÃO FUMAR.
+TÓXICO. CORROSIVO.
+Produtos e materiais incompatíveis: Agentes oxidantes (flúor, bromo, cloro), ácidos, e álcalis.
+Corrosão: Na presença de água é corrosivo ao vidro e à maioria dos metais.
+Materiais seguros para embalagens:
+Recomendadas: Plástico, borracha ou parafinados.
+Inadequadas: Metal, vidro e cerâmicas.
+8. CONTROLE DE EXPOSIÇÃO E PROTEÇÃO INDIVIDUAL.
+Parâmetros de controle
+Medidas de controle de engenharia: A exposição a esta substância pode ser controlada de
+diversas maneiras. As medidas apropriadas para o ambiente de trabalho particular dependem de
+como o material esteja sendo usado e da extensão da exposição. Esta informação geral pode ser
+usada para auxiliar no desenvolvimento das medidas de controle específicas, devendo contemplar
+com a regulamentação ocupacional, ambiental e de incêndio, além de outras regulamentações
+aplicáveis. Procedimentos recomendados para monitoramento: Utilizar instrumentos apropriados de
+monitoramento. A estratégia da amostragem deve contemplar local, tempo, duração, frequência e
+número de amostras.
+Medidas de proteção individual
+As características dos meios de proteção para o corpo devem ser selecionadas em função da
+concentração e da quantidade das substancias tóxicas de acordo com as condições específicas do
+local de trabalho. A resistência dos meios de proteção aos agentes químicos deve ser esclarecida
+juntos dos fornecedores.
+Proteção dos olhos/face: Utilizar óculos de segurança de ampla visão,
+Proteção da pele: Utilizar roupa impermeável. Necessário o uso de luvas.
+Proteção respiratória: Necessário em caso de formação de pós.
+Perigos térmicos: produto não queima
+9. PROPRIEDADES FÍSICO-QUÍMICAS.
+Aspecto: Sólido.
+Cor: Branco
+Bifluoreto de Amônio
+Página 6 de 12
+27/07/2016
+ | 
+ | 
+ | 
+ | 
+Última revisão: 27/07/2016 Rev.: 04
+Odor: Pungente.
+Limite de odor: Não existem informações disponíveis.
+pH: Não existem informações disponíveis.
+Ponto/intervalo de ebulição: Não existem informações disponíveis.
+Ponto de fusão: 125 ºC
+Ponto de fulgor: Não existem informações disponíveis.
+Ponto de combustão: Não existem informações disponíveis.
+Taxa de evaporação: Não existem informações disponíveis.
+Inflamabilidade (sólido, gás): Não existem informações disponíveis.
+Limites de explosividade: Inferior: Não existem informações disponíveis.
+Superior: Não existem informações disponíveis.
+Pressão do vapor: Não existem informações disponíveis.
+Densidade relativa do vapor: Não existem informações disponíveis.
+Densidade relativa: 1.500 g/cm3.
+Solubilidade em água: Não existem informações disponíveis.
+Coeficiente de partição ( n-octanol/água): Não existem informações disponíveis.
+Temperatura de auto-ignição: Não existem informações disponíveis.
+Temperatura de decomposição: Não existem informações disponíveis.
+Viscosidade, dinâmica: Não existem informações disponíveis.
+Risco de explosão: Não existem informações disponíveis.
+Propriedades oxidantes: Não
+Temperatura de ignição: Não existem informações disponíveis.
+Densidade aparente: Não existem informações disponíveis
+10. ESTABILIDADE E REATIVIDADE.
+Reatividade: Não existem informações disponíveis
+Bifluoreto de Amônio
+Página 7 de 12
+27/07/2016
+ | 
+ | 
+ | 
+ | 
+Última revisão: 27/07/2016 Rev.: 04
+Estabilidade química: Não existem informações disponíveis
+Possibilidade de reações perigosas: Não existem informações disponíveis
+Condições a serem evitadas: Forte aquecimento.
+Materiais incompatíveis: Agentes oxidantes fortes, Bases fortes
+Produtos de decomposição perigosa: Não existem informações disponíveis
+11. INFORMAÇÕES TOXICOLÓGICAS.
+Toxicidade aguda
+DL50 (oral, ratazana): Não existem informações disponíveis
+Toxicidade aguda por via dérmica
+Estimativa de toxicidade aguda : Não existem informações disponíveis
+Toxicidade aguda por inalação
+Absorção
+Sintomas: Irritação das mucosas, Tosse, Respiração superficial.
+Genotoxicidade in vitro
+Teste de Ames
+Resultado negativo
+(IUCLID) (Ficha de segurança)
+Corrosão/Irritação da pele: irritação.
+Lesões oculares graves/ irritação ocular: irritação.
+Sensibilização respiratória ou à pele: Sintomas: Irritação das mucosas, tosse.
+Mutagenicidade em células germinativas: Não existem informações disponíveis.
+Carcinogenicidade: Não existem informações disponíveis.
+Toxicidade à reprodução: Não existem informações disponíveis.
+Toxicidade sistêmica de órgão-alvo específico – exposição única
+A substância ou mistura não esta classificada como um tóxico específico com alvo de órgão,
+exposição singular.
+Toxicidade sistêmica de órgão-alvo específico – exposição repetida
+A substância ou mistura não esta classificada como um tóxico específico com alvo de órgão,
+exposição repetida.
+Bifluoreto de Amônio
+Página 8 de 12
+27/07/2016
+ | 
+ | 
+ | 
+ | 
+Última revisão: 27/07/2016 Rev.: 04
+Perigo por aspiração:
+Após absorção: Não existem informações disponíveis.
+Após a inalação de vapores: Não existem informações disponíveis.
+Outras informações:
+Manusear de acordo com as boas praticas industriais de higiene e segurança. O material é
+extremamente destrutivo para os tecidos das membranas mucosas e para o trato respiratório
+superior, os olhos e a pele., Tosse, Respiração superficial, Dor de cabeça, Náusea.
+12. INFORMAÇÕES ECOLÓGICAS.
+Ecotoxidade:
+Toxicidade para os peixes
+Br.rerio LC0: Não existem informações disponíveis.
+Toxicidade em daphnias e outros invertebrados aquáticos
+CE50 - Daphnia magna Não existem informações disponíveis.
+Toxicidade para as algas
+CE50 - Não existe informação disponível. Não existem informações disponíveis.
+Toxicidade para as bactérias
+lodo ativado CE50 : Não existem informações disponíveis.
+Persistência e degradabilidade
+Biodegradabilidade
+Não existem informações disponíveis.
+Potencial bioacumulativo:
+log P(o/w) : Não existem informações disponíveis.
+Resultados da avaliação PBT e vPvB
+Avaliação de PBT/vPvB não realizada uma vez que a avaliação de segurança química não é exigida/
+não foi realizada.
+Outros efeitos adversos
+Tóxico para os organismos aquáticos
+13. CONDIÇÕES SOBRE TRATAMENTO E DISPOSIÇÃO.
+Métodos de tratamento de resíduos:
+Os dejetos devem ser descartados em conformidade com as regulamentações nacionais e locais.
+Mantenha as substâncias químicas em seus recipientes originais. Não misturar com outros dejetos.
+O manuseio de recipientes sujos deve ser realizado da mesma forma que o do produto em si.
+14. INFORMAÇÕES SOBRE TRANSPORTE.
+Bifluoreto de Amônio
+Página 9 de 12
+27/07/2016
+ | 
+ | 
+ | 
+ | 
+Última revisão: 27/07/2016 Rev.: 04
+Regulamentações nacionais e internacionais: O produto deve ser transportado com os
+cuidados necessários a não danificaras embalagens, com consequente perda do produto,
+resguardando as normas e legislação vigentes para transporte da substância.
+TERRESTRE
+Número ONU:
+1727
+Nome apropriado para embarque:
+HIDROGENODIFLUORETO DE AMONIO, SOLIDO
+Classe de risco/subclasse de risco principal:
+8
+Número de risco:
+80
+Grupo de Embalagem
+II
+Perigo ao meio ambiente: Corrosivo
+HIDROVIÁRIO
+Número ONU:
+1727
+Nome apropriado para embarque:
+HIDROGENODIFLUORETO DE AMONIO, SOLIDO
+Classe de risco/subclasse de risco principal:
+8
+Número de risco:
+80
+Grupo de embalagem:
+II
+Perigo ao meio ambiente: Corrosivo
+AÉREO
+Número ONU:
+1727
+Bifluoreto de Amônio
+Página 10 de 12
+27/07/2016
+ | 
+ | 
+ | 
+ | 
+Última revisão: 27/07/2016 Rev.: 04
+Nome apropriado para embarque:
+HIDROGENODIFLUORETO DE AMONIO, SOLIDO
+Classe de risco/subclasse de risco principal:
+8
+Número de risco:
+80
+Grupo de embalagem:
+II
+Perigo ao meio ambiente: Corrosivo
+15. REGULAMENTAÇÕES.
+Regulamentações específicas para o produto químico:
+ABNT NBR 14725: Produtos químicos - Informações sobre segurança, saúde e meio ambiente.
+ABNT NBR 14725-2: Sistema de Classificação de Perigo.
+ABNT NBR 14725-3: Rotulagem.
+ABNT NBR 14725-4: Ficha de Informação de Segurança de Produtos Químicos (FISPQ).
+ONU - GHS: Sistema Globalmente Harmonizado de Classificação e Rotulagem de Produtos
+Químicos, Revisão
+16. OUTRAS INFORMAÇÕES.
+Esta FISPQ foi elaborada baseada nos conhecimentos atuais do produto químico e fornece
+informações quanto à proteção, à segurança, à saúde e ao meio ambiente.
+Adverte-se que o manuseio de qualquer substância química requer o conhecimento prévio de seus
+perigos pelo usuário. Cabe à empresa usuária do produto promover o treinamento de seus
+empregados e contratados quanto aos possíveis riscos advindos do produto.
+Referências:
+Os dados desta ficha foram baseados nas fichas de informações de produtos de nossos
+fornecedores.
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 14725-4 Produtos químicos –
+Informações sobre segurança, saúde e meio ambiente. Parte 4: Ficha de informações de segurança
+de produtos químicos (FISPQ).
+Centros de Informações Toxicológicas
+Belo Horizonte - Serviço de Toxicologia de Minas Gerais - Hospital João XXIII
+Fone: (31) 3239.9224/3239.9223 (Hospital) (31) 3239-9308 / 3224-4000 (Tel. CIT) Fax: : (31)
+3239.9260(CIT)
+Bifluoreto de Amônio
+Página 11 de 12
+27/07/2016
+ | 
+ | 
+ | 
+ | 
+Última revisão: 27/07/2016 Rev.: 04
+Porto Alegre - Centro de Informações Toxicológicas do Rio Grande do Sul
+Fone: (51) 3217.1751 (Tel. CIT) Fax: (51) 3217.9067 Atendimento: 0800 78 02 00
+Recife - Centro de Assistência Toxicológica de Pernambuco - Hospital da Restauração - 1º andar
+Fone: (81) 3421.5444 R. 151 (Tel. Hospital) Fax: (81) 3421.5927 / 3423-8263
+Rio de Janeiro - Centro de Controle de Intoxicações do Rio de Janeiro -Hospital Universitário
+Clementino Fraga Filho
+Fone: (21) 2573.3244/2290-3344 (Tel. CIT) - Fax: (21) 2573-7079 (CIT)
+Salvador - Centro de Informações Anti-Veneno da Bahia - CIAVE - Hospital Geral Roberto Santos
+Fone: (71) 387.3414/387-4343 e 0800 284 43 43 Fax: (71) 387.3414
+São Paulo - Centro de Controle de Intoxicações de São Paulo - Hospital Municipal Dr. Artur Ribeiro
+de Saboya
+Fone/Fax: (11) 5012/2399 (Tel. CIT) (11) 5012-5311 (atendimento médico) Atendimento: 0800 771
+37 33
+Para mais informações visite o site: http://www.anvisa.gov.br/toxicologia/centros.htm
+Legendas e abreviaturas
+NT = Não existe o registro
+ND = Não determinado/Não disponível
+NA = Não aplicáve
+Bifluoreto de Amônio
+Página 12 de 12
+27/07/2016

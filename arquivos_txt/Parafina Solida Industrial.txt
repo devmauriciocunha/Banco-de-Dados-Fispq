@@ -1,0 +1,526 @@
+| FICHA DE INFORMAÇÕES DE SEGURANÇA
+DE PRODUTO QUÍMICO | Rev: 03
+Código: FISPQ - 019 | PARAFINA SÓLIDA INDUSTRIAL | Pág: 1 / 9
+Elaborado por:
+Claudia S. Portantiolo
+Responsável Técnica
+CRQ XIII 13400549
+Data: 29/06/2015 | Revisado por:
+Claudia S. Portantiolo
+Responsável Técnica
+CRQ XIII 13400549
+Data: 29/06/2015 | Aprovado por:
+Claudia S. Portantiolo
+Responsável Técnica
+CRQ XIII 13400549
+Data: 29/06/2015
+FICHA DE INFORMAÇÕES DE SEGURANÇA Rev: 03
+DE PRODUTO QUÍMICO
+Código: FISPQ - 019 PARAFINA SÓLIDA INDUSTRIAL Pág: 1 / 9
+1. IDENTIFICAÇÃO DO PRODUTO E DA EMPRESA
+Nome do produto (nome comercial): Parafina Sólida Industrial
+Código interno de identificação do produto: 285 e 7792
+Principais usos recomendados para a substância ou mistura: Indústria de velas e ceras,
+flores artificiais e artesanato, impermeabilização de couros, telas, paredes e cartuchos de
+papel, isolante elétrico e n extração de essências. Não recomendado para uso em produtos
+alimentícios, cosméticos e farmacêuticos.
+Nome da empresa: Quimidrol Comércio Indústria Importação Ltda.
+Endereço: Rua Dona Francisca, 6505 – Distrito Industrial – Joinville – SC
+Telefone para contato: 0800 - 601 8700 ou (47) 3027-8700
+Telefone para emergências: 0800 - 601 8700 ou (47) 3027-8700
+Fax: (47) 3027-8712
+E-mail: laboratorio@quimidrol.com.br
+2. IDENTIFICAÇÃO DE PERIGOS
+Classificação da substância ou mistura: Produto não classificado como perigoso pelo
+sistema de classificação utilizado.
+Elementos de rotulagem do GHS, incluindo as frases de precaução: Norma ABNT-NBR
+14725-2:2009 – versão corrigida 2:2010. Sistema Globalmente Harmonizado para a
+Classificação e Rotulagem de Produtos Químicos, ONU.
+Outros perigos que não resultam em uma classificação: O produto não possui outros
+perigos.
+3. COMPOSIÇÃO E INFORMAÇÕES SOBRE OS INGREDIENTES
+Grupo de substância de petróleo: Os componentes deste grupo são misturas complexas de
+petróleo, compostas predominantemente de hidrocarbonetos saturados de cadeias carbônicas
+variando de C a C , sendo a maioria delas compostas por mais de 20 átomos de carbono.
+12 85
+Por serem misturas complexas, as ceras derivadas de petróleo e os materiais relacionados
+são tipicamente definidas com base no processo produtivo e nas especificações e uso do
+produto; não pelo detalhamento da composição que identifica cada componente do produto.
+Nome químico comum ou nome técnico: Parafina Sólida Industrial
+Sinônimo: Parafina Macrocristalina, Parafina 140/145, Parafina de Petróleo, Ceras de
+petróleo
+Número de registro CAS: 8009-03-8
+Elaborado por: Revisado por: Aprovado por:
+Claudia S. Portantiolo Claudia S. Portantiolo Claudia S. Portantiolo
+Responsável Técnica Responsável Técnica Responsável Técnica
+CRQ XIII 13400549 CRQ XIII 13400549 CRQ XIII 13400549
+Data: 29/06/2015 Data: 29/06/2015 Data: 29/06/2015
+Anexo - 9 – PSQ/BPF - 4.1.1. – Controle de Projetos
+Rev: 02 Data: 17/03/2014
+ | FICHA DE INFORMAÇÕES DE SEGURANÇA
+DE PRODUTO QUÍMICO | Rev: 03
+Código: FISPQ - 019 | PARAFINA SÓLIDA INDUSTRIAL | Pág: 2 / 9
+Elaborado por:
+Claudia S. Portantiolo
+Responsável Técnica
+CRQ XIII 13400549
+Data: 29/06/2015 | Revisado por:
+Claudia S. Portantiolo
+Responsável Técnica
+CRQ XIII 13400549
+Data: 29/06/2015 | Aprovado por:
+Claudia S. Portantiolo
+Responsável Técnica
+CRQ XIII 13400549
+Data: 29/06/2015
+FICHA DE INFORMAÇÕES DE SEGURANÇA Rev: 03
+DE PRODUTO QUÍMICO
+Código: FISPQ - 019 PARAFINA SÓLIDA INDUSTRIAL Pág: 2 / 9
+Impurezas que contribuam para o perigo (acompanhados do número de registro CAS):
+Não apresenta impurezas que contribuam para o perigo.
+4. MEDIDAS DE PRIMEIROS-SOCORROS
+Medidas de primeiros-socorros
+- Inalação: Não é esperado riscos por inalação do produto sólido (temperatura ambiente),
+porém, quando o produto é aquecido (fundido) pode causar irritação ao sistema respiratório,
+neste caso procurar ar fresco no caso de inalação acidental de vapores ou produtos de
+decomposição. Se não houver respiração, aplicar respiração artificial. Se necessário,
+consultar o médico.
+- Contato com a pele: Não é esperado riscos por contato com a pele do produto sólido
+(temperatura ambiente), porém, quando o produto é aquecido (fundido) pode causar
+queimaduras graves, neste caso resfrie imediatamente a parte atingida com água fria, para
+depois remover o material solidificado e consulte um médico imediatamente.
+- Contato com os olhos: Não é esperado riscos por contato com os olhos do produto sólido
+(temperatura ambiente), porém, quando o produto é aquecido (fundido) pode causar
+queimaduras graves, neste caso resfrie imediatamente a parte atingida com água fria e
+procure imediatamente um médico oftalmologista.
+- Ingestão: NÃO provoque vômito. Se a vítima estiver consciente, lavar a sua boca com água
+limpa em abundância. Procurar orientação médica imediatamente.
+Ações que devem ser evitadas: Não administrar nada oralmente ou provocar o vômito em
+vítima inconsciente ou com convulsão. Não limpar partes do corpo com solventes.
+Proteção para o prestador de socorros: Evite contato com o produto ao socorrer a vítima.
+Usar os EPI’s indicados na seção 8.
+Sintomas e efeitos mais importantes, agudos ou tardios: Os fumos do produto aquecido
+ou produtos de decomposição, podem ser irritantes ao trato respiratório, com tosse e
+ressecamento na garganta, e aos olhos com dor e lacrimejamento. A exposição a altas
+concentrações de fumos pode causar efeitos narcóticos como dores de cabeça, náuseas,
+vômitos, efeitos anestésicos e desorientação. Quando fundida (após aquecimento) pode
+causar queimaduras com dor e vermelhidão no local atingido.
+Notas para o médico: Se necessário, forneça tratamento sintomático.
+5. MEDIDAS DE COMBATE A INCÊNDIO
+Meios de extinção
+- Meios de extinção apropriados: Neblina d’água, pó químico e dióxido de carbono (CO2)
+- Meios de extinção não recomendados: Jatos d’água.
+Perigos específicos da substância ou mistura: A combustão do produto químico ou de sua
+embalagem pode formar gases irritantes e tóxicos como monóxido e dióxido de carbono.
+Quando aquecido pode liberar sulfeto de hidrogênio. Dependendo do estágio que estiver o
+Elaborado por: Revisado por: Aprovado por:
+Claudia S. Portantiolo Claudia S. Portantiolo Claudia S. Portantiolo
+Responsável Técnica Responsável Técnica Responsável Técnica
+CRQ XIII 13400549 CRQ XIII 13400549 CRQ XIII 13400549
+Data: 29/06/2015 Data: 29/06/2015 Data: 29/06/2015
+Anexo - 9 – PSQ/BPF - 4.1.1. – Controle de Projetos
+Rev: 02 Data: 17/03/2014
+ | FICHA DE INFORMAÇÕES DE SEGURANÇA
+DE PRODUTO QUÍMICO | Rev: 03
+Código: FISPQ - 019 | PARAFINA SÓLIDA INDUSTRIAL | Pág: 3 / 9
+Elaborado por:
+Claudia S. Portantiolo
+Responsável Técnica
+CRQ XIII 13400549
+Data: 29/06/2015 | Revisado por:
+Claudia S. Portantiolo
+Responsável Técnica
+CRQ XIII 13400549
+Data: 29/06/2015 | Aprovado por:
+Claudia S. Portantiolo
+Responsável Técnica
+CRQ XIII 13400549
+Data: 29/06/2015
+FICHA DE INFORMAÇÕES DE SEGURANÇA Rev: 03
+DE PRODUTO QUÍMICO
+Código: FISPQ - 019 PARAFINA SÓLIDA INDUSTRIAL Pág: 3 / 9
+incêndio, deve-se tomar cuidado no uso da água na forma de neblina ou espuma, pois pode
+ocorrer borbulhamento.
+Medidas de proteção da equipe de combate a incêndio: Utilizar aparelhos de proteção
+respiratória independente do ar e roupas de aproximação/proteção a temperaturas elevadas.
+Produtos perigosos da decomposição: A combustão (incêndio) produzirá vapor d’água,
+CO (dióxido de carbono), CO (monóxido de carbono), vapores do produto, particulados e
+2
+fumaça, tornando o ambiente asfixiante. Quando aquecido pode liberar sulfeto de hidrogênio.
+6. MEDIDAS DE CONTROLE PARA DERRAMAMENTO OU VAZAMENTO
+Precauções pessoais, equipamento de proteção e procedimentos de emergência
+- Para o pessoal que não faz parte dos serviços de emergência: Afaste-se do local,
+somente pessoas treinadas devem participar do atendimento da emergência.
+- Para o pessoal do serviço de emergência: Vestir equipamento de proteção pessoal.
+Colocar as pessoas em segurança. Evitar contato do produto com os olhos e pele. Afastar os
+curiosos.
+Precauções ao meio ambiente: Conter os vazamentos. Impedir que o produto atinja as
+canalizações ou nos cursos de água. Evitar que o produto entre no sistema de esgotos.
+Métodos e materiais para a contenção e limpeza: Recolher o máximo possível o material
+derramado e colocar em recipientes apropriados para posterior reutilização ou descarte.
+Colete o produto com uma pá limpa ou outro instrumento que não disperse o produto.
+Coloque o material em recipientes apropriados e remova-os para local seguro. Se o produto
+estiver no estado liquido (aquecido) deverá ser resfriado com água para solidificá-lo. Para
+destinação final, proceder conforme a Seção 13 desta FISPQ. Tomar todas as precauções
+necessárias.
+Diferenças na ação de grandes e pequenos vazamentos: Não há distinção entre as ações
+de grandes e pequenos vazamentos para este produto.
+7. MANUSEIO E ARMAZENAMENTO
+Medidas técnicas apropriadas: Providenciar ventilação exaustora onde os processos assim
+o exigirem. O produto deve ser manuseado obedecendo às normas e procedimentos de
+higiene industrial e segurança do trabalho de acordo com a legislação em vigor. Elimine
+fontes quentes e de ignição. Todos os equipamentos elétricos usados devem ser blindados e
+a prova de explosão. As instalações e equipamentos devem ser aterrados para evitar a
+eletricidade estática. Chuveiros de emergência e lavador de olhos devem ser instalados nos
+locais de uso e estocagem. Não usar instrumentos que produzam faíscas. Não fumar.
+Precauções e orientações para manuseio seguro: Evite inalação e o contato com a pele,
+olhos e roupas. A manipulação do produto aquecido deve ser feito em local bem ventilado.
+Utilize equipamento de proteção individual ao manusear o produto, descritos na seção 8.
+Elaborado por: Revisado por: Aprovado por:
+Claudia S. Portantiolo Claudia S. Portantiolo Claudia S. Portantiolo
+Responsável Técnica Responsável Técnica Responsável Técnica
+CRQ XIII 13400549 CRQ XIII 13400549 CRQ XIII 13400549
+Data: 29/06/2015 Data: 29/06/2015 Data: 29/06/2015
+Anexo - 9 – PSQ/BPF - 4.1.1. – Controle de Projetos
+Rev: 02 Data: 17/03/2014
+ | FICHA DE INFORMAÇÕES DE SEGURANÇA
+DE PRODUTO QUÍMICO | Rev: 03
+Código: FISPQ - 019 | PARAFINA SÓLIDA INDUSTRIAL | Pág: 4 / 9
+Componentes | TLV – TWA (ACGIH, 1972)
+Parafina, cera (fumos) | 2, 0 mg/m3
+Elaborado por:
+Claudia S. Portantiolo
+Responsável Técnica
+CRQ XIII 13400549
+Data: 29/06/2015 | Revisado por:
+Claudia S. Portantiolo
+Responsável Técnica
+CRQ XIII 13400549
+Data: 29/06/2015 | Aprovado por:
+Claudia S. Portantiolo
+Responsável Técnica
+CRQ XIII 13400549
+Data: 29/06/2015
+FICHA DE INFORMAÇÕES DE SEGURANÇA Rev: 03
+DE PRODUTO QUÍMICO
+Código: FISPQ - 019 PARAFINA SÓLIDA INDUSTRIAL Pág: 4 / 9
+Condições de armazenamento seguro, incluindo qualquer incompatibilidade:
+- Medidas técnicas: O local de armazenamento deve ter piso impermeável, isento de
+materiais combustíveis e com bacia de contenção para reter o produto em caso de
+vazamento. Especificações de engenharia devem atender regulamentações locais.
+- Condições adequadas: Mantenha o produto em local fresco, seco e bem ventilado, distante
+de fontes de calor e ignição. Mantenha os recipientes bem fechados e devidamente
+identificados. Armazene sob temperatura máxima de 58ºC e pressão atmosférica.
+- Condições que devem ser evitadas: Exposição das embalagens contendo o produto sob o
+sol, chuva, temperaturas elevadas, fontes de ignição e contato com materiais incompatíveis.
+8. CONTROLE DE EXPOSIÇÃO E PROTEÇÃO INDIVIDUAL
+Parâmetros de controle
+Limites de exposição ocupacional Componentes TLV – TWA (ACGIH, 1972)
+Parafina, cera (fumos) 2, 0 mg/m3
+Indicadores biológicos: Não estabelecidos
+Medidas de controle de engenharia: Manter o local de trabalho ventilado. Em ambientes
+abertos e manobras posicionar-se a favor do vento. Se necessário use ventilação local
+exaustora ou geral diluidora (com renovação de ar). Devem ser observadas medidas de
+higiene compatíveis com os componentes deste produto. Outros equipamentos de proteção
+individual e coletiva poderão ser indicados em função do local e condições de aplicação.
+Manter chuveiros e lava-olhos de emergência nos locais onde haja manipulação do produto.
+Equipamento de proteção individual apropriado
+- Proteção dos olhos/face: Nas operações onde possam ocorrer projeções ou respingos,
+recomenda-se o uso de óculos de segurança ou protetor facial.
+- Proteção da pele e do corpo: Avental, calça e sapatos. Os tipos de auxílios para proteção
+do corpo devem ser escolhidos especialmente segundo o posto de trabalho em função da
+concentração e quantidade de substância.
+- Proteção das mãos: Luvas impermeáveis resistentes ao produto. As luvas devem ser
+inspecionadas antes da utilização .
+- Proteção respiratória: Recomenda-se a utilização de respirador com filtro para vapores
+orgânicos para exposições médias acima da metade do TLV-TWA, utilize respirador do tipo
+autônomo (SCBA) com suprimento de ar, de peça facial inteira, operado em modo de pressão
+positiva. Siga orientação do Programa de Prevenção Respiratória (PPR), 3º Ed. São Paulo:
+Funcentro, 2002.
+Perigos térmicos: Não disponível.
+Elaborado por: Revisado por: Aprovado por:
+Claudia S. Portantiolo Claudia S. Portantiolo Claudia S. Portantiolo
+Responsável Técnica Responsável Técnica Responsável Técnica
+CRQ XIII 13400549 CRQ XIII 13400549 CRQ XIII 13400549
+Data: 29/06/2015 Data: 29/06/2015 Data: 29/06/2015
+Anexo - 9 – PSQ/BPF - 4.1.1. – Controle de Projetos
+Rev: 02 Data: 17/03/2014
+ | FICHA DE INFORMAÇÕES DE SEGURANÇA
+DE PRODUTO QUÍMICO | Rev: 03
+Código: FISPQ - 019 | PARAFINA SÓLIDA INDUSTRIAL | Pág: 5 / 9
+Elaborado por:
+Claudia S. Portantiolo
+Responsável Técnica
+CRQ XIII 13400549
+Data: 29/06/2015 | Revisado por:
+Claudia S. Portantiolo
+Responsável Técnica
+CRQ XIII 13400549
+Data: 29/06/2015 | Aprovado por:
+Claudia S. Portantiolo
+Responsável Técnica
+CRQ XIII 13400549
+Data: 29/06/2015
+FICHA DE INFORMAÇÕES DE SEGURANÇA Rev: 03
+DE PRODUTO QUÍMICO
+Código: FISPQ - 019 PARAFINA SÓLIDA INDUSTRIAL Pág: 5 / 9
+9. PROPRIEDADES FÍSICAS E QUÍMICAS
+Aspecto (estado físico, forma, cor etc.): Sólido na forma de barras, incolor em temperatura
+ambiente
+Odor: Inodoro
+Limite de odor: Inodoro
+pH: Não se aplica
+Ponto de fusão/ponto de congelamento: 61,4 ºC (Método ASTM D87)
+Ponto de ebulição inicial e faixa de temperatura de ebulição: 214 ºC a 290 oC (a 760
+mmHg)
+Ponto de fulgor: 202 ºC (Método: vaso aberto ASTM D92)
+Taxa de evaporação: Não aplicável
+Inflamabilidade (sólido; gás): Não disponível
+Limite inferior/superior de inflamabilidade ou explosividade: Não disponível
+Pressão de vapor: Não aplicável
+Densidade de vapor: Não disponível
+Densidade: 0,780 (a 80 ºC)
+Solubilidade(s): Insolúvel em água. Solúvel em tolueno (14,5 g/100 g a 20ºC)
+Coeficiente de partição – n-octanol/água: Log Kow: > 6,0
+Temperatura de autoignição: Não aplicável
+Temperatura de decomposição: Não disponível
+Viscosidade: 5,53 cSt a 90ºC (Método: ASTM – D445)
+Teor de óleo: 2,0% (p/p) (método ASTM D721)
+10. ESTABILIDADE E REATIVIDADE
+Reatividade: Não disponível.
+Estabilidade química: Produto estável em condições normais de temperatura e pressão.
+Possibilidade de reações perigosas: Não são conhecidas reações perigosas com relação
+ao produto.
+Condições a serem evitadas: Temperaturas elevadas e contato com materiais
+incompatíveis.
+Materiais incompatíveis: Agentes oxidantes fortes como peróxidos, cloratos e ácido crômico.
+Elaborado por: Revisado por: Aprovado por:
+Claudia S. Portantiolo Claudia S. Portantiolo Claudia S. Portantiolo
+Responsável Técnica Responsável Técnica Responsável Técnica
+CRQ XIII 13400549 CRQ XIII 13400549 CRQ XIII 13400549
+Data: 29/06/2015 Data: 29/06/2015 Data: 29/06/2015
+Anexo - 9 – PSQ/BPF - 4.1.1. – Controle de Projetos
+Rev: 02 Data: 17/03/2014
+ | FICHA DE INFORMAÇÕES DE SEGURANÇA
+DE PRODUTO QUÍMICO | Rev: 03
+Código: FISPQ - 019 | PARAFINA SÓLIDA INDUSTRIAL | Pág: 6 / 9
+Elaborado por:
+Claudia S. Portantiolo
+Responsável Técnica
+CRQ XIII 13400549
+Data: 29/06/2015 | Revisado por:
+Claudia S. Portantiolo
+Responsável Técnica
+CRQ XIII 13400549
+Data: 29/06/2015 | Aprovado por:
+Claudia S. Portantiolo
+Responsável Técnica
+CRQ XIII 13400549
+Data: 29/06/2015
+FICHA DE INFORMAÇÕES DE SEGURANÇA Rev: 03
+DE PRODUTO QUÍMICO
+Código: FISPQ - 019 PARAFINA SÓLIDA INDUSTRIAL Pág: 6 / 9
+Produtos perigosos da decomposição: combustão pode liberar gazes irritantes e tóxicos
+como monóxido e dióxido de carbono.
+11. INFORMAÇÕES TOXICOLÓGICAS
+Toxicidade aguda: Produto não classificado como tóxico agudo por via oral e dérmica.
+DL50 (oral, ratos): > 5000 mg/kg
+DL50 (dérmica, ratos): > 2000 mg/kg
+Corrosão/irritação da pele: Quando fundida (após aquecimento) pode causar queimaduras
+com dor e vermelhidão no local atingido.
+Lesões oculares graves/irritação ocular: Os fumos são irritantes aos olhos, com dor e
+lacrimejamento.
+Sensibilização respiratória ou à pele: O contato repetido e prolongado pode causar
+dermatite. Mão é esperado que o produto provoque sensibilização respiratória.
+Mutagenicidade em células germinativas: Não é esperado que o produto apresente
+mutagenicidade em células germinativas.
+Carcinogenicidade: Estudos com exposição subcutânea: resultados positivos em estudo
+com implantação subcutânea realizado em ratos, com manifestação de sarcomas. Entretanto,
+os resultados são controversos, uma vez que não foi estabelecido se a causa deste efeito
+está mais relacionada à implantação física ou às propriedade químicas das parafinas.
+Toxicidade à reprodução: Não é esperado que o produto apresente toxicidade á
+reprodução.
+Toxicidade para órgãos - alvo específicos - exposição única: Os fumos podem ser
+irritantes ao trato respiratório, com tosse e ressecamento na garganta. A exposição a altas
+concentrações de fumos pode causar efeitos narcóticos como dores de cabeça, náuseas
+vômitos, efeitos anestésicos e desorientação.
+Toxicidade para órgãos - alvo específicos - exposição repetida: Não é esperado que o
+produto apresente toxicidade ao órgão-alvo especifico por exposição repetida.
+Perigo por aspiração: Não é esperado que o produto apresente perigo por aspiração.
+12. INFORMAÇÕES ECOLÓGICAS
+Ecotoxicidade: Não é esperado que o produto apresente ecotoxicidade.
+Persistência e degradabilidade: É esperada baixa degradabilidade e alta persistência.
+Apresenta alto potencial bioacumulativo em organismos aquáticos.
+Potencial bioacumulativo: Log Kow: > 6,0 (valor estimado).
+Mobilidade no solo: Não determinada.
+Outros efeitos adversos: Não são conhecidos outros efeitos ambientais para este produto.
+Elaborado por: Revisado por: Aprovado por:
+Claudia S. Portantiolo Claudia S. Portantiolo Claudia S. Portantiolo
+Responsável Técnica Responsável Técnica Responsável Técnica
+CRQ XIII 13400549 CRQ XIII 13400549 CRQ XIII 13400549
+Data: 29/06/2015 Data: 29/06/2015 Data: 29/06/2015
+Anexo - 9 – PSQ/BPF - 4.1.1. – Controle de Projetos
+Rev: 02 Data: 17/03/2014
+ | FICHA DE INFORMAÇÕES DE SEGURANÇA
+DE PRODUTO QUÍMICO | Rev: 03
+Código: FISPQ - 019 | PARAFINA SÓLIDA INDUSTRIAL | Pág: 7 / 9
+Elaborado por:
+Claudia S. Portantiolo
+Responsável Técnica
+CRQ XIII 13400549
+Data: 29/06/2015 | Revisado por:
+Claudia S. Portantiolo
+Responsável Técnica
+CRQ XIII 13400549
+Data: 29/06/2015 | Aprovado por:
+Claudia S. Portantiolo
+Responsável Técnica
+CRQ XIII 13400549
+Data: 29/06/2015
+FICHA DE INFORMAÇÕES DE SEGURANÇA Rev: 03
+DE PRODUTO QUÍMICO
+Código: FISPQ - 019 PARAFINA SÓLIDA INDUSTRIAL Pág: 7 / 9
+13. CONSIDERAÇÕES SOBRE TRATAMENTO E DISPOSIÇÃO
+Métodos recomendados para destinação final
+- Produto: Sempre que possível o produto deverá ser recuperado, quando não for possível
+incineração ou aterramento de acordo com regulamentação federal ou regional.
+- Restos de produtos: Não descarte junto com lixo doméstico. Este produto não deve ser
+descartado diretamente nos esgotos, cursos d'água ou no solo. Incineração ou aterramento
+de acordo com regulamentação federal ou regional.
+- Embalagem usada: Não usar para armazenar produtos para consumo humano. Queimar
+em incinerador ou colocar em aterro específico, devem ser tomados os cuidados de acordo
+com os regulamentos locais. As embalagens descontaminadas podem ser enviadas
+reciclagem por empresa licenciada.
+Outras informações: O usuário deve consultar os órgãos locais sobre regulamentação para
+disposição.
+14. INFORMAÇÕES SOBRE TRANSPORTE
+Regulamentações nacionais e internacionais:
+Terrestre: Resolução nº 420 de 12 de Fevereiro de 2004 da Agência Nacional de Transportes
+Terrestres (ANTT), Aprova asInstruções Complementares ao Regulamento do Transporte
+Terrestre de Produtos Perigosos e suas Modificações.
+Hidroviário: DPC – Diretoria de Portos e Costas (Transporte em águas brasileiras). Normas
+de Autoridade Marítima (NORMAM). NORMAM 01/DPC: Embarcações Empregadas na
+Navegação em Mar Aberto. NORMAM 02/DPC: Embarcações Empregadas na Navegação
+Interior. IMO – International Maritime Organization (Organização Marítima Internacional).
+International Maritime Dangerous Goods Code (IMDG Code) – Incorporating Amendment 34-
+08;2008 Edition.
+Aérea: ANAC – Agência Nacional de Aviação Civil – Resolução nº129 de 8 de dezembro de
+2009. RBAC Nº175 – (Regulamento Brasileiro da Aviação Civil) – Transporte de Artigos
+Perigosos em Aeronaves Civis. IS Nº175-001 – Instrução Suplementar – IS. ICAO –
+“International Civil Aviation Organization” (Organização da Aviação Civil Internacional) – Doc
+9284-NA/905. IATA – International Air Transport Association (Associação Internacional de
+Transporte Aéreo). Dangerous Goods Regulation (DGR).
+Nº ONU: Não classificado como perigoso para o transporte nos diferentes modais.
+15. REGULAMENTAÇÕES
+Regulamentações específicas de segurança, saúde e meio ambiente para o produto
+químico
+FISPQ (Ficha de Informações de Segurança de Produto Químico) em conformidade com o
+Decreto 2657 de 03.07.98, contém informações diversas sobre um determinado produto
+Elaborado por: Revisado por: Aprovado por:
+Claudia S. Portantiolo Claudia S. Portantiolo Claudia S. Portantiolo
+Responsável Técnica Responsável Técnica Responsável Técnica
+CRQ XIII 13400549 CRQ XIII 13400549 CRQ XIII 13400549
+Data: 29/06/2015 Data: 29/06/2015 Data: 29/06/2015
+Anexo - 9 – PSQ/BPF - 4.1.1. – Controle de Projetos
+Rev: 02 Data: 17/03/2014
+ | FICHA DE INFORMAÇÕES DE SEGURANÇA
+DE PRODUTO QUÍMICO | Rev: 03
+Código: FISPQ - 019 | PARAFINA SÓLIDA INDUSTRIAL | Pág: 8 / 9
+Elaborado por:
+Claudia S. Portantiolo
+Responsável Técnica
+CRQ XIII 13400549
+Data: 29/06/2015 | Revisado por:
+Claudia S. Portantiolo
+Responsável Técnica
+CRQ XIII 13400549
+Data: 29/06/2015 | Aprovado por:
+Claudia S. Portantiolo
+Responsável Técnica
+CRQ XIII 13400549
+Data: 29/06/2015
+FICHA DE INFORMAÇÕES DE SEGURANÇA Rev: 03
+DE PRODUTO QUÍMICO
+Código: FISPQ - 019 PARAFINA SÓLIDA INDUSTRIAL Pág: 8 / 9
+químico, quanto à proteção, à segurança, à saúde e ao meio ambiente. Em alguns países,
+essa ficha é chamada de Material Safety Data Sheet - MSDS. A norma brasileira NBR 14725-
+4, segunda edição 03/08/2012, válida a partir de 03/09/2012, apresenta informações para a
+elaboração e o preenchimento de uma FISPQ. Esta norma estabelece que as informações
+sobre o produto químico devem ser distribuídas, na FISPQ, por 16 seções determinadas, cuja
+terminologia, numeração e sequência não devem ser alteradas.
+Transporte de Produtos Perigosos: Decreto No 96.044, de 18/maio/1988 (Aprova o
+regulamento técnico para o transporte rodoviário de produtos perigosos e dá outras
+providencias). Resolução do Ministério dos Transportes No 420 de 12/Fev./2004, (aprova as
+instruções complementares ao regulamento do transporte terrestre de produtos perigosos).
+16. OUTRAS INFORMAÇÕES
+Informações importantes, mas não especificamente descritas nas seções anteriores:
+As informações e recomendações constantes desta publicação foram pesquisadas e
+compiladas de fontes idôneas e capacitadas para emiti-las. Os dados dessa Ficha referem-se
+a um produto específico e podem não ser válidos onde esse produto estiver sendo usado em
+combinação com outros. Estes dados são de caráter complementar, fornecidos de boa fé,
+representando o que de melhor se conhece sobre a matéria em questão, não significando que
+o assunto tenha sido completamente exaurido.
+A legislação específica, reguladora da matéria integrante da presente FISPQ, prevalece sobre
+os dados e informações, acima explicitados.
+Constitui obrigação do usuário determinar que o produto seja sempre manuseado de maneira
+segura e de forma correta.
+Referências: FISPQ dos fornecedores.
+Legendas e abreviaturas
+ACGIH = American Confederation of Governmental Industrial Hygienists (USA)
+CA = Certificado de Aprovação
+CAS = Chemical Abstract Service
+DGR = Dangerous Goods Regulation
+EPA = Environmental Protection Agency
+EPI = Equipamento de Proteção Individual
+FISPQ = Ficha Interna de Segurança de Produto Químico
+IARC = International Agency for Research on Cancer
+IATA = International Air Transport Association
+IMDG = Código internacional de riscos para transporte seguro via marítima.
+CE : Effective Concentration (50%) = Dose letal para 50% da população testada
+50
+LC = Lethal Concentration (50%) = Dose letal para 50% da população testada
+50
+LD = Lethal Dose (50%) = Concentração letal para 50% da população testada
+50
+Elaborado por: Revisado por: Aprovado por:
+Claudia S. Portantiolo Claudia S. Portantiolo Claudia S. Portantiolo
+Responsável Técnica Responsável Técnica Responsável Técnica
+CRQ XIII 13400549 CRQ XIII 13400549 CRQ XIII 13400549
+Data: 29/06/2015 Data: 29/06/2015 Data: 29/06/2015
+Anexo - 9 – PSQ/BPF - 4.1.1. – Controle de Projetos
+Rev: 02 Data: 17/03/2014
+ | FICHA DE INFORMAÇÕES DE SEGURANÇA
+DE PRODUTO QUÍMICO | Rev: 03
+Código: FISPQ - 019 | PARAFINA SÓLIDA INDUSTRIAL | Pág: 9 / 9
+Elaborado por:
+Claudia S. Portantiolo
+Responsável Técnica
+CRQ XIII 13400549
+Data: 29/06/2015 | Revisado por:
+Claudia S. Portantiolo
+Responsável Técnica
+CRQ XIII 13400549
+Data: 29/06/2015 | Aprovado por:
+Claudia S. Portantiolo
+Responsável Técnica
+CRQ XIII 13400549
+Data: 29/06/2015
+FICHA DE INFORMAÇÕES DE SEGURANÇA Rev: 03
+DE PRODUTO QUÍMICO
+Código: FISPQ - 019 PARAFINA SÓLIDA INDUSTRIAL Pág: 9 / 9
+NR = Norma Regulamentadora
+NBR = Norma Brasileira Reunida
+OIT = Organização Internacional do Trabalho
+ONU = Organização das Nações Unidas
+OSHA = Occupational Safety and Health Administration
+PCMSO = Programa de Controle Médico de Saúde Ocupacional
+PEL = Limite de Exposição Permissível / Permissible Exposure Limit (USA)
+PPRA = Programa de Prevenção de Riscos Ambientais
+TLV = Valor Limite de Tolerância / Threshold Limit Value (USA)
+Elaborado por: Revisado por: Aprovado por:
+Claudia S. Portantiolo Claudia S. Portantiolo Claudia S. Portantiolo
+Responsável Técnica Responsável Técnica Responsável Técnica
+CRQ XIII 13400549 CRQ XIII 13400549 CRQ XIII 13400549
+Data: 29/06/2015 Data: 29/06/2015 Data: 29/06/2015
+Anexo - 9 – PSQ/BPF - 4.1.1. – Controle de Projetos
+Rev: 02 Data: 17/03/2014

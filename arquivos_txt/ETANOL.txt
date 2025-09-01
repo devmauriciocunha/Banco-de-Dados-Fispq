@@ -1,0 +1,352 @@
+Ficha de Informação de Segurança de Produto Químico - FISPQ
+PRODUTO: ÁLCOOL ETÍLICO (ETANOL ANIDRO)
+Data: 02/10/2019 R03 - Nº FISPQ: 002 Anula e substitui versão: todas as anteriores Página 1 de 8
+1 - IDENTIFICAÇÃO DO PRODUTO E DA EMPRESA
+Nome do Produto: ÁLCOOL ETÍLICO (ETANOL ANIDRO)
+Código interno de Identificação: USI - 002
+Nome da Empresa: Usina Santa Isabel S/A
+Endereço: Fazenda Três Pontes – Bairro Três Pontes - Novo Horizonte - São Paulo - CEP 14960-000
+Telefone(s): (17) 35429000
+Fax: (17) 35429032
+Telefone de Emergência: (17) 35429000 ou 120
+2 - IDENTIFICAÇÃO DE PERIGOS
+VISÃO GERAL DE EMERGÊNCIA: Os vapores podem deslocar-se até uma fonte de ignição e provocar retrocesso de chamas. Os
+recipientes podem explodir com o calor do fogo. Há risco de explosão do vapor em ambientes
+fechados ou redes de esgoto.
+PERIGOS MAIS IMPORTANTES: Inflama facilmente se exposto a faíscas, calor ou chamas. Reage com substâncias oxidantes liberando
+grande quantidade de calor.
+EFEITOS DO PRODUTO
+SAÚDE:
+Perigoso se inalado, absorvido pela pele ou ingerido.
+PRINCIPAIS SINTOMAS: Vermelhidão ocular, lacrimejamento e dor. Pele e mucosas com vermelhidão e secura.Tosse, dor de
+garganta, falta de ar, náuseas, sensação de queimação, dor abdominal e diarréia. Tontura, náusea,
+dor de cabeça, confusão mental e perda de consciência. Pode causar tremores, irritabilidade, perda
+de concentração e confusão em caso de exposição prolongada
+CLASSIFICAÇÃO DE PERIGO DO
+PRODUTO:
+Líquidos inflamáveis – Categoria 2
+Olho danos/irritação – Categoria 2 A
+Mutagenicidade – Categoria 1B
+Toxicidade reprodutiva – Categoria 1A
+Toxicidade para órgãos-alvo específicos (exposição única) – Categoria 3
+Toxicidade para órgãos-alvo específicos (exposição repetida) – Categoria 1 e 2
+SISTEMA DE CLASSIFICAÇÃO ADOTADO
+Norma ABNT-NBR 14725-Parte 2:2009.
+Adoção do Sistema Globalmente Harmonizado para a Classificação e Rotulagem de Produtos
+Químicos, ONU.
+VISÃO GERAL DAS EMERGÊNCIAS
+LÍQUIDO ALTAMENTE INFLAMÁVEL E PERIGOSO PARA A SAÚDE HUMANA
+ELEMENTOS APROPRIADOS DA ROTULAGEM
+PICTOGRAMAS
+PALAVRA DE ADVERTÊNCIA PERIGO
+FRASE DE ADVERTÊNCIA Pode causar defeitos genéticos se ingerido.
+Pode causar danos de fertilidade ou danos ao feto se ingerido.
+Pode causar irritação das vias respiratórias
+Pode provocar sonolência ou vertigens.
+Pode causar danos ao sistema nervoso central através da exposição prolongada ou repetida, se
+ingeridas.
+Perigo
+Ingredientes | Concentração (%) | CAS
+Etanol | 99,3 % (p/p) | NA
+Água | Máx. 0,7% (p/p) | NA
+Ficha de Informação de Segurança de Produto Químico - FISPQ
+PRODUTO: ÁLCOOL ETÍLICO (ETANOL ANIDRO)
+Data: 02/10/2019 R03 - Nº FISPQ: 002 Anula e substitui versão: todas as anteriores Página 2 de 8
+FRASE DE PRECAUÇÃO Não fumar.
+Mantenha afastado de calor (faíscas), chama aberta e superfícies quentes.
+Manter o recipiente bem fechado.
+Evitar respirar poeiras/fumos/gases/névoas/vapores/aerossóis.
+Armazenar em local bem ventilado
+3 - COMPOSIÇÃO E INFORMAÇÃO SOBRE OS INGREDIENTES
+SUBSTÂNCIA
+NOME QUÍMICO Etanol
+SINÔNIMOS Álcool etílico; álcool anidro; AEAC
+NÚMERO DE REGISTRO CAS: CAS 64-17-5
+IMPUREZAS QUE CONTRIBUAM
+Ingredientes Concentração (%) CAS
+PARA O PERIGO
+Etanol 99,3 % (p/p) NA
+Água Máx. 0,7% (p/p) NA
+4 - MEDIDAS DE PRIMEIROS SOCORROS
+INALAÇÃO: Remova a vítima imediatamente do local e leve - a para ambiente de ar fresco; se houver parada
+respiratória, promova respiração artificial ou de oxigênio; procure assistência médica imediatamente.
+Leve esta FISPQ.
+CONTATO COM A PELE: Retire imediatamente roupas e sapatos que tiverem sido atingidos pelo produto químico; lave a pele
+afetada abundantemente com água e sabão; procure assistência médica imediatamente.
+Observação: Mantenha as roupas contaminadas em ambiente ventilado e longe de fontes de ignição,
+até que sejam lavadas e/ou descartadas. Leve esta FISPQ.
+CONTATO COM OS OLHOS: Lave os olhos abundantemente com água limpa, separando as pálpebras com os dedos; use de
+preferência um chuveiro para olhos; a lavagem deve ser prolongada (15 minutos, no mínimo); procure
+assistência médica imediatamente. Leve esta FISPQ.
+INGESTÃO:
+Se a vítima estiver consciente, lave a sua boca abundantemente com água limpa; procure socorro
+médico imediato, com indicação do produto ingerido (se possível, leve o rótulo do produto); procure
+assistência médica imediatamente. Em caso de ingestão não induza o vômito. Leve esta FISPQ.
+PROTEÇÃO DO PRESTADOR DE
+SOCORROS E/OU NOTAS
+PARA O MÉDICO Evite contato com o produto ao socorrer a vítima. Mantenha a vítima em repouso e aquecida. Não
+forneça nada pela boca a uma pessoa inconsciente. O tratamento sintomático deve compreender,
+sobretudo, medidas de suporte como correção de distúrbios hidroeletrolíticos, metabólicos, além de
+assistência respiratória.
+5 - MEDIDAS DE COMBATE A INCÊNDIO
+MEIOS DE EXTINÇÃO APROPRIADOS
+Espuma para álcool, neblina d'água, pó químico e dióxido de carbono (CO ).
+2
+MEIO DE EXTINÇÃO NÃO RECOMENDADOS
+Não utilize jato direto de água.
+PERIGOS ESPECÍFICOS
+Vapores podem deslocar - se até uma fonte de ignição e provocar retrocesso de chamas; os
+recipientes podem explodir com o calor do fogo; há riscos de explosão do vapor em ambientes
+fechados ou rede de esgotos; remover os recipientes da área de fogo, se isso puder ser feito sem
+risco; resfriar lateralmente com água os recipientes que estiverem expostos ás chamas mesmo após
+a extinção do fogo; manter - se longe dos tanques.
+MÉTODOS ESPECÍFICOS: Usar neblina de água para o resfriamento de instalações adjacentes ao incêndio.
+Ficha de Informação de Segurança de Produto Químico - FISPQ
+PRODUTO: ÁLCOOL ETÍLICO (ETANOL ANIDRO)
+Data: 02/10/2019 R03 - Nº FISPQ: 002 Anula e substitui versão: todas as anteriores Página 3 de 8
+PROTEÇÃO DOS BOMBEIROS: Em ambientes fechados, usar equipamento de resgate com suprimento de ar.
+6 - MEDIDAS DE CONTROLE PARA DERRAMAMENTO OU VAZAMENTO
+PRECAUÇÕES PESSOAIS O vapor pode deslocar - se próximo ao solo por distâncias consideráveis. Não respire o vapor. Evite o
+contato com a pele, olhos e roupas. Troque imediatamente as roupas atingidas. Note que a roupa
+contaminada tem risco de inflamar - e. A roupa contaminada deve ser embebida com água antes de
+ser removida, devendo ser lavada antes de reutilizada.
+REMOÇÃO DE FONTES DE IGNIÇÃO: Eliminar todas as fontes de ignição, impedir centelhas, fagulhas, chamas e não fumar na área de
+risco. Isolar o vazamento de todas as fontes de ignição.
+CONTROLE DE POEIRA: Não se aplica (líquido).
+PREVENÇÃO DA INALAÇÃO E DO
+CONTATO COM A PELE,
+MUCOSAS E OLHOS: Usar botas, roupas e luvas impermeáveis, óculos de segurança herméticos para produtos químicos e
+proteção respiratória adequada.
+PRECAUÇÕES AO MEIO AMBIENTE Utilize contenção adequada, de forma a evitar contaminação. Previna a entrada do produto em
+drenos, fossos, rios, lagos e mar.
+PEQUENOS DERRAMES: Absorva ou contenha com areia, terra ou material de controle de derrame. Permita a evaporação ou
+remova-o com pá e coloque em recipiente selado e identificado para posterior descarte. Não disperse
+com água.
+GRANDES DERRAMES: Transfira para um tanque selado e identificado para sua posterior recuperação ou descarte. Caso
+contrário, trate como pequenos derrames.
+PREVENÇÃO DE PERIGOS
+SECUNDÁRIOS: As autoridades locais devem ser avisadas se derrames significativos não puderem ser contidos.
+Respeite todas regulamentações locais e relevantes.
+SISTEMA DE ALARME: Não Aplicável
+MÉTODOS PARA LIMPEZA
+RECUPERAÇÃO: Recolher o produto em recipiente de emergência, devidamente etiquetado e bem fechado. Conservar
+o produto recuperado para posterior eliminação.
+NEUTRALIZAÇÃO: Absorver com terra ou material absorvente.
+DISPOSIÇÃO: Não dispor em lixo comum. Não descartar no sistema de esgoto em cursos d'água. Confirmar, se
+possível, para posterior recuperação ou descarte. A disposição final desse material deverá ser
+acompanhada por especialista e de acordo com a legislação ambiental vigente.
+NOTA: Contatar o órgão ambiental local, no caso de vazamento ou contaminação de águas superficiais,
+mananciais ou solos.
+7 - MANUSEIO E ARMAZENAMENTO
+MANUSEIO
+MEDIDAS TÉCNICAS Durante o manuseio não coma, beba ou fume. Temperatura de manuseio: ambiente.
+PREVENÇÃO DA EXPOSIÇÃO
+AO TRABALHADOR Utilizar equipamentos de proteção individual (EPI) para evitar o contato direto com o produto.
+Valor limite - Etanol (Brasil, Portaria MTb 3214/78,
+NR15 - Anexo 11) | | 
+Limite de Tolerância Média
+Ponderada (48h/semana | | Limite de Tolerância
+Valor Máximo
+1480 mg/m3 (780 ppm) | | 1219 mg/m3 (975 ppm)
+Limite de Tolerância Média
+Ponderada (48h/semana
+ | | 
+Valor limite (EUA, ACGIH) | | 
+ | | 
+Ingredientes | TLV – TWA (ACGIH) | 
+Ingredientes | TLV – TWA (ACGIH) | TLV – STEL (ACGIH)
+Névoa de óleo | 1.000 ppm | 
+Névoa de óleo | 1.000 ppm | 1.000 ppm
+Ficha de Informação de Segurança de Produto Químico - FISPQ
+PRODUTO: ÁLCOOL ETÍLICO (ETANOL ANIDRO)
+Data: 02/10/2019 R03 - Nº FISPQ: 002 Anula e substitui versão: todas as anteriores Página 4 de 8
+ORIENTAÇÕES PARA
+MANUSEIO SEGURO
+Manipular respeitando as regras gerais de segurança e higiene industrial.
+ARMAZENAMENTO
+MEDIDAS TÉCNICAS
+O local de armazenamento deve ter piso impermeável, isento de materiais combustíveis e com dique
+de contenção para reter em caso de vazamento. Cargas eletrostáticas podem ser criadas durante o
+bombeamento. Assegure-se da ligação elétrica através do aterramento de todos os equipamentos.
+Evite respingos durante o enchimento. Aguarde 10 minutos após as operações de enchimento, antes
+de abrir bocas de visita ou outras aberturas.
+CONDIÇÕES DE ARMAZENAMENTO
+ADEQUADAS Estocar em local adequado com bacia de contenção para reter o produto, em caso de vazamento,
+com permeabilidade permitida pela norma ABNT-NBR-7505-1.
+INADEQUADAS Este produto nunca deve ser armazenado em edificações ocupadas por pessoas. Não armazene
+tambores contendo o produto sem a correta identificação, devidamente lacrados, em ambientes
+úmidos, expostos a luz solar ou outras fontes de calor ou ignição. Previna - se da entrada de água.
+Mantenha - os longe do alcance de crianças.
+PRODUTOS/MATERIAIS
+INCOMPATÍVEIS Ácido Nítrico, acido perclórico, acido permangânico, anidrido crômico, cloreto de acetila, hipoclorito
+de cálcio, nitrato de prata, nitrato de mercúrio, peróxido de hidrogênio, pentafluoreto de bromo,
+percloratos e oxidantes em geral.
+PREVENÇÃO DE INCÊNDIO
+E EXPLOSÃO Providenciar ventilação local exaustora onde os processos assim o exigirem. Todos os elementos
+condutores do sistema em contato com o produto devem ser aterrados eletricamente. Usar
+ferramentas anti-faiscantes.
+8 - CONTROLE DE EXPOSIÇÃO E PROTEÇÃO INDIVIDUAL
+MEDIDAS DE CONTROLE
+DE ENGENHARIA
+MANIPULAR O PRODUTO COM VENTILAÇÃO EXAUSTORA OU VENTILAÇÃO GERAL DILUIDORA
+(com renovação de ar), de forma a manter a concentração dos vapores inferior ao LT - Limite de
+Tolerância.
+LIMITE DE EXPOSIÇÃO
+OCUPACIONAL
+Valor limite - Etanol (Brasil, Portaria MTb 3214/78,
+NR15 - Anexo 11)
+Limite de Tolerância Média Limite de Tolerância
+Ponderada (48h/semana Valor Máximo
+1480 mg/m3 (780 ppm) 1219 mg/m3 (975 ppm)
+Valor limite (EUA, ACGIH)
+Ingredientes TLV – TWA (ACGIH) TLV – STEL (ACGIH)
+Névoa de óleo 1.000 ppm 1.000 ppm
+Ficha de Informação de Segurança de Produto Químico - FISPQ
+PRODUTO: ÁLCOOL ETÍLICO (ETANOL ANIDRO)
+Data: 02/10/2019 R03 - Nº FISPQ: 002 Anula e substitui versão: todas as anteriores Página 5 de 8
+EQUIPAMENTO DE PROTEÇÃO INDIVIDUAL
+PROTEÇÃO RESPIRATÓRIA Normalmente não requisitada. Em espaço confinado usar equipamento autônomo de respiração. Se
+em ambiente fechado, abrir janelas e portas de modo a ventilar o máximo possível. Não utilizar
+ventiladores elétricos.
+PROTEÇÃO DAS MÃOS Se ocorrerem respingos, usar luvas de PVC.
+PROTEÇÃO DOS OLHOS/FACE Óculos de proteção do tipo ampla visão ou proteção facial, se for provável a ocorrência de respingos.
+PROTEÇÃO PARA A PELE E CORPO Macacão para reduzir a contaminação da roupa pessoal. Lave regularmente o macacão e a roupa de
+baixo. Sapatos ou botas de segurança - quimicamente resistentes. Todos os equipamentos elétricos
+devem ser blindados e a prova de explosão.
+PRECAUÇÕES ESPECIAIS Manter chuveiros de emergência e lavador de olhos disponíveis nos locais onde haja manipulação do
+produto.
+MEDIDAS DE HIGIENE Manter as roupas contaminadas em ambiente ventilado e longe de fontes de ignição, até que sejam
+lavadas ou descartadas. Métodos gerais de controle utilizado em higiene industrial devem minimizar a
+exposição ao produto. Não comer, beber ou fumar ao manusear produtos químicos. Separar as
+roupas de trabalho das roupas comuns.
+9 - PROPRIEDADES FÍSICO-QUÍMICAS
+ASPECTO Líquido incolor
+ODOR Característico
+pH 6,0 - 8,0.
+CONGELAMENTO -117 ºC.
+PONTO DE EBULIÇÃO INICIAL E
+FAIXA DE TEMPERATURA DE
+EBULIÇÃO 78,5 ºC a 101,325 kPa (760 mmHg).
+PONTO DE FULGOR 13 ºC.
+TAXA DE EVAPORAÇÃO 5,9 Pa (44mmHg),a 20ºC
+INFLAMABILIDADE Produto altamente inflamável
+LIMITE INFERIOR/SUPERIOR
+DE INFLAMABILIDADE OU
+EXPLOSIVIDADE Superior: 19%
+Inferior: 3,3%
+PRESSÃO DE VAPOR 5,8 kPa a 20ºC
+DENSIDADE DE VAPOR 1,59.
+DENSIDADE 791,5 Kg/m3 a 20º C
+SOLUBILIDADE Na água: solúvel
+Em solventes orgânicos: solúvel
+COEFICIENTE DE PARTIÇÃO
+N-OCTANOL/ÁGUA Log Kow: -0,32
+TEMPERATURA DE AUTO-IGNIÇÃO 363 ºC.
+Ingestão: | Etanol: DL50 (rato): > 7.060 mg/kg.
+Ficha de Informação de Segurança de Produto Químico - FISPQ
+PRODUTO: ÁLCOOL ETÍLICO (ETANOL ANIDRO)
+Data: 02/10/2019 R03 - Nº FISPQ: 002 Anula e substitui versão: todas as anteriores Página 6 de 8
+TEMPERATURA DE DECOMPOSIÇÃO Não disponível.
+VISCOSIDADE 1,22 cP @ 20 ºC
+FAIXA DE DESTILAÇÃO Não disponível
+PONTO DE COMBUSTÃO Não disponível.
+10 - ESTABILIDADE E REATIVIDADE
+ESTABILIDADE QUÍMICA Estável sob condições normais de uso. Não sofre polimerização.
+POSSIBILIDADE DE REAÇÕES
+PERIGOSAS:
+Substâncias oxidantes, alumínio e metais alcalinos.
+CONDIÇÕES A SEREM
+EVITADAS Calor, chamas e faíscas.
+MATERIAIS INCOMPATÍVEIS Agentes oxidantes fortes como peróxidos, cloratos e ácido crômico
+PRODUTOS PERIGOSOS DE
+DECOMPOSIÇÃO Em combustão libera hidrocarbonetos leves e pesados e coque.
+11 - INFORMAÇÕES TOXICOLÓGICAS
+TOXIDADE AGUDA
+Como depressor do sistema nervoso central, pode causar efeitos narcóticos como dor de cabeça e
+tontura. Pode causar confusão mental e perda de consciência em altas concentrações. O produto
+pode causar irritação das vias aéreas superiores, se inalado, causando tosse, dor de garganta e falta
+de ar. Causa irritação à pele como vermelhidão e dor no local atingido. Pode causar leve irritação
+ocular. Pode ser fatal se aspirado. Pode causar a morte se ingerido ou inalado. Este produto contém
+gás sulfídrico, extremamente tóxico.
+Ingestão: Etanol: DL50 (rato): > 7.060 mg/kg.
+TOXICIDADE CRÔNICA Pode causar dermatite após contato repetido e prolongado com a pele.
+EFEITOS ESPECÍFICOS Carcinogenicidade: Possível carcinógeno humano (Grupo 2B - IARC).
+12 - INFORMAÇÕES ECOLÓGICAS
+EFEITOS AMBIENTAIS, COMPORTAMENTOS E IMPACTOS DO PRODUTO
+ECOTOXICIDADE Em caso de grandes derramamentos o produto pode ser perigoso para o meio ambiente devido à
+possível formação de uma película do produto na superfície da água diminuindo os níveis de oxigênio
+dissolvido.
+PERSISTÊNCIA E DEGRADABILIDADE É esperada baixa degradação e alta persistência.
+POTENCIAL BIOACUMULATIVO É esperado potencial de bioacumulação em organismos aquáticos.
+Log kow: 0,31.
+NÚMERO ONU | 1170
+NÚMERO DE RISCO | 33
+GRUPO DE EMBALAGEM | II
+CLASSE E SUBCLASSE DE RISCO PRINCIPAL E SUBSIDIÁRIO | 3
+Ficha de Informação de Segurança de Produto Químico - FISPQ
+PRODUTO: ÁLCOOL ETÍLICO (ETANOL ANIDRO)
+Data: 02/10/2019 R03 - Nº FISPQ: 002 Anula e substitui versão: todas as anteriores Página 7 de 8
+13 - CONSIDERAÇÕES SOBRE TRATAMENTO E DISPOSIÇÃO
+MÉTODOS RECOMENDADOS PARA
+TRATAMENTO E DISPOSIÇÃO
+APLICADOS AO PRODUTO Evite a exposição ocupacional ou a contaminação ambiental. Recicle qualquer parcela não utilizada
+do material para seu uso aprovado ou retorná-lo ao fabricante ou ao fornecedor. Outros métodos
+consultar legislação federal e estadual: Resolução CONAMA 005/1993, NBR 10.004/2004.
+RESTOS DE PRODUTOS Manter restos do produto em suas embalagens originais, fechadas e dentro de tambores metálicos,
+devidamente fechados, de acordo com a legislação aplicável. O descarte deve ser realizado
+conforme o estabelecido para o produto, recomendando-se as rotas de processamento em
+cimenteiras e a incineração.
+EMBALAGEM USADA Nunca reutilize embalagens vazias, pois elas podem conter restos do produto e devem ser mantidas
+fechadas e encaminhadas para serem destruídas em local apropriado. Neste caso, recomenda-se
+envio para rotas de recuperação dos tambores ou incineração.
+14 - INFORMAÇÕES SOBRE TRANSPORTE
+REGULAMENTAÇÕES NACIONAIS E INTERNACIONAIS
+TERRESTRE
+Decreto nº 96.044, de 18 de maio de 1988: Aprova o regulamento para o transporte rodoviário de
+produtos perigosos e dá outras providências.
+Agência Nacional de transportes terrestres (ANTT): Resoluções N° 5.232/2016
+HIDROVIÁRIO
+DPC – Diretoria de Portos e Costas (Transporte em águas brasileiras). Normas de Autoridade
+Marítima (NORMAM)
+NORMAM 01/DPC: Embarcações Empregadas na Navegação em Mar Aberto.
+NORMAM 02/DPC: Embarcações Empregadas na Navegação Interior.
+IMO – “International Maritime Organization” (Organização Marítima Internacional) International
+Maritime Dangerous Goods Code (IMDG Code) – Incorporating Amendment 34-08;2008 Edition.
+AÉREO
+DAC -Departamento de Aviação Civil: IAC 153-1001.
+Instrução de Aviação Civil – Normas para o transporte de artigos perigosos em aeronaves civis.
+IATA – “International Air Transport Association” (Associação Nacional de Transporte Aéreo).
+Dangerous Goods Regulation (DGR) - 51
+NOME APROPRIADO PARA
+EMBARQUE
+ETANOL (ÁLCOOL ETÍLICO ANIDRO)
+NÚMERO ONU 1170
+NÚMERO DE RISCO 33
+GRUPO DE EMBALAGEM II
+CLASSE E SUBCLASSE DE RISCO PRINCIPAL E SUBSIDIÁRIO 3
+15 – REGULAMENTAÇÕES
+REGULAMENTAÇÕES Regulamentações: Decreto Federal nº 2.657, de 3 de julho de 1998 Norma ABNT-NBR 14725-
+4:2009, ABNT-NBR 15481:2017.
+16 - OUTRAS INFORMAÇÕES
+INFORMAÇÕES IMPORTANTES
+Esta FISPQ foi elaborada baseada nos conhecimentos atuais do produto químico e fornece
+informações quanto à proteção, à segurança, à saúde e ao meio ambiente.
+Adverte-se que o manuseio de qualquer substância química requer o conhecimento prévio de seus
+perigos pelo usuário. Cabe à empresa usuária do produto promover o treinamento de seus
+empregados e contratados quanto aos possíveis riscos advindos do produto. Os dados dessa ficha
+de informações referem-se a um produto especifico e podem não ser válidos onde este produto
+estiver sendo usado em combinação com outros.
+Ficha de Informação de Segurança de Produto Químico - FISPQ
+PRODUTO: ÁLCOOL ETÍLICO (ETANOL ANIDRO)
+Data: 02/10/2019 R03 - Nº FISPQ: 002 Anula e substitui versão: todas as anteriores Página 8 de 8
+SIGLAS
+ACGIH - American Conference of Governmental Industrial Hygienists
+CAS - Chemical Abstracts Service
+DL50 - Dose letal 50%
+STEL – Short Term Exposure Level
+TLV - Threshold Limit Value
+TWA - Time Weighted Average
+Bibliografia
+[SIRETOX/INTERTOX] SISTEMA DE INFORMAÇÕES SOBRE RISCOS DE EXPOSIÇÃO QUÍMICA.
+Disponível em: http://www.intertox.com.br. Acesso em: Março de 2011
+Chemical Abstracts Service – CAS. Disponível em:http://www.cas.org/expertise/cascontent/registry/regsys.html

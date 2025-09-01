@@ -1,0 +1,923 @@
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+
+1 - IDENTIFICAÇÃO | 
+Nome do produto (nome
+comercial): | Ácido Sulfúrico
+ | 
+Principais usos
+recomendados para
+substância ou mistura: | Utilizado nas indústrias para fabricação de ácidos, fertilizantes, refino de petróleo e outros.
+ | 
+Nome da empresa: | Mosaic Fertilizantes P&K LTDA - Complexo Industrial de Uberaba
+Endereço: | Rod Estrada da Cana, nº 750, Distrito Industrial III CEP: 38.044-795, Uberaba - MG - BR
+Telefone para contato: | 0800-125454
+Telefone para
+emergências: | (34) 3319-2222
+ | 
+E-mail: | fispq.ehs@mosaicco.com
+2 - IDENTIFICAÇÃO DE PERIGOS | | | | | 
+Classificação de perigo
+do produto químico: | Corrosão/irritação à pele - Categoria 1A
+Corrosivo para os metais - Categoria 1
+Lesões oculares graves/irritação ocular - Categoria 1
+Perigoso ao ambiente aquático - Agudo - Categoria 3
+Toxicidade aguda - Oral - Categoria 5
+Toxicidade para órgãos-alvo específicos - Exposição única - Categoria 3 | | | | 
+ | | | | | 
+Sistema de
+classificação utilizado: | Norma ABNT-NBR 14725-2.
+Sistema Globalmente Harmonizado para a Classificação e Rotulagem de Produtos Químicos, ONU. | | | | 
+Outros perigos que não
+resultam em uma
+classificação: | O produto não possui outros perigos. | | | | 
+ | | | | | 
+Elementos apropriados para rotulagem | | | | | 
+Pictogramas: | | | | | 
+ | | | | | 
+Palavra de advertência: | PERIGO | | | | 
+Frases de perigo: | H290 Pode ser corrosivo para os metais.
+H303 Pode ser nocivo se ingerido.
+H314 Provoca queimadura severa à pele e dano aos olhos.
+H335 Pode provocar irritação das vias respiratórias.
+H402 Nocivo para os organismos aquáticos. | | | | 
+ | | | | | 
+Frases de precaução: | PREVENÇÃO:
+P234 Conserve somente no recipiente original.
+P260 Não inale as poeiras/fumos/gases/névoas/vapores/aerossóis.
+P261 Evite inalar as poeiras/fumos/gases/névoas/vapores/aerossóis.
+P264 Lave as mãos cuidadosamente após manuseio.
+P271 Utilize apenas ao ar livre ou em locais bem ventilados.
+P273 Evite a liberação para o meio ambiente.
+P280 Use luvas de proteção, roupa de proteção, proteção ocular e proteção facial.
+RESPOSTA À EMERGÊNCIA: | | | | 
+ | | | | | 
+ | | | | | 
+FISPQ
+Em conformidade com NBR 14725
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Produto: Ácido Sulfúrico
+Revisão: 01 Data: 27/04/2020 Página: 1/9
+1 - IDENTIFICAÇÃO
+Nome do produto (nome Ácido Sulfúrico
+comercial):
+Principais usos Utilizado nas indústrias para fabricação de ácidos, fertilizantes, refino de petróleo e outros.
+recomendados para
+substância ou mistura:
+Nome da empresa: Mosaic Fertilizantes P&K LTDA - Complexo Industrial de Uberaba
+Endereço: Rod Estrada da Cana, nº 750, Distrito Industrial III CEP: 38.044-795, Uberaba - MG - BR
+Telefone para contato: 0800-125454
+Telefone para (34) 3319-2222
+emergências:
+E-mail: fispq.ehs@mosaicco.com
+2 - IDENTIFICAÇÃO DE PERIGOS
+Classificação de perigo Corrosão/irritação à pele - Categoria 1A
+do produto químico: Corrosivo para os metais - Categoria 1
+Lesões oculares graves/irritação ocular - Categoria 1
+Perigoso ao ambiente aquático - Agudo - Categoria 3
+Toxicidade aguda - Oral - Categoria 5
+Toxicidade para órgãos-alvo específicos - Exposição única - Categoria 3
+Sistema de Norma ABNT-NBR 14725-2.
+classificação utilizado: Sistema Globalmente Harmonizado para a Classificação e Rotulagem de Produtos Químicos, ONU.
+Outros perigos que não O produto não possui outros perigos.
+resultam em uma
+classificação:
+Elementos apropriados para rotulagem
+Pictogramas:
+Palavra de advertência: PERIGO
+Frases de perigo: H290 Pode ser corrosivo para os metais.
+H303 Pode ser nocivo se ingerido.
+H314 Provoca queimadura severa à pele e dano aos olhos.
+H335 Pode provocar irritação das vias respiratórias.
+H402 Nocivo para os organismos aquáticos.
+Frases de precaução: PREVENÇÃO:
+P234 Conserve somente no recipiente original.
+P260 Não inale as poeiras/fumos/gases/névoas/vapores/aerossóis.
+P261 Evite inalar as poeiras/fumos/gases/névoas/vapores/aerossóis.
+P264 Lave as mãos cuidadosamente após manuseio.
+P271 Utilize apenas ao ar livre ou em locais bem ventilados.
+P273 Evite a liberação para o meio ambiente.
+P280 Use luvas de proteção, roupa de proteção, proteção ocular e proteção facial.
+RESPOSTA À EMERGÊNCIA:
+ | Em conformidade com NBR 14725
+FICHA DE
+FICHA DE | INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Produto: Ácido Su | lfúrico
+Revisão: 01 | Data: 27/04/2020 Página: 2/9
+ | P301 + P330 + P331 EM CASO DE INGESTÃO: Enxágue a boca. NÃO provoque vômito.
+P303 + P361 + P353 EM CASO DE CONTATO COM A PELE (ou o cabelo): Retire imediatamente
+toda a roupa contaminada. Enxágue a pele com água ou tome uma ducha.
+P304 + P340 EM CASO DE INALAÇÃO: Remova a pessoa para local ventilado e a mantenha em
+repouso numa posição que não dificulte a respiração.
+P305 + P351 + P338 EM CASO DE CONTATO COM OS OLHOS: Enxágue cuidadosamente com
+água durante vários minutos. No caso de uso de lentes de contato, remova-as, se for fácil. Continue
+enxaguando.
+P310 Contate imediatamente um CENTRO DE INFORMAÇÃO TOXICOLÓGICA ou um médico.
+P312 Caso sinta indisposição, contate um CENTRO DE INFORMAÇÃO TOXICOLÓGICA ou um
+médico.
+P321 Tratamento específico.
+P363 Lave a roupa contaminada antes de usá-la novamente.
+P390 Absorva o produto derramado a fim de evitar danos materiais.
+ARMAZENAMENTO:
+P403 + P233 Armazene em local bem ventilado. Mantenha o recipiente hermeticamente fechado.
+P405 Armazene em local fechado à chave.
+P406 Armazene num recipiente resistente à corrosão ou com um revestimento interno resistente.
+DISPOSIÇÃO:
+P501 Descarte o conteúdo e o recipiente em conformidade com as regulamentações locais.
+
+FICHA DE
+FICHA DE
+
+3 - COMPOSIÇÃO E INFORMAÇÕES SOBRE OS INGREDIENTES | 
+SUBSTÂNCIA | 
+Nome químico comum
+ou nome técnico: | Ácido sulfúrico.
+ | 
+Sinônimo: | Hidrogenossulfato; Óleo de vitriolo.
+Número de registro
+CAS: | 7664-93-9
+ | 
+Impurezas que
+contribuam para o
+perigo: | Não apresenta componentes que contribuam para o perigo.
+ | 
+4 - MEDIDAS DE PRIMEIROS-SOCORROS | 
+Inalação: | Remova a vítima para local ventilado e a mantenha em repouso numa posição que não dificulte a
+respiração. Caso sinta indisposição, contate um CENTRO DE INFORMAÇÃO TOXICOLÓGICA ou
+um médico. Leve esta FISPQ.
+ | 
+Contato com a pele: | Lave imediatamente a pele exposta com quantidade suficiente de água para remoção do material.
+Retire as roupas ou acessórios contaminados. Em caso de contato menor com a pele, evite
+espalhar o produto em áreas não atingidas. Consulte um médico. Leve esta FISPQ.
+ | 
+Contato com os olhos: | Lave imediatamente os olhos com quantidade suficiente de água, mantendo as pálpebras abertas,
+durante vários minutos. No caso de uso de lentes de contato, remova-as, se for fácil e enxague
+novamente. Consulte um médico. Leve esta FISPQ.
+ | 
+Ingestão: | Não induza o vômito. Nunca forneça algo por via oral a uma pessoa inconsciente. Lave a boca da
+vítima com água em abundância. Consulte imediatamente um médico. Leve esta FISPQ.
+ | 
+Sintomas e efeitos mais
+importantes, agudos e
+tardios: | Provoca queimadura severa à pele e dano aos olhos com dor, formação de bolhas e descamação.
+Provoca lesões oculares graves com queimadura, lacrimejamento e dor. Pode ser nocivo se
+ingerido. Pode provocar irritação das vias respiratórias.
+Notas para o médico: | Evite contato com o produto ao socorrer a vítima. Se necessário, o tratamento sintomático deve
+compreender, sobretudo, medidas de suporte como correção de distúrbios hidroeletrolíticos,
+metabólicos, além de assistência respiratória. Em caso de contato com a pele não friccione o local
+ | 
+FISPQ
+Em conformidade com NBR 14725
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Produto: Ácido Sulfúrico
+Revisão: 01 Data: 27/04/2020 Página: 2/9
+P301 + P330 + P331 EM CASO DE INGESTÃO: Enxágue a boca. NÃO provoque vômito.
+P303 + P361 + P353 EM CASO DE CONTATO COM A PELE (ou o cabelo): Retire imediatamente
+toda a roupa contaminada. Enxágue a pele com água ou tome uma ducha.
+P304 + P340 EM CASO DE INALAÇÃO: Remova a pessoa para local ventilado e a mantenha em
+repouso numa posição que não dificulte a respiração.
+P305 + P351 + P338 EM CASO DE CONTATO COM OS OLHOS: Enxágue cuidadosamente com
+água durante vários minutos. No caso de uso de lentes de contato, remova-as, se for fácil. Continue
+enxaguando.
+P310 Contate imediatamente um CENTRO DE INFORMAÇÃO TOXICOLÓGICA ou um médico.
+P312 Caso sinta indisposição, contate um CENTRO DE INFORMAÇÃO TOXICOLÓGICA ou um
+médico.
+P321 Tratamento específico.
+P363 Lave a roupa contaminada antes de usá-la novamente.
+P390 Absorva o produto derramado a fim de evitar danos materiais.
+ARMAZENAMENTO:
+P403 + P233 Armazene em local bem ventilado. Mantenha o recipiente hermeticamente fechado.
+P405 Armazene em local fechado à chave.
+P406 Armazene num recipiente resistente à corrosão ou com um revestimento interno resistente.
+DISPOSIÇÃO:
+P501 Descarte o conteúdo e o recipiente em conformidade com as regulamentações locais.
+3 - COMPOSIÇÃO E INFORMAÇÕES SOBRE OS INGREDIENTES
+SUBSTÂNCIA
+Nome químico comum Ácido sulfúrico.
+ou nome técnico:
+Sinônimo: Hidrogenossulfato; Óleo de vitriolo.
+Número de registro 7664-93-9
+CAS:
+Impurezas que Não apresenta componentes que contribuam para o perigo.
+contribuam para o
+perigo:
+4 - MEDIDAS DE PRIMEIROS-SOCORROS
+Inalação: Remova a vítima para local ventilado e a mantenha em repouso numa posição que não dificulte a
+respiração. Caso sinta indisposição, contate um CENTRO DE INFORMAÇÃO TOXICOLÓGICA ou
+um médico. Leve esta FISPQ.
+Contato com a pele: Lave imediatamente a pele exposta com quantidade suficiente de água para remoção do material.
+Retire as roupas ou acessórios contaminados. Em caso de contato menor com a pele, evite
+espalhar o produto em áreas não atingidas. Consulte um médico. Leve esta FISPQ.
+Contato com os olhos: Lave imediatamente os olhos com quantidade suficiente de água, mantendo as pálpebras abertas,
+durante vários minutos. No caso de uso de lentes de contato, remova-as, se for fácil e enxague
+novamente. Consulte um médico. Leve esta FISPQ.
+Ingestão: Não induza o vômito. Nunca forneça algo por via oral a uma pessoa inconsciente. Lave a boca da
+vítima com água em abundância. Consulte imediatamente um médico. Leve esta FISPQ.
+Sintomas e efeitos mais Provoca queimadura severa à pele e dano aos olhos com dor, formação de bolhas e descamação.
+importantes, agudos e Provoca lesões oculares graves com queimadura, lacrimejamento e dor. Pode ser nocivo se
+tardios: ingerido. Pode provocar irritação das vias respiratórias.
+Notas para o médico: Evite contato com o produto ao socorrer a vítima. Se necessário, o tratamento sintomático deve
+compreender, sobretudo, medidas de suporte como correção de distúrbios hidroeletrolíticos,
+metabólicos, além de assistência respiratória. Em caso de contato com a pele não friccione o local
+
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+
+ | 
+Revisão: 01 | Data: 27/04/2020 Página: 3/9
+ | atingido.
+5 - MEDIDAS DE COMBATE A INCÊNDIO | 
+Meios de extinção: | Apropriados: Compatível com dióxido de carbono (CO2), espuma e pó químico seco.
+Não recomendados qualquer forma de água.
+ | 
+Perigos específicos da
+mistura ou substância: | A combustão do produto químico ou de sua embalagem pode formar gases irritantes e tóxicos como
+monóxido e dióxido de carbono e óxidos de enxofre.
+Medidas de proteção
+da equipe de combate
+a incêndio: | Equipamento de proteção respiratória do tipo autônomo (SCBA) com pressão positiva e vestuário
+protetor completo. Contêineres e tanques envolvidos no incêndio podem ser resfriados com neblina
+d'água.
+6 - MEDIDAS DE CONTROLE PARA DERRAMAMENTO OU VAZAMENTO | 
+Precauções pessoais, equipamento de proteção e procedimentos de emergência | 
+Para o pessoal que não
+faz parte dos serviços
+de emergência: | Não fume. Evite contato com o produto. Caso necessário, utilize equipamento de proteção individual
+conforme descrito na seção 8.
+ | 
+Para o pessoal do
+serviço de emergência: | Isole o vazamento de fontes de ignição preventivamente. Luvas de cano longo para proteção
+química resistente a ácidos líquidos. Vestimenta de proteção química resistente a ácidos líquidos.
+Calçado de cano longo de PVC. Óculos de segurança contra respingos e capuz com resistência a
+ácidos líquidos. Máscara panorâmica com filtro contra gases ácidos ou multiuso. Em grandes
+concentrações do produto utilize máscara autônoma.
+ | 
+Precauções ao meio
+ambiente: | Evite que o produto derramado atinja cursos d'água e rede de esgotos.
+ | 
+Método e materiais
+para a contenção e
+limpeza: | Utilize névoa de água ou espuma supressora de vapor para reduzir a dispersão dos vapores. Utilize
+barreiras naturais ou de contenção de derrame. Colete o produto derramado e coloque em
+recipientes próprios. Adsorva o produto remanescente, com areia seca, terra, vermiculite, ou
+qualquer outro material inerte. Coloque o material adsorvido em recipientes apropriados e remova-
+os para local seguro. Utilize ferramentas que não provoquem faíscas para recolher o material
+absorvido.
+ | 
+Diferenças na ação de
+grandes e pequenos
+vazamentos: | Não há distinção entre as ações de grandes e pequenos vazamentos para este produto.
+ | 
+7 - MANUSEIO E ARMAZENAMENTO | 
+Medidas técnicas apropriadas para o manuseio | 
+Precauções para
+manuseio seguro: | Manuseie em uma área ventilada ou com sistema geral de ventilação/exaustão local. Evite
+formação de vapores e névoas. Evite exposição ao produto, pois os efeitos podem não ser sentidos
+de imediato. Utilize equipamento de proteção individual conforme descrito na seção 8.
+ | 
+Medidas de higiene: | Lave as mãos e o rosto cuidadosamente após o manuseio e antes de comer, beber, fumar ou ir ao
+banheiro. Roupas contaminadas devem ser trocadas e lavadas antes de sua reutilização. Remova a
+roupa e o equipamento de proteção contaminado antes de entrar nas áreas de alimentação.
+ | 
+Condições de armazenamento seguro, incluindo qualquer incompatibilidade | 
+Prevenção de incêndio
+e explosão: | Não é esperado que o produto apresente perigo de incêndio ou explosão.
+ | 
+Condições adequadas: | Armazene em local bem ventilado e longe da luz solar e de umidade. Mantenha o recipiente
+fechado.
+Não é necessária adição de estabilizantes e antioxidantes para garantir a durabilidade do produto.
+ | 
+Materiais adequados
+para embalagem: | Tanques: aço carbono - ASTM A 283 + revestimento de borracha + tijolo antiácido.
+Em pequenas quantidades, pode ser armazenado em recipientes de vidro.
+FISPQ
+Em conformidade com NBR 14725
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Produto: Ácido Sulfúrico
+Revisão: 01 Data: 27/04/2020 Página: 3/9
+atingido.
+5 - MEDIDAS DE COMBATE A INCÊNDIO
+Meios de extinção: Apropriados: Compatível com dióxido de carbono (CO2), espuma e pó químico seco.
+Não recomendados qualquer forma de água.
+Perigos específicos da A combustão do produto químico ou de sua embalagem pode formar gases irritantes e tóxicos como
+mistura ou substância: monóxido e dióxido de carbono e óxidos de enxofre.
+Medidas de proteção Equipamento de proteção respiratória do tipo autônomo (SCBA) com pressão positiva e vestuário
+da equipe de combate protetor completo. Contêineres e tanques envolvidos no incêndio podem ser resfriados com neblina
+a incêndio: d'água.
+6 - MEDIDAS DE CONTROLE PARA DERRAMAMENTO OU VAZAMENTO
+Precauções pessoais, equipamento de proteção e procedimentos de emergência
+Para o pessoal que não Não fume. Evite contato com o produto. Caso necessário, utilize equipamento de proteção individual
+faz parte dos serviços conforme descrito na seção 8.
+de emergência:
+Para o pessoal do Isole o vazamento de fontes de ignição preventivamente. Luvas de cano longo para proteção
+serviço de emergência: química resistente a ácidos líquidos. Vestimenta de proteção química resistente a ácidos líquidos.
+Calçado de cano longo de PVC. Óculos de segurança contra respingos e capuz com resistência a
+ácidos líquidos. Máscara panorâmica com filtro contra gases ácidos ou multiuso. Em grandes
+concentrações do produto utilize máscara autônoma.
+Precauções ao meio Evite que o produto derramado atinja cursos d'água e rede de esgotos.
+ambiente:
+Método e materiais Utilize névoa de água ou espuma supressora de vapor para reduzir a dispersão dos vapores. Utilize
+para a contenção e barreiras naturais ou de contenção de derrame. Colete o produto derramado e coloque em
+limpeza: recipientes próprios. Adsorva o produto remanescente, com areia seca, terra, vermiculite, ou
+qualquer outro material inerte. Coloque o material adsorvido em recipientes apropriados e remova-
+os para local seguro. Utilize ferramentas que não provoquem faíscas para recolher o material
+absorvido.
+Diferenças na ação de Não há distinção entre as ações de grandes e pequenos vazamentos para este produto.
+grandes e pequenos
+vazamentos:
+7 - MANUSEIO E ARMAZENAMENTO
+Medidas técnicas apropriadas para o manuseio
+Precauções para Manuseie em uma área ventilada ou com sistema geral de ventilação/exaustão local. Evite
+manuseio seguro: formação de vapores e névoas. Evite exposição ao produto, pois os efeitos podem não ser sentidos
+de imediato. Utilize equipamento de proteção individual conforme descrito na seção 8.
+Medidas de higiene: Lave as mãos e o rosto cuidadosamente após o manuseio e antes de comer, beber, fumar ou ir ao
+banheiro. Roupas contaminadas devem ser trocadas e lavadas antes de sua reutilização. Remova a
+roupa e o equipamento de proteção contaminado antes de entrar nas áreas de alimentação.
+Condições de armazenamento seguro, incluindo qualquer incompatibilidade
+Prevenção de incêndio Não é esperado que o produto apresente perigo de incêndio ou explosão.
+e explosão:
+Condições adequadas: Armazene em local bem ventilado e longe da luz solar e de umidade. Mantenha o recipiente
+fechado.
+Não é necessária adição de estabilizantes e antioxidantes para garantir a durabilidade do produto.
+Materiais adequados Tanques: aço carbono - ASTM A 283 + revestimento de borracha + tijolo antiácido.
+para embalagem: Em pequenas quantidades, pode ser armazenado em recipientes de vidro.
+Revisão: 01 | Data: 27/04/2020 Página: 4/9
+ | 
+Materiais inadequados
+para embalagem: | Não são conhecidos materiais inadequados para este produto.
+ | 
+8 - CONTROLE DE EXPOSIÇÃO E PROTEÇÃO INDIVIDUAL | 
+Parâmetros de controle | 
+Limites de exposição
+ocupacional: | Os valores abaixo são aplicáveis para ambientes de trabalho.
+PEL - TWA (OSHA, 2015): 1 mg/m³;
+REL - TWA (NIOSH, 2015): 1 mg/m³;
+TLV - TWA (ACGIH, 2016): 0,2 mg/m³ (T).
+(T) Fração torácica.
+ | 
+Indicadores biológicos: | Não estabelecidos
+Outros limites e valores: | Não estabelecidos
+Medidas de controle de
+engenharia: | Promova ventilação mecânica e sistema de exaustão direta para o meio exterior. Estas medidas
+auxiliam na redução da exposição ao produto. Manter as concentrações atmosféricas dos
+constituintes do produto abaixo dos limites de exposição ocupacional indicados.
+ | 
+Medidas de proteção pessoal | 
+Proteção dos
+olhos/face: | Óculos de segurança contra respingos e capuz com resistência a ácidos líquidos.
+ | 
+Proteção da pele e do
+corpo: | Vestimenta de proteção química resistente a ácidos líquidos. Calçado de cano longo de PVC. Luvas
+de cano longo para proteção química resistente a ácidos líquidos.
+Proteção respiratória: | Máscara panorâmica com filtro contra gases ácidos ou multiuso. Em grandes concentrações do
+produto utilize máscara autônoma.
+ | 
+Perigos térmicos: | Não apresenta perigos térmicos.
+9 - PROPRIEDADES FÍSICAS E QUÍMICAS | 
+Aspecto (estado físico,
+forma e cor): | Líquido oleoso denso, incolor quando puro e amarelo a marrom-escuro quando impuro.
+ | 
+Odor e limite de odor: | Inodoro.
+pH: | 0,3 a 1,2 (Solução aquosa de 0,1 a 1 N a 25°C).
+Ponto de fusão/ponto
+de congelamento: | 10,3 °C.
+ | 
+Ponto de ebulição inicial
+e faixa de temperatura
+de ebulição: | 337 °C.
+ | 
+Ponto de fulgor: | Não disponível.
+Taxa de evaporação: | Não disponível.
+Inflamabilidade: | Não aplicável.
+Limite inferior/superior
+de inflamabilidade ou
+explosividade: | Não disponível.
+ | 
+Pressão de vapor: | < 0,3 mmHg a 25 °C.
+Densidade de vapor: | 3,4 (ar = 1).
+FISPQ
+Em conformidade com NBR 14725
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Produto: Ácido Sulfúrico
+Revisão: 01 Data: 27/04/2020 Página: 4/9
+Materiais inadequados Não são conhecidos materiais inadequados para este produto.
+para embalagem:
+8 - CONTROLE DE EXPOSIÇÃO E PROTEÇÃO INDIVIDUAL
+Parâmetros de controle
+Limites de exposição Os valores abaixo são aplicáveis para ambientes de trabalho.
+ocupacional: PEL - TWA (OSHA, 2015): 1 mg/m³;
+REL - TWA (NIOSH, 2015): 1 mg/m³;
+TLV - TWA (ACGIH, 2016): 0,2 mg/m³ (T).
+(T) Fração torácica.
+Indicadores biológicos: Não estabelecidos
+Outros limites e valores: Não estabelecidos
+Medidas de controle de Promova ventilação mecânica e sistema de exaustão direta para o meio exterior. Estas medidas
+engenharia: auxiliam na redução da exposição ao produto. Manter as concentrações atmosféricas dos
+constituintes do produto abaixo dos limites de exposição ocupacional indicados.
+Medidas de proteção pessoal
+Proteção dos Óculos de segurança contra respingos e capuz com resistência a ácidos líquidos.
+olhos/face:
+Proteção da pele e do Vestimenta de proteção química resistente a ácidos líquidos. Calçado de cano longo de PVC. Luvas
+corpo: de cano longo para proteção química resistente a ácidos líquidos.
+Proteção respiratória: Máscara panorâmica com filtro contra gases ácidos ou multiuso. Em grandes concentrações do
+produto utilize máscara autônoma.
+Perigos térmicos: Não apresenta perigos térmicos.
+9 - PROPRIEDADES FÍSICAS E QUÍMICAS
+Aspecto (estado físico, Líquido oleoso denso, incolor quando puro e amarelo a marrom-escuro quando impuro.
+forma e cor):
+Odor e limite de odor: Inodoro.
+pH: 0,3 a 1,2 (Solução aquosa de 0,1 a 1 N a 25°C).
+Ponto de fusão/ponto 10,3 °C.
+de congelamento:
+Ponto de ebulição inicial 337 °C.
+e faixa de temperatura
+de ebulição:
+Ponto de fulgor: Não disponível.
+Taxa de evaporação: Não disponível.
+Inflamabilidade: Não aplicável.
+Limite inferior/superior Não disponível.
+de inflamabilidade ou
+explosividade:
+Pressão de vapor: < 0,3 mmHg a 25 °C.
+Densidade de vapor: 3,4 (ar = 1).
+
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+
+Densidade relativa: | Não disponível.
+Solubilidade(s): | Miscível em água (1000 g/L a 25 °C).
+Coeficiente de partição
+- n-octanol/água: | Não disponível.
+ | 
+Temperatura de
+autoignição: | Não disponível.
+ | 
+Temperatura de
+decomposição: | 340 °C.
+ | 
+Viscosidade: | Dinâmica: 21 mPa.s a 25 °C.
+Outras informações: | Densidade absoluta: 1,8302 g/cm³ a 20 °C.
+pKa = 1,98 (25°C);
+Peso molecular: 98,08 g/mol;
+Substância altamente higroscópica.
+ | 
+10 - ESTABILIDADE E REATIVIDADE | 
+Reatividade: | Acetileno e cloreto de alila podem polimerizar-se violentamente na presença de ácido sulfúrico.
+Estabilidade: | Produto estável em condições normais de temperatura e pressão.
+Possibilidade de
+reações perigosas: | Reage violentamente com materiais combustíveis, redutores, bases, água e materiais orgânicos e é
+corrosivo para a maioria dos metais comuns.
+O produto pode inflamar outros materiais combustíveis e reagir perigosamente ou
+explosivamente com: pentafluoreto de bromo, tetrafluoreto de cloro, ácido clorossulfônico, ácido
+clorídrico, ácido fluorídrico, heptafluoreto de iodo, nitrato de mercúrio, trihidroxiamino, fosfato de
+prata, percloratos, ácido perclórico, fósforo, isocianato de fósforo, butóxido de potássio, cloreto de
+potássio, permanganato de potássio, permanganato de potássio + cloreto de potássio, óxido de
+propileno, permanganato de prata, carbonato de sódio, cloreto de sódio e cloreto de zinco.
+ | 
+Condições a serem
+evitadas: | Temperaturas elevadas. Contato com materiais incompatíveis.
+ | 
+Materiais incompatíveis: | Ácido clorídrico, Ácido clorosulfônico, Ácido fluorídrico, Ácido perclórico, Agentes Oxidantes,
+Agentes Redutores, Água, Bases, Carbonato de sódio, Cloratos, Cloreto de potássio, Cloreto de
+sódio, cloreto de zinco, fosfato de prata, Fósforo, Heptafluoreto de iodo, Materiais combustíveis,
+Metais, Nitratos, óxido de propileno, Pentafluoreto de bromo, Percloratos, Permanganato de
+potássio, permanganato de prata, Substâncias orgânicas e Tert-butóxido de potássio.
+ | 
+Produtos perigosos da
+decomposição: | A decomposição pode gerar óxidos de enxofre.
+ | 
+11 - INFORMAÇÕES TOXICOLÓGICAS | 
+Toxicidade Aguda: | Pode ser nocivo se ingerido.
+DL50 (Oral, ratos): 2140 mg/Kg.
+ | 
+Corrosão/irritação à
+pele: | Provoca queimadura severa à pele com dor, formação de bolhas e descamação.
+ | 
+Lesões oculares
+graves/irritação ocular: | Provoca lesões oculares graves com queimadura, lacrimejamento e dor.
+ | 
+Sensibilização
+respiratória ou à pele: | Não classificado para Sensibilização à pele.
+Não é esperado que o produto provoque sensibilização respiratória.
+Mutagenicidade em
+células germinativas: | Não classificado para Mutagenicidade em células germinativas.
+Estudos para mutações genéticas realizadas in vitro em bactérias obtiveram resultados negativos
+(Método de Ames).
+ | 
+FISPQ
+Em conformidade com NBR 14725
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Produto: Ácido Sulfúrico
+Revisão: 01 Data: 27/04/2020 Página: 5/9
+Densidade relativa: Não disponível.
+Solubilidade(s): Miscível em água (1000 g/L a 25 °C).
+Coeficiente de partição Não disponível.
+- n-octanol/água:
+Temperatura de Não disponível.
+autoignição:
+Temperatura de 340 °C.
+decomposição:
+Viscosidade: Dinâmica: 21 mPa.s a 25 °C.
+Outras informações: Densidade absoluta: 1,8302 g/cm³ a 20 °C.
+pKa = 1,98 (25°C);
+Peso molecular: 98,08 g/mol;
+Substância altamente higroscópica.
+10 - ESTABILIDADE E REATIVIDADE
+Reatividade: Acetileno e cloreto de alila podem polimerizar-se violentamente na presença de ácido sulfúrico.
+Estabilidade: Produto estável em condições normais de temperatura e pressão.
+Possibilidade de Reage violentamente com materiais combustíveis, redutores, bases, água e materiais orgânicos e é
+reações perigosas: corrosivo para a maioria dos metais comuns.
+O produto pode inflamar outros materiais combustíveis e reagir perigosamente ou
+explosivamente com: pentafluoreto de bromo, tetrafluoreto de cloro, ácido clorossulfônico, ácido
+clorídrico, ácido fluorídrico, heptafluoreto de iodo, nitrato de mercúrio, trihidroxiamino, fosfato de
+prata, percloratos, ácido perclórico, fósforo, isocianato de fósforo, butóxido de potássio, cloreto de
+potássio, permanganato de potássio, permanganato de potássio + cloreto de potássio, óxido de
+propileno, permanganato de prata, carbonato de sódio, cloreto de sódio e cloreto de zinco.
+Condições a serem Temperaturas elevadas. Contato com materiais incompatíveis.
+evitadas:
+Materiais incompatíveis: Ácido clorídrico, Ácido clorosulfônico, Ácido fluorídrico, Ácido perclórico, Agentes Oxidantes,
+Agentes Redutores, Água, Bases, Carbonato de sódio, Cloratos, Cloreto de potássio, Cloreto de
+sódio, cloreto de zinco, fosfato de prata, Fósforo, Heptafluoreto de iodo, Materiais combustíveis,
+Metais, Nitratos, óxido de propileno, Pentafluoreto de bromo, Percloratos, Permanganato de
+potássio, permanganato de prata, Substâncias orgânicas e Tert-butóxido de potássio.
+Produtos perigosos da A decomposição pode gerar óxidos de enxofre.
+decomposição:
+11 - INFORMAÇÕES TOXICOLÓGICAS
+Toxicidade Aguda: Pode ser nocivo se ingerido.
+DL50 (Oral, ratos): 2140 mg/Kg.
+Corrosão/irritação à Provoca queimadura severa à pele com dor, formação de bolhas e descamação.
+pele:
+Lesões oculares Provoca lesões oculares graves com queimadura, lacrimejamento e dor.
+graves/irritação ocular:
+Sensibilização Não classificado para Sensibilização à pele.
+respiratória ou à pele: Não é esperado que o produto provoque sensibilização respiratória.
+Mutagenicidade em Não classificado para Mutagenicidade em células germinativas.
+células germinativas: Estudos para mutações genéticas realizadas in vitro em bactérias obtiveram resultados negativos
+(Método de Ames).
+
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+
+Carcinogenicidade: | Não é esperado que o produto apresente carcinogenicidade.
+Toxicidade à
+reprodução: | Não é esperado que o produto apresente toxicidade à reprodução.
+ | 
+Toxicidade para
+órgãos-alvo específicos
+–exposição única: | Pode provocar irritação das vias respiratórias, podendo ocasionar espirros e tosse.
+ | 
+Toxicidade para órgão-
+salvo específicos –
+exposição repetida: | Não é esperado que o produto apresente toxicidade ao órgão-alvo específico por exposição
+repetida.
+ | 
+Perigo por aspiração: | Não é esperado que o produto apresente perigo por aspiração.
+12 - INFORMAÇÕES ECOLÓGICAS | 
+Efeitos ambientais, comportamento e impactos do produto | 
+Ecotoxicidade: | Nocivo para os organismos aquáticos.
+CE50 (Daphnia magna, 48h): > 100 mg/L;
+CL50 (Lepomis macrochirus, 96h): 16 - 28 mg/L.
+ | 
+Persistência e
+degradabilidade: | Em função da ausência de dados, espera-se que o produto apresente persistência e não seja
+rapidamente degradado.
+Potencial
+bioacumulativo: | Não é esperado potencial bioacumulativo em organismos aquáticos.
+ | 
+Mobilidade no solo: | Não determinada.
+Outros efeitos
+adversos: | Devido ao caráter ácido do produto, pode causar alterações nos compartimentos ambientais,
+provocando danos aos organismos.
+13 - CONSIDERAÇÕES SOBRE DESTINAÇÃO FINAL | 
+Métodos recomendados para destinação final | 
+Produto: | O tratamento e a disposição devem ser avaliados especificamente para cada produto. Devem ser
+consultadas legislações federais, estaduais e municipais, dentre estas: Lei n°12.305, de 02 de
+agosto de 2010 (Política Nacional de Resíduos Sólidos).
+ | 
+Restos de produto: | Manter restos do produto em suas embalagens originais e devidamente fechadas. O descarte deve
+ser realizado conforme o estabelecido para o produto.
+ | 
+Embalagem usada: | Não reutilize embalagens vazias. Estas podem conter restos do produto e devem ser mantidas
+fechadas e encaminhadas para descarte apropriado conforme estabelecido para o produto.
+ | 
+14 - INFORMAÇÕES SOBRE TRANSPORTE | 
+Regulamentações nacionais e internacionais | 
+Terrestre: | ANTT - Agência Nacional de Transportes Terrestres:
+• Resolução nº 5232 de 14 de dezembro de 2016: Aprova as Instruções Complementares
+ao Regulamento Terrestre do Transporte de Produtos Perigosos, e dá outras providências.
+ | 
+Número ONU: | 1830
+Nome apropriado para
+embarque: | ÁCIDO SULFÚRICO
+ | 
+Classe ou subclasse de
+risco principal: | 8
+ | 
+Classe ou subclasse de | NA
+ | 
+FISPQ
+Em conformidade com NBR 14725
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Produto: Ácido Sulfúrico
+Revisão: 01 Data: 27/04/2020 Página: 6/9
+Carcinogenicidade: Não é esperado que o produto apresente carcinogenicidade.
+Toxicidade à Não é esperado que o produto apresente toxicidade à reprodução.
+reprodução:
+Toxicidade para Pode provocar irritação das vias respiratórias, podendo ocasionar espirros e tosse.
+órgãos-alvo específicos
+–exposição única:
+Toxicidade para órgão- Não é esperado que o produto apresente toxicidade ao órgão-alvo específico por exposição
+salvo específicos – repetida.
+exposição repetida:
+Perigo por aspiração: Não é esperado que o produto apresente perigo por aspiração.
+12 - INFORMAÇÕES ECOLÓGICAS
+Efeitos ambientais, comportamento e impactos do produto
+Ecotoxicidade: Nocivo para os organismos aquáticos.
+CE50 (Daphnia magna, 48h): > 100 mg/L;
+CL50 (Lepomis macrochirus, 96h): 16 - 28 mg/L.
+Persistência e Em função da ausência de dados, espera-se que o produto apresente persistência e não seja
+degradabilidade: rapidamente degradado.
+Potencial Não é esperado potencial bioacumulativo em organismos aquáticos.
+bioacumulativo:
+Mobilidade no solo: Não determinada.
+Outros efeitos Devido ao caráter ácido do produto, pode causar alterações nos compartimentos ambientais,
+adversos: provocando danos aos organismos.
+13 - CONSIDERAÇÕES SOBRE DESTINAÇÃO FINAL
+Métodos recomendados para destinação final
+Produto: O tratamento e a disposição devem ser avaliados especificamente para cada produto. Devem ser
+consultadas legislações federais, estaduais e municipais, dentre estas: Lei n°12.305, de 02 de
+agosto de 2010 (Política Nacional de Resíduos Sólidos).
+Restos de produto: Manter restos do produto em suas embalagens originais e devidamente fechadas. O descarte deve
+ser realizado conforme o estabelecido para o produto.
+Embalagem usada: Não reutilize embalagens vazias. Estas podem conter restos do produto e devem ser mantidas
+fechadas e encaminhadas para descarte apropriado conforme estabelecido para o produto.
+14 - INFORMAÇÕES SOBRE TRANSPORTE
+Regulamentações nacionais e internacionais
+Terrestre: ANTT - Agência Nacional de Transportes Terrestres:
+• Resolução nº 5232 de 14 de dezembro de 2016: Aprova as Instruções Complementares
+ao Regulamento Terrestre do Transporte de Produtos Perigosos, e dá outras providências.
+Número ONU: 1830
+Nome apropriado para ÁCIDO SULFÚRICO
+embarque:
+Classe ou subclasse de 8
+risco principal:
+Classe ou subclasse de NA
+
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+
+risco subsidiário: | | 
+ | | 
+Número de risco: | | 80
+Grupo de embalagem: | | II
+Hidroviário: | | DPC - Diretoria de Portos e Costas: Transporte em águas brasileiras.- Normas de Autoridade
+Marítima:
+• NORMAM 01/DPC: Embarcações Empregadas na Navegação em Mar Aberto.
+• NORMAM 02/DPC: Embarcações Empregadas na Navegação Interior.- International
+Maritime Organization (Organização Marítima Internacional):
+• IMDG Code - International Maritime Dangerous Goods Code
+(Código Marítimo Internacional de Produtos Perigosos).
+ | | 
+Número ONU: | | 1830
+Nome apropriado para
+embarque: | | SULPHURIC ACID
+ | | 
+Classe ou subclasse de
+risco principal: | | 8
+ | | 
+Classe ou subclasse de
+risco subsidiário: | | NA
+ | | 
+Grupo de embalagem: | | II
+EmS: | | F-A,S-B
+Perigo ao Meio
+Ambiente: | | O produto não é considerado poluente marinho.
+Aéreo: | | ANAC - Agência Nacional de Aviação Civil: Resolução n°129 de 8 de dezembro de 2009.N°175 -
+(Regulamento Brasileiro da Avianção Civil):
+• Transporte de Artigos Perigosos em Aeronaves Civis.
+• IS N° 175-001 - Instrução Suplementar.- International Civil Aviation Organization
+(Organização da Aviação Civil Internacional):
+• Doc 9284-NA/905.- International Air Transport Association (Associação Internacional de
+Transporte Aéreo):
+• DGR - Dangerous Goods Regulation (Regulação de Produtos Perigosos).
+ | | 
+Número ONU: | | 1830
+Nome apropriado para
+embarque: | | SULPHURIC ACID
+ | | 
+Classe ou subclasse de
+risco principal: | | 8
+ | | 
+Classe ou subclasse de
+risco subsidiário: | | NA
+ | | 
+Grupo de embalagem: | | II
+15 - INFORMAÇÕES SOBRE REGULAMENTAÇÕES | 
+Regulamentações
+específicas para o
+produto químico: | Decreto Federal nº 2.657, de 3 de julho de 1998;
+Norma ABNT-NBR 14725;
+Portaria nº 229, de 24 de maio de 2011 –Altera a Norma Regulamentadora nº 26.
+16 - OUTRAS INFORMAÇÕES
+Informações importantes, mas não especificamente descritas nas seções anteriores:
+Esta FISPQ foi elaborada com base nos atuais conhecimentos sobre o manuseio apropriado do produto e sob as condições
+
+FISPQ
+Em conformidade com NBR 14725
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Produto: Ácido Sulfúrico
+Revisão: 01 Data: 27/04/2020 Página: 7/9
+risco subsidiário:
+Número de risco: 80
+Grupo de embalagem: II
+Hidroviário: DPC - Diretoria de Portos e Costas: Transporte em águas brasileiras.- Normas de Autoridade
+Marítima:
+• NORMAM 01/DPC: Embarcações Empregadas na Navegação em Mar Aberto.
+• NORMAM 02/DPC: Embarcações Empregadas na Navegação Interior.- International
+Maritime Organization (Organização Marítima Internacional):
+• IMDG Code - International Maritime Dangerous Goods Code
+(Código Marítimo Internacional de Produtos Perigosos).
+Número ONU: 1830
+Nome apropriado para SULPHURIC ACID
+embarque:
+Classe ou subclasse de 8
+risco principal:
+Classe ou subclasse de NA
+risco subsidiário:
+Grupo de embalagem: II
+EmS: F-A,S-B
+Perigo ao Meio O produto não é considerado poluente marinho.
+Ambiente:
+Aéreo: ANAC - Agência Nacional de Aviação Civil: Resolução n°129 de 8 de dezembro de 2009.N°175 -
+(Regulamento Brasileiro da Avianção Civil):
+• Transporte de Artigos Perigosos em Aeronaves Civis.
+• IS N° 175-001 - Instrução Suplementar.- International Civil Aviation Organization
+(Organização da Aviação Civil Internacional):
+• Doc 9284-NA/905.- International Air Transport Association (Associação Internacional de
+Transporte Aéreo):
+• DGR - Dangerous Goods Regulation (Regulação de Produtos Perigosos).
+Número ONU: 1830
+Nome apropriado para SULPHURIC ACID
+embarque:
+Classe ou subclasse de 8
+risco principal:
+Classe ou subclasse de NA
+risco subsidiário:
+Grupo de embalagem: II
+15 - INFORMAÇÕES SOBRE REGULAMENTAÇÕES
+Regulamentações Decreto Federal nº 2.657, de 3 de julho de 1998;
+específicas para o Norma ABNT-NBR 14725;
+produto químico: Portaria nº 229, de 24 de maio de 2011 –Altera a Norma Regulamentadora nº 26.
+16 - OUTRAS INFORMAÇÕES
+Informações importantes, mas não especificamente descritas nas seções anteriores:
+Esta FISPQ foi elaborada com base nos atuais conhecimentos sobre o manuseio apropriado do produto e sob as condições
+
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+
+normais de uso, de acordo com a aplicação especificada na embalagem. Qualquer outra forma de utilização do produto que
+envolva a sua combinação com outros materiais, além de formas de uso diversas daquelas indicadas, são de
+responsabilidade do usuário. Adverte-se que o manuseio de qualquer substância química requer o conhecimento prévio de
+seus perigos pelo usuário. No local de trabalho cabe à empresa usuária do produto promover o treinamento de seus
+colaboradores quanto aos possíveis riscos advindos da exposição ao produto químico.
+Elaborada em março de 2020.
+Legendas e Abreviaturas:
+ACGIH - American Conference of Governmental Industrial Hygienists;
+CAS - Chemical Abstracts Service;
+CE50 - Concentração Efetiva 50%;
+CL50 - Concentração Letal 50%;
+DL50 - Dose Letal 50%;
+IARC - International Agency for Research on Cancer;
+NIOSH - National Institute for Occupational Safety and Health;
+NR - Norma Regulamentadora;
+ONU - Organização das Nações Unidas;
+OSHA - Occupational Safety & Health Administration;
+PEL - Permissible Exposure Limit;
+REL - Recommended Exposure Limit;
+TLV - Threshold Limit Value;
+TWA - Time Weighted Average.
+Fornecedores:
+Complexo Mineroquímico de Araxá
+Avenida Arafértil, 5000, Zona Sul CEP: 38184-270, Araxá - MG - BR
+Telefone: 0800-125454
+Telefone para emergências: (34) 3669-6060
+fispq.ehs@mosaicco.com
+Complexo Mineroquímico de Cajati
+Rodovia BR-116, Km 488,5 , Complexo Industrial CEP: 11950-000, Cajati - SP - BR
+Telefone: 0800-125454
+Telefone para emergências: (13) 3855-9100
+fispq.ehs@mosaicco.com
+Referências bibliográficas:
+BRASIL. MINISTÉRIO DO TRABALHO E EMPREGO (MTE). Norma Regulamentadora (NR) n°7: Programa de controle
+médico de saúde ocupacional. Brasília, DF. Jun. 1978.
+BRASIL. MINISTÉRIO DO TRABALHO E EMPREGO (MTE). Norma Regulamentadora (NR) n°15: Atividades e operações
+insalubres. Brasília, DF. Jun. 1978.
+GHS - GLOBALLY HARMONIZED SYSTEM OF CLASSIFICATION AND LABELLING OF CHEMICALS. 8th rev. ed. New
+York: United Nations, 2019.
+ACGIH - AMERICAN CONFERENCE OF GOVERNMENTAL INDUSTRIALS HYGIENISTS. TLVs® and BEIs®: Based on the
+Documentation of the Threshold Limit Values (TLVs®) for Chemical Substances and Physical Agents & Biological Exposure
+Indices (BEIs®). Cincinnati-USA, 2020.
+ECHA - EUROPEAN CHEMICAL AGENCY. Disponível em: < http://echa.europa.eu/web/guest >. Acesso em: mar. 2020.
+GESTIS - SUBSTANCE DATABASE. Disponível em: < http://gestis-
+en.itrust.de/nxt/gateway.dll/gestis_en/000000.xml?f=templates$fn=default.htm$3.0 >. Acesso em: mar. 2020.
+HSDB - HAZARDOUS SUBSTANCES DATA BANK. Disponível em: < http://toxnet.nlm.nih.gov/cgi-bin/sis/htmlgen?HSDB >.
+Acesso em: mar. 2020.
+
+FISPQ
+Em conformidade com NBR 14725
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Produto: Ácido Sulfúrico
+Revisão: 01 Data: 27/04/2020 Página: 8/9
+normais de uso, de acordo com a aplicação especificada na embalagem. Qualquer outra forma de utilização do produto que
+envolva a sua combinação com outros materiais, além de formas de uso diversas daquelas indicadas, são de
+responsabilidade do usuário. Adverte-se que o manuseio de qualquer substância química requer o conhecimento prévio de
+seus perigos pelo usuário. No local de trabalho cabe à empresa usuária do produto promover o treinamento de seus
+colaboradores quanto aos possíveis riscos advindos da exposição ao produto químico.
+Elaborada em março de 2020.
+Legendas e Abreviaturas:
+ACGIH - American Conference of Governmental Industrial Hygienists;
+CAS - Chemical Abstracts Service;
+CE50 - Concentração Efetiva 50%;
+CL50 - Concentração Letal 50%;
+DL50 - Dose Letal 50%;
+IARC - International Agency for Research on Cancer;
+NIOSH - National Institute for Occupational Safety and Health;
+NR - Norma Regulamentadora;
+ONU - Organização das Nações Unidas;
+OSHA - Occupational Safety & Health Administration;
+PEL - Permissible Exposure Limit;
+REL - Recommended Exposure Limit;
+TLV - Threshold Limit Value;
+TWA - Time Weighted Average.
+Fornecedores:
+Complexo Mineroquímico de Araxá
+Avenida Arafértil, 5000, Zona Sul CEP: 38184-270, Araxá - MG - BR
+Telefone: 0800-125454
+Telefone para emergências: (34) 3669-6060
+fispq.ehs@mosaicco.com
+Complexo Mineroquímico de Cajati
+Rodovia BR-116, Km 488,5 , Complexo Industrial CEP: 11950-000, Cajati - SP - BR
+Telefone: 0800-125454
+Telefone para emergências: (13) 3855-9100
+fispq.ehs@mosaicco.com
+Referências bibliográficas:
+BRASIL. MINISTÉRIO DO TRABALHO E EMPREGO (MTE). Norma Regulamentadora (NR) n°7: Programa de controle
+médico de saúde ocupacional. Brasília, DF. Jun. 1978.
+BRASIL. MINISTÉRIO DO TRABALHO E EMPREGO (MTE). Norma Regulamentadora (NR) n°15: Atividades e operações
+insalubres. Brasília, DF. Jun. 1978.
+GHS - GLOBALLY HARMONIZED SYSTEM OF CLASSIFICATION AND LABELLING OF CHEMICALS. 8th rev. ed. New
+York: United Nations, 2019.
+ACGIH - AMERICAN CONFERENCE OF GOVERNMENTAL INDUSTRIALS HYGIENISTS. TLVs® and BEIs®: Based on the
+Documentation of the Threshold Limit Values (TLVs®) for Chemical Substances and Physical Agents & Biological Exposure
+Indices (BEIs®). Cincinnati-USA, 2020.
+ECHA - EUROPEAN CHEMICAL AGENCY. Disponível em: < http://echa.europa.eu/web/guest >. Acesso em: mar. 2020.
+GESTIS - SUBSTANCE DATABASE. Disponível em: < http://gestis-
+en.itrust.de/nxt/gateway.dll/gestis_en/000000.xml?f=templates$fn=default.htm$3.0 >. Acesso em: mar. 2020.
+HSDB - HAZARDOUS SUBSTANCES DATA BANK. Disponível em: < http://toxnet.nlm.nih.gov/cgi-bin/sis/htmlgen?HSDB >.
+Acesso em: mar. 2020.
+
+FISPQ
+Em conformidade com NBR 14725
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Produto: Ácido Sulfúrico
+Revisão: 01 Data: 27/04/2020 Página: 9/9
+Acesso em: mar. 2020.
+IARC - INTERNATIONAL AGENCY FOR RESEARCH ON CANCER. Disponível em: <
+http://monographs.iarc.fr/ENG/Classification/index.php >. Acesso em: mar. 2020.
+IPCS - INTERNATIONAL PROGRAMME ON CHEMICAL SAFETY –INCHEM. Disponível em: < http://www.inchem.org/ >.
+Acesso em: mar. 2020.
+IUCLID - INTERNATIONAL UNIFORM CHEMICAL INFORMATION DATABASE. [S.l.]: European chemical Bureau.
+NIOSH - NATIONAL INSTITUTE OF OCCUPATIONAL AND SAFETY. International Chemical Safety Cards. Disponível em: <
+http://www.cdc.gov/niosh/ >. Acesso em: mar. 2020.
+TOXNET - TOXICOLOGY DATA NETWORKING. ChemIDplus Lite. Disponível em: < http://chem.sis.nlm.nih.gov/ >. Acesso
+em: mar. 2020.
+
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+
+FISPQ
+Em conformidade com NBR 14725
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Produto: Ácido Sulfúrico
+Revisão: 01 Data: 27/04/2020 Página: 9/9
+Acesso em: mar. 2020.
+IARC - INTERNATIONAL AGENCY FOR RESEARCH ON CANCER. Disponível em: <
+http://monographs.iarc.fr/ENG/Classification/index.php >. Acesso em: mar. 2020.
+IPCS - INTERNATIONAL PROGRAMME ON CHEMICAL SAFETY –INCHEM. Disponível em: < http://www.inchem.org/ >.
+Acesso em: mar. 2020.
+IUCLID - INTERNATIONAL UNIFORM CHEMICAL INFORMATION DATABASE. [S.l.]: European chemical Bureau.
+NIOSH - NATIONAL INSTITUTE OF OCCUPATIONAL AND SAFETY. International Chemical Safety Cards. Disponível em: <
+http://www.cdc.gov/niosh/ >. Acesso em: mar. 2020.
+TOXNET - TOXICOLOGY DATA NETWORKING. ChemIDplus Lite. Disponível em: < http://chem.sis.nlm.nih.gov/ >. Acesso
+em: mar. 2020.

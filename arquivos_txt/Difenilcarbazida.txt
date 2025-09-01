@@ -1,0 +1,506 @@
+Bioquímica
+e Química
+Ltda. | Bioquímica
+e Química
+Ltda. | FICHA DE SEGURANÇA
+De acordo com a norma NBR 14725-4:2014 | FISPQ No. OT - 016
+ | | | Página 1 de 6
+ | 1. Identificação do produto e da empresa | 
+1.1 Identificadores do produto Nome do produto:
+1,5 DIFENILCARBAZIDA PA
+Referência do Produto: FMA0000103042
+1.2 Outros meios de identificação
+Dados não disponíveis
+1.3 Utilizações identificadas relevantes da substância ou mistura e utilizações desaconselhadas
+Só para utilização R&D. Não para utilização farmacêutica, doméstica ou outras utilizações.
+1.4 Identificação do fornecedor da ficha de dados de segurança
+Bioquímica e Química Ltda.
+Rua Leiria, 537 - São Francisco - Belo Horizonte - MG - CEP: 31255-100
+Telefone: (31) 2534-5001 - www.bioquimicaonline.com
+1.5 Número de telefone de emergência
+31 - 2534-5001 | | 
+ | 2. Identificação de perigos | 
+2.1 Classificação GHS
+Irritação cutânea (Categoria 2)
+Irritação ocular (Categoria 2A)
+Toxicidade para órgãos-alvo específicos - exposição única (Categoria 3
+2.2 Elementos da Etiqueta GHS, incluindo declarações de prevenção
+Pictograma
+Palavra de advertência
+Atenção
+Frases de Perigo
+H315 Provoca irritação cutânea.
+H319 Provoca irritação ocular grave.
+H335 Pode provocar irritação das vias respiratórias..
+Frases de Precaução
+P261 Evitar respirar as poeiras/ fumos/ gases/ névoas/ vapores/ aerossóis.
+P264 Lavar a pele cuidadosamente após manuseamento.
+P271 Utilizar apenas ao ar livre ou em locais bem ventilados.
+P280 Usar luvas de proteção/ proteção ocular/ proteção facial.
+P302 + P352 SE ENTRAR EM CONTATO COM A PELE: lavar com sabonete e água abundantes.
+P304 + P340 EM CASO DE INALAÇÃO: retirar a vítima para uma zona ao ar livre e mantê-la em repouso numa posição que não
+dificulte a respiração.
+P305 + P351 + P338 SE ENTRAR EM CONTATO COM OS OLHOS: enxaguar cuidadosamente com água durante vários minutos.
+Se usar lentes de contato, retire-as, se tal lhe for possível. Continuar a enxaguar.
+P312 Caso sinta indisposição, contate um CENTRO DE INFORMAÇÃO ANTIVENENOS ou um médico. P321 Tratamento específico
+(ver as instruções suplementares de primeiros socorros no presente rótulo).
+P332 + P313 Em caso de irritação cutânea: consulte um médico.
+P337 + P313 Caso a irritação ocular persista: consulte um médico.
+P362 Retirar a roupa contaminada e lavá-la antes de voltar a usar. | | 
+Bioquímica FISPQ No. OT - 016
+FICHA DE SEGURANÇA
+e Química
+Ltda. De acordo com a norma NBR 14725-4:2014 Página 1 de 6
+Nome do produto: 1,5 DIFENILCARBAZIDA PA Referência do produto: FMA0000103042
+Data da revisão: 22/05/2017 No. da revisão: 04
+1. Identificação do produto e da empresa
+1.1 Identificadores do produto Nome do produto:
+1,5 DIFENILCARBAZIDA PA
+Referência do Produto: FMA0000103042
+1.2 Outros meios de identificação
+Dados não disponíveis
+1.3 Utilizações identificadas relevantes da substância ou mistura e utilizações desaconselhadas
+Só para utilização R&D. Não para utilização farmacêutica, doméstica ou outras utilizações.
+1.4 Identificação do fornecedor da ficha de dados de segurança
+Bioquímica e Química Ltda.
+Rua Leiria, 537 - São Francisco - Belo Horizonte - MG - CEP: 31255-100
+Telefone: (31) 2534-5001 - www.bioquimicaonline.com
+1.5 Número de telefone de emergência
+31 - 2534-5001
+2. Identificação de perigos
+2.1 Classificação GHS
+Irritação cutânea (Categoria 2)
+Irritação ocular (Categoria 2A)
+Toxicidade para órgãos-alvo específicos - exposição única (Categoria 3
+2.2 Elementos da Etiqueta GHS, incluindo declarações de prevenção
+Pictograma
+Palavra de advertência
+Atenção
+Frases de Perigo
+H315 Provoca irritação cutânea.
+H319 Provoca irritação ocular grave.
+H335 Pode provocar irritação das vias respiratórias..
+Frases de Precaução
+P261 Evitar respirar as poeiras/ fumos/ gases/ névoas/ vapores/ aerossóis.
+P264 Lavar a pele cuidadosamente após manuseamento.
+P271 Utilizar apenas ao ar livre ou em locais bem ventilados.
+P280 Usar luvas de proteção/ proteção ocular/ proteção facial.
+P302 + P352 SE ENTRAR EM CONTATO COM A PELE: lavar com sabonete e água abundantes.
+P304 + P340 EM CASO DE INALAÇÃO: retirar a vítima para uma zona ao ar livre e mantê-la em repouso numa posição que não
+dificulte a respiração.
+P305 + P351 + P338 SE ENTRAR EM CONTATO COM OS OLHOS: enxaguar cuidadosamente com água durante vários minutos.
+Se usar lentes de contato, retire-as, se tal lhe for possível. Continuar a enxaguar.
+P312 Caso sinta indisposição, contate um CENTRO DE INFORMAÇÃO ANTIVENENOS ou um médico. P321 Tratamento específico
+(ver as instruções suplementares de primeiros socorros no presente rótulo).
+P332 + P313 Em caso de irritação cutânea: consulte um médico.
+P337 + P313 Caso a irritação ocular persista: consulte um médico.
+P362 Retirar a roupa contaminada e lavá-la antes de voltar a usar.
+Bioquímica
+e Química
+Ltda. | Bioquímica
+e Química
+Ltda. | FICHA DE SEGURANÇA
+De acordo com a norma NBR 14725-4:2014 | FISPQ No. OT - 016
+ | | | Página 2 de 6
+ | 3. Composição e informação sobre os ingredientes | 
+3.1 Substâncias
+Nome químico: 1,5-Difenilcarbazida
+Fórmula: C13H14N4O
+Peso molecular: 242,28
+N° CE: 140-22-7
+Observações: Não apresenta ingredientes perigosos conforme o Regulamento (EC) No. 1907/2006
+3.2 Mistura
+Não aplicável | | 
+ | 4. Medidas de primeiros socorros | 
+4.1 Descrição das medidas de primeiros socorros
+Recomendação geral
+Consultar um médico. Mostrar esta ficha de segurança ao médico de serviço.
+Em caso de inalação
+Se for respirado, levar a pessoa para o ar fresco. Exposição ao ar fresco.
+Em caso de contato com a pele
+Lavar abundantemente com água em abundância por no mínimo 15 minutos. Tirar as roupas e calçados contaminados
+Se entrar em contato com os olhos
+Lavar os olhos com água como precaução.
+Em caso de ingestão
+Nunca dar nada pela boca a uma pessoa inconsciente. Enxaguar a boca com água. Consultar um médico.
+4.2 Sintomas e efeitos mais importantes, tanto agudos como retardados
+Produto pode causar efeitos agudos, dependendo da via de exposição.
+4.3 Indicações sobre cuidados médicos urgentes e tratamentos especiais necessários
+Produto pode causar efeitos agudos, dependendo da via de exposição. Lavagem gástrica somente se necessária. | | 
+ | 5. Medidas de combate a incêndio | 
+5.1 Meios de extinção
+Meios adequados de extinção
+Água, Dióxido de carbono, Espuma, pó seco. Nenhuma limitação de agentes extintores é dada para essa substância.
+Agentes de extinção inadequados
+Nenhuma limitação de agentes extintores é dada para essa substância/mistura.
+5.2 Perigos especiais decorrentes da substância ou mistura
+Material combustível
+Em caso de incêndio formam-se gases inflamáveis e vapores perigosos.
+Um incêndio pode provocar o desenvolvimento de oxido nítrico.
+5.3 Recomendações para o pessoal de combate a incêndios
+Equipamento de proteção para o pessoal destacado para o combate a incêndios. Na eventualidade de fogo, vestir roupas protetoras
+completas e aparelho de respiração autônoma com máscara facial completa, operando na pressão exigida ou outro modo de pressão
+positiva.
+5.4 Outras informações
+Evitar a contaminação da agua de superfície e da subterrânea com a agua de combate a incêndios. | | 
+ | 6. Medidas de controle para derramamento ou vazamentos | 
+Bioquímica FISPQ No. OT - 016
+FICHA DE SEGURANÇA
+e Química
+Ltda. De acordo com a norma NBR 14725-4:2014 Página 2 de 6
+Nome do produto: 1,5 DIFENILCARBAZIDA PA Referência do produto: FMA0000103042
+Data da revisão: 22/05/2017 No. da revisão: 04
+P403 + P233 Armazenar em local bem ventilado. Manter o recipiente bem fechado.
+P405 Armazenar em local fechado à chave.
+P501 Eliminar o conteúdo/ recipiente em instalação aprovada de destruição de resíduos.
+2.3 Outros Perigos
+Nenhum(a)
+3. Composição e informação sobre os ingredientes
+3.1 Substâncias
+Nome químico: 1,5-Difenilcarbazida
+Fórmula: C13H14N4O
+Peso molecular: 242,28
+N° CE: 140-22-7
+Observações: Não apresenta ingredientes perigosos conforme o Regulamento (EC) No. 1907/2006
+3.2 Mistura
+Não aplicável
+4. Medidas de primeiros socorros
+4.1 Descrição das medidas de primeiros socorros
+Recomendação geral
+Consultar um médico. Mostrar esta ficha de segurança ao médico de serviço.
+Em caso de inalação
+Se for respirado, levar a pessoa para o ar fresco. Exposição ao ar fresco.
+Em caso de contato com a pele
+Lavar abundantemente com água em abundância por no mínimo 15 minutos. Tirar as roupas e calçados contaminados
+Se entrar em contato com os olhos
+Lavar os olhos com água como precaução.
+Em caso de ingestão
+Nunca dar nada pela boca a uma pessoa inconsciente. Enxaguar a boca com água. Consultar um médico.
+4.2 Sintomas e efeitos mais importantes, tanto agudos como retardados
+Produto pode causar efeitos agudos, dependendo da via de exposição.
+4.3 Indicações sobre cuidados médicos urgentes e tratamentos especiais necessários
+Produto pode causar efeitos agudos, dependendo da via de exposição. Lavagem gástrica somente se necessária.
+5. Medidas de combate a incêndio
+5.1 Meios de extinção
+Meios adequados de extinção
+Água, Dióxido de carbono, Espuma, pó seco. Nenhuma limitação de agentes extintores é dada para essa substância.
+Agentes de extinção inadequados
+Nenhuma limitação de agentes extintores é dada para essa substância/mistura.
+5.2 Perigos especiais decorrentes da substância ou mistura
+Material combustível
+Em caso de incêndio formam-se gases inflamáveis e vapores perigosos.
+Um incêndio pode provocar o desenvolvimento de oxido nítrico.
+5.3 Recomendações para o pessoal de combate a incêndios
+Equipamento de proteção para o pessoal destacado para o combate a incêndios. Na eventualidade de fogo, vestir roupas protetoras
+completas e aparelho de respiração autônoma com máscara facial completa, operando na pressão exigida ou outro modo de pressão
+positiva.
+5.4 Outras informações
+Evitar a contaminação da agua de superfície e da subterrânea com a agua de combate a incêndios.
+6. Medidas de controle para derramamento ou vazamentos
+Bioquímica
+e Química
+Ltda. | Bioquímica
+e Química
+Ltda. | FICHA DE SEGURANÇA
+De acordo com a norma NBR 14725-4:2014 | FISPQ No. OT - 016
+ | | | Página 3 de 6
+ | 7. Manuseio e armazenamento | 
+7.1 Precauções para um manuseamento seguro
+Observar os avisos das etiquetas. Não comer, beber ou fumar as áreas de manuseio do produto. Usar os EPI´s indicados. Manter
+ventilação local adequada. Não role, arraste ou permita solavancos na embalagem.
+7.2 Condições de armazenagem segura, incluindo eventuais incompatibilidades
+Hermeticamente fechado. Em local seco etemperatura entre +15°C a +25°C.
+7.3 Utilizações finais específicas
+Dados não disponíveis | | 
+ | 8. Controle de exposição e proteção individual | 
+8.1 Parâmetros de controle
+Limites de exposição ocupacional
+Nós não temos conhecimento de nenhuma limite de exposição nacional.
+8.2 Controle da exposição
+Controles técnicos adequados
+Manusear de acordo com as boas práticas industriais de higiene e segurança. Lavar as mãos antes dos intervalos e no final do dia de
+trabalho.
+Proteção individual
+Proteção ocular/ facial
+Utilizar óculos de segurança de ampla visão,
+Proteção da pele
+Luvas compatíveis resistentes a produtos químicos. Aconselha-se a utilização do material nitrilo para contato total e para contato com
+o produto derramado.
+Proteção do corpo
+Fato completo de proteção para produtos químicos, O tipo de equipamento de proteção deve ser escolhido de acordo com a
+concentração e a quantidade da substância perigosa no local de trabalho.
+Proteção respiratória
+Para exposições incomodas usar respiradores de partículas tipo P95 (E.U.) ou do tipo P1 (UE EN 143). Para maior nível de proteção
+use respirador tipo OV/AG/P99 (US) ou respiradores com cartuchos tipo ABEK-P2 (EU EN 143). Use respiradores e componentes
+testados e aprovados por normas governamentais apropriadas, tais como as NIOSH (E.U.A.) ou CEN (UE). | | 
+ | 9. Propriedades físico-químicas | 
+9.1 Informações sobre propriedades físicas e químicas de base
+a) Aspecto Forma: solido
+Cor: quase branco
+b) Odor Dados não disponíveis
+c) Limite de Odor Dados não disponíveis | | 
+Bioquímica FISPQ No. OT - 016
+FICHA DE SEGURANÇA
+e Química
+Ltda. De acordo com a norma NBR 14725-4:2014 Página 3 de 6
+Nome do produto: 1,5 DIFENILCARBAZIDA PA Referência do produto: FMA0000103042
+Data da revisão: 22/05/2017 No. da revisão: 04
+6.1 Precauções individuais, equipamento de proteção e procedimentos de emergência
+Evitar a inalação de pós. Evacuar a área de perigo, observar os procedimentos de emergência.
+6.2 Precauções a nível ambiental
+Não permitir a entrada do produto no sistema de esgotos.
+6.3 Métodos e materiais de confinamento e limpeza
+Cobrir ralos. Recolher, emendar e bombear vazamentos. Proceder à eliminação de resíduos. Limpeza posterior. Evitar a formação de
+pós.
+6.4 Remissão para outras seções
+Para eliminação de resíduos ver seção 13.
+7. Manuseio e armazenamento
+7.1 Precauções para um manuseamento seguro
+Observar os avisos das etiquetas. Não comer, beber ou fumar as áreas de manuseio do produto. Usar os EPI´s indicados. Manter
+ventilação local adequada. Não role, arraste ou permita solavancos na embalagem.
+7.2 Condições de armazenagem segura, incluindo eventuais incompatibilidades
+Hermeticamente fechado. Em local seco etemperatura entre +15°C a +25°C.
+7.3 Utilizações finais específicas
+Dados não disponíveis
+8. Controle de exposição e proteção individual
+8.1 Parâmetros de controle
+Limites de exposição ocupacional
+Nós não temos conhecimento de nenhuma limite de exposição nacional.
+8.2 Controle da exposição
+Controles técnicos adequados
+Manusear de acordo com as boas práticas industriais de higiene e segurança. Lavar as mãos antes dos intervalos e no final do dia de
+trabalho.
+Proteção individual
+Proteção ocular/ facial
+Utilizar óculos de segurança de ampla visão,
+Proteção da pele
+Luvas compatíveis resistentes a produtos químicos. Aconselha-se a utilização do material nitrilo para contato total e para contato com
+o produto derramado.
+Proteção do corpo
+Fato completo de proteção para produtos químicos, O tipo de equipamento de proteção deve ser escolhido de acordo com a
+concentração e a quantidade da substância perigosa no local de trabalho.
+Proteção respiratória
+Para exposições incomodas usar respiradores de partículas tipo P95 (E.U.) ou do tipo P1 (UE EN 143). Para maior nível de proteção
+use respirador tipo OV/AG/P99 (US) ou respiradores com cartuchos tipo ABEK-P2 (EU EN 143). Use respiradores e componentes
+testados e aprovados por normas governamentais apropriadas, tais como as NIOSH (E.U.A.) ou CEN (UE).
+9. Propriedades físico-químicas
+9.1 Informações sobre propriedades físicas e químicas de base
+a) Aspecto Forma: solido
+Cor: quase branco
+b) Odor Dados não disponíveis
+c) Limite de Odor Dados não disponíveis
+Bioquímica
+e Química
+Ltda. | Bioquímica
+e Química
+Ltda. | FICHA DE SEGURANÇA
+De acordo com a norma NBR 14725-4:2014 | FISPQ No. OT - 016
+ | | | Página 4 de 6
+ | 10. Estabilidade e reatividade | 
+10.1 Reatividade
+Em geral o seguinte aplica-se a substâncias e misturas orgânicas inflamáveis: numa distribuição geralmente fina, quando voltado
+para cima pode gerar uma potencial explosão de pó.
+10.2 Estabilidade química
+O produto é quimicamente estável em condições ambientes padrão (temperatura ambiente).
+10.3 Possibilidade de reações perigosa
+Agentes oxidantes fortes
+10.4 Condições a evitar
+Aquecimento muito forte (decomposição).
+10.5 Materiais incompatíveis
+Dados não disponiveis | | 
+ | 11. Informações toxicológicas | 
+11.1 Informações sobre os efeitos toxicológicos
+Toxicidade aguda
+Não existem informações disponíveis.
+Corrosão/irritação cutânea
+Não existem informações disponíveis.
+Lesões oculares graves/irritação ocular
+Olhos - coelho - Ligeira irritação dos olhos
+Sensibilização respiratória ou cutânea
+Não existem informações disponíveis.
+Mutagenicidade em células germinativas
+Não existem informações disponíveis.
+Carcinogenicidade | | 
+Bioquímica FISPQ No. OT - 016
+FICHA DE SEGURANÇA
+e Química
+Ltda. De acordo com a norma NBR 14725-4:2014 Página 4 de 6
+Nome do produto: 1,5 DIFENILCARBAZIDA PA Referência do produto: FMA0000103042
+Data da revisão: 22/05/2017 No. da revisão: 04
+d) pH Dados não disponíveis
+e) Ponto de fusão/ponto de congelamento 173-176°C
+f) Ponto de ebulição inicial e intervalo de ebulição Dados não disponíveis
+g) Ponto de fulgor Dados não disponíveis
+h) Taxa de evaporação Dados não disponíveis
+i) Inflamabilidade (sólido, gás) Dados não disponíveis
+j) Limites de inflamabilidade superior/inferior ou explosividade Dados não disponíveis
+k) Pressão de vapor Dados não disponíveis
+l) Densidade de vapor Dados não disponíveis
+m) Densidade relativa Dados não disponíveis
+n) Hidrossolubilidade Dados não disponíveis
+o) Coeficiente de partição n-octanol/água 0,79
+p) Temperatura de autoignição Dados não disponíveis
+q) Temperatura de decomposição Dados não disponíveis
+r) Viscosidade Dados não disponíveis
+9.2 Outra informação de segurança
+Dados não disponíveis
+10. Estabilidade e reatividade
+10.1 Reatividade
+Em geral o seguinte aplica-se a substâncias e misturas orgânicas inflamáveis: numa distribuição geralmente fina, quando voltado
+para cima pode gerar uma potencial explosão de pó.
+10.2 Estabilidade química
+O produto é quimicamente estável em condições ambientes padrão (temperatura ambiente).
+10.3 Possibilidade de reações perigosa
+Agentes oxidantes fortes
+10.4 Condições a evitar
+Aquecimento muito forte (decomposição).
+10.5 Materiais incompatíveis
+Dados não disponiveis
+11. Informações toxicológicas
+11.1 Informações sobre os efeitos toxicológicos
+Toxicidade aguda
+Não existem informações disponíveis.
+Corrosão/irritação cutânea
+Não existem informações disponíveis.
+Lesões oculares graves/irritação ocular
+Olhos - coelho - Ligeira irritação dos olhos
+Sensibilização respiratória ou cutânea
+Não existem informações disponíveis.
+Mutagenicidade em células germinativas
+Não existem informações disponíveis.
+Carcinogenicidade
+Bioquímica
+e Química
+Ltda. | Bioquímica
+e Química
+Ltda. | FICHA DE SEGURANÇA
+De acordo com a norma NBR 14725-4:2014 | FISPQ No. OT - 016
+ | | | Página 5 de 6
+ | 12. Informações ecológicas | 
+12.1 Eco toxicidade
+Dados não disponíveis
+12.2 Persistência e degradabilidade
+Dados não disponíveis
+12.3 Potencial biocumulativo
+Dados não disponíveis
+12.4 Mobilidade no solo
+Dados não disponíveis
+12.5 Resultados da avaliação PBT e mPmB
+Dados não disponíveis
+12.6 Outros efeitos adversos
+Dados não disponíveis | | 
+ | 13. Considerações sobre tratamento e disposição | 
+13.1 Métodos de tratamento de resíduos
+Métodos de tratamento de resíduos
+Os dejetos devem ser descartados em conformidade com regulamentações nacionais e locais.
+Mantenha as substâncias químicas em seus recipientes originais. Não misturar com outros dejetos. O manuseio de recipientes sujos
+deve ser realizado da mesma forma que o do produto em si.
+As frases de perigo e de precaução apresentadas no rótulo também se aplicam a qualquer resíduo deixado na embalagem. A
+disposição não controlada ou reciclagem desta embalagem não é permitida e pode ser perigosa.
+Deve ser incinerado em instalação de incineração adequada pelas autoridades competentes. | | 
+ | 14. Informações sobre transporte | 
+14.1 Número ONU
+ADR/RID: - DOT (US): - IMDG: - IATA: - ANTT: -
+14.2 Designação oficial de transporte da ONU
+ADR/RID: Mercadorias não perigosas
+DOT (US): Mercadorias não perigosas
+IMDG: Mercadorias não perigosas
+IATA: Mercadorias não perigosas
+ANTT: Mercadorias não perigosas
+14.3 Classes de perigo para efeitos de transporte
+ADR/RID: - DOT (US): - IMDG: - IATA: - ANTT: -
+14.4 Grupo de embalagem
+ADR/RID: - DOT (US): - IMDG: - IATA: - ANTT: -
+14.5 Perigos para o ambiente
+ADR/RID: não DOT (US): não IMDG Poluente marinho: não IATA: não
+14.6 Precauções especiais para o utilizador
+Dados não disponíveis | | 
+Bioquímica FISPQ No. OT - 016
+FICHA DE SEGURANÇA
+e Química
+Ltda. De acordo com a norma NBR 14725-4:2014 Página 5 de 6
+Nome do produto: 1,5 DIFENILCARBAZIDA PA Referência do produto: FMA0000103042
+Data da revisão: 22/05/2017 No. da revisão: 04
+IARC: Nenhum componente deste produto presente a níveis maiores ou iguais a 0.1% é identificado
+como carcinogénio provável, possível ou confirmado pelo IARC.
+Toxicidade à reprodução e lactação
+Não existem informações disponíveis.
+Toxicidade sistêmica para órgãos-alvo específicos - exposição única
+Não existem informações disponíveis.
+Toxicidade sistêmica para órgãos-alvo específicos - exposição repetida
+Não existem informações disponíveis
+12. Informações ecológicas
+12.1 Eco toxicidade
+Dados não disponíveis
+12.2 Persistência e degradabilidade
+Dados não disponíveis
+12.3 Potencial biocumulativo
+Dados não disponíveis
+12.4 Mobilidade no solo
+Dados não disponíveis
+12.5 Resultados da avaliação PBT e mPmB
+Dados não disponíveis
+12.6 Outros efeitos adversos
+Dados não disponíveis
+13. Considerações sobre tratamento e disposição
+13.1 Métodos de tratamento de resíduos
+Métodos de tratamento de resíduos
+Os dejetos devem ser descartados em conformidade com regulamentações nacionais e locais.
+Mantenha as substâncias químicas em seus recipientes originais. Não misturar com outros dejetos. O manuseio de recipientes sujos
+deve ser realizado da mesma forma que o do produto em si.
+As frases de perigo e de precaução apresentadas no rótulo também se aplicam a qualquer resíduo deixado na embalagem. A
+disposição não controlada ou reciclagem desta embalagem não é permitida e pode ser perigosa.
+Deve ser incinerado em instalação de incineração adequada pelas autoridades competentes.
+14. Informações sobre transporte
+14.1 Número ONU
+ADR/RID: - DOT (US): - IMDG: - IATA: - ANTT: -
+14.2 Designação oficial de transporte da ONU
+ADR/RID: Mercadorias não perigosas
+DOT (US): Mercadorias não perigosas
+IMDG: Mercadorias não perigosas
+IATA: Mercadorias não perigosas
+ANTT: Mercadorias não perigosas
+14.3 Classes de perigo para efeitos de transporte
+ADR/RID: - DOT (US): - IMDG: - IATA: - ANTT: -
+14.4 Grupo de embalagem
+ADR/RID: - DOT (US): - IMDG: - IATA: - ANTT: -
+14.5 Perigos para o ambiente
+ADR/RID: não DOT (US): não IMDG Poluente marinho: não IATA: não
+14.6 Precauções especiais para o utilizador
+Dados não disponíveis
+Bioquímica
+e Química
+Ltda. | Bioquímica
+e Química
+Ltda. | FICHA DE SEGURANÇA
+De acordo com a norma NBR 14725-4:2014 | FISPQ No. OT - 016
+ | | | Página 6 de 6
+ | 15. Regulamentações | 
+15.1 Regulamentação/legislação específica para a substância ou mistura em matéria de saúde, segurança e ambiente
+Esta Ficha de Informações de Produtos Químicos foi preparada de acordo com a NBR 14725-4/2014 da ABNT (Associação Brasileira
+de Normas Técnicas) | | 
+ | 16. Outras informações | 
+Esta FISPQ foi elaborada baseada nos conhecimentos atuais do produto químico e fornece informações quanto à proteção, à
+segurança, à saúde e ao meio ambiente. Adverte-se que o manuseio de qualquer substância química requer o conhecimento prévio
+de seus perigos pelo usuário. Cabe à empresa usuária do produto promover o treinamento de seus empregados e contratados
+quanto aos possíveis riscos advindos do produto.
+Este produto deve ser armazenado e manuseado de acordo com as boas práticas de higiene industrial e em conformidade com as
+regulamentações locais. | | 
+Bioquímica FISPQ No. OT - 016
+FICHA DE SEGURANÇA
+e Química
+Ltda. De acordo com a norma NBR 14725-4:2014 Página 6 de 6
+Nome do produto: 1,5 DIFENILCARBAZIDA PA Referência do produto: FMA0000103042
+Data da revisão: 22/05/2017 No. da revisão: 04
+14.7 Numero De Risco
+15. Regulamentações
+15.1 Regulamentação/legislação específica para a substância ou mistura em matéria de saúde, segurança e ambiente
+Esta Ficha de Informações de Produtos Químicos foi preparada de acordo com a NBR 14725-4/2014 da ABNT (Associação Brasileira
+de Normas Técnicas)
+16. Outras informações
+Esta FISPQ foi elaborada baseada nos conhecimentos atuais do produto químico e fornece informações quanto à proteção, à
+segurança, à saúde e ao meio ambiente. Adverte-se que o manuseio de qualquer substância química requer o conhecimento prévio
+de seus perigos pelo usuário. Cabe à empresa usuária do produto promover o treinamento de seus empregados e contratados
+quanto aos possíveis riscos advindos do produto.
+Este produto deve ser armazenado e manuseado de acordo com as boas práticas de higiene industrial e em conformidade com as
+regulamentações locais.

@@ -1,0 +1,961 @@
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+
+1 - IDENTIFICAÇÃO | 
+Nome do produto (nome
+comercial): | SCORE FLEXI
+ | 
+Código Interno de
+Identificação do
+Produto: | A8122A
+ | 
+Principais usos
+recomendados para
+substância ou mistura: | Fungicida sistêmico.
+ | 
+Nome da empresa: | Syngenta Proteção de Cultivos Ltda
+Endereço: | Rodovia Professor Zeferino Vaz SP 332, Km 127,5 S/N, Bairro Santa Terezinha CEP: 13148-915,
+Paulínia - SP - BR
+ | 
+Telefone para contato: | (19) 3874-5800
+Telefone para
+emergências: | 0800 704 4304
+ | 
+Fax: | (19) 3844-5131
+2 - IDENTIFICAÇÃO DE PERIGOS | | | | | | | | | 
+Classificação de perigo
+do produto químico: | | Líquidos inflamáveis - Categoria 4
+Toxicidade aguda - Oral - Categoria 5
+Corrosão/irritação à pele - Categoria 2
+Lesões oculares graves/irritação ocular - Categoria 1
+Sensibilização à pele - Categoria 1
+Carcinogenicidade - Categoria 2
+Toxicidade à reprodução - Categoria 2
+Perigo por aspiração - Categoria 1
+Perigoso ao ambiente aquático - Agudo - Categoria 1
+Perigoso ao ambiente aquático - Crônico - Categoria 1 | | | | | | | 
+ | | | | | | | | | 
+Sistema de
+classificação utilizado: | | Norma ABNT-NBR 14725-2.
+Sistema Globalmente Harmonizado para a Classificação e Rotulagem de Produtos Químicos, ONU. | | | | | | | 
+Outros perigos que não
+resultam em uma
+classificação: | | O produto não possui outros perigos. | | | | | | | 
+ | | | | | | | | | 
+Elementos apropriados para rotulagem | | | | | | | | | 
+Pictogramas: | | | | | | | | | 
+ | | | | | | | | | 
+Palavra de advertência: | | PERIGO | | | | | | | 
+Frases de perigo: | | H227 Líquido combustível.
+H303 Pode ser nocivo se ingerido.
+H304 Pode ser fatal se ingerido e penetrar nas vias respiratórias.
+H315 Provoca irritação à pele.
+H317 Pode provocar reações alérgicas na pele.
+H318 Provoca lesões oculares graves.
+H351 Suspeito de provocar câncer.
+H361 Suspeita-se que prejudique a fertilidade ou o feto. | | | | | | | 
+ | | | | | | | | | 
+FISPQ
+Em conformidade com NBR 14725
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Produto: SCORE FLEXI
+Revisão: 05 Data: 26/08/2021 Página: 1/9
+1 - IDENTIFICAÇÃO
+Nome do produto (nome SCORE FLEXI
+comercial):
+Código Interno de A8122A
+Identificação do
+Produto:
+Principais usos Fungicida sistêmico.
+recomendados para
+substância ou mistura:
+Nome da empresa: Syngenta Proteção de Cultivos Ltda
+Endereço: Rodovia Professor Zeferino Vaz SP 332, Km 127,5 S/N, Bairro Santa Terezinha CEP: 13148-915,
+Paulínia - SP - BR
+Telefone para contato: (19) 3874-5800
+Telefone para 0800 704 4304
+emergências:
+Fax: (19) 3844-5131
+2 - IDENTIFICAÇÃO DE PERIGOS
+Classificação de perigo Líquidos inflamáveis - Categoria 4
+do produto químico: Toxicidade aguda - Oral - Categoria 5
+Corrosão/irritação à pele - Categoria 2
+Lesões oculares graves/irritação ocular - Categoria 1
+Sensibilização à pele - Categoria 1
+Carcinogenicidade - Categoria 2
+Toxicidade à reprodução - Categoria 2
+Perigo por aspiração - Categoria 1
+Perigoso ao ambiente aquático - Agudo - Categoria 1
+Perigoso ao ambiente aquático - Crônico - Categoria 1
+Sistema de Norma ABNT-NBR 14725-2.
+classificação utilizado: Sistema Globalmente Harmonizado para a Classificação e Rotulagem de Produtos Químicos, ONU.
+Outros perigos que não O produto não possui outros perigos.
+resultam em uma
+classificação:
+Elementos apropriados para rotulagem
+Pictogramas:
+Palavra de advertência: PERIGO
+Frases de perigo: H227 Líquido combustível.
+H303 Pode ser nocivo se ingerido.
+H304 Pode ser fatal se ingerido e penetrar nas vias respiratórias.
+H315 Provoca irritação à pele.
+H317 Pode provocar reações alérgicas na pele.
+H318 Provoca lesões oculares graves.
+H351 Suspeito de provocar câncer.
+H361 Suspeita-se que prejudique a fertilidade ou o feto.
+ | | 
+FICHA DE
+FICHA DE | FICHA DE
+FICHA DE | INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+ | | 
+Produto: SCORE | | FLEXI
+Revisão: 05 | | Data: 26/08/2021 Página: 2/9
+ | | H410 Muito tóxico para os organismos aquáticos, com efeitos prolongados.
+Frases de precaução: | | PREVENÇÃO:
+P201 Obtenha instruções específicas antes da utilização.
+P202 Não manuseie o produto antes de ter lido e compreendido todas as precauções de segurança.
+P210 Mantenha afastado do calor, faísca, chama aberta ou superfícies quentes. - Não fume.
+P261 Evite inalar as poeiras/fumos/gases/névoas/vapores/aerossóis.
+P264 Lave as mãos cuidadosamente após manuseio.
+P272 A roupa de trabalho contaminada não pode sair do local de trabalho.
+P273 Evite a liberação para o meio ambiente.
+P280 Use luvas de proteção, roupa de proteção, proteção ocular e proteção facial.
+RESPOSTA À EMERGÊNCIA:
+P301 + P310 EM CASO DE INGESTÃO: Contate imediatamente um CENTRO DE INFORMAÇÃO
+TOXICOLÓGICA ou um médico.
+P302 + P352 EM CASO DE CONTATO COM A PELE: Lave com água e sabão em abundância.
+P305 + P351 + P338 EM CASO DE CONTATO COM OS OLHOS: Enxágue cuidadosamente com
+água durante vários minutos. No caso de uso de lentes de contato, remova-as, se for fácil. Continue
+enxaguando.
+P308 + P313 EM CASO DE exposição ou suspeita de exposição: Em caso de irritação ou erupção
+cutânea: Em caso de irritação cutânea: Consulte um médico.
+P310 Contate imediatamente um CENTRO DE INFORMAÇÃO TOXICOLÓGICA ou um médico.
+P312 Caso sinta indisposição, contate um CENTRO DE INFORMAÇÃO TOXICOLÓGICA ou um
+médico.
+P321 Tratamento específico.
+P331 NÃO provoque vômito.
+P332 + P313 Em caso de irritação cutânea: Consulte um médico.
+P333 + P313 Em caso de irritação ou erupção cutânea: Em caso de irritação cutânea: Consulte um
+médico.
+P362 + P364 Retire a roupa contaminada. Lave-a antes de usá-la novamente.
+P370 + P378 Em caso de incêndio: Para a extinção utilize dióxido de carbono (CO2), espuma,
+neblina d'água e pó químico seco.
+P391 Recolha o material derramado.
+ARMAZENAMENTO:
+P403 + P235 Armazene em local bem ventilado. Mantenha em local fresco.
+P405 Armazene em local fechado à chave.
+DISPOSIÇÃO:
+P501 Descarte o conteúdo e o recipiente em conformidade com as regulamentações locais.
+ | | 
+3 - COMPOSIÇÃO E INFORMAÇÕES SOBRE OS INGREDIENTES | 
+MISTURA | 
+Ingredientes ou
+impurezas que
+contribuem para o
+perigo: | Propiconazol (CAS 60207-90-1): 25%;
+Difenoconazol (CAS 119446-68-3): 25%.
+ | 
+4 - MEDIDAS DE PRIMEIROS-SOCORROS | 
+Inalação: | Remova a vítima para local ventilado e a mantenha em repouso numa posição que não dificulte a
+respiração. Caso sinta indisposição, contate um CENTRO DE INFORMAÇÃO TOXICOLÓGICA ou
+um médico. Leve esta FISPQ.
+ | 
+Contato com a pele: | EM CASO DE CONTATO COM A PELE (ou o cabelo): Retire imediatamente toda a roupa
+contaminada. Enxágue a pele com água ou tome uma ducha. Leve esta FISPQ.
+ | 
+FISPQ
+Em conformidade com NBR 14725
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Produto: SCORE FLEXI
+Revisão: 05 Data: 26/08/2021 Página: 2/9
+H410 Muito tóxico para os organismos aquáticos, com efeitos prolongados.
+Frases de precaução: PREVENÇÃO:
+P201 Obtenha instruções específicas antes da utilização.
+P202 Não manuseie o produto antes de ter lido e compreendido todas as precauções de segurança.
+P210 Mantenha afastado do calor, faísca, chama aberta ou superfícies quentes. - Não fume.
+P261 Evite inalar as poeiras/fumos/gases/névoas/vapores/aerossóis.
+P264 Lave as mãos cuidadosamente após manuseio.
+P272 A roupa de trabalho contaminada não pode sair do local de trabalho.
+P273 Evite a liberação para o meio ambiente.
+P280 Use luvas de proteção, roupa de proteção, proteção ocular e proteção facial.
+RESPOSTA À EMERGÊNCIA:
+P301 + P310 EM CASO DE INGESTÃO: Contate imediatamente um CENTRO DE INFORMAÇÃO
+TOXICOLÓGICA ou um médico.
+P302 + P352 EM CASO DE CONTATO COM A PELE: Lave com água e sabão em abundância.
+P305 + P351 + P338 EM CASO DE CONTATO COM OS OLHOS: Enxágue cuidadosamente com
+água durante vários minutos. No caso de uso de lentes de contato, remova-as, se for fácil. Continue
+enxaguando.
+P308 + P313 EM CASO DE exposição ou suspeita de exposição: Em caso de irritação ou erupção
+cutânea: Em caso de irritação cutânea: Consulte um médico.
+P310 Contate imediatamente um CENTRO DE INFORMAÇÃO TOXICOLÓGICA ou um médico.
+P312 Caso sinta indisposição, contate um CENTRO DE INFORMAÇÃO TOXICOLÓGICA ou um
+médico.
+P321 Tratamento específico.
+P331 NÃO provoque vômito.
+P332 + P313 Em caso de irritação cutânea: Consulte um médico.
+P333 + P313 Em caso de irritação ou erupção cutânea: Em caso de irritação cutânea: Consulte um
+médico.
+P362 + P364 Retire a roupa contaminada. Lave-a antes de usá-la novamente.
+P370 + P378 Em caso de incêndio: Para a extinção utilize dióxido de carbono (CO2), espuma,
+neblina d'água e pó químico seco.
+P391 Recolha o material derramado.
+ARMAZENAMENTO:
+P403 + P235 Armazene em local bem ventilado. Mantenha em local fresco.
+P405 Armazene em local fechado à chave.
+DISPOSIÇÃO:
+P501 Descarte o conteúdo e o recipiente em conformidade com as regulamentações locais.
+3 - COMPOSIÇÃO E INFORMAÇÕES SOBRE OS INGREDIENTES
+MISTURA
+Ingredientes ou Propiconazol (CAS 60207-90-1): 25%;
+impurezas que Difenoconazol (CAS 119446-68-3): 25%.
+contribuem para o
+perigo:
+4 - MEDIDAS DE PRIMEIROS-SOCORROS
+Inalação: Remova a vítima para local ventilado e a mantenha em repouso numa posição que não dificulte a
+respiração. Caso sinta indisposição, contate um CENTRO DE INFORMAÇÃO TOXICOLÓGICA ou
+um médico. Leve esta FISPQ.
+Contato com a pele: EM CASO DE CONTATO COM A PELE (ou o cabelo): Retire imediatamente toda a roupa
+contaminada. Enxágue a pele com água ou tome uma ducha. Leve esta FISPQ.
+
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+
+Contato com os olhos: | Enxágue cuidadosamente com água durante vários minutos. No caso de uso de lentes de contato,
+remova-as, se for fácil. Caso a irritação ocular persista: consulte um médico. Leve esta FISPQ.
+ | 
+Ingestão: | Lave a boca da vítima com água em abundância. Caso sinta indisposição, contate um CENTRO DE
+INFORMAÇÃO TOXICOLÓGICA ou um médico. Leve esta FISPQ.
+ | 
+Sintomas e efeitos mais
+importantes, agudos e
+tardios: | Provoca lesões oculares graves com queimadura, lacrimejamento e dor. Pode ser fatal se ingerido e
+penetrar nas vias respiratórias. Pode provocar reações alérgicas na pele com prurido e dermatite.
+Provoca irritação à pele com vermelhidão, dor e ressecamento. Pode ser nocivo se ingerido.
+Notas para o médico: | Evite contato com o produto ao socorrer a vítima. Se necessário, o tratamento sintomático deve
+compreender, sobretudo, medidas de suporte como correção de distúrbios hidroeletrolíticos,
+metabólicos, além de assistência respiratória. Em caso de contato com a pele não friccione o local
+atingido.
+ | 
+5 - MEDIDAS DE COMBATE A INCÊNDIO | 
+Meios de extinção: | Apropriados: dióxido de carbono (CO2), espuma, neblina d'água e pó químico seco.
+Não recomendados: água diretamente sobre o produto em chamas.
+ | 
+Perigos específicos da
+mistura ou substância: | A combustão do produto químico ou de sua embalagem pode formar gases irritantes e tóxicos como
+monóxido e dióxido de carbono.
+Muito perigoso quando exposto a calor excessivo ou outras fontes de ignição como: faíscas,
+chamas abertas ou chamas de fósforos e cigarros, operações de solda, lâmpadas-piloto e motores
+elétricos. Pode acumular carga estática por fluxo ou agitação. Podem deslocar-se por grandes
+distâncias provocando retrocesso da chama ou novos focos de incêndio tanto em ambientes
+abertos como confinados. Os contêineres podem explodir se aquecidos.
+ | 
+Medidas de proteção
+da equipe de combate
+a incêndio: | Equipamento de proteção respiratória do tipo autônomo (SCBA) com pressão positiva e vestuário
+protetor completo. Contêineres e tanques envolvidos no incêndio devem ser resfriados com neblina
+d'água.
+6 - MEDIDAS DE CONTROLE PARA DERRAMAMENTO OU VAZAMENTO | 
+Precauções pessoais, equipamento de proteção e procedimentos de emergência | 
+Para o pessoal que não
+faz parte dos serviços
+de emergência: | Isole o vazamento de fontes de ignição. Impeça fagulhas ou chamas. Não fume. Não toque nos
+recipientes danificados ou no material derramado sem o uso de vestimentas adequadas. Utilize
+equipamento de proteção individual conforme descrito na seção 8.
+Para o pessoal do
+serviço de emergência: | Utilize EPI completo com óculos de segurança, luvas de segurança, vestuário protetor adequado e
+sapatos fechados. Em caso de vazamento, onde a exposição é grande, recomenda-se o uso de
+máscara de proteção respiratória adequada.
+ | 
+Precauções ao meio
+ambiente: | Evite que o produto derramado atinja cursos d'água e rede de esgotos.
+ | 
+Método e materiais
+para a contenção e
+limpeza: | Utilize névoa de água ou espuma supressora de vapor para reduzir a dispersão do produto. Utilize
+barreiras naturais ou de contenção de derrame. Colete o produto derramado e coloque em
+recipientes apropriados. Adsorva o produto remanescente, com areia seca, terra, vermiculite, ou
+qualquer outro material inerte. Coloque o material adsorvido em recipientes apropriados e remova-
+os para local seguro. Para destinação final, proceder conforme a Seção 13 desta FISPQ.
+ | 
+Diferenças na ação de
+grandes e pequenos
+vazamentos: | Grandes vazamentos: Neblina d'água pode ser utilizada para reduzir vapores, mas isso não irá
+prevenir a ignição em ambientes fechados.
+ | 
+7 - MANUSEIO E ARMAZENAMENTO | 
+Medidas técnicas apropriadas para o manuseio | 
+Precauções para
+manuseio seguro: | Manuseie em uma área ventilada ou com sistema geral de ventilação/exaustão local. Evite
+formação de vapores ou névoas. Evite inalar o produto em caso de formação de vapores ou
+ | 
+FISPQ
+Em conformidade com NBR 14725
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Produto: SCORE FLEXI
+Revisão: 05 Data: 26/08/2021 Página: 3/9
+Contato com os olhos: Enxágue cuidadosamente com água durante vários minutos. No caso de uso de lentes de contato,
+remova-as, se for fácil. Caso a irritação ocular persista: consulte um médico. Leve esta FISPQ.
+Ingestão: Lave a boca da vítima com água em abundância. Caso sinta indisposição, contate um CENTRO DE
+INFORMAÇÃO TOXICOLÓGICA ou um médico. Leve esta FISPQ.
+Sintomas e efeitos mais Provoca lesões oculares graves com queimadura, lacrimejamento e dor. Pode ser fatal se ingerido e
+importantes, agudos e penetrar nas vias respiratórias. Pode provocar reações alérgicas na pele com prurido e dermatite.
+tardios: Provoca irritação à pele com vermelhidão, dor e ressecamento. Pode ser nocivo se ingerido.
+Notas para o médico: Evite contato com o produto ao socorrer a vítima. Se necessário, o tratamento sintomático deve
+compreender, sobretudo, medidas de suporte como correção de distúrbios hidroeletrolíticos,
+metabólicos, além de assistência respiratória. Em caso de contato com a pele não friccione o local
+atingido.
+5 - MEDIDAS DE COMBATE A INCÊNDIO
+Meios de extinção: Apropriados: dióxido de carbono (CO2), espuma, neblina d'água e pó químico seco.
+Não recomendados: água diretamente sobre o produto em chamas.
+Perigos específicos da A combustão do produto químico ou de sua embalagem pode formar gases irritantes e tóxicos como
+mistura ou substância: monóxido e dióxido de carbono.
+Muito perigoso quando exposto a calor excessivo ou outras fontes de ignição como: faíscas,
+chamas abertas ou chamas de fósforos e cigarros, operações de solda, lâmpadas-piloto e motores
+elétricos. Pode acumular carga estática por fluxo ou agitação. Podem deslocar-se por grandes
+distâncias provocando retrocesso da chama ou novos focos de incêndio tanto em ambientes
+abertos como confinados. Os contêineres podem explodir se aquecidos.
+Medidas de proteção Equipamento de proteção respiratória do tipo autônomo (SCBA) com pressão positiva e vestuário
+da equipe de combate protetor completo. Contêineres e tanques envolvidos no incêndio devem ser resfriados com neblina
+a incêndio: d'água.
+6 - MEDIDAS DE CONTROLE PARA DERRAMAMENTO OU VAZAMENTO
+Precauções pessoais, equipamento de proteção e procedimentos de emergência
+Para o pessoal que não Isole o vazamento de fontes de ignição. Impeça fagulhas ou chamas. Não fume. Não toque nos
+faz parte dos serviços recipientes danificados ou no material derramado sem o uso de vestimentas adequadas. Utilize
+de emergência: equipamento de proteção individual conforme descrito na seção 8.
+Para o pessoal do Utilize EPI completo com óculos de segurança, luvas de segurança, vestuário protetor adequado e
+serviço de emergência: sapatos fechados. Em caso de vazamento, onde a exposição é grande, recomenda-se o uso de
+máscara de proteção respiratória adequada.
+Precauções ao meio Evite que o produto derramado atinja cursos d'água e rede de esgotos.
+ambiente:
+Método e materiais Utilize névoa de água ou espuma supressora de vapor para reduzir a dispersão do produto. Utilize
+para a contenção e barreiras naturais ou de contenção de derrame. Colete o produto derramado e coloque em
+limpeza: recipientes apropriados. Adsorva o produto remanescente, com areia seca, terra, vermiculite, ou
+qualquer outro material inerte. Coloque o material adsorvido em recipientes apropriados e remova-
+os para local seguro. Para destinação final, proceder conforme a Seção 13 desta FISPQ.
+Diferenças na ação de Grandes vazamentos: Neblina d'água pode ser utilizada para reduzir vapores, mas isso não irá
+grandes e pequenos prevenir a ignição em ambientes fechados.
+vazamentos:
+7 - MANUSEIO E ARMAZENAMENTO
+Medidas técnicas apropriadas para o manuseio
+Precauções para Manuseie em uma área ventilada ou com sistema geral de ventilação/exaustão local. Evite
+manuseio seguro: formação de vapores ou névoas. Evite inalar o produto em caso de formação de vapores ou
+Revisão: 05 | Data: 26/08/2021 Página: 4/9
+ | névoas. Inspecione os recipientes quanto a danos ou vazamentos antes de manuseá-los. Evite
+contato com materiais incompatíveis. Utilize equipamento elétrico, de ventilação e de iluminação à
+prova de explosão. Use luvas de proteção, roupa de proteção, proteção ocular, proteção facial como
+indicado na Seção 8.
+ | 
+Medidas de higiene: | Lave bem as mãos antes de comer, beber, fumar ou ir ao banheiro. Roupas contaminadas devem
+ser trocadas e lavadas antes de sua reutilização.
+ | 
+Condições de armazenamento seguro, incluindo qualquer incompatibilidade | 
+Prevenção de incêndio
+e explosão: | Mantenha afastado do calor, faísca, chama aberta e superfícies quentes. - Não fume. Mantenha o
+recipiente hermeticamente fechado. Aterre o vaso contentor e o receptor do produto durante
+transferências. Utilize apenas ferramentas anti-faiscantes. Evite o acúmulo de cargas eletrostáticas.
+ | 
+Condições adequadas: | Armazene em local ventilado e protegido do calor. Mantenha afastado de materiais incompatíveis.
+Manter armazenado em temperatura ambiente que não exceda 35°C.
+Não é necessária adição de estabilizantes e antioxidantes para garantir a durabilidade do produto.
+ | 
+Materiais adequados
+para embalagem: | Embalagens plásticas.
+ | 
+Materiais inadequados
+para embalagem: | Não são conhecidos materiais inadequados para este produto.
+ | 
+8 - CONTROLE DE EXPOSIÇÃO E PROTEÇÃO INDIVIDUAL | 
+Parâmetros de controle | 
+Limite de exposição
+ocupacional: | Não estabelecidos.
+ | 
+Indicadores biológicos: | Não estabelecidos.
+Outros limites e valores: | Não estabelecidos.
+Medidas de controle de
+engenharia: | Recomenda-se promover ventilação mecânica e sistema de exaustão direta para o meio exterior.
+Estas medidas auxiliam na redução da exposição ao produto.
+Medidas de proteção pessoal | 
+Proteção dos
+olhos/face: | Óculos com proteção lateral.
+ | 
+Proteção da pele e do
+corpo: | Luvas de proteção adequadas.
+ | 
+Proteção respiratória: | Máscara semi-facial com filtro para vapores orgânicos.
+Perigos térmicos: | Não apresenta perigos térmicos.
+9 - PROPRIEDADES FÍSICAS E QUÍMICAS | 
+Aspecto (estado físico,
+forma e cor): | Líquido laranja a vermelho.
+ | 
+Odor e limite de odor: | Não disponível.
+pH: | 6 a 10 ((1% em água deionizada)).
+Ponto de fusão/ponto
+de congelamento: | Não disponível.
+ | 
+Ponto de ebulição inicial
+e faixa de temperatura
+de ebulição: | > 170 °C.
+ | 
+Ponto de fulgor: | 61,5 °C - Vaso fechado.
+FISPQ
+Em conformidade com NBR 14725
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Produto: SCORE FLEXI
+Revisão: 05 Data: 26/08/2021 Página: 4/9
+névoas. Inspecione os recipientes quanto a danos ou vazamentos antes de manuseá-los. Evite
+contato com materiais incompatíveis. Utilize equipamento elétrico, de ventilação e de iluminação à
+prova de explosão. Use luvas de proteção, roupa de proteção, proteção ocular, proteção facial como
+indicado na Seção 8.
+Medidas de higiene: Lave bem as mãos antes de comer, beber, fumar ou ir ao banheiro. Roupas contaminadas devem
+ser trocadas e lavadas antes de sua reutilização.
+Condições de armazenamento seguro, incluindo qualquer incompatibilidade
+Prevenção de incêndio Mantenha afastado do calor, faísca, chama aberta e superfícies quentes. - Não fume. Mantenha o
+e explosão: recipiente hermeticamente fechado. Aterre o vaso contentor e o receptor do produto durante
+transferências. Utilize apenas ferramentas anti-faiscantes. Evite o acúmulo de cargas eletrostáticas.
+Condições adequadas: Armazene em local ventilado e protegido do calor. Mantenha afastado de materiais incompatíveis.
+Manter armazenado em temperatura ambiente que não exceda 35°C.
+Não é necessária adição de estabilizantes e antioxidantes para garantir a durabilidade do produto.
+Materiais adequados Embalagens plásticas.
+para embalagem:
+Materiais inadequados Não são conhecidos materiais inadequados para este produto.
+para embalagem:
+8 - CONTROLE DE EXPOSIÇÃO E PROTEÇÃO INDIVIDUAL
+Parâmetros de controle
+Limite de exposição Não estabelecidos.
+ocupacional:
+Indicadores biológicos: Não estabelecidos.
+Outros limites e valores: Não estabelecidos.
+Medidas de controle de Recomenda-se promover ventilação mecânica e sistema de exaustão direta para o meio exterior.
+engenharia: Estas medidas auxiliam na redução da exposição ao produto.
+Medidas de proteção pessoal
+Proteção dos Óculos com proteção lateral.
+olhos/face:
+Proteção da pele e do Luvas de proteção adequadas.
+corpo:
+Proteção respiratória: Máscara semi-facial com filtro para vapores orgânicos.
+Perigos térmicos: Não apresenta perigos térmicos.
+9 - PROPRIEDADES FÍSICAS E QUÍMICAS
+Aspecto (estado físico, Líquido laranja a vermelho.
+forma e cor):
+Odor e limite de odor: Não disponível.
+pH: 6 a 10 ((1% em água deionizada)).
+Ponto de fusão/ponto Não disponível.
+de congelamento:
+Ponto de ebulição inicial > 170 °C.
+e faixa de temperatura
+de ebulição:
+Ponto de fulgor: 61,5 °C - Vaso fechado.
+
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+
+ | 
+ | 
+Taxa de evaporação: | Não disponível.
+Limite inferior/superior
+de inflamabilidade ou
+explosividade: | Combustível.
+ | 
+Limite de explosividade: | Não disponível.
+Pressão de vapor: | Não disponível.
+Densidade de vapor: | Não disponível.
+Densidade relativa: | Não disponível.
+Solubilidade(s): | Miscível em água.
+Coeficiente de partição
+- n-octanol/água: | Não disponível.
+ | 
+Temperatura de
+autoignição: | 445 °C.
+ | 
+Temperatura de
+decomposição: | Não disponível.
+ | 
+Viscosidade: | Dinâmica: 47,7 mPa.s a 20 °C.
+Outras informações: | Densidade absoluta: 1,09 g/cm³.
+10 - ESTABILIDADE E REATIVIDADE | 
+Reatividade: | Não é esperada reatividade em condições normais de temperatura e pressão.
+Estabilidade: | Produto estável em condições normais de temperatura e pressão.
+Possibilidade de
+reações perigosas: | Não são conhecidas reações perigosas com relação ao produto.
+ | 
+Condições a serem
+evitadas: | Temperaturas elevadas. Fontes de ignição.
+ | 
+Materiais incompatíveis: | Não são conhecidos materiais incompatíveis.
+Produtos perigosos da
+decomposição: | Não são conhecidos produtos perigosos da decomposição.
+ | 
+11 - INFORMAÇÕES TOXICOLÓGICAS | 
+Toxicidade Aguda: | Produto não classificado como tóxico agudo por via dérmica.
+Pode ser nocivo se ingerido.
+ETAm Oral: 2942,535 mg/kg.
+DL50 Dérmica (ratos): > 4000 mg/kg.
+Informação referente ao:
+- Propiconazol:
+DL50 Oral (camundongos): 1490 mg/kg.
+- Difenoconazol:
+DL50 Oral (ratos): 1453 mg/kg.
+ | 
+Corrosão/irritação à
+pele: | Provoca irritação à pele com vermelhidão, dor e ressecamento.
+ | 
+Lesões oculares
+graves/irritação ocular: | Provoca lesões oculares graves com queimadura, lacrimejamento e dor.
+ | 
+FISPQ
+Em conformidade com NBR 14725
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Produto: SCORE FLEXI
+Revisão: 05 Data: 26/08/2021 Página: 5/9
+Taxa de evaporação: Não disponível.
+Limite inferior/superior Combustível.
+de inflamabilidade ou
+explosividade:
+Limite de explosividade: Não disponível.
+Pressão de vapor: Não disponível.
+Densidade de vapor: Não disponível.
+Densidade relativa: Não disponível.
+Solubilidade(s): Miscível em água.
+Coeficiente de partição Não disponível.
+- n-octanol/água:
+Temperatura de 445 °C.
+autoignição:
+Temperatura de Não disponível.
+decomposição:
+Viscosidade: Dinâmica: 47,7 mPa.s a 20 °C.
+Outras informações: Densidade absoluta: 1,09 g/cm³.
+10 - ESTABILIDADE E REATIVIDADE
+Reatividade: Não é esperada reatividade em condições normais de temperatura e pressão.
+Estabilidade: Produto estável em condições normais de temperatura e pressão.
+Possibilidade de Não são conhecidas reações perigosas com relação ao produto.
+reações perigosas:
+Condições a serem Temperaturas elevadas. Fontes de ignição.
+evitadas:
+Materiais incompatíveis: Não são conhecidos materiais incompatíveis.
+Produtos perigosos da Não são conhecidos produtos perigosos da decomposição.
+decomposição:
+11 - INFORMAÇÕES TOXICOLÓGICAS
+Toxicidade Aguda: Produto não classificado como tóxico agudo por via dérmica.
+Pode ser nocivo se ingerido.
+ETAm Oral: 2942,535 mg/kg.
+DL50 Dérmica (ratos): > 4000 mg/kg.
+Informação referente ao:
+- Propiconazol:
+DL50 Oral (camundongos): 1490 mg/kg.
+- Difenoconazol:
+DL50 Oral (ratos): 1453 mg/kg.
+Corrosão/irritação à Provoca irritação à pele com vermelhidão, dor e ressecamento.
+pele:
+Lesões oculares Provoca lesões oculares graves com queimadura, lacrimejamento e dor.
+graves/irritação ocular:
+
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+
+Sensibilização
+respiratória ou à pele: | Pode provocar reações alérgicas na pele com prurido e dermatite.
+Não é esperado que o produto provoque sensibilização respiratória.
+Mutagenicidade em
+células germinativas: | Não é esperado que o produto apresente mutagenicidade em células germinativas.
+ | 
+Carcinogenicidade: | Suspeito de provocar câncer.
+Toxicidade à
+reprodução: | Suspeita-se que prejudique a fertilidade ou o feto.
+ | 
+Toxicidade para
+órgãos-alvo específicos
+–exposição única: | Não é esperado que o produto apresente toxicidade ao órgão-alvo específico por exposição única.
+ | 
+Toxicidade para órgão-
+salvo específicos –
+exposição repetida: | Não é esperado que o produto apresente toxicidade ao órgão-alvo específico por exposição
+repetida.
+ | 
+Perigo por aspiração: | Pode ser fatal se ingerido e penetrar nas vias respiratórias.
+12 - INFORMAÇÕES ECOLÓGICAS | 
+Efeitos ambientais, comportamento e impactos do produto | 
+Ecotoxicidade: | Muito tóxico para os organismos aquáticos, com efeitos prolongados.
+Informação referente ao:
+- Propiconazol:
+CE50 (Daphnia magna, 48h): 11,5 mg/L;
+CEr50 (Algas verdes, 96h): 2,574 mg/L;
+CL50 (Oncorhynchus mykiss, 96h): 5,3 mg/L.
+- Difenoconazol:
+NOEC (Daphnia magna, 21 d): 0,0056 mg/L;
+CEr50 (Scenedesmus subspicatus, 72h): 0,032 mg/L;
+CE50 (Daphnia magna, 48h): 0,77 mg/L;
+CL50 (Oncorhynchus mykiss, 96h): 0,81 mg/L;
+NOEC (Algas verdes, 96 h): 0,87 mg/L.
+ | 
+Persistência e
+degradabilidade: | O produto apresenta persistência e não é considerado rapidamente degradável.
+ | 
+Potencial
+bioacumulativo: | Apresenta baixo potencial bioacumulativo em organismos aquáticos.
+Informação referente ao:
+- Propiconazol:
+log Kow: 3,65
+- Difenoconazol:
+BCF: 330
+log Kow: 4,4.
+ | 
+Mobilidade no solo: | Não determinada.
+Outros efeitos
+adversos: | Não são conhecidos outros efeitos ambientais para este produto.
+ | 
+13 - CONSIDERAÇÕES SOBRE DESTINAÇÃO FINAL | 
+Métodos recomendados para destinação final | 
+Produto: | O tratamento e a disposição devem ser avaliados especificamente para cada produto. Devem ser
+consultadas legislações federais, estaduais e municipais, dentre estas: Lei n°12.305, de 02 de
+agosto de 2010 (Política Nacional de Resíduos Sólidos).
+ | 
+Restos de produto: | Manter restos do produto em suas embalagens originais e devidamente fechadas. O descarte deve
+ser realizado conforme o estabelecido para o produto.
+ | 
+Embalagem usada: | Não reutilize embalagens vazias. Estas podem conter restos do produto e devem ser mantidas
+ | 
+FISPQ
+Em conformidade com NBR 14725
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Produto: SCORE FLEXI
+Revisão: 05 Data: 26/08/2021 Página: 6/9
+Sensibilização Pode provocar reações alérgicas na pele com prurido e dermatite.
+respiratória ou à pele: Não é esperado que o produto provoque sensibilização respiratória.
+Mutagenicidade em Não é esperado que o produto apresente mutagenicidade em células germinativas.
+células germinativas:
+Carcinogenicidade: Suspeito de provocar câncer.
+Toxicidade à Suspeita-se que prejudique a fertilidade ou o feto.
+reprodução:
+Toxicidade para Não é esperado que o produto apresente toxicidade ao órgão-alvo específico por exposição única.
+órgãos-alvo específicos
+–exposição única:
+Toxicidade para órgão- Não é esperado que o produto apresente toxicidade ao órgão-alvo específico por exposição
+salvo específicos – repetida.
+exposição repetida:
+Perigo por aspiração: Pode ser fatal se ingerido e penetrar nas vias respiratórias.
+12 - INFORMAÇÕES ECOLÓGICAS
+Efeitos ambientais, comportamento e impactos do produto
+Ecotoxicidade: Muito tóxico para os organismos aquáticos, com efeitos prolongados.
+Informação referente ao:
+- Propiconazol:
+CE50 (Daphnia magna, 48h): 11,5 mg/L;
+CEr50 (Algas verdes, 96h): 2,574 mg/L;
+CL50 (Oncorhynchus mykiss, 96h): 5,3 mg/L.
+- Difenoconazol:
+NOEC (Daphnia magna, 21 d): 0,0056 mg/L;
+CEr50 (Scenedesmus subspicatus, 72h): 0,032 mg/L;
+CE50 (Daphnia magna, 48h): 0,77 mg/L;
+CL50 (Oncorhynchus mykiss, 96h): 0,81 mg/L;
+NOEC (Algas verdes, 96 h): 0,87 mg/L.
+Persistência e O produto apresenta persistência e não é considerado rapidamente degradável.
+degradabilidade:
+Potencial Apresenta baixo potencial bioacumulativo em organismos aquáticos.
+bioacumulativo: Informação referente ao:
+- Propiconazol:
+log Kow: 3,65
+- Difenoconazol:
+BCF: 330
+log Kow: 4,4.
+Mobilidade no solo: Não determinada.
+Outros efeitos Não são conhecidos outros efeitos ambientais para este produto.
+adversos:
+13 - CONSIDERAÇÕES SOBRE DESTINAÇÃO FINAL
+Métodos recomendados para destinação final
+Produto: O tratamento e a disposição devem ser avaliados especificamente para cada produto. Devem ser
+consultadas legislações federais, estaduais e municipais, dentre estas: Lei n°12.305, de 02 de
+agosto de 2010 (Política Nacional de Resíduos Sólidos).
+Restos de produto: Manter restos do produto em suas embalagens originais e devidamente fechadas. O descarte deve
+ser realizado conforme o estabelecido para o produto.
+Embalagem usada: Não reutilize embalagens vazias. Estas podem conter restos do produto e devem ser mantidas
+
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+
+ | fechadas e encaminhadas para descarte apropriado conforme estabelecido para o produto.
+ | 
+14 - INFORMAÇÕES SOBRE TRANSPORTE | | 
+Regulamentações nacionais e internacionais | | 
+Terrestre: | | ANTT - Agência Nacional de Transportes Terrestres:
+• Resolução nº 5.947, de 1º de junho de 2021: Atualiza o Regulamento para o Transporte
+Rodoviário de Produtos Perigosos e aprova as suas Instruções Complementares, e dá outras
+providências.
+ | | 
+Número ONU: | | 3082
+Nome apropriado para
+embarque: | | SUBSTÂNCIA QUE APRESENTA RISCO PARA O MEIO AMBIENTE, LÍQUIDA, N.E.
+(Difenoconazol e Propiconazole)
+Classe ou subclasse de
+risco subsidiário: | | 9
+ | | 
+Classe ou subclasse de
+risco principal: | | NA
+ | | 
+Número de risco: | | 90
+Grupo de embalagem: | | III
+Hidroviário: | | DPC - Diretoria de Portos e Costas: Transporte em águas brasileiras.- Normas de Autoridade
+Marítima:
+• NORMAM 01/DPC: Embarcações Empregadas na Navegação em Mar Aberto.
+• NORMAM 02/DPC: Embarcações Empregadas na Navegação Interior.- International
+Maritime Organization (Organização Marítima Internacional):
+• IMDG Code - International Maritime Dangerous Goods Code
+(Código Marítimo Internacional de Produtos Perigosos).
+ | | 
+Número ONU: | | 3082
+Nome apropriado para
+embarque: | | ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Difenoconazole and
+Propiconazole)
+Classe ou subclasse de
+risco subsidiário: | | 9
+ | | 
+Classe ou subclasse de
+risco principal: | | NA
+ | | 
+Grupo de embalagem: | | III
+EmS: | | F-A,S-F
+Perigo ao Meio
+Ambiente: | | O produto é considerado poluente marinho.
+Aéreo: | | ANAC - Agência Nacional de Aviação Civil: Resolução n°129 de 8 de dezembro de 2009.N°175 -
+(Regulamento Brasileiro da Avianção Civil):
+• Transporte de Artigos Perigosos em Aeronaves Civis.
+• IS N° 175-001 - Instrução Suplementar.- International Civil Aviation Organization
+(Organização da Aviação Civil Internacional):
+• Doc 9284-NA/905.- International Air Transport Association (Associação Internacional de
+Transporte Aéreo):
+• DGR - Dangerous Goods Regulation (Regulação de Produtos Perigosos).
+ | | 
+Número ONU: | | 3082
+Nome apropriado para
+embarque: | | ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Difenoconazole and
+Propiconazole)
+Classe ou subclasse de | | 9
+ | | 
+FISPQ
+Em conformidade com NBR 14725
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Produto: SCORE FLEXI
+Revisão: 05 Data: 26/08/2021 Página: 7/9
+fechadas e encaminhadas para descarte apropriado conforme estabelecido para o produto.
+14 - INFORMAÇÕES SOBRE TRANSPORTE
+Regulamentações nacionais e internacionais
+Terrestre: ANTT - Agência Nacional de Transportes Terrestres:
+• Resolução nº 5.947, de 1º de junho de 2021: Atualiza o Regulamento para o Transporte
+Rodoviário de Produtos Perigosos e aprova as suas Instruções Complementares, e dá outras
+providências.
+Número ONU: 3082
+Nome apropriado para SUBSTÂNCIA QUE APRESENTA RISCO PARA O MEIO AMBIENTE, LÍQUIDA, N.E.
+embarque: (Difenoconazol e Propiconazole)
+Classe ou subclasse de 9
+risco subsidiário:
+Classe ou subclasse de NA
+risco principal:
+Número de risco: 90
+Grupo de embalagem: III
+Hidroviário: DPC - Diretoria de Portos e Costas: Transporte em águas brasileiras.- Normas de Autoridade
+Marítima:
+• NORMAM 01/DPC: Embarcações Empregadas na Navegação em Mar Aberto.
+• NORMAM 02/DPC: Embarcações Empregadas na Navegação Interior.- International
+Maritime Organization (Organização Marítima Internacional):
+• IMDG Code - International Maritime Dangerous Goods Code
+(Código Marítimo Internacional de Produtos Perigosos).
+Número ONU: 3082
+Nome apropriado para ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Difenoconazole and
+embarque: Propiconazole)
+Classe ou subclasse de 9
+risco subsidiário:
+Classe ou subclasse de NA
+risco principal:
+Grupo de embalagem: III
+EmS: F-A,S-F
+Perigo ao Meio O produto é considerado poluente marinho.
+Ambiente:
+Aéreo: ANAC - Agência Nacional de Aviação Civil: Resolução n°129 de 8 de dezembro de 2009.N°175 -
+(Regulamento Brasileiro da Avianção Civil):
+• Transporte de Artigos Perigosos em Aeronaves Civis.
+• IS N° 175-001 - Instrução Suplementar.- International Civil Aviation Organization
+(Organização da Aviação Civil Internacional):
+• Doc 9284-NA/905.- International Air Transport Association (Associação Internacional de
+Transporte Aéreo):
+• DGR - Dangerous Goods Regulation (Regulação de Produtos Perigosos).
+Número ONU: 3082
+Nome apropriado para ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID, N.O.S. (Difenoconazole and
+embarque: Propiconazole)
+Classe ou subclasse de 9
+
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+
+risco subsidiário: | 
+ | 
+Classe ou subclasse de
+risco principal: | NA
+ | 
+Grupo de embalagem: | III
+Medidas e condições
+específicas de
+precaução: | Não Aplicável
+ | 
+15 - INFORMAÇÕES SOBRE REGULAMENTAÇÕES | 
+Regulamentações
+específicas para o
+produto químico: | Decreto Federal nº 10.088, de 5 de novembro de 2019.
+Portaria nº 229, de 24 de maio de 2011 - Altera a Norma Regulamentadora nº 26.
+Norma ABNT-NBR 14725.
+16 - OUTRAS INFORMAÇÕES | | | | | | 
+Informações importantes, mas não especificamente descritas nas seções anteriores: | | | | | | 
+Esta FISPQ foi elaborada com base nos atuais conhecimentos sobre o manuseio apropriado do produto e sob as condições
+normais de uso, de acordo com a aplicação especificada na embalagem. Qualquer outra forma de utilização do produto que
+envolva a sua combinação com outros materiais, além de formas de uso diversas daquelas indicadas, são de
+responsabilidade do usuário. Adverte-se que o manuseio de qualquer substância química requer o conhecimento prévio de
+seus perigos pelo usuário. No local de trabalho cabe à empresa usuária do produto promover o treinamento de seus
+colaboradores quanto aos possíveis riscos advindos da exposição ao produto químico.
+Elaborada em agosto de 2021. | | | | | | 
+Classificação de perigo
+do produto químico: | Saúde: 3*
+Inflamabilidade: 2
+Perigos Físicos: 0
+Proteção Pessoal: F | | | | | 
+ | | | | | | 
+Sistema de
+classificação utilizado: | National Paint & Coatings Association: NPCA | | | | | 
+ | | | | | | 
+HMIS: | | SAÚDE | | * | 3 | 
+ | | INFLAMABILIDADE | | | 2 | 
+ | | PERIGOS FÍSICOS | | | 0 | 
+ | | PROTEÇÃO PESSOAL | | | F | 
+Legendas e Abreviaturas:
+ACGIH - American Conference of Governmental Industrial Hygienists;
+BCF - Bioconcentration factor;
+CAS - Chemical Abstracts Service;
+CE50 - Concentração Efetiva 50%;
+CEr50 - Concentração efetiva que resulta na redução de 50% da taxa de crescimento;
+CL50 - Concentração Letal 50%;
+DL50 - Dose Letal 50%;
+ETAm - Estimativa de Toxicidade Aguda da mistura;
+IARC - International Agency for Research on Cancer;
+Kow- Coeficiente de partição octanol/água;
+NIOSH - National Institute for Occupational Safety and Health;
+NOEC - No Observed Effect Concentration;
+NR - Norma Regulamentadora; | | | | | | 
+FISPQ
+Em conformidade com NBR 14725
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Produto: SCORE FLEXI
+Revisão: 05 Data: 26/08/2021 Página: 8/9
+risco subsidiário:
+Classe ou subclasse de NA
+risco principal:
+Grupo de embalagem: III
+Medidas e condições Não Aplicável
+específicas de
+precaução:
+15 - INFORMAÇÕES SOBRE REGULAMENTAÇÕES
+Regulamentações Decreto Federal nº 10.088, de 5 de novembro de 2019.
+específicas para o Portaria nº 229, de 24 de maio de 2011 - Altera a Norma Regulamentadora nº 26.
+produto químico: Norma ABNT-NBR 14725.
+16 - OUTRAS INFORMAÇÕES
+Informações importantes, mas não especificamente descritas nas seções anteriores:
+Esta FISPQ foi elaborada com base nos atuais conhecimentos sobre o manuseio apropriado do produto e sob as condições
+normais de uso, de acordo com a aplicação especificada na embalagem. Qualquer outra forma de utilização do produto que
+envolva a sua combinação com outros materiais, além de formas de uso diversas daquelas indicadas, são de
+responsabilidade do usuário. Adverte-se que o manuseio de qualquer substância química requer o conhecimento prévio de
+seus perigos pelo usuário. No local de trabalho cabe à empresa usuária do produto promover o treinamento de seus
+colaboradores quanto aos possíveis riscos advindos da exposição ao produto químico.
+Elaborada em agosto de 2021.
+Classificação de perigo Saúde: 3*
+do produto químico: Inflamabilidade: 2
+Perigos Físicos: 0
+Proteção Pessoal: F
+Sistema de National Paint & Coatings Association: NPCA
+classificação utilizado:
+HMIS: SAÚDE * 3
+INFLAMABILIDADE 2
+PERIGOS FÍSICOS 0
+PROTEÇÃO PESSOAL F
+Legendas e Abreviaturas:
+ACGIH - American Conference of Governmental Industrial Hygienists;
+BCF - Bioconcentration factor;
+CAS - Chemical Abstracts Service;
+CE50 - Concentração Efetiva 50%;
+CEr50 - Concentração efetiva que resulta na redução de 50% da taxa de crescimento;
+CL50 - Concentração Letal 50%;
+DL50 - Dose Letal 50%;
+ETAm - Estimativa de Toxicidade Aguda da mistura;
+IARC - International Agency for Research on Cancer;
+Kow- Coeficiente de partição octanol/água;
+NIOSH - National Institute for Occupational Safety and Health;
+NOEC - No Observed Effect Concentration;
+NR - Norma Regulamentadora;
+Em conformidade com NBR 14725
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Produto: SCORE FLEXI
+Revisão: 05 Data: 26/08/2021 Página: 9/9
+ONU - Organização das Nações Unidas.
+Referências bibliográficas:
+BRASIL. MINISTÉRIO DO TRABALHO E EMPREGO (MTE). Norma Regulamentadora (NR) n°7: Programa de controle
+médico de saúde ocupacional. Brasília, DF. Jun. 1978.
+BRASIL. MINISTÉRIO DO TRABALHO E EMPREGO (MTE). Norma Regulamentadora (NR) n°15: Atividades e operações
+insalubres. Brasília, DF. Jun. 1978.
+GHS - GLOBALLY HARMONIZED SYSTEM OF CLASSIFICATION AND LABELLING OF CHEMICALS. 8th rev. ed. New
+York: United Nations, 2019.
+ACGIH - AMERICAN CONFERENCE OF GOVERNMENTAL INDUSTRIALS HYGIENISTS. TLVs® and BEIs®: Based on the
+Documentation of the Threshold Limit Values (TLVs®) for Chemical Substances and Physical Agents & Biological Exposure
+Indices (BEIs®). Cincinnati-USA, 2020.
+ECHA - EUROPEAN CHEMICAL AGENCY. Disponível em: < http://echa.europa.eu/web/guest >. Acesso em: ago. 2021.
+GESTIS - SUBSTANCE DATABASE. Disponível em: < http://gestis-
+en.itrust.de/nxt/gateway.dll/gestis_en/000000.xml?f=templates$fn=default.htm$3.0 >. Acesso em: ago. 2021.
+HSDB - HAZARDOUS SUBSTANCES DATA BANK. Disponível em: < http://toxnet.nlm.nih.gov/cgi-bin/sis/htmlgen?HSDB >.
+Acesso em: ago. 2021.
+IARC - INTERNATIONAL AGENCY FOR RESEARCH ON CANCER. Disponível em: <
+http://monographs.iarc.fr/ENG/Classification/index.php >. Acesso em: ago. 2021.
+IPCS - INTERNATIONAL PROGRAMME ON CHEMICAL SAFETY –INCHEM. Disponível em: < http://www.inchem.org/ >.
+Acesso em: ago. 2021.
+IUCLID - INTERNATIONAL UNIFORM CHEMICAL INFORMATION DATABASE. [S.l.]: European chemical Bureau.
+NIOSH - NATIONAL INSTITUTE OF OCCUPATIONAL AND SAFETY. International Chemical Safety Cards. Disponível em: <
+http://www.cdc.gov/niosh/ >. Acesso em: ago. 2021.
+TOXNET - TOXICOLOGY DATA NETWORKING. ChemIDplus Lite. Disponível em: < http://chem.sis.nlm.nih.gov/ >. Acesso
+em: ago. 2021.
+
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+
+FISPQ
+Em conformidade com NBR 14725
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Produto: SCORE FLEXI
+Revisão: 05 Data: 26/08/2021 Página: 9/9
+ONU - Organização das Nações Unidas.
+Referências bibliográficas:
+BRASIL. MINISTÉRIO DO TRABALHO E EMPREGO (MTE). Norma Regulamentadora (NR) n°7: Programa de controle
+médico de saúde ocupacional. Brasília, DF. Jun. 1978.
+BRASIL. MINISTÉRIO DO TRABALHO E EMPREGO (MTE). Norma Regulamentadora (NR) n°15: Atividades e operações
+insalubres. Brasília, DF. Jun. 1978.
+GHS - GLOBALLY HARMONIZED SYSTEM OF CLASSIFICATION AND LABELLING OF CHEMICALS. 8th rev. ed. New
+York: United Nations, 2019.
+ACGIH - AMERICAN CONFERENCE OF GOVERNMENTAL INDUSTRIALS HYGIENISTS. TLVs® and BEIs®: Based on the
+Documentation of the Threshold Limit Values (TLVs®) for Chemical Substances and Physical Agents & Biological Exposure
+Indices (BEIs®). Cincinnati-USA, 2020.
+ECHA - EUROPEAN CHEMICAL AGENCY. Disponível em: < http://echa.europa.eu/web/guest >. Acesso em: ago. 2021.
+GESTIS - SUBSTANCE DATABASE. Disponível em: < http://gestis-
+en.itrust.de/nxt/gateway.dll/gestis_en/000000.xml?f=templates$fn=default.htm$3.0 >. Acesso em: ago. 2021.
+HSDB - HAZARDOUS SUBSTANCES DATA BANK. Disponível em: < http://toxnet.nlm.nih.gov/cgi-bin/sis/htmlgen?HSDB >.
+Acesso em: ago. 2021.
+IARC - INTERNATIONAL AGENCY FOR RESEARCH ON CANCER. Disponível em: <
+http://monographs.iarc.fr/ENG/Classification/index.php >. Acesso em: ago. 2021.
+IPCS - INTERNATIONAL PROGRAMME ON CHEMICAL SAFETY –INCHEM. Disponível em: < http://www.inchem.org/ >.
+Acesso em: ago. 2021.
+IUCLID - INTERNATIONAL UNIFORM CHEMICAL INFORMATION DATABASE. [S.l.]: European chemical Bureau.
+NIOSH - NATIONAL INSTITUTE OF OCCUPATIONAL AND SAFETY. International Chemical Safety Cards. Disponível em: <
+http://www.cdc.gov/niosh/ >. Acesso em: ago. 2021.
+TOXNET - TOXICOLOGY DATA NETWORKING. ChemIDplus Lite. Disponível em: < http://chem.sis.nlm.nih.gov/ >. Acesso
+em: ago. 2021.

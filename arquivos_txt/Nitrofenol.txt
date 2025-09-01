@@ -1,0 +1,773 @@
+SECÇÃO 1: Identificação da substância/mistura e da sociedade/empresa | 
+Nome | Rua | Código postal/ci-
+dade | Telefone | Sítio da internet
+Centro de Informação
+Antivenenos | Rua Almirante Barro-
+so, 36 | 1000-013 Lisboa | 808 250 143 | 
+Código postal/ | ci-
+
+dade
+Rua Almirante | Barro-
+Ficha de Dados de Segurança
+de acordo com o Regulamento (CE) nº 1907/2006 (REACH), alterado por 2015/830/UE
+4-Nitrofenol ≥99 %, para síntese
+número do artigo: 6524 data de elaboração: 24.08.2016
+Versão: 2.0 pt Revisão: 09.04.2019
+Substitui a versão de: 24.08.2016
+Versão: (1)
+SECÇÃO 1: Identificação da substância/mistura e da sociedade/empresa
+1.1 Identificador do produto
+Identificação da substância 4-Nitrofenol
+Número do artigo 6524
+Número de registo (REACH) Não é necessária a indicação dos usos identifica-
+dos, uma vez que a substância não necessita ser
+registada de acordo com o regulamento REACH
+(< 1 t/a)
+Nº de índice 609-015-00-2
+Número CE 202-811-7
+Número CAS 100-02-7
+1.2 Utilizações identificadas relevantes da substância ou mistura e utilizações desaconselhadas
+Utilizações identificadas: produto químico de laboratório
+utilização laboratorial e analítica
+1.3 Identificação do fornecedor da ficha de dados de segurança
+Carl Roth GmbH + Co KG
+Schoemperlenstr. 3-5
+D-76185 Karlsruhe
+Alemanha
+Telefone: +49 (0) 721 - 56 06 0
+Telefax: +49 (0) 721 - 56 06 149
+e-mail: sicherheit@carlroth.de
+Sítio da internet: www.carlroth.de
+Pessoa competente responsável pela ficha de : Department Health, Safety and Environment
+dados de segurança
+e-mail (pessoa competente) : sicherheit@carlroth.de
+1.4 Número de telefone de emergência
+Nome Rua Código postal/ci- Telefone Sítio da internet
+dade
+Centro de Informação Rua Almirante Barro- 1000-013 Lisboa 808 250 143
+Antivenenos so, 36
+1.5 Importador
+Telefone:
+Telefax:
+Sítio da internet:
+Portugal (pt) Página 1 / 15
+SECÇÃO 2: Identificação dos perigos | 
+Classificação de acordo com GHS | | | 
+Secção | Classe de perigo | Classe e categoria de
+perigo | Adver-
+tência de
+perigo
+3.1O | toxicidade aguda (via oral) | (Acute Tox. 3) | H301
+3.1D | toxicidade aguda (via cutânea) | (Acute Tox. 4) | H312
+3.1I | toxicidade aguda (via inalatória) | (Acute Tox. 4) | H332
+3.9 | toxicidade para órgãos-alvo específicos - exposição repetida | (STOT RE 2) | H373
+Adver-
+
+perigo
+
+perigo
+Ficha de Dados de Segurança
+de acordo com o Regulamento (CE) nº 1907/2006 (REACH), alterado por 2015/830/UE
+4-Nitrofenol ≥99 %, para síntese
+número do artigo: 6524
+SECÇÃO 2: Identificação dos perigos
+2.1 Classificação da substância ou mistura
+Classificação em conformidade com o Regulamento (CE) nº 1272/2008 (CRE)
+Classificação de acordo com GHS
+Secção Classe de perigo Classe e categoria de Adver-
+perigo tência de
+perigo
+3.1O toxicidade aguda (via oral) (Acute Tox. 3) H301
+3.1D toxicidade aguda (via cutânea) (Acute Tox. 4) H312
+3.1I toxicidade aguda (via inalatória) (Acute Tox. 4) H332
+3.9 toxicidade para órgãos-alvo específicos - exposição repetida (STOT RE 2) H373
+2.2 Elementos do rótulo
+Rotulagem de acordo com o Regulamento (CE) nº. 1272/2008 (CRE)
+Palavra-sinal Perigo
+Pictogramas
+GHS06, GHS08
+Advertências de perigo
+H301 Tóxico por ingestão
+H312+H332 Nocivo em contacto com a pele ou por inalação
+H373 Pode afectar os órgãos após exposição prolongada ou repetida
+Advertências de prudência
+Recomendações de prudência - prevenção
+P261 Evitar respirar as poeiras/fumos/gases/névoas/vapores/aerossóis.
+P280 Usar luvas de protecção/protecção ocular/protecção facial.
+Recomendações de prudência - resposta
+P301+P310 EM CASO DE INGESTÃO: contacte imediatamente um CENTRO DE INFORMAÇÃO
+ANTIVENENOS/médico/...
+P302+P352 SE ENTRAR EM CONTACTO COM A PELE: lavar abundantemente com água/...
+Rotulagem de pacotes cujo conteúdo não ultrapasse 125 ml
+Palavra-sinal: Perigo
+Símbolo(s)
+H301 Tóxico por ingestão.
+P301+P310 EM CASO DE INGESTÃO: contacte imediatamente um CENTRO DE INFORMAÇÃO ANTIVENENOS/médico.
+Portugal (pt) Página 2 / 15
+SECÇÃO 3: Composição e informações sobre os ingredientes | 
+SECÇÃO 4: Medidas de primeiros socorros | 
+Ficha de Dados de Segurança
+de acordo com o Regulamento (CE) nº 1907/2006 (REACH), alterado por 2015/830/UE
+4-Nitrofenol ≥99 %, para síntese
+número do artigo: 6524
+2.3 Outros perigos
+Não existe informação adicional.
+SECÇÃO 3: Composição e informações sobre os ingredientes
+3.1 Substâncias
+Nome da substância 1-Hidroxi-4-nitrobenzeno
+Nº de índice 609-015-00-2
+Número CE 202-811-7
+Número CAS 100-02-7
+Fórmula molecular C₆H₅NO₃
+Massa molar 139,1 g/
+mol
+SECÇÃO 4: Medidas de primeiros socorros
+4.1 Descrição das medidas de primeiros socorros
+Notas gerais
+Retirar a roupa contaminada.
+Após inalação
+Proporcionar ar fresco. Se surgirem queixas ou em caso de persistência dos sintomas, consultar um
+médico.
+Após contacto com a pele
+Enxaguar a pele com água/tomar uma ducha. Se surgirem queixas ou em caso de persistência dos
+sintomas, consultar um médico.
+Após contacto com os olhos
+Enxaguar cuidadosamente com água durante vários minutos. Se surgirem queixas ou em caso de
+persistência dos sintomas, consultar um médico.
+Após ingestão
+Enxaguar imediatamente a boca e beber muita água. Contacte imediatamente o médico.
+4.2 Sintomas e efeitos mais importantes, tanto agudos como retardados
+Efeitos irritantes, Dificuldade respiratória, Cianose (coloração azul do sangue), Metahemoglobinemia,
+Vertigem, Náuseas, Vómito, Colapso circulatório, Cefaleias, Câimbras, Cansaço
+4.3 Indicações sobre cuidados médicos urgentes e tratamentos especiais necessários
+Deve ser administrado sulfato de sódio como laxante (1 colher de sopa por 1 copo de água).
+Portugal (pt) Página 3 / 15
+SECÇÃO 5: Medidas de combate a incêndios | 
+SECÇÃO 6: Medidas a tomar em caso de fugas acidentais | 
+Ficha de Dados de Segurança
+de acordo com o Regulamento (CE) nº 1907/2006 (REACH), alterado por 2015/830/UE
+4-Nitrofenol ≥99 %, para síntese
+número do artigo: 6524
+SECÇÃO 5: Medidas de combate a incêndios
+5.1 Meios de extinção
+Meios adequados de extinção
+Adequar as medidas de extinção ao local
+água pulverizada, espuma, pó seco para extinção de incêndios, dióxido de carbono (CO2)
+Meios inadequados de extinção
+jacto de água
+5.2 Perigos especiais decorrentes da substância ou mistura
+Combustível.
+Produtos de combustão perigosos
+Em caso de incendio podem formar-se: óxidos de azoto (NOx), monóxido de carbono (CO), dióxido de
+carbono (CO2)
+5.3 Recomendações para o pessoal de combate a incêndios
+Combater o incêndio tomando as precauções normais e a partir de uma distância razoável. Use equi-
+pamento de respiração autónomo.
+SECÇÃO 6: Medidas a tomar em caso de fugas acidentais
+6.1 Precauções individuais, equipamento de proteção e procedimentos de emergência
+Para o pessoal não envolvido na resposta à emergência
+Usar o equipamento de protecção individual exigido. Evitar o contacto com a pele, os olhos e o vestu-
+ário. Não respirar as poeiras.
+6.2 Precauções a nível ambiental
+Manter afastado dos esgotos, das águas superficiais e subterrâneas.
+6.3 Métodos e materiais de confinamento e limpeza
+Recomendações sobre como confinar um derrame
+Limpeza com material absorvente (por exemplo: tecido, lã).
+Recomendações sobre como proceder à limpeza de um derrame
+Remover utilizando meios mecânicos. Controlo de poeiras.
+Outras informações relacionadas com a actuação em caso de derrames ou emissões
+Colocar em recipientes adequados para eliminação. Ventilar a área afectada.
+6.4 Remissão para outras secções
+Produtos de combustão perigosos: ver secção 5. Equipamento de protecção individual: ver secção 8.
+Materiais incompatíveis: ver secção 10. Condições relativas à eliminação: ver secção 13.
+Portugal (pt) Página 4 / 15
+SECÇÃO 7: Manuseamento e armazenagem | 
+SECÇÃO 8: Controlo da exposição/Proteção individual | 
+País | Nome do agente | Nº CAS | Nota-
+ção | Identifica-
+dor | VLE - MP
+[mg/m³] | VLE - CD
+[mg/m³] | Fonte
+PT | partículas, sem outra classifi-
+cação (PNOS) | | i | VLE/NP | 10 | | NP 1796
+PT | partículas, sem outra classifi-
+cação (PNOS) | | r | VLE/NP | 3 | | NP 1796
+Nota | 
+ | 
+ | ção
+VLE - MP
+
+[mg/m³]
+VLE - CD
+
+[mg/m³]
+
+dor
+partículas, sem outra | | classifi-
+ | cação (PNOS) | 
+partículas, sem outra | | classifi-
+ | cação (PNOS) | 
+Ficha de Dados de Segurança
+de acordo com o Regulamento (CE) nº 1907/2006 (REACH), alterado por 2015/830/UE
+4-Nitrofenol ≥99 %, para síntese
+número do artigo: 6524
+SECÇÃO 7: Manuseamento e armazenagem
+7.1 Precauções para um manuseamento seguro
+Provisão de uma ventilação suficiente. Limpar cuidadosamente as superfícies contaminadas. Evitar
+formação de pó.
+• Medidas a adoptar com vista à prevenção de incêndios, de formação de aerossóis e de poeiras
+Eliminação de depósitos de poeiras.
+Recomendações de ordem geral sobre higiene no local de trabalho
+Não comer nem beber durante a utilização. Limpar cuidadosamente a pele imediatamente depois do
+manuseamento do produto.
+7.2 Condições de armazenagem segura, incluindo eventuais incompatibilidades
+Armazenar em local seco. Manter o recipiente bem fechado. Armazenar em local acessível apenas a
+pessoal autorizado.
+Substâncias ou misturas incompatíveis
+Ter em conta as indicações sobre o armazenamento compatível de produtos químicos.
+Ter em conta outros conselhos
+Armazenar em local fechado à chave.
+• Requisitos em termos de ventilação
+Utilizar ventilação geral e local.
+• Concepção especial de compartimentos ou recipientes de armazenagem
+Temperatura de armazenamento recomendada: 15 – 25 °C.
+7.3 Utilização(ões) final(is) específica(s)
+Não existe informação disponível.
+SECÇÃO 8: Controlo da exposição/Proteção individual
+8.1 Parâmetros de controlo
+Valores-limite nacionais
+Valores limite de exposição profissional (limites de exposição no local de trabalho)
+País Nome do agente Nº CAS Nota- Identifica- VLE - MP VLE - CD Fonte
+ção dor [mg/m³] [mg/m³]
+PT partículas, sem outra classifi- i VLE/NP 10 NP 1796
+cação (PNOS)
+PT partículas, sem outra classifi- r VLE/NP 3 NP 1796
+cação (PNOS)
+Notação
+i Fracção inalável
+r Fracção respirável
+VLE - CD Limite de exposição de curta duração: valor-limite acima do qual não devem ocorrer exposições e referente a um
+período de 15 minutos (excepto quando houver especificação em contrário)
+VLE - MP Média ponderada no tempo (limite de exposição de longa duração): medido ou calculado em relação a uma mé-
+dia ponderada no tempo para um período de referência de oito horas (excepto quando houver especificação em
+contrário)
+Portugal (pt) Página 5 / 15
+SECÇÃO 9: Propriedades físico-químicas | 
+Ficha de Dados de Segurança
+de acordo com o Regulamento (CE) nº 1907/2006 (REACH), alterado por 2015/830/UE
+4-Nitrofenol ≥99 %, para síntese
+número do artigo: 6524
+8.2 Controlo da exposição
+Medidas de protecção individual (equipamentos de protecção individual)
+Protecção ocular/facial
+Usar óculos de segurança com protecção lateral.
+Protecção da pele
+• protecção das mãos
+Usar luvas adequadas. As luvas de protecção química adequadas, se testadas de acordo com a NE
+374. Para fins específicos, é recomendado verificar a resistência a produtos químicos das luvas de
+protecção mencionadas acima, bem como o fornecedor das luvas.
+• tipo de material
+NBR (Borracha de nitrilo)
+• espessura do material
+>0,11 mm
+• duração do material das luvas
+> 480 minutos (permeação: nível 6)
+• outras medidas de protecção
+Fazer períodos de recuperação para a regeneração da pele. É recomendável a protecção preventiva
+da pele (cremes/pomadas de protecção).
+Protecção respiratória
+É necessária protecção respiratória quando: Desenvolvimento de poeiras. Dispositivo filtrador de par-
+tículas (NE 143). P3 (filtra pelo menos 99,95% das partículas em suspensão código de cores: Branco).
+Controlo da exposição ambiental
+Manter afastado dos esgotos, das águas superficiais e subterrâneas.
+SECÇÃO 9: Propriedades físico-químicas
+9.1 Informações sobre propriedades físicas e químicas de base
+Aspecto
+Estado físico sólido (pó cristalino)
+Cor esbranquiçado - amarelo acastanhado
+Odor característico
+Limiar olfactivo Sem dados disponíveis
+Outros parâmetros físico-químicos
+pH (valor) 4,4 (água: 5 g/, 25 °C)
+l
+Portugal (pt) Página 6 / 15
+SECÇÃO 10: Estabilidade e reatividade | 
+Ficha de Dados de Segurança
+de acordo com o Regulamento (CE) nº 1907/2006 (REACH), alterado por 2015/830/UE
+4-Nitrofenol ≥99 %, para síntese
+número do artigo: 6524
+Ponto de fusão/ponto de congelação 112 – 115 °C
+Ponto de ebulição inicial e intervalo de ebulição 279 °C a 1.013 hPa (decomposição lenta)
+Ponto de inflamação 169 °C (vaso fechado)
+Taxa de evaporação sem dados disponíveis
+Inflamabilidade (sólido, gás) Estas informações não estão disponíveis
+Limites de explosividade
+• limite inferior de explosão (LEL) esta informação não está disponível
+• limite superior de explosão (UEL) esta informação não está disponível
+Limites de explosão de nuvens de poeiras estas informações não estão disponíveis
+Pressão de vapor Esta informação não está disponível.
+Densidade 1,48 g/ a 20 °C
+cm³
+Densidade de vapor Esta informação não está disponível.
+Densidade aparente ~ 550 – 760 kg/
+m³
+Densidade relativa Não está disponível informação relativa a esta
+propriedade.
+Solubilidade(s)
+Solubilidade em água 15 g/ a 25 °C
+l
+Coeficiente de partição
+n-octanol/água (log KOW) 1,95 (OECD 117)
+Temperatura de auto-ignição 490 °C
+Temperatura de decomposição >280 °C
+Viscosidade não relevante (matéria sólida)
+Propriedades explosivas não deve ser classificada como explosiva
+Propriedades comburentes nenhum
+9.2 Outras informações
+Classe de temperatura (UE, de acordo com ATEX) T1 (Temperatura máxima de superfície admissí-
+vel do eqipamento: 450 °C)
+SECÇÃO 10: Estabilidade e reatividade
+10.1 Reactividade
+O produto, na forma disponibilizada, não tem capacidade de explosão de poeiras; contudo, o enri-
+quecimento de poeiras finas conduz ao perigo de explosão de poeiras.
+10.2 Estabilidade química
+O material é estável em condições ambientais normais e nas condições previsíveis de temperatura e
+pressão durante a armazenagem e o manuseamento.
+10.3 Possibilidade de reações perigosas
+Reage violentamente com: Hidróxido alcalino (base cáustica), Agentes redutores, Ácido sulfúrico,
+=> Propriedades explosivas, Perigoso/reacções perigosas com: Alcalis (lixívias)
+Portugal (pt) Página 7 / 15
+SECÇÃO 11: Informação toxicológica | 
+Via de exposição | Parâmetro de peri-
+go | Valor | Espécies | Fonte
+oral | LD50 | 202 mg/kg | rato | TOXNET
+cutânea | LD50 | 1.024 mg/kg | rato | TOXNET
+Parâmetro de | peri-
+
+go
+1.024 | mg
+Ficha de Dados de Segurança
+de acordo com o Regulamento (CE) nº 1907/2006 (REACH), alterado por 2015/830/UE
+4-Nitrofenol ≥99 %, para síntese
+número do artigo: 6524
+10.4 Condições a evitar
+Manter afastado do calor. Decomposição a temperaturas a partir de: >280 °C.
+10.5 Materiais incompatíveis
+Não existe informação adicional.
+10.6 Produtos de decomposição perigosos
+Produtos de combustão perigosos: ver secção 5.
+SECÇÃO 11: Informação toxicológica
+11.1 Informações sobre os efeitos toxicológicos
+Toxicidade aguda
+Via de exposição Parâmetro de peri- Valor Espécies Fonte
+go
+oral LD50 202 mg/kg rato TOXNET
+cutânea LD50 1.024 mg/kg rato TOXNET
+Corrosão/irritação cutânea
+Não deve ser classificado como corrosivo/irritante cutâneo.
+Lesões oculares graves/irritação ocular
+Não deve ser classificado como susceptível de provocar lesões oculares graves ou irritante ocular.
+Sensibilização respiratória ou cutânea
+Não deve ser classificado como sensibilizante respiratório ou cutâneo.
+Resumo da avaliação das propriedades CMR
+Não deve ser classificado como mutagénico para as células germinativas, cancerígeno ou tóxico re-
+produtivo
+• Toxicidade para órgãos-alvo específicos - exposição única
+Não deve ser classificado como tóxico para órgãos-alvo específicos (exposição única).
+• Toxicidade para órgãos-alvo específicos - exposição repetida
+Pode afectar os órgãos após exposição prolongada ou repetida.
+Perigo de aspiração
+Não deve ser classificado como apresentando perigo de aspiração.
+Sintomas relacionados com as características físicas, químicas e toxicológicas
+• Em caso de ingestão
+diarreia, vómito, náuseas
+• Se entrar em contacto com os olhos
+levemente irritante, mas não relevante para classificação
+• Em caso de inalação
+tosse, dificuldades respiratórias, efeitos irritantes
+• Se entrar em contacto com a pele
+efeitos irritantes
+Portugal (pt) Página 8 / 15
+SECÇÃO 12: Informação ecológica | 
+Parâmetro de perigo | Valor | Espécies | Fonte | Tempo de
+exposição
+LC50 | 10,4 mg/l | peixe zebra (Danio rerio) | | 96 h
+Tempo de
+
+exposição
+10,4 | mg
+Processo | Taxa de degradação | Tempo
+biótico/abiótico | 97 % | 14 d
+Nome da substância | Nº CAS | Categoria com-
+binada | Categoria da sa-
+úde humana | Categoria da vi-
+da silvestre
+4-Nitrofenol | 100-02-7 | CAT2 | CAT2 | CAT3b
+Categoria | | com-
+ | | 
+ | binada | 
+Categoria da | | sa-
+ | | 
+ | úde humana | 
+Categoria da | | vi
+ | | 
+ | da silvestre | 
+Ficha de Dados de Segurança
+de acordo com o Regulamento (CE) nº 1907/2006 (REACH), alterado por 2015/830/UE
+4-Nitrofenol ≥99 %, para síntese
+número do artigo: 6524
+Outras informações
+Outros efeitos adversos: Lesões do fígado e dos rins, Colapso circulatório, Arritmias cardíacas, Cefa-
+leias, Vertigem, Câimbras, Cianose (coloração azul do sangue), Metahemoglobinemia
+SECÇÃO 12: Informação ecológica
+12.1 Toxicidade
+de acordo com 1272/2008/CE: Não deve ser classificado como perigoso para o ambiente aquático.
+Toxicidade em meio aquático (aguda)
+Parâmetro de perigo Valor Espécies Fonte Tempo de
+exposição
+LC50 10,4 mg/l peixe zebra (Danio rerio) 96 h
+12.2 Processo de degradabilidade
+A substância é facilmente biodegradável.
+Carência Teórica de Oxigénio com nitrificação: 1,553 mg/
+mg
+Carência Teórica de Oxigénio: 1,15 mg/
+mg
+Dióxido de Carbono Teórico: 1,898 mg/
+mg
+Processo Taxa de degradação Tempo
+biótico/abiótico 97 % 14 d
+12.3 Potencial de bioacumulação
+Não se acumula significativamente nos organismos.
+n-octanol/água (log KOW) 1,95
+12.4 Mobilidade no solo
+Não estão disponíveis dados.
+12.5 Resultados da avaliação PBT e mPmB
+Não estão disponíveis dados.
+12.6 Outros efeitos adversos
+Não estão disponíveis dados.
+Potencial de desregulação endócrina
+Nome da substância Nº CAS Categoria com- Categoria da sa- Categoria da vi-
+binada úde humana da silvestre
+4-Nitrofenol 100-02-7 CAT2 CAT2 CAT3b
+Legenda
+CAT2 Categoria 2 - pelo menos alguma evidência in vitro de actividade biologica relacionada com desregulação do siste-
+ma endócrino
+CAT3b Categoria 3b - sem evidência de desregulação do sistema endócrino ou ausência de dados disponíveis
+Portugal (pt) Página 9 / 15
+SECÇÃO 13: Considerações relativas à eliminação | 
+SECÇÃO 14: Informações relativas ao transporte | 
+Ficha de Dados de Segurança
+de acordo com o Regulamento (CE) nº 1907/2006 (REACH), alterado por 2015/830/UE
+4-Nitrofenol ≥99 %, para síntese
+número do artigo: 6524
+SECÇÃO 13: Considerações relativas à eliminação
+13.1 Métodos de tratamento de resíduos
+Este produto e o seu recipiente devem ser eliminados como resíduos perigosos. Eliminar o conteúdo/
+recipiente conformidade com os regulamentos locais/regionais/nacionais/internacionais.
+Informações relevantes relativas à descarga através das águas residuais
+Não deitar os resíduos no esgoto.
+Tratamento de resíduos de contentores/embalagens
+É um resíduo perigoso; só podem ser utilizadas embalagens que tenham sido aprovadas (por exem-
+plo, de acordo com ADR).
+Informações relevantes relativas à descarga através das águas residuais
+Não deitar os resíduos no esgoto.
+Tratamento de resíduos de contentores/embalagens
+É um resíduo perigoso; só podem ser utilizadas embalagens que tenham sido aprovadas (por exem-
+plo, de acordo com ADR).
+13.2 Disposições pertinentes em matéria de resíduos
+A atribuição de códigos de resíduos/classificação de resíduos específicos do ramo e do processo deve
+ocorrer de acordo com o regulamento para a classificação de resíduos segundo o CER (Catálogo Eu-
+ropeu de Resíduos).
+13.3 Observações
+Deve fazer-se a triagem dos resíduos em categorias que possam ser tratadas separadamente pelas
+instalações, locais ou nacionais, de tratamento de resíduos. Tenha em conta a legislação nacional ou
+regional pertinente em vigor.
+SECÇÃO 14: Informações relativas ao transporte
+14.1 Número ONU 1663
+14.2 Designação oficial de transporte da ONU NITROFENÓIS
+Ingredientes perigosos 4-Nitrofenol
+14.3 Classes de perigo para efeitos de transporte
+Classe 6.1 (matérias tóxicas)
+14.4 Grupo de embalagem III (matéria levemente perigosa)
+14.5 Perigos para o ambiente nenhum (não é perigoso para o ambiente de acordo com os
+regulamentos relativos a mercadorias perigosas)
+14.6 Precauções especiais para o utilizador
+As disposições relativas às mercadorias perigosas (ADR) também devem ser cumpridos no interior
+das instalações.
+14.7 Transporte a granel em conformidade com o anexo II da Convenção MARPOL e o Código IBC
+A carga não será transportada como carga a granel.
+Portugal (pt) Página 10 / 15
+Ficha de Dados de Segurança
+de acordo com o Regulamento (CE) nº 1907/2006 (REACH), alterado por 2015/830/UE
+4-Nitrofenol ≥99 %, para síntese
+número do artigo: 6524
+14.8 Informações para cada um dos regulamentos-tipo da ONU
+• Transporte de mercadorias perigosas por estrada, por caminho-de-ferro ou por via navegável
+(ADR/RID/ADN)
+Número ONU 1663
+Designação oficial de transporte NITROFENÓIS
+Menções no documento de transporte UN1663, NITROFENÓIS, 6.1, III, (E)
+Classe 6.1
+Código de classificação T2
+Grupo de embalagem III
+Rótulo(s) de perigo 6.1
+Disposições especiais (DE) 279, 802(ADN)
+Quantidades exceptuadas (QE) E1
+Quantidades limitadas (QL) 5 kg
+Categoria de transporte (CT) 2
+Código de restrição em túneis (CRT) E
+Número de identificação de perigo 60
+• Código Marítimo Internacional de Mercadorias Perigosas (IMDG)
+Número ONU 1663
+Designação oficial de transporte NITROPHENOLS
+Menções a inscrever na declaração do expedidor UN1663, NITROFENÓIS, 6.1, III
+Classe 6.1
+Poluente marinho -
+Grupo de embalagem III
+Rótulo(s) de perigo 6.1
+Disposições especiais (DE) 279
+Quantidades exceptuadas (QE) E1
+Quantidades limitadas (QL) 5 kg
+EmS F-A, S-A
+Categoria de acondicionamento A
+• Organização da Aviação Civil Internacional (OACI-IATA/DGR)
+Número ONU 1663
+Portugal (pt) Página 11 / 15
+SECÇÃO 15: Informação sobre regulamentação | 
+2012/18/UE (Seveso III) | | | 
+Nº | Substância perigosa/categorias de perigo | Quantidades-limiar (em toneladas) pa-
+ra a aplicação de requisitos de nível in-
+ferior e superior | Notas
+ | não atribuído | | 
+Quantidades-limiar (em toneladas) | pa-
+ | 
+ra a aplicação de requisitos de nível | in-
+
+ferior e superior
+Ficha de Dados de Segurança
+de acordo com o Regulamento (CE) nº 1907/2006 (REACH), alterado por 2015/830/UE
+4-Nitrofenol ≥99 %, para síntese
+número do artigo: 6524
+Designação oficial de transporte Nitrofenóis
+Menções a inscrever na declaração do expedidor UN1663, Nitrofenóis, 6.1, III
+Classe 6.1
+Grupo de embalagem III
+Rótulo(s) de perigo 6.1
+Disposições especiais (DE) A113
+Quantidades exceptuadas (QE) E1
+Quantidades limitadas (QL) 10 kg
+SECÇÃO 15: Informação sobre regulamentação
+15.1 Regulamentação/legislação específica para a substância ou mistura em matéria de saúde,
+segurança e ambiente
+Disposições pertinentes da União Europeia (UE)
+• Regulamento 649/2012/UE relativo à exportação e importação de produtos químicos perigosos
+(PIC)
+Não referido.
+• Regulamento 1005/2009/CE relativo às substâncias que empobrecem a camada de ozono
+Não referido.
+• Regulamento 850/2004/CE relativo a poluentes orgânicos persistentes (POP)
+Não referido.
+• Restrições de acordo com REACH, Apêndice XVII
+não referido
+• Restrições de acordo com REACH, Título VIII
+Nenhum.
+• Lista das substâncias sujeitas a autorização (REACH, Apêndice XIV)/SVHC - lista de substâncias
+candidatas
+não referido
+• Directiva Seveso
+2012/18/UE (Seveso III)
+Nº Substância perigosa/categorias de perigo Quantidades-limiar (em toneladas) pa- Notas
+ra a aplicação de requisitos de nível in-
+ferior e superior
+não atribuído
+Directiva 2011/65/UE relativa à restrição do uso de determinadas substâncias perigosas em
+equipamentos eléctricos e electrónicos (RoHS) - Anexo II
+não referido
+Portugal (pt) Página 12 / 15
+País | Inventários nacionais | Estatuto
+AU | AICS | a substância está listada
+CA | DSL | a substância está listada
+CN | IECSC | a substância está listada
+EU | ECSI | a substância está listada
+EU | REACH Reg. | a substância está listada
+JP | CSCL-ENCS | a substância está listada
+KR | KECI | a substância está listada
+MX | INSQ | a substância está listada
+NZ | NZIoC | a substância está listada
+PH | PICCS | a substância está listada
+TW | TCSI | a substância está listada
+US | TSCA | a substância está listada
+Ficha de Dados de Segurança
+de acordo com o Regulamento (CE) nº 1907/2006 (REACH), alterado por 2015/830/UE
+4-Nitrofenol ≥99 %, para síntese
+número do artigo: 6524
+Regulamento 166/2006/CE relativo à criação do Registo Europeu das Emissões e Transferências
+de Poluentes (PRTR)
+não referido
+Directiva 2000/60/CE que estabelece um quadro de acção comunitária no domínio da política da
+água
+não referido
+Regulamento 98/2013/UE sobre a comercialização e utilização de precursores de explosivos
+não referido
+Regulamento 111/2005/CE que estabelece regras de controlo do comércio de precursores de
+drogas entre a Comunidade e países terceiros
+não referido
+Inventários nacionais
+A substância está listada nos seguintes inventários nacionais:
+País Inventários nacionais Estatuto
+AU AICS a substância está listada
+CA DSL a substância está listada
+CN IECSC a substância está listada
+EU ECSI a substância está listada
+EU REACH Reg. a substância está listada
+JP CSCL-ENCS a substância está listada
+KR KECI a substância está listada
+MX INSQ a substância está listada
+NZ NZIoC a substância está listada
+PH PICCS a substância está listada
+TW TCSI a substância está listada
+US TSCA a substância está listada
+Legenda
+AICS Australian Inventory of Chemical Substances
+CSCL-ENCS List of Existing and New Chemical Substances (CSCL-ENCS)
+DSL Domestic Substances List (DSL)
+ECSI Inventário CE de substâncias (EINECS, ELINCS, NLP)
+IECSC Inventory of Existing Chemical Substances Produced or Imported in China
+INSQ National Inventory of Chemical Substances
+KECI Korea Existing Chemicals Inventory
+NZIoC New Zealand Inventory of Chemicals
+PICCS Philippine Inventory of Chemicals and Chemical Substances
+REACH Reg. REACH substâncias registadas
+TCSI Taiwan Chemical Substance Inventory
+TSCA Toxic Substance Control Act
+15.2 Avaliação da segurança química
+Não se efectuou nenhuma avaliação da segurança química para esta substância.
+Portugal (pt) Página 13 / 15
+SECÇÃO 16: Outras informações | 
+Abrev. | Descrição das abreviaturas utilizadas
+ADN | Accord européen relatif au transport international des marchandises dangereuses par voies de navigation
+intérieures (Acordo Europeu relativo ao transporte internacional de mercadorias perigosas por via navegá-
+vel interior)
+ADR | Accord européen relatif au transport international des marchandises dangereuses par voies de navigation
+intérieures (Acordo Europeu relativo ao transporte internacional de mercadorias perigosas por estrada)
+CAS | Chemical Abstracts Service (serviço que mantém a lista mais completa de substâncias químicas)
+CMR | cancerígeno, mutagénico ou tóxico para a reprodução
+CRE | Regulamento (CE) nº 1272/2008 relativo à classificação, rotulagem e embalagem de substâncias e misturas
+DGR | regulamentação referente a Mercadorias Perigosas (ver IATA/DGR)
+EINECS | European Inventory of Existing Commercial Chemical Substances (inventário europeu das substâncias quí-
+micas existentes no mercado)
+ELINCS | European List of Notified Chemical Substances (lista europeia das substâncias químicas notificadas)
+EmS | horário de emergência
+GHS | "Globally Harmonized System of Classification and Labelling of Chemicals" "Sistema Mundial Harmonizado
+de Classificação e Rotulagem de Produtos Químicos" desenvolvido pelas Nações Unidas
+IATA | Associação Internacional do Transporte Aéreo
+IATA/DGR | Dangerous Goods Regulations (DGR) for the air transport (IATA) (regulamentação referente a Mercadorias
+Perigosas para o transporte aéreo)
+IMDG | International Maritime Dangerous Goods (Código Marítimo Internacional de Mercadorias Perigosas)
+MARPOL | Convenção Internacional para a Prevenção da Poluição por Navios (abrev. de "poluente marinho")
+mPmB | muito persistente e muito bioacumulável
+NLP | ex-polímero
+NP 1796 | Projecto de Norma Portuguesa: Segurança e Saúde do Trabalho Valores limite de exposição profissional a
+agentes químicos
+nº de índice | o número de índice é o código de identificação atribuído à substância na parte 3 do anexo VI do Regula-
+mento (CE) nº 1272/2008
+OACI | Organização da Aviação Civil Internacional
+PBT | Persistente, Bioacumulável e Tóxico
+REACH | Registration, Evaluation, Authorisation and Restriction of Chemicals (Registo, Avaliação, Autorização e Res-
+trição de Substâncias Químicas)
+RID | Règlement concernant le transport International ferroviaire des marchandises Dangereuses (Acordo Euro-
+peu relativo ao transporte internacional ferroviário de mercadorias perigosas)
+SVHC | Substance of Very High Concern (Substância que Suscita Elevada Preocupação)
+VLE - CD | limite de exposição de curta duração
+VLE - MP | média ponderada
+Accord européen relatif au transport international des marchandises dangereuses par voies de navigation | 
+intérieures (Acordo Europeu relativo ao transporte internacional de mercadorias perigosas por via | navegá
+vel interior) | 
+Accord européen relatif au transport international des marchandises dangereuses par voies de navigation
+intérieures (Acordo Europeu relativo ao transporte internacional de mercadorias perigosas por estrada)
+European Inventory of Existing Commercial Chemical Substances (inventário europeu das substâncias | quí-
+micas existentes no mercado | 
+"Globally Harmonized System of Classification and Labelling of Chemicals" "Sistema Mundial Harmonizado
+de Classificação e Rotulagem de Produtos Químicos" desenvolvido pelas Nações Unidas
+Dangerous Goods Regulations (DGR) for the air transport (IATA) (regulamentação referente a Mercadorias
+Perigosas para o transporte aéreo)
+Projecto de Norma Portuguesa: Segurança e Saúde do Trabalho Valores limite de exposição profissional a
+agentes químicos
+o número de índice é o código de identificação atribuído à substância na parte 3 do anexo VI do | Regula-
+mento (CE) nº 1272/2008 | 
+Registration, Evaluation, Authorisation and Restriction of Chemicals (Registo, Avaliação, Autorização e | Res-
+trição de Substâncias Químicas) | 
+Règlement concernant le transport International ferroviaire des marchandises Dangereuses (Acordo | Euro-
+peu relativo ao transporte internacional ferroviário de mercadorias perigosas) | 
+Ficha de Dados de Segurança
+de acordo com o Regulamento (CE) nº 1907/2006 (REACH), alterado por 2015/830/UE
+4-Nitrofenol ≥99 %, para síntese
+número do artigo: 6524
+SECÇÃO 16: Outras informações
+Abreviaturas e acrónimos
+Abrev. Descrição das abreviaturas utilizadas
+ADN Accord européen relatif au transport international des marchandises dangereuses par voies de navigation
+intérieures (Acordo Europeu relativo ao transporte internacional de mercadorias perigosas por via navegá-
+vel interior)
+ADR Accord européen relatif au transport international des marchandises dangereuses par voies de navigation
+intérieures (Acordo Europeu relativo ao transporte internacional de mercadorias perigosas por estrada)
+CAS Chemical Abstracts Service (serviço que mantém a lista mais completa de substâncias químicas)
+CMR cancerígeno, mutagénico ou tóxico para a reprodução
+CRE Regulamento (CE) nº 1272/2008 relativo à classificação, rotulagem e embalagem de substâncias e misturas
+DGR regulamentação referente a Mercadorias Perigosas (ver IATA/DGR)
+EINECS European Inventory of Existing Commercial Chemical Substances (inventário europeu das substâncias quí-
+micas existentes no mercado)
+ELINCS European List of Notified Chemical Substances (lista europeia das substâncias químicas notificadas)
+EmS horário de emergência
+GHS "Globally Harmonized System of Classification and Labelling of Chemicals" "Sistema Mundial Harmonizado
+de Classificação e Rotulagem de Produtos Químicos" desenvolvido pelas Nações Unidas
+IATA Associação Internacional do Transporte Aéreo
+IATA/DGR Dangerous Goods Regulations (DGR) for the air transport (IATA) (regulamentação referente a Mercadorias
+Perigosas para o transporte aéreo)
+IMDG International Maritime Dangerous Goods (Código Marítimo Internacional de Mercadorias Perigosas)
+MARPOL Convenção Internacional para a Prevenção da Poluição por Navios (abrev. de "poluente marinho")
+mPmB muito persistente e muito bioacumulável
+NLP ex-polímero
+NP 1796 Projecto de Norma Portuguesa: Segurança e Saúde do Trabalho Valores limite de exposição profissional a
+agentes químicos
+nº de índice o número de índice é o código de identificação atribuído à substância na parte 3 do anexo VI do Regula-
+mento (CE) nº 1272/2008
+OACI Organização da Aviação Civil Internacional
+PBT Persistente, Bioacumulável e Tóxico
+REACH Registration, Evaluation, Authorisation and Restriction of Chemicals (Registo, Avaliação, Autorização e Res-
+trição de Substâncias Químicas)
+RID Règlement concernant le transport International ferroviaire des marchandises Dangereuses (Acordo Euro-
+peu relativo ao transporte internacional ferroviário de mercadorias perigosas)
+SVHC Substance of Very High Concern (Substância que Suscita Elevada Preocupação)
+VLE - CD limite de exposição de curta duração
+VLE - MP média ponderada
+Referências bibliográficas importantes e fontes dos dados utilizados
+- Regulamento (CE) nº 1907/2006 (REACH), alterado por 2015/830/UE
+- Regulamento (CE) nº 1272/2008 (CRE, GHS UE)
+- Dangerous Goods Regulations (DGR) for the air transport (IATA) (regulamentação referente a Mer-
+cadorias Perigosas para o transporte aéreo)
+- Código Marítimo Internacional de Mercadorias Perigosas (IMDG)
+Portugal (pt) Página 14 / 15
+Código | Texto
+H301 | tóxico por ingestão
+H312 | nocivo em contacto com a pele
+H332 | nocivo por inalação
+H373 | pode afectar os órgãos após exposição prolongada ou repetida
+Ficha de Dados de Segurança
+de acordo com o Regulamento (CE) nº 1907/2006 (REACH), alterado por 2015/830/UE
+4-Nitrofenol ≥99 %, para síntese
+número do artigo: 6524
+Frases relevantes (código e texto integral, como indicado no capítulo 2 e 3)
+Código Texto
+H301 tóxico por ingestão
+H312 nocivo em contacto com a pele
+H332 nocivo por inalação
+H373 pode afectar os órgãos após exposição prolongada ou repetida
+Declarações de exoneração de responsabilidade
+A informação contante desta ficha de segurança baseia-se no conhecimento actual. As informações
+devem ser um ponto de referência para o manuseamento seguro do produto mencionado neste fo-
+lheto informativo sobre segurança, relativamente ao seu armazenamento, processamento, transpor-
+te e eliminação. As indicações não são aplicáveis a outros produtos. Em caso de o produto ser mistu-
+rado ou preparado com outros materiais, as indicações constantes neste folheto informativo sobre
+segurança não são automaticamente transferíveis para o novo material.
+Portugal (pt) Página 15 / 15

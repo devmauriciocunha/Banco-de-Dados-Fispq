@@ -1,0 +1,927 @@
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTO QUÍMICO | 
+1- IDENTIFICAÇÃO | | | 
+Nome do produto (nome | | Cimento Asfáltico de Petróleo – CAP 50/70 | 
+comercial): | | | 
+Nome da empresa: | | | Refinaria de Petróleo Riograndense S.A. | 
+Telefone para contato: | | | (53) 3233-8144 | 
+Fax: | | | (53) 3233-8036 | 
+2 - IDENTIFICAÇÃO DE PERIGOS | | | 
+Classificação de perigo do
+produto químico: | | Corrosão/Irritação à pele – Categoria 2 | 
+ | | Lesões oculares/irritação ocular – Categoria 2B | 
+ | | Toxicidade para órgãos-alvo específicos – Exposição única – | 
+ | | Categoria 3 | 
+ | | Toxicidade para órgãos-alvo específicos - Exposição repetida – | 
+ | | Categoria 2 | 
+Classificação de perigo do
+produto químico:
+Outros perigos que não | | O produto não apresenta outros perigos.
+resultam em uma | | 
+classificação: | | 
+FISPQ
+Em conformidade com NBR 14725:2014
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTO QUÍMICO
+Produto: Cimento Asfáltico de Petróleo – CAP 50/70
+Revisão: 01 Data: 21/09/2020 Página: 1 /16
+1- IDENTIFICAÇÃO
+Nome do produto (nome
+Cimento Asfáltico de Petróleo – CAP 50/70
+comercial):
+Uso recomendado: Matéria prima para pavimentação.
+Nome da empresa: Refinaria de Petróleo Riograndense S.A.
+Rua Eng. Heitor Amaro Barcellos, 551 – CEP 96202-900 - Rio
+Endereço:
+Grande/RS
+Telefone para contato: (53) 3233-8144
+Telefone para emergências: 0800 110 82 70 Pró-Química - ABIQUIM - (24 horas)
+Fax: (53) 3233-8036
+Email: rpr@refinariariograndense.com.br
+2 - IDENTIFICAÇÃO DE PERIGOS
+Corrosão/Irritação à pele – Categoria 2
+Lesões oculares/irritação ocular – Categoria 2B
+Classificação de perigo do Toxicidade para órgãos-alvo específicos – Exposição única –
+produto químico:
+Categoria 3
+Toxicidade para órgãos-alvo específicos - Exposição repetida –
+Categoria 2
+Norma ABNT-NBR 14725-2.
+Sistema de classificação
+Sistema Globalmente Harmonizado para a Classificação e Rotulagem
+utilizado:
+de Produtos Químicos, ONU.
+Outros perigos que não
+resultam em uma O produto não apresenta outros perigos.
+classificação:
+Elementos apropriados da rotulagem
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTO QUÍMICO | 
+Pictogramas: | | 
+Frases de perigo: | H315 Provoca irritação à pele. | 
+ | H320 Provoca irritação ocular. | 
+ | H336 Pode provocar sonolência ou vertigem. | 
+ | H373 Pode provocar danos aos órgãos do trato respiratório por | 
+ | exposição repetida ou prolongada. | 
+3- COMPOSIÇÃO E INFORMAÇÕES SOBRE OS INGREDIENTES | 
+SUBSTÂNCIA DE PETRÓLEO | 
+Sinônimo: | Betume; asfalto. | 
+Impurezas que contribuam
+para o perigo: | Uma combinação muito complexa de compostos de alto peso
+molecular orgânicos contendo uma proporção relativamente elevada de | 
+FISPQ
+Em conformidade com NBR 14725:2014
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTO QUÍMICO
+Produto: Cimento Asfáltico de Petróleo – CAP 50/70
+Revisão: 01 Data: 21/09/2020 Página: 2 /16
+Pictogramas:
+Palavra de advertência: PERIGO
+H315 Provoca irritação à pele.
+H320 Provoca irritação ocular.
+Frases de perigo:
+H336 Pode provocar sonolência ou vertigem.
+H373 Pode provocar danos aos órgãos do trato respiratório por
+exposição repetida ou prolongada.
+P210 Mantenha afastado do calor, faísca, chama aberta e superfícies
+quentes. — Não fume.
+P240 Aterre o vaso contentor e o receptor do produto durante
+transferências.
+Frases de precaução:
+P260 Não inale as poeiras.
+P264 Lave as mãos cuidadosamente após o manuseio.
+P280 Use luvas de proteção, roupa de proteção, proteção ocular e
+proteção facial.
+3- COMPOSIÇÃO E INFORMAÇÕES SOBRE OS INGREDIENTES
+SUBSTÂNCIA DE PETRÓLEO
+Nome químico comum ou
+Hidrocarbonetos
+nome técnico:
+Sinônimo: Betume; asfalto.
+Número de registro CAS: 64741-58-8
+Impurezas que contribuam Uma combinação muito complexa de compostos de alto peso
+para o perigo: molecular orgânicos contendo uma proporção relativamente elevada de
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTO QUÍMICO | 
+ | | hidrocarbonetos com números de átomos de carbono maior do que | | 
+ | | C25 com elevado carbono-para-hidrogénio rácios. Ele também contém | | 
+ | | pequenas quantidades de vários metais, tais como níquel, ferro ou | | 
+ | | vanádio. Ela é obtida como o resíduo não volátil a partir da destilação | | 
+ | | de petróleo bruto ou por separação como o refinado de um óleo residual | | 
+ | | num processo de desasfaltagem ou descarbonização . | | 
+ | | | | 
+ | | Componente | Concentração | CAS
+ | | | | 
+ | | | (%) | 
+ | | | | 
+ | | | | 
+ | | Compostos | | 
+ | | | | 
+ | | | * | NA
+ | | sulfurados | | 
+ | | | | 
+ | | | | 
+ | | | | 
+ | | Compostos | | 
+ | | | | 
+ | | | ** | NA
+ | | nitrogenados | | 
+ | | | | 
+ | | | | 
+ | | | | 
+ | | Compostos | | 
+ | | | | 
+ | | oxigenados | *** | NA
+ | | | | 
+ | | | | 
+ | | | | 
+ | | Metais (V, Ni, Fe) | | 
+ | | | max 0,2 (p/p) | NA
+ | | | | 
+ | | | | 
+ | | * Concentração de enxofre total: max 5,0% (p/p) | | 
+ | | ** Concentração de nitrogênio total: max 1,0% (p/p) | | 
+ | | *** Concentração de oxigênio total: max 1,0% (p/p) | | 
+ | | | | 
+FISPQ
+Em conformidade com NBR 14725:2014
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTO QUÍMICO
+Produto: Cimento Asfáltico de Petróleo – CAP 50/70
+Revisão: 01 Data: 21/09/2020 Página: 3 /16
+hidrocarbonetos com números de átomos de carbono maior do que
+C25 com elevado carbono-para-hidrogénio rácios. Ele também contém
+pequenas quantidades de vários metais, tais como níquel, ferro ou
+vanádio. Ela é obtida como o resíduo não volátil a partir da destilação
+de petróleo bruto ou por separação como o refinado de um óleo residual
+num processo de desasfaltagem ou descarbonização .
+Componente Concentração CAS
+(%)
+Compostos
+* NA
+sulfurados
+Compostos
+** NA
+nitrogenados
+Compostos
+*** NA
+oxigenados
+Metais (V, Ni, Fe)
+max 0,2 (p/p) NA
+* Concentração de enxofre total: max 5,0% (p/p)
+** Concentração de nitrogênio total: max 1,0% (p/p)
+*** Concentração de oxigênio total: max 1,0% (p/p)
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTO QUÍMICO | 
+Inalação: | | Remova a vítima para um local arejado. Se a vítima não estiver | 
+ | | respirando, aplicar respiração artificial. Se a vítima estiver respirando, | 
+ | | mas com dificuldade, administrar oxigênio a uma vazão de 10 a 15 | 
+ | | litros/minuto. Caso sinta indisposição, contate um CENTRO DE | 
+ | | INFORMAÇÃO TOXICOLÓGICA ou um médico. Leve esta FISPQ. | 
+Contato com os olhos: | | Enxágue cuidadosamente com água por no mínimo 15 minutos. No caso | 
+ | | de uso de lentes de contato, remova-as, se for fácil. Continue | 
+ | | enxaguando. Caso a irritação ocular persista: consulte um médico. Leve | 
+ | | esta FISPQ. | 
+Sintomas e efeitos mais
+importantes, agudos ou
+tardios: | | Provoca irritação à pele pode causar ressecamento, vermelhidão e | 
+ | | rachaduras, e aos olhos com vermelhidão e lacrimejamento. Pode | 
+ | | provocar sonolência ou vertigem. Pode provocar sonolência ou | 
+ | | vertigem. Pode provocar danos aos órgãos do trato respiratório por | 
+ | | exposição repetida ou prolongada. | 
+Sintomas e efeitos mais
+importantes, agudos ou
+tardios:
+FISPQ
+Em conformidade com NBR 14725:2014
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTO QUÍMICO
+Produto: Cimento Asfáltico de Petróleo – CAP 50/70
+Revisão: 01 Data: 21/09/2020 Página: 4 /16
+4- MEDIDAS DE PRIMEIROS-SOCORROS
+Remova a vítima para um local arejado. Se a vítima não estiver
+respirando, aplicar respiração artificial. Se a vítima estiver respirando,
+Inalação: mas com dificuldade, administrar oxigênio a uma vazão de 10 a 15
+litros/minuto. Caso sinta indisposição, contate um CENTRO DE
+INFORMAÇÃO TOXICOLÓGICA ou um médico. Leve esta FISPQ.
+Retirar imediatamente roupas e sapatos contaminados. Lavar a pele
+com água em abundância, por pelo menos 20 minutos,
+preferencialmente sob chuveiro de emergência. Caso haja contato com
+Contato com a pele:
+o produto quente, molhar imediatamente com água, para o
+resfriamento.Em caso de irritação cutânea: Consulte um médico. Leve
+esta FISPQ.
+Enxágue cuidadosamente com água por no mínimo 15 minutos. No caso
+de uso de lentes de contato, remova-as, se for fácil. Continue
+Contato com os olhos:
+enxaguando. Caso a irritação ocular persista: consulte um médico. Leve
+esta FISPQ.
+Não provoque o vômito. Em caso de ingestão do produto quente lavar
+a sua boca com água limpa em abundância, para resfriamento. Caso
+Ingestão:
+sinta indisposição, contate um CENTRO DE INFORMAÇÃO
+TOXICOLÓGICA ou um médico. Leve esta FISPQ.
+Provoca irritação à pele pode causar ressecamento, vermelhidão e
+Sintomas e efeitos mais rachaduras, e aos olhos com vermelhidão e lacrimejamento. Pode
+importantes, agudos ou provocar sonolência ou vertigem. Pode provocar sonolência ou
+tardios: vertigem. Pode provocar danos aos órgãos do trato respiratório por
+exposição repetida ou prolongada.
+Em caso de contato do produto aquecido com a pele e/ou com os olhos,
+lavar com água fria até que haja endurecimento e resfriamento do
+material. É possível a ocorrência de gás sulfídrico. Se necessário, o
+Notas para o médico: tratamento sintomático deve compreender, sobretudo, medidas de
+suporte como correção de distúrbios hidroeletrolíticos, metabólicos,
+além de assistência respiratória. Em caso de contato com a pele não
+friccione o local atingido.
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTO QUÍMICO | 
+5- MEDIDAS DE COMBATE A INCÊNDIO | | | 
+Meios de extinção: | | Apropriados: Compatível com espuma para hidrocarbonetos, neblina | 
+ | | d’água, pó químico e dióxido de carbono (CO ).
+2 | 
+ | | Não recomendados: Jatos d’água. Água diretamente sobre o líquido em | 
+ | | chamas. Espuma para álcool. | 
+Perigos específicos da mistura
+ou substância: | | A combustão normal produz dióxido de carbono (CO2), vapor d’água | 
+ | | e óxidos de enxofre. A combustão incompleta pode produzir monóxido | 
+ | | de carbono. | 
+Medidas de proteção da
+equipe de combate a incêndio: | | Equipamento de proteção respiratória do tipo autônomo (SCBA) com | 
+ | | pressão positiva e vestuário protetor completo. Contêineres e tanques | 
+ | | envolvidos no incêndio devem ser resfriados com neblina d’água. | 
+Perigos específicos da mistura
+ou substância:
+Medidas de proteção da
+equipe de combate a incêndio:
+6- MEDIDAS DE CONTROLE PARA DERRAMAMENTO OU VAZAMENTO | | | | 
+Precauções pessoais | | | | 
+Para o pessoal que não faz
+parte dos serviços de
+emergência: | | | Produto não inflamável. Não toque nos recipientes danificados ou no | 
+ | | | material derramado sem o uso de vestimentas adequadas. Evite | 
+ | | | inalação, contato com os olhos e com a pele. Utilize equipamento de | 
+ | | | proteção individual conforme descrito na seção 8. | 
+Para pessoal de serviço de
+emergência: | | | Utilizar EPI completo, com luvas de PVC ou látex, sapatos fechados, | 
+ | | | óculos de proteção facial e vestimenta de segurança para proteção de | 
+ | | | todo o corpo para evitar contato. O material utilizado deve ser | 
+ | | | impermeável. | 
+Precauções ao meio ambiente: | | | Evite que o produto derramado atinja cursos d’água e rede de esgotos. | 
+Métodos e materiais para
+contenção e limpeza: | | | Remova o produto utilizando sistemas a vácuo ou outro método que | 
+ | | | não gere vapor. Sempre que possível recupere o produto com material | 
+ | | | não inflamável (serragem, palha ou outro material absorvente) e | 
+ | | | remova o solo contaminado colocando-os em tonéis ou container para | 
+ | | | seu reaproveitamento ou tratamento. Coloque o material em | 
+ | | | recipientes apropriados e remova-os para local seguro. Para | 
+ | | | destinação | 
+ | | | final, proceder conforme a Seção 13 desta FISPQ. | 
+Para o pessoal que não faz
+parte dos serviços de
+emergência:
+Para pessoal de serviço de
+emergência:
+Métodos e materiais para
+contenção e limpeza:
+FISPQ
+Em conformidade com NBR 14725:2014
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTO QUÍMICO
+Produto: Cimento Asfáltico de Petróleo – CAP 50/70
+Revisão: 01 Data: 21/09/2020 Página: 5 /16
+5- MEDIDAS DE COMBATE A INCÊNDIO
+Apropriados: Compatível com espuma para hidrocarbonetos, neblina
+d’água, pó químico e dióxido de carbono (CO ).
+2
+Meios de extinção:
+Não recomendados: Jatos d’água. Água diretamente sobre o líquido em
+chamas. Espuma para álcool.
+A combustão normal produz dióxido de carbono (CO2), vapor d’água
+Perigos específicos da mistura
+e óxidos de enxofre. A combustão incompleta pode produzir monóxido
+ou substância:
+de carbono.
+Equipamento de proteção respiratória do tipo autônomo (SCBA) com
+Medidas de proteção da
+pressão positiva e vestuário protetor completo. Contêineres e tanques
+equipe de combate a incêndio:
+envolvidos no incêndio devem ser resfriados com neblina d’água.
+6- MEDIDAS DE CONTROLE PARA DERRAMAMENTO OU VAZAMENTO
+Precauções pessoais
+Produto não inflamável. Não toque nos recipientes danificados ou no
+Para o pessoal que não faz
+material derramado sem o uso de vestimentas adequadas. Evite
+parte dos serviços de
+inalação, contato com os olhos e com a pele. Utilize equipamento de
+emergência:
+proteção individual conforme descrito na seção 8.
+Utilizar EPI completo, com luvas de PVC ou látex, sapatos fechados,
+Para pessoal de serviço de óculos de proteção facial e vestimenta de segurança para proteção de
+emergência: todo o corpo para evitar contato. O material utilizado deve ser
+impermeável.
+Precauções ao meio ambiente: Evite que o produto derramado atinja cursos d’água e rede de esgotos.
+Remova o produto utilizando sistemas a vácuo ou outro método que
+não gere vapor. Sempre que possível recupere o produto com material
+não inflamável (serragem, palha ou outro material absorvente) e
+remova o solo contaminado colocando-os em tonéis ou container para
+Métodos e materiais para
+contenção e limpeza: seu reaproveitamento ou tratamento. Coloque o material em
+recipientes apropriados e remova-os para local seguro. Para
+destinação
+final, proceder conforme a Seção 13 desta FISPQ.
+7- MANUSEIO E ARMAZENAMENTO
+Medidas técnicas apropriadas para o manuseio
+Medidas de higiene: | | Lave as mãos e o rosto cuidadosamente após o manuseio e antes de
+ | | comer, beber, fumar ou ir ao banheiro. Roupas contaminadas devem ser
+ | | trocadas e lavadas antes de sua reutilização. Remova a roupa e o
+ | | equipamento de proteção contaminado antes de entrar nas áreas de
+ | | alimentação.
+Prevenção de incêndio e | | | Mantenha o recipiente fechado. Armazene a uma temperatura não
+explosão: | | | superior a 235°C. Evite contato com materiais incompatíveis.
+Materiais para embalagens: | | No caso do produto a quente é recomendável a utilização de tanques
+ | | com aquecimento e no caso de produto a frio é utilizado tambores de
+ | | aço carbono.
+FISPQ
+Em conformidade com NBR 14725:2014
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTO QUÍMICO
+Produto: Cimento Asfáltico de Petróleo – CAP 50/70
+Revisão: 01 Data: 21/09/2020 Página: 6 /16
+7- MANUSEIO E ARMAZENAMENTO
+Medidas técnicas apropriadas para o manuseio
+Evite inalação e o contato com a pele, olhos e roupas. Evite respirar
+partículas do produto. Manuseie o produto somente em locais bem
+Precauções para manuseio
+arejados ou com sistemas de ventilação geral/local adequado. Evite
+seguro:
+inalação de vapores ou névoas. Utilize equipamento de proteção
+individual ao manusear o produto, descritos na seção 8.
+Lave as mãos e o rosto cuidadosamente após o manuseio e antes de
+comer, beber, fumar ou ir ao banheiro. Roupas contaminadas devem ser
+Medidas de higiene: trocadas e lavadas antes de sua reutilização. Remova a roupa e o
+equipamento de proteção contaminado antes de entrar nas áreas de
+alimentação.
+Condições de armazenamento seguro, incluindo qualquer incompatibilidade
+Prevenção de incêndio e Mantenha o recipiente fechado. Armazene a uma temperatura não
+explosão: superior a 235°C. Evite contato com materiais incompatíveis.
+Armazenar em local seco, bem ventilado, longe da luz solar e de fontes
+de ignição. Manter separado dos sistemas de oxidação fortes, incluindo
+lixívias. Mantenha o recipiente fechado. Não é necessária adição de
+Condições adequadas: estabilizantes e antioxidantes para garantir a durabilidade do produto.
+Este produto pode reagir, de forma perigosa, com alguns materiais
+incompatíveis conforme destacado na Seção 10. Mantenha afastado de
+materiais incompatíveis.
+No caso do produto a quente é recomendável a utilização de tanques
+Materiais para embalagens: com aquecimento e no caso de produto a frio é utilizado tambores de
+aço carbono.
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTO QUÍMICO | 
+8 - CONTROLE DE EXPOSIÇÃO E PROTEÇÃO INDIVIDUAL | 
+Parâmetros de controle | 
+Nome químico ou
+comum | TLV – TWA
+(ACGIH, 2011) | LT (NR-15, 1978)
+Fumos de asfalto | 0,5 mg/m³ | - -
+Indicadores biológicos: | | Não foram estabelecidos indicadores biológicos de exposição. | | 
+Medidas de controle de
+engenharia: | | | Evitar contatos com a pele e com os olhos. Promova ventilação mecânica | 
+ | | | e sistema de exaustão direta para o meio exterior. É recomendado tornar | 
+ | | | disponíveis chuveiros de emergência e lava olhos na área de trabalho. | 
+ | | | Manter as concentrações da substância ou mistura no ar abaixo dos | 
+ | | | limites de exposição ocupacional indicados. As medidas de controle de | 
+ | | | engenharia são as mais efetivas para reduzir a exposição ao produto. | 
+Medidas de proteção pessoal | | | | 
+Proteção dos olhos/face: | | | Óculos com proteção lateral. | 
+Proteção da pele e do corpo: | | | Luvas de proteção de PVC, botina de segurança com biqueira de couro | 
+ | | | e vestimenta de segurança para proteção de todo o corpo. | 
+Proteção respiratória: | | | Recomenda-se a utilização de respirador com filtro para vapores | 
+ | | | orgânicos para exposições médias acima da metade do TLV-TWA. | 
+ | | | Nos casos em que a exposição exceda 3 vezes o valor TLV-TWA, | 
+ | | | utilize respirador do tipo autônomo (SCBA) com suprimento de ar, de | 
+ | | | peça facial inteira, operado em modo de pressão positiva. Siga | 
+ | | | orientação do Programa de Prevenção Respiratória (PPR), 3ª ed. São | 
+ | | | Paulo: Fundacentro, 2002. | 
+Perigos térmicos: | | | O produto não apresenta perigos térmicos. | 
+Medidas de controle de
+engenharia:
+FISPQ
+Em conformidade com NBR 14725:2014
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTO QUÍMICO
+Produto: Cimento Asfáltico de Petróleo – CAP 50/70
+Revisão: 01 Data: 21/09/2020 Página: 7 /16
+8 - CONTROLE DE EXPOSIÇÃO E PROTEÇÃO INDIVIDUAL
+Parâmetros de controle
+Limites de exposição Nome químico ou TLV – TWA LT (NR-15, 1978)
+ocupacional: comum (ACGIH, 2011)
+Fumos de asfalto 0,5 mg/m³ - -
+Indicadores biológicos: Não foram estabelecidos indicadores biológicos de exposição.
+Evitar contatos com a pele e com os olhos. Promova ventilação mecânica
+e sistema de exaustão direta para o meio exterior. É recomendado tornar
+Medidas de controle de disponíveis chuveiros de emergência e lava olhos na área de trabalho.
+engenharia: Manter as concentrações da substância ou mistura no ar abaixo dos
+limites de exposição ocupacional indicados. As medidas de controle de
+engenharia são as mais efetivas para reduzir a exposição ao produto.
+Medidas de proteção pessoal
+Proteção dos olhos/face: Óculos com proteção lateral.
+Luvas de proteção de PVC, botina de segurança com biqueira de couro
+Proteção da pele e do corpo:
+e vestimenta de segurança para proteção de todo o corpo.
+Recomenda-se a utilização de respirador com filtro para vapores
+orgânicos para exposições médias acima da metade do TLV-TWA.
+Nos casos em que a exposição exceda 3 vezes o valor TLV-TWA,
+Proteção respiratória: utilize respirador do tipo autônomo (SCBA) com suprimento de ar, de
+peça facial inteira, operado em modo de pressão positiva. Siga
+orientação do Programa de Prevenção Respiratória (PPR), 3ª ed. São
+Paulo: Fundacentro, 2002.
+Perigos térmicos: O produto não apresenta perigos térmicos.
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTO QUÍMICO | 
+9- PROPRIEDADES FÍSICAS E QUÍMICAS | | | 
+Aspecto (estado físico, forma | | Semi-sólido à temperatura ambiente, preto/marrom. | 
+e cor): | | | 
+pH: | | | Não disponível. | 
+Ponto de fusão/ponto de | | Não disponível. | | 
+congelamento: | | | | 
+Ponto de ebulição inicial e | | 48ºC | | 
+faixa de temperatura de | | | | 
+ebulição: | | | | 
+Taxa de evaporação: | | | Não disponível. | 
+Limite inferior/superior de | | LEI: (limite de explosividade inferior): 0,7%
+LES: (limite de explosividade superior): 5,0%
+inflamabilidade ou | | 
+explosividade: | | 
+LEI: (limite de explosividade inferior): 0,7%
+LES: (limite de explosividade superior): 5,0%
+Densidade de vapor: | | | >3,0 | 
+Solubilidade(s): | | Tricloroetileno.
+Temperatura de autoignição: | | | 485ºC | 
+Viscosidade: | | | Não aplicável. | 
+FISPQ
+Em conformidade com NBR 14725:2014
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTO QUÍMICO
+Produto: Cimento Asfáltico de Petróleo – CAP 50/70
+Revisão: 01 Data: 21/09/2020 Página: 8 /16
+9- PROPRIEDADES FÍSICAS E QUÍMICAS
+Aspecto (estado físico, forma
+Semi-sólido à temperatura ambiente, preto/marrom.
+e cor):
+Odor e limite de odor: Odor característico.
+pH: Não disponível.
+Ponto de fusão/ponto de
+Não disponível.
+congelamento:
+Ponto de ebulição inicial e
+faixa de temperatura de 48ºC
+ebulição:
+Ponto de fulgor: >235°C.
+Taxa de evaporação: Não disponível.
+Inflamabilidade (sólido; gás): Não aplicável.
+Limite inferior/superior de
+LEI: (limite de explosividade inferior): 0,7%
+inflamabilidade ou
+LES: (limite de explosividade superior): 5,0%
+explosividade:
+Pressão de vapor: Não disponível.
+Densidade de vapor: >3,0
+Densidade relativa: 1,00 – 1,03
+Solubilidade(s): Tricloroetileno.
+Coeficiente de partição – n-
+Log kow: 3,9 - 6,0
+octanol/água:
+Temperatura de autoignição: 485ºC
+Temperatura de
+Não disponível.
+decomposição:
+Viscosidade: Não aplicável.
+Outras informações: Não disponível.
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTO QUÍMICO | 
+10- ESTABILIDADE E REATIVIDADE | | | | 
+Reatividade: | | | É esperado que o produto apresente potencial de sofrer reação. | 
+Estabilidade química: | | | Produto estável em condições normais de temperatura e pressão. Não | 
+ | | | polimeriza. | 
+Possibilidade de reações | | | Evitar contato com agentes oxidantes fortes como cloratos, peróxidos, | 
+perigosas: | | | ácidos e outros. | 
+Condições a serem evitadas: | | | Temperaturas elevadas. Contato com materiais incompatíveis. | 
+Materiais incompatíveis: | | | Agentes oxidantes (tais como percloratos, peróxidos, permanganatos, | 
+ | | | Cloratos, nitratos, cloro, bromo e Flúor), nafta, solventes voláteis e | 
+ | | | oxigênio líquido. | 
+Produtos perigosos da | | A combustão do produto (em caso de incêndios) poderá produzir: CO2
+(dióxido de carbono), CO (monóxido de carbono) e gases tóxicos. | | 
+decomposição: | | | | 
+A combustão do produto (em caso de incêndios) poderá produzir: CO2
+(dióxido de carbono), CO (monóxido de carbono) e gases tóxicos.
+11- INFORMAÇÕES TOXICOLÓGICAS | | | | 
+Toxicidade aguda | | Produto não classificado como tóxico agudo. | Produto não classificado como tóxico agudo. | 
+Corrosão/irritação da pele: | | | Provoca irritação à pele com ressecamento, vermelhidão e rachadura. | 
+Lesões oculares | | Provocar dos olhos com vermelhidão e lacrimejamento. | | 
+graves/irritação ocular: | | | | 
+Sensibilização respiratória ou
+à pele: | | | Não são esperados efeitos de sensibilização respiratória ou da pele. Pode | 
+ | | | causar dermatite crônica após contato repetido ou prolongado com a | 
+ | | | pele com vermelhidão, pele ressecada e rachaduras. | 
+Mutagenicidade em células | | Não é esperado que o produto apresente potencial mutagênico para
+humanos. | | 
+ | | | Não é esperado que o produto apresente potencial mutagênico para | 
+germinativas: | | | humanos. | 
+Carcinogenicidade: | | | Não classificado como carcinogênico para humanos (Grupo A4 – | 
+ | | | ACGIH) | 
+Toxicidade à reprodução: | | | Não é esperado que o produto apresente toxicidade à reprodução e | 
+ | | | lactação. | 
+Toxicidade para órgãos-alvo | | | Pode provocar sonolência ou vertigem. Pode causar náuseas e dor de | 
+específicos – exposição única: | | | cabeça. | 
+Sensibilização respiratória ou
+à pele:
+FISPQ
+Em conformidade com NBR 14725:2014
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTO QUÍMICO
+Produto: Cimento Asfáltico de Petróleo – CAP 50/70
+Revisão: 01 Data: 21/09/2020 Página: 9 /16
+10- ESTABILIDADE E REATIVIDADE
+Reatividade: É esperado que o produto apresente potencial de sofrer reação.
+Produto estável em condições normais de temperatura e pressão. Não
+Estabilidade química:
+polimeriza.
+Possibilidade de reações Evitar contato com agentes oxidantes fortes como cloratos, peróxidos,
+perigosas: ácidos e outros.
+Condições a serem evitadas: Temperaturas elevadas. Contato com materiais incompatíveis.
+Agentes oxidantes (tais como percloratos, peróxidos, permanganatos,
+Materiais incompatíveis: Cloratos, nitratos, cloro, bromo e Flúor), nafta, solventes voláteis e
+oxigênio líquido.
+Produtos perigosos da A combustão do produto (em caso de incêndios) poderá produzir: CO2
+decomposição: (dióxido de carbono), CO (monóxido de carbono) e gases tóxicos.
+11- INFORMAÇÕES TOXICOLÓGICAS
+Toxicidade aguda: Produto não classificado como tóxico agudo.
+Corrosão/irritação da pele: Provoca irritação à pele com ressecamento, vermelhidão e rachadura.
+Lesões oculares
+Provocar dos olhos com vermelhidão e lacrimejamento.
+graves/irritação ocular:
+Não são esperados efeitos de sensibilização respiratória ou da pele. Pode
+Sensibilização respiratória ou
+causar dermatite crônica após contato repetido ou prolongado com a
+à pele:
+pele com vermelhidão, pele ressecada e rachaduras.
+Mutagenicidade em células Não é esperado que o produto apresente potencial mutagênico para
+germinativas: humanos.
+Não classificado como carcinogênico para humanos (Grupo A4 –
+Carcinogenicidade:
+ACGIH)
+Não é esperado que o produto apresente toxicidade à reprodução e
+Toxicidade à reprodução:
+lactação.
+Toxicidade para órgãos-alvo Pode provocar sonolência ou vertigem. Pode causar náuseas e dor de
+específicos – exposição única: cabeça.
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTO QUÍMICO | 
+Toxicidade para órgãos-alvo | | Pode provocar danos aos órgãos do trato respiratório por exposição
+repetida ou prolongada. | | 
+específicos – exposição | | | | 
+repetida: | | | | 
+Perigo por aspiração: | | | Não é esperado perigo por aspiração. | 
+Pode provocar danos aos órgãos do trato respiratório por exposição
+repetida ou prolongada.
+12- INFORMAÇÕES ECOLÓGICAS | | | | 
+Efeitos ambientais, comportamento e impactos do produto | | | | 
+Ecotoxicidade: | | | Em caso de grandes derramamentos, devido à complexidade do produto, | 
+ | | | este poderá apresentar comportamentos distintos, podendo resultar em | 
+ | | | impacto ao meio ambiente. | 
+Persistência e | | | Em função da ausência de dados, espera-se que o produto apresente | 
+degradabilidade: | | | persistência e não seja rapidamente degradado | 
+Potencial bioacumulativo: | | | Apresenta alto potencial bioacumulativo em organismos aquáticos | 
+ | | | pois vazamentos e derramamentos podem causar mortalidade dos | 
+ | | | organismos aquáticos, prejudicar a vida selvagem, particularmente as | 
+ | | | aves. | 
+Mobilidade no solo: | | | Não é esperada alta mobilidade. Em altas temperaturas é esperada | 
+ | | | mobilidade superficial e percolação desprezível no solo. | 
+13- CONSIDERAÇÕES SOBRE DESTINAÇÃO FINAL | | | 
+Métodos recomendados para tratamento e disposição aplicados ao | | | 
+Produto: | | O tratamento e a disposição devem ser avaliados especificamente para | 
+ | | cada produto. Devem ser consultadas legislações federais, estaduais e | 
+ | | municipais, dentre estas: Resolução CONAMA 005/1993, Lei | 
+ | | n°12.305, de 02 de agosto de 2010 (Política Nacional de Resíduos | 
+ | | Sólidos). | 
+Restos de produtos: | | Manter restos do produto em suas embalagens originais e devidamente | 
+ | | fechadas. O descarte deve ser realizado conforme o estabelecido para o | 
+ | | produto. | 
+FISPQ
+Em conformidade com NBR 14725:2014
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTO QUÍMICO
+Produto: Cimento Asfáltico de Petróleo – CAP 50/70
+Revisão: 01 Data: 21/09/2020 Página: 10 /16
+Toxicidade para órgãos-alvo
+Pode provocar danos aos órgãos do trato respiratório por exposição
+específicos – exposição
+repetida ou prolongada.
+repetida:
+Perigo por aspiração: Não é esperado perigo por aspiração.
+12- INFORMAÇÕES ECOLÓGICAS
+Efeitos ambientais, comportamento e impactos do produto
+Em caso de grandes derramamentos, devido à complexidade do produto,
+Ecotoxicidade: este poderá apresentar comportamentos distintos, podendo resultar em
+impacto ao meio ambiente.
+Persistência e Em função da ausência de dados, espera-se que o produto apresente
+degradabilidade: persistência e não seja rapidamente degradado
+Apresenta alto potencial bioacumulativo em organismos aquáticos
+pois vazamentos e derramamentos podem causar mortalidade dos
+Potencial bioacumulativo:
+organismos aquáticos, prejudicar a vida selvagem, particularmente as
+aves.
+Não é esperada alta mobilidade. Em altas temperaturas é esperada
+Mobilidade no solo:
+mobilidade superficial e percolação desprezível no solo.
+Outros efeitos adversos: Não são conhecidos outros efeitos ambientais para este produto.
+13- CONSIDERAÇÕES SOBRE DESTINAÇÃO FINAL
+Métodos recomendados para tratamento e disposição aplicados ao
+O tratamento e a disposição devem ser avaliados especificamente para
+cada produto. Devem ser consultadas legislações federais, estaduais e
+Produto: municipais, dentre estas: Resolução CONAMA 005/1993, Lei
+n°12.305, de 02 de agosto de 2010 (Política Nacional de Resíduos
+Sólidos).
+Manter restos do produto em suas embalagens originais e devidamente
+Restos de produtos: fechadas. O descarte deve ser realizado conforme o estabelecido para o
+produto.
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTO QUÍMICO | 
+Embalagem usada: | | Não reutilize embalagens vazias. Estas podem conter restos do produto | 
+ | | e devem ser mantidas fechadas e encaminhadas para serem destruídas | 
+ | | em loca apropriado. | 
+14- INFORMAÇÕES SOBRE TRANSPORTE | | | 
+Regulamentações nacionais e internacionais | | | 
+Terrestres: | | Resolução nº 5232, de 14 de dezembro de 2016 da Agência Nacional de | 
+ | | Transportes Terrestres (ANTT), aprova as Instruções Complementares | 
+ | | ao Regulamento do Transporte Terrestre de Produtos Perigosos, e dá | 
+ | | outras providências. | 
+Número ONU: | 3257 | | 
+Classe de risco/ subclasse de | | 9
+risco principal: | | 
+Número de risco: | 99
+Hidroviário: | | DPC - Diretoria de Portos e Costas (Transporte em águas | 
+ | | brasileiras) Normas de Autoridade Marítima (NORMAM) | 
+ | | NORMAM 01/DPC: Embarcações Empregadas na Navegação em | 
+ | | Mar Aberto | 
+ | | NORMAM 02/DPC: Embarcações Empregadas na Navegação | 
+ | | Interior | 
+ | | IMO – “International Maritime Organization” (Organização | 
+ | | Marítima Internacional) | 
+FISPQ
+Em conformidade com NBR 14725:2014
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTO QUÍMICO
+Produto: Cimento Asfáltico de Petróleo – CAP 50/70
+Revisão: 01 Data: 21/09/2020 Página: 11 /16
+Não reutilize embalagens vazias. Estas podem conter restos do produto
+Embalagem usada: e devem ser mantidas fechadas e encaminhadas para serem destruídas
+em loca apropriado.
+14- INFORMAÇÕES SOBRE TRANSPORTE
+Regulamentações nacionais e internacionais
+Resolução nº 5232, de 14 de dezembro de 2016 da Agência Nacional de
+Transportes Terrestres (ANTT), aprova as Instruções Complementares
+Terrestres:
+ao Regulamento do Transporte Terrestre de Produtos Perigosos, e dá
+outras providências.
+Número ONU: 3257
+Nome apropriado para
+LÍQUIDO A TEMPERATURA ELEVADA, N.E. (Hidrocarbonetos)
+embarque:
+Classe de risco/ subclasse de
+9
+risco principal:
+Classe de risco/ subclasse de
+-
+risco subsidiário:
+Número de risco: 99
+Grupo de embalagem: III
+DPC - Diretoria de Portos e Costas (Transporte em águas
+brasileiras) Normas de Autoridade Marítima (NORMAM)
+NORMAM 01/DPC: Embarcações Empregadas na Navegação em
+Mar Aberto
+Hidroviário:
+NORMAM 02/DPC: Embarcações Empregadas na Navegação
+Interior
+IMO – “International Maritime Organization” (Organização
+Marítima Internacional)
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTO QUÍMICO | 
+ | International Maritime Dangerous Goods Code (IMDG Code).
+Proper shipping name: | LIQUID AT ELEVATED TEMPERATURA, N.E. (Hydrocarbons)
+Subsidiary risk: | -
+Marine pollutant: | N
+Aéreo: | | ANAC - Agência Nacional de Aviação Civil – Resolução n°129 de 8 | 
+ | | de dezembro de 2009. | 
+ | | RBAC N°175 – (REGULAMENTO BRASILEIRO DA AVIAÇÃO | 
+ | | CIVIL) - TRANSPORTE DE ARTIGOS PERIGOSOS EM | 
+ | | AERONAVES CIVIS. | 
+ | | IS N° 175-001 – INSTRUÇÃO SUPLEMENTAR – IS | 
+ | | ICAO – “International Civil Aviation Organization” (Organização da | 
+ | | Aviação Civil Internacional) – Doc 9284-NA/905 | 
+ | | IATA - “International Air Transport Association” (Associação | 
+ | | Internacional de Transporte Aéreo) Dangerous Goods Regulation | 
+ | | (DGR). | 
+Proper shipping name: | LIQUID AT ELEVATED TEMPERATURA, N.E. (Hydrocarbons)
+FISPQ
+Em conformidade com NBR 14725:2014
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTO QUÍMICO
+Produto: Cimento Asfáltico de Petróleo – CAP 50/70
+Revisão: 01 Data: 21/09/2020 Página: 12 /16
+International Maritime Dangerous Goods Code (IMDG Code).
+UN number: 3257
+Proper shipping name: LIQUID AT ELEVATED TEMPERATURA, N.E. (Hydrocarbons)
+Class or division: 9
+Subsidiary risk: -
+Packing group: III
+Marine pollutant: N
+EmS: F-A, S-P
+ANAC - Agência Nacional de Aviação Civil – Resolução n°129 de 8
+de dezembro de 2009.
+RBAC N°175 – (REGULAMENTO BRASILEIRO DA AVIAÇÃO
+CIVIL) - TRANSPORTE DE ARTIGOS PERIGOSOS EM
+AERONAVES CIVIS.
+Aéreo:
+IS N° 175-001 – INSTRUÇÃO SUPLEMENTAR – IS
+ICAO – “International Civil Aviation Organization” (Organização da
+Aviação Civil Internacional) – Doc 9284-NA/905
+IATA - “International Air Transport Association” (Associação
+Internacional de Transporte Aéreo) Dangerous Goods Regulation
+(DGR).
+UN number: 3257
+Proper shipping name: LIQUID AT ELEVATED TEMPERATURA, N.E. (Hydrocarbons)
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTO QUÍMICO | 
+Subsidiary risk: | -
+Perigo ao meio ambiente: | | Em caso de grandes derramamentos, devido à complexidade do produto, | 
+ | | este poderá apresentar comportamentos distintos, podendo resultar em | 
+ | | impacto ao meio ambiente. | 
+15- INFORMAÇÕES SOBRE REGULAMENTAÇÕES | | | | 
+Regulamentações específicas
+para o produto químico: | | | Decreto Federal nº 2.657, de 3 de julho de 1998. | 
+ | | | Norma ABNT-NBR 14725:2012. | 
+ | | | Lei n°12.305, de 02 de agosto de 2010 (Política Nacional de Resíduos | 
+ | | | Sólidos). | 
+ | | | Decreto n° 7.404, de 23 de dezembro de 2010. | 
+ | | | Portaria nº 229, de 24 de maio de 2011 – Altera a Norma | 
+ | | | Regulamentadora nº 26 | 
+ | | | | 
+Regulamentações específicas
+para o produto químico:
+Informações importantes, mas não especificamente descritas às seções anteriores. | 
+Esta FISPQ foi elaborada baseada nos conhecimentos atuais do produto químico e fornece informações | 
+quanto à proteção, à segurança, à saúde e ao meio ambiente. | 
+Adverte-se que o manuseio de qualquer substância química requer o conhecimento prévio de seus | 
+perigos pelo usuário. Cabe à empresa usuária do produto promover o treinamento de seus empregados | 
+e contratados quanto aos possíveis riscos advindos do produto. | 
+ | 
+FISPQ
+Em conformidade com NBR 14725:2014
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTO QUÍMICO
+Produto: Cimento Asfáltico de Petróleo – CAP 50/70
+Revisão: 01 Data: 21/09/2020 Página: 13 /16
+Class or division: 9
+Subsidiary risk: -
+Packing group: III
+Em caso de grandes derramamentos, devido à complexidade do produto,
+Perigo ao meio ambiente: este poderá apresentar comportamentos distintos, podendo resultar em
+impacto ao meio ambiente.
+As regulamentações pertinentes ao transporte do produto estão
+Regulamentações adicionais:
+supracitadas.
+15- INFORMAÇÕES SOBRE REGULAMENTAÇÕES
+Decreto Federal nº 2.657, de 3 de julho de 1998.
+Norma ABNT-NBR 14725:2012.
+Lei n°12.305, de 02 de agosto de 2010 (Política Nacional de Resíduos
+Regulamentações específicas
+Sólidos).
+para o produto químico:
+Decreto n° 7.404, de 23 de dezembro de 2010.
+Portaria nº 229, de 24 de maio de 2011 – Altera a Norma
+Regulamentadora nº 26
+16- OUTRAS INFORMAÇÕES
+Informações importantes, mas não especificamente descritas às seções anteriores.
+Esta FISPQ foi elaborada baseada nos conhecimentos atuais do produto químico e fornece informações
+quanto à proteção, à segurança, à saúde e ao meio ambiente.
+Adverte-se que o manuseio de qualquer substância química requer o conhecimento prévio de seus
+perigos pelo usuário. Cabe à empresa usuária do produto promover o treinamento de seus empregados
+e contratados quanto aos possíveis riscos advindos do produto.
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTO QUÍMICO | 
+FISPQ elaborada por InterTox: Dezembro de 2012 - http://www.intertox.com.br | 
+ | 
+Legendas e abreviaturas: | 
+ACGIH – American Conference of Governamental Industrial Hvgienists | 
+CAS - Chemical Abstracts Service | 
+DL - Dose letal 50%
+50 | 
+IARC – International Agency for Research on Cancer | 
+LT – Limite de Tolerância | 
+NR – Norma Regulamentadora | 
+TLV - Threshold Limit Value | 
+TOC – Total organic carbon | 
+TWA - Time Weighted Average | 
+Y - Yes | 
+ | 
+Referências bibliográficas: | 
+AMERICAN CONFERENCE OF GOVERNMENTAL INDUSTRIALS HYGIENISTS. TLVs® E | 
+BEIs®: baseado na documentação dos limites de exposição ocupacional (TLVs®) para substâncias | 
+químicas e agentes físicos & índices biológicos de exposição (BEIs®). Tradução Associação | 
+Brasileira de Higienistas Ocupacional. São Paulo, 2011. | 
+ | 
+ECB - EUROPEAN CHEMICALS BUREAU. Diretiva 67/548/EEC (substâncias); Diretiva 1999/45/EC | 
+(preparações). Disponível em: <http://ecb.jrc.it/>. Acesso em: Dez. 2012. | 
+ | 
+EPA dos EUA. 2011. EPI Suite ™ para Microsoft ® Windows, v 4.10. Estados Unidos: Agência de Proteção | 
+Ambiental, Washington. 2011. Disponível em: < http://www.epa.gov/oppt/exposure/pubs/episuite.htm>. Acesso | 
+em: Dez. 2012. | 
+ | 
+EXPUB – EXPERT PUBLISHING. Disponível em: <http://www.expub.com/Default.aspx>. Acesso | 
+em: Dez. 2012. | 
+FISPQ
+Em conformidade com NBR 14725:2014
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTO QUÍMICO
+Produto: Cimento Asfáltico de Petróleo – CAP 50/70
+Revisão: 01 Data: 21/09/2020 Página: 14 /16
+FISPQ elaborada por InterTox: Dezembro de 2012 - http://www.intertox.com.br
+Legendas e abreviaturas:
+ACGIH – American Conference of Governamental Industrial Hvgienists
+CAS - Chemical Abstracts Service
+DL - Dose letal 50%
+50
+IARC – International Agency for Research on Cancer
+LT – Limite de Tolerância
+NR – Norma Regulamentadora
+TLV - Threshold Limit Value
+TOC – Total organic carbon
+TWA - Time Weighted Average
+Y - Yes
+Referências bibliográficas:
+AMERICAN CONFERENCE OF GOVERNMENTAL INDUSTRIALS HYGIENISTS. TLVs® E
+BEIs®: baseado na documentação dos limites de exposição ocupacional (TLVs®) para substâncias
+químicas e agentes físicos & índices biológicos de exposição (BEIs®). Tradução Associação
+Brasileira de Higienistas Ocupacional. São Paulo, 2011.
+ECB - EUROPEAN CHEMICALS BUREAU. Diretiva 67/548/EEC (substâncias); Diretiva 1999/45/EC
+(preparações). Disponível em: <http://ecb.jrc.it/>. Acesso em: Dez. 2012.
+EPA dos EUA. 2011. EPI Suite ™ para Microsoft ® Windows, v 4.10. Estados Unidos: Agência de Proteção
+Ambiental, Washington. 2011. Disponível em: < http://www.epa.gov/oppt/exposure/pubs/episuite.htm>. Acesso
+em: Dez. 2012.
+EXPUB – EXPERT PUBLISHING. Disponível em: <http://www.expub.com/Default.aspx>. Acesso
+em: Dez. 2012.
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTO QUÍMICO | 
+ | 
+FISPQ - FICHA DE INFORMAÇÃO DE SEGURANÇA PRODUTO QUÍMICO. Produto Cimento | 
+Asfáltico de Petróleo. Empresa Refinaria de Petróleo Riograndense S.A. Rio Grande. N° 1856. Nov. | 
+2009. | 
+ | 
+FISPQ - FICHA DE INFORMAÇÃO DE SEGURANÇA PRODUTO QUÍMICO. Revisada: Intertox, | 
+31 nov. 2012. | 
+ | 
+Globally Harmonized System of Classification and Labelling of Chemicals (GHS). 4. rev. ed. New | 
+York: United Nations, 2011. | 
+ | 
+IARC - INTERNATIONAL AGENCY FOR RESEARCH ON CANCER. Disponível | 
+em: <http://monographs.iarc.fr/ENG/Classification/index.php>. Acesso em: Dez. 2012. | 
+ | 
+IUCLID - INTERNATIONAL UNIFORM CHEMICAL INFORMATION DATABASE. [S.l.]: | 
+European chemical Bureau. Disponível em: <http://ecb.jrc.ec.europa.eu>. Acesso em: Dez. 2012. | 
+ | 
+NIOSH - NATIONAL INSTITUTE OF OCCUPATIONAL AND SAFETY. International Chemical | 
+Safety Cards. Disponível em: <http://www.cdc.gov/niosh/>. Acesso em: Dez. 2012. | 
+ | 
+NITE-GHS JAPAN - NATIONAL INSTITUTE OF TECHNOLOGY AND EVALUATION. | 
+Disponível em: <http://www.safe.nite.go.jp/english/ghs_index.html>. Acesso em: Dez. 2012. | 
+ | 
+REACH - REGISTRATION, EVALUATION, AUTHORIZATION AND RESTRICTION OF | 
+CHEMICALS. Commission Regulation (EC) No 1272/2008 of 16 December 2008, amending and | 
+repealing Directives 67/548/EEC and 1999/45/EC. Disponível em: < http://eur- | 
+FISPQ
+Em conformidade com NBR 14725:2014
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTO QUÍMICO
+Produto: Cimento Asfáltico de Petróleo – CAP 50/70
+Revisão: 01 Data: 21/09/2020 Página: 15 /16
+FISPQ - FICHA DE INFORMAÇÃO DE SEGURANÇA PRODUTO QUÍMICO. Produto Cimento
+Asfáltico de Petróleo. Empresa Refinaria de Petróleo Riograndense S.A. Rio Grande. N° 1856. Nov.
+2009.
+FISPQ - FICHA DE INFORMAÇÃO DE SEGURANÇA PRODUTO QUÍMICO. Revisada: Intertox,
+31 nov. 2012.
+Globally Harmonized System of Classification and Labelling of Chemicals (GHS). 4. rev. ed. New
+York: United Nations, 2011.
+IARC - INTERNATIONAL AGENCY FOR RESEARCH ON CANCER. Disponível
+em: <http://monographs.iarc.fr/ENG/Classification/index.php>. Acesso em: Dez. 2012.
+IUCLID - INTERNATIONAL UNIFORM CHEMICAL INFORMATION DATABASE. [S.l.]:
+European chemical Bureau. Disponível em: <http://ecb.jrc.ec.europa.eu>. Acesso em: Dez. 2012.
+NIOSH - NATIONAL INSTITUTE OF OCCUPATIONAL AND SAFETY. International Chemical
+Safety Cards. Disponível em: <http://www.cdc.gov/niosh/>. Acesso em: Dez. 2012.
+NITE-GHS JAPAN - NATIONAL INSTITUTE OF TECHNOLOGY AND EVALUATION.
+Disponível em: <http://www.safe.nite.go.jp/english/ghs_index.html>. Acesso em: Dez. 2012.
+REACH - REGISTRATION, EVALUATION, AUTHORIZATION AND RESTRICTION OF
+CHEMICALS. Commission Regulation (EC) No 1272/2008 of 16 December 2008, amending and
+repealing Directives 67/548/EEC and 1999/45/EC. Disponível em: < http://eur-
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTO QUÍMICO | 
+lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:353:0001:1355:en:PDF>. Acesso em: | 
+Dez. 2012. | 
+ | 
+REACH - REGISTRATION, EVALUATION, AUTHORIZATION AND RESTRICTION OF | 
+CHEMICALS. Amending Regulation (EC) No 1907/2006 of the European Parliament and of the | 
+Council on the Registration, Evaluation, Authorization and Restriction of Chemicals. Disponível | 
+em: <http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:164:0007:0031:EN:PDF>. | 
+Acesso em: Dez. 2012. | 
+ | 
+SIRETOX/INTERTOX - SISTEMA DE INFORMAÇÕES SOBRE RISCOS DE EXPOSIÇÃO | 
+QUÍMICA. Disponível em: <http://www.intertox.com.br>. Acesso em: Dez. 2012. | 
+ | 
+TOXNET - TOXICOLOGY DATA NETWORKING. ChemIDplus Lite. Disponível | 
+em: <http://chem.sis.nlm.nih.gov/>. Acesso em: Dez. 2012 | 
+ | 
+FISPQ
+Em conformidade com NBR 14725:2014
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTO QUÍMICO
+Produto: Cimento Asfáltico de Petróleo – CAP 50/70
+Revisão: 01 Data: 21/09/2020 Página: 16 /16
+lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2008:353:0001:1355:en:PDF>. Acesso em:
+Dez. 2012.
+REACH - REGISTRATION, EVALUATION, AUTHORIZATION AND RESTRICTION OF
+CHEMICALS. Amending Regulation (EC) No 1907/2006 of the European Parliament and of the
+Council on the Registration, Evaluation, Authorization and Restriction of Chemicals. Disponível
+em: <http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:164:0007:0031:EN:PDF>.
+Acesso em: Dez. 2012.
+SIRETOX/INTERTOX - SISTEMA DE INFORMAÇÕES SOBRE RISCOS DE EXPOSIÇÃO
+QUÍMICA. Disponível em: <http://www.intertox.com.br>. Acesso em: Dez. 2012.
+TOXNET - TOXICOLOGY DATA NETWORKING. ChemIDplus Lite. Disponível
+em: <http://chem.sis.nlm.nih.gov/>. Acesso em: Dez. 2012

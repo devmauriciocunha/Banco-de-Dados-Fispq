@@ -1,0 +1,495 @@
+2. Identificação de perigos
+Ficha de Informações de Segurança de Produtos Químicos De acordo com ABNT
+NBR 14725-4: 2014
+PRODUTO MONÓXIDO DE CARBONO COMPRIMIDO Página: 1/9
+Versão: 1.0
+1. Identificação do Produto e da Empresa
+1.1. Identificação do produto
+Nome comercial : MONÓXIDO DE CARBONO COMPRIMIDO
+Código do produto : 23013
+Uso recomendado : Uso Industrial
+1.2. Identificação da Empresa
+AIR LIQUIDE BRASIL LTDA
+Av. Morumbi, 8234 - 3º Andar - Santo Amaro
+04703-901 Sâo Paulo
+T (11) 5509-8300
+2. Identificação de perigos
+2.1. Classificação da substância ou mistura
+Classificação de acordo com GHS-BR (ABNT NBR 14725-2)
+Gases inflamáveis, Categoria 1
+Gases sob pressão: Gás comprimido
+Toxicidade aguda (Inalação: gases), Categoria 3
+Toxicidade à reprodução, Categoria 1A
+Toxicidade para órgãos-alvo específicos - Exposição repetida, Categoria 1
+2.2. Elementos apropriados de rotulagem
+GHS-BR rotulagem
+Pictogramas de perigo (GHS-BR) :
+GHS02 GHS04 GHS06 GHS08
+Palavra de advertência (GHS-BR) : Perigo
+Frases de perigo (GHS-BR) : H220 - Gás extremamente inflamável
+H280 - Contém gás sob pressão: pode explodir sob ação do calor
+H331 - Tóxico se inalado
+H360 - Pode prejudicar a fertilidade ou o feto
+H372 - Provoca danos aos órgãos por exposição repetida ou prolongada
+Frases de precaução (GHS-BR) : P201 - Obtenha instruções específicas antes da utilização
+P202 - Não manuseie o produto antes de ter lido e compreendido todas as precauções de
+segurança
+P210 - Mantenha afastado do calor, faísca, chama aberta, superfícies quentes. - Não fume
+P260 - Não inale poeiras/fumos/gases/névoas/vapores/aerossóis
+P261 - Evite inalar poeiras/fumos/gases/névoas/vapores/aerossóis
+P264 - Lave mãos, antebraços e rosto cuidadosamente após o manuseio.
+P270 - Não coma, beba ou fume durante a utilização deste produto
+P271 - Utilize apenas ao ar livre ou em locais bem ventilados
+P280 - Use luvas de proteção/roupas de proteção/proteção para os olhos/ proteção facial
+P304+P340 - EM CASO DE INALAÇÃO: remova a pessoa para local ventilado e a mantenha
+em repouso numa posição que não dificulte a respiração.
+P308+P313 - EM CASO DE exposição ou suspeita de exposição: Consulte um médico
+P311 - Contate um CENTRO DE INFORMAÇÃO TOXICOLÓGICA/médico/…
+P314 - Em caso de mal estar, consulte um médico
+P321 - Tratamento específico (veja instrução suplementar de primeiros socorros nesse rótulo)
+P377 - Vazamento de gás com chamas: não apague, a menos que se possa conter o
+vazamento com segurança
+P381 - Elimine todas as fontes de ignição se puder ser feito com segurança
+P403 - Armazene em local bem ventilado.
+P403+P233 - Armazene em local bem ventilado. Mantenha o recipiente hermeticamente
+fechado
+P405 - Armazene em local fechado à chave
+P410+P403 - Mantenha ao abrigo da luz solar. Armazene em local bem ventilado
+P501 - Descarte o conteúdo/recipiente em ponto de coleta de resíduos especiais ou perigosos
+de acordo com regulamentação local, regional, nacional e/ou internacional
+Nome | Identificação do produto | %
+Monóxido de carbono (CO)
+(Principal constituinte) | (nº CAS) 630-08-0 | 100
+
+4. Medidas de primeiros-socorros
+
+5. Medidas de combate a incêndio
+Ficha de Informações de Segurança de Produtos Químicos De acordo com ABNT
+NBR 14725-4: 2014
+PRODUTO MONÓXIDO DE CARBONO COMPRIMIDO Página: 2/9
+Versão: 1.0
+2.3. Outros perigos que não resultam em uma classificação
+Nenhuma informação adicional disponível
+3. Composição e informações sobre os ingredientes
+3.1. Substância
+Nome comercial : MONÓXIDO DE CARBONO COMPRIMIDO
+nº CAS : 630-08-0
+Fórmula : CO
+Nome Identificação do produto %
+Monóxido de carbono (CO) (nº CAS) 630-08-0 100
+(Principal constituinte)
+3.2. Mistura
+Não aplicável
+4. Medidas de primeiros-socorros
+4.1. Descrição das medidas de primeiros socorros
+Medidas de primeiros-socorros após : Remova a vítima para área não contaminada usando aparelho de respiração autônoma.
+inalação Mantenha a vítima aquecida e descansada. Chame um médico. Realize ressuscitação
+cardiopulmonar se a respiração cessar. Fornecer oxigênio.
+Medidas de primeiros-socorros após contato : Não são esperados efeitos adversos deste produto.
+com a pele
+Medidas de primeiros-socorros após contato : Não são esperados efeitos adversos deste produto.
+com os olhos
+Medidas de primeiros-socorros após : A ingestão não é considerada rota potencial de exposição.
+ingestão
+4.2. Sintomas e efeitos mais importantes, agudos ou tardios
+Nenhuma informação adicional disponível
+4.3. Indicações sobre cuidados médicos urgentes e tratamentos especiais necessários
+Outro conselho médico ou tratamento : Obter ajuda médica.
+5. Medidas de combate a incêndio
+5.1. Meios de extinção
+Meios de extinção adequados : Borrifar com água ou aplicar névoa. Pó seco.
+Meios de extinção inadequados : Dióxido de carbono. Não use jatos d'água para extinguir.
+5.2. Perigos específicos decorrentes da substância ou mistura
+Reatividade : Sem perigo de reatividade, além dos efeitos descritos nas sub-seções abaixo.
+Produtos de combustão perigosos. : None that are more toxic than the product itself.
+5.3. Recomendações para a equipe de combate a incêndio
+Métodos específicos. : Não extinguir uma chama de gás vazante, a menos que seja absolutamente necessário. Pode
+ocorrer reignição espontânea/explosiva. Use medidas de controle de incêndio adequadas para
+o fogo circundante. A exposição ao fogo e irradiação de calor podem causar a ruptura de
+recipientes de gás. Resfrie recipientes em perigo com jatos d'água a partir de uma posição
+protegida. Evite que a água usada em casos de emergêcia entre no sistema de esgoto e de
+drenagem. Se possível,pare o fluxo do produto. Use água borrifada ou névoa para eliminar
+fumaça de fogo, caso possível. Afastar os contêineres de área do fogo, caso isto possa ser
+feito sem risco.
+
+6. Medidas de controle para derramamento ou vazamento
+
+7. Manuseio e armazenamento
+Ficha de Informações de Segurança de Produtos Químicos De acordo com ABNT
+NBR 14725-4: 2014
+PRODUTO MONÓXIDO DE CARBONO COMPRIMIDO Página: 3/9
+Versão: 1.0
+Equipamento de proteção especial para : Use roupa protetora à prova de gás, química, junto com aparelho de respiração autônomo. EN
+bombeiros 943-2: Roupa protetora contra químicos líquidos e gasosos, aerossóis e partículas sólidas.
+Roupas protetoras contra gases químicos para equipes de emergência. Padrão EN 137 -
+Aparelho de respiração autônomo, de ar comprimido, circuito aberto, com máscara para rosto
+inteiro.
+6. Medidas de controle para derramamento ou vazamento
+6.1. Precauções pessoais, equipamento de proteção e procedimentos de emergência
+Medidas gerais : Tente parar a liberação de fluxo. Evacuar a área. Monitorar a concentração de produto
+liberado. Considerar o risco de atmosferas potencialmente explosivas. Use aparelho de auto
+respiração quando entrar na área, a menos que a atmosfera esteja segura. Eliminar fontes de
+ignição. Assegurar adequada ventilação de ar. Atue de acordo com o plano local de
+emergência. Fique em posição de barlavento.
+6.1.1. Para não-socorristas
+Nenhuma informação adicional disponível
+6.1.2. Para socorristas
+Nenhuma informação adicional disponível
+6.2. Precauções ambientais
+Tente parar a liberação de fluxo.
+6.3. Métodos e materiais de contenção e limpeza
+Métodos e material de contenção e limpeza. : Ventilar a área.
+7. Manuseio e armazenamento
+7.1. Precauções para manuseio seguro
+Uso seguro do produto : Avalie o risco de atmosferas potencialmente explosivas e a necessidade de dispor de
+equipamento à prova de explosão. Purgue o ar do sistema antes de introduzir gás. Tome
+medidas de precaução contra descarga estática. Mantenha-se afastado de fontes de ignição
+(inclusive de descargas estáticas). Considere usar somente ferramentas que não geram
+centelhas.
+Certifique-se de que o equipamento esteja aterrado adequadamente
+. Evite exposição, obtenha instruções especiais antes do uso. É recomendada a instalação de
+um conjunto de purga cruzada entre o cilindro e o regulador. A substância precisa ser
+manipulada conforme bons procedimentos de higiene industrial e de segurança. Somente
+pessoal experimenetado e adeuadamente instruído deverá lidar com gases pressurizados.
+Considere dispositivo(s) de alívio de pressão em instalações de gás. Assegure-se que o
+sistema de gás completo foi (ou está sendo regularmente) examinado quanto a vazamentos
+antes do uso. Não fume quando estiver lidando com o produto. Use apenas equipamento
+adequadamente especificado que seja adequado para este produto, sua pressão alimentada e
+temperatura. Em caso de dúvida, contate seu fornecedor de gás. Evitar a reabsorção de água,
+ácidos e álcalis. Não respire o gás. Evite liberar o produto ao ar.
+Manuseamento seguro dos recipientes de : Veja as instruções de manipulação do fornecedor com relação ao contêiner. Não permita
+gás retroalimentação no contêiner. Proteja cilindros contra danos físicos; não puxe, role, deslize ou
+deixe cair. Ao mover cilindros, mesmo em curta distância, use um carrinho (trole, carrinho de
+mão, etc.) destinado ao transporte de cilindros. Deixe as tampas protetoras de válvulas no
+local até que o cilindro tenha sido fixado ou em uma parede ou bancada ou colocado em um
+suporte de contêiner,estando pronto ao uso. Se o usuário tiver qualquer dificuldade na
+operação da válvula do cilindro,suspender o uso e contactar o fornecedor. Nunca tente
+consertar ou modificar válvulas do recipiente ou dispositivos de alívio de segurança. Válvulas
+danificadas deverão ser imediatamente comunicadas ao fornecedor. Mantenha as saídas das
+válvulas limpas e isentas de contaminantes,particularmente óleo e água. Substituir tampas de
+saída ou plugues e tampas de recipientes quando fornecidos tão logo o contêiner for desligado
+do equipamento. Fechar a válvula do recipiente após cada uso e quando vazio, mesmo se
+ainda estiver ligado ao equipamento. Nunca tente transferir gases de um cilindro/recipiente
+para outro. Nunca use dispositivos de chama direta ou de aquecimento elétrico para elevar a
+pressão de um recipiente. Não remova ou desfigure etiquetas providas pelo fornecedor para
+identificação do conteúdo dos cilindros. Reabsorção de água no contêiner precisa ser
+prevenida. Abrir a válvula lentamente para evitar choque de pressão.
+
+8. Controle de exposição e proteção individual
+MONÓXIDO DE CARBONO COMPRIMIDO (630-08-0) | | 
+Brasil | Nome local | Monóxido de carbono
+Brasil | Limite de tolerância NR-15 (ppm) | 39 ppm
+Brasil | Limite de tolerância NR-15 (mg/mg³) | 43 mg/m³
+EUA | Nome local | Carbon monoxide
+EUA | ACGIH TWA (Média Ponderada no Tempo) (ppm) | 25 ppm
+EUA | Referência regulamentar | ACGIH 2017
+
+9. Propriedades físicas e químicas
+Ficha de Informações de Segurança de Produtos Químicos De acordo com ABNT
+NBR 14725-4: 2014
+PRODUTO MONÓXIDO DE CARBONO COMPRIMIDO Página: 4/9
+Versão: 1.0
+7.2. Condições para armazenamento seguro, incluindo incompatibilidades
+Condições para armazenagem segura, : Segregar de gases oxidantes e de outros oxidantes armazenados. Todo equipamento elétrico
+incusive quaisquer incompatibilidades. nas áreas de armazenagem deverá ser compatível com o risco de uma atmosfera
+potencialmente explosiva. Observe todos os regulamentos e exigências locais sobre a
+armazenagem de contêineres. Contêineres não deverão ser armazenados em condições que
+estimulem a corrosão. Protetores de válvulas ou tampas de contêineres deverão estar em seu
+lugar. Contêineres deverão ser armazenados na posição vertical e adequadamente presos
+para evitar sua queda. Contêineres armazenados deverão ser periodicamente examinados
+quanto ao estado geral e vazamentos. Mantenha o contêiner abaixo de 50ºC em um local bem
+ventilado. Guardar contêineres em locais isentos de risco de incêndio e distantes de fontes de
+calor e ignição. Manter afastado de materiais combustíveis.
+8. Controle de exposição e proteção individual
+8.1. Parâmetros de controle
+MONÓXIDO DE CARBONO COMPRIMIDO (630-08-0)
+Brasil Nome local Monóxido de carbono
+Brasil Limite de tolerância NR-15 (ppm) 39 ppm
+Brasil Limite de tolerância NR-15 (mg/mg³) 43 mg/m³
+EUA Nome local Carbon monoxide
+EUA ACGIH TWA (Média Ponderada no Tempo) (ppm) 25 ppm
+EUA Referência regulamentar ACGIH 2017
+8.2. Controles de exposição
+Controles apropriados de engenharia : Prover ventilação geral e local adequada de escape. Consider the use of a work permit system
+e.g. for maintenance activities. Detectores de gás deverão ser usados quando gases tóxicos
+puderem ser liberados. Product to be handled in a closed system and under strictly controlled
+conditions. Preferivelmente usar somente instalações à prova permanente de vazamentos
+(p.ex. tubos soldados). Sistemas pressurizados deverão ser regularmente examinados quanto
+a vazamentos. Assegurar que a exposição esteja abaixo de limites de exposição ocupacionais
+(onde disponível).
+Controles de exposição ambiental : Ver os Regulamentos locais quanto a restrições de emissões para a atmosfera. Ver a Seção
+13 sobre métodos específicos para tratamento de gás residual.
+8.3. Equipamento de proteção individual
+Equipamento de proteção individual : Deverá ser realizada uma avaliação de risco e documentada em cada área de trabalho para
+avaliar os riscos relacionados ao uso do produto e para selecionar o PPE que esteja de acordo
+com o risco relvante.As seguintes recomendações deveriam ser consideradas: PPE conforme
+EN/ISO padrões recomendados deverá ser escolhido.
+Proteção para as mãos : Use luvas de trabalho quando manipular contêineres de gás. Padrão EN 388;- Luvas
+protetoras contra risco mecânico.
+Proteção para os olhos : Use óculos de segurança com lâminas laterais. Padrão EN 166: Proteção pessoal para os
+olhos.
+Proteção respiratória : Mantenha o aparelho de respiração autônomo pronto para uso em emergências. O aparelho
+de respiração autônomo é recomendado quando puder ser esperada exposição
+desconhecida,p.ex. durante manutenção em sistemas de instalações. Padrão EN 137 -
+Aparelho de respiração autônomo, de ar comprimido, circuito aberto, com máscara para rosto
+inteiro. Nunca use qualquer tipo de filtro de equipamento protetor respiratório com esta
+substância devido a ter deficiente ou nenhuma propriedade de alerta.
+Proteção contra perigo térmico : Nada além das seções acima.
+9. Propriedades físicas e químicas
+9.1. Informações sobre propriedades físico-químicas básicas
+Estado físico : Gás
+Cor : Colourless.
+
+10. Estabilidade e reatividade
+
+11. Informações toxicológicas
+MONÓXIDO DE CARBONO COMPRIMIDO (630-08-0) | 
+CL50 inalação rato(ppm) | 3760 ppm/1h
+Ficha de Informações de Segurança de Produtos Químicos De acordo com ABNT
+NBR 14725-4: 2014
+PRODUTO MONÓXIDO DE CARBONO COMPRIMIDO Página: 5/9
+Versão: 1.0
+Odor : Inodoro
+Limiar de odor : O umbral do odor é subjetivo e inadequado para alertar sobre superexposição.
+pH : Não é aplicável para gases e suas misturas.
+Ponto de fusão : -205 °C
+Ponto de solidificação : -205 °C
+Ponto de ebulição : -192 °C
+Ponto de fulgor : Não é aplicável para gases e suas misturas.
+Taxa de evaporação relativa (acetato de butila = : Não disponível
+1)
+Taxa de evaporação relativa (éter = 1) : Não é aplicável para gases e suas misturas.
+Inflamabilidade (sólido/gás) : Não disponível
+Limites de explosão : 10,9 - 76 vol. %
+Pressão de vapor : Não aplicável.
+Densidade relativa do vapor a 20°C : Não aplicável.
+Densidade relativa : 0,79
+Densidade relativa do gás : 1
+Solubilidade : Água: 30 mg/l
+Log Pow : 1,78
+Log Kow : Não é aplicável para misturas de gás.
+Temperatura de auto-ignição : 605 °C
+Temperatura de decomposição : Não aplicável.
+Viscosidade, cinemática : Não há dados confiáveis disponíveis.
+Viscosidade, dinâmica : Não há dados confiáveis disponíveis.
+Propriedades explosivas : Não aplicável.
+Propriedades oxidantes : Não aplicável.
+9.2. Outras informações
+Grupo de gás : Gás comprimido
+10. Estabilidade e reatividade
+Estabilidade química : Estável em condições normais .
+Condições a evitar : Fique afastado de calor/centelhas/chamas abertas/superfícies quente - não fumar. Evitar
+mistura em sistemas de instalações.
+Produtos perigosos da decomposição : Em condiçoes normais de armazenagem e uso, produtos perigosos de decomposição não
+deveriam ser produzidos.
+Materiais incompatíveis : Ar, oxidante,Ver também o doc. EIGA Safety Info 95: Evitar falhas de cilindros de CO e de
+misturas de CO/CO2 em www.eiga.eu,Para dados adicionais sobre compatibilidade ver a ISO
+11114.
+Possibilidade de reações perigosas : Pode compor atmosfera explosiva com ar,Pode reagir violentamente com oxidantes.
+Reatividade : Sem perigo de reatividade, além dos efeitos descritos nas sub-seções abaixo
+11. Informações toxicológicas
+11.1. Informações sobre os efeitos toxicológicos
+Toxicidade aguda (oral) : Não disponível
+Toxicidade aguda (dérmica) : Não disponível
+Toxicidade aguda (inalação) : Inalação: gases: Tóxico se inalado.
+MONÓXIDO DE CARBONO COMPRIMIDO (630-08-0)
+CL50 inalação rato(ppm) 3760 ppm/1h
+Corrosão/irritação à pele : Não disponível
+pH: Não é aplicável para gases e suas misturas.
+
+12. Informações ecológicas
+MONÓXIDO DE CARBONO COMPRIMIDO (630-08-0) | 
+Estudo cientificamente injustificado. | Estudo cientificamente injustificado.
+EC50 48h- Dáfnia mana [mg/l] | Estudo cientificamente injustificado.
+EC50 72h - Algas [mg/l] | Estudo cientificamente injustificado.
+MONÓXIDO DE CARBONO COMPRIMIDO (630-08-0) | 
+Persistência e degradabilidade | Não participa da hidrólise. Não é prontamente biodegradável.
+MONÓXIDO DE CARBONO COMPRIMIDO (630-08-0) | 
+Log Pow | 1,78
+Log Kow | Não é aplicável para misturas de gás.
+Potencial bioacumulativo | Não é esperado bioacumular devido ao baixo log kow (log kow <4). Ver a Seção 9.
+MONÓXIDO DE CARBONO COMPRIMIDO (630-08-0) | 
+Ecologia - solo | Em virtude de sua alta volatilidade, é improvável que o produto cause poluição do solo ou
+água. A separação no solo é improvável.
+Ficha de Informações de Segurança de Produtos Químicos De acordo com ABNT
+NBR 14725-4: 2014
+PRODUTO MONÓXIDO DE CARBONO COMPRIMIDO Página: 6/9
+Versão: 1.0
+Lesões oculares graves/irritação ocular : Não disponível
+pH: Não é aplicável para gases e suas misturas.
+Sensibilização respiratória ou à pele : Não disponível
+Mutagenicidade em células germinativas : Não disponível
+Carcinogenicidade : Não disponível
+Toxicidade à reprodução : Pode prejudicar a fertilidade ou o feto.
+Toxicidade para órgãos-alvo específicos - : Não disponível
+Exposição única
+Target organ(s) : Sangue.
+Toxicidade para órgãos-alvo específicos - : Provoca danos aos órgãos por exposição repetida ou prolongada.
+Exposição repetida
+Target organ(s) : coração
+Perigo por aspiração : Não disponível
+11.2. Sintomas e efeitos mais importantes, agudos ou tardios
+Nenhuma informação adicional disponível
+12. Informações ecológicas
+12.1. Toxicidade
+Ecologia - geral : Não há dados disponiveis.
+Perigoso ao ambiente aquático - Agudo : Não disponível
+Perigoso ao ambiente aquático - Crônico : Não disponível
+MONÓXIDO DE CARBONO COMPRIMIDO (630-08-0)
+Estudo cientificamente injustificado. Estudo cientificamente injustificado.
+EC50 48h- Dáfnia mana [mg/l] Estudo cientificamente injustificado.
+EC50 72h - Algas [mg/l] Estudo cientificamente injustificado.
+12.2. Persistência e degradabilidade
+MONÓXIDO DE CARBONO COMPRIMIDO (630-08-0)
+Persistência e degradabilidade Não participa da hidrólise. Não é prontamente biodegradável.
+12.3. Potencial bioacumulativo
+MONÓXIDO DE CARBONO COMPRIMIDO (630-08-0)
+Log Pow 1,78
+Log Kow Não é aplicável para misturas de gás.
+Potencial bioacumulativo Não é esperado bioacumular devido ao baixo log kow (log kow <4). Ver a Seção 9.
+12.4. Mobilidade no solo
+MONÓXIDO DE CARBONO COMPRIMIDO (630-08-0)
+Ecologia - solo Em virtude de sua alta volatilidade, é improvável que o produto cause poluição do solo ou
+água. A separação no solo é improvável.
+12.5. Outros efeitos adversos
+Outros efeitos adversos : Efeitos desconhecidos deste produto.
+Efeito sobre o aquecimento global : Contém gas(es) de estufa não cobertos pelo Regulamento (EC) 842/2006.
+Efeitos sobre a camada de ozônio : Nenhum.
+
+13. Considerações sobre destinação final
+
+14. Informações sobre transporte
+Ficha de Informações de Segurança de Produtos Químicos De acordo com ABNT
+NBR 14725-4: 2014
+PRODUTO MONÓXIDO DE CARBONO COMPRIMIDO Página: 7/9
+Versão: 1.0
+13. Considerações sobre destinação final
+Métodos de tratamento de resíduos : Contacte o fornecedor, caso necessite de orientação. Não descarregue em áreas onde há
+risco de formar uma mistura explosiva como ar. Gás de refugo deverá ser aceso com um
+queimador adequado, com pára-centelha. Assegurar que os níveis de emissão dos
+regulamentos locais ou licenças de operar não sejam ultapassados. Ver o Código EIGA de
+Práticas Doc.30 "Descarte de Gases", pode ser obtido por download de http://www.eiga.eu
+para melhor orientação sobre adequados métodos de descarte. Não deverá ser descarregado
+na atmosfera. Devolver o produto não utilizado no cilindro original ao fornecedor.
+Informações adicionais : Informações suplementares.
+14. Informações sobre transporte
+14.1 Regulamentações nacionais e internacionais
+Transporte terrestre Agência Nacional de Transporte Terrestre,Resolução nº 5232, de 14 de dezembro de 2016 -
+Aprova as Instruções Complementares ao Regulamento Terrestre do Transporte de Produtos
+Perigosos, e dá outras providências.
+Nº ONU(RES 5232) : 1016
+Nome apropriado para embarque(RES 5232) : MONÓXIDO DE CARBONO, COMPRIMIDO
+Classe (RES 5232) : 2.3 - Gases tóxicos
+Risco subsidiário (Res 5232) : 2.1 - Gases inflamáveis
+Número de Risco (Res 5232) : 263 - Gás tóxico, inflamável
+Rótulos de perigo (Res 5232)
+Painel de Segurança
+263
+1016
+Transporte marítimo
+Nº ONU (IMDG) : 1016
+Nome apropriado para embarque (IMDG) : CARBON MONOXIDE, COMPRESSED
+Classe (IMDG) : 2 - Gases
+Risco subsidiário (IMDG) : 2.1 - Flammable gases ,8 - Corrosive substances,5.1 - Oxidizing substances
+EmS-No. (Fogo) : F-D - FIRE SCHEDULE Delta - FLAMMABLE GASES
+EmS-No. (Derramamento) : S-U - SPILLAGE SCHEDULE Uniform - GASES (FLAMMABLE, TOXIC OR CORROSIVE)
+Poluente marinho (IMDG) : Sim
+Provisão especial (IMDG) : 23,274,228
+Transporte aéreo
+Nº ONU (IATA) : 1016
+Nome apropriado para embarque (IATA) : Carbon monoxide, compressed
+Classe (IATA) : 2
+Riscos subsidiários (IATA) : 2.1 - Flammable gases,8 - Corrosive substances,5.1 - Oxidizing substances
+Provisão especial (IATA) : A1,A2,A52
+
+15. Informações sobre regulamentações
+
+16. Outras informações
+ESCRITÓRIOS REGIONAIS | | 
+ESTADO | CIDADE | TELEFONE
+Bahia | Aratu | (71) 3296 8250
+Espírito Santo | Vitória | (27) 3016-2700
+Goiás | Aparecida de Goiânia | (62) 4017 2770
+Minas Gerais | Contagem | (31) 3119 9200
+Paraná | Curitiba | (41) 3386 8000
+Pernambuco | Recife | (81) 3518 5800
+Rio de Janeiro | Rio de Janeiro | (21) 2662 2363
+Rio Grande do Sul | Canoas | (51) 3462 4300
+São Paulo | Campinas | (19) 3781 3000
+São Paulo | São Paulo | (11) 2948 9800
+São Paulo | Sertãozinho | (16) 3946 8310
+CENTROS DE PRODUÇÃO | 
+UNIDADE | TELEFONE
+Araucária (PR) | (41) 3116-2700
+Belford Roxo (RJ) | (21) 2662 2363
+Cumbica (SP) | (11) 2085 4000
+Jundiaí (SP) | (11) 4531-7800
+Oxicap (SP) | (11) 4549 9300
+Paulínia (SP) | (19) 3844 9010
+S. José Campos (SP) | (12) 3906 5000
+Suzano (SP) | (11) 4745 8725
+Ficha de Informações de Segurança de Produtos Químicos De acordo com ABNT
+NBR 14725-4: 2014
+PRODUTO MONÓXIDO DE CARBONO COMPRIMIDO Página: 8/9
+Versão: 1.0
+14.2 Outras informações
+Precauções especiais para o transporte : Evite transportar em veículos onde o espaço da carga não está separado da cabine do
+motorista,Assegure-se de que o motorista do carro esteja consciente dos potenciais de perigo da
+carga, e que saiba o que fazer em caso de acidente ou de uma emergência,Antes de transportar
+contêineres de produto:Assegure ventilação adequada,Assegure-se que os contêineres sejam
+firmemente amarrados,Assegure-se que a válvula do cilindro esteja fechada, não
+vazando,Assegure-se que a tampa ou plugue de descarga (quando existente) esteja
+adequadamente montado,Assegure-se que o dispositivo protetor da válvula (quando existente)
+esteja corretamente montado.
+15. Informações sobre regulamentações
+Regulamentações locais do Brasil : Norma ABNT NBR 14725.
+Decreto Federal nº 2.657, de 3 de julho de 1998 – Promulga a Convenção nº 170 da OIT,
+relativa à Segurança na Utilização de Produtos Químicos no Trabalho, assinada em Genebra,
+em 25 de junho de 1990.
+Portaria nº 229, de 24 de maio de 2011 - Altera a Norma Regulamentadora nº 26
+Resolução nº 5232, de 14 de dezembro de 2016 - Aprova as Instruções Complementares ao
+Regulamento Terrestre do Transporte de Produtos Perigosos, e dá outras providências.
+Kenn-Nr. : 257
+16. Outras informações
+ESCRITÓRIOS REGIONAIS CENTROS DE PRODUÇÃO
+ESTADO CIDADE TELEFONE UNIDADE TELEFONE
+Bahia Aratu (71) 3296 8250 Araucária (PR) (41) 3116-2700
+Espírito Santo Vitória (27) 3016-2700 Belford Roxo (RJ) (21) 2662 2363
+Goiás Aparecida de Goiânia (62) 4017 2770 Cumbica (SP) (11) 2085 4000
+Minas Gerais Contagem (31) 3119 9200 Jundiaí (SP) (11) 4531-7800
+Paraná Curitiba (41) 3386 8000 Oxicap (SP) (11) 4549 9300
+Pernambuco Recife (81) 3518 5800 Paulínia (SP) (19) 3844 9010
+Rio de Janeiro Rio de Janeiro (21) 2662 2363 S. José Campos (SP) (12) 3906 5000
+Rio Grande do Sul Canoas (51) 3462 4300 Suzano (SP) (11) 4745 8725
+São Paulo Campinas (19) 3781 3000
+São Paulo São Paulo (11) 2948 9800
+São Paulo Sertãozinho (16) 3946 8310
+Ficha de Informações de Segurança de Produtos Químicos De acordo com ABNT
+NBR 14725-4: 2014
+PRODUTO MONÓXIDO DE CARBONO COMPRIMIDO Página: 9/9
+Versão: 1.0
+Abreviaturas e acrônimos : ATE - Acute Toxicity Estimate
+CLP - Classification Labelling Packaging Regulation; Regulation (EC) No 1272/2008
+REACH - Registration, Evaluation, Authorisation and Restriction of Chemicals Regulation (EC)
+No 1907/2006
+EINECS - European Inventory of Existing Commercial Chemical Substances
+CAS# - Chemical Abstract Service number
+PPE - Personal Protection Equipment
+LC50 - Lethal Concentration to 50 % of a test population
+RMM - Risk Management Measures
+PBT - Persistent, Bioaccumulative and Toxic
+vPvB - Very Persistent and Very Bioaccumulative
+STOT- SE : Specific Target Organ Toxicity - Single Exposure
+CSA - Chemical Safety Assessment
+EN - European Standard
+UN - United Nations
+ADR - European Agreement concerning the International Carriage of Dangerous Goods by
+Road
+IATA - International Air Transport Association
+IMDG code - International Maritime Dangerous Goods
+RID - Regulations concerning the International Carriage of Dangerous Goods by Rail
+WGK - Water Hazard Class
+STOT - RE : Specific Target Organ Toxicity - Repeated Exposure
+FISPQ AIR LIQUIDE
+Esta informação está baseada em nosso conhecimento atual e pretende descrever o produto tendo unicamente em vista os requisitos de saúde, segurança e meio ambiente. Não deve, portanto,
+ser interpretada como garantia de qualquer propriedade específica do produto.

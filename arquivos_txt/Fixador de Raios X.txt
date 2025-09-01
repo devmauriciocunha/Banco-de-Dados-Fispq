@@ -1,0 +1,176 @@
+| 
+ | 
+ | Substância | | | CAS | | | Percentual | | | Impurezas
+Água | | | 7732-18-5 | | | 60% a 70% | | | | 
+Sulfito de Sódio | | | 7757-83-7 | | | 6% a 8% | | | | 
+Tiossulfato de Amônio | | | 7783-18-8 | | | 20% a 30% | | | | 
+Ficha de Informação de Segurança Página 1de4
+de Produtos Químicos Revisão N°
+00
+Fixador de Raios-X
+FISPQ-005 Data: 27/03/2019
+1.Identificação do Produto e da empresa
+Nome do Produto: Fixador de Raios-X
+Uso do material: Líquido fixador utilizado para interromper o processo de revelação e
+fixar a imagem de raio-X obtida pelo profissional devidamente qualificado.
+Fabricado por: Bravi Industria e Comércio de Produtos Odontológicos S.A. – Rua José
+Pereira Liberato, 2405 – Itajaí – SC – CEP 88303-400
+Responsável Técnico: Rodrigo Brandão Medeiros dos Santos – CRQ - SC 13302371
+Contato em casos de emergência: (47) 3398-4375
+2.Composição do Produto
+Substância CAS Percentual Impurezas
+Água 7732-18-5 60% a 70% NA
+Sulfito de Sódio 7757-83-7 6% a 8% NA
+Tiossulfato de Amônio 7783-18-8 20% a 30% Na
+Outros componentes presentes na formulação não causam nenhum tipo de risco e
+devido a isso, não precisam ser declarados.
+3.Identificação de Riscos
+Cassificação da Substância ou mistura Classificação (REGULAMENTAÇÃO (EC) Nº
+1272/2008)
+Carcinogenicidade, Categoria 2, H351
+Mutagenicidade em células germinativas, Categoria 2, H341
+Toxicidade aguda, Categoria 4, Oral, H302
+Lesões oculares graves, Categoria 1, H318
+Sensibilização da pele, Cetgoria 1, H317
+Toxicidade aguda em meio aquático, Categoria 1, H400
+Classificação (67/548/CEE ou 1999/45/CE)
+Carc.Cat.3 Carcinogênico Categoria 3 R40
+Mut.Cat.3 Mutagênico Categoria 3 R68
+Xn Nocivo R22
+Xi Irritante R41 R43
+N Perigoso para o ambiente R50
+Para obter o texto completo das Frases R mencionadas nesta seção, consulte a seção 16.
+4.Primeiros Socorros
+Contato com a pele: Lave a pele com água em abundância e remova qualquer resíduo
+do material. Em casos graves, com o aparecimento de vermelhidão, irritação ou alergia,
+procure um médico;
+Contato com o olho: Lave com água em abundância e em hipótese alguma esfregue o
+olho. Procure um médico imediatamente.
+Ingestão: Não induzir o vômito em nenhum momento. Utilize muita água e procure um
+médico.
+ | 
+ | 
+Ficha de Informação de Segurança Página 2de4
+de Produtos Químicos Revisão N°
+00
+Fixador de Raios-X
+FISPQ-005 Data: 27/03/2019
+Inalação Buscar local arejado eprocurar um médico imediatamente.
+5. Medidas de Combate ao Fogo
+Produto não inflamável – não é necessário tomar nenhuma medida.
+6. Medidas de Proteção de Acidentes
+Precauções pessoais:
+Eliminar toda fonte de calor ou fogo.
+Tomar medidas de proteção conforme seção 8
+Afastar produtos incompatíveis (seção 10)
+Afastar os curiosos e evitar contato com o produto.
+Precaução ao meio ambiente:
+Evitar drenagem para esgoto em curso de água, conter o derramamento ou vazamento
+da melhor forma possível usando areia e neutralizar o produto com cal.
+Comunicar autoridades competentes no caso de derrame importante.
+Método para limpeza:
+Lavar abundantemente o local com água.
+Gerenciar o resíduo conforme orientação de um técnico responsável.
+7. Manuseio e Armazenamento
+Manuseio:
+Usar corretamente os equipamentos de proteção individual (EPI) indicados, como:
+Óculos de segurança, máscara semi-facial gases ácidos, calça e camisa de manga
+comprida, avental, botas e luvas de PVC.
+Armazenamento:
+Em local fresco ao abrigo da luz.
+Em local adequado para acondicionamento de produto químico, afastado de produtos
+oxidantes e substâncias combustíveis.
+Bacia de contenção para recipiente e instalações de transporte.
+Materiais de Embalagem/Transporte:
+Aço revestido, PVC, PE, Poliéster estratificado, vidro
+8. Controle de Exposição (EPI)
+Valores limites de exposição:
+TLV (ACGIH-USA): Não aplicável
+PEL (OSHA): Não aplicável
+Controle engenharia: Ventilação adequada.
+Proteção respiratória: Máscara faciais ou semi-faciais com cartucho para gases.
+ | 
+ | 
+Ficha de Informação de Segurança Página 3de4
+de Produtos Químicos Revisão N°
+00
+Fixador de Raios-X
+FISPQ-005 Data: 27/03/2019
+Proteção das mãos: Luvas de proteção com resistência química: PVC, Neoprene, Látex.
+Proteção dos olhos: Óculos de segurança para todas as operações industriais.
+Proteção da pele: Avental de proteção, botas de borracha, PVC.
+9. Propriedades Físico-Químicas
+Estado físico: Líquido
+Cor: Incolor
+Odor: Inodoro
+Ponto de congelamento: Não aplicável
+Flash Point: Não aplicável
+Densidade: 1,00 g/cm³
+Densidade vapor (ar=1): Não aplicável
+Viscosidade (cps 21ºC): Aproximadamente 1 cP
+Pressão de Vapor: Não aplicável
+Solubilidade: Solúvel em água
+pH : 3,0 a 4,5
+Ponto de inflamação: Não disponível
+Perigo de explosão: Não aplicável
+Taxa de evaporação: Não aplicável
+10.Estabilidade e Reatividade
+Estabilidade: Decompõe-se por aquecimento, com liberação de SO2.
+Matérias a evitar: materiais oxidáveis e alcalinos
+Reações perigosas: Pode reagir com materiais oxidantes e alcalinos de forma lenta
+Produtos perigosos da decomposição: Não é conhecido nenhum produto de
+decomposição perigoso
+11.Informações Toxicológicas
+Toxicidade - limites e padrões
+L.P.O.: NÃO APLICÁVEL
+P.P.: 200 mg/L (PARA SÓDIO)
+IDLH: DADO NÃO APLICÁVEL
+LT: Brasil - Valor Médio 48h: DADO NÃO APLICÁVEL
+LT: Brasil - Valor Teto: DADO NÃO APLICÁVEL
+LT: EUA - TWA: 5 mg/m³
+LT: EUA - STEL: NÃO ESTABELECIDO
+Toxicidade ao homem e animais superiores (vertebrados)
+M.D.T.: DADO NÃO APLICÁVEL
+M.C.T.: DADO NÃO APLICÁVEL
+Informações sobre intoxicação humana
+EVITAR CONTATO. MANTER AS PESSOAS AFASTADAS. ISOLAR E REMOVER O
+MATERIAL DERRAMADO.
+Tipo de contato VAPOR
+Síndrome tóxica PREJUDICIAL, SE INALADO.
+Tratamento MOVER PARA O AR FRESCO. SE A RESPIRAÇÃO FOR DIFICULTADA OU
+PARAR, DAR OXIGÊNIO OU FAZER RESPIRAÇÃO ARTIFICIAL.
+ | 
+ | 
+Ficha de Informação de Segurança Página 4de4
+de Produtos Químicos Revisão N°
+00
+Fixador de Raios-X
+FISPQ-005 Data: 27/03/2019
+Tipo de contato LÍQUIDO
+Síndrome tóxica IRRITANTE PARA A PELE. IRRITANTE PARA OS OLHOS.
+PREJUDICIAL, SE INGERIDO.
+Tratamento ENXAGUAR AS ÁREAS AFETADAS COM MUITA ÁGUA. MANTER
+AS PÁLPEBRAS ABERTAS E ENXAGUAR COM MUITA ÁGUA.
+12.Informações Ecológicas
+Efeitos ambientais, comportamentos e impactos do produto:
+Produto químico de característica acida, podendo comprometer na demanda química de
+oxigênio do meio
+13. Descarte
+Conforme descrito em manual utilizar as regulamentações governamentais para descarte.
+14.Transporte
+Transporte Terrestre (ADR/RID):
+14.1 – 14.6: Produto não regulado e não classificado como perigoso.
+Transporte Fluvial (ADN):
+Não relevante
+Transporte Aéreo (IATA):
+14.1 – 14.6: Produto não regulado e não classificado como perigoso.
+15.Reguladora
+Palavra de advertência Perigo Frases de perigo
+H302 Nocivo se ingerido.
+H317 Pode provocar reações alérgicas na pele.
+H318 Provoca lesões oculares graves.
+H400 Muito tóxico para os organismos aquáticos
+16.Outras Informações
+Produto exclusivo para uso profissional devidamente qualificado. Todas as
+instruções de uso estão apresentadas no manual de instruções atrás da embalagem
+secundária do produto.

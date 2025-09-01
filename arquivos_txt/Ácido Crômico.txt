@@ -1,0 +1,332 @@
+Nome da substância ou
+mistura: | Ácido crômico
+FISPQ
+Em conformidade com NBR 14725 - 4:2014
+Ficha de Informação de Segurança de Produtos Químicos
+Revisão: 01 25/01/2017 Página: 1/7
+1.Identificação
+Nome da substância ou Ácido crômico
+mistura:
+Código interno de A272, A010
+identificação do produto:
+Principais usos Uso industrial, tratamento de superfícies.
+recomendados para a
+substância ou mistura:
+Nome da empresa: Alpha Galvano Química Brasileira Ltda.
+Endereço: Rua dos Minerais, 535, CEP: 08586-080, Itaquaquecetuba – SP – Brasil
+Telefone para contato: (+55 11) 4646-1500
+Telefone para 0800 707 7022 (Suatrans Cotec) 24 h
+emergências: 193 (Bombeiros)
+E-mail da pessoa
+j.felipe@alphagalvano.com.br
+responsável pela FISPQ
+2. Identificação de perigos
+Classificação da Sólido oxidante – Categoria 2
+substância ou mistura: Corrosão/Irritação à pele categoria 1B
+Elementos apropriados da rotulagem
+Pictogramas
+Palavra de advertência: Perigo
+Frases de Perigo H272 – Pode agravar um incêndio, comburente.
+H330 – Fatal se inalado.
+H301 – Tóxico se ingerido.
+Frases de Precaução
+-Geral: Não exigidas
+-Prevenção: P210 – Mantenha afastado do calor/faísca/chama aberta/superfícies quentes. Não fume.
+P220 – Mantenha/guarde afastado de roupas e materiais combustíveis.
+P264 – Lave as mão cuidadosamente após o manuseio.
+-Resposta à P302 + P352 – EM CASO DE CONTATO COM A PELE: Lave com água e sabão em
+emergência: abundância.
+P304 + P340 – EM CASO DE INALAÇÃO: Remova a pessoa para local ventilado e a
+mantenha em repouso numa posição que não dificulte a respiração.
+P305 + P351 + P338 – EM CASO DE CONTATO COM OS OLHOS: Enxágue
+cuidadosamente com água durante vários minutos. No caso de uso de lentes de contato,
+remova-as, se for fácil. Continue enxaguando.
+-Armazenamento: P403 + P233 – Armazene em local bem ventilado. Mantenha o recipiente hermeticamente
+fechado.
+-Disposição P501 – Descarte o conteúdo/recipiente em acordo com a legislação local.
+Outros perigos que não resultam em uma classificação: Não se aplica
+Componente | N° CAS | Concentração
+Ácido crômico | 1333-82-0 | 99 a 100 %
+FISPQ
+Em conformidade com NBR 14725 - 4:2014
+Ficha de Informação de Segurança de Produtos Químicos
+Revisão: 01 25/01/2017 Página: 2/7
+3. Composição e informações sobre os ingredientes
+Tipo de produto: Produto
+Ingredientes ou impurezas que contribuam para o perigo.
+Componente N° CAS Concentração
+Ácido crômico 1333-82-0 99 a 100 %
+4. Medidas de primeiros socorros
+ Inalação: Remova a vítima para ambiente arejado.
+Caso haja dificuldade de respiração, administrar oxigênio ou aplicar respiração artificial.
+Providencie socorro médico imediatamente.
+ Contato com a Remova as roupas e sapatos contaminados lavando continuamente as áreas afetadas com
+pele: aguá abundante.
+Providencie socorro médico imediatamente.
+ Contato com os Lave imediatamente com aguá ou soro fisiológico, mantendo as pálpebras abertas e os
+olhos: olhos em movimento para todos os lados.
+Não neutralize com nenhum outro produto.
+Providencie socorro médico imediatamente.
+ Ingestão Não induza ao vômito.
+Caso estiver consciente, faça a vítima ingerir uma grande quantidade de aguá.
+Providencie socorro médico imediatamente.
+Notas para o médico: Faça lavagem gástrica com soro fisiológico até três horas após a ocorrência.
+Não use neutralizante.
+Acompanhe o acidentado por 5 (cinco) dias pelo menos.
+5. Medidas de combate a incêndio
+ Meios de extinção Apropriado: extintor de pó químico, CO2, neblina de aguá ou espuma.
+(apropriados e Inadequado: jato de aguá de forma direta.
+inadequados):
+ Perigos específicos da O contato direto com aguá causa reação exotérmica.
+substância ou mistura: A combustão do produto químico ou de sua embalagem pode formar gases irritantes
+e tóxicos.
+ Medidas de proteção Equipamento de proteção respiratória do tipo autônomo (SCBA) com pressão
+da equipe de combate positiva e vestuário protetor completo. Contêineres e tanques envolvidos no incêndio
+a incêndio: devem ser resfriados com neblina d’água.
+6. Medidas de controle para derramamento ou vazamento
+Precauções pessoais, equipamentos de proteção e procedimentos de emergência.
+ Para o pessoal que Isole o vazamento e fontes de ignição preventivamente. Não fume. Não toque nos
+não faz parte dos recipientes danificados ou no material derramado sem o uso de vestimentas
+serviços de adequadas. Utilize equipamento de proteção individual conforme descrito na seção
+emergência: 8.
+ Para o pessoal do Utilizar EPI completo, óculos com proteção lateral, luvas de proteção adequada,
+serviço de avental em PVC ou em borracha, vestuário protetor antiácido(PVC ou outro material
+emergência: equivalente), botas em borracha ou em PVC e sob condições normais, não ha
+necessidade, porém em situações especiais, usar mascara (semi-facial) com filtro
+contra partículas, mascara facial inteira com linha de ar, ou ainda, conjunto
+Nome químico ou
+Comum | TLV – C
+(ACGIH, 2012)
+Ácido crômico | 0,05 mg/m³ – 8 horas
+FISPQ
+Em conformidade com NBR 14725 - 4:2014
+Ficha de Informação de Segurança de Produtos Químicos
+Revisão: 01 25/01/2017 Página: 3/7
+autônomo de ar respirável.
+Precauções para o meio Evite que o produto derramado atinja cursos d’água e rede de esgotos.
+ambiente:
+Métodos e materiais para a Recuperar o produto derramado colocando em tambores apropriados, identificar
+contenção limpeza: conforme estabelecido no transporte. Antes da disposição, proceder à devida
+neutralização, utilizando ácidos diluídos como clorídrico ou acético, observando os
+riscos da reação que pode ser violenta. Para destinação final proceder conforme
+seção 13.
+7. Manuseio e armazenamento
+Medidas técnicas apropriadas para o manuseio:
+ Precauções para Manuseie em uma área ventilada ou com sistema geral de ventilação/exaustão local.
+manuseio seguro: Evite formação de partículas. Evite exposição ao produto. Evite contato com
+materiais incompatíveis. Use luvas de proteção, roupa de proteção, proteção ocular
+e/ou proteção facial como indicado na Seção 8.
+ Medidas de higiene: Lave as mãos e o rosto cuidadosamente após o manuseio e antes de comer, beber,
+fumar ou ir ao banheiro. Roupas contaminadas devem ser trocadas e lavadas antes
+de sua reutilização. Remova a roupa e o equipamento de proteção contaminado
+antes de entrar nas áreas de alimentação.
+Condições de armazenamento seguro, incluindo qualquer incompatibilidade:
+Prevenção de incêndio Não é esperado que o produto apresente risco de incêndio ou explosão.
+Condições adequadas: O produto deve ser empilhado em paletes com no máximo 2 tambores, em área
+coberta e piso sem umidade. Armazene em local bem ventilado, longe da luz solar.
+Mantenha o recipiente fechado.
+Não é necessário adição de estabilizantes e antioxidantes para garantir a
+durabilidade do produto. Este produto pode reagir, de forma perigosa, com alguns
+materiais incompatíveis conforme destacado na Seção 10.
+8. Controle de exposição e proteção individual
+Parâmetros de controle:
+Limite de exposição Nome químico ou TLV – C
+ocupacional: Comum (ACGIH, 2012)
+Ácido crômico 0,05 mg/m³ – 8 horas
+Indicadores biológicos: Não há.
+Medidas de controle de Promova ventilação mecânica e sistema de exaustão direta para o meio exterior.
+engenharia: Estas medidas auxiliam na redução da exposição ao produto. É recomendado tornar
+disponíveis chuveiros de emergência e lava olhos na área de trabalho. Manter as
+concentrações da substância ou mistura no ar abaixo dos limites de exposição
+ocupacional indicados.
+Medidas de proteção pessoal:
+ Proteção dos Óculos com proteção lateral.
+olhos/face:
+ Proteção da pele e Luvas de proteção adequada, avental em PVC ou em borracha, vestuário
+do corpo: protetor antiácido (PVC ou outro material equivalente) e botas em borracha ou em
+PVC.
+FISPQ
+Em conformidade com NBR 14725 - 4:2014
+Ficha de Informação de Segurança de Produtos Químicos
+Revisão: 01 25/01/2017 Página: 4/7
+ Proteção Sob condições normais, não há necessidade, porém em situações especiais, usar
+respiratória: máscara (semi-facial) com filtro contra poeiras, máscara facial inteira com linha de ar,
+ou ainda, conjunto autônomo de ar respirável.
+ Perigos térmicos: Usar proteção pessoal durante o manuseio da substância aquecida e seguir os
+procedimentos de trabalho e de pausas em ambientes quentes.
+9. Propriedades físicas e químicas
+Aspecto:
+Estado físico: Sólido
+Forma: Escamas
+Cor: Avermelhado
+Odor: Característico
+Limite de odor: Não disponível
+pH: 1,8 em solução (P/P) 10%
+Ponto de fusão: Não disponível.
+Ponto de ebulição inicial e Não disponível.
+faixa de temperatura de
+ebulição:
+Ponto de fulgor: Não disponível.
+Taxa de evaporação: Não disponível.
+Inflamabilidade (sólido; Não inflamável.
+gás):
+Limite inferior/superior de Não inflamável.
+inflamabilidade ou
+explosividade:
+Pressão de vapor: Não disponível.
+Densidade de vapor: Não disponível.
+Densidade relativa: Não disponível.
+Solubilidade(s): Solúvel em aguá
+Coeficiente de partição – n- Não disponível.
+octanol/água:
+Temperatura de Não disponível.
+autoignição:
+Temperatura de Não disponível.
+decomposição:
+Viscosidade: Não disponível.
+FISPQ
+Em conformidade com NBR 14725 - 4:2014
+Ficha de Informação de Segurança de Produtos Químicos
+Revisão: 01 25/01/2017 Página: 5/7
+10. Estabilidade e reatividade
+Reatividade: Não reativo.
+Estabilidade química: Produto estável em condições normais de pressão e temperatura.
+Possibilidade de reações Reage violentamente com metais alcalinos, compostos de metais alcalinos,
+perigosas: amoníaco, metais alcalino-terrosos, soluções de hidróxidos alcalinos, compostos de
+metais alcalino-terrosos, metais, ligas metálicas, óxidos de fósforo, fósforo, hidretos,
+compostos halogénio-halogénio, halogenatos, permanganatos, nitratos, carbonetos,
+substâncias inflamáveis, solventes orgânicos, acetiletoses, nitrilos, nitro-compostos
+orgânicos, anilinas, peróxidos, picratos, nitretos, silicite de lítio.
+Condições a serem
+Temperaturas altas e contato materiais incompatíveis.
+evitadas:
+Materiais incompatíveis: Incompatível com metais, tecidos de origem animal/vegetal.
+Produtos perigosos da
+Não são conhecidos produtos perigosos da decomposição.
+decomposição:
+11. Informações toxicológicas
+Toxicidade aguda: Tóxico se ingerido. Nocivo em contato com a pele.
+ LD50 (oral, rato): 2140 mg/kg (Com solução de 25%).
+ LC50 (inalação, rato): 0.51 mg/l /2 h (calculado em substância pura)
+Corrosão/irritação da pele: Provoca queimadura severa à pele com possibilidade de destruição dos tecidos.
+Lesões oculares
+Provoca lesões oculares graves com dor, lacrimejamento, podendo levar à cegueira.
+graves/irritação ocular:
+Sensibilidade respiratória Não é esperado que o produto apresente potencial de sensibilização respiratória.
+ou à pele: Pode provocar reações alérgicas na pele com prurido e dermatite.
+Mutagenicidade em células
+Não é esperado que o produto apresente mutagenicidade em células germinativas.
+germinativas:
+Carcinogenicidade: Não é esperado que o produto apresente carcinogenicidade.
+Toxicidade à reprodução: Não é esperado que o produto apresente toxicidade à reprodução.
+Toxicidade para órgãos-alvo
+A ingestão do produto pode causar perfurações nos tecidos da boca, garganta,
+específicos – exposição
+esôfago e estômago.
+única:
+Toxicidade para órgãos-alvo
+Não é esperado que o produto apresente toxicidade ao órgão-alvo específico por
+específicos – exposição
+exposição repetida ou prolongada.
+repetida:
+Perigo por aspiração: Pode ser nocivo se ingerido podendo causar perfurações nos tecidos da boca,
+garganta, esôfago e estômago, e nocivo se penetrar nas vias respiratórias podendo
+causar tosse e até pneumonia química.
+12. Informações ecológicas
+Ecotoxicidade: Muito nocivo ao meio ambiente. Toxicidade para os peixes e toxicidade aguda para
+bactérias e plâncton. Efeito prolongado.
+CL peixe: 25 mg/L – 96 h
+50
+CE – Daphnia magna: 0,10 mg/L 48 h
+50
+Persistência e Em função da ausência de dados, espera-se que o produto apresente persistência e
+degradabilidade: não seja rapidamente degradado.
+FISPQ
+Em conformidade com NBR 14725 - 4:2014
+Ficha de Informação de Segurança de Produtos Químicos
+Revisão: 01 25/01/2017 Página: 6/7
+Potencial bioacumulativo: Não é esperado potencial bioacumulativo em organismos aquáticos.
+Mobilidade no solo: Não determinada.
+Outros efeitos adversos: Devida a natureza corrosiva e oxidante do produto, animais expostos a este produto
+poderão sofrer danos teciduais sendo levados a morte, dependendo da concentração
+ambiental. As plantas contaminadas com o produto podem adversamente ser
+afetadas ou destruídas.
+13. Considerações sobre destinação final
+Métodos recomendados para a destinação final:
+Produto: Deve ser eliminado como resíduo perigoso de acordo com a legislação local. O
+tratamento e a disposição devem ser avaliados especificamente para cada produto.
+Devem ser consultadas legislações federais, estaduais e municipais, dentre estas:
+Resolução CONAMA 005/1993, Lei n°12.305, de 02 de agosto de 2010 (Política
+Nacional de Resíduos Sólidos).
+Restos de produto: Manter restos do produto em suas embalagens originais e devidamente fechadas. O
+descarte deve ser realizado conforme o estabelecido para o produto.
+Embalagens usada: Não reutilize embalagens vazias. Estas podem conter restos do produto e devem ser
+mantidas fechadas e encaminhadas para serem destruídas em local apropriado.
+14. Informações sobre transporte
+Regulamentações nacionais e internacionais:
+Terrestre: Resolução n° 420 de 12 de Fevereiro de 2004 da Agência Nacional de Transportes
+Terrestres (ANTT), Aprova as Instruções Complementares ao Regulamento do
+Transporte Terrestre de Produtos Perigosos e suas modificações.
+Hidroviário: DPC - Diretoria de Portos e Costas (Transporte em águas brasileiras) Normas de
+Autoridade Marítima (NORMAM) NORMAM 01/DPC: Embarcações Empregadas na
+Navegação em Mar Aberto NORMAM 02/DPC: Embarcações Empregadas na
+Navegação Interior IMO – “International Maritime Organization” (Organização
+Marítima Internacional) International Maritime Dangerous Goods Code (IMDG Code)
+Aéreo: ANAC - Agência Nacional de Aviação Civil – Resolução n°129 de 8 de dezembro de
+2009. RBAC N°175 – (REGULAMENTO BRASILEIRO DA AVIAÇÃO CIVIL) -
+TRANSPORTE DE ARTIGOS PERIGOSOS EM AERONAVES CIVIS. IS N° 175-001
+– INSTRUÇÃO SUPLEMENTAR – IS ICAO – “International Civil Aviation
+Organization” (Organização da Aviação Civil Internacional) – Doc 9284-NA/905 IATA -
+“International Air Transport Association” (Associação Internacional de Transporte
+Aéreo) Dangerous Goods Regulation (DGR)
+Número da ONU: 1463
+Nome apropriado para Trióxido de cromo, anidro
+embarque:
+Classe/subclasse de risco 5,1
+principal:
+Risco subsidiário: 8
+Número de risco: 58
+Grupo de embalagem: II
+Perigo ao meio ambiente: Ocorrendo poluição de água ou solo notificar as autoridades competentes.
+FISPQ
+Em conformidade com NBR 14725 - 4:2014
+Ficha de Informação de Segurança de Produtos Químicos
+Revisão: 01 25/01/2017 Página: 7/7
+15. Informações sobre regulamentação
+Regulamentações específicas e segurança, saúde e meio ambiente para o produto químico:
+Decreto lei n° 96.044 de 18/mai/1998, que trata da regulamentação do transporte de
+produtos perigosos.
+Resolução n° 420 de 12/fev/2004 da ANTT, que trata de instruções complementares
+ao regulamento do transporte e armazenagem de materiais.
+ABNT – NBR 7500:2013, que normatiza os símbolos de risco e manuseio para o
+transporte e armazenagem de materiais.
+ABNT – NBR 7501:2011, que normatiza a terminologia utilizada no transporte de
+produtos perigosos.
+ABNT – NBR 7503:2016, que normatiza a ficha de emergência para transporte de
+produtos perigosos – característica e dimensões.
+ABNT – NBR 9735:2016, que normatiza o conjunto de equipamentos para
+emergências no transporte de produtos perigosos.
+16. Outras informações
+Informações importantes, mas não especificamente descritas às seções anteriores:
+Esta FISPQ foi elaborada baseada nos conhecimentos atuais do produto químico e fornece informações quanto à
+proteção, à segurança, à saúde e ao meio ambiente. Adverte-se que o manuseio de qualquer substância química
+requer o conhecimento prévio de seus perigos pelo usuário. Cabe à empresa usuária do produto promover o
+treinamento de seus empregados e contratados quanto aos possíveis riscos advindos do produto.
+Legendas e abreviaturas:
+ACGIH – American Conference of Governmental Industrial Hygienists
+CAS – Chemical Abstracts Service
+DL50 – Dose letal 50%
+CE50 – Concentração Efetiva 50%
+LT – Limite de Tolerância
+NA – Não aplicável
+NR – Norma Regulamentadora
+TLV – Threshold Limit Value
+Referências Bibliográficas:
+AMERICAN CONFERENCE OF GOVERNMENTAL INDUSTRIALS HYGIENISTS. TLVs® E BEIs®: baseado na
+documentação dos limites de exposição ocupacional (TLVs®) para substâncias químicas e agentes físicos & índices
+biológicos de exposição (BEIs®). Tradução Associação Brasileira de Higienistas Ocupacional. São Paulo, 2012
+Manual de Autoproteção para o Manuseio e Transporte Rodoviário de Produtos Perigosos (PP10) – 10ª Edição, 2010
+ECHA – EUROPEAN CHEMICALS AGENCY. Disponível em: <http://echa.europa.eu/web/guest/information-on-
+chemicals/registered- substances>. Acesso em: fev. 2013
+MINISTÉRIO DO TRABALHO E EMPREGO (MTE). Norma Regulamentadora (NR) n°7: Programa de controle
+médico de saúde ocupacional. Brasília, DF. Abr. 2011.

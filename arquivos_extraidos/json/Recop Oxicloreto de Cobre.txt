@@ -1,0 +1,537 @@
+| | Ficha de Informação de Segurança de Produto | | FISPQ 002
+Revisão: 02
+Emissão:
+21/05/2018
+Página 1 de 12
+ | | Químico | | 
+ | | FISPQ | | 
+ | RECOP | | | 
+Ficha de Informação de Segurança de Produto FISPQ 002
+Químico Revisão: 02
+FISPQ Emissão:
+21/05/2018
+RECOP Página 1 de 12
+1. IDENTIFICAÇÃO DO PRODUTO E DA EMPRESA
+Nome do produto: RECOP
+Tipo de formulação: Sólido, pó molhável
+Aplicação: Fungicida bactericida, classe toxicológica IV
+Empresa: ALBAUGH AGRO BRASIL LTDA
+Endereço: Av. Basiléia, 590 – CEP: 27521-210 – Resende – RJ
+Tel. (24) 3354-1176 / tel. 24 h (24) 3354-5323
+2. IDENTIFICAÇÃO DOS PERIGOS
+Classificação do produto Toxicidade aguda – Oral – Categoria 5
+Perigoso ao ambiente aquático – Agudo – Categoria 1
+Perigoso ao ambiente aquático – Crônico – Categoria 2
+Elementos apropriados de rotulagem
+Símbolo GHS
+Palavras de advertência ATENÇÃO!
+Frases de perigo H303: Pode ser nocivo se ingerido
+H411: Tóxico para os organismos aquáticos, com efeitos prolongados
+Frases de precaução Geral
+P103 Ler o rótulo antes da utilização.
+Prevenção:
+P273 Evite a liberação para o meio ambiente.
+Resposta
+P312 Caso sinta indisposição, contate um CENTRO DE INFORMAÇÃO
+TOXICOLÓGICA/médico
+P391 Recolha o material derramado.
+Armazenamento
+P403: Armazenar em local bem ventilado.
+RECOP 1/12 revisão:02
+V:\SEGURANÇA\FISPQ
+ | | Ficha de Informação de Segurança de Produto | | FISPQ 002
+Revisão: 02
+Emissão:
+21/05/2018
+Página 2 de 12
+ | | Químico | | 
+ | | FISPQ | | 
+ | RECOP | | | 
+Ficha de Informação de Segurança de Produto FISPQ 002
+Químico Revisão: 02
+FISPQ Emissão:
+21/05/2018
+RECOP Página 2 de 12
+Eliminação
+P501: Eliminar o conteúdo/recipiente de acordo com as normas locais (ver item
+13)
+Outros perigos que não
+resultam em uma Não possui outros perigos.
+classificação
+3. COMPOSIÇÃO / INFORMAÇÃO DOS INGREDIENTES
+Produto químico Este produto é uma mistura.
+Nome químico comum ou
+NÚMERO DE CAS Concentração (%)
+nome genérico
+Ativos: Oxicloreto de cobre
+1332-65-6 min 84,0%
+Inertes: Outros
+Segredo Industrial max. 16,0%
+4. MEDIDAS DE PRIMEIROS SOCORROS
+Inalação Remova o paciente da área de perigo. Obter assistência médica levando a bula,
+rótulo do produto, ou receituário agronômico.
+Olhos Lave imediatamente os olhos, delicadamente com água corrente durante 15
+minutos, mantendo-os abertos. Consulte um médico ou oftalmologista, levando
+a bula, rótulo do produto, ou receituário agronômico.
+Pele Remova as roupas contaminadas e lave a área atingida com água e sabão em
+abundância. Se houver irritação, procure o médico, levando a bula, rótulo do
+produto, ou receituário agronômico.
+Ingestão Se mais de três goles foram ingeridas induzir o vômito. Para fazê-lo beber 1 ou
+2 copos de água rapidamente e introduzir o dedo delicadamente na garganta.
+Obter assistência médica levando a bula, rótulo do produto, ou receituário
+agronômico. Em caso de inconsciência, não induza o vômito nem dê nada pela
+boca.
+Sintomas e efeitos mais
+Inalação: CL 50 inalatória para ratos fêmeas > 240 mg/L. Pele: Levemente
+importantes, agudos ou
+irritante. A DL50 dermal para ratos é superior a 2000 mg/kg. Olhos: Levemente
+RECOP 2/12 revisão:02
+V:\SEGURANÇA\FISPQ
+ | | Ficha de Informação de Segurança de Produto | | FISPQ 002
+Revisão: 02
+Emissão:
+21/05/2018
+Página 3 de 12
+ | | Químico | | 
+ | | FISPQ | | 
+ | RECOP | | | 
+Ficha de Informação de Segurança de Produto FISPQ 002
+Químico Revisão: 02
+FISPQ Emissão:
+21/05/2018
+RECOP Página 3 de 12
+tardios irritante para os olhos. Ingestão: A DL50 oral para ratos: 1190 – 1520 mg/kg.
+Nota ao médico Descontaminação com EDTA ou Penicilamina.
+5. MEDIDAS DE COMBATE A INCÊNDIO
+Meios de extinção apropriados Jato de água, pó químico, espuma, CO ou outro
+2
+meio equivalente. Não aplicar jato d’água
+diretamente sobre o produto em chamas, pois
+ele poderá espalhar-se e aumentar a intensidade
+do fogo.
+Perigos específicos O incêndio pode produzir gases tóxicos e
+irritantes além de Monóxido de Carbono e
+Dióxido de Carbono.
+Medidas de proteção da equipe de combate a Bombeiros: Utilizar equipamento de respiração
+incêndio autônoma e roupas apropriadas contra incêndio.
+Não entrar em áreas confinadas sem
+equipamento de proteção adequado (EPI); isto
+deve incluir máscaras autônomas para proteção
+contra os efeitos perigosos dos produtos de
+combustão ou da falta de oxigênio.
+Isole a área de risco e proíba a entrada de
+pessoas. Em caso de incêndio utilize spray de
+água para resfriar os contêineres expostos ao
+fogo. Mantenha distância segura das chamas
+para evitar queimaduras por irradiação. Use
+processos de extinção que preservem o meio
+ambiente.
+6. MEDIDAS DE CONTROLE PARA DERRAMAMENTO OU VAZAMENTO
+Precauções pessoais, equipamentos de proteção e procedimentos de emergência.
+Para o pessoal que não faz Isole a área de derramamento ou vazamento em um raio de 50 metros, no
+parte dos serviços de mínimo, em todas as direções. Em caso de grandes vazamentos considere a
+RECOP 3/12 revisão:02
+V:\SEGURANÇA\FISPQ
+ | | Ficha de Informação de Segurança de Produto | | FISPQ 002
+Revisão: 02
+Emissão:
+21/05/2018
+Página 4 de 12
+ | | Químico | | 
+ | | FISPQ | | 
+ | RECOP | | | 
+Ficha de Informação de Segurança de Produto FISPQ 002
+Químico Revisão: 02
+FISPQ Emissão:
+21/05/2018
+RECOP Página 4 de 12
+emergência evacuação inicial no sentido do vento em um raio de 300metros. Utilize roupas,
+luvas e proteção para os olhos. Não tocar, permanecer ou caminhar sobre o
+produto derramado. Evitar áreas baixas. Afastar-se do local do vazamento
+mantendo-se posicionado a favor do vento (de costas para o vento) para evitar
+contaminação.
+Para o pessoal do serviço de Utilizar roupas de proteção impermeáveis e resistentes a produtos químicos.
+emergência Providenciar o aterramento de todo o equipamento que será utilizado na
+manipulação do produto derramado. Eliminar todas as possíveis fontes de
+ignição, tais como, chamas abertas, elementos quentes sem isolamento, faíscas
+elétricas ou mecânicas, cigarros, circuitos elétricos, etc. Impedir a utilização de
+qualquer ação ou procedimento que provoque a geração de fagulhas ou chamas.
+Precauções ao meio Isole a área do acidente. Impedir o alastramento do produto derramado,
+ambiente evitando a contaminação de rios e mananciais. Estanque o vazamento, se
+possível, evitando contato com a pele e com as roupas. Nunca descarte o
+material derramado para redes de esgoto. Vazamentos devem ser comunicados
+ao fabricante e/ou aos órgãos ambientais.
+Métodos e materiais para a Utilizar diques ou barreiras naturais para conter o vazamento do produto.
+contenção e limpeza Absorver em estado seco. Caso seja possível estanque o vazamento utilizando
+batoques, cinta de vedação ou invertendo o furo/rasgo/amassado para cima.
+Recolha todo o material em recipientes adequados e devidamente rotulados para
+posterior tratamento e disposição. Os resíduos devem ser descartados conforme
+legislação ambiental local, estadual ou federal. Para transbordo verificar um
+local apropriado e realizar os procedimentos de segurança descritos acima.
+7. MANUSEIO E ARMAZENAMENTO
+Precauções para o manuseio Não fumar no local de trabalho.
+seguro
+Nos locais onde se manipulam produtos químicos deverá ser realizado o
+monitoramento da exposição dos trabalhadores, conforme PPRA (Programa de
+Prevenção de Riscos Ambientais) da NR-9.
+Manusear de acordo com as boas práticas industriais de higiene e segurança. As
+instalações de armazenagem e de utilização devem ser equipadas com
+instalações de lavagem de olhos e um chuveiro de segurança. As vestimentas e
+EPI’s sempre devem ser limpas e verificadas antes de uso. Utilize sempre para
+higiene pessoal água, sabão e cremes de limpeza. Bons procedimentos
+operacionais e de higiene industrial ajudam a reduzir o risco no manuseio de
+produtos químicos.
+Condições de Armazenar em área coberta, seca e arejada. Proteger as embalagens de danos
+RECOP 4/12 revisão:02
+V:\SEGURANÇA\FISPQ
+ | | Ficha de Informação de Segurança de Produto | | FISPQ 002
+Revisão: 02
+Emissão:
+21/05/2018
+Página 5 de 12
+ | | Químico | | 
+ | | FISPQ | | 
+ | RECOP | | | 
+Ficha de Informação de Segurança de Produto FISPQ 002
+Químico Revisão: 02
+FISPQ Emissão:
+21/05/2018
+RECOP Página 5 de 12
+armazenamento seguro, físicos. Usar e estocar com ventilação adequada.
+incluindo qualquer
+Materiais incompatíveis: Nenhum.
+incompatibilidade
+Manter a embalagem bem fechada quando não estiver em uso. Estes recipientes
+não devem ser reutilizados para outros fins e devem ser dispostos em locais
+adequados.
+8. CONTROLE DE EXPOSIÇÃO E PROTEÇÃO INDIVIDUAL
+Parâmetros de controle Não disponível.
+Medidas de controle de Garantir ventilação adequada, especialmente em áreas confinadas.
+engenharia
+Medidas de proteção individual
+Proteção respiratória Trabalhar em local com ventilação e exaustão adequadas. A concentração tem
+que ser mantida abaixo dos limites de exposição ocupacional. Para as operações
+em que o produto for agitado ou cause poeiras, utilizar máscara com filtro
+apropriado.
+Proteção para as mãos Utilizar luvas de PVC, borracha natural ou material equivalente.
+Proteção para os olhos/face Óculos de proteção ou protetor facial contra respingos.
+Proteção para pele Utilizar vestimenta limpa para todo o corpo, com mangas compridas. Remover a
+roupa contaminada que deve ser lavada antes da reutilização.
+9. PROPRIEDADES FÍSICO-QUÍMICAS
+Aspecto Sólido, micro granulado, verde claro - acinzentado, sem
+aglomerados e com boa fluidez, com possibilidade de
+(estado físico, forma, cor)
+poucos pontos azuis.
+Odor Característico
+pH ~ 7,5 (1% em água destilada pH 7)
+Ponto de fusão/ponto de congelamento Não disponível
+RECOP 5/12 revisão:02
+V:\SEGURANÇA\FISPQ
+ | | Ficha de Informação de Segurança de Produto | | FISPQ 002
+Revisão: 02
+Emissão:
+21/05/2018
+Página 6 de 12
+ | | Químico | | 
+ | | FISPQ | | 
+ | RECOP | | | 
+Ficha de Informação de Segurança de Produto FISPQ 002
+Químico Revisão: 02
+FISPQ Emissão:
+21/05/2018
+RECOP Página 6 de 12
+Ponto de ebulição inicial e faixa de
+Não disponível
+temperatura de ebulição
+Ponto de fulgor Não disponível
+Taxa de evaporação Não disponível
+Inflamabilidade (sólido; gás) Não disponível
+Limite inferior/superior de inflamabilidade
+Não disponível
+ou explosividade
+Pressão do vapor Não disponível
+Densidade do vapor Não disponível
+Densidade relativa ~ 0,8 kg/L
+10. ESTABILIDADE E REATIVIDADE
+Reatividade Não disponível.
+Estabilidade química Estável sob condições normais de manuseio e estocagem.
+Possibilidade de Reações
+Não disponível.
+perigosas
+Condições a serem evitadas Calor e umidade excessivos, radiação solar.
+Materiais incompatíveis Nenhum.
+Produtos perigosos da O incêndio pode produzir gases tóxicos e irritantes além de Monóxido de
+decomposição Carbono e Dióxido de Carbono.
+11. INFORMAÇÕES TOXICOLÓGICAS
+Toxicidade Aguda ROTA DE EXPOSIÇÃO Conclusão / Observações
+Inalação
+RECOP 6/12 revisão:02
+V:\SEGURANÇA\FISPQ
+ | | Ficha de Informação de Segurança de Produto | | FISPQ 002
+Revisão: 02
+Emissão:
+21/05/2018
+Página 7 de 12
+ | | Químico | | 
+ | | FISPQ | | 
+ | RECOP | | | 
+Ficha de Informação de Segurança de Produto FISPQ 002
+Químico Revisão: 02
+FISPQ Emissão:
+21/05/2018
+RECOP Página 7 de 12
+Minimamente Tóxico. Baseado em
+CL50 inalação (ratos fêmeas,1h): > 240
+dados de testes para materiais de
+mg/L
+estrutura semelhante.
+Pele
+Minimamente Tóxico. Baseado em
+DL50 dermal (ratos machos): > 4.000
+dados de testes para materiais de
+mg/kg
+estrutura semelhante.
+Ingestão
+Minimamente Tóxico. Baseado em
+DL50 oral (ratos): > 2.000 mg/kg dados de testes para materiais de
+estrutura semelhante.
+Irritação para olhos (coelhos, 4 h):
+Irritação negligível da pele em
+Levemente irritante
+temperatura ambiente. Baseado em
+dados de testes para materiais de
+Irritação para pele (coelhos, 4 h):
+estrutura semelhante.
+Levemente irritante
+Corrosão / irritação à pele Não classificado
+Lesões oculares
+Não classificado
+graves/irritação ocular
+Sensibilização respiratória
+Não Classificado
+ou à pele
+Mutagenicidade em células
+Não Classificado
+germinativas
+Carcinogenicidade Não Classificado
+Toxicidade à reprodução Não Classificado
+Toxicidade para órgãos-alvo
+Não Classificado
+específicos – exposição única
+Toxicidade para órgãos-alvo
+específicos – exposição Não Classificado
+repetida
+RECOP 7/12 revisão:02
+V:\SEGURANÇA\FISPQ
+ | | Ficha de Informação de Segurança de Produto | | FISPQ 002
+Revisão: 02
+Emissão:
+21/05/2018
+Página 8 de 12
+ | | Químico | | 
+ | | FISPQ | | 
+ | RECOP | | | 
+Nunca descarte em esgotos ou no meio ambiente. Restos de produtos devem ser
+eliminados de acordo com as regulamentações federais, estaduais e municipais
+de saúde e de meio ambiente, aplicáveis e vigentes: ABNT-NBR 10.004/2004 e
+ABNT-NBR 16725.
+Embalagem usada: Sua disposição deve estar em conformidade com todas as
+regulamentações ambientais e de saúde aplicáveis, obedecendo-se os mesmos
+critérios aplicáveis a produtos.
+Ficha de Informação de Segurança de Produto FISPQ 002
+Químico Revisão: 02
+FISPQ Emissão:
+21/05/2018
+RECOP Página 8 de 12
+Perigo por aspiração Não Classificado
+12. INFORMAÇÕES AMBIENTAIS
+Ecotoxicidade O produto é muito tóxico para daphnias e tóxico algas. Evitar a contaminação
+de cursos de água com o produto.
+CL50 (96 h, peixes, salmo gairdneri, oncorhynchus mykiss) = 20 – 30 mg/L
+CL50 (96 h, peixes, P. promelas) = 2,5mg/L
+EC50 (48 h, daphnia magna) = 0,47 mg/L
+EC50 (48 h, daphnia similis) = 0,2 mg/L
+CI50 (96 h, algas verdes, S. subspicatus 86.81 sag.) = 8,23 mg/L
+CI50 (96 h, algas, S. capricornutum) = 62,0 g/L
+CI50 (3 h, bactéria, lama ativada) > 500 mg/L
+Persistência/degradabilidade Não disponível
+Potencial Bioacumulativo Não disponível
+Mobilidade no solo Não disponível
+Outros efeitos adversos Tóxico para os organismos aquáticos, com efeitos prolongados.
+13. CONTROLE SOBRE TRATAMENTO E DISPOSIÇÃO
+Métodos recomendados para Nunca descarte em esgotos ou no meio ambiente. Restos de produtos devem ser
+destinação final eliminados de acordo com as regulamentações federais, estaduais e municipais
+de saúde e de meio ambiente, aplicáveis e vigentes: ABNT-NBR 10.004/2004 e
+ABNT-NBR 16725.
+Embalagem usada: Sua disposição deve estar em conformidade com todas as
+regulamentações ambientais e de saúde aplicáveis, obedecendo-se os mesmos
+critérios aplicáveis a produtos.
+RECOP 8/12 revisão:02
+V:\SEGURANÇA\FISPQ
+ | | Ficha de Informação de Segurança de Produto | | FISPQ 002
+Revisão: 02
+Emissão:
+21/05/2018
+Página 9 de 12
+ | | Químico | | 
+ | | FISPQ | | 
+ | RECOP | | | 
+Ficha de Informação de Segurança de Produto FISPQ 002
+Químico Revisão: 02
+FISPQ Emissão:
+21/05/2018
+RECOP Página 9 de 12
+14. INFORMAÇÕES SOBRE TRANSPORTE
+lassificação para o transporte
+RTPP – Res 5232/16 ANTT
+ONU: 3077
+Nome apropriado para embarque: SUBSTÂNCIA QUE APRESENTA RISCO PARA O MEIO
+AMBIENTE, SÓLIDA, N.E. (Oxicloreto Cúprico)
+Classe de risco/subclasse de risco: 9
+Número de risco: 90
+Grupo de embalagem: III
+Perigo ao meio ambiente: Tóxico para os organismos aquáticos, com efeitos prolongados
+IMDG / DPC / ANTAQ
+ONU: 3077
+Nome apropriado para embarque: ENVIRONMENTALLY HAZARDOUS SUBSTANCE, SOLID, N.O.S.
+(Copper oxychloride)
+Classe de risco/subclasse de risco: 9
+Número de risco: 90
+Grupo de embalagem: III
+Perigo ao meio ambiente: Not available
+ICAO-TI / IATA-DGFT / ANAC
+ONU: 3077
+Nome apropriado para embarque: ENVIRONMENTALLY HAZARDOUS SUBSTANCE, SOLID, N.O.S.
+(Copper oxychloride)
+Classe de risco/subclasse de risco: 9
+Número de risco: 90
+Grupo de embalagem: III
+Perigo ao meio ambiente: Not available
+DADOS PARA IMPRESSÃO DO DOCUMENTO FISCAL
+Sequência das informações do produto a serem inseridas no documento fiscal
+RECOP 9/12 revisão:02
+V:\SEGURANÇA\FISPQ
+ | | Ficha de Informação de Segurança de Produto | | FISPQ 002
+Revisão: 02
+Emissão:
+21/05/2018
+Página 10 de 12
+ | | Químico | | 
+ | | FISPQ | | 
+ | RECOP | | | 
+Ficha de Informação de Segurança de Produto FISPQ 002
+Químico Revisão: 02
+FISPQ Emissão:
+21/05/2018
+RECOP Página 10 de 12
+Embasamento: Resolução 5232/16 da ANTT
+ONU3077 SUBSTÂNCIA QUE APRESENTA RISCO PARA O MEIO AMBIENTE, SÓLIDA, N.E.
+(Oxicloreto de Cobre), 9, III
+Outras informações relativas ao transporte: Evitar o transporte em veículos onde o espaço de carga não
+esteja separado da cabine de condução. Assegurar que o condutor do veículo conhece os riscos potenciais da
+carga bem como as medidas a tomar em caso de acidente ou emergência. Antes de transportar os recipientes,
+verificar se estão bem fixados. Quando se tratar de transporte de produtos perigosos, cumprir a legislação em
+vigor. No transporte fracionado cada recipiente deverá estar devidamente identificado, portando a rotulagem
+prevista em norma. Os mesmos deverão estar lacrados e protegidos por lona na eminência de chuva durante o
+percurso.
+15. REGULAMENTAÇÕES
+Portaria nº 229 de 2011/MTE (que altera a Norma Regulamentadora “NR 26”, que trata de Sinalização de
+Segurança).
+Portaria 704/15 do Ministério do Trabalho e Emprego (DOU de 28/05/2015) que altera a Norma
+Regulamentadora nº 26 (NR 26) - Sinalização de Segurança. Esta Portaria incluiu o item 26.2.2.5 na Norma
+Regulamentadora nº 26, aprovada pela Portaria 3214/1978, com redação dada pela Portaria 229/2011, com a
+seguinte redação: "Os Produtos notificados ou registrados como Saneantes na ANVISA estão dispensados do
+cumprimento das obrigações de rotulagem preventiva estabelecidas pelos itens 26.2.2, 26.2.2.1, 26.2.2.2 e
+26.2.2.3 da NR 26."
+Decreto 2.657/1998 - promulga a Convenção Nº 170 da OIT, relativa a segurança na utilização de produtos
+químicos no trabalho, assinada em Genebra, em 25 de julho de 1990.
+Decreto n° 7.404, de 23 de Dezembro de 2010.
+Lei 9.605/1998 Crimes Ambientais.
+Lei 8.098/1990 Código de Defesa do Consumidor.
+Exigências regulamentares estão sujeitas a mudanças e podem diferir de uma região para outra; é
+responsabilidade do usuário assegurar que suas atividades estejam de acordo com a legislação local, federal,
+estadual e municipal.
+PRODUTO CONTROLADO: Não aplicável.
+RECOP 10/12 revisão:02
+V:\SEGURANÇA\FISPQ
+ | | Ficha de Informação de Segurança de Produto | | FISPQ 002
+Revisão: 02
+Emissão:
+21/05/2018
+Página 11 de 12
+ | | Químico | | 
+ | | FISPQ | | 
+ | RECOP | | | 
+Ficha de Informação de Segurança de Produto FISPQ 002
+Químico Revisão: 02
+FISPQ Emissão:
+21/05/2018
+RECOP Página 11 de 12
+16. OUTRAS INFORMAÇÕES
+Preparada por Via Brasil Consultoria em Transporte de Produtos Perigosos
+“Esta Ficha de Informações de Segurança de Produtos Químicos foi elaborada de acordo com as orientações da
+NBR 14725 emitida pela ABNT – Associação Brasileira de Normas Técnicas. As informações contidas nesta
+FISPQ representam os dados atuais e refletem com exatidão, nosso melhor conhecimento sobre o manuseio
+apropriado deste produto, sob condições normais e de acordo com as recomendações apresentadas na
+embalagem e na literatura técnica. Considerando a variedade de fatores que podem afetar seu processamento ou
+aplicação, as informações contidas nesta ficha não eximem os processadores da responsabilidade de executar
+seus próprios testes e experimentos. Qualquer outro uso do produto, envolva ou não o uso combinado com outro
+produto, ou que utilize processo diverso do indicado, é de responsabilidade exclusiva do usuário”.
+Nota: A informação contida neste documento está baseada em nosso conhecimento de como é
+pretendido que se descreva nossos produtos do ponto de vista das exigências de
+segurança. Não deve ser interpretada então, como garantia de propriedades específicas.
+Para maiores esclarecimentos ou informações adicionais sobre o uso deste produto
+consulte a Albaugh Do Brasil.
+REFERÊNCIAS:
+[ABNT NBR 14725-2] – Sistema de Classificação de Perigo - GHS
+[RESOLUÇÃO Nº 5232/16 ANTT] Agência Nacional de Transportes Terrestres - Aprova as Instruções
+Complementares ao Regulamento do Transporte Terrestre de Produtos Perigosos.
+[HSNO] NOVA ZELÂNDIA. HSNO Chemical Classification and Information Database (CCID)
+[ECHA] União Europeia. ECHA European Chemical Agency
+TERRESTRE (FERROVIAS, RODOVIAS): Agência Nacional de Transporte Terrestre (ANTT);
+HIDROVIÁRIO (MARÍTIMO, FLUVIAL, LACUSTRE): código International Maritime Dangerous Goods
+- Code (código IMDG); Norma-5 da Diretoria de Portos e Costas do Ministério da Marinha (DPC): Agência
+Nacional de Transporte Aquaviário (ANTAQ);
+AÉREO: International Civil Aviation Organization - Technical Instructions (ICAO-TI). International Air
+Transport Association - Dangerous Goods Regulations (IATA-DGFT); Agência Nacional de Aviação Civil
+(ANAC).
+*Abreviações:
+NA: Não Aplicável
+ND: Não disponível
+RECOP 11/12 revisão:02
+V:\SEGURANÇA\FISPQ
+ | | Ficha de Informação de Segurança de Produto | | FISPQ 002
+Revisão: 02
+Emissão:
+21/05/2018
+Página 12 de 12
+ | | Químico | | 
+ | | FISPQ | | 
+ | RECOP | | | 
+Ficha de Informação de Segurança de Produto FISPQ 002
+Químico Revisão: 02
+FISPQ Emissão:
+21/05/2018
+RECOP Página 12 de 12
+OSHA: Administração de Segurança e Saúde Ocupacional
+LD50: dose letal para 50% da população infectada
+LC50: concentração letal para 50% da população infectada
+CAS: chemical abstracts service
+TLV-TWA: é a concentração média ponderada permitida para uma jornada de 8 horas de trabalho
+TLV-STEL: é o limite de exposição de curta duração-máxima concentração permitida para um exposição
+contínua de 15 minutos
+ACGIH: é uma organização de pessoal de agências governamentais ou instituições educacionais engajadas em
+programas de saúde e segurança ocupacional.
+ACGIH desenvolve e publica limites de exposição para centenas de substâncias químicas e agentes físicos.
+PEL: concentração máxima permitida de contaminantes no ar, aos quais a maioria dos trabalhadores pode ser
+repetidamente exposta 8 horas dia, 40 horas por semana, durante o período de trabalho (30 anos), sem efeitos
+adversos à saúde.
+OSHA: agência federal dos EUA com autoridade para regulamentação e cumprimento de disposições na área de
+segurança e saúde para indústrias e negócios nos USA.
+IMDG: Internacional Maritine Code for Dangerous Goods – código internacional para o transporte de materiais
+perigosos via marítima.
+PNEC: Concentração previsivelmente sem efeitos.
+OIT - Organização Internacional do Trabalho
+MTE - Ministério do Trabalho e Emprego
+RECOP 12/12 revisão:02
+V:\SEGURANÇA\FISPQ

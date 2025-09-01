@@ -1,0 +1,845 @@
+| FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS | | | | | | | | | 
+ | Produto: DIURON NORTOX 500 SC | | | | | | FISPQ: 05/2002 | | | 
+ | Revisão: 05 | | | Data: 20/07/2020 | | | Página | | | 1/10
+ | 1. IDENTIFICAÇÃO | | 
+Nome do produto
+(nome comercial) | | DIURON NORTOX 500 SC | 
+Principais usos recomendados
+para a substância ou mistura: | | Herbicida seletivo, de ação sistêmica, de pré e pós-emergência do
+grupo químico ureia. | 
+Nome da empresa: | | NORTOX S/A | 
+Endereço: | | Rodovia BR 369, km 197 CEP 86700-970 – Arapongas – PR | 
+Telefone para contato
+Fax: | | 55 43 3274-8585
+55 43 3274 8500 | 
+Endereço: | | Rodovia BR 163, km 116 CEP 78740-275 – Rondonópolis – MT | 
+Telefone para contato:
+Fax: | | 55 66 3439-3700
+55 66 3439-3715 | 
+Telefone para emergências: | | 43 3371-2244 - Centro de Controle de Intoxicações – Londrina PR
+0800 722 6001 – Disque intoxicações | 
+E-mail: | | nortox@nortox.com.br | 
+ | 2. IDENTIFICAÇÃO DOS PERIGOS | | 
+Classificação de perigo do
+produto químico: | | Toxicidade aguda – Oral – Categoria 4
+Lesões oculares graves/irritação ocular – Categoria 2 B
+Toxicidade para órgãos-alvo específicos – Exposição única –
+Categoria 3
+Perigoso ao ambiente aquático – Agudo – Categoria 2 | 
+Sistema de classificação
+utilizado: | | Norma ABNT-NBR 14725-2:2009 – versão corrigida 2:2010.
+Sistema Globalmente Harmonizado para a Classificação e
+Rotulagem de Produtos Químicos, ONU. | 
+Outros perigos que não resultam
+em uma classificação: | | O produto não possui outros perigos. | 
+Elementos Apropriados da Rotulagem | | | 
+Pictogramas: | | | 
+Palavra de advertência: | | ATENÇÃO | 
+FISPQ
+Em conformidade com NBR 14725-4:2014
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Produto: DIURON NORTOX 500 SC FISPQ: 05/2002
+Revisão: 05 Data: 20/07/2020 Página 1/10
+1. IDENTIFICAÇÃO
+Nome do produto DIURON NORTOX 500 SC
+(nome comercial)
+Principais usos recomendados Herbicida seletivo, de ação sistêmica, de pré e pós-emergência do
+para a substância ou mistura: grupo químico ureia.
+Nome da empresa: NORTOX S/A
+Endereço: Rodovia BR 369, km 197 CEP 86700-970 – Arapongas – PR
+Telefone para contato 55 43 3274-8585
+Fax: 55 43 3274 8500
+Endereço: Rodovia BR 163, km 116 CEP 78740-275 – Rondonópolis – MT
+Telefone para contato: 55 66 3439-3700
+Fax: 55 66 3439-3715
+Telefone para emergências: 43 3371-2244 - Centro de Controle de Intoxicações – Londrina PR
+0800 722 6001 – Disque intoxicações
+E-mail: nortox@nortox.com.br
+2. IDENTIFICAÇÃO DOS PERIGOS
+Classificação de perigo do Toxicidade aguda – Oral – Categoria 4
+produto químico: Lesões oculares graves/irritação ocular – Categoria 2 B
+Toxicidade para órgãos-alvo específicos – Exposição única –
+Categoria 3
+Perigoso ao ambiente aquático – Agudo – Categoria 2
+Sistema de classificação Norma ABNT-NBR 14725-2:2009 – versão corrigida 2:2010.
+utilizado: Sistema Globalmente Harmonizado para a Classificação e
+Rotulagem de Produtos Químicos, ONU.
+Outros perigos que não resultam O produto não possui outros perigos.
+em uma classificação:
+Elementos Apropriados da Rotulagem
+Pictogramas:
+Palavra de advertência: ATENÇÃO
+ | FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS | | | | | | | | 
+ | Produto: DIURON NORTOX 500 SC | | | | | FISPQ: 05/2002 | | | 
+ | Revisão: 05 | | Data: 20/07/2020 | | | | | | Página 2/10
+Frases de perigo: | H302: Nocivo se ingerido.
+H320: Provoca irritação ocular.
+H335: Pode provocar irritação das vias respiratórias.
+H401: Tóxico para os organismos aquáticos.
+Frases de precaução: | P260: Não inale vapores.
+P264: Lave cuidadosamente as mãos após o manuseio.
+P270: Não coma, beba ou fume durante a utilização deste produto.
+P273: Evite a liberação para o meio ambiente.
+P301 + P312: EM CASO DE INGESTÃO: Caso sinta indisposição,
+contate um CENTRO DE INFORMAÇÃO TOXICOLÓGICA ou
+um médico.
+P304 + P340: EM CASO DE INALAÇÃO: Remova a pessoa para
+local ventilado e a mantenha em repouso numa posição que não
+dificulte a respiração.
+P305 + P351 + P338: EM CASO DE CONTATO COM OS
+OLHOS: Enxágue cuidadosamente com água durante vários
+minutos. No caso de uso de lentes de contato, remova-as, se for
+fácil. Continue enxaguando.
+P337 + P313: Caso a irritação ocular persista: consulte um médico.
+P405: Armazene em local fechado à chave.
+P501: Descarte o conteúdo e o recipiente em conformidade com as
+regulamentações locais.
+ | 3. COMPOSIÇÃO E INFORMAÇÕES SOBRE OS INGREDIENTES | | 
+MISTURA: Tipo de Formulação: Suspensão Concentrada SC | | | 
+Ingredientes ou
+impurezas que
+contribuam para
+o perigo: | | Concentração Variação de
+Componentes Nominal Concentração Nº CAS
+(% m/v) (% m/v)
+Diuron 50,00 47,50 – 52,50 330-54-1 | 
+Componentes | Concentração
+Nominal
+(% m/v) | Variação de
+Concentração
+(% m/v) | Nº CAS
+Diuron | 50,00 | 47,50 – 52,50 | 330-54-1
+ | 4. MEDIDAS DE PRIMEIROS SOCORROS | | 
+Inalação: | | Remova a vítima para local ventilado e a mantenha em repouso
+numa posição que não dificulte a respiração. Caso sinta
+indisposição, contate um CENTRO DE INFORMAÇÃO
+TOXICOLÓGICA ou um médico. Leve esta FISPQ. | 
+Contato com a pele: | | Retire a roupa contaminada e lave a pele exposta com quantidade
+suficiente de água para remoção do material. Em caso de irritação
+cutânea: Consulte um médico. Leve esta FISPQ. | 
+FISPQ
+Em conformidade com NBR 14725-4:2014
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Produto: DIURON NORTOX 500 SC FISPQ: 05/2002
+Revisão: 05 Data: 20/07/2020 Página 2/10
+Frases de perigo: H302: Nocivo se ingerido.
+H320: Provoca irritação ocular.
+H335: Pode provocar irritação das vias respiratórias.
+H401: Tóxico para os organismos aquáticos.
+Frases de precaução: P260: Não inale vapores.
+P264: Lave cuidadosamente as mãos após o manuseio.
+P270: Não coma, beba ou fume durante a utilização deste produto.
+P273: Evite a liberação para o meio ambiente.
+P301 + P312: EM CASO DE INGESTÃO: Caso sinta indisposição,
+contate um CENTRO DE INFORMAÇÃO TOXICOLÓGICA ou
+um médico.
+P304 + P340: EM CASO DE INALAÇÃO: Remova a pessoa para
+local ventilado e a mantenha em repouso numa posição que não
+dificulte a respiração.
+P305 + P351 + P338: EM CASO DE CONTATO COM OS
+OLHOS: Enxágue cuidadosamente com água durante vários
+minutos. No caso de uso de lentes de contato, remova-as, se for
+fácil. Continue enxaguando.
+P337 + P313: Caso a irritação ocular persista: consulte um médico.
+P405: Armazene em local fechado à chave.
+P501: Descarte o conteúdo e o recipiente em conformidade com as
+regulamentações locais.
+3. COMPOSIÇÃO E INFORMAÇÕES SOBRE OS INGREDIENTES
+MISTURA: Tipo de Formulação: Suspensão Concentrada SC
+Ingredientes ou Concentração Variação de
+impurezas que Componentes Nominal Concentração Nº CAS
+contribuam para (% m/v) (% m/v)
+o perigo:
+Diuron 50,00 47,50 – 52,50 330-54-1
+4. MEDIDAS DE PRIMEIROS SOCORROS
+Inalação: Remova a vítima para local ventilado e a mantenha em repouso
+numa posição que não dificulte a respiração. Caso sinta
+indisposição, contate um CENTRO DE INFORMAÇÃO
+TOXICOLÓGICA ou um médico. Leve esta FISPQ.
+Contato com a pele: Retire a roupa contaminada e lave a pele exposta com quantidade
+suficiente de água para remoção do material. Em caso de irritação
+cutânea: Consulte um médico. Leve esta FISPQ.
+ | FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS | | | | | | | | 
+ | Produto: DIURON NORTOX 500 SC | | | | | FISPQ: 05/2002 | | | 
+ | Revisão: 05 | | Data: 20/07/2020 | | | | | | Página 3/10
+Contato com os olhos: | | Enxágue cuidadosamente com água durante pelo menos 15 minutos.
+No caso de uso de lentes de contato, remova-as, se for fácil.
+Continue enxaguando. Caso a irritação ocular persista: consulte um
+médico. Leve esta FISPQ. | | | | | | | 
+Ingestão: | | Não induza o vômito. Nunca forneça algo por via oral a uma pessoa
+inconsciente. Lave a boca da vítima com água em abundância. Caso
+sinta indisposição, contate um CENTRO DE INFORMAÇÃO
+TOXICOLÓGICA ou um médico. Leve esta FISPQ. | | | | | | | 
+Sintomas e efeitos mais
+importantes, agudos ou tardios: | | Nocivo se ingerido. Pode provocar irritação das vias respiratórias
+com tosses e espirros. | | | | | | | 
+Notas para o médico: | | Evite contato com o produto ao socorrer a vítima. Se necessário, o
+tratamento sintomático deve compreender, sobretudo, medidas de
+suporte como correção de distúrbios hidroeletrolíticos, metabólicos,
+além de assistência respiratória. Em caso de contato com a pele não
+friccione o local atingido. Utilizar antídotos de ação ampla, como o
+carvão ativado (adsorção digestiva) e purgativos salinos (catarse). | | | | | | | 
+ | 5. MEDIDAS DE COMBATE A INCÊNDIO | | 
+Meios de extinção: | | Apropriados: Compatível com neblina d’água, pó químico e dióxido
+de carbono (CO ).
+2
+Não recomendados: Jatos d’água de forma direta. | 
+Perigos específicos da mistura
+ou substância: | | A combustão do produto químico ou de sua embalagem pode
+formar gases irritantes e tóxicos como monóxido e dióxido de
+carbono. | 
+Medidas de proteção da equipe
+de combate a incêndio: | | Equipamento de proteção respiratória do tipo autônomo (SCBA)
+com pressão positiva e vestuário protetor completo. Contêineres e
+tanques envolvidos no incêndio devem ser resfriados com neblina
+d’água. | 
+ | 6. MEDIDAS DE CONTROLE PARA DERRAMAMENTO OU VAZAMENTO | | 
+Precauções Pessoais | | | 
+Para o pessoal que não faz parte
+dos serviços de emergência: | | Isole o vazamento de fontes de ignição. Não fume. Não toque nos
+recipientes danificados ou no material derramado sem o uso de
+vestimentas adequadas. Evite inalação, contato com os olhos e com
+a pele. Utilize equipamento de proteção individual conforme
+descrito na seção 8. | 
+Para pessoal de serviço de
+emergência: | | Utilizar EPI completo, óculos com proteção lateral contra respingos
+químicos, luvas de proteção, calçado e macacão de PVC.
+Em caso de grandes vazamentos, onde a exposição é grande,
+recomenda-se o uso de máscara facial ou autônoma. | 
+FISPQ
+Em conformidade com NBR 14725-4:2014
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Produto: DIURON NORTOX 500 SC FISPQ: 05/2002
+Revisão: 05 Data: 20/07/2020 Página 3/10
+Contato com os olhos: Enxágue cuidadosamente com água durante pelo menos 15 minutos.
+No caso de uso de lentes de contato, remova-as, se for fácil.
+Continue enxaguando. Caso a irritação ocular persista: consulte um
+médico. Leve esta FISPQ.
+Ingestão: Não induza o vômito. Nunca forneça algo por via oral a uma pessoa
+inconsciente. Lave a boca da vítima com água em abundância. Caso
+sinta indisposição, contate um CENTRO DE INFORMAÇÃO
+TOXICOLÓGICA ou um médico. Leve esta FISPQ.
+Sintomas e efeitos mais Nocivo se ingerido. Pode provocar irritação das vias respiratórias
+importantes, agudos ou tardios: com tosses e espirros.
+Notas para o médico: Evite contato com o produto ao socorrer a vítima. Se necessário, o
+tratamento sintomático deve compreender, sobretudo, medidas de
+suporte como correção de distúrbios hidroeletrolíticos, metabólicos,
+além de assistência respiratória. Em caso de contato com a pele não
+friccione o local atingido. Utilizar antídotos de ação ampla, como o
+carvão ativado (adsorção digestiva) e purgativos salinos (catarse).
+5. MEDIDAS DE COMBATE A INCÊNDIO
+Meios de extinção: Apropriados: Compatível com neblina d’água, pó químico e dióxido
+de carbono (CO ).
+2
+Não recomendados: Jatos d’água de forma direta.
+Perigos específicos da mistura A combustão do produto químico ou de sua embalagem pode
+ou substância: formar gases irritantes e tóxicos como monóxido e dióxido de
+carbono.
+Medidas de proteção da equipe Equipamento de proteção respiratória do tipo autônomo (SCBA)
+de combate a incêndio: com pressão positiva e vestuário protetor completo. Contêineres e
+tanques envolvidos no incêndio devem ser resfriados com neblina
+d’água.
+6. MEDIDAS DE CONTROLE PARA DERRAMAMENTO OU VAZAMENTO
+Precauções Pessoais
+Para o pessoal que não faz parte Isole o vazamento de fontes de ignição. Não fume. Não toque nos
+dos serviços de emergência: recipientes danificados ou no material derramado sem o uso de
+vestimentas adequadas. Evite inalação, contato com os olhos e com
+a pele. Utilize equipamento de proteção individual conforme
+descrito na seção 8.
+Para pessoal de serviço de Utilizar EPI completo, óculos com proteção lateral contra respingos
+emergência: químicos, luvas de proteção, calçado e macacão de PVC.
+Em caso de grandes vazamentos, onde a exposição é grande,
+recomenda-se o uso de máscara facial ou autônoma.
+ | FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS | | | | | | | | 
+ | Produto: DIURON NORTOX 500 SC | | | | | FISPQ: 05/2002 | | | 
+ | Revisão: 05 | | Data: 20/07/2020 | | | | | | Página 4/10
+Precauções ao meio ambiente: | | Evite que o produto derramado atinja cursos d’água e rede de
+esgotos. | | | | | | | 
+Métodos e materiais para
+contenção e limpeza: | | Utilize névoa de água ou espuma supressora de vapor para reduzir a
+dispersão dos vapores. Utilize barreiras naturais ou de contenção de
+derrame. Colete o produto derramado e coloque em recipientes
+próprios. Adsorva o produto remanescente, com areia seca, terra,
+vermiculite, ou qualquer outro material inerte. Coloque o material
+adsorvido em recipientes apropriados e remova-os para local
+seguro. Para destinação final, proceder conforme a Seção 13 desta
+FISPQ. | | | | | | | 
+Diferenças na ação de grandes e
+pequenos vazamentos: | | Solo: Retire as camadas de terra contaminada até atingir o solo não
+contaminado e adote os mesmos procedimentos descritos acima
+para recolhimento e destinação adequada.
+Corpos d'água: Interrompa imediatamente a captação para o
+consumo humano e animal e contate o centro de emergência da
+empresa, visto que as medidas a serem adotadas dependem das
+proporções do acidente, das características do recurso hídrico em
+questão e da quantidade do produto envolvido.
+Para destinação final proceder conforme Seção 13 desta FISPQ. | | | | | | | 
+ | 7. MANUSEIO E ARMAZENAMENTO | | 
+Medidas Técnicas Apropriadas para o Manuseio | | | 
+Precauções para manuseio
+seguro: | | Manuseie em uma área ventilada ou com sistema geral de
+ventilação/exaustão local. Evite formação de vapores e névoas.
+Evite exposição ao produto. Utilize equipamento de proteção
+individual conforme descrito na seção 8. | 
+Medidas de higiene: | | Lave as mãos e o rosto cuidadosamente após o manuseio e antes de
+comer, beber, fumar ou ir ao banheiro. Roupas contaminadas devem
+ser trocadas e lavadas antes de sua reutilização. Remova a roupa e o
+equipamento de proteção contaminado antes de entrar nas áreas de
+alimentação. | 
+Condições de Armazenamento Seguro, incluindo qualquer Incompatibilidade | | | 
+Prevenção de incêndio e
+explosão: | | Não é esperado que o produto apresente perigo de incêndio ou
+explosão. | 
+Condições adequadas: | | Armazene em local ventilado, longe de luz solar e com piso
+impermeável. Mantenha o recipiente fechado. Manter armazenado
+em temperatura ambiente que não exceda 35°C. Não é necessária
+adição de estabilizantes e antioxidantes para garantir a durabilidade
+do produto. Em caso de armazéns, deverão ser seguidas as
+instruções constantes na ABNT NBR 9843. | 
+Materiais para embalagens: | | PEAD. | 
+FISPQ
+Em conformidade com NBR 14725-4:2014
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Produto: DIURON NORTOX 500 SC FISPQ: 05/2002
+Revisão: 05 Data: 20/07/2020 Página 4/10
+Precauções ao meio ambiente: Evite que o produto derramado atinja cursos d’água e rede de
+esgotos.
+Métodos e materiais para Utilize névoa de água ou espuma supressora de vapor para reduzir a
+contenção e limpeza: dispersão dos vapores. Utilize barreiras naturais ou de contenção de
+derrame. Colete o produto derramado e coloque em recipientes
+próprios. Adsorva o produto remanescente, com areia seca, terra,
+vermiculite, ou qualquer outro material inerte. Coloque o material
+adsorvido em recipientes apropriados e remova-os para local
+seguro. Para destinação final, proceder conforme a Seção 13 desta
+FISPQ.
+Diferenças na ação de grandes e Solo: Retire as camadas de terra contaminada até atingir o solo não
+pequenos vazamentos: contaminado e adote os mesmos procedimentos descritos acima
+para recolhimento e destinação adequada.
+Corpos d'água: Interrompa imediatamente a captação para o
+consumo humano e animal e contate o centro de emergência da
+empresa, visto que as medidas a serem adotadas dependem das
+proporções do acidente, das características do recurso hídrico em
+questão e da quantidade do produto envolvido.
+Para destinação final proceder conforme Seção 13 desta FISPQ.
+7. MANUSEIO E ARMAZENAMENTO
+Medidas Técnicas Apropriadas para o Manuseio
+Precauções para manuseio Manuseie em uma área ventilada ou com sistema geral de
+seguro: ventilação/exaustão local. Evite formação de vapores e névoas.
+Evite exposição ao produto. Utilize equipamento de proteção
+individual conforme descrito na seção 8.
+Medidas de higiene: Lave as mãos e o rosto cuidadosamente após o manuseio e antes de
+comer, beber, fumar ou ir ao banheiro. Roupas contaminadas devem
+ser trocadas e lavadas antes de sua reutilização. Remova a roupa e o
+equipamento de proteção contaminado antes de entrar nas áreas de
+alimentação.
+Condições de Armazenamento Seguro, incluindo qualquer Incompatibilidade
+Prevenção de incêndio e Não é esperado que o produto apresente perigo de incêndio ou
+explosão: explosão.
+Condições adequadas: Armazene em local ventilado, longe de luz solar e com piso
+impermeável. Mantenha o recipiente fechado. Manter armazenado
+em temperatura ambiente que não exceda 35°C. Não é necessária
+adição de estabilizantes e antioxidantes para garantir a durabilidade
+do produto. Em caso de armazéns, deverão ser seguidas as
+instruções constantes na ABNT NBR 9843.
+Materiais para embalagens: PEAD.
+ | FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS | | | | | | | 
+ | Produto: DIURON NORTOX 500 SC | | | | | FISPQ: 05/2002 | | 
+ | Revisão: 05 | | Data: 20/07/2020 | | | | | Página 5/10
+ | 8. CONTROLE DE EXPOSIÇÃO E PROTEÇÃO INDIVIDUAL | | | | | 
+Parâmetros de Controle | | | | | | 
+Limites de exposição
+ocupacional: | | | Nome químico ou
+comum | TLV – TWA
+(ACGIH, 2013) | | 
+ | | | Diuron | 10 mg/m³ | | 
+Indicadores biológicos: | | Não estabelecidos. | | | | 
+Medidas de controle de
+engenharia: | | Promova ventilação mecânica e sistema de exaustão direta para o
+meio exterior. Estas medidas auxiliam na redução da exposição ao
+produto. Manter as condições atmosféricas, dos constituintes do
+produto, abaixo dos limites de exposição ocupacional indicados. | | | | 
+Medidas de Proteção Pessoal | | | | | | 
+Proteção dos olhos/face: | | Óculos com proteção lateral contra respingos químicos. | | | | 
+Proteção da pele e do corpo: | | Luvas de proteção, calçado e macacão de PVC. | | | | 
+Proteção respiratória: | | Para baixas concentrações utilizar EPR semi facial com filtro
+químico multi gases e mecânico P2.
+Para altas concentrações utilizar máscara facial ou autônoma,
+conforme PPR. | | | | 
+Perigos térmicos: | | Não apresenta perigos térmicos. | | | | 
+ | 9. PROPRIEDADES FÍSICAS E QUÍMICAS | | 
+Aspecto (estado físico, forma e
+cor): | | Líquido, Neutral/Branco, homogêneo e viscoso. | 
+Odor e limite de odor: | | Característico. | 
+pH: | | 6,72 a 25°C (pH 1%). | 
+Ponto de fusão/ponto de
+congelamento: | | 158,0 a 159,8 ºC para o produto técnico (Diuron). | 
+Ponto de ebulição inicial e faixa
+de temperatura de ebulição: | | Não disponível. | 
+Ponto de fulgor: | | Não disponível. | 
+Taxa de evaporação: | | Não disponível. | 
+Inflamabilidade (sólido; gás): | | Não aplicável. | 
+Limite inferior/superior de
+inflamabilidade ou
+explosividade: | | Não disponível. | 
+Pressão de vapor: | | 6,79 x 10-7 Pa para o produto técnico (Diuron). | 
+Densidade de vapor: | | Não aplicável. | 
+Densidade relativa: | | 1,1924 g/cm3a 20°C. | 
+Solubilidade (s): | | 0,0281 g/L em água (pH 7,11), 60,0879 g/L em acetona e
+40,2287 g/L em metanol para o produto técnico (Diuron). | 
+FISPQ
+Em conformidade com NBR 14725-4:2014
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Produto: DIURON NORTOX 500 SC FISPQ: 05/2002
+Revisão: 05 Data: 20/07/2020 Página 5/10
+8. CONTROLE DE EXPOSIÇÃO E PROTEÇÃO INDIVIDUAL
+Parâmetros de Controle
+Limites de exposição Nome químico ou TLV – TWA
+ocupacional: comum (ACGIH, 2013)
+Diuron 10 mg/m³
+Indicadores biológicos: Não estabelecidos.
+Medidas de controle de Promova ventilação mecânica e sistema de exaustão direta para o
+engenharia: meio exterior. Estas medidas auxiliam na redução da exposição ao
+produto. Manter as condições atmosféricas, dos constituintes do
+produto, abaixo dos limites de exposição ocupacional indicados.
+Medidas de Proteção Pessoal
+Proteção dos olhos/face: Óculos com proteção lateral contra respingos químicos.
+Proteção da pele e do corpo: Luvas de proteção, calçado e macacão de PVC.
+Proteção respiratória: Para baixas concentrações utilizar EPR semi facial com filtro
+químico multi gases e mecânico P2.
+Para altas concentrações utilizar máscara facial ou autônoma,
+conforme PPR.
+Perigos térmicos: Não apresenta perigos térmicos.
+9. PROPRIEDADES FÍSICAS E QUÍMICAS
+Aspecto (estado físico, forma e Líquido, Neutral/Branco, homogêneo e viscoso.
+cor):
+Odor e limite de odor: Característico.
+pH: 6,72 a 25°C (pH 1%).
+Ponto de fusão/ponto de 158,0 a 159,8 ºC para o produto técnico (Diuron).
+congelamento:
+Ponto de ebulição inicial e faixa Não disponível.
+de temperatura de ebulição:
+Ponto de fulgor: Não disponível.
+Taxa de evaporação: Não disponível.
+Inflamabilidade (sólido; gás): Não aplicável.
+Limite inferior/superior de Não disponível.
+inflamabilidade ou
+explosividade:
+Pressão de vapor: 6,79 x 10-7 Pa para o produto técnico (Diuron).
+Densidade de vapor: Não aplicável.
+Densidade relativa: 1,1924 g/cm3a 20°C.
+Solubilidade (s): 0,0281 g/L em água (pH 7,11), 60,0879 g/L em acetona e
+40,2287 g/L em metanol para o produto técnico (Diuron).
+ | FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS | | | | | | | | 
+ | Produto: DIURON NORTOX 500 SC | | | | | FISPQ: 05/2002 | | | 
+ | Revisão: 05 | | Data: 20/07/2020 | | | | | | Página 6/10
+Coeficiente de partição – n-
+octanol/água: | | Log kow é 2,718 (pH 7,06) à temperatura média de 20,2ºC para o
+produto técnico (Diuron). | | | | | | | 
+Temperatura de auto-ignição: | | Não disponível. | | | | | | | 
+Temperatura de decomposição: | | 180 - 190°C. | | | | | | | 
+Viscosidade: | | 376 mPa.s (20°C)
+193 mPa.s (20°C) | | | | | | | 
+Outras informações: | | Tensão superficial: 35 mN/m (1% - 23,2ºC). | | | | | | | 
+ | 10. ESTABILIDADE E REATIVIDADE | | 
+Estabilidade e reatividade: | | Produto estável em condições normais de temperatura e pressão. | 
+Possibilidade de reações
+perigosas: | | Não são conhecidas reações perigosas com relação ao produto. | 
+Condições a serem evitadas: | | Temperaturas elevadas. Contato com materiais incompatíveis. | 
+Materiais incompatíveis: | | Ácidos e bases. | 
+Produtos perigosos da
+decomposição: | | A decomposição do produto pode formar gases tóxicos. | 
+ | 11. INFORMAÇÕES TOXICOLÓGICAS | 
+Toxicidade aguda: | | Nocivo se ingerido.
+DL (oral, ratos): 500 mg/kg p.c.
+50
+DL (dérmica, ratos): > 5000 mg/Kg p.c
+50
+CL (inalação, ratos, 4h): não determinado devido as condições do
+50
+teste.
+Corrosão/irritação da pele: | | Produto não classificado como irritante à pele.
+Na primeira leitura um dos animais apresentou edema muito fraco,
+pouco perceptível. Após 24 horas houve ausência total das reações.
+Lesões oculares graves/irritação
+ocular: | | Todos os animais apresentaram hiperemia, e foi observado quemose
+em dois animais. As reações oculares reverteram em 72 horas e o
+teste foi concluído.
+Sensibilização respiratória ou à
+pele: | | Nas condições de teste, a substância-teste DIURON NORTOX 500
+SC foi considerada como não sensibilizante.
+Mutagenicidade em células
+germinativas: | | Não classificado como mutagênico. Estudos em animais não
+demonstraram efeitos mutagênicos.
+Carcinogenicidade: | | Não classificado como carcinogênico. Estudos em animais não
+demonstraram carcinogenicidade.
+Toxicidade à reprodução: | | Não classificado como tóxico à reprodução. Estudos em animais não
+demonstraram toxicidade à reprodução.
+Toxicidade para órgãos-alvo
+específicos – exposição única: | | Pode provocar irritação das vias respiratórias com tosse e espirros.
+Em elevadas concentrações pode provocar de dores de cabeça,
+tonturas e vômitos.
+FISPQ
+Em conformidade com NBR 14725-4:2014
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Produto: DIURON NORTOX 500 SC FISPQ: 05/2002
+Revisão: 05 Data: 20/07/2020 Página 6/10
+Coeficiente de partição – n- Log kow é 2,718 (pH 7,06) à temperatura média de 20,2ºC para o
+octanol/água: produto técnico (Diuron).
+Temperatura de auto-ignição: Não disponível.
+Temperatura de decomposição: 180 - 190°C.
+Viscosidade: 376 mPa.s (20°C)
+193 mPa.s (20°C)
+Outras informações: Tensão superficial: 35 mN/m (1% - 23,2ºC).
+10. ESTABILIDADE E REATIVIDADE
+Estabilidade e reatividade: Produto estável em condições normais de temperatura e pressão.
+Possibilidade de reações Não são conhecidas reações perigosas com relação ao produto.
+perigosas:
+Condições a serem evitadas: Temperaturas elevadas. Contato com materiais incompatíveis.
+Materiais incompatíveis: Ácidos e bases.
+Produtos perigosos da A decomposição do produto pode formar gases tóxicos.
+decomposição:
+11. INFORMAÇÕES TOXICOLÓGICAS
+Toxicidade aguda: Nocivo se ingerido.
+DL (oral, ratos): 500 mg/kg p.c.
+50
+DL (dérmica, ratos): > 5000 mg/Kg p.c
+50
+CL (inalação, ratos, 4h): não determinado devido as condições do
+50
+teste.
+Corrosão/irritação da pele: Produto não classificado como irritante à pele.
+Na primeira leitura um dos animais apresentou edema muito fraco,
+pouco perceptível. Após 24 horas houve ausência total das reações.
+Lesões oculares graves/irritação Todos os animais apresentaram hiperemia, e foi observado quemose
+ocular: em dois animais. As reações oculares reverteram em 72 horas e o
+teste foi concluído.
+Sensibilização respiratória ou à Nas condições de teste, a substância-teste DIURON NORTOX 500
+pele: SC foi considerada como não sensibilizante.
+Mutagenicidade em células Não classificado como mutagênico. Estudos em animais não
+germinativas: demonstraram efeitos mutagênicos.
+Carcinogenicidade: Não classificado como carcinogênico. Estudos em animais não
+demonstraram carcinogenicidade.
+Toxicidade à reprodução: Não classificado como tóxico à reprodução. Estudos em animais não
+demonstraram toxicidade à reprodução.
+Toxicidade para órgãos-alvo Pode provocar irritação das vias respiratórias com tosse e espirros.
+específicos – exposição única: Em elevadas concentrações pode provocar de dores de cabeça,
+tonturas e vômitos.
+ | FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS | | | | | | | | | 
+ | Produto: DIURON NORTOX 500 SC | | | | | FISPQ: 05/2002 | | | | 
+ | Revisão: 05 | | Data: 20/07/2020 | | | | | | Página 7/10 | 
+Toxicidade para órgãos-alvo
+específicos – exposição
+repetida: | | Não é esperado que o produto apresente toxicidade ao órgão-alvo
+específico por exposição repetida. | | | | | | | | 
+Perigo por aspiração: | | Não é esperado que o produto apresente perigo por aspiração. | | | | | | | | 
+ | 12. INFORMAÇÕES ECOLÓGICAS | | 
+Efeitos Ambientais, Comportamento e Impactos do Produto | | | 
+Ecotoxicidade: | | Tóxico para os organismos aquáticos.
+CL (Danio rerio, 96h): 61,29 mg/L
+50
+CE (Daphnia similis, 48h): 4,39 mg/L
+50
+CL (Eusenia foetida, 14 dias): 290,34 mg/kg
+50
+DL (Apis mellifera, 48h): > 200 μg/abelha
+50 | 
+Persistência e degradabilidade: | | De acordo com os resultados obtidos, o produto Diuron Técnico
+Nortox é classificado segundo o manual do Ibama como facilmente
+biodegradável. | 
+Potencial bioacumulativo: | | Apresenta baixo potencial bioacumulativo em organismos aquáticos.
+Log kow: 2,718 | 
+Mobilidade no solo: | | Os Rfs foram 0,00 para o solo Gley Húmico, 0,12 para o solo
+Latossolo Areno-Argiloso e 0,11 para o solo Latossolo Argiloso.
+Portanto o Diuron Nortox é classificado como uma substância
+imóvel para o solo Gley Húmico e pouco móvel para os solos
+Latossolo Areno-Argiloso e Latossolo Argiloso. | 
+Outros efeitos adversos: | | Não são conhecidos outros efeitos ambientais para este produto. | 
+ | 13. CONSIDERAÇÕES SOBRE DESTINAÇÃO FINAL | | 
+Métodos Recomendados para Destinação Final | | | 
+Produto: | | Deve ser eliminado como resíduo perigoso de acordo com a
+legislação local. O tratamento e a disposição devem ser avaliados
+especificamente para cada produto. Devem ser consultadas
+legislações federais, estaduais e municipais, dentre estas: Lei
+n°12.305, de 02 de agosto de 2010 (Política Nacional de Resíduos
+Sólidos). | 
+Restos de produtos: | | Manter restos do produto em suas embalagens originais e
+devidamente fechadas. O descarte deve ser realizado conforme o
+estabelecido para o produto. | 
+Embalagem usada: | | Não reutilize embalagens vazias. Estas podem conter restos do
+produto e devem ser mantidas fechadas e encaminhadas para
+descarte apropriado conforme estabelecido para o produto. Seguir
+diretrizes do Programa de Destinação de Embalagens Vazias de
+Agrotóxicos, recomendações técnicas das legislações aplicáveis. | 
+FISPQ
+Em conformidade com NBR 14725-4:2014
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Produto: DIURON NORTOX 500 SC FISPQ: 05/2002
+Revisão: 05 Data: 20/07/2020 Página 7/10
+Toxicidade para órgãos-alvo Não é esperado que o produto apresente toxicidade ao órgão-alvo
+específicos – exposição específico por exposição repetida.
+repetida:
+Perigo por aspiração: Não é esperado que o produto apresente perigo por aspiração.
+12. INFORMAÇÕES ECOLÓGICAS
+Efeitos Ambientais, Comportamento e Impactos do Produto
+Ecotoxicidade: Tóxico para os organismos aquáticos.
+CL (Danio rerio, 96h): 61,29 mg/L
+50
+CE (Daphnia similis, 48h): 4,39 mg/L
+50
+CL (Eusenia foetida, 14 dias): 290,34 mg/kg
+50
+DL (Apis mellifera, 48h): > 200 μg/abelha
+50
+Persistência e degradabilidade: De acordo com os resultados obtidos, o produto Diuron Técnico
+Nortox é classificado segundo o manual do Ibama como facilmente
+biodegradável.
+Potencial bioacumulativo: Apresenta baixo potencial bioacumulativo em organismos aquáticos.
+Log kow: 2,718
+Mobilidade no solo: Os Rfs foram 0,00 para o solo Gley Húmico, 0,12 para o solo
+Latossolo Areno-Argiloso e 0,11 para o solo Latossolo Argiloso.
+Portanto o Diuron Nortox é classificado como uma substância
+imóvel para o solo Gley Húmico e pouco móvel para os solos
+Latossolo Areno-Argiloso e Latossolo Argiloso.
+Outros efeitos adversos: Não são conhecidos outros efeitos ambientais para este produto.
+13. CONSIDERAÇÕES SOBRE DESTINAÇÃO FINAL
+Métodos Recomendados para Destinação Final
+Produto: Deve ser eliminado como resíduo perigoso de acordo com a
+legislação local. O tratamento e a disposição devem ser avaliados
+especificamente para cada produto. Devem ser consultadas
+legislações federais, estaduais e municipais, dentre estas: Lei
+n°12.305, de 02 de agosto de 2010 (Política Nacional de Resíduos
+Sólidos).
+Restos de produtos: Manter restos do produto em suas embalagens originais e
+devidamente fechadas. O descarte deve ser realizado conforme o
+estabelecido para o produto.
+Embalagem usada: Não reutilize embalagens vazias. Estas podem conter restos do
+produto e devem ser mantidas fechadas e encaminhadas para
+descarte apropriado conforme estabelecido para o produto. Seguir
+diretrizes do Programa de Destinação de Embalagens Vazias de
+Agrotóxicos, recomendações técnicas das legislações aplicáveis.
+ | FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS | | | | | | | | | 
+ | Produto: DIURON NORTOX 500 SC | | | | | FISPQ: 05/2002 | | | | 
+ | Revisão: 05 | | Data: 20/07/2020 | | | | | | Página 8/10 | 
+ | 14. INFORMAÇÕES SOBRE TRANSPORTE | | | | | | | | | 
+Terrestre: | | Resolução nº 5232, de 14 de dezembro de 2016 da Agência Nacional
+de Transportes Terrestres (ANTT), aprova as Instruções
+Complementares ao Regulamento Terrestre do Transporte de
+Produtos Perigosos, e dá outras providências. | | | | | | | | 
+Número ONU: | | 3082 | | | | | | | | 
+Nome apropriado para
+embarque: | | SUBSTÂNCIA QUE APRESENTA RISCO PARA O MEIO
+AMBIENTE, LÍQUIDA, N.E. (Diuron) | | | | | | | | 
+Classe ou subclasse de risco
+principal: | | 9 | | | | | | | | 
+Classe ou subclasse de risco
+subsidiário: | | NA | | | | | | | | 
+Número de risco: | | 90 | | | | | | | | 
+Grupo de embalagem: | | III | | | | | | | | 
+Hidroviário: | | DPC: Diretoria de Portos e Costas (Transporte em águas brasileiras)
+Normas de Autoridade Marítima (NORMAM)
+NORMAM 01/DPC: Embarcações Empregadas na Navegação em
+Mar Aberto
+NORMAM 02/DPC: Embarcações Empregadas na Navegação
+Interior
+IMO: International Maritime Organization (Organização Marítima
+Internacional)
+IMDG Code: International Maritime Dangerous Goods Code. | | | | | | | | 
+Número ONU: | | 3082 | | | | | | | | 
+Nome apropriado para
+embarque: | | SUBSTANCE PRESENTS RISK FOR THE ENVIRONMENT,
+LIQUID, N.O.S. (Diuron) | | | | | | | | 
+Classe ou subclasse de risco
+principal: | | 9 | | | | | | | | 
+Classe ou subclasse de risco
+subsidiário: | | NA | | | | | | | | 
+Grupo de embalagem: | | III | | | | | | | | 
+EmS: | | F-A,S-A | | | | | | | | 
+Perigo ao meio ambiente: | | O produto não é considerado poluente marinho. | | | | | | | | 
+Aéreo: | | ANAC: Agência Nacional de Aviação Civil – Resolução n°129 de 8
+de dezembro de 2009.
+RBAC N°175: (REGULAMENTO BRASILEIRO DA AVIAÇÃO
+CIVIL) - TRANSPORTE DE ARTIGOS PERIGOSOS EM
+AERONAVES CIVIS.
+IS N° 175-001: INSTRUÇÃO SUPLEMENTAR - IS
+ICAO: International Civil Aviation Organization” (Organização da
+Aviação Civil Internacional) – Doc 9284-NA/905
+IATA: International Air Transport Association (Associação | | | | | | | | 
+FISPQ
+Em conformidade com NBR 14725-4:2014
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Produto: DIURON NORTOX 500 SC FISPQ: 05/2002
+Revisão: 05 Data: 20/07/2020 Página 8/10
+14. INFORMAÇÕES SOBRE TRANSPORTE
+Terrestre: Resolução nº 5232, de 14 de dezembro de 2016 da Agência Nacional
+de Transportes Terrestres (ANTT), aprova as Instruções
+Complementares ao Regulamento Terrestre do Transporte de
+Produtos Perigosos, e dá outras providências.
+Número ONU: 3082
+Nome apropriado para SUBSTÂNCIA QUE APRESENTA RISCO PARA O MEIO
+embarque: AMBIENTE, LÍQUIDA, N.E. (Diuron)
+Classe ou subclasse de risco 9
+principal:
+Classe ou subclasse de risco NA
+subsidiário:
+Número de risco: 90
+Grupo de embalagem: III
+Hidroviário: DPC: Diretoria de Portos e Costas (Transporte em águas brasileiras)
+Normas de Autoridade Marítima (NORMAM)
+NORMAM 01/DPC: Embarcações Empregadas na Navegação em
+Mar Aberto
+NORMAM 02/DPC: Embarcações Empregadas na Navegação
+Interior
+IMO: International Maritime Organization (Organização Marítima
+Internacional)
+IMDG Code: International Maritime Dangerous Goods Code.
+Número ONU: 3082
+Nome apropriado para SUBSTANCE PRESENTS RISK FOR THE ENVIRONMENT,
+embarque: LIQUID, N.O.S. (Diuron)
+Classe ou subclasse de risco 9
+principal:
+Classe ou subclasse de risco NA
+subsidiário:
+Grupo de embalagem: III
+EmS: F-A,S-A
+Perigo ao meio ambiente: O produto não é considerado poluente marinho.
+Aéreo: ANAC: Agência Nacional de Aviação Civil – Resolução n°129 de 8
+de dezembro de 2009.
+RBAC N°175: (REGULAMENTO BRASILEIRO DA AVIAÇÃO
+CIVIL) - TRANSPORTE DE ARTIGOS PERIGOSOS EM
+AERONAVES CIVIS.
+IS N° 175-001: INSTRUÇÃO SUPLEMENTAR - IS
+ICAO: International Civil Aviation Organization” (Organização da
+Aviação Civil Internacional) – Doc 9284-NA/905
+IATA: International Air Transport Association (Associação
+ | FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS | | | | | | | | | 
+ | Produto: DIURON NORTOX 500 SC | | | | | FISPQ: 05/2002 | | | | 
+ | Revisão: 05 | | Data: 20/07/2020 | | | | | | Página 9/10 | 
+ | | Internacional de Transporte Aéreo)
+DGR: Dangerous Goods Regulation. | | | | | | | | 
+Número ONU: | | 3082 | | | | | | | | 
+Nome apropriado para
+embarque: | | SUBSTANCE PRESENTS RISK FOR THE ENVIRONMENT,
+LIQUID, N.O.S. (Diuron) | | | | | | | | 
+Classe ou subclasse de risco
+principal: | | 9 | | | | | | | | 
+Classe ou subclasse de risco
+subsidiário: | | NA | | | | | | | | 
+Grupo de embalagem: | | III | | | | | | | | 
+ | 15. INFORMAÇÕES SOBRE REGULAMENTAÇÕES | | 
+Regulamentações específicas
+para o produto químico: | | Decreto Federal nº 2.657, de 3 de julho de 1998.
+Lei n° 7.802 de 11 de julho de 1989.
+Norma ABNT NBR 9843
+Lei n°12.305, de 02 de agosto de 2010
+Portaria nº 229, de 24 de maio de 2011 – Altera a NR nº 26. | 
+ | 16. OUTRAS INFORMAÇÕES | 
+Informações importantes, mas não especificamente descritas às seções anteriores.
+Esta FISPQ foi elaborada com base nos atuais conhecimentos sobre o manuseio apropriado do produto e
+sob as condições normais de uso, de acordo com a aplicação especificada na embalagem.
+Qualquer outra forma de utilização do produto que envolva a sua combinação com outros materiais,
+além de formas de uso diversas daquelas indicadas, é de responsabilidade do usuário.
+Adverte-se que o manuseio de qualquer substância química requer o conhecimento prévio de seus
+perigos pelo usuário. No local de trabalho cabe à empresa usuária do produto promover o treinamento
+de seus empregados e contratados quanto aos possíveis riscos advindos da exposição ao produto
+químico.
+Legendas e abreviaturas:
+CAS - Chemical Abstracts Service
+CE - Concentração efetiva 50%
+50
+CL - Concentração letal 50%
+50
+DL - Dose letal 50%
+50
+NA – Não aplicável
+PPR – Programa de Proteção Respiratória
+EPR – Equipamento de Proteção Respiratória
+Referências bibliográficas:
+AMERICAN CONFERENCE OF GOVERNMENTAL INDUSTRIALS HYGIENISTS. TLVs® E
+BEIs®: baseado na documentação dos limites de exposição ocupacional (TLVs®) para substâncias
+químicas e agentes físicos & índices biológicos de exposição (BEIs®). Tradução Associação Brasileira
+de Higienistas Ocupacional. São Paulo, 2012. | | 
+FISPQ
+Em conformidade com NBR 14725-4:2014
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Produto: DIURON NORTOX 500 SC FISPQ: 05/2002
+Revisão: 05 Data: 20/07/2020 Página 9/10
+Internacional de Transporte Aéreo)
+DGR: Dangerous Goods Regulation.
+Número ONU: 3082
+Nome apropriado para SUBSTANCE PRESENTS RISK FOR THE ENVIRONMENT,
+embarque: LIQUID, N.O.S. (Diuron)
+Classe ou subclasse de risco 9
+principal:
+Classe ou subclasse de risco NA
+subsidiário:
+Grupo de embalagem: III
+15. INFORMAÇÕES SOBRE REGULAMENTAÇÕES
+Regulamentações específicas Decreto Federal nº 2.657, de 3 de julho de 1998.
+para o produto químico: Lei n° 7.802 de 11 de julho de 1989.
+Norma ABNT NBR 9843
+Lei n°12.305, de 02 de agosto de 2010
+Portaria nº 229, de 24 de maio de 2011 – Altera a NR nº 26.
+16. OUTRAS INFORMAÇÕES
+Informações importantes, mas não especificamente descritas às seções anteriores.
+Esta FISPQ foi elaborada com base nos atuais conhecimentos sobre o manuseio apropriado do produto e
+sob as condições normais de uso, de acordo com a aplicação especificada na embalagem.
+Qualquer outra forma de utilização do produto que envolva a sua combinação com outros materiais,
+além de formas de uso diversas daquelas indicadas, é de responsabilidade do usuário.
+Adverte-se que o manuseio de qualquer substância química requer o conhecimento prévio de seus
+perigos pelo usuário. No local de trabalho cabe à empresa usuária do produto promover o treinamento
+de seus empregados e contratados quanto aos possíveis riscos advindos da exposição ao produto
+químico.
+Legendas e abreviaturas:
+CAS - Chemical Abstracts Service
+CE - Concentração efetiva 50%
+50
+CL - Concentração letal 50%
+50
+DL - Dose letal 50%
+50
+NA – Não aplicável
+PPR – Programa de Proteção Respiratória
+EPR – Equipamento de Proteção Respiratória
+Referências bibliográficas:
+AMERICAN CONFERENCE OF GOVERNMENTAL INDUSTRIALS HYGIENISTS. TLVs® E
+BEIs®: baseado na documentação dos limites de exposição ocupacional (TLVs®) para substâncias
+químicas e agentes físicos & índices biológicos de exposição (BEIs®). Tradução Associação Brasileira
+de Higienistas Ocupacional. São Paulo, 2012.
+ | FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS | | | | | | | | | | 
+ | Produto: DIURON NORTOX 500 SC | | | | | | FISPQ: 05/2002 | | | | 
+ | Revisão: 05 | | | Data: 20/07/2020 | | | | | | Página 10/10 | 
+BRASIL. MINISTÉRIO DO TRABALHO E EMPREGO (MTE). Norma Regulamentadora (NR) n°7:
+Programa de controle médico de saúde ocupacional. Brasília, DF. Jun. 1978.
+BRASIL. MINISTÉRIO DO TRABALHO E EMPREGO (MTE). Norma Regulamentadora (NR) n°15:
+Atividades e operações insalubres. Brasília, DF. Jun. 1978.
+Globally Harmonized System of Classification and Labelling of Chemicals (GHS). 5. rev. ed. New
+York: United Nations, 2013.
+HSDB - HAZARDOUS SUBSTANCES DATA BANK. Disponível em: <http://toxnet.nlm.nih.gov/cgi-
+bin/sis/htmlgen?HSDB>. Acesso em: jan. 2014.
+TOXNET - TOXICOLOGY DATA NETWORKING. ChemIDplus Lite. Disponível em:
+<http://chem.sis.nlm.nih.gov/>. Acesso em: jan. 2014.
+SIRETOX/INTERTOX - SISTEMA DE INFORMAÇÕES SOBRE RISCOS DE EXPOSIÇÃO
+QUÍMICA. Disponível em: <http://www.intertox.com.br>. Acesso em: jan. 2014.
+DIAS, ANA CAROLINA RIBEIRO. Lixiviação, mobilidade, degradação, mineralização, e atividade
+microbiana de herbicidas em função de atributos de cinco tipos de solos. Tese (Doutorado). Escola
+Superior de Agricultura “Luiz de Queiroz”, 2012. | | | | | | | | | | | 
+FISPQ
+Em conformidade com NBR 14725-4:2014
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Produto: DIURON NORTOX 500 SC FISPQ: 05/2002
+Revisão: 05 Data: 20/07/2020 Página 10/10
+BRASIL. MINISTÉRIO DO TRABALHO E EMPREGO (MTE). Norma Regulamentadora (NR) n°7:
+Programa de controle médico de saúde ocupacional. Brasília, DF. Jun. 1978.
+BRASIL. MINISTÉRIO DO TRABALHO E EMPREGO (MTE). Norma Regulamentadora (NR) n°15:
+Atividades e operações insalubres. Brasília, DF. Jun. 1978.
+Globally Harmonized System of Classification and Labelling of Chemicals (GHS). 5. rev. ed. New
+York: United Nations, 2013.
+HSDB - HAZARDOUS SUBSTANCES DATA BANK. Disponível em: <http://toxnet.nlm.nih.gov/cgi-
+bin/sis/htmlgen?HSDB>. Acesso em: jan. 2014.
+TOXNET - TOXICOLOGY DATA NETWORKING. ChemIDplus Lite. Disponível em:
+<http://chem.sis.nlm.nih.gov/>. Acesso em: jan. 2014.
+SIRETOX/INTERTOX - SISTEMA DE INFORMAÇÕES SOBRE RISCOS DE EXPOSIÇÃO
+QUÍMICA. Disponível em: <http://www.intertox.com.br>. Acesso em: jan. 2014.
+DIAS, ANA CAROLINA RIBEIRO. Lixiviação, mobilidade, degradação, mineralização, e atividade
+microbiana de herbicidas em função de atributos de cinco tipos de solos. Tese (Doutorado). Escola
+Superior de Agricultura “Luiz de Queiroz”, 2012.

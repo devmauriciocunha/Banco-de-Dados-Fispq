@@ -1,0 +1,389 @@
+EMISSÃO: 17/08/2020 | DATA ÚLTIMA REVISÃO: | REVISÃO Nº 00
+Ficha de Informações de Segurança de Produtos Químicos
+FISPQ – NBR 14725-4: 2014
+Produto: Sulfato de Cobalto
+1. IDENTIFICAÇÃO DO PRODUTO E EMPRESA
+1.1 Identificação do produto
+Nome da substancia: SULFATO DE COBALTO
+Nome comercial do produto: SULFATO DE COBALTO
+Principais usos recomendados para o produto: Uso de sulfato de cobalto na produção de
+carbonato de cobalto; processos de tratamento de superfície como inibidor de corrosão em
+passivadores trivalentes para acabamentos zincados; utensílios de vidro e cerâmica (uso
+intermediário);tintas para a indústria têxtil, couro, madeira e / ou papel (uso intermediário);uso
+industrial de sulfato de cobalto na fabricação de produtos químicos e em outros produtos
+químicos úmidos processos como intermediário; fertilizantes e / ou materiais de qualidade
+alimentar; catalisador em processos de síntese; processos de fermentação e / ou produção de
+biogás; formulação e uso industrial de como químico de tratamento de água, eliminador de
+oxigênio; fabricação e uso industrial de baterias com sulfato de cobalto (uso intermediário);uso
+profissional de fertilizantes contendo sulfato de cobalto.
+Código interno de identificação do produto: A038
+1.2. Identificador do Fornecedor da ficha de dados de segurança:
+Nome da Empresa: TRATHO METAL QUIMICA LTDA
+Endereço: Rodovia Presidente Dutra, Km 204 – Bairro Perobal - Arujá – São Paulo – CEP: 07431-000
+Telefone da empresa: (011) 2500-3190
+Site: www.tratho.com.br
+Internet: http://www.tratho.com.br/port/index.shtm
+E-mail: laboratorio@tratho.com.br
+Pessoa responsável pela FISPQ: ismenia@tratho.com.br
+1.3 Fones de emergência: ABIQUIM............................... .......................................0800-11-8270
+BOMBEIROS....................................................................193
+CENTRO DE INFORMAÇÃO E ASSISTENCIA TOXICOLÓGICA: 0800-722-6001
+SUATRANS......................................................................(19) 3467-9700
+EMISSÃO: 17/08/2020 DATA ÚLTIMA REVISÃO: REVISÃO Nº 00
+Matriz: TRATHO Metal Química - (11) 2500-3190 - tratho@tratho.com.br - www.tratho.com.br
+Rodovia Presidente Dutra, Km 204 – Bairro Perobal – Arujá – São Paulo – CEP: 07431- 000
+Filiais: Caxias do Sul/RS (54) 3537-1566 Joinville/SC (47) 3305-0347 Juiz de Fora/MG (32) 3771-0292 Nova Friburgo/RJ (22) 3512-9564
+1
+EMISSÃO: 17/08/2020 | DATA ÚLTIMA REVISÃO: | REVISÃO Nº 00
+Ficha de Informações de Segurança de Produtos Químicos
+FISPQ – NBR 14725-4: 2014
+Produto: Sulfato de Cobalto
+2. IDENTIFICAÇÃO DE PERIGOS
+Classificação GHS
+Toxidade aguda: Oral (categoria 4)
+Toxidade aguda: Inalação (Categoria 4)
+Irritação cutânea (Categoria 2)
+Sensibilização respiratória (Categoria 1)
+Sensibilização da pele (Categoria 1)
+Mutagenicidade em células germinativas (Categoria 2)
+Carcinogenicidade (Categoria 1A)
+Toxidade reprodutiva (Categoria 1B)
+Toxidade para órgãos-alvo específicos-exposição repetida, Inalação (Categoria 1)
+Toxidade aguda para o ambiente aquático (Categoria 1)
+Toxidade crônica para o ambiente aquático (Categoria 1)
+Sistema de Classificação utilizado: Norma ABNT-NBR 14725-2:2009 – versão corrigida 2:2010.
+Sistema Globalmente Harmonizado para a Classificação e Rotulagem de Produtos Químicos, ONU.
+Elementos de etiqueta GHS, incluindo declarações de prevenção:
+Pictograma:
+Palavra de advertência: Perigo
+Frases de perigo
+H302 Nocivo por ingestão.
+H319 Provoca irritação ocular grave.
+H334 Pode causar sintomas de alergia ou asma ou dificuldades respiratórias se inalado.
+H317 Pode causar uma reação alérgica na pele.
+H360F pode prejudicar a fertilidade.
+H341 Suspeito de causar defeitos genéticos
+H350i Pode causar câncer por inalação.
+H400 Muito tóxico para a vida aquática.
+H410 Muito tóxico para os organismos aquáticos com efeitos duradouros.
+H410 Muito tóxico para a vida aquática com efeitos duradouros
+EMISSÃO: 17/08/2020 DATA ÚLTIMA REVISÃO: REVISÃO Nº 00
+Matriz: TRATHO Metal Química - (11) 2500-3190 - tratho@tratho.com.br - www.tratho.com.br
+Rodovia Presidente Dutra, Km 204 – Bairro Perobal – Arujá – São Paulo – CEP: 07431- 000
+Filiais: Caxias do Sul/RS (54) 3537-1566 Joinville/SC (47) 3305-0347 Juiz de Fora/MG (32) 3771-0292 Nova Friburgo/RJ (22) 3512-9564
+2
+Nome químico (O) | N° CAS (A) | Concentração (%)
+Sulfato de Cobalto Heptahidratado | 10026-24-1 | 99,0%(Mín.)
+Cobalto | 7440-48-4 | 20,0%(Mín.)
+EMISSÃO: 17/08/2020 | DATA ÚLTIMA REVISÃO: | REVISÃO Nº 00
+Ficha de Informações de Segurança de Produtos Químicos
+FISPQ – NBR 14725-4: 2014
+Produto: Sulfato de Cobalto
+Frases de Precaução:
+Prevenção
+P202 Não manuseie até que todas as precauções de segurança tenham sido lidas e compreendidas.
+P261 Evite respirar poeira / fumaça / gás / névoa / vapores / spray.
+P270 Não coma, beba ou fume durante a utilização deste produto.
+P280 Use luvas de proteção / roupa de proteção / proteção ocular / proteção facial.
+P309 + P311 SE exposto ou se não se sentir bem: contacte um CENTRO DE INFORMAÇÃO ANTIVENENOS
+ou médico / médico.
+P273 Evite a liberação para o meio ambiente.
+.
+Outros perigos
+PBT / mPmB
+Os critérios PBT e mPmB do Anexo XIII do regulamento não se aplicam a substancias inorgânicas
+3. COMPOSIÇÃO E INFORMAÇÕES SOBRE OS INGREDIENTES
+Substancias
+Fórmula: CoSO4.7H2O
+Natureza Química: sal inorgânico, cristal
+Sinônimo: NA
+Nome químico ou genérico: Sulfato de Cobalto heptahidratado
+CAS no.: 10026-24-1
+EC no.: 233-334-2
+REACH Reg. No.: 01-2119517426-41-0003
+Ingredientes que contribuem para o perigo:
+Nome químico (O) N° CAS (A) Concentração (%)
+Sulfato de Cobalto Heptahidratado 10026-24-1 99,0%(Mín.)
+Cobalto 7440-48-4 20,0%(Mín.)
+4. MEDIDAS DE PRIMEIRO SOCORROS
+Inalação: Remover a vítima local para arejado. Havendo parada respiratória, se houver dificuldade de
+respiração introduzir oxigênio e contatar um médico.
+Contato com a pele: Lavar a área atingida com água e sabão abundante por 15 minutos. Se a irritação
+persistir contatar um médico.
+Contato com os olhos: Lavar os olhos imediatamente com água abundante por 15 minutos, levantando
+o olhar e pálpebras superiores.
+EMISSÃO: 17/08/2020 DATA ÚLTIMA REVISÃO: REVISÃO Nº 00
+Matriz: TRATHO Metal Química - (11) 2500-3190 - tratho@tratho.com.br - www.tratho.com.br
+Rodovia Presidente Dutra, Km 204 – Bairro Perobal – Arujá – São Paulo – CEP: 07431- 000
+Filiais: Caxias do Sul/RS (54) 3537-1566 Joinville/SC (47) 3305-0347 Juiz de Fora/MG (32) 3771-0292 Nova Friburgo/RJ (22) 3512-9564
+3
+EMISSÃO: 17/08/2020 | DATA ÚLTIMA REVISÃO: | REVISÃO Nº 00
+Ficha de Informações de Segurança de Produtos Químicos
+FISPQ – NBR 14725-4: 2014
+Produto: Sulfato de Cobalto
+Ingestão: Se a vítima estiver consciente, induzir o vômito. Procurar um médico.
+Condições graves: Pessoas que sofrem cronicamente de doenças de pele e respiratórias podem ter seu
+estado agravado em contato com este material.
+Sintomas e efeitos mais importantes, tanto agudos como retardados
+Sintomas e efeitos gerais
+Se inalado: Tosse; Falta de ar
+Por ingestão: Vômitos; Dor abdominal
+Olhos / pele: vermelhidão
+Se os sintomas persistirem, chame um médico. Trate sintomaticamente.
+Indicação de qualquer atenção médica imediata e tratamento especial necessário
+Tratamento médico :Nenhum.
+5. MEDIDAS DE COMBATE A INCÊNDIO
+Meios de extinção apropriados: Produto não é inflamável. Em caso de pequenos incêndios, utilizar jato
+de água, neblina de água ou espuma.
+Perigos especiais decorrentes da substancia ou mistura: Óxidos de enxofre, Cobalto/óxido de cobalto
+Equipamento de proteção individual use o equipamento de proteção individual exigido.
+Outras informações
+Recolher água de combate a incêndio contaminada separadamente. Não descarregue no
+drenos / águas superficiais / subterrâneas.
+6. MEDIDAS DE CONTROLE PARA DERRAMAMENTO OU VAZAMENTO
+Precauções Pessoais: Isole imediatamente a área de derramamento/vazamento num raio de 25 a 50m
+em todas as direções. Mantenha as pessoas afastadas. Permaneça afastado de áreas baixas, tendo o
+vento pelas costas.
+Não toque nos recipientes danificados ou material derramado sem o uso de vestimentas de proteção
+adequadas (óculos de proteção luvas de látex ou PVC máscara semi facial com filtro classe P2 ou P3).
+Precauções ao Meio Ambiente: Evite a penetração do produto em cursos d’água, redes de esgotos,
+porões ou áreas confinadas.
+Dispor os resíduos conforme especificado pelo Órgão de Controle Ambiental local.
+7. MANUSEIO E ARMAZENAMENTO
+Cuidados para manuseio seguro
+EMISSÃO: 17/08/2020 DATA ÚLTIMA REVISÃO: REVISÃO Nº 00
+Matriz: TRATHO Metal Química - (11) 2500-3190 - tratho@tratho.com.br - www.tratho.com.br
+Rodovia Presidente Dutra, Km 204 – Bairro Perobal – Arujá – São Paulo – CEP: 07431- 000
+Filiais: Caxias do Sul/RS (54) 3537-1566 Joinville/SC (47) 3305-0347 Juiz de Fora/MG (32) 3771-0292 Nova Friburgo/RJ (22) 3512-9564
+4
+EMISSÃO: 17/08/2020 | DATA ÚLTIMA REVISÃO: | REVISÃO Nº 00
+Ficha de Informações de Segurança de Produtos Químicos
+FISPQ – NBR 14725-4: 2014
+Produto: Sulfato de Cobalto
+Manuseio Tome nota da Diretiva 98/24 / CE sobre a proteção da saúde e segurança dos trabalhadores
+dos riscos relacionados aos agentes químicos no trabalho.
+Evite a inalação de poeira e o contato com a pele e os olhos. Use ventilação mecânica em caso de
+manuseio que causa formação de poeira. Evite a propagação de poeira.
+Medidas de Segurança de Proteção
+Conselhos sobre ocupacional geral higiene
+Roupas particulares e de trabalho devem ser mantidas separadamente.
+condições para armazenagem segura, incluindo eventuais incompatibilidades
+Armazenamento Armazenar no recipiente original bem fechado em local seco, fresco e bem ventilado.
+Condições a evitar: Manter afastado de agentes oxidantes fortes.
+Uso (s) final (is) específico (s)
+Uso (s) específico (s) Uso industrial; uso profissional
+8. CONTROLE DE EXPOSIÇÃO E PROTEÇÃO INDIVIDUAL
+Parâmetro de Controle
+Substância Identificação Valor TWA Ano
+Cobalto e seus inorgânicos TWA (8h): 0,02 mg / m³ Ano TWA: 201
+compostos Carta de Limite de Exposição
+Descrição da carta: Co
+Fonte: HTP Finlândia
+DNEL / PNEC
+Substância sulfato de cobalto heptahidratado
+Grupo DNEL: Consumidor
+Via de exposição: inalação de longo prazo (local)
+Valor: 16,6 μg / m³
+Grupo: Profissional
+Via de exposição: inalação de longo prazo (local)
+Valor: 105,2 μg / m³
+Valor: 25 μg / kg bw / dia
+Comentário: oral de longo prazo (local)
+PNEC Rota de exposição: água salgada
+Valor: 2,36 μg Co / L
+EMISSÃO: 17/08/2020 DATA ÚLTIMA REVISÃO: REVISÃO Nº 00
+Matriz: TRATHO Metal Química - (11) 2500-3190 - tratho@tratho.com.br - www.tratho.com.br
+Rodovia Presidente Dutra, Km 204 – Bairro Perobal – Arujá – São Paulo – CEP: 07431- 000
+Filiais: Caxias do Sul/RS (54) 3537-1566 Joinville/SC (47) 3305-0347 Juiz de Fora/MG (32) 3771-0292 Nova Friburgo/RJ (22) 3512-9564
+5
+EMISSÃO: 17/08/2020 | DATA ÚLTIMA REVISÃO: | REVISÃO Nº 00
+Ficha de Informações de Segurança de Produtos Químicos
+FISPQ – NBR 14725-4: 2014
+Produto: Sulfato de Cobalto
+Via de exposição: água doce
+Valor: 0,51 μg / L
+Via de exposição: sedimentos de água doce
+PNRC Valor: 9,5 mg Co / kg dw
+Via de exposição: sedimentos de água salgada
+Valor: 9,5 mg Co / kg dw
+Comentário: PNEC Solo = 7,9 mg / kg dw
+Microrganismos da estação de tratamento de água = 0,373 μg Co / l
+Medidas de controle de engenharia: Usar ventilação para manter a exposição do funcionário abaixo dos
+limites recomendados. Dispor de lavador de olhos e chuveiro de segurança, bem como ventilação
+adequada lavador de olhos e chuveiro de segurança, bem como ventilação adequada de acordo com
+limites de exposição.
+Equipamento de proteção individual:
+Proteção respiratória: Máscara com filtro químico para pó
+Proteção das mãos: Luvas de PVC ou borracha
+Proteção dos olhos: Óculos de segurança ou máscara
+Proteção para pele e corpo: Avental / vestimenta de proteção e botas
+Higiene / meio ambiente
+Medidas de higiene específicas: lavar as roupas contaminadas antes de reutilizar. A proteção pessoal
+deve ser mantida separada de outras roupas. Não comer, beber ou fumar durante a utilização.
+Controle de exposição ambiental adequado
+Exposição ambiental
+controles
+O empregador deve cumprir os requisitos da Diretiva IPPC.
+9. PROPRIEDADES Físicas- Químicas
+Estado Físico Cristais
+Cor: rosa avermelhada
+Odor: Inodoro
+pH: 5,11 (100 g / l)
+Ponto de fusão / intervalo de fusão Comentários: 96,8 ° C CoSO4 · 7H2O
+Ponto / intervalo de ebulição Comentários: Não relevante.
+Comentários do ponto de inflamação: Não relevante.
+Taxa de evaporação Comentários: Não relevante.
+Inflamabilidade (sólido, gás) não acende
+Pressão de vapor Comentários: Não há dados disponíveis.
+Densidade de vapor Comentários: Não há dados disponíveis.
+Valor de densidade: 1,948 g / cm³
+Comentários: (CoSO4 · 7H2O)
+Meio de solubilidade: água
+EMISSÃO: 17/08/2020 DATA ÚLTIMA REVISÃO: REVISÃO Nº 00
+Matriz: TRATHO Metal Química - (11) 2500-3190 - tratho@tratho.com.br - www.tratho.com.br
+Rodovia Presidente Dutra, Km 204 – Bairro Perobal – Arujá – São Paulo – CEP: 07431- 000
+Filiais: Caxias do Sul/RS (54) 3537-1566 Joinville/SC (47) 3305-0347 Juiz de Fora/MG (32) 3771-0292 Nova Friburgo/RJ (22) 3512-9564
+6
+EMISSÃO: 17/08/2020 | DATA ÚLTIMA REVISÃO: | REVISÃO Nº 00
+Ficha de Informações de Segurança de Produtos Químicos
+FISPQ – NBR 14725-4: 2014
+Produto: Sulfato de Cobalto
+Valor: 376,7 g / l
+Temperatura: 20 ° C
+Coeficiente de partição: noctanol /água: Não se aplica.
+Combustibilidade espontânea Comentários: Não aplicável.
+Temperatura de decomposição Comentários: Não há dados disponíveis.
+Comentários de viscosidade: Não aplicável. Sólido
+Propriedades explosivas :Não explosivo
+Propriedades oxidantes: não oxidantes
+10. ESTABILIDADE E REATIVIDADE
+Condições Específicas
+Reatividade Nenhum risco de reatividade específico associado a este produto.
+Estabilidade química: Estabilidade Estável nas condições de armazenamento recomendadas.
+Possibilidade de reações perigosas
+Possibilidade de perigo: Nenhuma reação perigosa conhecida nas condições normais de uso.
+condições a se evitar: Calor.
+Materiais incompatíveis: Agentes oxidantes fortes
+Produtos de decomposição perigosos :Gases sulfurosos (SOx). Óxidos de cobalto
+11. INFORMAÇÕES TOXICOLOGICAS
+Avaliação de toxicidade aguda
+Classificação LD50 / oral / rato = 768 mg / kg
+Avaliação da corrosão da pele /irritação, classificação: Não classificado como corrosivo. Causa séria
+irritação nos olhos.
+Sensibilização Pode causar sintomas de alergia ou asma ou dificuldades respiratórias se inalado.
+Pode causar uma reação alérgica na pele.
+Mutagenicidade: Suspeito de causar defeitos genéticos.
+Carcinogenicidade Pode causar câncer por inalação. Experimentos com animais mostraram um número
+estatisticamente significativo de tumores. Concentração 0,3 mg / m3
+Toxicidade reprodutiva: pode prejudicar a fertilidade
+Avaliação de alvo específico
+toxicidade de órgão RE, classificação: Sem dados disponíveis.
+Perigo de aspiração: Não relevante.
+12. INFORMAÇÕES ECOLOGICAS
+Toxicidade
+Ecotoxicidade
+EMISSÃO: 17/08/2020 DATA ÚLTIMA REVISÃO: REVISÃO Nº 00
+Matriz: TRATHO Metal Química - (11) 2500-3190 - tratho@tratho.com.br - www.tratho.com.br
+Rodovia Presidente Dutra, Km 204 – Bairro Perobal – Arujá – São Paulo – CEP: 07431- 000
+Filiais: Caxias do Sul/RS (54) 3537-1566 Joinville/SC (47) 3305-0347 Juiz de Fora/MG (32) 3771-0292 Nova Friburgo/RJ (22) 3512-9564
+7
+EMISSÃO: 17/08/2020 | DATA ÚLTIMA REVISÃO: | REVISÃO Nº 00
+Ficha de Informações de Segurança de Produtos Químicos
+FISPQ – NBR 14725-4: 2014
+Produto: Sulfato de Cobalto
+LC50 / 96t / mutu (peixinhos Fathead) = 3,61 mg / L (CoSO4)
+LC50 / 96h / Salmo gairdneri: 1,5 mg / l (CoCl2)
+NOEC: 351,4 mg / L (água doce, peixe) (Relatório de segurança química)
+NOEC: 31802 mg / L (água do mar, peixes) (Relatório de segurança química)
+EC / LC50: 0,61 mg / L (água doce, invertebrados) (Relatório de segurança química) EC / LC50: 2,23
+mg / L (água do mar, invertebrados.) (Relatório de segurança química)
+Persistência e degradabilidade :Sem dados disponíveis.
+Potencial bioacumulativo:Cobalto
+plantas aquáticas BCF:> 100 - 5000
+Invertebrados. , Água BCF <300
+peixes Água doce BCF / BAF: <10
+peixes Água do mar BCF / BAF: <10
+Mobilidade no solo:Sem dados disponíveis.
+Resultados da avaliação PBT e mPmB
+Os critérios PBT e mPmB do Anexo XIII do regulamento não se aplicam a substancias inorgânicas
+.
+13. CONSIDERAÇÕES SOBRE TRATAMENTO E DISPOSIÇÃO
+Métodos de tratamento e disposição do produto e seus restos
+Produto: Coletar em recipiente limpo e seco, tampar e identificar. Propor a entregas de soluções
+excedentes e não recicláveis a uma empresa idônea de tratamento de resíduos.
+Embalagem usada: Não utilizar a embalagem usada para nenhum outro fim. Eliminar como resíduo
+especial de acordo com as normas regulamentais locais e nacionais.
+14. INFORMAÇÕES SOBRE O TRANSPORTE
+Regulamentações Nacionais e Internacionais
+UNRTDG
+Nº ONU: 3077
+Classe ou subclasse de risco: 9
+Nº de risco: 90
+Nome apropriado para embarque: Sólido tóxico inorgânico (Sulfato de Níquel Hexahidratado)
+Marítimo: IMDG – Internacional Maritime Dangerous Goods Code
+Grupo de Embalagem: III
+EMISSÃO: 17/08/2020 DATA ÚLTIMA REVISÃO: REVISÃO Nº 00
+Matriz: TRATHO Metal Química - (11) 2500-3190 - tratho@tratho.com.br - www.tratho.com.br
+Rodovia Presidente Dutra, Km 204 – Bairro Perobal – Arujá – São Paulo – CEP: 07431- 000
+Filiais: Caxias do Sul/RS (54) 3537-1566 Joinville/SC (47) 3305-0347 Juiz de Fora/MG (32) 3771-0292 Nova Friburgo/RJ (22) 3512-9564
+8
+EMISSÃO: 17/08/2020 | DATA ÚLTIMA REVISÃO: | REVISÃO Nº 00
+Ficha de Informações de Segurança de Produtos Químicos
+FISPQ – NBR 14725-4: 2014
+Produto: Sulfato de Cobalto
+IATA-DGR
+Nº ONU: 3077
+Classe ou subclasse de risco: 9
+Nº de risco: 90
+Nome apropriado para embarque: Sólido tóxico inorgânico (Sulfato de Níquel Hexahidratado)
+Marítimo: IMDG – Internacional Maritime Dangerous Goods Code
+Grupo de Embalagem: III
+IMDG-CODE
+Nº ONU: 3077
+Classe ou subclasse de risco: 9
+Nº de risco: 90
+Nome apropriado para embarque: Sólido tóxico inorgânico (Sulfato de Níquel Hexahidratado)
+Marítimo: IMDG – Internacional Maritime Dangerous Goods Code
+Grupo de Embalagem: III
+Verifique se não há danos, corrosão, vazamentos e também nos recipientes antes do transporte
+Perigos ambientais
+Substância ambientalmente perigosa - poluente marinho
+Precauções especiais para o usuário
+Precauções especiais de segurança para do utilizador :Nenhum. Código de restrição de túnel (-)
+Transporte a granel de acordo com o Anexo II da MARPOL 73/78 e o Código IBC
+Transporte em valor a granel
+(Sim não): Não
+15. REGULAMENTAÇÕES
+Legislação e regulamentos
+Lista de candidatos:
+Sulfato de cobalto CE nº 233-334-2 http://echa.europa.eu/web/guest/candidatelist -tabela
+Avaliação de segurança química
+Realizado: sim
+EMISSÃO: 17/08/2020 DATA ÚLTIMA REVISÃO: REVISÃO Nº 00
+Matriz: TRATHO Metal Química - (11) 2500-3190 - tratho@tratho.com.br - www.tratho.com.br
+Rodovia Presidente Dutra, Km 204 – Bairro Perobal – Arujá – São Paulo – CEP: 07431- 000
+Filiais: Caxias do Sul/RS (54) 3537-1566 Joinville/SC (47) 3305-0347 Juiz de Fora/MG (32) 3771-0292 Nova Friburgo/RJ (22) 3512-9564
+9
+EMISSÃO: 17/08/2020 | DATA ÚLTIMA REVISÃO: | REVISÃO Nº 00
+Ficha de Informações de Segurança de Produtos Químicos
+FISPQ – NBR 14725-4: 2014
+Produto: Sulfato de Cobalto
+16. OUTRAS INFORMAÇÕES
+“As informações desta FISPQ representam os dados e refletem o nosso conhecimento para o manuseio
+apropriado deste produto em condições normais e de acordo com a aplicação especifica embalagem
+e/ou literatura. Qualquer outro uso do produto que envolva o uso combinado com outro produto ou
+outros processos é de responsabilidade do usuário.”
+Referências:
+1) Recomendações para o transporte de produtos perigosos, Manual de Ensaios e Critérios das Nações
+Unidas.
+2) ABNT Associação Brasileira de Normas Técnicas NBR 14725-4: 2014
+3)ABIQUIM – Departamento técnico, Comissão de Transporte, Manual para atendimento de
+emergências com produtos perigosos 4º edição São Paulo.
+A FISPQ em questão está em conformidade com o Regulamento da Comissão (UE) 2015/830 de 28 de
+maio de 2015 que altera o Regulamento (CE) Nº 1907/2006 do Parlamento Europeu e do Conselho
+sobre o Registro, Avaliação, Autorização e Restrição de Produtos Químicos (REACH)
+EMISSÃO: 17/08/2020 DATA ÚLTIMA REVISÃO: REVISÃO Nº 00
+Matriz: TRATHO Metal Química - (11) 2500-3190 - tratho@tratho.com.br - www.tratho.com.br
+Rodovia Presidente Dutra, Km 204 – Bairro Perobal – Arujá – São Paulo – CEP: 07431- 000
+Filiais: Caxias do Sul/RS (54) 3537-1566 Joinville/SC (47) 3305-0347 Juiz de Fora/MG (32) 3771-0292 Nova Friburgo/RJ (22) 3512-9564
+10

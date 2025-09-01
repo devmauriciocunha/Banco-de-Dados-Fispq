@@ -1,0 +1,227 @@
+FICHA DE INFORMAÇÃO E SEGURANÇA DE PRODUTO QUÍMICO
+Produto LUGOL CONCENTRADO
+Data de revisão 14.06.2016
+Versão 01
+1. IDENTIFICAÇÃO DO PRODUTO E DA EMPRESA
+1.1 Identificação do Produto
+Código LB: 620509
+Produto: LUGOL CONCENTRADO 5%I/10%KI-FR 500mL
+Embalagem: Frasco de vidro âmbar contendo 500mL de solução de Iodo com
+concentração de 5%.
+1.2 Aplicação
+Solução de Lugol utilizada para diversas técnicas em laboratório clínico.
+1.3 Fornecedor
+Laborclin Produtos para Laboratórios
+Rua Casimiro de Abreu, 521 – Vargem Grande
+83.321-210 – Pinhais/PR
+Telefone/Fax: 0xx – 41 – 3661-9050 SAC: 0800-410027
+Telefone de emergência: 0xx – 41 3661-9000
+e-mail: sac@laborclin.com.br Home page: www.laborclin.com.br
+2. IDENTIFICAÇÃO DE PERIGOS
+Classificação: Toxicidade aguda – oral. Categoria 5
+Sensibilização à pele. Categoria 1
+Prejuízo sério aos olhos/irritação aos olhos: Categoria 1
+Toxicidade sistêmica ao órgão-alvo após única exposição: Categoria 3
+Toxicidade sistêmica em órgão alvo após exposição repetida: Categoria 1
+Perigo ao ambiente aquático: Categoria 1
+Pictograma:
+Palavra de advertência: Atenção
+Frase de perigo: H303 Pode ser nocivo se ingerido.
+H317 Pode provocar reações alérgicas na pele.
+H318 Provoca lesões oculares graves.
+H335 Pode provocar irritação das vias respiratórias.
+H410 Muito tóxico para os organismos aquáticos, com efeitos
+prolongados.
+Laborclin Produtos para Laboratórios Ltda. SAC: 0800-410027
+Rua Casimiro de Abreu, 521 – Vargem Grande sac@laborclin.com.br
+83.321-210 – Pinhais/PR
+Pág. 1 de 5
+Componente químico | Classe de perigo | Valores de corte/limites
+de concentração
+Iodeto de potássio | Toxicidade aguda | ≥1,0%
+ | Sensibilização da pele | ≥0,1%
+Iodo metalóide | Corrosivo/irritação da pele | ≥1,0%
+ | Lesões oculares graves/irritação
+ocular | ≥1,0%
+ | Sensibilização da pele | ≥0,1%
+FICHA DE INFORMAÇÃO E SEGURANÇA DE PRODUTO QUÍMICO
+Produto LUGOL CONCENTRADO
+Data de revisão 14.06.2016
+Versão 01
+Frase de precaução: P261 Evite inalar as poeiras.
+P272 A roupa de trabalho contaminada não pode sair do local de
+trabalho.
+P280 Use luvas de proteção/roupa de proteção/proteção
+ocular/proteção facial.
+P312 Caso sinta indisposição, contate um CENTRO DE
+INFOMAÇÃO TOXICOLÓGICA ou um médico.
+P302 + P352 EM CASO DE CONTATO COM A PELE: Lave com
+água em abundância.
+P333 + P313 Em caso de irritação ou erupção cutânea: Consulte um
+médico.
+P262 + P264 Retire a roupa contaminada. Lave-a antes de usá-la
+novamente.
+P501 Descarte o conteúdo/recipiente como produto perigoso.
+P271 Utilize apenas ao ar livre ou em locais bem ventilados.
+P273 Evite a liberação para o meio ambiente.
+P391 Recolha o material derramado.
+3. COMPOSIÇÃO E INFORMAÇÃO DE INGREDIENTES
+Valores de corte/limites
+Componente químico Classe de perigo
+de concentração
+Toxicidade aguda ≥1,0%
+Iodeto de potássio
+Sensibilização da pele ≥0,1%
+Corrosivo/irritação da pele ≥1,0%
+Iodo metalóide Lesões oculares graves/irritação
+≥1,0%
+ocular
+Sensibilização da pele ≥0,1%
+Ingredientes perigosos: o Iodeto de potássio e o Iodo metalóide são considerados
+perigosos, nas quantidades presentes.
+4. MEDIDAS DE PRIMEIROS SOCORROS
+Inalação: Remover a vítima para o ar fresco (ambiente ventilado). Se a vítima estiver com
+dificuldade de respirar, aplicar respiração artificial rica em oxigênio. Consultar
+imediatamente um médico.
+Pele/mucosas/olhos: Lavar o local com água em abundância e procurar auxílio médico no
+caso de reações do tipo alérgicas. Nos olhos lavar o local com água por 15 minutos e
+buscar auxílio médico.
+Ingestão: Fazer o paciente ingerir grande quantidade de água e procurar auxílio médico.
+Não provocar vômitos.
+5. MEDIDAS DE COMBATE A INCÊNDIOS
+Em caso de incêndio: Utilizar CO , pó químico seco ou espuma.
+2
+Laborclin Produtos para Laboratórios Ltda. SAC: 0800-410027
+Rua Casimiro de Abreu, 521 – Vargem Grande sac@laborclin.com.br
+83.321-210 – Pinhais/PR
+Pág. 2 de 5
+FICHA DE INFORMAÇÃO E SEGURANÇA DE PRODUTO QUÍMICO
+Produto LUGOL CONCENTRADO
+Data de revisão 14.06.2016
+Versão 01
+Riscos especiais resultante de substâncias ou da mistura: em caso de incêndio forma-se
+gases inflamáveis e vapores perigosos. Um incêndio pode provocar o desenvolvimento de
+ácido nítrico e cloreto de hidrogênio gasoso.
+Informações complementares: suprimir com jatos de águas os gases, vapores e névoas.
+Evitar a contaminação da água superfície e da água subterrânea com a água de combate
+a incêndios.
+6. MEDIDAS DE CONTROLE EM CASOS DE DERRAMAMENTO E VAZAMENTO
+Precauções pessoais, equipamentos de proteção e procedimento de emergência: Evitar o
+contato com a substância. Não respirar vapores nem aerossóis. Assegurar ventilação
+adequada. Evacuar a área de perigo, observar os procedimentos de emergência,
+consultar um especialista.
+Precauções ambientais: Não despejar os resíduos no esgoto. Risco de explosão.
+Método de remoção: No caso de quebra ou rompimento de embalagem absorver o
+material com serragem ou papel e depois providenciar seu descarte conforme normas
+internas do laboratório. Proceder à eliminação de resíduos. Limpar a área afetada.
+7. MANUSEIO E ARMAZENAMENTO
+Manipulação: Não fume nem provoque chamas desprotegidas. O manuseio do produto
+pelo usuário final deve ser feito com o uso de EPI comuns ao laboratório (jaleco, luvas,
+máscara entre outros).
+Armazenamento: Armazenar em temperatura ambiente em local fresco e seco, ao abrigo
+da exposição direta a luz solar. Manter afastado do calor e de fontes de ignição.
+Transporte: Efetuar o transporte adotando os cuidados usuais e não expondo o produto a
+extremos de temperatura.
+8. CONTROLE DE EXPOSIÇÃO E PROTEÇÃO INDIVIDUAL
+Parâmetros de controle: não contém substâncias com valores limites de exposição
+ocupacional.
+Medidas de proteção individual: As características dos meios de proteção para o trabalho
+devem ser selecionados em função da concentração e da quantidade das substâncias
+tóxicas de acordo com as condições especificas do local de trabalho.
+Medidas de higiene: Manter limpo o local de trabalho. Em caso de emergência utilizar
+duchas e lava olhos. Manter recipientes fechados. Após o trabalho lavar as mãos com
+água e sabão.
+9. PROPRIEDADES FÍSICO-QUÍMICAS
+Informações aplicadas ao produto: LUGOL CONCENTRADO 5%I/10%KI-FR 500mL
+Estado físico: líquido
+Cor: Solução marrom escuro, livre de partículas visíveis.
+Odor: ligeiramente pungente
+Limite do de odor: não existem informações disponíveis.
+Laborclin Produtos para Laboratórios Ltda. SAC: 0800-410027
+Rua Casimiro de Abreu, 521 – Vargem Grande sac@laborclin.com.br
+83.321-210 – Pinhais/PR
+Pág. 3 de 5
+FICHA DE INFORMAÇÃO E SEGURANÇA DE PRODUTO QUÍMICO
+Produto LUGOL CONCENTRADO
+Data de revisão 14.06.2016
+Versão 01
+pH: não existem informações disponíveis.
+Ponto de fusão: não existem informações disponíveis.
+Ponto/intervalo de ebulição: 100°C
+Ponto de combustão: 47°C
+Velocidade de evaporação: não existem informações disponíveis
+Inflamabilidade (sólido, gás): não existem informações disponíveis.
+Limite de explosão inferior: não existem informações disponíveis.
+Limite de explosão superior: não existem informações disponíveis.
+Pressão do vapor: não existem informações disponíveis.
+Densidade relativa do vapor: não existem informações disponíveis
+Densidade relativa: 1.01 g/cm3 em 20 °C
+Solubilidade em água: em 20°C solúvel
+Coeficiente de partição: não existem informações disponíveis.
+Temperatura de auto-ignição: não existem informações disponíveis.
+Temperatura de decomposição: não existem informações disponíveis.
+Viscosidade, dinâmica: não existem informações disponíveis.
+Riscos de explosão: não existem informações disponíveis.
+Propriedades oxidantes: não existem informações disponíveis.
+10. ESTABILIDADE E REATIVIDADE
+Reatividade: não existem informações disponíveis.
+Estabilidade: Produto estável nas condições indicadas de armazenamento.
+Condições a serem evitadas: não existem informações disponíveis.
+Materiais incompatíveis: não existem informações disponíveis.
+11. INFORMAÇÕES TOXICOLÓGICAS
+Toxicidade aguda oral: Naúsea, vômitos.
+Toxicidade aguda inalatória: irritação das vias respiratórias.
+Toxicidade aguda dérmica: Absorção.
+Irritação da pele: Efeito desengordurante com formação de pele áspera e gretada.
+Irritação nos olhos: irritação leve
+Sensibilização respiratória ou à pele: Não são conhecidos efeitos sensibilizantes.
+Mutagenicidade: Esta informação não está disponível.
+Carcinogenicidade: Esta informação não está disponível.
+Toxicidade sistêmica de órgão-alvo específico – exposição repetida: Esta informação não
+está disponível.
+Informações complementares: o produto deve ser manipulado com as precauções
+habituais dos produtos químicos.
+12. MEIO AMBIENTE
+Toxicidade: não existem informações disponíveis.
+Persistência e degradabilidade: não existem informações disponíveis.
+Potencial biocumulativo: não existem informações disponíveis.
+Laborclin Produtos para Laboratórios Ltda. SAC: 0800-410027
+Rua Casimiro de Abreu, 521 – Vargem Grande sac@laborclin.com.br
+83.321-210 – Pinhais/PR
+Pág. 4 de 5
+FICHA DE INFORMAÇÃO E SEGURANÇA DE PRODUTO QUÍMICO
+Produto LUGOL CONCENTRADO
+Data de revisão 14.06.2016
+Versão 01
+Mobilidade no solo: não existem informações disponíveis.
+Informações ecológicas adicionais: Não são esperados problemas ecológicos quando o
+produto é manuseado e usado com os devidos cuidados e atenção. A descarga no meio
+ambiente deve ser evitada.
+13. CONSIDERAÇÕES SOBRE TRATAMENTO E DISPOSIÇÃO
+Descarte: Os dejetos devem ser descartados em conformidade com regulamentações
+nacionais e locais. Mantenha as substâncias em seus recipientes originais. Não misturar
+com outros dejetos. O manuseio de recipientes sujos deve ser realizado da mesma forma
+que o produto em si.
+14. INFORMAÇÕES SOBRE TRANSPORTE
+Transporte Terrestre: Produto não perigoso segundo o regulamento de transporte.
+Transporte fluvial: Produto não perigoso segundo o regulamento de transporte.
+Transporte aéreo: Produto não perigoso segundo o regulamento de transporte.
+Transporte marítimo: Produto não perigoso segundo o regulamento de transporte.
+15. REGULAMENTAÇÕES
+Regulamentação/legislação específica para a substância ou mistura em matéria de saúde,
+segurança e ambiente.
+Esta Ficha de Informações de Produtos Químicos foi preparada de acordo com a NBR
+14725-4/2014 da ABNT (Associação Brasileira de Normas Técnicas)
+16. INFORMAÇÕES SOBRE ESTE DOCUMENTO
+As informações contidas neste documento representam os dados atuais e refletem com
+exatidão, nosso conhecimento sobre o manuseio apropriado deste produto, sob condições
+normais e de acordo com as recomendações apresentadas na embalagem e literatura
+técnica. Qualquer outro uso do produto que envolva ou não o uso combinado com outro
+produto, ou que utiliza processo diverso do indicado, é de responsabilidade exclusiva do
+usuário.
+FISPQ emitidas por fornecedores das matérias-primas utilizadas na elaboração do
+produto
+Laborclin Produtos para Laboratórios Ltda. SAC: 0800-410027
+Rua Casimiro de Abreu, 521 – Vargem Grande sac@laborclin.com.br
+83.321-210 – Pinhais/PR
+Pág. 5 de 5

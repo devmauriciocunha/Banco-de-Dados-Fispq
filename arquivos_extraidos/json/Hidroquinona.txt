@@ -1,0 +1,593 @@
+| | | 
+Ficha de Informações de Segurança de Produtos
+Químicos - FISPQ
+De acordo com a NBR 14725-4:2014
+Data da revisão 03.12.2015 Versão 3. 3
+SEÇÃO 1. Identificação do produto e da empresa
+1.1 Identificador do produto
+No. de catálogo 822333
+Nome do produto HIDROQUINONA PARA SÍNTESE
+Número de registro REACH Não há número de registro disponível para essa substância, uma vez
+que a substância ou a utilização da mesma são isentas de registro de
+acordo com o Artigo 2 da norma REACH (CE) No. 1907/2006, a
+tonelagem anual não exige registro ou o registro está previsto para um
+prazo posterior.
+Nº CAS 123-31-9
+1.2 Usos identificados da substância ou mistura e usos não recomendados
+Usos identificados Químico para síntese
+Para informações adicionais sobre os usos, por favor consulte o portal
+Merck Chemicals (www.merckgroup.com).
+1.3 Detalhes do fornecedor da Ficha de Informação de Segurança de Produto Químico - FISPQ
+Empresa Merck S/A * Brasil * Rua Torre Eifell, 100 - Parque Rincão - Gleba A
+Cotia - CEP: 06705-481 - São Paulo - SP * tel/fax: +55 11 3127-7389
+1.4 Número do telefone de Suatrans: : 0800 707 7022 / 0800 17 2020
+emergência
+SEÇÃO 2. Identificação de perigos
+2.1 Classificação da substância ou mistura
+Classificação (de acordo com a ABNT 14725-2)
+Carcinogenicidade, Categoria 2, H351
+Mutagenicidade em células germinativas, Categoria 2, H341
+Toxicidade aguda, Categoria 4, Oral, H302
+Lesões oculares graves, Categoria 1, H318
+Sensibilização à pele., Categoria 1, H317
+Perigoso ao ambiente aquático – Agudo., Categoria 1, H400
+Para obter o texto completo das frases de perigo mencionadas nesta seção, consulte a seção 16.
+Classificação (67/548/CEE ou 1999/45/CE)
+Carc.Cat.3 Carcinogênico Categoria 3 R40
+Mut.Cat.3 Mutagênico Categoria 3 R68
+Xn Nocivo R22
+Xi Irritante R41
+R43
+N Perigoso para o ambiente R50
+Para o texto completo sobre as frases R mencionadas nesta Seção, ver a Seção 16.
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com
+Página 1 de 13
+Ficha de Informações de Segurança de Produtos Químicos - FISPQ
+De acordo com a NBR 14725-4:2014
+No. de catálogo 822333
+Nome do produto HIDROQUINONA PARA SÍNTESE
+2.2 Elementos do rótulo
+Rotulagem (de acordo com a ABNT 14725-2)
+Pictogramas de risco
+Palavra de advertência
+Perigo
+Frases de perigo
+H302 Nocivo se ingerido.
+H317 Pode provocar reações alérgicas na pele.
+H318 Provoca lesões oculares graves.
+H341 Suspeito de provocar defeitos genéticos.
+H351 Suspeito de provocar câncer.
+H400 Muito tóxico para os organismos aquáticos.
+Frases de precaução
+Prevenção
+P273 Evite a liberação para o meio ambiente.
+P280 Use luvas de proteção.
+P280 Usar protecção ocular.
+Resposta de emergência
+P302 + P352 EM CASO DE CONTATO COM A PELE: Lave com água e sabão em abundância.
+P305 + P351 + P338 EM CASO DE CONTATO COM OS OLHOS: Enxágue cuidadosamente com
+água durante vários minutos. No caso de uso de lentes de contato, remova-as, se for fácil. Continue
+enxaguando.
+P313 Consulte um médico.
+Rótulagem reduzida (≤125 ml)
+Pictogramas de risco
+Palavra de advertência
+Perigo
+Frases de perigo
+H351 Suspeito de provocar câncer.
+H341 Suspeito de provocar defeitos genéticos.
+H318 Provoca lesões oculares graves.
+H317 Pode provocar reações alérgicas na pele.
+Frases de precaução
+P280 Use luvas de proteção/ proteção ocular/ proteção facial.
+P308 + P313 EM CASO DE exposição ou suspeita de exposição: Consulte um médico.
+P305 + P351 + P338 EM CASO DE CONTATO COM OS OLHOS: Enxágue cuidadosamente com água durante vários
+minutos. No caso de uso de lentes de contato, remova-as, se for fácil. Continue enxaguando.
+P302 + P352 EM CASO DE CONTATO COM A PELE: Lave com água e sabão em abundância.
+Nº CAS 123-31-9
+2.3 Outros perigos
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com
+Página 2 de 13
+ | Nome químico (Concentração) | | | | | 
+ | Nº CAS | | Número de registo | | Classificação | 
+ | Nome químico (Concentração) | | | 
+ | Nº CAS | | Classificação | 
+Ficha de Informações de Segurança de Produtos Químicos - FISPQ
+De acordo com a NBR 14725-4:2014
+No. de catálogo 822333
+Nome do produto HIDROQUINONA PARA SÍNTESE
+Não conhecidos.
+SEÇÃO 3. Composição e informações sobre os ingredientes
+3.1 Substância
+Fórmula C₆H₄(OH)₂ C₆H₆O₂ (Hill)
+N° CE 204-617-8
+Massa molar 110,11 g/mol
+Componentes perigosos (de acordo com a ABNT 14725-2)
+Nome químico (Concentração)
+Nº CAS Número de registo Classificação
+Hidroquinona (<= 100 % )
+123-31-9 *) Carcinogenicidade, Categoria 2, H351
+Mutagenicidade em células germinativas, Categoria 2, H341
+Toxicidade aguda, Categoria 4, H302
+Lesões oculares graves, Categoria 1, H318
+Sensibilização à pele., Categoria 1, H317
+Perigoso ao ambiente aquático – Agudo., Categoria 1, H400
+Fator M: 10
+*) Não há número de registro disponível para essa substância, uma vez que a substância ou a utilização da mesma são isentas de
+registro de acordo com o Artigo 2 da norma REACH (CE) No. 1907/2006, a tonelagem anual não exige registro ou o registro está
+previsto para um prazo posterior.
+Para obter o texto completo das frases de perigo mencionadas nesta seção, consulte a seção 16.
+Componentes perigosos (1999/45/CE)
+Nome químico (Concentração)
+Nº CAS Classificação
+Hidroquinona (<= 100 % )
+123-31-9 Carc.Cat.3; R40
+Mut.Cat.3; R68
+Xn, Nocivo; R22
+Xi, Irritante; R41
+R43
+N, Perigoso para o ambiente; R50
+Fator M: 10
+Para o texto completo sobre as frases R mencionadas nesta Seção, ver a Seção 16.
+3.2 Mistura
+Não aplicável
+SEÇÃO 4. Medidas de primeiros-socorros
+4.1 Descrição das medidas de primeiros-socorros
+Depois de inalar: Exposição ao ar fresco. Chamar um médico.
+Após contacto com a pele: Lavar abundantemente com água. Tirar a roupa contaminada.
+Consultar um médico.
+Após contacto com os olhos: Enxaguar abundantemente com água. Consultar imediatamente
+um oftalmologista.
+Após ingestão: fazer a vitima beber imediatamente água ( dois copos no máximo) Consultar um
+médico.
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com
+Página 3 de 13
+Ficha de Informações de Segurança de Produtos Químicos - FISPQ
+De acordo com a NBR 14725-4:2014
+No. de catálogo 822333
+Nome do produto HIDROQUINONA PARA SÍNTESE
+4.2 Sintomas e efeitos mais importantes, agudos e retardados
+Reações alérgicas, efeitos irritantes, Tosse, Respiração superficial, Cianose, Diarréia, Náusea,
+Vômitos, colapso
+Perigo de opacificação da córnea.
+Risco de graves lesões oculares.
+4.3 Indicação da atenção médica imediata e do tratamento especial necessário
+Não existem informações disponíveis.
+SEÇÃO 5. Medidas de combate a incêndio
+5.1 Meios de extinção
+Meios adequados de extinção
+Água, Dióxido de carbono (CO2), Espuma, Pó seco
+Agentes de extinção inadequados
+Nenhuma limitação de agentes extintores é dada para essa substância/mist ura.
+5.2 Riscos especiais resultantes da substância ou da mistura
+Combustível.
+Os vapores são mais pesados que o ar e podem espalhar-se junto ao solo.
+Em caso de forte aquecimento podem formar-se misturas explosivas com o ar.
+Risco de explosão do pó.
+Em caso de incêndio formam-se gases inflamáveis e vapores perigosos.
+5.3 Precauções para bombeiros
+Equipamentos especiais para proteção das pessoas envolvidas no combate a incêndio.
+Não ficar na zona de perigo sem aparelhos respiratórios autónomos apropriados para
+respiração independente do ambiente. De forma a evitar o contacto com a pele, mantenha uma
+distância de segurança e utilize vestuário protetor adequado.
+Informações complementares
+Evitar a contaminação da água de superfície e da água subterrânea com a água de combate a
+incêndios.
+SEÇÃO 6. Medidas de controle para derramamento ou vazamento
+6.1 Precauções pessoais, equipamentos de proteção e procedimentos de emergência
+Recomendações para pessoal não envolvido com emergências: Evitar a inalação de pós. Evitar
+o contacto com a substância. Assegurar ventilação adequada. Evacuar a área de perigo,
+observar os procedimentos de emergência, consu ltar um especialista.
+Recomendações para atendentes de emergências: Equipamento protetor, vide seção 8.
+6.2 Precauções ambientais
+Não despejar os resíduos no esgoto.
+6.3 Métodos e materiais de contenção e limpeza
+Cobrir ralos. Recolher, emendar e bombear vazamentos.
+Observar as possíveis restrições de material (vide seções 7 e 10).
+Absorver em estado seco. Proceder à eliminação de resíduos. Limpeza posterior. Evitar a
+formação de pós.
+6.4 Consulta a outras seções
+Indicações sobre tratamento de dejetos, vide seção 13
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com
+Página 4 de 13
+Ficha de Informações de Segurança de Produtos Químicos - FISPQ
+De acordo com a NBR 14725-4:2014
+No. de catálogo 822333
+Nome do produto HIDROQUINONA PARA SÍNTESE
+SEÇÃO 7. Manuseio e armazenamento
+7.1 Precauções para manuseio seguro
+Recomendações para manuseio seguro
+Trabalhar com chaminé. Não inalar a substância/mistura.
+Observar os avisos dos rótulos.
+Medidas de higiene
+Mudar imediatamente a roupa contaminada. Profilaxia cutânea. Depois de terminar o trabalho,
+lavar as mãos e a cara.
+7.2 Condições para armazenamento seguro, incluindo incompatibilidades
+Condições de armazenamento
+Herméticamente fechado. Em local seco. Ao abrigo da luz.
+Temperatura recomendada de armazenamento, consulte na etiqueta de produto.
+7.3 Utilizações finais específicas
+Nenhum uso específico é previsto além dos mencionados na sessão 1.2.
+SEÇÃO 8. Controle de exposição e proteção individual
+8.1 Parâmetros de controle
+Hidroquinona (123-31-9)
+BR OEL Média ponderada no 1 mg/m³
+tempo (TWA):
+8.2 Controles da exposição
+Medidas de controle de engenharia
+Medidas técnicas e operações de trabalho adequadas devem ter prioridade sobre o uso de
+equipamento de proteção pessoal.
+Vide seção 7.1.
+Medidas de proteção individual
+As características dos meios de protecção para o corpo devem ser seleccionadas em função da
+concentração e da quantidade das substâncias tóxicas de acordo com as condições específicas
+do local de trabalho. A resistência dos meios de protecção aos agentes químicos deve ser
+esclarecida junto dos fornecedores.
+Proteção para a pele/olhos
+Óculos de segurança bem ajustados
+Proteção das mãos
+contacto total:
+Substância da luva: Borracha nitrílica
+Espessura da luva: 0,11 mm
+Pausa: > 480 min
+contacto com salpicos:
+Substância da luva: Borracha nitrílica
+Espessura da luva: 0,11 mm
+Pausa: > 480 min
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com
+Página 5 de 13
+Ficha de Informações de Segurança de Produtos Químicos - FISPQ
+De acordo com a NBR 14725-4:2014
+No. de catálogo 822333
+Nome do produto HIDROQUINONA PARA SÍNTESE
+As luvas de protecção a usar têm que obedecer às especificações da directiva EC 89/686/EEC
+e do padrão resultante EN374, por exemplo KCL 741 Dermatril® L (contacto total), KCL 741
+Dermatril® L (contacto com salpicos).
+As ruturas acima descritas foram determinadas pelo KCL em testes de laboratório seg. a EN374
+com amostras dos tipos de luvas recomendados.
+Esta recomendação aplica-se apenas ao produto descrito na ficha de dados de segurança por
+nós fornecida bem como para a aplicação especificada.Quando houver dissolução ou mistura
+com outras substâncias e sob as devidas condições houver desvios aos descritos na EN374 por
+favor contactar o fornecedor de luvas com marcação CE (ex: KCL GmbH, D-36124 Eichenzell,
+Internet: www.kcl.de).
+Outro equipamento de protecção
+roupa de proteção
+Proteção respiratória
+necessário em caso de formação de pós.
+Tipo de Filtro recomendado: Filtro A-(P2)
+O empresário deve assegurar que a manutenção, limpeza e teste dos dispositivos de proteção
+respiratória sejam executados de acordo com as instruções do produtor. Estas medidas devem
+ser adequadamente documentadas.
+Controles de riscos ambientais
+Não despejar os resíduos no esgoto.
+SEÇÃO 9. Propriedades físicas e químicas
+9.1 Informações sobre propriedades físico-químicas básicas
+Estado físico sólido
+Cor creme
+Odor inodoro
+Limite de Odor Não existem informações disponíveis.
+pH Não existem informações disponíveis.
+Ponto de fusão 172 °C
+(decomposição)
+Ponto de ebulição inicial e faixa 287 °C
+de temperatura de ebulição em 1.013 hPa
+Ponto de fulgor 165 °C
+Método: c.c.
+Taxa de evaporação Não existem informações disponíveis.
+Inflamabilidade (sólido, gás) Não existem informações disponíveis.
+Limite inferior de explosividade Não existem informações disponíveis.
+Limite superior de explosividade Não existem informações disponíveis.
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com
+Página 6 de 13
+Ficha de Informações de Segurança de Produtos Químicos - FISPQ
+De acordo com a NBR 14725-4:2014
+No. de catálogo 822333
+Nome do produto HIDROQUINONA PARA SÍNTESE
+pressão de vapor < 0,1 hPa
+em 25 °C
+Densidade relativa do vapor 3,81
+Densidade 1,358 g/cm3
+em 20 °C
+Densidade relativa Não existem informações disponíveis.
+Solubilidade em água 70 g/l
+em 25 °C
+Coeficiente de partição (n- log Pow: 0,59
+octanol/água) (experimental)
+(Literatura) Não se prevê qualquer bio-acumulação.
+Temperatura de autoignição Não existem informações disponíveis.
+Temperatura de decomposição > 170 °C
+Viscosidade, dinâmica Não existem informações disponíveis.
+Riscos de explosão Não existem informações disponíveis.
+Propriedades oxidantes Não existem informações disponíveis.
+9.2 Outras informações
+Temperatura de ignição 515 °C
+em1.013 hPa
+Densidade aparente ca.600 kg/m3
+SEÇÃO 10. Estabilidade e reatividade
+10.1 Reatividade
+Risco de explosão do pó.
+Em caso de forte aquecimento podem formar-se misturas explosivas com o ar.
+10.2 Estabilidade química
+Sensibilidade à luz
+sublimável
+Sensível ao ar.
+10.3 Possibilidade de reações perigosas
+reactividade aumentada com:
+Alumínio
+Perigo de explosão am presença de:
+Oxigênio
+Reacção exotérmica com:
+Agentes oxidantes fortes, resíduos alcalinos
+Reacções violentas são possiveis com:
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com
+Página 7 de 13
+Ficha de Informações de Segurança de Produtos Químicos - FISPQ
+De acordo com a NBR 14725-4:2014
+No. de catálogo 822333
+Nome do produto HIDROQUINONA PARA SÍNTESE
+hidróxido de sódio
+10.4 Condições a serem evitadas
+Forte aquecimento.
+10.5 Materiais incompatíveis
+não existem indicações
+10.6 Produtos de decomposição perigosa
+não existem indicações
+SEÇÃO 11. Informações toxicológicas
+11.1 Informações sobre efeitos toxicológicos
+Toxicidade aguda oral
+LDLO humano: 29 mg/kg
+(RTECS)
+DL50 Ratazana: 302 mg/kg
+(IUCLID)
+Sintomas: Náusea, Vômitos, Diarréia
+absorção
+Toxicidade aguda - Inalação
+Sintomas: irritação das mucosas, Tosse, Respiração superficial, Possiveis concequências:,
+Edema pulmonar
+A substância tem efeitos retardados.
+Toxicidade aguda - Dérmica
+absorção
+Irritação da pele
+Coelho
+Resultado: Sem irritação.
+(IUCLID)
+Possiveis concequências: irritação leve
+Irritação nos olhos
+Perigo de opacificação da córnea.
+Provoca lesões oculares graves.
+Sensibilização
+Teste de sensibilização: Cobaia
+Resultado: positivo
+Método: Diretriz de Teste de OECD 406
+Pode provocar reações alérgicas na pele.
+Mutagenicidade em células germinativas
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com
+Página 8 de 13
+Ficha de Informações de Segurança de Produtos Químicos - FISPQ
+De acordo com a NBR 14725-4:2014
+No. de catálogo 822333
+Nome do produto HIDROQUINONA PARA SÍNTESE
+Genotoxicidade in vitro
+Mutagenicidade(teste em célula de mamifero): aberração de cromossomas.
+Resultado: positivo
+Método: OECD TG 473
+Teste de Ames
+Resultado: negativo
+Método: OECD TG 471
+Carcinogenicidade
+Esta informação não está disponível.
+Toxicidade à reprodução
+Esta informação não está disponível.
+Teratogenicidade
+Esta informação não está disponível.
+Efeitos carcinogênicos, mutagênicos e tóxicos à reprodução
+Carcinogenicidade:
+Suspeito de provocar câncer.
+Mutagenicidade:
+Suspeito de provocar defeitos genéticos.
+Toxicidade sistêmica de órgão-alvo específico - exposição única
+Esta informação não está disponível.
+Toxicidade sistêmica de órgão-alvo específico - exposição repetida
+Esta informação não está disponível.
+Perigo por aspiração.
+Esta informação não está disponível.
+11.2 Informações complementares
+Após absorção.
+Cianose, colapso
+Manusear de acordo com as boas práticas industriais de higiene e segurança.
+SEÇÃO 12. Informações ecológicas
+12.1 Toxicidade
+Toxicidade para os peixes
+CL50 Pimephales promelas (vairão gordo): 0,044 mg/l; 96 h
+(IUCLID)
+Toxicidade em daphnias e outros invertebrados aquáticos.
+CE50 Tetrahymen pyriformis: 95 mg/l; 60 h
+(IUCLID)
+CE50 Daphnia magna (pulga d'água ou dáfnia): 0,29 mg/l; 48 h
+Diretrizes para o teste 202 da OECD
+Toxicidade para as algas
+IC50 Pseudokirchneriella subcapitata (alga verde): 0,335 mg/l; 72 h
+(IUCLID)
+Toxicidade para as bactérias
+microtox test CE50 Photobacterium phosphoreum (bactérias bioluminescentes): 0,038 mg/l; 30
+min
+(IUCLID)
+12.2 Persistência e degradabilidade
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com
+Página 9 de 13
+Ficha de Informações de Segurança de Produtos Químicos - FISPQ
+De acordo com a NBR 14725-4:2014
+No. de catálogo 822333
+Nome do produto HIDROQUINONA PARA SÍNTESE
+Biodegradabilidade
+86 %; 14 d
+OECD TG 301C
+Rapidamente biodegradável.
+Demanda teórica de oxigênio (DTO)
+1.890 mg/g
+(IUCLID)
+Ratio BOD/ThBOD
+CBO5 33 %
+(Literatura)
+Ratio COD/ThBOD
+90 - 97 %
+(Literatura)
+12.3 Potencial bioacumulativo
+Coeficiente de partição (n-octanol/água)
+log Pow: 0,59
+(experimental)
+(Literatura) Não se prevê qualquer bio-acumulação.
+12.4 Mobilidade no solo
+Não existem informações disponíveis.
+12.5 Resultados da avaliação PBT e vPvB
+Avaliação de PBT/vPvB não realizada uma vez que a avaliação de segurança química não é
+exigida/não foi realizada.
+12.6 Outros efeitos adversos
+Informações ecológicas adicionais
+Efeitos biológicos:
+É possível a formação de misturas nocivas com a água. Perigo para a água potável.
+A descarga no meio ambiente deve ser evitada.
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com
+Página 10 de 13
+Ficha de Informações de Segurança de Produtos Químicos - FISPQ
+De acordo com a NBR 14725-4:2014
+No. de catálogo 822333
+Nome do produto HIDROQUINONA PARA SÍNTESE
+SEÇÃO 13. Considerações sobre tratamento e disposição
+Métodos de tratamento de resíduos
+Os dejetos devem ser descartados em conformidade com regulamentações nacionais e locais.
+Mantenha as substâncias químicas em seus recipientes originais. Não misturar com outros
+dejetos. O manuseio de recipientes sujos deve ser realizado da mesma forma que o do produto
+em si.
+As frases de perigo e de precaução apresentadas no rótulo também se aplicam a qualquer
+resíduo deixado na embalagem. A disposição não controlada ou reciclagem desta embalagem
+não é permitida e pode ser perigosa.
+Deve ser incinerado em instalação de incineração adequada pelas autoridades competentes.
+SEÇÃO 14. Informações sobre transporte
+Transporte terrestre (ADR/RID)
+14.1 Número ONU UN 3077
+14.2 Nome apropriado para ENVIRONMENTALLY HAZARDOUS SUBSTANCE, SOLID,
+embarque N.O.S. (HYDROQUINONE)
+14.3 Classe de risco 9
+14.4 Grupo de embalagem III
+14.5 Perigoso para o meio sim
+ambiente
+14.6 Precauções especiais para sim
+os usuários
+Código de restrição para túneis E
+Pacotes menores ou iguais a 5 kg / L , mercadorias não perigosas da clas se 9
+Transporte fluvial (ADN)
+Não relevante
+Transporte aéreo (IATA)
+14.1 Número ONU UN 3077
+14.2 Nome apropriado para ENVIRONMENTALLY HAZARDOUS SUBSTANCE, SOLID,
+embarque N.O.S. (HYDROQUINONE)
+14.3 Classe de risco 9
+14.4 Grupo de embalagem III
+14.5 Perigoso para o meio sim
+ambiente
+14.6 Precauções especiais para não
+os usuários
+Pacotes menores ou iguais a 5 kg / L , mercadorias não perigosas da clas se 9
+Transporte marítimo (IMDG)
+14.1 Número ONU UN 3077
+14.2 Nome apropriado para ENVIRONMENTALLY HAZARDOUS SUBSTANCE, SOLID,
+embarque N.O.S. (HYDROQUINONE)
+14.3 Classe de risco 9
+14.4 Grupo de embalagem III
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com
+Página 11 de 13
+Ficha de Informações de Segurança de Produtos Químicos - FISPQ
+De acordo com a NBR 14725-4:2014
+No. de catálogo 822333
+Nome do produto HIDROQUINONA PARA SÍNTESE
+14.5 Perigoso para o meio sim
+ambiente
+14.6 Precauções especiais para sim
+os usuários
+EmS F-A S-F
+Pacotes menores ou iguais a 5 kg / L , mercadorias não perigosas da clas se 9
+14.7 Transporte em massa de acordo com o Anexo II de MARPOL 73/78 e do Código IBC
+Não relevante
+SEÇÃO 15. Regulamentações
+15.1 Normas de segurança, saúde e ambientais específicas para a substância ou mistura
+Legislação nacional
+Classe de armazenagem 10 - 13
+15.2 Avaliação de segurança química
+Não foi realizada uma avaliação de segurança química conforme a regulame ntação UE REACH
+Nº 1907/2006 para este produto.
+SEÇÃO 16. Outras informações
+Texto completo das Declarações H mencionadas nas seções 2 e 3.
+H302 Nocivo se ingerido.
+H317 Pode provocar reações alérgicas na pele.
+H318 Provoca lesões oculares graves.
+H341 Suspeito de provocar defeitos genéticos.
+H351 Suspeito de provocar câncer.
+H400 Muito tóxico para os organismos aquáticos.
+Texto das frases-R referidas nos títulos 2 e 3
+R22 Nocivo por ingestão.
+R40 Comprovação moderada de efeitos cancerígenos.
+R41 Risco de graves lesões oculares.
+R43 Pode causar sensibilização em contato com a pele.
+R50 Muito tóxico para os organismos aquáticos.
+R68 Possibilidade de efeitos irreversíveis.
+Recomendação de treinamento
+Proporcione informações, instruções e treinamento adequados para os operadores.
+Rotulagem
+Pictogramas de risco
+Palavra de advertência
+Perigo
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com
+Página 12 de 13
+Ficha de Informações de Segurança de Produtos Químicos - FISPQ
+De acordo com a NBR 14725-4:2014
+No. de catálogo 822333
+Nome do produto HIDROQUINONA PARA SÍNTESE
+Frases de perigo
+H302 Nocivo se ingerido.
+H317 Pode provocar reações alérgicas na pele.
+H318 Provoca lesões oculares graves.
+H341 Suspeito de provocar defeitos genéticos.
+H351 Suspeito de provocar câncer.
+H400 Muito tóxico para os organismos aquáticos.
+Frases de precaução
+Prevenção
+P273 Evite a liberação para o meio ambiente.
+P280 Usar protecção ocular.
+Resposta de emergência
+P302 + P352 EM CASO DE CONTATO COM A PELE: Lave com água e sabão em abundância.
+P305 + P351 + P338 EM CASO DE CONTATO COM OS OLHOS: Enxágue cuidadosamente com
+água durante vários minutos. No caso de uso de lentes de contato, remova-as, se for fácil. Continue
+enxaguando.
+P313 Consulte um médico.
+Rotulagem (67/548/CEE ou 1999/45/CE)
+Símbolo(s): Xn Nocivo
+N Perigoso para o ambiente
+R - Frase(s) 22-40-41-43-68-50 Nocivo por ingestão. Comprovação moderada de efeitos
+cancerígenos. Risco de graves lesões oculares. Pode causar
+sensibilização em contato com a pele. Possibilidade de
+efeitos irreversíveis. Muito tóxico para os organismos
+aquáticos.
+Frase(s) - S 26-36/37/39-61 No caso de contato com os olhos, lavar imediata e
+abundantemente com água e consultar um especialista. Usar
+roupas de proteção, luvas e equipamento protetor para os
+olhos e rosto adequados. Evitar a liberação para o ambiente.
+Obter instruções específicas/fichas de segurança.
+N° CE 204-617-8
+Rótulagem reduzida (≤125 ml)
+Símbolo(s): Xn Nocivo
+N Perigoso para o ambiente
+R - Frase(s) 22-40-41-43-68 Nocivo por ingestão. Comprovação moderada de efeitos
+cancerígenos. Risco de graves lesões oculares. Pode causar
+sensibilização em contato com a pele. Possibilidade de efeitos
+irreversíveis.
+Frase(s) - S 26-36/37/39 No caso de contato com os olhos, lavar imediata e abundantemente
+com água e consultar um especialista. Usar roupas de proteção,
+luvas e equipamento protetor para os olhos e rosto adequados.
+Legenda das abreviações e acrônimos
+As abreviaturas e acrônimos utilizados podem ser consultados em http://w ww.wikipedia.org.
+As indicações baseiam-se no nível actual dos nossos conhecimentos e servem para a caracterização do produto no
+que se refere às medidas de segurança a tomar. Estas indicações não implicam qualquer garantia de propriedades do
+produto descrito.
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com
+Página 13 de 13

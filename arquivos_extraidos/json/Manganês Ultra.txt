@@ -1,0 +1,312 @@
+Nome | Identificação do produto | %
+Sulfato de Manganês Monohidratado | (nº CAS) 10034-96-5 | 90 - 99,5
+Cloreto de Potássio | (nº CAS) 7447-40-7 | 0,5 - 3,3
+Manganês Ultra Monohidratado
+Ficha de Informações de Segurança de Produtos Químicos
+De acordo com ABNT NBR 14725-4: 2014
+Data de revisão: 12/12/2019
+Revisão: 2.0
+Número da FISPQ: 171
+SEÇÃO 1: Identificação do Produto e da Empresa
+1.1. Identificação do produto
+Nome comercial : Manganês Ultra Monohidratado
+Uso recomendado : Fonte de nutrientes para agricultura, conforme informações expressas no rótulo da
+embalagem. Não é indicado para utilização farmacêutica, doméstica ou outras utilizações.
+Restrições de uso : Conforme definido no rótulo do produto
+1.2. Identificação da Empresa
+Fabricante
+Multitécnica Industrial LTDA
+Rod. MG 238 Km 53,6 s/nº
+Sete Lagoas - Brasil
+T +55 (31) 3779-4300
+fispq@multitecnica.com.br - multitecnica.com.br
+Número de emergência : (31) 3224 4000 / 0800 722 6001
+SEÇÃO 2: Identificação de perigos
+2.1. Classificação da substância ou mistura
+Classificação de acordo com GHS BR (ABNT NBR 14725-2)
+Toxicidade para órgãos-alvo específicos - Exposição repetida, Categoria 2
+Perigoso ao ambiente aquático - Agudo, Categoria 2
+Perigoso ao ambiente aquático - Crônico, Categoria 2
+2.2. Elementos apropriados de rotulagem
+GHS BR rotulagem
+Pictogramas de perigo (GHS BR) :
+GHS08 GHS09
+Palavra de advertência (GHS BR) : Atenção
+Frases de perigo (GHS BR) : H373 - Pode provocar danos aos órgãos por exposição repetida ou prolongada
+H411 - Tóxico para os organismos aquáticos, com efeitos prolongados
+Frases de precaução (GHS BR) : P260 - Não inale poeiras/fumos/gases/névoas/vapores/aerossóis
+P273 - Evite a liberação para o meio ambiente
+P314 - Em caso de mal estar, consulte um médico
+P391 - Recolha o material derramado
+P501 - Descarte o conteúdo/recipiente em ponto de coleta de resíduos especiais ou perigosos
+de acordo com regulamentação local, regional, nacional e/ou internacional
+2.3. Outros perigos que não resultam em uma classificação
+Nenhuma informação adicional disponível
+SEÇÃO 3: Composição e informações sobre os ingredientes
+3.1. Substâncias
+Não aplicável
+3.2. Misturas
+Nome Identificação do produto %
+Sulfato de Manganês Monohidratado (nº CAS) 10034-96-5 90 - 99,5
+Cloreto de Potássio (nº CAS) 7447-40-7 0,5 - 3,3
+SEÇÃO 4: Medidas de primeiros-socorros
+4.1. Descrição das medidas de primeiros socorros
+Medidas gerais de primeiros-socorros : Em caso de mal estar, consulte um médico.
+Medidas de primeiros-socorros após inalação : Se houver dificuldade respiratória, remover a vítima para o ar fresco e mantê-la em repouso
+em uma posição confortável para respirar. Caso sinta indisposição, contate um CENTRO DE
+INFORMAÇÃO TOXICOLÓGICA/médico.
+13/12/2019 PT (português - BR) 1/5
+CÓPIA NÃO CONTROLADA - Impresso por Phelipe Rocha em 14/03/2020 09:38
+Manganês Ultra Monohidratado
+Ficha de Informações de Segurança de Produtos Químicos
+De acordo com ABNT NBR 14725-4: 2014
+Medidas de primeiros-socorros após contato : Após contato com a pele, retirar imediatamente toda a roupa contaminada e lavar com água
+com a pele em abundância.
+Medidas de primeiros-socorros após contato : Em caso de contato com os olhos, lavar imediatamente com água em abundância e procurar
+com os olhos orientação médica.
+Medidas de primeiros-socorros após ingestão : NÃO provoque vômito. Enxaguar a boca com água.
+4.2. Sintomas e efeitos mais importantes, agudos ou tardios
+Sintomas/efeitos : Pode provocar danos aos órgãos por exposição repetida ou prolongada.
+Sintomas/efeitos em caso de inalação : Poeiras do produto, se presentes, podem causar irritação respiratória após exposição
+excessiva por inalação. Embora nenhum dado apropriado de efeitos para a saúde humana ou
+animal seja conhecido, espera-se que este material seja perigoso por inalação.
+Sintomas/efeitos em caso de contato com a : Nenhum em condições normais. O pó pode causar irritação nas dobras da pele ou por contato
+pele em combinação com roupas apertadas.
+Sintomas/efeitos em caso de contato com os : Nenhum em condições normais. Poeiras deste produto podem causar irritação nos olhos.
+olhos
+Sintomas/efeitos em caso de ingestão : Nenhum em condições normais.
+4.3. Indicações sobre cuidados médicos urgentes e tratamentos especiais necessários
+Notas ao médico : Tratar sintomaticamente
+SEÇÃO 5: Medidas de combate a incêndio
+5.1. Meios de extinção
+Meios de extinção adequados : Água pulverizada. terra, areia, pó químico seco ou espuma.
+Meios de extinção inadequados : Não use jato forte de água.
+5.2. Perigos específicos decorrentes da substância ou mistura
+Perigo de incêndio : Em caso de incêndio e/ou explosão não respirar os fumos.
+Perigo de explosão : Nenhum perigo direto de explosão.
+5.3. Recomendações para a equipe de combate a incêndio
+Instruções de combate a incêndios : Combata o incêndio tomando as precauções normais, a uma distância razoável. Não entrar na
+área de incêndio sem equipamento protetor adequado, incluindo proteção respiratória.
+Proteção durante o combate a incêndios : Utilize equipamento de respiração do tipo autônomo com pressão positiva e roupa de proteção
+contra produtos químicos.
+SEÇÃO 6: Medidas de controle para derramamento ou vazamento
+6.1. Precauções pessoais, equipamento de proteção e procedimentos de emergência
+Medidas gerais : Pode ser nocivo para os organismos aquáticos, para a flora, para os organismos do solo.
+Limpar qualquer derramamento o mais rápido possível, usando um material absorvente para
+coletá-lo. Contenha o vazamento se puder ser feito com segurança. Notificar as autoridades se
+o produto entrar nos esgotos ou águas públicas.
+6.1.1. Para não-socorristas
+Equipamento de proteção : Use os equipamentos de proteção pessoal recomendados.
+Procedimentos de emergência : Abandone a área. Apenas o pessoal qualificado e equipado com equipamento de proteção
+adequado pode intervir. Notificar o corpo de bombeiros e autoridades ambientais.
+6.1.2. Para socorristas
+Equipamento de proteção : Equipar o pessoal da limpeza com proteção adequada.
+Procedimentos de emergência : Evacuar o pessoal desnecessário. Contenha o vazamento se puder ser feito com segurança.
+6.2. Precauções ambientais
+Tóxico para os organismos aquáticos, com efeitos prolongados. Não permitir que o produto se espalhe no meio ambiente. Não permitir a entrada
+em bueiros ou cursos de água. Tóxico para os organismos aquáticos.
+6.3. Métodos e materiais de contenção e limpeza
+Para contenção : Com o uso de uma pá limpa, coloque o material em um recipiente seco e cubra sem comprimi-
+lo. Interromper o vazamento, se possível sem riscos.
+Métodos de limpeza : Limpar superfícies contaminadas com água em abundância. Recolher mecanicamente
+(varrendo ou com uma pá) e colocar em um recipiente adequado para eliminação.
+SEÇÃO 7: Manuseio e armazenamento
+7.1. Precauções para manuseio seguro
+Perigos adicionais quando processado : Não se espera que apresente um perigo significante sob condições normais de uso.
+Precauções para manuseio seguro : Assegurar boa ventilação do local de trabalho. Usar equipamento de proteção individual.
+Conserve somente no recipiente original. Não manuseie o produto antes de ter lido e
+compreendido todas as precauções de segurança.
+13/12/2019 PT (português - BR) Número da FISPQ: 171 2/5
+CÓPIA NÃO CONTROLADA - Impresso por Phelipe Rocha em 14/03/2020 09:38
+Sulfato de Manganês Monohidratado (10034-96-5) | 
+EUA - ACGIH - Limites de exposição ocupacional | 
+ACGIH TWA (Média Ponderada no Tempo) (mg/m³) | 0,1 mg/m³ (Inhalable fraction)
+Manganês Ultra Monohidratado
+Ficha de Informações de Segurança de Produtos Químicos
+De acordo com ABNT NBR 14725-4: 2014
+Medidas de higiene : Sempre lave as mãos após manusear o produto. Remova a roupa contaminada. Não coma,
+beba ou fume durante a utilização deste produto.
+7.2. Condições para armazenamento seguro, incluindo incompatibilidades
+Medidas técnicas : Armazenar em recipientes hermeticamente fechados e à prova de fugas.
+Condições de armazenamento : Mantenha em local fresco. Mantenha ao abrigo da luz solar. Armazene em local bem ventilado.
+Mantenha em local fresco.
+Materiais para embalagem : Armazenar o produto sempre em recipiente de material igual ao do recipiente original.
+SEÇÃO 8: Controle de exposição e proteção individual
+8.1. Parâmetros de controle
+Sulfato de Manganês Monohidratado (10034-96-5)
+EUA - ACGIH - Limites de exposição ocupacional
+ACGIH TWA (Média Ponderada no Tempo) (mg/m³) 0,1 mg/m³ (Inhalable fraction)
+8.2. Controles de exposição
+Controles apropriados de engenharia : Assegurar boa ventilação do local de trabalho.
+8.3. Equipamento de proteção individual
+Equipamento de proteção individual : Use os equipamentos de proteção pessoal recomendados.
+Proteção para as mãos : Luvas de latéx ou acrilon.
+Proteção para os olhos : Óculos de segurança ampla visão.
+Proteção para a pele e o corpo : Avental de PVC. Roupas de proteção com mangas compridas. Utilizar calçados de segurança.
+Proteção respiratória : Respiradores PFF2 (Para ambientes com grandes concentrações utilizar máscaras com
+respirador autônomo).
+SEÇÃO 9: Propriedades físicas e químicas
+9.1. Informações sobre propriedades físico-químicas básicas
+Estado físico : Sólido
+Aparência : Pó.
+Cor : Branco
+Odor : Inodoro
+Limiar de odor : Não disponível
+pH : Não disponível
+solução de pH : 3,0 - 3,5 (solução 5% m/m)
+Ponto de fusão : Não disponível
+Ponto de solidificação : Não disponível
+Ponto de ebulição : Não disponível
+Ponto de fulgor : Não disponível
+Taxa de evaporação relativa (acetato de butila = 1) : Não disponível
+Inflamabilidade (sólido/gás) : Não disponível
+Limites de explosão : Não disponível
+Pressão de vapor : Não disponível
+Densidade relativa do vapor a 20°C : Não disponível
+Densidade relativa : Não disponível
+Densidade : 3,25 g/cm³
+Solubilidade : Água: Facilmente solúvel na água (762 g/L a 20°C)
+Log Kow : Não disponível
+Temperatura de auto-ignição : Não disponível
+Temperatura de decomposição : Não disponível
+Viscosidade, cinemática : Não disponível
+Viscosidade, dinâmica : Não disponível
+9.2. Outras informações
+Não disponível
+SEÇÃO 10: Estabilidade e reatividade
+Estabilidade química : Estável sob condições normais de uso
+Condições a evitar : Temperaturas extremamente altas ou baixas. Mantenha afastado do calor, faísca, chama
+aberta, superfícies quentes. - Não fume
+Produtos perigosos da decomposição : À temperatura ambiente, não é conhecido nenhum produto perigoso de decomposição
+13/12/2019 PT (português - BR) Número da FISPQ: 171 3/5
+CÓPIA NÃO CONTROLADA - Impresso por Phelipe Rocha em 14/03/2020 09:38
+Cloreto de Potássio (7447-40-7) | 
+DL50 oral, rato | 3020 mg/kg de peso corporal (Rato, Fêmea, Valor experimental, Oral)
+Cloreto de Potássio (7447-40-7) | 
+CL50 peixes 1 | 2010 mg/l (96 h, Lepomis macrochirus, Sistema estático)
+CE50 Dáfnia 1 | 660 mg/l (EPA 600/4-90/027, 48 h, Daphnia magna, Sistema estático, Água doce (não
+salgada), Valor experimental, Concentração nominal)
+CL50 peixes 2 | 880 mg/l (EPA 600/4-90/027, 96 h, Pimephales promelas, Sistema estático, Água doce (não
+salgada), Valor experimental, Concentração nominal)
+CEr50 (algas) | > 100 mg/l (OCDE 201, 72 h, Desmodesmus subspicatus, Sistema estático, Água doce (não
+salgada), Valor experimental, GLP)
+Sulfato de Manganês Monohidratado (10034-96-5) | 
+CL50 peixes 1 | 33,8 mg/l (96 h, Pimephales promelas, Forma anidra)
+CE50 Dáfnia 1 | 8,28 mg/l (48 h, Daphnia magna, Forma anidra)
+Cloreto de Potássio (7447-40-7) | 
+Persistência e degradabilidade | Biodegradabilidade: não aplicável.
+Demanda química de oxigênio (DQO) | Não aplicável (inorgânico)
+DTO - Demanda Teórica de Oxigênio | Não aplicável (inorgânico)
+Sulfato de Manganês Monohidratado (10034-96-5) | 
+Persistência e degradabilidade | Biodegradabilidade: não aplicável.
+Demanda química de oxigênio (DQO) | Não aplicável
+Manganês Ultra Monohidratado
+Ficha de Informações de Segurança de Produtos Químicos
+De acordo com ABNT NBR 14725-4: 2014
+Materiais incompatíveis : Consultar o(s) fornecedor(es) destes materiais para recomendações específicas
+Possibilidade de reações perigosas : Nenhuma, em condições normais de uso
+Reatividade : O produto não é reativo nas condições normais de utilização, armazenamento e transporte
+SEÇÃO 11: Informação toxicológica
+11.1. Informações sobre os efeitos toxicológicos
+Toxicidade aguda (oral) : Não disponível
+Toxicidade aguda (dérmica) : Não disponível
+Toxicidade aguda (inalação) : Não disponível
+Cloreto de Potássio (7447-40-7)
+DL50 oral, rato 3020 mg/kg de peso corporal (Rato, Fêmea, Valor experimental, Oral)
+Corrosão/irritação à pele : Não disponível
+Lesões oculares graves/irritação ocular : Não disponível
+Sensibilização respiratória ou à pele : Não disponível
+Mutagenicidade em células germinativas : Não disponível
+Carcinogenicidade : Não disponível
+Toxicidade à reprodução : Não disponível
+Toxicidade para órgãos-alvo específicos - : Não disponível
+Exposição única
+Toxicidade para órgãos-alvo específicos - : Pode provocar danos aos órgãos por exposição repetida ou prolongada.
+Exposição repetida
+Perigo por aspiração : Não disponível
+11.2. Sintomas e efeitos mais importantes, agudos ou tardios
+Sintomas/efeitos : Pode provocar danos aos órgãos por exposição repetida ou prolongada.
+Sintomas/efeitos em caso de inalação : Poeiras do produto, se presentes, podem causar irritação respiratória após exposição
+excessiva por inalação. Embora nenhum dado apropriado de efeitos para a saúde humana ou
+animal seja conhecido, espera-se que este material seja perigoso por inalação.
+Sintomas/efeitos em caso de contato com a : Nenhum em condições normais. O pó pode causar irritação nas dobras da pele ou por contato
+pele em combinação com roupas apertadas.
+Sintomas/efeitos em caso de contato com os : Nenhum em condições normais. Poeiras deste produto podem causar irritação nos olhos.
+olhos
+Sintomas/efeitos em caso de ingestão : Nenhum em condições normais.
+SEÇÃO 12: Informações ecológicas
+12.1. Toxicidade
+Perigoso para o ambiente aquático, de curto : Tóxico para os organismos aquáticos.
+prazo (agudo)
+Perigoso para o ambiente aquático, de longo : Tóxico para os organismos aquáticos, com efeitos prolongados.
+prazo (crónico)
+Cloreto de Potássio (7447-40-7)
+CL50 peixes 1 2010 mg/l (96 h, Lepomis macrochirus, Sistema estático)
+CE50 Dáfnia 1 660 mg/l (EPA 600/4-90/027, 48 h, Daphnia magna, Sistema estático, Água doce (não
+salgada), Valor experimental, Concentração nominal)
+CL50 peixes 2 880 mg/l (EPA 600/4-90/027, 96 h, Pimephales promelas, Sistema estático, Água doce (não
+salgada), Valor experimental, Concentração nominal)
+CEr50 (algas) > 100 mg/l (OCDE 201, 72 h, Desmodesmus subspicatus, Sistema estático, Água doce (não
+salgada), Valor experimental, GLP)
+Sulfato de Manganês Monohidratado (10034-96-5)
+CL50 peixes 1 33,8 mg/l (96 h, Pimephales promelas, Forma anidra)
+CE50 Dáfnia 1 8,28 mg/l (48 h, Daphnia magna, Forma anidra)
+12.2. Persistência e degradabilidade
+Cloreto de Potássio (7447-40-7)
+Persistência e degradabilidade Biodegradabilidade: não aplicável.
+Demanda química de oxigênio (DQO) Não aplicável (inorgânico)
+DTO - Demanda Teórica de Oxigênio Não aplicável (inorgânico)
+Sulfato de Manganês Monohidratado (10034-96-5)
+Persistência e degradabilidade Biodegradabilidade: não aplicável.
+Demanda química de oxigênio (DQO) Não aplicável
+13/12/2019 PT (português - BR) Número da FISPQ: 171 4/5
+CÓPIA NÃO CONTROLADA - Impresso por Phelipe Rocha em 14/03/2020 09:38
+Sulfato de Manganês Monohidratado (10034-96-5) | 
+DTO - Demanda Teórica de Oxigênio | Não aplicável
+DBO (% de ThOD) | Não aplicável
+Cloreto de Potássio (7447-40-7) | 
+Log Pow | -0,46 (Valor estimativo)
+Potencial bioacumulativo | Não bioacumulável.
+Cloreto de Potássio (7447-40-7) | 
+Ecologia - solo | Não há dados (experimentais) disponíveis sobre a mobilidade da substância.
+Manganês Ultra Monohidratado
+Ficha de Informações de Segurança de Produtos Químicos
+De acordo com ABNT NBR 14725-4: 2014
+Sulfato de Manganês Monohidratado (10034-96-5)
+DTO - Demanda Teórica de Oxigênio Não aplicável
+DBO (% de ThOD) Não aplicável
+12.3. Potencial bioacumulativo
+Cloreto de Potássio (7447-40-7)
+Log Pow -0,46 (Valor estimativo)
+Potencial bioacumulativo Não bioacumulável.
+12.4. Mobilidade no solo
+Cloreto de Potássio (7447-40-7)
+Ecologia - solo Não há dados (experimentais) disponíveis sobre a mobilidade da substância.
+12.5. Outros efeitos adversos
+Nenhuma informação adicional disponível
+SEÇÃO 13: Considerações sobre destinação final
+Métodos de tratamento de resíduos : Deve seguir tratamento especial de acordo com as legislações locais.
+Recomendações de despejo de águas residuais : O descarte deve ser realizado de acordo com as legislações oficiais.
+Recomendações de disposição de : Cumprir com os regulamentos aplicáveis para a eliminação dos resíduos sólidos. O descarte
+produtos/embalagens deve ser realizado de acordo com as legislações oficiais.
+Informações adicionais : Não reutilizar recipientes vazios.
+SEÇÃO 14: Informações sobre transporte
+14.1 Regulamentações nacionais e internacionais
+Não classificado como perigoso segundo as normas relativas ao transporte
+14.2 Outras informações
+Nenhuma informação adicional disponível
+SEÇÃO 15: Informações sobre regulamentações
+Regulamentações locais do Brasil : Norma ABNT NBR 14725.
+Decreto Federal nº 2.657, de 3 de julho de 1998 – Promulga a Convenção nº 170 da OIT,
+relativa à Segurança na Utilização de Produtos Químicos no Trabalho, assinada em Genebra,
+em 25 de junho de 1990.
+Portaria nº 229, de 24 de maio de 2011 - Altera a Norma Regulamentadora nº 26
+Resolução nº 5232, de 14 de dezembro de 2016 - Aprova as Instruções Complementares ao
+Regulamento Terrestre do Transporte de Produtos Perigosos, e dá outras providências.
+SEÇÃO 16: Outras informações
+Nenhuma informação adicional disponível
+FISPQ Multitécnica
+Esta informação está baseada em nosso conhecimento atual e pretende descrever o produto tendo unicamente em vista os requisitos de saúde, segurança e meio ambiente. Não deve, portanto,
+ser interpretada como garantia de qualquer propriedade específica do produto.
+13/12/2019 PT (português - BR) Número da FISPQ: 171 5/5
+CÓPIA NÃO CONTROLADA - Impresso por Phelipe Rocha em 14/03/2020 09:38

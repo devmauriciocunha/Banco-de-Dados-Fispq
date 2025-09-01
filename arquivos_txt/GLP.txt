@@ -1,0 +1,441 @@
+Ficha de Informação de Segurança
+de Produto Químico – FISPQ
+Produto: G.L.P
+Data 29/05/2020 Versão: 1
+1 - IDENTIFICAÇÃO DO PRODUTO E DA EMPRESA
+Nome do produto: G.L.P.
+Código interno de identificação: BR0401
+Nome da empresa: GLPGÁS DISTRIBUIDORA LTDA.
+Endereço: Rua Frei Caneca, 407. Bairro: Jardim Gramacho – Município: Duque de Caxias Rio de
+Janeiro (RJ).
+Telefone: 4003-0079
+Telefone para emergências: 4003-0079
+2 - IDENTIFICAÇÃO DE PERIGOS
+PERIGOS MAIS IMPORTANTES
+Gás extremamente inflamável. Contém gás sob pressão: pode
+explodir sob efeito do calor. Pode causar sonolência e vertigem
+(efeitos narcóticos).
+EFEITOS DO PRODUTO
+-Efeitos adversos à saúde humana:
+Em elevadas concentrações, causa asfixia através da redução da concentração de oxigênio no ar. O
+contato com o gás liquefeito pode provocar “queimaduras pelo frio” (frostbite).
+- Efeitos ambientais:
+Contribui para a formação do smog fotoquímico.
+- Perigos físicos e químicos:
+Gás liquefeito. Gás extremamente inflamável.
+Perigos específicos:
+Espontaneamente explosivo à luz do sol com cloro. Forma mistura explosiva com o ar e agentes
+oxidantes. A combustão gera fumos anestésicos.
+- Principais sintomas:
+Hipóxia causada pela asfixia pode resultar em fadiga, deficiência visual e incoordenação motora,
+capacidade de alterar o julgamento, cianose, perda de consciência e em casos severos, morte. Contato
+com o gás liquefeito pode causar queimaduras. A pele pode tornasse branca ou amarelada, com
+aspecto ceroso.
+Rua Frei Caneca 407, Duque de Caxias - Rio de Janeiro Tel.: 4003-0079.
+www.glpgas.com.br
+Ficha de Informação de Segurança
+de Produto Químico – FISPQ
+Produto: G.L.P
+Data 29/05/2020 Versão: 1
+- Classificação de perigo do produto:
+Líquidos inflamáveis – Categoria 1
+Gases sob pressão - Liquefeito
+Toxicidade sistêmica ao órgão-alvo após única exposição –Categoria 3
+- Sistema de classificação adotado:
+Norma ABNT-NBR 14725-Parte 2:2010.
+Sistema Globalmente Harmonizado para a Classificação
+e Rotulagem de Produtos Químicos, ONU.
+- Visão geral das emergências:
+GÁS INFLAMÁVEL E PERIGOSO PARA A SAÚDE HUMANA.
+ELEMENTOS APROPRIADOS DA ROTULAGEM
+-Pictogramas
+Palavra de advertência PERIGO
+- Frases de perigo:
+H220 - Gás extremamente inflamável
+H280 – Contém gás sob pressão: pode inflamar-se em presença de uma condição de ignição.
+- Frases de precaução:
+P210 - Mantenha afastado de calor [faíscas] [e chama] [superfícies quentes] [não fume].
+P403 - Armazene em local fresco/baixa temperatura, em local bem ventilado
+[seco] [afastado de fontes de calor e de ignição].
+Quando em uso não [fume] [coma] [ou beba].
+Rua Frei Caneca 407, Duque de Caxias - Rio de Janeiro Tel.: 4003-0079.
+www.glpgas.com.br
+Ingredientes | Concentração (%) | CAS
+Propano | 40 – 60 (v/v) | 74-98-6
+Butano | 40 – 60 (v/v) | 106-97-8
+Etano e mais leves | Max. 15 (v/v) | (Etano) 74-84-0
+Pentano e mais pesados | 0,5 – 2,0 (v/v) | (Pentano) 109-66-0
+Ficha de Informação de Segurança
+de Produto Químico – FISPQ
+Produto: G.L.P
+Data 29/05/2020 Versão: 1
+Não use em local sem ventilação adequada.
+Evite contato com olhos e pele.
+Use equipamento de proteção individual apropriado.
+Em caso de indisposição, consulte um médico.
+Use meios de contenção para evitar contaminação ambiental.
+Não permita o contato do produto com corpos d’água.
+3 - COMPOSIÇÃO E INFORMAÇÃO SOBRE OS INGREDIENTES
+>>>SUBSTÂNCIA
+Nome químico ou comum: G.L.P
+Sinônimo: Gás Liquefeito de Petróleo.
+Número de Registro CAS: 68476-85-7
+Impurezas que contribuam para o perigo:
+Ingredientes Concentração (%) CAS
+Propano 40 – 60 (v/v) 74-98-6
+Butano 40 – 60 (v/v) 106-97-8
+Etano e mais leves Max. 15 (v/v) (Etano) 74-84-0
+Pentano e mais pesados 0,5 – 2,0 (v/v) (Pentano) 109-66-0
+4 - MEDIDAS DE PRIMEIROS SOCORROS
+Inalação:
+Remova a vítima para local arejado. Se a vítima não estiver respirando, aplicar respiração artificial. Se
+a vítima estiver respirando, mas com dificuldade, administrar oxigênio a uma vazão de 10 a 15 litros /
+minuto. Procurar assistência médica imediatamente, levando o rótulo do produto, sempre que possível.
+Leve esta FISPQ
+Contato com a pele:
+Retirar imediatamente roupas e sapatos contaminados. Lavar a pele com água em abundância, por
+pelo menos 20 minutos, preferencialmente sob chuveiro de emergência. Procurar assistência médica
+imediatamente, levando o rótulo do produto, sempre que possível.
+Contato com os olhos:
+Lavar os olhos com água em abundância, por pelo menos 20 minutos, mantendo as pálpebras
+separadas. Usar de preferência um lavador de olhos. Procurar assistência médica imediatamente,
+levando o rótulo do produto, sempre que possível.
+Ingestão: Não se aplica, produto gasoso.
+Rua Frei Caneca 407, Duque de Caxias - Rio de Janeiro Tel.: 4003-0079.
+www.glpgas.com.br
+Ficha de Informação de Segurança
+de Produto Químico – FISPQ
+Produto: G.L.P
+Data 29/05/2020 Versão: 1
+Proteção do prestador de socorros e/ou notas para o médico:
+Asfixiante simples.
+Evite contato com o produto ao socorrer a vítima. Mantenha a vítima em repouso e aquecida. Não
+forneça nada pela boca a uma pessoa inconsciente.
+5 - MEDIDAS DE COMBATE A INCÊNDIO
+Meios de extinção apropriados:
+Neblina d’água, pó químico e dióxido de carbono (CO2).
+Meio de extinção não recomendados:
+Jatos d’água. Não jogue água diretamente no ponto de vazamento, pois pode ocorrer congelamento.
+Perigos específicos:
+Pode inflamar-se com o calor, fagulhas ou chamas. Vapores podem deslocar-se até uma fonte de
+ignição e provocar retrocesso de chamas. Manter-se longe dos tanques.
+Métodos especiais de combate:
+Remover os recipientes da área de fogo, se isto puder ser feito sem risco. Resfriar com neblina d'água,
+os recipientes que estiverem expostos ao fogo, utilizando dispositivo manejado à distância, mesmo
+após a extinção do fogo. Se possível, combater a favor do vento. Não extinguir o fogo antes de
+estancar o vazamento. Em caso de fogo intenso em áreas de carga, usar mangueiras com suporte
+manejadas à distância ou canhão monitor. Se isso não for possível, abandonar a área e deixar
+queimar.
+Proteção de bombeiro / brigadista:
+Em ambientes fechados, usar equipamento de resgate com suprimento de ar.
+Perigos específicos da combustão do produto:
+A combustão do produto químico ou de sua embalagem pode formar gases irritantes e tóxicos como
+monóxido de carbono e dióxido de carbono. O gás forma misturas inflamáveis com o ar e outros
+agentes oxidantes.
+6 - MEDIDAS DE CONTROLE PARA DERRAMAMENTO OU VAZAMENTO
+Precauções pessoais
+Remoção de fontes de ignição:
+Produto altamente inflamável. Remova todas as fontes de ignição.
+Impeça fagulhas ou chamas. Não fume. Isole o vazamento de fontes de ignição.
+Prevenção da inalação e do contato com a pele, mucosas e olhos:
+Usar botas, roupas e luvas impermeáveis, óculos de segurança herméticos para produtos químicos e
+proteção respiratória adequada.
+Rua Frei Caneca 407, Duque de Caxias - Rio de Janeiro Tel.: 4003-0079.
+www.glpgas.com.br
+Ficha de Informação de Segurança
+de Produto Químico – FISPQ
+Produto: G.L.P
+Data 29/05/2020 Versão: 1
+Precauções ao meio ambiente:
+Utilize spray d’água para reduzir os fumos no ar. Utilize ar forçado para manter a concentração do gás
+abaixo do valor explosivo
+Métodos para limpeza
+Interrompa o vazamento se não houver risco. Alivie o conteúdo vagarosamente para a atmosfera.
+Ventile a área de vazamento ou remova o recipiente para área bem ventilada. Para destinação final,
+proceder conforme a Seção 13 desta FISPQ
+Procedimentos a serem adotados:
+Não se aplica (produto gasoso).
+Prevenção de perigos secundários: Elimine todas as fontes de ignição do entorno.
+7 - MANUSEIO E ARMAZENAMENTO
+Medidas técnicas apropriadas - MANUSEIO
+Prevenção da exposição do trabalhador:
+Utilizar equipamentos de proteção individual (EPI) para evitar o contato direto com o produto.
+Precauções e orientações para manuseio seguro:
+Evite inalação dos fumos. Mantenha os recipientes bem fechados e adequadamente identificados.
+Mantenha o protetor de válvula do cilindro (CAP) em sua posição, até o momento do uso. Não abra o
+cilindro se o mesmo apresentar sinais de danos. Evite o contato com a pele, olhos e roupas. Evite
+respirar vapores/névoas do produto. Utilize equipamento de proteção individual ao manusear o
+produto. Utilize equipamento de proteção individual ao manusear o produto. Se o gás for laçado para
+um lugar confinado, imediatamente evacue a área.
+Medidas de higiene:
+Higienizar roupas e sapatos após o uso. Métodos gerais de controle utilizados em Higiene Industrial
+devem minimizar a exposição ao produto. Não comer, beber ou fumar ao manusear produtos químicos.
+Separar as roupas de trabalho das roupas comuns.
+Medidas técnicas apropriadas – ARMAZENAMENTO
+Apropriadas:
+Armazenar em esferas pressurizadas ou tanques refrigerados. Em local bem ventilado, à temperatura
+ambiente, sob pressão de 15 kgf/cm2 , distante de fontes de ignição. Mantenha os cilindros na posição
+vertical, fixados à parede ou em outra estrutura sólida. O local de armazenamento deve ter piso
+impermeável, não-oxidante e com dique de contenção para reter o produto em caso de vazamento.
+Inapropriadas:
+Temperaturas elevadas. Fontes de ignição. Contato com materiais incompatíveis.
+Rua Frei Caneca 407, Duque de Caxias - Rio de Janeiro Tel.: 4003-0079.
+www.glpgas.com.br
+Ingredientes | TLV – TWA
+(ACGIH) | TLV – STEL
+(ACGIH)
+G.L.P | 1.000 ppm | NA
+Butano | 800 ppm | NA
+Ficha de Informação de Segurança
+de Produto Químico – FISPQ
+Produto: G.L.P
+Data 29/05/2020 Versão: 1
+Materiais seguros para embalagens
+Recomendados: Armazenar em cilindros horizontais de aço e carbono à temperatura ambiente e
+pressão de 15 Kg/cm², em áreas ventiladas, longe de chamas e fontes de ignição.
+8 - CONTROLE DE EXPOSIÇAO E PROTEÇÃO INDIVIDUAL
+Parâmetros de controle específicos
+Limite de exposição ocupacional:
+Ingredientes TLV – TWA TLV – STEL
+(ACGIH) (ACGIH)
+G.L.P 1.000 ppm NA
+Butano 800 ppm NA
+Medida de controle de engenharia:
+Manipular o produto em local com boa ventilação natural ou mecânica, de forma a manter a
+concentração de vapores inferior ao Limite de Tolerância.
+Equipamento de proteção individual apropriado
+Proteção dos olhos/face:
+Nas operações onde possam ocorrer projeções ou respingos, recomenda-se o uso de óculos de
+segurança ou protetor facial.
+Proteção das mãos:
+Luvas de proteção de PVC.
+Proteção da pele e corpo:
+Vestimenta impermeável.
+Proteção respiratória:
+Em baixas concentrações, usar respirador com filtro químico para vapores orgânicos. Em altas
+concentrações, usar equipamento de respiração autônomo ou conjunto de ar mandado.
+Precauções especiais:
+Manter chuveiros de emergência e lavador de olhos disponíveis nos locais onde haja manipulação do
+produto. Evite usar lentes de contato enquanto manuseia este produto
+9 - PROPRIEDADES FÍSICO-QUÍMICAS
+Aspecto:
+Gasoso e incolor.
+Odor:
+Característico.
+Rua Frei Caneca 407, Duque de Caxias - Rio de Janeiro Tel.: 4003-0079.
+www.glpgas.com.br
+Ficha de Informação de Segurança
+de Produto Químico – FISPQ
+Produto: G.L.P
+Data 29/05/2020 Versão: 1
+Ph:
+Não aplicável.
+Ponto de fusão/ponto de congelamento:
+-187,6 °C (Propano)
+-185,2 °C (Propeno)
+-138,4 °C (n-Butano)
+-185,3 °C (Buteno-1)
+Ponto de ebulição inicial e faixa de temperatura de ebulição:
+-42,1 °C(Propano)
+-47,7 °C (Propeno)
+-0,5 °C (n-Butano)
+-6,3 °C(Buteno-1)
+Ponto de fulgor:
+- 104 °C (Propano)
+- 108 °C (Propeno)
+- 60 °C (n-Butano)
+- 79 °C (Buteno-1)
+Taxa de evaporação (20 °C):
+86 kcal/kg
+Inflamabilidade:
+Inflamável.
+Limite inferior/superior de inflamabilidade ou explosividade:
+(LIE) Butano:1,9% e Propano:2,2% (LSE) Butano:8,5% e Propano:9,5%
+Pressão de vapor:
+15 kgf/cm2 (máximo) @37,8 °C.
+Densidade de vapor:
+1,47 – 2,08 a 0 °C.
+Densidade:
+0,493 a 0,58
+Solubilidade:
+Na água: insolúvel.
+Em solventes orgânicos: bastante solúvel.
+Coeficiente de partição – noctanol / água:
+Não disponível.
+Rua Frei Caneca 407, Duque de Caxias - Rio de Janeiro Tel.: 4003-0079.
+www.glpgas.com.br
+Ficha de Informação de Segurança
+de Produto Químico – FISPQ
+Produto: G.L.P
+Data 29/05/2020 Versão: 1
+Temperatura de auto-ignição:
+Butano: 405 ºC e Propano: 466 ºC .
+Temperatura de decomposição:
+Não disponível.
+Viscosidade:
+Não disponível.
+Faixa de destilação:
+Não disponível.
+Ponto de combustão:
+Não disponível.
+10 - ESTABILIDADE E REATIVIDADE
+Estabilidade química:
+Estável sob condições usuais de manuseio e armazenamento.
+Materiais/substâncias incompatíveis:
+Pode reagir com agentes oxidantes.
+Produtos perigosos da decomposição:
+Em combustão libera vapores anestésicos, monóxido e dióxido de carbono.
+11 - INFORMAÇÕES TOXICOLÓGICAS
+Toxicidade aguda:
+Por inalação pode causar tonteira. Pode causar irritação das vias aéreas superiores e dificuldade
+respiratória. Liquefeito é praticamente não prejudicial porque é muito volátil e evapora rapidamente,
+porém pode causar queimadura por baixa temperatura. O contato com o líquido pode causar
+queimadura por baixa temperatura.
+Toxicidade crônica:
+Em altas concentrações atua como asfixiante simples por reduzir a concentração de oxigênio no ar.
+Efeitos específicos: Não aplicável.
+12 - INFORMAÇÕES ECOLÓGICAS
+Efeitos ambientais, comportamentos e impactos do produto
+Ecotoxicidade:
+Não é passível de causar danos à vida aquática.
+Não é passível de causar danos ao solo.
+Rua Frei Caneca 407, Duque de Caxias - Rio de Janeiro Tel.: 4003-0079.
+www.glpgas.com.br
+Ficha de Informação de Segurança
+de Produto Químico – FISPQ
+Produto: G.L.P
+Data 29/05/2020 Versão: 1
+Persistência e degradabilidade:
+É esperada rápida degradação e baixa persistência.
+Potencial bioacumulativo:
+Não é esperado potencial de bioacumulação.
+13 - CONSIDERAÇÕES SOBRE TRATAMENTO E DISPOSIÇÃO
+Métodos recomendados para tratamento e disposição aplicados ao Produto:
+O tratamento e a disposição do produto devem ser avaliados tecnicamente, caso a caso. Outros
+métodos consultar legislação federal e estadual: Resolução CONAMA 005/1993, Lei n°12.305, de 02
+de agosto de 2010 (Politica Nacional de Resíduos Sólidos).
+Restos de produtos:
+Manter restos do produto em suas embalagens originais, fechadas e dentro de tambores metálicos,
+devidamente fechados, de acordo com a legislação aplicável. O descarte deve ser realizado conforme
+o estabelecido para o produto, recomendando-se as rotas de processamento em cimenteiras e a
+incineração.
+Embalagem usada:
+Nunca reutilize embalagens vazias, pois elas podem conter restos do produto e devem ser mantidas
+fechadas e encaminhadas para serem destruídas em local apropriado. Neste caso, recomenda-se
+envio para rotas de recuperação dos tambores ou incineração.
+14 - INFORMAÇÕES SOBRE TRANSPORTE
+Regulamentações nacionais e internacionais
+Terrestre:
+Decreto nº 96.044, de 18 de maio de 1988: Aprova o regulamento para o transporte rodoviário de
+produtos perigosos e dá outras providências. Agência Nacional de transportes terrestres (ANTT):
+Resoluções Nº. 420/04, 701/04, 1644/06, 2657/08, 2975/08 e 3383/10.
+Hidroviário:
+DPC – Diretoria de Portos e Costas ( Transporte em águas brasileiras)
+Normas de Autoridade Marítima (NORMAM)
+NORMAM 01/DPC: Embarcações Empregadas na Navegação em Mar Aberto.
+NORMAM 02/DPC: Embarcações Empregadas na Navegação Interior.
+IMO – “International Maritime Organization” ( Organização Marítima Internacional)
+International Maritime Dangerous Goods Code (IMDG Code) – Incorporating Amendment 34-08;2008
+Edition.
+Aéreo:
+ANAC – Agência Nacional de Aviação Civil – Resolução n°129 de 8 de dezembro de 2009.
+RBAC N°175 – ( REGULAMENTO BRASILEIRO DA AVIAÇÃO CIVIL) – TRANSPORTE DE ARTIGOS
+PERIGOSOS EM AERONAVES CIVIS.
+IS N° 175-001 - INSTRUÇÃO SUPLEMENTAR – IS
+Rua Frei Caneca 407, Duque de Caxias - Rio de Janeiro Tel.: 4003-0079.
+www.glpgas.com.br
+Ficha de Informação de Segurança
+de Produto Químico – FISPQ
+Produto: G.L.P
+Data 29/05/2020 Versão: 1
+ICAO – “International Civil Aviation Organization” (Organização de Aviação Civil Internacional) – Doc
+9284- NA/905
+DAC - Departamento de Aviação Civil: IAC 153-1001.
+Instrução de Aviação Civil – Normas para o transporte de artigos perigosos em aeronaves civis.
+IATA – “ International Air Transport Association” ( Associação Nacional de Transporte Aéreo)
+Dangerous Goods Regulation (DGR) - 51
+Número ONU:
+1075
+Nome apropriado para embarque:
+GÁS LIQUEFEITO DE PETRÓLEO (G.L.P)
+Classe e subclasse de risco principal e subsidiário:
+2.1
+Número de risco:
+23
+Grupo de embalagem: NA
+15 - REGULAMENTAÇÕES
+Regulamentações:
+Regulamentações: Decreto Federal nº 2.657, de 3 de julho de 1998
+Norma ABNT-NBR 14725-4:2012
+Lei n°12,305, de 02 de agosto de 2010 (Politica Nacional de resíduos Sólidos).
+Decreto n°7.404 de 23 de dezembro de 2010
+Portaria n° 229, de 24 de maio de 2011 – Altera a Norma Regulamentadora n°26
+16 - OUTRAS INFORMAÇÕES
+Informações importantes:
+Esta FISPQ foi elaborada baseada nos conhecimentos atuais do produto químico e fornece
+informações quanto à proteção, à segurança, à saúde e ao meio ambiente.
+Adverte-se que o manuseio de qualquer substância química requer o conhecimento prévio de seus
+perigos pelo usuário. Cabe à empresa usuária do produto promover o treinamento de seus
+empregados e contratados quanto aos possíveis riscos advindos do produto.
+Rua Frei Caneca 407, Duque de Caxias - Rio de Janeiro Tel.: 4003-0079.
+www.glpgas.com.br
+Ficha de Informação de Segurança
+de Produto Químico – FISPQ
+Produto: G.L.P
+Data 29/05/2020 Versão: 1
+Diagrama de Hommel:
+Siglas:
+ACGIH - American Conference of Governmental Industrial Hygienists
+CAS - Chemical Abstracts Service
+LEI - Limite de explosividade inferior
+LEL – Limite de explosividade superior
+LT – Limite de Tolerância
+NA – Não aplicável
+NR – Norma regulamentadora
+DL50 - Dose letal 50%
+STEL – Short Term Exposure Level
+TLV - Threshold Limit Value
+TWA - Time Weighted Average
+Bibliografia:
+ECB] EUROPEAN CHEMICALS BUREAU. Diretiva 67/548/EEC (substâncias) e Diretiva 1999/45/EC
+(preparações). Disponível em: http://ecb.jrc.it/. Acesso em: outubro de 2010.
+[EPI-USEPA] ESTIMATION PROGRAMS INTERFACE Suite - United States Environmental Protection
+Agency. Software.
+[HSDB] HAZARDOUS SUBSTANCES DATA BANK. Disponível em: http://toxnet.nlm.nih.gov/cgibin/
+sis/htmlgen?HSDB. Acesso em: outubro de 2010.
+[IARC] INTERNATIONAL AGENCY FOR RESEARCH ON CANCER. Disponível em:
+http://monographs.iarc.fr/ENG/Classification/index.php. Acesso em: outubro de 2010.
+[IPCS] INTERNATIONAL PROGRAMME ON CHEMICAL SAFETY – INCHEM. Disponível em:
+http://www.inchem.org/. Acesso em: outubro de 2010.
+[IPIECA] INTERNATIONAL PETROLEUM INDUSTRY ENVIRONMENTAL CONSERVATION
+ASSOCIATION.
+Guidance on the application of Globally Harmonized System (GHS) criteria to petroleum substances.
+Version 1. June 17th 2010. Disponível em:
+http://www.ipieca.org/system/files/publications/ghs_guidance_17_june_2010.pdf. Acesso em: outubro
+de 2010.
+[IUCLID] INTERNATIONAL UNIFORM CHEMICAL INFORMATION DATABASE. [s.l.]:
+European chemical Bureau. Disponível em: http://ecb.jrc.ec.europa.eu. Access in: outubro de 2010.
+Rua Frei Caneca 407, Duque de Caxias - Rio de Janeiro Tel.: 4003-0079.
+www.glpgas.com.br
+Ficha de Informação de Segurança
+de Produto Químico – FISPQ
+Produto: G.L.P
+Data 29/05/2020 Versão: 1
+[NIOSH] NATIONAL INSTITUTE OF OCCUPATIONAL AND SAFETY. International Chemical Safety
+Cards.
+Disponível em: http://www.cdc.gov/niosh/. Acesso em: outubro de 2010.
+[NITE-GHS JAPAN] NATIONAL INSTITUTE OF TECHNOLOGY AND EVALUATION.
+Disponível em: http://www.safe.nite.go.jp/english/ghs_index.html. Acesso em: outubro de 2010.
+[PETROLEUM HPV] PETROLEUM HIGH PRODUCTION VOLUME. Disponível em:
+http://www.petroleumhpv.org/pages/petroleumsubstances.html. Acesso em: outubro de 2010.
+[REACH] REGISTRATION, EVALUATION, AUTHORIZATION AND RESTRICTION OF CHEMICALS.
+Commission Regulation (EC) No 1272/2008 of 16 December 2008 amending and repealing Directives
+67/548/EEC and 1999/45/EC, and amending Regulation (EC) No 1907/2006 of the European
+Parliament and of
+the Council on the Registration, Evaluation, Authorization and Restriction of Chemicals.
+[SIRETOX/INTERTOX] SISTEMA DE INFORMAÇÕES SOBRE RISCOS DE EXPOSIÇÃO QUÍMICA.
+Disponível em: http://www.intertox.com.br. Acesso em: outubro de 2010.
+[TOXNET] TOXICOLOGY DATA NETWORKING. ChemIDplus Lite. Disponível em:
+http://chem.sis.nlm.nih.gov/. Acesso em: outubro de 2010.
+Rua Frei Caneca 407, Duque de Caxias - Rio de Janeiro Tel.: 4003-0079.
+www.glpgas.com.br

@@ -1,0 +1,472 @@
+FICHA DE INFORMAÇÃO DE Versão 8.3
+Data da revisão 17.07.2021
+SEGURANÇA DE PRODUTO Data de impressão 19.07.2021
+QUÍMICO
+1. IDENTIFICAÇÃO DO PRODUTO E DA EMPRESA
+1.1 Identificadores do produto
+Nome do produto : Acrilamida para electroforese
+Referência do Produto : 1.10784
+No. de catálogo : 110784
+Marca : Millipore
+N° de Index : 616-003-00-0
+Número REACH : 01-2119463260-48-XXXX
+Nº CAS : 79-06-1
+1.2 Usos identificados da substância ou mistura e usos não recomendados
+Usos identificados : Pesquisa e análise em bioquímica
+1.3 Detalhes do fornecedor da Ficha de Informação de Segurança de Produto Químico
+- FISPQ
+Empresa : Merck S/A
+Rua Torre Eifell, 100
+PARQUE RINCÃO - GLEBA A COTIA, SÃO PAULO
+06705-481
+BRAZIL
+Telefone : 0800 727-7292
+Número de Fax : 0800 727-7292
+1.4 Número do telefone de emergência
+Núnero de Telefone de : Chemtrec: +(55)-2139581449 *
+Emergência Suatrans: 0800 707 7022 / 0800 17 2020
+2. IDENTIFICAÇÃO DE PERIGOS
+2.1 Classificação da substância ou mistura
+Classificação de acordo com o regulamento (CE) 1272/2008
+Toxicidade aguda, Oral (Categoria 3), H301
+Toxicidade aguda, Inalação (Categoria 4), H332
+Toxicidade aguda, Dérmico (Categoria 4), H312
+Irritação da pele (Categoria 2), H315
+Irritação ocular (Categoria 2A), H319
+Sensibilização à pele. (Categoria 1), H317
+Millipore- 1.10784 Página 1 de 11
+The life science business of Merck operates as MilliporeSigma in the US and
+Canada
+Mutagenicidade em células germinativas (Categoria 1B), H340
+Carcinogenicidade (Categoria 1B), H350
+Toxicidade à reprodução (Categoria 2), H361
+Toxicidade sistêmica de órgão-alvo específico - exposição repetida, Oral (Categoria 1),
+Sistema nervoso periférico, H372
+Perigoso ao ambiente aquático – Agudo (Categoria 3), H402
+Para obter o texto completo das frases de perigo mencionadas nesta seção, consulte a
+seção 16.
+2.2 Elementos do rótulo
+Rotulagem de acordo com o Regulamento (CE) 1272/2008
+Pictograma
+Palavra-sinal Perigo
+Declaração de perigo
+H301 Tóxico se ingerido.
+H312 + H332 Nocivo em contato com a pele ou se inalado.
+H315 Provoca irritação à pele.
+H317 Pode provocar reações alérgicas na pele.
+H319 Provoca irritação ocular grave.
+H340 Pode provocar defeitos genéticos.
+H350 Pode provocar câncer.
+H361 Suspeita-se que prejudique a fertilidade ou o feto.
+H372 Provoca dano aos órgãos (Sistema nervoso periférico) por
+exposição repetida ou prolongada, se ingerido.
+H402 Nocivo para os organismos aquáticos.
+declaração de precaução
+Prevenção
+P201 Obtenha instruções específicas antes da utilização.
+P260 Não inale as poeiras/ fumos/ gases/ névoas/ vapores/
+aerossóis.
+P264 Lave a pele cuidadosamente após o manuseio.
+P273 Evite a liberação para o meio ambiente.
+P280 Use luvas de proteção/ roupa de proteção/ proteção ocular/
+proteção facial.
+Resposta de emergência
+P301 + P310 + P330 EM CASO DE INGESTÃO: Contate imediatamente um CENTRO
+DE INFORMAÇÃO TOXICOLÓGICA/ médico. Enxágue a boca.
+P302 + P352 + P312 EM CASO DE CONTATO COM A PELE: Lave com água em
+abundância. Caso sinta indisposição, contate um CENTRO DE
+INFORMAÇÃO TOXOCOLÓGICA/ médico.
+P308 + P313 EM CASO DE exposição ou suspeita de exposição: Consulte um
+médico.
+P333 + P313 Em caso de irritação ou erupção cutânea: Consulte um médico.
+P337 + P313 Caso a irritação ocular persista: consulte um médico.
+2.3 Outros Perigos - nenhum
+3. COMPOSIÇÃO E INFORMAÇÕES SOBRE OS INGREDIENTES
+3.1 Substâncias
+Millipore- 1.10784 Página 2 de 11
+The life science business of Merck operates as MilliporeSigma in the US and
+Canada
+ | Componente | | | Classificação | | | Concentração | 
+Acrilamida | | | | | | | | 
+ | | | Acute Tox. 3; Acute Tox.
+4; Skin Irrit. 2; Eye Irrit.
+2A; Skin Sens. 1; Muta.
+1B; Carc. 1B; Repr. 2;
+STOT RE 1; Aquatic Acute
+3; H301, H332, H312,
+H315, H319, H317, H340,
+H350, H361, H372, H402 | | | <= 100 % | | 
+Fórmula : C3H5NO
+Peso molecular : 71.08 g/mol
+Nº CAS : 79-06-1
+N° CE : 201-173-7
+N° de Index : 616-003-00-0
+Componente Classificação Concentração
+Acrilamida
+Acute Tox. 3; Acute Tox. <= 100 %
+4; Skin Irrit. 2; Eye Irrit.
+2A; Skin Sens. 1; Muta.
+1B; Carc. 1B; Repr. 2;
+STOT RE 1; Aquatic Acute
+3; H301, H332, H312,
+H315, H319, H317, H340,
+H350, H361, H372, H402
+Para obter o texto completo das frases de perigo mencionadas nesta seção, consulte a
+seção 16.
+4. MEDIDAS DE PRIMEIROS-SOCORROS
+4.1 Descrição das medidas de primeiros-socorros
+Recomendação geral
+Mostrar esta FISPQ ao médico de plantão.
+Se inalado
+Depois de inalar: Exposição ao ar fresco. Chamar um médico.
+Em caso de contato com a pele
+No caso dum contacto com a pele: Retirar imediatamente toda a roupa contaminada.
+Enxaguar a pele com água/tomar um duche. Consultar um médico.
+Em caso de contato com o olho
+Após contacto com os olhos: Enxaguar abundantemente com água. Consultar um
+oftalmologista. Remova as lentes de contato.
+Se ingerido
+Se ingerido: dar água a beber (dois copos no máximo). Consultar um médico
+imediatamente. Apenas em casos excepcionais , se o cuidado médico não estiver disponível
+numa hora, induzir o vómito (apenas em pessoas que estejam bem acordadas e
+conscientes), administrar carvão activado (20 - 40 g numa pasta a 10% ) e consultar o
+médico assim que possível.
+4.2 Sintomas e efeitos mais importantes, agudos e retardados
+Os sintomas e efeitos mais importantes conhecidos descrevem-se na etiqueta (ver secção
+2.2) e / ou na secção 11
+4.3 Indicação da atenção médica imediata e do tratamento especial necessário
+dados não disponíveis
+Millipore- 1.10784 Página 3 de 11
+The life science business of Merck operates as MilliporeSigma in the US and
+Canada
+5. MEDIDAS DE COMBATE A INCÊNDIO
+5.1 Meios de extinção
+Meios adequados de extinção
+Água Espuma Dióxido de carbono (CO2) Pó seco
+Agentes de extinção inadequados
+Para esta substância/mistura, não há limitações dos agentes de extinção.
+5.2 Riscos especiais resultantes da substância ou da mistura
+Óxidos de carbono
+Óxidos de nitrogênio (NOx)
+Combustível.
+Um incêndio pode provocar o desenvolvimento de:
+óxido nítrico
+Os vapores são mais pesados que o ar e podem espalhar-se junto ao solo.
+Em caso de forte aquecimento podem formar-se misturas explosivas com o ar.
+Em caso de incêndio formam-se gases inflamáveis e vapores perigosos.
+5.3 Precauções para bombeiros
+Não ficar na zona de perigo sem aparelhos respiratórios autónomos apropriados para
+respiração independente do ambiente. De forma a evitar o contacto com a pele, mantenha
+uma distância de segurança e utilize vestuário protetor adequado.
+5.4 Informações complementares
+Suprimir (abater) com jatos de água os gases, vapores e névoas. Evitar a contaminação de
+águas superficiais e subterrâneas pela água de combate a incêndios.
+6. MEDIDAS DE CONTROLE PARA DERRAMAMENTO OU VAZAMENTO
+6.1 Precauções pessoais, equipamentos de proteção e procedimentos de emergência
+Conselho para o pessoal da não emergência: Evitar a todo o custo o desprendimento e a
+analação de poeiras. Evitar o contacto com a substância. Assegurar ventilação adequada.
+Evacuar a área de perigo, observar os procedimentos de emergência, consultar um
+especialista.
+Para a proteção individual, consultar a seção 8.
+6.2 Precauções ambientais
+Não permitir a entrada do produto nos esgotos.
+6.3 Métodos e materiais de contenção e limpeza
+Cobrir os drenos. Colectar, ligar e bombear fugas para fora. Observar as possíveis
+restricções materiais (ver secções 7 e 10). Absorver com cuidado. Proceder à eliminação
+de resíduos. Limpeza posterior. Evitar a fromação de pós.
+6.4 Consulta a outras seções
+Para eliminação de resíduos ver secção 13.
+7. MANUSEIO E ARMAZENAMENTO
+7.1 Precauções para manuseio seguro
+Recomendações para manuseio seguro
+Trabalhar com chaminé. Não inalar a substância/mistura.
+Medidas de higiene
+Mudar imediatamente a roupa contaminada. Profilaxia cutânea. Depois de terminar o
+trabalho, lavar as mãos e a cara.
+Millipore- 1.10784 Página 4 de 11
+The life science business of Merck operates as MilliporeSigma in the US and
+Canada
+Ver precauções na secção 2.2
+7.2 Condições para armazenamento seguro, incluindo incompatibilidades
+Condições de armazenamento
+Ao abrigo da luz.Herméticamente fechado. Em local seco. Guardar em local bem arejado.
+Manter fechado ou numa área acessível só a pessoas qualificadas ou autorizadas.
+Temperatura recomendada de armazenagem, consulte na etiqueta de produto.
+7.3 Utilizações finais específicas
+Aparte dos usos mencionados na secção 1.2 não se estipulam outros usos específicos
+8. CONTROLE DE EXPOSIÇÃO E PROTEÇÃO INDIVIDUAL
+8.1 Parâmetros de controle
+Componentes com parâmetros a controlar no local de trabalho
+8.2 Controles da exposição
+Controles apropriados de engenharia
+Mudar imediatamente a roupa contaminada. Profilaxia cutânea. Depois de terminar o
+trabalho, lavar as mãos e a cara.
+Equipamento de Proteção Individual (EPI)
+Proteção para a pele/olhos
+Use equipamento de proteção ocular testado e aprovado de acordo com as normas
+governamentais adequadas, tais como NIOSH (US) ou EN 166 (EU). Óculos de
+segurança
+Proteção para a pele
+Esta recomendação aplica-se apenas ao produto descrito na ficha de dados de
+segurança por nós fornecida bem como para a aplicação especificada. Quando
+houver dissolução ou mistura com outras substâncias e sob as devidas condições
+houver desvios aos descritos na EN374, por favor, contactar o fornecedor de luvas
+com marcação CE (ex: KCL GmbH, D-36124 Eichenzell, Internet: www.kcl.de).
+Contato total
+Materiais: Borracha nitrílica
+espessura mínima da capa: 0.11 mm
+Pausa: 480 min
+Material ensaiado:KCL 741 Dermatril® L
+Esta recomendação aplica-se apenas ao produto descrito na ficha de dados de
+segurança por nós fornecida bem como para a aplicação especificada. Quando
+houver dissolução ou mistura com outras substâncias e sob as devidas condições
+houver desvios aos descritos na EN374, por favor, contactar o fornecedor de luvas
+com marcação CE (ex: KCL GmbH, D-36124 Eichenzell, Internet: www.kcl.de).
+Contato com salpicos
+Materiais: Borracha nitrílica
+espessura mínima da capa: 0.11 mm
+Pausa: 480 min
+Material ensaiado:KCL 741 Dermatril® L
+Proteção do corpo
+vestuário de protecção
+Proteção respiratória
+necessário em caso de formação de pós. Nossas recomendações sobre proteção
+respiratória de filtragem são baseadas nas seguintes normas: DIN EN 143, DIN
+Millipore- 1.10784 Página 5 de 11
+The life science business of Merck operates as MilliporeSigma in the US and
+Canada
+14387 e outras normas associadas relacionadas ao sistema de proteção respiratória
+utilizado.
+Controle da exposição ambiental
+Não permitir a entrada do produto nos esgotos.
+9. PROPRIEDADES FÍSICAS E QUÍMICAS
+9.1 Informações sobre propriedades físico-químicas básicas
+a) Aspecto Estado físico: sólido
+Cor: incolor
+b) Odor inodoro
+c) Limite de Odor Não aplicável
+d) pH 5.2 - 6 em 500 g/l
+e) Ponto de Ponto de fusão: 84 °C
+fusão/congelamento
+f) Ponto de ebulição 125 °C em 33.33 hPa
+inicial e faixa de
+temperatura de
+ebulição
+g) Ponto de inflamação 138 °C - vaso fechado
+h) Taxa de evaporação dados não disponíveis
+i) Inflamabilidade dados não disponíveis
+(sólido, gás)
+j) Limites superiores / dados não disponíveis
+inferiores de
+inflamabilidade ou de
+explosão
+k) Pressão de vapor 2.1 hPa em 84.50 °C
+0.04 hPa em 40 °C
+l) Densidade do vapor 2.45 - (Ar = 1,0)
+m) Densidade 1.12 gr/cm3 em 30 °C
+Densidade relativa 1.12 em 30 °C - OPPTS 830.7300
+n) Solubilidade em água 200 g/l em 20 °C
+o) Coeficiente de log Pow: -0.9 em 20 °C - Não se prevê qualquer bio-
+partição (n- acumulação.
+octanol/água)
+p) Temperatura de dados não disponíveis
+autoignição
+q) Temperatura de dados não disponíveis
+decomposição
+r) Viscosidade Viscosidade, cinemática: dados não disponíveis
+Viscosidade, dinâmica: dados não disponíveis
+s) Riscos de explosão dados não disponíveis
+t) Propriedades dados não disponíveis
+Millipore- 1.10784 Página 6 de 11
+The life science business of Merck operates as MilliporeSigma in the US and
+Canada
+oxidantes
+9.2 Outra informação de segurança
+Densidade aparente ca.500 kg/m3
+Densidade relativa 2.45 - (Ar = 1,0)
+do vapor
+10. ESTABILIDADE E REATIVIDADE
+10.1 Reatividade
+Em caso de forte aquecimento podem formar-se misturas explosivas com o ar.
+Uma gama de aproximadamente 15 Kelvin abaixo do ponto flash é considerada como
+crítica.
+Em geral o seguinte aplica-se a substâncias e misturas orgânicas inflamáveis: numa
+distribuição geralmente fina, quando voltado para cima pode gerar uma potencial explosão
+de pó.
+10.2 Estabilidade química
+O produto é estável quimicamente sob condições ambiente padrão (temperatura
+ambiente).
+10.3 Possibilidade de reações perigosas
+Reacções violentas são possíveis com:
+resíduos alcalinos
+Oxidantes
+Agentes redutores
+Bases
+Metais
+Peróxidos
+ácidos
+10.4 Condições a serem evitadas
+Forte aquecimento.
+10.5 Materiais incompatíveis
+Agentes oxidantes fortes
+10.6 Produtos perigosos de decomposição
+Em caso de incendio: veja-se secção 5
+11. INFORMAÇÕES TOXICOLÓGICAS
+11.1 Informações sobre efeitos toxicológicos
+Toxicidade aguda
+DL50 Oral - Rato - fêmea - 177 mg/kg
+(Diretriz de Teste de OECD 401)
+Estimativa de toxicidade aguda Inalação - 1.6 mg/l
+(Parecer técnico)
+DL50 Dérmico - Coelho - masculino e feminino - 1,141 mg/kg
+(Diretriz de Teste de OECD 402)
+Observações: (Regulamento (CE) N.o 1272/2008, Anexo VI)
+Corrosão/irritação à pele.
+Provoca irritação à pele. (Regulamento (CE) N.o 1272/2008, Anexo VI)
+Millipore- 1.10784 Página 7 de 11
+The life science business of Merck operates as MilliporeSigma in the US and
+Canada
+Lesões oculares graves/irritação ocular
+Olhos - Coelho
+Resultado: Irritação nos olhos - 24 h
+(Diretriz de Teste de OECD 405)
+(Regulamento (CE) N.o 1272/2008, Anexo VI)
+Sensibilização respiratória ou à pele
+Teste de maximização - Cobaia
+Resultado: positivo
+(Diretriz de Teste de OECD 406)
+Observações: (Regulamento (CE) N.o 1272/2008, Anexo VI)
+Mutagenicidade em células germinativas
+Pode provocar defeitos genéticos.
+Tipos de testes: Teste de Ames
+Sistema de teste: Salmonella typhimurium
+Ativação metabólica: com ou sem ativação metabólica
+Método: Diretriz de Teste de OECD 471
+Resultado: negativo
+Tipos de testes: Teste de aberração cromossômica in vitro
+Sistema de teste: Células pulmonares de hamster chinês
+Ativação metabólica: sem activação metabólica
+Método: Diretriz de Teste de OECD 473
+Resultado: positivo
+Tipos de testes: Teste de mutação de genes em células de mamíferos in vitro
+Sistema de teste: Célular ovarianas de hamster chinês
+Ativação metabólica: com ou sem ativação metabólica
+Método: Diretriz de Teste de OECD 476
+Resultado: negativo
+Tipos de testes: teste letal dominante
+Espécie: Rato
+Via de aplicação: Oral
+Método: Diretriz de Teste de OECD 478
+Resultado: positivo
+Carcinogenicidade
+dados não disponíveis
+Toxicidade à reprodução
+Suspeita-se que prejudique a fertilidade.
+Toxicidade sistêmica de órgão-alvo específico - exposição única
+dados não disponíveis
+Toxicidade sistêmica de órgão-alvo específico - exposição repetida
+Oral - Provoca danos aos órgãos por exposição repetida ou prolongada. - Sistema nervoso
+periférico
+Perigo por aspiração.
+dados não disponíveis
+11.2 Informação adicional
+Toxicidade em dosagem repetitiva - Rato - masculino e feminino - Oral - 2 a - Nível no qual
+não são observados efeitos adversos (NOAEL) - 0.5 mg/kg
+Millipore- 1.10784 Página 8 de 11
+The life science business of Merck operates as MilliporeSigma in the US and
+Canada
+Até onde sabemos, as propriedades químicas, físicas e toxicológicas não foram
+minuciosamente investigadas.
+Fígado - Irregularidades - Comprovado em seres humanos
+12. INFORMAÇÕES ECOLÓGICAS
+12.1 Toxicidade
+Toxicidade para os Ensaio estático CL50 - Oncorhynchus mykiss (truta arco-íris) - 180
+peixes mg/l - 96 h
+(Diretriz de Teste de OECD 203)
+Toxicidade em Ensaio por escoamento CE50 - Daphnia magna (pulga d'água ou
+daphnias e outros dáfnia) - 98 mg/l - 48 h
+invertebrados (US-EPA)
+aquáticos.
+Toxicidade para as Ensaio estático NOEC - Pseudokirchneriella subcapitata - 56 mg/l -
+algas 72 h
+(Diretrizes para o teste 201 da OECD)
+Toxicidade para as CE50 - Photobacterium phosphoreum (bactérias bioluminescentes) -
+bactérias 13,500 mg/l
+Observações: (IUCLID)
+12.2 Persistência e degradabilidade
+Biodegradabilidade aeróbio - Duração da exposição 28 d
+Resultado: 100 % - Rapidamente biodegradável.
+(Diretriz de Teste de OECD 301D)
+12.3 Potencial bioacumulativo
+Bioacumulação Oncorhynchus mykiss (truta arco-íris) - 72 h
+- 0.71 mg/l(Acrilamida)
+Fator de bioconcentração (FBC): 1.65
+12.4 Mobilidade no solo
+dados não disponíveis
+12.5 Resultados da avaliação PBT e vPvB
+A valoração de PBT / mPmB não está disponível já que a avaliação de segurança química
+não é necessária / não se realizou
+12.6 Outros efeitos adversos
+dados não disponíveis
+13. CONSIDERAÇÕES SOBRE TRATAMENTO E DISPOSIÇÃO
+13.1 Métodos de tratamento de resíduos
+Produto
+O material residual deve ser eliminado de acordo com os regulamentos nacionais e locais.
+Deixar os produtos químicos nos recipientes originais. Não misturar com outros materiais
+residuais. Manusear os recipientes não limpos como o próprio produto. As advertências
+de perigo e recomendações de prudência apresentadas na etiqueta aplicam-se também a
+Millipore- 1.10784 Página 9 de 11
+The life science business of Merck operates as MilliporeSigma in the US and
+Canada
+todos os resíduos deixados no recipiente. Uma eliminação ou reciclagem descontrolada
+desta embalagem não é permitida e pode ser perigosa. A embalagem tem de ser
+incinerada numa instalação de incineração adequada que disponha de uma autorização
+fornecida pelas autoridades competentes.
+14. INFORMAÇÕES SOBRE TRANSPORTE
+14.1 Número ONU
+ADR/RID: 2074 DOT (US): 2074 IMDG: 2074 IATA: 2074 ANTT: 2074
+14.2 Nome de embarque correto da ONU
+ADR/RID: ACRILAMIDA, SÓLIDA
+DOT (US): Acrylamide, solid
+IMDG: ACRYLAMIDE, SOLID
+IATA: Acrylamide, solid
+ANTT: ACRILAMIDA, SÓLIDA
+14.3 Classes de riscos de transporte
+ADR/RID: 6.1 DOT (US): 6.1 IMDG: 6.1 IATA: 6.1 ANTT: 6.1
+14.4 Grupo de embalagem
+ADR/RID: III DOT (US): III IMDG: III IATA: III ANTT: III
+14.5 Perigos ambientais
+ADR/RID: não DOT (US): não IMDG Poluente IATA: não
+marinho: não
+14.6 Precauções especiais para os usuários
+dados não disponíveis
+14.7 Numero De Risco
+15. REGULAMENTAÇÕES
+15.1 Normas de segurança, saúde e ambientais específicas para a substância ou
+mistura
+Esta Ficha de Informações de Produtos Químicos foi preparada de acordo com a NBR
+14725-4/2014 da ABNT (Associação Brasileira de Normas Técnicas)
+16. OUTRAS INFORMAÇÕES
+Informações complementares
+Acredita-se que as informações acima estejam correctas, embora não pretendam ser
+totalmente abrangentes, devendo ser usadas apenas como um guia. A informação
+contida neste documento esta baseada no presente estado do nosso conhecimento e é
+aplicável ás precauções de segurança apropriadas para o produto. Não representa
+nenhuma garantia das propriedades do produto. A Corporação Sigma-Aldrich e as suas
+companhias afiliadas, não responderão por nenhum dano resultante do manuseio ou do
+contato com o produto acima. Consultar www.sigma-aldrich.com e/ou o verso da
+factura ou nota que acompanha o produto para tomar conhecimento dos termos
+adicionais e condições de venda.
+Direitos exclusivos, 2020, da Sigma-Aldrich Co. LLC. Permissão concedida para fazer
+número ilimitado de cópias em papel, somente para uso interno.
+Millipore- 1.10784 Página 10 de 11
+The life science business of Merck operates as MilliporeSigma in the US and
+Canada
+A marca no cabeçalho e/ou rodapé deste documento pode não corresponder
+temporariamente ao produto adquirido, uma vez que alteramos a nossa marca. No
+entanto, todas as informações no documento referentes ao produto não sofreram
+alterações e correspondem ao produto encomendado. Para obter mais informações,
+envie um e-mail para mlsbranding@sial.com.
+Millipore- 1.10784 Página 11 de 11
+The life science business of Merck operates as MilliporeSigma in the US and
+Canada

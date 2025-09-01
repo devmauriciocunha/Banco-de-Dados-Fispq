@@ -1,0 +1,313 @@
+SIGMA-ALDRICH
+sigma-aldrich.com
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS
+QUÍMICOS
+Versão 5.3
+Data de revisão 10.03.2015
+Data de impressão 14.04.2015
+1. IDENTIFICAÇÃO DO PRODUTO E DA EMPRESA
+1.1 Identificadores do produto
+Nome do produto : VANADATO-META DE AMONIO PA ACS
+Referência do Produto : V000755
+Marca : Vetec
+1.2 Outros meios de identificação
+Dados não disponíveis
+1.3 Utilizações identificadas relevantes da substância ou mistura e utilizações desaconselhadas
+Só para utilização R&D. Não para utilização farmaceutica, doméstica ou outras utilizações.
+1.4 Identificação do fornecedor da ficha de dados de segurança
+Companhia : Sigma-Aldrich Brasil Ltda.
+Av. das Nações Unidas, 23.043
+04795-100 SÃO PAULO - SP
+BRAZIL
+2. IDENTIFICAÇÃO DE PERIGOS
+2.1 Classificação GHS
+Toxicidade aguda, Oral (Categoria 3)
+Toxicidade aguda, Inalação (Categoria 1)
+Toxicidade aguda, Dérmico (Categoria 5)
+Irritação cutânea (Categoria 2)
+Iirritação ocular (Categoria 2A)
+Toxicidade para órgãos-alvo específicos - exposição única (Categoria 3), Sistema respiratório
+2.2 Elementos da Etiqueta GHS, incluindo declarações de prevenção
+Pictograma
+Palavra de advertência Perigo
+Frases de Perigo
+H301 Tóxico por ingestão.
+H313 Pode ser perigoso com o contacto com a pele.
+H315 Provoca irritação cutânea.
+H319 Provoca irritação ocular grave.
+H330 Mortal por inalação.
+H335 Pode provocar irritação das vias respiratórias.
+Vetec - V000755 VANADATO-META DE AMONIO PA ACS Página 1 de 7
+Data de revisão 10.03.2015
+ | Componente | | | Concentração | 
+Ammonium trioxovanadate | | | | | 
+No. CAS 7803-55-6
+No. CE 232-261-3 | | | <= 100 % | | 
+Frases de Precaução
+Prevenção
+P260 Não respirar as poeiras/ fumos/ gases/ névoas/ vapores/ aerossóis.
+P264 Lavar a pele cuidadosamente após manuseamento.
+P270 Não comer, beber ou fumar durante a utilização deste produto.
+P271 Utilizar apenas ao ar livre ou em locais bem ventilados.
+P280 Usar luvas de protecção/ protecção ocular/ protecção facial.
+P284 Usar protecção respiratória.
+Resposta
+P301 + P310 EM CASO DE INGESTÃO: contacte imediatamente um CENTRO DE
+INFORMAÇÃO ANTIVENENOS ou um médico.
+P302 + P352 SE ENTRAR EM CONTACTO COM A PELE: lavar abundantemente com
+sabonete e água.
+P304 + P340 EM CASO DE INALAÇÃO: retirar a vítima para uma zona ao ar livre e
+mantê-la em repouso numa posição que não dificulte a respiração.
+P305 + P351 + P338 SE ENTRAR EM CONTACTO COM OS OLHOS: enxaguar
+cuidadosamente com água durante vários minutos. Se usar lentes de
+contacto, retire-as, se tal lhe for possível. Continuar a enxaguar.
+P310 Contacte imediatamente um CENTRO DE INFORMAÇÃO
+ANTIVENENOS ou um médico.
+P320 É urgente um tratamento específico (ver as instruções suplementares de
+primeiros secorros no presente rótulo).
+P330 Enxaguar a boca.
+P332 + P313 Em caso de irritação cutânea: consulte um médico.
+P337 + P313 Caso a irritação ocular persista: consulte um médico.
+P362 Retirar a roupa contaminada e lavá-la antes de a voltar a usar.
+Armazenagem
+P403 + P233 Armazenar em local bem ventilado. Manter o recipiente bem fechado.
+P405 Armazenar em local fechado à chave.
+Destruição
+P501 Eliminar o conteúdo/ recipiente em instalação aprovada de destruição de
+resíduos.
+2.3 Outros Perigos - nenhum(a)
+3. COMPOSIÇÃO E INFORMAÇÕES SOBRE OS INGREDIENTES
+3.1 Substâncias
+Formula : H4NO3V
+Peso molecular : 116.98 g/mol
+Componente Concentração
+Ammonium trioxovanadate
+No. CAS 7803-55-6 <= 100 %
+No. CE 232-261-3
+4. MEDIDAS DE PRIMEIROS-SOCORROS
+4.1 Descrição das medidas de primeiros socorros
+Recomendação geral
+Consultar um médico. Mostrar esta ficha de segurança ao médico de serviço.
+Em caso de inalação
+Se for respirado, levar a pessoa para o ar fresco. Se não respirar, dar respiração artificial. Consultar um
+médico.
+Vetec - V000755 VANADATO-META DE AMONIO PA ACS Página 2 de 7
+Data de revisão 10.03.2015
+Em caso de contacto com a pele
+Lavar com sabão e muita água. Transportar imediatamente paciente para um Hospital. Consultar um
+médico.
+Se entrar em contacto com os olhos
+Lavar cuidadosamente com muita água, durante pelo menos quinze minutos, e consultar o médico.
+Em caso de ingestão
+Nunca dar nada pela boca a uma pessoa inconsciente. Enxaguar a boca com água. Consultar um médico.
+4.2 Sintomas e efeitos mais importantes, tanto agudos como retardados
+Dor de cabeça, Tremores, Até onde sabemos, as propriedades químicas, físicas e toxicológicas não foram
+minuciosamente investigadas.
+4.3 Indicações sobre cuidados médicos urgentes e tratamentos especiais necessários
+Dados não disponíveis
+5. MEDIDAS DE COMBATE A INCÊNDIO
+5.1 Meios de extinção
+Meios adequados de extinção
+Utilizar água pulverizada, espuma resistente ao álcool, produto químico seco ou dióxido de carbono.
+5.2 Perigos especiais decorrentes da substância ou mistura
+Óxidos de azoto (NOx), Óxidos de enxofre, Borano/óxidos de boro, Vanádio/óxidos de vanádio
+5.3 Recomendações para o pessoal de combate a incêndios
+Usar equipamento de respiração autónomo para combate a incêndios, se necessário.
+5.4 Outras informações
+Dados não disponíveis
+6. MEDIDAS DE CONTROLE PARA DERRAMAMENTO OU VAZAMENTO
+6.1 Precauções individuais, equipamento de proteção e procedimentos de emergência
+Pôr uma protecção respiratória. Evitar a formação de poeira. Evitar a respiração do vapor/névoa/gas.
+Assegurar ventilação adequada. Evacuar o pessoal para áreas de segurança. Evitar de respirar o pó.
+6.2 Precauções a nível ambiental
+Prevenir dispersão ou derramamento, se seguro. Não permitir a entrada do produto no sistema de
+esgotos.
+6.3 Métodos e materiais de confinamento e limpeza
+Apanhar os resíduos sem levantar poeiras. Varrer e apanhar com uma pá. Manter em recipientes
+fechados adequados, para eliminação.
+6.4 Remissão para outras secções
+Para eliminação de resíduos ver secção 13.
+7. MANUSEIO E ARMAZENAMENTO
+7.1 Precauções para um manuseamento seguro
+Evitar o contacto com a pele e os olhos. Evitar a formação de pó e aerossois.
+Providenciar uma adequada ventilação em locais onde se formem poeiras.
+7.2 Condições de armazenagem segura, incluindo eventuais incompatibilidades
+Armazenar em local fresco. Guardar o recipiente herméticamente fechado em lugar seco e bem ventilado.
+Sensível à humidade.
+7.3 Utilizações finais específicas
+Dados não disponíveis
+Vetec - V000755 VANADATO-META DE AMONIO PA ACS Página 3 de 7
+Data de revisão 10.03.2015
+8. CONTROLE DE EXPOSIÇÃO E PROTEÇÃO INDIVIDUAL
+8.1 Parâmetros de controlo
+Límites de exposição ocupacional
+8.2 Controlo da exposição
+Controlos técnicos adequados
+Evitar o contacto com a pele, olhos e vestuário. Lavar as mãos antes de interrupções do trabalho, e
+imediatamente a seguir ao manuseamento do produto.
+Proteção individual
+Protecção ocular/ facial
+Mascaras de protecção e óculos de segurança. Use equipamento de proteção ocular testado e
+aprovado de acordo com as normas governamentais adequadas, tais como NIOSH (US) ou EN 166
+(EU).
+Protecção da pele
+Manusear com luvas. As luvas devem ser inspeccionadas antes da utilização. Use uma técnica
+adequada para a remoção das luvas (sem tocar a superfície exterior da luva) para evitar o contacto
+da pele com o produto. Descarte as luvas contaminadas após o uso, em conformidade com as leis e
+boas práticas de laboratório . Lavar e secar as mãos.
+As luvas de protecção seleccionadas devem satisfazer as especificações da Directiva da UE
+89/689/CEE e a norma EN 374 derivada dela.
+Protecção do corpo
+Fato completo de protecção para produtos químicos, O tipo de equipamento de protecção deve ser
+escolhido de acordo com a concentração e a quantidade da substância perigosa no local de
+trabalho.
+Protecção respiratória
+Nos casos em que a avaliação de risco mostrar que os respiradores purificadores do ar são
+apropriados, use um respirador de partículas do tipo N100 (E.U.A.) ou cartuchos de respiração do
+tipo P2 (EN 143) como apoio a controlos de engenharia. Se o respirador for o único meio de
+protecção, usa um respirador de ar de cobertura facial total. Use respiradores e componentes
+testados e aprovados por normas governamentais apropriadas, tais como as NIOSH (E.U.A.) ou
+CEN (UE).
+9. PROPRIEDADES FÍSICAS E QUÍMICAS
+9.1 Informações sobre propriedades físicas e químicas de base
+a) Aspeto Forma: sólido
+b) Odor Dados não disponíveis
+c) Limite de Odor Dados não disponíveis
+d) pH Dados não disponíveis
+e) Ponto de fusão/ponto Dados não disponíveis
+de congelamento
+f) Ponto de ebulição inicial Dados não disponíveis
+e intervalo de ebulição
+g) Ponto de fulgor Não aplicável
+h) Taxa de evaporação Dados não disponíveis
+i) Inflamabilidade (sólido, Dados não disponíveis
+gás)
+j) Limites de Dados não disponíveis
+inflamabilidade superior
+Vetec - V000755 VANADATO-META DE AMONIO PA ACS Página 4 de 7
+Data de revisão 10.03.2015
+/ inferior ou
+explosividade
+k) Pressão de vapor Dados não disponíveis
+l) Densidade de vapor Dados não disponíveis
+m) Densidade relativa 2.33 g/cm3 a 20 °C
+n) Hidrossolubilidade Dados não disponíveis
+o) Coeficiente de partição Dados não disponíveis
+n-octanol/água
+p) Temperatura de auto- Dados não disponíveis
+ignição
+q) Temperatura de Dados não disponíveis
+decomposição
+r) Viscosidade Dados não disponíveis
+10. ESTABILIDADE E REATIVIDADE
+10.1 Reatividade
+Dados não disponíveis
+10.2 Estabilidade química
+Dados não disponíveis
+10.3 Possibilidade de reações perigosas
+Dados não disponíveis
+10.4 Condições a evitar
+Dados não disponíveis
+10.5 Materiais incompatíveis
+Ácidos fortes e agentes oxidantes
+10.6 Produtos de decomposição perigosos
+11. INFORMAÇÕES TOXICOLÓGICAS
+11.1 Informações sobre os efeitos toxicológicos
+Toxicidade aguda
+DL50 Oral - Ratazana - 58.1 mg/kg
+CL50 Inalação - Ratazana - 4 h - 7.8 µg/l
+DL50 Dérmico - Ratazana - 2,102 mg/kg
+DL50 intraperitoneal - Ratazana - 18 mg/kg
+DL50 Subcutâneo - Ratazana - 23 mg/kg
+Corrosão/irritação cutânea
+Irritante para a pele.
+Lesões oculares graves/irritação ocular
+Irritante para os olhos.
+Sensibilização respiratória ou cutânea
+Dados não disponíveis
+Mutagenicidade em células germinativas
+Dados não disponíveis
+Carcinogenicidade
+IARC: Nenhum componente deste produto presente a níveis maiores ou iguais a 0.1% é identificado
+Vetec - V000755 VANADATO-META DE AMONIO PA ACS Página 5 de 7
+Data de revisão 10.03.2015
+como carcinogénio provável, possível ou confirmado pelo IARC.
+Toxicidade à reproduçã e lactação
+Dados não disponíveis
+Toxicidade sistêmica para órgãos-alvo específicos - exposição única
+Inalação - Pode provocar irritação das vias respiratórias.
+Toxicidade sistêmica para órgãos-alvo específicos - exposição repetida
+Dados não disponíveis
+Perigo de aspiração
+Dados não disponíveis
+Possíveis danos para a saúde
+Inalação Pode ser mortal se for inalado. Causa uma irritação no aparelho
+respiratório.
+Ingestão Tóxico se ingerido.
+Pele Pode ser perigoso se for absorto pela pele. Causa uma irritação da pele.
+Olhos Provoca irritação ocular grave.
+Sinais e sintomas de exposição
+Dor de cabeça, Tremores, Até onde sabemos, as propriedades químicas, físicas e toxicológicas não foram
+minuciosamente investigadas.
+Informação adicional
+RTECS: YW0875000
+12. INFORMAÇÕES ECOLÓGICAS
+12.1 Ecotoxicidade
+Dados não disponíveis
+12.2 Persistência e degradabilidade
+Dados não disponíveis
+12.3 Potencial biocumulativo
+Dados não disponíveis
+12.4 Mobilidade no solo
+Dados não disponíveis
+12.5 Resultados da avaliação PBT e mPmB
+Dados não disponíveis
+12.6 Outros efeitos adversos
+Dados não disponíveis
+13. CONSIDERAÇÕES SOBRE TRATAMENTO E DISPOSIÇÃO
+13.1 Métodos de tratamento de resíduos
+Produto
+Propor a entrega de soluções excedentes e não recicláveis a uma empresa idónea de tratamento de
+resíduos. Dissolver ou misturar o material com um solvente combustível e queimar em incinerador químico
+equipado com pós-combustor e purificador de gases.
+Embalagens contaminadas
+Eliminar como produto Não utilizado.
+14. INFORMAÇÕES SOBRE TRANSPORTE
+14.1 Número ONU
+ADR/RID: 2859 DOT (US): 2859 IMDG: 2859 IATA: 2859 ANTT: 2859
+Vetec - V000755 VANADATO-META DE AMONIO PA ACS Página 6 de 7
+Data de revisão 10.03.2015
+14.2 Designação oficial de transporte da ONU
+ADR/RID: METAVANADATO DE AMÓNIO
+DOT (US): Ammonium metavanadate
+IMDG: AMMONIUM METAVANADATE
+IATA: Ammonium metavanadate
+ANTT: METAVANADATO DE AMÔNIO
+14.3 Classes de perigo para efeitos de transporte
+ADR/RID: 6.1 DOT (US): 6.1 IMDG: 6.1 IATA: 6.1 ANTT: 6.1
+14.4 Grupo de embalagem
+ADR/RID: II DOT (US): II IMDG: II IATA: II ANTT: II
+14.5 Perigos para o ambiente
+ADR/RID: não DOT (US): não IMDG Poluente marinho: não IATA: não
+14.6 Precauções especiais para o utilizador
+Dados não disponíveis
+14.7 Numero De Risco 60
+15. REGULAMENTAÇÕES
+15.1 Regulamentação/legislação específica para a substância ou mistura em matéria de saúde, segurança
+e ambiente
+Esta Ficha de Informações de Produtos Químicos foi preparada de acordo com a NBR 14725-4/2012 da
+ABNT (Associação Brasileira de Normas Técnicas)
+16. OUTRAS INFORMAÇÕES
+Outras informações
+Direitos exclusivos, 2015, da Sigma-Aldrich Co. LLC. Permissão concedida para fazer número ilimitado
+de cópias em papel, somente para uso interno.
+Acredita-se que as informações acima estejam correctas, embora não pretendam ser totalmente
+abrangentes, devendo ser usadas apenas como um guia. A informação contida neste documento esta
+baseada no presente estado do nosso conhecimento e é aplicável ás precauções de segurança
+apropriadas para o produto. Não representa nenhuma garantia das propriedades do produto. A
+Corporação Sigma-Aldrich e as suas companhias afiliadas, não responderão por nenhum dano resultante
+do manuseio ou do contato com o produto acima. Consultar www.sigma-aldrich.com e/ou o verso da
+factura ou nota que acompanha o produto para tomar conhecimento dos termos adicionais e condições
+de venda.
+Vetec - V000755 VANADATO-META DE AMONIO PA ACS Página 7 de 7
+Data de revisão 10.03.2015

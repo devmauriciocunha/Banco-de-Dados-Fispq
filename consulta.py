@@ -2,7 +2,7 @@ import json
 from tabulate import tabulate
 
 # Caminho do JSON
-CAMINHO_JSON = "/home/mauricio-cunha/Documentos/reconhecimento-placas-fispq-main/teste/json/consolidado.json"
+CAMINHO_JSON = "/home/mauricio-cunha/Documentos/reconhecimento-placas-fispq-main/fispq_completo.json"
 
 # Carrega os dados do arquivo JSON
 with open(CAMINHO_JSON, "r", encoding="utf-8") as f:

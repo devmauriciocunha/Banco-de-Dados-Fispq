@@ -1,0 +1,314 @@
+Nome | Identificação do produto | %
+Hidrogénio
+(Principal constituinte) | (nº CAS) 1333-74-0 | > 99
+Ficha de Informações de Segurança de Produtos Químicos
+De acordo com ABNT NBR 14725-4
+Produto: Hidrogênio
+Data de emissão: 15/08/2017 Data de revisão: 24/03/2021 Versão: 15.0
+SEÇÃO 1: Identificação do Produto e da Empresa
+1.1. Identificação do produto
+Nome comercial : Hidrogênio
+Código do produto : P145
+Uso recomendado : Hidrogenação, envase da molécula, combustível
+1.2. Identificação da Empresa
+Braskem S.A
+Rua Eteno, 1561 - Polo Petroquímico de Camaçari
+Camaçari, BA, CEP 42810-000, Brasil
+Email para contato : productsafety@braskem.com
+Telefone de emergência : CHEMTREC: (021) 3958-1449, (011) 4349-1359, 0800 892 0479 (BRASIL)
+1-703-741-5970 (INTERNACIONAL)
+SEÇÃO 2: Identificação de perigos
+2.1. Classificação da substância ou mistura
+Gases inflamáveis, Categoria 1
+Gases sob pressão: Gás comprimido
+2.2. Elementos apropriados de rotulagem
+GHS-BR rotulagem
+Pictogramas de perigo (GHS-BR) :
+GHS02 GHS04
+Palavra de advertência (GHS-BR) : Perigo
+Frases de perigo (GHS-BR) : H220 - Gás extremamente inflamável
+H280 - Contém gás sob pressão: pode explodir sob ação do calor
+Frases de precaução (GHS-BR) : P210 - Mantenha afastado do calor, faísca, chama aberta, superfícies quentes. - Não fume
+P377 - Vazamento de gás com chamas: não apague, a menos que se possa conter o
+vazamento com segurança
+P381 - Elimine todas as fontes de ignição se puder ser feito com segurança
+P403 - Armazene em local bem ventilado.
+P410+P403 - Mantenha ao abrigo da luz solar. Armazene em local bem ventilado
+2.3. Outros perigos que não resultam em uma classificação
+Gás asfixiante
+SEÇÃO 3: Composição e informações sobre os ingredientes
+3.1. Substâncias
+Nome comercial : Hidrogênio
+nº CAS : 1333-74-0
+Fórmula : H2
+Nome Identificação do produto %
+Hidrogénio (nº CAS) 1333-74-0 > 99
+(Principal constituinte)
+3.2. Misturas
+Não aplicável
+SEÇÃO 4: Medidas de primeiros socorros
+4.1. Descrição das medidas de primeiros socorros
+Medidas gerais de primeiros-socorros : O contato com o produto pode causar queimaduras por frio ou por congelamento.
+Medidas de primeiros-socorros após inalação : Remova a pessoa para local ventilado e a mantenha em repouso numa posição que não
+dificulte a respiração. Em caso de parada respiratória, aplicar respiração artificial. Obter
+assistência médica se as dificuldades respiratórias persistirem.
+24/03/2021 PT (português - BR) 1/5
+Ficha de Informações de Segurança de Produtos Químicos
+De acordo com ABNT NBR 14725-4
+Produto: Hidrogênio
+Data de emissão: 15/08/2017 Data de revisão: 24/03/2021 Versão: 15.0
+Medidas de primeiros-socorros após contato : O contato com o produto pode causar queimaduras por frio ou por congelamento. Descongele
+com a pele com água morna as áreas afetadas. Não esfregue a área afetada. Roupas congeladas na pele
+devem ser descongeladas antes de serem removidas. Obter assistência médica.
+Medidas de primeiros-socorros após contato : O contato com o produto pode causar queimaduras por frio ou por congelamento. Lavar
+com os olhos imediatamente e com cuidado, mantendo as pálpebras bem abertas (por pelo menos 15
+minutos). Obter assistência médica se a dor, o pestanejo ou a vermelhidão persistirem.
+Medidas de primeiros-socorros após ingestão : A ingestão não é considerada como uma via potencial de exposição.
+4.2. Sintomas e efeitos mais importantes, agudos ou tardios
+Sintomas/efeitos em caso de inalação : Gás asfixiante. Os sintomas incluem dores de cabeça, tontura, fadiga, fraqueza muscular,
+sonolência e, em casos extremos, perda de consciência.
+Sintomas/efeitos em caso de contacto com a : O contato com o produto pode causar queimaduras por frio ou por congelamento.
+pele
+Sintomas/efeitos em caso de contacto com os : O contato com o produto pode causar queimaduras por frio ou por congelamento.
+olhos
+Sintomas/efeitos em caso de ingestão : A ingestão não é considerada como uma via potencial de exposição.
+4.3. Indicações sobre cuidados médicos urgentes e tratamentos especiais necessários
+Nota ao médico : Tratar sintomaticamente.
+SEÇÃO 5: Medidas de combate a incêndio
+5.1. Meios de extinção
+Meios de extinção adequados : Água pulverizada. Pó seco. Espuma. Dióxido de carbono. Areia.
+Meios de extinção inadequados : Não use jato forte de água. Não dirija a água diretamente para o ponto onde o gás comprimido
+está escapando, pois a água pode congelar.
+5.2. Perigos específicos decorrentes da substância ou mistura
+Perigo de incêndio : Gás extremamente inflamável. Tomar cuidado com as chamas invisíveis. Por combustão,
+forma: Água.
+Perigo de explosão : Pode formar misturas vapor/ar explosivas. Evitar descargas de eletricidade estática. Contém
+gás sob pressão: pode explodir sob ação do calor. O calor pode acumular pressão, rompendo
+os recipientes fechados, espalhando fogo e aumentando o risco de queimaduras e ferimentos.
+Reatividade : Gás extremamente inflamável.
+5.3. Recomendações para a equipe de combate a incêndio
+Medidas preventivas contra incêndios : Tomar cuidado com as chamas invisíveis. Não remova embalagens danificadas. Mova
+somente embalagens intactas para fora da zona de incêndio.
+Instruções de combate a incêndios : Elimine todas as fontes de ignição se puder ser feito com segurança. Vazamento de gás com
+chamas: não apague, a menos que se possa conter o vazamento com segurança. Não dirija a
+água diretamente para o ponto onde o gás comprimido está escapando, pois a água pode
+congelar. Usar pulverização ou nevoeiro de água para resfriar os recipientes expostos. Tenha
+cuidado ao combater qualquer incêndio químico. Evitar que as águas usadas para combater
+incêndios contaminem o meio ambiente.
+Proteção durante o combate a incêndios : Não intervir sem um equipamento de proteção adequado. Equipamento autônomo de
+respiração. Roupa de proteção completa. Não entrar na área de incêndio sem equipamento
+protetor adequado, incluindo proteção respiratória.
+SEÇÃO 6: Medidas de controle para derramamento ou vazamento
+6.1. Precauções individuais, equipamento de proteção e procedimentos de emergência
+Medidas gerais : Abandone a área. Remover todas as fontes de ignição. Contate os serviços de emergência.
+6.1.1. Para não-socorristas
+Procedimentos de emergência : Ventilar a área do derramamento. Evitar chamas abertas, faíscas. Não fumar. Evacuar o
+pessoal desnecessário.
+6.1.2. Para socorristas
+Equipamento de proteção : Não intervir sem um equipamento de proteção adequado. Para maiores informações consultar
+a seção 8: "Controle da exposição/proteção individual".
+Procedimentos de emergência : Ventilar a área. Gás extremamente inflamável. Remover qualquer possível fonte de ignição.
+Assegurar-se de que o gás se dissipa completamente antes de atingir o seu limite mínimo de
+explosão.
+6.2. Precauções ambientais
+Assegurar-se de que o gás se dissipa completamente antes de atingir o seu limite mínimo de explosão.
+6.3. Métodos e materiais de contenção e limpeza
+Para contenção : Pare o vazamento se isso puder ser feito sem risco pessoal. Controlar os vapores com um
+pulverizador de água fino. Não dirija a água diretamente para o ponto onde o gás comprimido
+está escapando, pois a água pode congelar.
+24/03/2021 PT (português - BR) 2/5
+ | Hidrogênio (1333-74-0) | | | 
+Brasil | | Nome local | Hidrogênio | 
+Brasil | | Observação (NR-15) | Asfixiante simples | 
+EUA | | Nome local | Hydrogen | 
+EUA | | Observação (ACGIH) | Simple Asphyxiant | 
+EUA | | Referência regulamentar | ACGIH 2017 | 
+Ficha de Informações de Segurança de Produtos Químicos
+De acordo com ABNT NBR 14725-4
+Produto: Hidrogênio
+Data de emissão: 15/08/2017 Data de revisão: 24/03/2021 Versão: 15.0
+Métodos de limpeza : Ventilar a área do derramamento. Assegurar-se de que o gás se dissipa completamente antes
+de atingir o seu limite mínimo de explosão.
+SEÇÃO 7: Manuseio e armazenamento
+7.1. Precauções para manuseio seguro
+Perigos adicionais quando processado : Cilindros danificados devem ser manuseados apenas por especialistas.
+Precauções para manuseio seguro : Usar equipamento de proteção individual. Mantenha afastado do calor, faísca, chama aberta,
+superfícies quentes. - Não fume. Elimine todas as fontes de ignição se puder ser feito com
+segurança. Aterre o vaso contentor e o receptor do produto durante transferências. Utilize
+apenas ao ar livre ou em locais bem ventilados. Assegurar boa ventilação na área de trabalho
+para evitar a formação de vapor.
+Medidas de higiene : Não coma, beba ou fume durante a utilização deste produto. Sempre lave as mãos após
+manusear o produto.
+7.2. Condições para armazenamento seguro, incluindo incompatibilidades
+Medidas técnicas : Usar apenas equipamento à prova de explosão. Utilize apenas ferramentas antifaiscantes.
+Aterre o vaso contentor e o receptor do produto durante transferências.
+Condições de armazenamento : Mantenha ao abrigo da luz solar. Armazene em local bem ventilado. Mantenha em local fresco.
+Manter unicamente no recipiente original e em lugar fresco e bem ventilado, afastado de:
+Materiais incompatíveis. Manter o recipiente fechado quando não estiver em uso.
+Materiais incompatíveis : Halogênios. Agente oxidante. Trifluoreto de nitrogênio. Difluoreto de oxigénio. Platina (Pt).
+Carbonato de magnésio. Carbonato de cálcio. Sódio (Na). Potássio.
+SEÇÃO 8: Controlo da exposição/Proteção individual
+8.1. Parâmetros de controle
+Hidrogênio (1333-74-0)
+Brasil Nome local Hidrogênio
+Brasil Observação (NR-15) Asfixiante simples
+EUA Nome local Hydrogen
+EUA Observação (ACGIH) Simple Asphyxiant
+EUA Referência regulamentar ACGIH 2017
+8.2. Controles de exposição
+Controles apropriados de engenharia : Assegurar boa ventilação do local de trabalho. Fontes para lavagem dos olhos e chuveiros de
+segurança para emergência devem estar disponíveis nas imediações de qualquer potencial de
+exposição.
+8.3. Equipamento de proteção individual
+Proteção para as mãos : Luvas de proteção.
+Proteção para os olhos : Óculos de proteção contra químicos ou óculos de segurança.
+Proteção para a pele e o corpo : Usar roupas de proteção adequada.
+Proteção respiratória : Nenhum equipamento especial de proteção respiratória é recomendado em condições normais
+de uso, com ventilação adequada. Em espaços confinados, utilizar equipamento de respiração
+autônomo.
+SEÇÃO 9: Propriedades físico-químicas
+9.1. Informações sobre propriedades físico-químicas básicas
+Estado físico : Gás
+Cor : Incolor
+Odor : Inodoro
+Limiar de odor : Não disponível
+pH : Não aplicável
+Ponto de fusão : -259,2 °C
+Ponto de solidificação : Não disponível
+Ponto de ebulição : -252,8 °C
+Ponto de fulgor : Gás extremamente inflamável
+Taxa de evaporação relativa (acetato de butila = 1) : Não aplicável
+Inflamabilidade (sólido/gás) : Gás extremamente inflamável
+Limites de explosão : 4 - 75 vol. %
+Pressão de vapor : Não aplicável
+Densidade relativa do vapor a 20°C : 0,0695 (valor calculado)
+Densidade relativa : Não aplicável
+24/03/2021 PT (português - BR) 3/5
+Ficha de Informações de Segurança de Produtos Químicos
+De acordo com ABNT NBR 14725-4
+Produto: Hidrogênio
+Data de emissão: 15/08/2017 Data de revisão: 24/03/2021 Versão: 15.0
+Solubilidade : Água: Ligeiramente solúvel
+Log Pow : 0,45 estimado
+Log Kow : 0,45 estimado
+Temperatura de auto-ignição : 400 - 585 °C
+Temperatura de decomposição : Não disponível
+Viscosidade, cinemática : Não aplicável
+Viscosidade, dinâmica : Não aplicável
+Propriedades explosivas : O hidrogênio é altamente explosivo
+9.2. Outras informações
+Concentração de saturação : Não aplicável
+Informações adicionais : Ponto triplo: -259.21 °C (7.23 kPa)
+Constante dielétrica: 1.231 (-252.8 °C)
+SEÇÃO 10: Estabilidade e reatividade
+Estabilidade química : Estável sob condições normais
+Condições a evitar : Evite o contato com superfícies quentes, Calor,Evite chamas e faíscas. Elimine todas as fontes
+de ignição
+Produtos perigosos da decomposição : Em condições normais de armazenamento e utilização, não devem ser formados produtos
+perigosos da decomposição
+Materiais incompatíveis : Halogênios, Agente oxidante, Trifluoreto de nitrogênio, Difluoreto de oxigénio, Platina (Pt),
+Carbonato de magnésio, Carbonato de cálcio, Sódio (Na), Potássio
+Possibilidade de reações perigosas : Podem ocorrer reações perigosas em contato com determinados químicos. (Consultar a lista
+de materiais incompatíveis na seção 10)
+Reatividade : Gás extremamente inflamável
+SEÇÃO 11: Informações toxicológicas
+11.1. Informações sobre os efeitos toxicológicos
+Toxicidade aguda (oral) : Não disponível
+Toxicidade aguda (dérmica) : Não disponível
+Toxicidade aguda (inalação) : Inalação: Não classificado.
+Corrosão/irritação à pele : Não classificado.
+pH: Não aplicável
+Lesões oculares graves/irritação ocular : Não classificado.
+pH: Não aplicável
+Sensibilização respiratória ou à pele : Não classificado.
+Mutagenicidade em células germinativas : Não disponível
+Carcinogenicidade : Não disponível
+Toxicidade à reprodução : Não disponível
+Toxicidade para órgãos-alvo específicos - : Não disponível
+Exposição única
+Toxicidade para órgãos-alvo específicos - : Não disponível
+Exposição repetida
+Perigo por aspiração : Não disponível
+Potenciais efeitos e sintomas adversos à saúde : Sob condições normais de uso, não foi detectado nenhum efeito adverso à saúde.
+humana
+Sintomas/efeitos em caso de inalação : Gás asfixiante. Os sintomas incluem dores de cabeça, tontura, fadiga, fraqueza muscular,
+sonolência e, em casos extremos, perda de consciência.
+Sintomas/efeitos em caso de contacto com a : O contato com o produto pode causar queimaduras por frio ou por congelamento.
+pele
+Sintomas/efeitos em caso de contacto com os : O contato com o produto pode causar queimaduras por frio ou por congelamento.
+olhos
+Sintomas/efeitos em caso de ingestão : A ingestão não é considerada como uma via potencial de exposição.
+SEÇÃO 12: Informações ecológicas
+12.1. Toxicidade
+Ecologia - geral : O produto não é considerado nocivo para os organismos aquáticos nem por causar efeitos
+adversos a longo prazo para o meio ambiente.
+Perigoso ao ambiente aquático - Agudo : Não disponível
+Perigoso ao ambiente aquático - Crônico : Não disponível
+12.2. Persistência e degradabilidade
+Nenhuma informação adicional disponível
+24/03/2021 PT (português - BR) 4/5
+ | Hidrogênio (1333-74-0) | | 
+Log Kow | | 0,45 estimado | 
+Potencial bioacumulativo | | Baixo potencial de bioacumulação. | 
+Ficha de Informações de Segurança de Produtos Químicos
+De acordo com ABNT NBR 14725-4
+Produto: Hidrogênio
+Data de emissão: 15/08/2017 Data de revisão: 24/03/2021 Versão: 15.0
+12.3. Potencial bioacumulativo
+Hidrogênio (1333-74-0)
+Log Kow 0,45 estimado
+Potencial bioacumulativo Baixo potencial de bioacumulação.
+12.4. Mobilidade no solo
+Nenhuma informação adicional disponível
+12.5. Outros efeitos adversos
+Nenhuma informação adicional disponível
+SEÇÃO 13: Considerações sobre destinação final
+Métodos de tratamento de resíduos : Eliminar o conteúdo/recipiente em conformidade com as instruções de triagem do agente de
+recolha autorizado.
+Recomendações de disposição de : Eliminar de maneira segura de acordo com os regulamentos locais e nacionais. Cilindros
+produtos/embalagens danificados devem ser manuseados apenas por especialistas.
+SEÇÃO 14: Informações sobre transporte
+Classificação para transporte terrestre: ANTT
+Número ONU : UN1049
+Nome apropriado para embarque : HIDROGÊNIO, COMPRIMIDO
+Classe / Subclasse de risco : 2.1
+Número de risco : 23
+Grupo de embalagem : Não aplicável
+Perigo ao meio ambiente : Produto considerado não perigoso para o meio ambiente
+Classificação para transporte marítimo: IMO - IMDG
+Número ONU : UN1049
+Nome apropriado para embarque : HYDROGEN, COMPRESSED
+Classe / Subclasse de risco : 2.1
+Grupo de embalagem : Não aplicável
+Perigo ao meio ambiente : Produto considerado não poluente marinho baseado nos dados disponíveis
+Classificação para transporte aéreo: IATA - ICAO
+Número ONU : UN1049
+Nome apropriado para embarque : Hydrogen, compressed
+Classe / Subclasse de risco : 2.1
+Grupo de embalagem : Não aplicável
+Perigo ao meio ambiente : Produto considerado não perigoso para o meio ambiente
+As informações sobre as regulamentações para o transporte fornecidas neste documento não abrangem todos os respectivos requisitos técnicos e
+operacionais e, portanto, não podem ser consideradas exaustivas. Consulte as diretrizes dos regulamentos da ANTT, IMO e IATA antes do
+transporte do produto. A empresa transportadora é responsável pelo cumprimento das leis, regulamentos e regras aplicáveis ao transporte do
+material.
+SEÇÃO 15: Informações sobre regulamentações
+Referência regulamentar : Listado no AICS (Inventário Australiano de Substâncias Químicas)
+Listado na DSL (Domestic Sustances List) canadiana
+Listado no IECSC (Inventory of Existing Chemical Substances Produced or Imported in China)
+Listado no EINECS (European Inventory of Existing Commercial Chemical Substances)
+Listado na ECL (Existing Chemicals List) corena
+Listado no NZIoC (New Zealand Inventory of Chemicals)
+Listado no PICCS (Philippines Inventory of Chemicals and Chemical Substances)
+Listado no inventário do TSCA (Toxic Substances Control Act) dos Estados Unidos
+Listado no INSQ (Mexican national Inventory of Chemical Substances)
+Listado no TCSI (Inventário de Substâncias Químicas de Taiwan)
+SEÇÃO 16: Outras informações
+Outras informações : Nenhum.
+Braskem - SDS_Brazil (modified 170614)
+Esta FISPQ foi elaborada baseada nos conhecimentos atuais do produto químico e fornece informações quanto à proteção, à segurança, à saúde e ao meio ambiente. Adverte-se que o manuseio
+de qualquer substância química requer o conhecimento prévio de seus perigos pelo usuário. Cabe à empresa usuária do produto disponibilizar esta FISPQ a e promover o treinamento de seus
+empregados e contratados quanto aos possíveis riscos advindos do produto. Os empregados ou contratados que trabalham com a manipulação ou manuseio do produto químico, ou que estão
+sujeitos à exposição ao produto químico, deverão ser monitorados de acordo com o Programa de Prevenção de Riscos Ambientais – PPRA e o Programa de Controle Médico de Saúde Ocupacional
+– PCMSO, de responsabilidade da empresa usuária do produto. As informações contidas nesta FISPQ não são absolutas, mas apenas informações gerais sobre a utilização do produto químico e
+indicação de medidas de proteção e segurança.
+24/03/2021 PT (português - BR) 5/5

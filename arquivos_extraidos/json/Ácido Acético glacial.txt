@@ -1,0 +1,586 @@
+| 
+ | 
+ | 
+ | 
+Última revisão: 15/07/2015 Rev.: 04
+1. IDENTIFICAÇÃO DO PRODUTO E DA EMPRESA.
+Nome do Produto: ÁCIDO ACÉTICO GLACIAL
+Nome da empresa: Gotaquimica Produtos Químicos Ltda.
+Endereço: Rua Paschoal Zimbardi, 307- Cumbica - Guarulhos - SP. – 07224-107
+Telefone da empresa: (011) 2413-9922 Fax: (011) 2412-4195
+Telefone para emergências: Abiquim : 0800-118270 (Discagem Direta Gratuita)
+Internet: vendas@gotaquimica.com.br
+qualidade@gotaquimica.com.br
+www.gotaquimica.com.br
+2. IDENTIFICAÇÃO DE PERIGOS.
+Sistema de classificação utilizado: Norma ABNT-NBR 14725.
+Adoção do Sistema Globalmente Harmonizado para a
+Classificação e Rotulagem de Produtos Químicos, ONU.
+Classificação da substância:
+Líquidos inflamáveis, Categoria 3 H226: Líquidos e vapores inflamáveis.
+Lesão na pele, Categoria 1A H314: Causa queimadura severa à pele
+e dano aos olhos.
+Toxicidade aguda, Dérmico, Categoria 4 H312: Nocivo em contato com a pele.
+Lesão grave nos olhos, Categoria 1 H318: Causa danos oculares graves.
+Toxicidade aguda em meio aquático, Categoria 3 H402: P e r i g o s o para vida aquática
+Elementos Apropriados da Rotulagem
+Rotulagem de acordo com NBR 14725-3
+• Pictogramas:
+ÁCIDO ACÉTICO GLACIAL
+Página 1 de 14
+15/07/2015
+ | 
+ | 
+ | 
+ | 
+Última revisão: 15/07/2015 Rev.: 04
+• Palavra de advertência:
+PERIGO
+• Frases de perigo:
+H226: Líquidos e vapores inflamáveis.
+H314: Causa queimadura severa à pele e dano aos olhos.
+H312: Nocivo em contato com a pele.
+H318: Causa danos oculares graves.
+H402: P e r i g o s o para vida aquática
+• Frases de precaução:
+Prevenção:
+P210 Manter distante do calor/ de faíscas/ de chamas diretas/ de superfícies quentes. –
+Não fumar.
+P233 Conservar o recipiente bem fechado.
+P240 Ligar o contêiner e o equipamento receptor ao terra.
+P241 Usar equipamento elétrico/ ventilação/ iluminação à prova de explosão.
+P242 Usar apenas instrumentos que não produzam faíscas.
+P243 Tomar medidas preventivas contra descargas eletrostáticas.
+P264 Lavar a pele cuidadosamente após o manuseio.
+P273 Evitar a liberação no ambiente.
+P280 Usar luvas de proteção / roupa de proteção / proteção para os olhos / proteção para
+o rosto.
+• Resposta à emergência:
+SE INGERIDO: Lavar a boca. NÃO induzir vômito.
+P303 + P361 + P353 SE NA PELE (ou cabelo): Remover/ tirar imediatamente a
+roupa contaminada. Enxaguar a pele com água e tomar banho de chuveiro.
+P304 + P340 SE INALADO: Remover a vítima para um ambiente de ar puro e
+permanecer em repouso em uma posição confortável para respirar.
+P305 + P351 + P338 SE NOS OLHOS: Lavar cuidadosamente com água durante
+vários minutos. Remover as lentes de contato, se presentes e de fácil remoção.
+Continue enxagüando
+P322 Medidas específicas (consulte instruções complementares de primeiros
+socorros neste rótulo.
+P363 Lavar a roupa contaminada antes de usar novamente
+P370 + P378 Em caso de incêndio: Use areia seca, produtos resistentes ao
+álcool para extinção.
+• Armazenamento:
+P403 + P235 Armazenar em local bem ventilado. Conservar em ambiente fresco.
+• Descarte
+ÁCIDO ACÉTICO GLACIAL
+Página 2 de 14
+15/07/2015
+ | 
+ | 
+ | 
+ | 
+3. | COMPOSIÇÃO E INFORMAÇÕES SOBRE OS INGREDIENTES. | 
+Nome Químico | Nº de Index
+Nº de CAS
+Nº EINECS | Classificação de acordo
+com NBR 14725-2 | Concentração
+[%]
+Ácido Acético | 607-002-00-6
+64-19-7
+200-580-7 | Líq. Inflam. 3; H226
+Corr. Pele 1A; H314
+Tox. Agud. 4; H312
+Dan. Sev. Olhos 1; H318
+Tox. Aqua. Agud. 3; H402 | >=99 -<=100
+Última revisão: 15/07/2015 Rev.: 04
+P501 Descartar o conteúdo/ recipiente em uma instalação aprovada de tratamento de
+resíduos.
+3. COMPOSIÇÃO E INFORMAÇÕES SOBRE OS INGREDIENTES.
+Substância
+Sinônimos : Ácido etanóico, ácido acético glacial , ácido metanocarboxilíco
+Nome químico : Ácido Acético
+Nº CAS : 6 4 - 1 9-7
+N° de Index : 607-002-00-6
+N° EINECS : 200-580-7
+Informação sobre os ingredientes ou impurezas que contribuam para o perigo.
+Nome Químico Nº de Index Classificação de acordo Concentração
+Nº de CAS com NBR 14725-2 [%]
+Nº EINECS
+Ácido Acético 607-002-00-6 Líq. Inflam. 3; H226 >=99 -<=100
+64-19-7 Corr. Pele 1A; H314
+200-580-7 Tox. Agud. 4; H312
+Dan. Sev. Olhos 1; H318
+Tox. Aqua. Agud. 3; H402
+4. MEDIDAS DE PRIMEIROS-SOCORROS.
+Recomendação geral : Mostrar esta FISPQ ao médico de plantão.
+O prestador de primeiros socorros deve se proteger.
+Coloque roupas contaminadas em um saco bem fechado, para
+descontaminação subsequente.
+Inalação : Procurar ar fresco no caso de inalação acidental de vapores
+ou produtos de Decomposição.
+Se a respiração for irregular ou se parar, aplique respiração
+artificial. Procurar o médico imediatamente.
+Contato com a pele : Remover imediatamente a roupa e os sapatos contaminados.
+Lavar imediatamente, abundantemente e de forma prolongada
+(15 minutos pelo menos). Consultar um médico.
+Contato com os olhos : Lave imediatamente com água corrente, também embaixo das
+pálpebras por, pelo menos, 15 minutos.
+Procurar o médico imediatamente.
+Ingestão : NÃO provocar o vômito.
+Não dar nada para beber.
+ÁCIDO ACÉTICO GLACIAL
+Página 3 de 14
+15/07/2015
+ | 
+ | 
+ | 
+ | 
+Última revisão: 15/07/2015 Rev.: 04
+Consultar o médico.
+5. MEDIDAS DE COMBATE A INCÊNDIO.
+Meios de extinção:
+Meios adequados de extinção : E s p u m a
+Névoa de água
+Pó seco
+Dióxido de carbono (CO2)
+Agentes de extinção inadequados : Jato de água de grande vazão
+Perigos específicos da mistura ou substância:
+Perigos específicos no
+combate a Incêndios : Líquido inflamável.
+Os vapores podem formar misturas explosivas com o ar.
+Pode provocar combustão em contato com chama nua ou
+superfícies muito aquecidas.
+O aquecimento aumenta a pressão interior do recipiente, risco
+de explosão. Liberação de vapores muito irritantes.
+Precauções para os bombeiros
+Equipamento especial de proteção para o pessoal destacado para o combate a
+incêndios:
+Usar equipamento de respiração autônomo para combate a incêndios, se
+necessário.
+Equipamento de proteção pessoal: luvas adequadas de proteção, óculos de
+segurança e roupas de proteção.
+Métodos específicos para combate a incêndios:
+Utilizar os meios adequados para combater os incêndios nas proximidades
+informações complementares : Adapte as medidas de combate a incêndios às
+condições legais e ao ambiente do entorno.
+Resfriar os recipientes/ tanques, pulverizando-os com água.
+Informações complementares :
+Adapte as medidas de combate a incêndios às condições legais e ao ambiente do
+entorno. Resfriar os recipientes/ tanques, pulverizando-os com água.
+ÁCIDO ACÉTICO GLACIAL
+Página 4 de 14
+15/07/2015
+ | 
+ | 
+ | 
+ | 
+Última revisão: 15/07/2015 Rev.: 04
+6. MEDIDAS DE CONTROLE PARA DERRAMAMENTO OU VAZAMENTO.
+Precauções pessoais, equipamento de proteção e procedimentos de emergência.
+• Precauções pessoais para o pessoal do serviço de emergência:
+Coloque placas de aviso na área contaminada e não permita o acesso de pessoas não
+autorizadas.
+Apenas funcionários capacitados e com equipamento de proteção adequado podem
+intervir. Não fumar. Retirar todas as fontes de ignição. Mantenha longe de chamas e
+faíscas. Evitar o contato com a pele e os olhos. Não respirar os vapores. Usar
+equipamento de proteção individual. Se possível estancar o vazamento. Se indicado
+posicionar os recipientes danificados de modo que o ponto de vazamento fique para
+cima.
+• Precauções Ambientais:
+Conter os vazamentos.
+As autoridades locais devem ser avisadas se uma quantidade importante de
+derramamento não puder ser controlada.
+Tente impedir que o produto entre nas canalizações ou nos cursos de água.
+Evitar que o produto entre no sistema de esgotos.
+• Métodos e materiais para contenção e limpeza:
+Recolher o derramamento.
+Produto inflamável. Tomar todas as precauções necessárias.
+Aterrar equipamentos e contêineres.
+Manter em recipientes fechados adequados até a disposição
+• Neutralização
+Conter o vazamento utilizando substância não combustível (por exemplo, areia,
+terra, terra diatomácea, vermiculita) e transferir para um recipiente apropriado
+para descarte de acordo com os regulamentos locais e nacionais (consulte a
+seção 13).
+• Recomendações adicionais
+Evacuar a área.
+Se possível estancar o vazamento. Se indicado posicionar os recipientes danificados de
+modo que o ponto de vazamento fique para cima.
+7. MANUSEIO E ARMAZENAMENTO.
+Manuseio
+• Medidas técnicas
+Aterrar eletricamente a instalação.
+Ligar o contêiner e o equipamento receptor ao terra.
+Não fumar.
+Tomar medidas para impedir a formação de eletricidade estática.
+ÁCIDO ACÉTICO GLACIAL
+Página 5 de 14
+15/07/2015
+ | 
+ | 
+ | 
+ | 
+Última revisão: 15/07/2015 Rev.: 04
+Providenciar ventilação adequada.
+Proporcionar troca de ar suficiente e/ou sistema exaustor nas salas de trabalho.
+As instalações elétricas e o material de trabalho devem obedecer às normas
+tecnológicas de segurança.
+Não usar instrumentos que produzam faíscas.
+Armazenamento
+• Medidas técnicas para armazenamento:
+Armazenar em local seco, fresco e bem arejado.
+O piso do local de armazenamento deve ser impermeável e projetado de maneira a
+constituir uma bacia de retenção.
+As instalações elétricas e o material de trabalho devem obedecer as tecnológicas de
+segurança.
+• Condições de Armazenamento
+Recomendados
+Armazene conteúdo sob gás inerte.
+Manter sob nitrogênio.
+Armazenar em local seco, fresco e bem arejado.
+A evitar
+Armazenar afastado de chamas, superfícies aquecidas e fontes de ignição.
+Manter afastado de materiais incompatíveis a serem indicados pelo fabricante.
+Medidas de embalagens
+• Materiais de embalagem recomendados:
+Aço inoxidável, Polietileno.
+• Materiais de embalagem a serem evitados:
+Aço, Alumínio e suas ligas..
+8. CONTROLE DE EXPOSIÇÃO E PROTEÇÃO INDIVIDUAL.
+Parâmetros de controle:
+Portaria 3214/78, Norma Regulamentadora NR-15: não se aplica.
+• Limite de exposição ocupacional
+ÁCIDO ACÉTICO GLACIAL
+Página 6 de 14
+15/07/2015
+ | 
+ | 
+ | 
+ | 
+Componentes | Tipo de Valor | Valor | Atualizada | Base
+Ácido Acético | Lt (48h/s) | 8 ppm
+20 mg/m3 | 2008-03-13 | NR15
+Ácido Acético | TWA | 10 ppm | 2007-01-01 | ACGIH
+Última revisão: 15/07/2015 Rev.: 04
+Componentes Tipo de Valor Valor Atualizada Base
+Ácido Acético Lt (48h/s) 8 ppm 2008-03-13 NR15
+20 mg/m3
+Ácido Acético TWA 10 ppm 2007-01-01 ACGIH
+Recomendação geral
+Medidas de planejamento : Evite respingos
+Medidas de proteção pessoal.
+• Proteção Respiratória:
+Usar respirador com um filtro apropriado.
+• Proteção das mãos
+Se houver risco de contato com as mãos, utilize luvas adequadas.
+As luvas de proteção selecionadas devem satisfazer às especificações legais.
+Favor observar as instruções relativas à permeabilidade e ao tempo de afloramento que
+são fornecidas pelo fornecedor das luvas. Também leve em consideração as condições
+específicas dos locais sob as quais o produto é utilizado, como perigo corte, abrasão e
+tempo de contato.
+As luvas devem ser inspecionadas antes da utilização.
+As luvas devem ser descartadas e substituídas se houver qualquer indicação de
+degradação ou desgaste por produtos químicos.
+• Proteção dos olhos
+Usar óculos de segurança herméticos e resistentes aos produtos químicos.
+Em caso de contato com respingos: Utilizar máscara facial e roupa de proteção.
+• Precauções especiais:
+As pessoas que manipulam diretamente esta substância e aquelas sujeitas à exposição
+eventual devem ser informadas da toxicidade e perigos desta substância e instruídas nos
+procedimentos de segurança e emergência no caso de exposições.
+9. PROPRIEDADES FÍSICO-QUÍMICAS.
+Aspecto: Liquido límpido
+Cor: Incolor
+Odor: Picante
+Limite de odor: 0,2 – 100,1 ppm
+pH: 2,5 em 50 g/l 20 ºC
+ÁCIDO ACÉTICO GLACIAL
+Página 7 de 14
+15/07/2015
+ | 
+ | 
+ | 
+ | 
+Última revisão: 15/07/2015 Rev.: 04
+Ponto de fusão 17°C
+Ponto de ebulição 116 – 118 ºC em 1.013 hPa
+Ponto de fulgor 44,5 ºC-vaso aberto/ 40 ºC–vaso fechado
+Inflambilidade
+(sólido,gás) não aplicável
+Velocidade de
+evaporação: não existem informações disponíveis
+Limites de explosividade: Inferior: 4% (V)
+Superior 19,9% (V)
+Pressão de vapor: 15,4 hPa em 20 °C
+Densidade relativa do ar: 2,07
+Densidade relativa: 1,05 g/cm³ em 20 ºC
+Solubilidade em água: 1.000 g/l em 25 ºC
+Coeficiente de partição
+octanol/água: log Pow: -0,17
+(experimental)
+(Literatura)
+Não se prevê qualquer bio-acumulação
+Temperatura de
+auto-ignição: Não existem informações disponíveis
+Temperatura de
+decomposição: Destilável, sem decomposição
+Risco de explosão: Não classificado como explosivo
+Propriedades
+Oxidantes: Não
+Temperatura de Ignição: 485 ºC
+Viscosidade, cinemática:1,17 m² /s em 20 ºC
+Índice de refração: 1,37 em 20 ºC
+ÁCIDO ACÉTICO GLACIAL
+Página 8 de 14
+15/07/2015
+ | 
+ | 
+ | 
+ | 
+Última revisão: 15/07/2015 Rev.: 04
+10. ESTABILIDADE E REATIVIDADE.
+• Reatividade / Estabilidade química:
+Não existem informações disponíveis.
+• Possibilidade de reações perigosas:
+Não existem informações disponíveis.
+• Condições a serem evitadas:
+Aquecimento
+• Materiais ou substâncias incompatíveis
+Perigo de explosão na presença de: Compostos peroxidados, ácido perclorico, ácido
+sulfúrico fumante, halogenetos de fosforo, peroxido de hidrogênio, óxido de crômio-(VI),
+permanganato de potássio, peróxidos, agentes oxidantes fortes. Risco de inflamação ou
+formação de gases ou vapores inflamáveis com: Metais, Ferro, Zinco, magnésio, aço
+macio. Formação pode ser: Hidrogênio Reações violentas são possíveis com: Soluções
+fortes de hidróxidos alcalinos, anidridos, aldeídos, hidróxidos alcalino, halogenetos de não
+metais, etanolamina, acetaldeído, álcoois, compostos halogênio-halogênio, ácido
+clorossulfurico, hidróxido de potássio, ácido nítrico
+• Produtos perigosos da decomposição:
+Não existem informações disponíveis.
+11. INFORMAÇÕES TOXICOLÓGICAS.
+Informações de acordo com as diferentes vias de exposição
+Toxicidade aguda:
+Via oral
+DL50 ratazana: 3.310 mg/kg (RTECS)
+Sintomas: Se ingerido, queimaduras severas na boca e garganta, assim como perfuração
+do esôfago e do estomago, náusea, vômitos, possível uma insuficiência pulmonar após a
+aspiração do vômito.
+Inalação
+LCLO ratazana: 39,95 mg/l; 4 h (RTECS).
+CL50 ratazana: 11,4 mg/l;/ 4h (IUCLID).
+Sintomas: Irritação nas mucosas, tosse, respiração superficial. Possíveis consequências:
+lesão das vias respiratórias, pneumonia, bronquite. A inalação pode provocar edemas
+pulmonares nas vias respiratórias. Os sintomas podem ser retardados.
+Dérmica
+DL50 coelho: 1.060 mg/kg (IUCLID)
+Irritação na pele coelho
+Resultado: provoca queimaduras. (IUCLID)
+ÁCIDO ACÉTICO GLACIAL
+Página 9 de 14
+15/07/2015
+ | 
+ | 
+ | 
+ | 
+Última revisão: 15/07/2015 Rev.: 04
+Provoca queimaduras graves.
+Lesões oculares graves/irritação ocular
+Olhos - coelho - Irritação ocular
+Causa danos oculares graves. Perigo de cegueira! Perigo de opacificação da córnea.
+Genotoxicidade in vitro
+Teste de Ames
+Salmonella typhimurium
+Resultado: negativo
+(National Toxicology Program)
+Sensibilização respiratória ou cutânea
+Não existem informações disponíveis.
+Mutagenicidade em células germinativas
+Não existem informações disponíveis.
+Carcinogenicidade
+IARC: Nenhum componente deste produto presente a níveis maiores ou iguais a 0.1% é
+identificado como carcinogénio provável, possível ou confirmado pelo IARC.
+Toxicidade a reprodução e lactação
+Esta informação não está disponível
+Toxicidade sistêmica de órgão-alvo específico – exposição única.
+A substância ou mistura não esta classificada como um tóxico especifico com alvo de
+órgão, exposição singular.
+Toxicidade sistêmica de órgão-alvo específico – exposição repetida.
+A substância ou mistura não está classificada como um tóxico específico com alvo de
+órgão, exposição repetida.
+Perigo por aspiração
+Os critérios de classificação não foram satisfeitos com respeito aos dados disponíveis.
+Informações complementares
+Os critérios de classificação não foram satisfeitos com respeito aos dados disponíveis.
+Respiração superficial, espasmos gástricos, choque, colapso circulatório, acidose.
+Possíveis consequências: danos no rim.
+Manusear de acordo com as boas práticas industriais de higiene e segurança.
+12. INFORMAÇÕES ECOLÓGICAS.
+Toxicidade
+Toxicidade para os peixes
+ÁCIDO ACÉTICO GLACIAL
+Página 10 de 14
+15/07/2015
+ | 
+ | 
+ | 
+ | 
+Última revisão: 15/07/2015 Rev.: 04
+CL50 Lepomis macrochirus (Peixe lua): 75 mg/l; 96 h (Literatura).
+Toxicidade em dafnias e outros invertebrados aquáticos
+EC5 E.sulcatum: 78 mg/l; 72 h neutro (concentração limite toxica) (Literatura).
+CE50 Daphnia magma: 47 mg/l; 24 h (Literatura).
+Toxicidade para algas
+IC5 Scenedesmus quadricauda (alga verde): 4.000 mg/l; 16 h (concentração limite tóxica)
+(Literatura).
+Toxicidade para as bactérias
+EC5 Pseudomonas putida: 2.850 mg/l; 16 h neutro (concentração limite tóxica)
+(Literatura).
+CE50 Photobacterium phosphoreum: 11 mg/l; 15 min test microtox (IUCLID).
+Persistência e degradabilidade
+Biodegradabilidade
+99 %; 30 d
+OECD TG 301 D
+(HSDB)
+Rapidamente biodegradável.
+95 %; 5 d
+OECD TG 302 B
+Eliminado rapidamente da água
+Demanda Bioquímica de oxigênio (DBO)
+880 mg/g (5d)
+(Literatura)
+Ratio BOS/ThBOD
+CBO5 76%
+(IUCLID)
+Potencial bioacumulativo
+Coeficiente de partição (n-octanol/água)
+Log Pow: -0,17
+(experimental)
+(Literatura)
+Não se prevê qualquer bio-acumulação.
+Mobilidade no solo
+Não existem informações disponíveis.
+Resultados das avaliação PBT e vPvB
+Avaliação de PBT/vPvB não realizada uma vez que a avaliação de segurança química
+não é exigida/não foi realizada.
+ÁCIDO ACÉTICO GLACIAL
+Página 11 de 14
+15/07/2015
+ | 
+ | 
+ | 
+ | 
+Última revisão: 15/07/2015 Rev.: 04
+Outros efeitos adversos
+Informações ecológicas adicionais
+Efeitos biológicos:
+Efeito prejudicial nos organismos aquáticos. Efeito prejudicial devido à mudança do pH.
+Caustico mesmo na forma diluída.
+Informações complementares sobre a ecologia.
+A descarga no meio ambiente deve ser evitada
+13. CONDIÇÕES SOBRE TRATAMENTO E DISPOSIÇÃO.
+13.1 - Métodos recomendados para destinação final:
+- Produto: Seguir as normas locais do controle do meio ambiente ou incinerar
+- Restos de produtos: Recolher e armazenar adequadamente o produto derramado para
+posterior reutilização ou incineração
+- Embalagem usada: Devem ser eliminadas de acordo com as normas locais do controle
+do meio ambiente ou incinerar.
+14. INFORMAÇÕES SOBRE TRANSPORTE.
+Regulamentações nacionais e internacionais: O produto deve ser transportado com os
+cuidados necessários a não danificar as embalagens, com consequente perda do produto,
+resguardando as normas e legislação vigentes para transporte da substância.
+Terrestres:
+Número ONU: 2789
+Nome apropriado para embarque: ÁCIDO ACÉTICO, GLACIAL.
+Classe de risco: 8
+Número de risco: 83
+Grupo de embalagem: II
+Perigo ao meio ambiente: Inflamável
+Hidroviário:
+Número ONU: 2789
+Nome apropriado para embarque: ÁCIDO ACÉTICO, GLACIAL.
+Classe de risco: 8
+Número de risco: 83
+Grupo de embalagem: II
+Perigo ao meio ambiente: Inflamável
+Aéreo:
+Número ONU: 2789
+Nome apropriado para embarque: ACETIC ACID, GLACIAL.
+Classe de risco: 8
+Número de risco: 83
+ÁCIDO ACÉTICO GLACIAL
+Página 12 de 14
+15/07/2015
+ | 
+ | 
+ | 
+ | 
+Última revisão: 15/07/2015 Rev.: 04
+Grupo de embalagem: II
+Perigo ao meio ambiente: Inflamável
+15. REGULAMENTAÇÕES.
+Regulamentações específicas para o produto químico:
+Regulamentações específicas de segurança, saúde e meio ambiente para o produto
+químico:
+Legislação nacional
+Classe de armazenagem 8 - 3
+Avaliação de segurança química
+Não é realizada avaliação de segurança química para este produto.
+16. OUTRAS INFORMAÇÕES.
+Esta FISPQ foi elaborada baseada nos conhecimentos atuais do produto químico e
+fornece informações quanto à proteção, à segurança, à saúde e ao meio ambiente.
+Adverte-se que o manuseio de qualquer substância química requer o conhecimento
+prévio de seus perigos pelo usuário. Cabe à empresa usuária do produto promover o
+treinamento de seus empregados e contratados quanto aos possíveis riscos advindos do
+produto.
+Texto completo das Declarações H.
+H226 Líquidos e vapores inflamáveis.
+H314 Causa queimadura severa à pele e dano aos olhos.
+Texto das frases-R.
+R10 Inflamável.
+R35 Provoca queimaduras graves.
+Nos locais onde se manipulam produtos químicos deverá ser realizado o monitoramento da
+exposição dos trabalhadores, conforme PPRA (Programa de Prevenção de Riscos
+Ambientais) da NR-9. Funcionários que manipulam produtos químicos, em geral, devem ser
+monitorados biologicamente conforme o PCMSO (Programa de Controle Médico de Saúde
+Ocupacional) da NR-7.
+As informações desta FISPQ representam os dados atuais e refletem o nosso conhecimento
+para o manuseio apropriado deste produto sobre condições normais e de acordo com a
+aplicação especifica na embalagem e/ou literatura. Qualquer outro uso que envolva o uso
+combinado com outro produto ou outros processos é de responsabilidade do usuário.
+Referências:
+ÁCIDO ACÉTICO GLACIAL
+Página 13 de 14
+15/07/2015
+ | 
+ | 
+ | 
+ | 
+Última revisão: 15/07/2015 Rev.: 04
+Os dados desta ficha foram baseados nas fichas de informações de produtos de nossos
+fornecedores.
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 14725-4 Produtos químicos –
+Informações sobre segurança, saúde e meio ambiente. Parte 4: Ficha de informações de
+segurança de produtos químicos (FISPQ) – Rio de Janeiro, 2012. 25 p.
+Centros de Informações Toxicológicas
+Belo Horizonte - Serviço de Toxicologia de Minas Gerais - Hospital João XXIII
+Fone: (31) 3239.9224/3239.9223 (Hospital) (31) 3239-9308 / 3224-4000 (Tel. CIT) Fax: : (31)
+3239.9260(CIT)
+Porto Alegre - Centro de Informações Toxicológicas do Rio Grande do Sul
+Fone: (51) 3217.1751 (Tel. CIT) Fax: (51) 3217.9067 Atendimento: 0800 78 02 00
+Recife - Centro de Assistência Toxicológica de Pernambuco - Hospital da Restauração - 1º
+andar Fone: (81) 3421.5444 R. 151 (Tel. Hospital) Fax: (81) 3421.5927 / 3423-8263
+Rio de Janeiro - Centro de Controle de Intoxicações do Rio de Janeiro -Hospital Universitário
+Clementino Fraga Filho Fone: (21) 2573.3244/2290-3344 (Tel. CIT) - Fax: (21) 2573-7079
+(CIT)
+Salvador - Centro de Informações Anti-Veneno da Bahia - CIAVE - Hospital Geral Roberto
+Santos Fone: (71) 387.3414/387-4343 e 0800 284 43 43 Fax: (71) 387.3414
+São Paulo - Centro de Controle de Intoxicações de São Paulo - Hospital Municipal Dr. Artur
+Ribeiro de Saboya Fone/Fax: (11) 5012/2399 (Tel. CIT) (11) 5012-5311 (atendimento
+médico) Atendimento: 0800 771 37 33
+Para mais informações visite o site: http://www.anvisa.gov.br/toxicologia/centros.htm
+Legendas e abreviaturas
+NT = Não existe o registro
+ND = Não determinado/Não disponível
+NA = Não aplicável
+ÁCIDO ACÉTICO GLACIAL
+Página 14 de 14
+15/07/2015

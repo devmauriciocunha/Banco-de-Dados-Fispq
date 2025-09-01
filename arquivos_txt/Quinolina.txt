@@ -1,0 +1,592 @@
+Ficha de Informações de Segurança de Produtos
+Químicos - FISPQ
+De acordo com a NBR 14725-4:2014
+Data da revisão 18.10.2016 Versão 4.0
+SEÇÃO 1. Identificação do produto e da empresa
+1.1 Identificador do produto
+No. de catálogo 802407
+Nome do produto Quinolina para síntese
+Número de registro REACH Não há número de registro disponível para essa substância, uma vez
+que a substância ou a utilização da mesma são isentas de registro de
+acordo com o Artigo 2 da norma REACH (CE) No. 1907/2006, a
+tonelagem anual não exige registro ou o registro está previsto para um
+prazo posterior.
+Nº CAS 91-22-5
+1.2 Usos identificados da substância ou mistura e usos não recomendados
+Usos identificados Químico para síntese
+Para informações adicionais sobre os usos, por favor consulte o portal
+Merck Chemicals (www.merckgroup.com).
+1.3 Detalhes do fornecedor da Ficha de Informação de Segurança de Produto Químico - FISPQ
+Empresa Merck S/A * Brasil * Rua Torre Eifell, 100 - Parque Rincão - Gleba A
+Cotia - CEP: 06705-481 - São Paulo - SP * tel/fax: +55 11 3127-7389
+1.4 Número do telefone de Suatrans: : 0800 707 7022 / 0800 17 2020
+emergência
+SEÇÃO 2. Identificação de perigos
+2.1 Classificação da substância ou mistura
+Classificação (de acordo com a ABNT 14725-2)
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com
+Página 1 de 18
+Ficha de Informações de Segurança de Produtos Químicos - FISPQ
+De acordo com a NBR 14725-4:2014
+No. de catálogo 802407
+Nome do produto Quinolina para síntese
+Toxicidade aguda, Categoria 3, Oral, H301
+Toxicidade aguda, Categoria 4, Dérmico, H312
+Irritação da pele, Categoria 2, H315
+Irritação ocular, Categoria 2, H319
+Mutagenicidade em células germinativas, Categoria 2, H341
+Carcinogenicidade, Categoria 1B, H350
+Perigoso ao ambiente aquático – Crônico., Categoria 2, H411
+Para obter o texto completo das frases de perigo mencionadas nesta seção, consulte a seção 16.
+2.2 Elementos do rótulo
+Rotulagem (de acordo com a ABNT 14725-2)
+Pictogramas de risco
+Palavra de advertência
+Perigo
+Frases de perigo
+H350 Pode provocar câncer.
+H301 Tóxico se ingerido.
+H312 Nocivo em contato com a pele.
+H315 Provoca irritação à pele.
+H319 Provoca irritação ocular grave.
+H341 Suspeito de provocar defeitos genéticos.
+H411 Tóxico para os organismos aquáticos, com efeitos prolongados.
+Frases de precaução
+Prevenção
+P201 Obtenha instruções específicas antes da utilização.
+P273 Evite a liberação para o meio ambiente.
+Resposta de emergência
+P302 + P352 EM CASO DE CONTATO COM A PELE: Lave com água e sabão em abundância.
+P305 + P351 + P338 EM CASO DE CONTATO COM OS OLHOS: Enxágue cuidadosamente com
+água durante vários minutos. No caso de uso de lentes de contato, remova-as, se for fácil. Continue
+enxaguando.
+P308 + P310 EM CASO DE exposição ou suspeita de exposição: Contacte imediatamente um
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com
+Página 2 de 18
+Nome químico (Concentração) | | | | | | | 
+Nº CAS | | | Número de registo | | | Classificação | 
+Ficha de Informações de Segurança de Produtos Químicos - FISPQ
+De acordo com a NBR 14725-4:2014
+No. de catálogo 802407
+Nome do produto Quinolina para síntese
+CENTRO DE INFORMAÇÃO ANTIVENENOS ou um médico.
+Restrita ao uso por profissionais.
+Rótulagem reduzida (≤125 ml)
+Pictogramas de risco
+Palavra de advertência
+Perigo
+Frases de perigo
+H350 Pode provocar câncer.
+H301 Tóxico se ingerido.
+H341 Suspeito de provocar defeitos genéticos.
+Frases de precaução
+P201 Obtenha instruções específicas antes da utilização.
+P308 + P310 EM CASO DE exposição ou suspeita de exposição: Contacte imediatamente um CENTRO DE
+INFORMAÇÃO ANTIVENENOS ou um médico.
+Nº CAS 91-22-5
+2.3 Outros perigos
+Não conhecidos.
+SEÇÃO 3. Composição e informações sobre os ingredientes
+3.1 Substância
+Fórmula C₉H₇N (Hill)
+N° CE 202-051-6
+Massa molar 129,16 g/mol
+Componentes perigosos (de acordo com a ABNT 14725-2)
+Nome químico (Concentração)
+Nº CAS Número de registo Classificação
+quinoline (>= 50 % - <= 100 % )
+91-22-5 *)
+Toxicidade aguda, Categoria 3, H301
+Toxicidade aguda, Categoria 4, H312
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com
+Página 3 de 18
+Ficha de Informações de Segurança de Produtos Químicos - FISPQ
+De acordo com a NBR 14725-4:2014
+No. de catálogo 802407
+Nome do produto Quinolina para síntese
+Irritação da pele, Categoria 2, H315
+Irritação ocular, Categoria 2, H319
+Mutagenicidade em células germinativas, Categoria 2, H341
+Carcinogenicidade, Categoria 1B, H350
+Perigoso ao ambiente aquático – Crônico., Categoria 2, H411
+*) Não há número de registro disponível para essa substância, uma vez que a substância ou a utilização da mesma são isentas de
+registro de acordo com o Artigo 2 da norma REACH (CE) No. 1907/2006, a tonelagem anual não exige registro ou o registro está
+previsto para um prazo posterior.
+Para obter o texto completo das frases de perigo mencionadas nesta seção, consulte a seção 16.
+3.2 Mistura
+Não aplicável
+SEÇÃO 4. Medidas de primeiros-socorros
+4.1 Descrição das medidas de primeiros-socorros
+Recomendação geral
+O prestador de primeiros socorros deve se proteger.
+Depois de inalar: Exposição ao ar fresco. Chamar um médico.
+No caso dum contacto com a pele: Retire imediatamente toda a roupa contaminada. Enxaguar a
+pele com água e tomar banho de chuveiro. Chamar o médico imediatamente .
+Após contacto com os olhos: Enxaguar abundantemente com água. Consultar um
+oftalmologista.
+Se ingerido: dar água a beber (dois copos no máximo). Consultar um médico imediatamente.
+Apenas em casos excepcionais , se o cuidado médico não estiver disponível numa hora, induzir
+o vómito (apenas em pessoas que estejam bem acordadas e conscientes), administrar carvão
+activado (20 - 40 g numa pasta a 10% ) e consultar o médico assim que possível.
+4.2 Sintomas e efeitos mais importantes, agudos e retardados
+efeitos irritantes, Tosse, Respiração superficial, Vertigem, Febre, colapso, Convulsões,
+contração muscular
+4.3 Indicação da atenção médica imediata e do tratamento especial necessário
+Não existem informações disponíveis.
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com
+Página 4 de 18
+Ficha de Informações de Segurança de Produtos Químicos - FISPQ
+De acordo com a NBR 14725-4:2014
+No. de catálogo 802407
+Nome do produto Quinolina para síntese
+SEÇÃO 5. Medidas de combate a incêndio
+5.1 Meios de extinção
+Meios adequados de extinção
+Água, Espuma, Dióxido de carbono (CO2), Pó seco
+Agentes de extinção inadequados
+Nenhuma limitação de agentes extintores é dada para essa substância/mist ura.
+5.2 Riscos especiais resultantes da substância ou da mistura
+Combustível.
+Os vapores são mais pesados que o ar e podem espalhar-se junto ao solo.
+Em caso de forte aquecimento podem formar-se misturas explosivas com o ar.
+Em caso de incêndio formam-se gases inflamáveis e vapores perigosos.
+Um incêndio pode provocar o desenvolvimento de:
+óxido nítrico, gases nitrosos
+5.3 Precauções para bombeiros
+Equipamentos especiais para proteção das pessoas envolvidas no combate a incêndio.
+Não ficar na zona de perigo sem aparelhos respiratórios autónomos apropriados para
+respiração independente do ambiente. De forma a evitar o contacto com a pele, mantenha uma
+distância de segurança e utilize vestuário protetor adequado.
+Informações complementares
+Suprimir (abater) com jatos de água os gases, vapores e névoas. Evitar a contaminação da
+água de superfície e da água subterrânea com a água de combate a incêndios.
+SEÇÃO 6. Medidas de controle para derramamento ou vazamento
+6.1 Precauções pessoais, equipamentos de proteção e procedimentos de emergência
+Recomendações para pessoal não envolvido com emergências: Não respirar vapores nem
+aerossóis. Evitar o contacto com a substância. Assegurar ventilação adequada. Evacuar a área
+de perigo, observar os procedimentos de emergência, consu ltar um especialista.
+Recomendações para atendentes de emergências:
+Equipamento protetor, vide seção 8.
+6.2 Precauções ambientais
+Não permitir a entrada do produto nos esgotos.
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com
+Página 5 de 18
+Ficha de Informações de Segurança de Produtos Químicos - FISPQ
+De acordo com a NBR 14725-4:2014
+No. de catálogo 802407
+Nome do produto Quinolina para síntese
+6.3 Métodos e materiais de contenção e limpeza
+Cobrir ralos. Recolher, emendar e bombear vazamentos. Observar as possíveis restrições de
+material (vide seções 7 e 10). Retirar cuidadosamente com material absorvente de líquidos (p.e.
+Chemizorb®). Em seguida junte aos resíduos a tratar. Limpe a área afectada.
+6.4 Consulta a outras seções
+Indicações sobre tratamento de dejetos, vide seção 13
+SEÇÃO 7. Manuseio e armazenamento
+7.1 Precauções para manuseio seguro
+Recomendações para manuseio seguro
+Trabalhar com chaminé. Não inalar a substância/mistura. Evitar a formação de
+vapores/aerossóis.
+Observar os avisos dos rótulos.
+Medidas de higiene
+Mudar imediatamente a roupa contaminada. Profilaxia cutânea. Depois de terminar o trabalho,
+lavar as mãos e a cara.
+7.2 Condições para armazenamento seguro, incluindo incompatibilidades
+Condições de armazenamento
+Herméticamente fechado. Guardar em local bem arejado. Manter fechado ou numa área
+acessível só a pessoas qualificadas ou autorizadas.
+Temperatura recomendada de armazenamento, consulte na etiqueta de produto.
+7.3 Utilizações finais específicas
+Nenhum uso específico é previsto além dos mencionados na sessão 1.2.
+SEÇÃO 8. Controle de exposição e proteção individual
+8.1 Parâmetros de controle
+Não contém substâncias com valores limites de exposição ocupacional.
+8.2 Controles da exposição
+Medidas de controle de engenharia
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com
+Página 6 de 18
+Ficha de Informações de Segurança de Produtos Químicos - FISPQ
+De acordo com a NBR 14725-4:2014
+No. de catálogo 802407
+Nome do produto Quinolina para síntese
+Medidas técnicas e operações de trabalho adequadas devem ter prioridade sobre o uso de
+equipamento de proteção pessoal.
+Vide seção 7.1.
+Medidas de proteção individual
+As características dos meios de protecção para o corpo devem ser seleccionadas em função da
+concentração e da quantidade das substâncias tóxicas de acordo com as condições específicas
+do local de trabalho. A resistência dos meios de protecção aos agentes químicos deve ser
+esclarecida junto dos fornecedores.
+Proteção para a pele/olhos
+Óculos de segurança
+Proteção das mãos
+contacto total:
+Substância da luva: borracha butílica
+Espessura da luva: 0,7 mm
+Pausa: > 480 min
+contacto com salpicos:
+Substância da luva: látex natural
+Espessura da luva: 0,6 mm
+Pausa: > 10 min
+As luvas de protecção a usar têm que obedecer às especificações da directiva EC 89/686/EEC
+e do padrão resultante EN374, por exemplo KCL 898 Butoject® (contacto total), KCL 706
+Lapren® (contacto com salpicos).
+As ruturas acima descritas foram determinadas pelo KCL em testes de laboratório seg. a EN374
+com amostras dos tipos de luvas recomendados.
+Esta recomendação aplica-se apenas ao produto descrito na ficha de dados de segurança por
+nós fornecida bem como para a aplicação especificada.Quando houver dissolução ou mistura
+com outras substâncias e sob as devidas condições houver desvios aos descritos na EN374 por
+favor contactar o fornecedor de luvas com marcação CE (ex: KCL GmbH, D-36124 Eichenzell,
+Internet: www.kcl.de).
+Outro equipamento de protecção
+roupa de proteção
+Proteção respiratória
+necessário em caso de formação de vapores/aerossóis.
+Tipo de Filtro recomendado: flitro ABEK
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com
+Página 7 de 18
+Ficha de Informações de Segurança de Produtos Químicos - FISPQ
+De acordo com a NBR 14725-4:2014
+No. de catálogo 802407
+Nome do produto Quinolina para síntese
+O empresário deve assegurar que a manutenção, limpeza e teste dos dispositivos de proteção
+respiratória sejam executados de acordo com as instruções do produtor. Estas medidas devem
+ser adequadamente documentadas.
+Controles de riscos ambientais
+Não permitir a entrada do produto nos esgotos.
+SEÇÃO 9. Propriedades físicas e químicas
+9.1 Informações sobre propriedades físico-químicas básicas
+Estado físico líquido
+Cor incolor
+até
+amarelo-claro
+Odor pungente
+Limite de Odor Não existem informações disponíveis.
+pH 7,3
+em 5 g/l
+20 °C
+Ponto de fusão -15 °C
+Ponto de ebulição inicial e faixa 237 - 238 °C
+de temperatura de ebulição em 1.013 hPa
+Ponto de fulgor 107 °C
+Método: c.c.
+Taxa de evaporação Não existem informações disponíveis.
+Inflamabilidade (sólido, gás) Não existem informações disponíveis.
+Limite inferior de explosividade 1,2 %(V)
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com
+Página 8 de 18
+Ficha de Informações de Segurança de Produtos Químicos - FISPQ
+De acordo com a NBR 14725-4:2014
+No. de catálogo 802407
+Nome do produto Quinolina para síntese
+Limite superior de explosividade 7 %(V)
+pressão de vapor 11 Pa
+em 25 °C
+Método: Diretriz de Teste de OECD 104
+Densidade relativa do vapor 4,5
+Densidade 1,09 g/cm3
+em 25 °C
+Densidade relativa Não existem informações disponíveis.
+Solubilidade em água 6 g/l
+em 20 °C
+Coeficiente de partição (n- log Pow: 2,03
+octanol/água) Diretriz de Teste de OECD 107
+Não se prevê qualquer bio-acumulação. (Literatura)
+Temperatura de autoignição 480 °C
+Temperatura de decomposição Não existem informações disponíveis.
+Viscosidade, dinâmica 3,375 mPa.s
+em 25 °C
+Método: ASTM D 445
+Riscos de explosão Não classificado como explosivo.
+Propriedades oxidantes não
+9.2 Outras informações
+não
+SEÇÃO 10. Estabilidade e reatividade
+10.1 Reatividade
+Em caso de forte aquecimento podem formar-se misturas explosivas com o ar.
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com
+Página 9 de 18
+Ficha de Informações de Segurança de Produtos Químicos - FISPQ
+De acordo com a NBR 14725-4:2014
+No. de catálogo 802407
+Nome do produto Quinolina para síntese
+Uma gama de aproximadamente 15 Kelvin abaixo do ponto flash é considerada como crítica.
+10.2 Estabilidade química
+O produto é quimicamente estável em condições ambientes padrão (temperat ura ambiente).
+10.3 Possibilidade de reações perigosas
+Reacção exotérmica com:
+percromatos, dióxido de azoto, anidridos, Acidos fortes, Agentes oxidantes fortes
+Perigo de explosão am presença de:
+peróxido de hidrogénio
+10.4 Condições a serem evitadas
+Forte aquecimento.
+10.5 Materiais incompatíveis
+não existem indicações
+10.6 Produtos de decomposição perigosa
+em caso de incêndio: vide o capítulo 5°.
+SEÇÃO 11. Informações toxicológicas
+11.1 Informações sobre efeitos toxicológicos
+Toxicidade aguda oral
+DL50 Ratazana: 262 mg/kg
+Diretriz de Teste de OECD 401
+Sintomas: Náusea, Vômitos, Distúrbios gastro-intestinais
+Toxicidade aguda - Inalação
+Sintomas: Possiveis concequências:, irritação das mucosas
+Toxicidade aguda - Dérmica
+DL50 Ratazana: 1.377 mg/kg
+Diretriz de Teste de OECD 402
+absorção
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com
+Página 10 de 18
+Ficha de Informações de Segurança de Produtos Químicos - FISPQ
+De acordo com a NBR 14725-4:2014
+No. de catálogo 802407
+Nome do produto Quinolina para síntese
+Irritação da pele
+Coelho
+Resultado: irritante
+(ECHA)
+Provoca irritação à pele.
+Irritação nos olhos
+Coelho
+Resultado: Irritações severas
+(ECHA)
+Provoca irritação ocular grave.
+Sensibilização
+Local lymph node assay (LLNA) Rato
+Resultado: negativo
+Método: Diretriz de Teste de OECD 429
+Mutagenicidade em células germinativas
+Genotoxicidade in vivo
+Teste de micronúcleo
+Rato
+macho
+Injeção intraperitoneal
+Medula óssea
+Resultado: positivo
+(ECHA)
+Genotoxicidade in vitro
+Mutagenicidade(teste em célula de mamifero): aberração de cromossomas.
+Célular ovarianas de hamster chinês
+Resultado: Foram obtidos resultados positivos em alguns testes in vitro.
+(ECHA)
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com
+Página 11 de 18
+Ficha de Informações de Segurança de Produtos Químicos - FISPQ
+De acordo com a NBR 14725-4:2014
+No. de catálogo 802407
+Nome do produto Quinolina para síntese
+Teste de Ames
+Salmonella typhimurium
+Resultado: Foram obtidos resultados positivos em alguns testes in vitro.
+(ECHA)
+teste de troca de cromátides irmãs
+Célular ovarianas de hamster chinês
+Resultado: Foram obtidos resultados positivos em alguns testes in vitro.
+(ECHA)
+Teste de mutação de genes em células de mamíferos in vitro
+Mouse lymphoma test
+Resultado: positivo
+(ECHA)
+Carcinogenicidade
+Esta informação não está disponível.
+Toxicidade à reprodução
+Esta informação não está disponível.
+Teratogenicidade
+Esta informação não está disponível.
+Efeitos carcinogênicos, mutagênicos e tóxicos à reprodução
+Carcinogenicidade:
+Pode provocar câncer.
+Mutagenicidade:
+Suspeito de provocar defeitos genéticos.
+Toxicidade sistêmica de órgão-alvo específico - exposição única
+Esta informação não está disponível.
+Toxicidade sistêmica de órgão-alvo específico - exposição repetida
+Esta informação não está disponível.
+Perigo por aspiração.
+Esta informação não está disponível.
+11.2 Informações complementares
+Após absorção.
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com
+Página 12 de 18
+Ficha de Informações de Segurança de Produtos Químicos - FISPQ
+De acordo com a NBR 14725-4:2014
+No. de catálogo 802407
+Nome do produto Quinolina para síntese
+Sintomas possíveis:
+Febre, contração muscular, Vertigem, colapso, Convulsões
+A absorção pode causar as seguintes lesões:
+Fígado, Rim, Sistema nervoso central
+Outras propriedades perigosas não podem ser excluídas.
+Esta substância deve ser manuseada com cuidado especial.
+SEÇÃO 12. Informações ecológicas
+12.1 Toxicidade
+Toxicidade para os peixes
+Ensaio semiestático CL50 Poecilia reticulata (Guppi): 29,9 mg/l; 96 h
+Monitoramento analítico: sim
+Diretriz de Teste de OECD 203
+Toxicidade em daphnias e outros invertebrados aquáticos.
+Imobilização CE50 Daphnia magna (pulga d'água ou dáfnia): 51,3 mg/l; 48 h
+Diretrizes para o teste 202 da OECD
+Toxicidade para as algas
+Inibição do crescimento CE50r Chlorella pyrenoidosa (chorella): 74 mg/l; 72 h
+Monitoramento analítico: sim
+Diretrizes para o teste 201 da OECD
+Inibição do crescimento NOEC Chlorella pyrenoidosa (chorella): 30 mg/l; 72 h
+Monitoramento analítico: sim
+Diretrizes para o teste 201 da OECD
+Toxicidade para as bactérias
+Inibição da respiração CE50 lodo activado: 243 mg/l; 3 h
+OECD TG 209
+Toxicidade em daphnias e outros invertebrados aquáticos. (Toxicidade crônica)
+Teste de reprodução NOEC Daphnia magna (pulga d'água ou dáfnia): 0,8 mg/l; 21 d
+Monitoramento analítico: sim
+(ECHA)
+12.2 Persistência e degradabilidade
+Não existem informações disponíveis.
+12.3 Potencial bioacumulativo
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com
+Página 13 de 18
+Ficha de Informações de Segurança de Produtos Químicos - FISPQ
+De acordo com a NBR 14725-4:2014
+No. de catálogo 802407
+Nome do produto Quinolina para síntese
+Coeficiente de partição (n-octanol/água)
+log Pow: 2,03
+Diretriz de Teste de OECD 107
+Não se prevê qualquer bio-acumulação. (Literatura)
+12.4 Mobilidade no solo
+Não existem informações disponíveis.
+12.5 Resultados da avaliação PBT e vPvB
+Avaliação de PBT/vPvB não realizada uma vez que a avaliação de segurança química não é
+exigida/não foi realizada.
+12.6 Outros efeitos adversos
+Constante de Henry
+0,47 Pa*m³/mol
+em 20 °C
+Método: (calculado)
+Tensão superficial
+45 mN/m
+em 20 °C
+Informações ecológicas adicionais
+A descarga no meio ambiente deve ser evitada.
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com
+Página 14 de 18
+Ficha de Informações de Segurança de Produtos Químicos - FISPQ
+De acordo com a NBR 14725-4:2014
+No. de catálogo 802407
+Nome do produto Quinolina para síntese
+SEÇÃO 13. Considerações sobre tratamento e disposição
+Métodos de tratamento de resíduos
+Os dejetos devem ser descartados em conformidade com regulamentações nacionais e locais.
+Mantenha as substâncias químicas em seus recipientes originais. Não misturar com outros
+dejetos. O manuseio de recipientes sujos deve ser realizado da mesma forma que o do produto
+em si.
+As frases de perigo e de precaução apresentadas no rótulo também se aplicam a qualquer
+resíduo deixado na embalagem. A disposição não controlada ou reciclagem desta embalagem
+não é permitida e pode ser perigosa.
+Deve ser incinerado em instalação de incineração adequada pelas autoridades competentes.
+SEÇÃO 14. Informações sobre transporte
+Transporte terrestre (ADR/RID)
+14.1 Número ONU UN 2656
+14.2 Nome apropriado para QUINOLINE
+embarque
+14.3 Classe de risco 6.1
+14.4 Grupo de embalagem III
+14.5 Perigoso para o meio sim
+ambiente
+14.6 Precauções especiais para sim
+os usuários
+Código de restrição para túneis E
+Transporte fluvial (ADN)
+Não relevante
+Transporte aéreo (IATA)
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com
+Página 15 de 18
+Ficha de Informações de Segurança de Produtos Químicos - FISPQ
+De acordo com a NBR 14725-4:2014
+No. de catálogo 802407
+Nome do produto Quinolina para síntese
+14.1 Número ONU UN 2656
+14.2 Nome apropriado para QUINOLINE
+embarque
+14.3 Classe de risco 6.1
+14.4 Grupo de embalagem III
+14.5 Perigoso para o meio sim
+ambiente
+14.6 Precauções especiais para não
+os usuários
+Transporte marítimo (IMDG)
+14.1 Número ONU UN 2656
+14.2 Nome apropriado para QUINOLINE
+embarque
+14.3 Classe de risco 6.1
+14.4 Grupo de embalagem III
+14.5 Perigoso para o meio sim
+ambiente
+14.6 Precauções especiais para sim
+os usuários
+EmS F-A S-A
+14.7 Transporte em massa de acordo com o Anexo II de MARPOL 73/78 e do Código IBC
+Não relevante
+SEÇÃO 15. Regulamentações
+15.1 Normas de segurança, saúde e ambientais específicas para a substância ou mistura
+Legislação nacional
+Classe de armazenagem 6.1C
+15.2 Avaliação de segurança química
+Não foi realizada uma avaliação de segurança química conforme a regulame ntação UE REACH
+Nº 1907/2006 para este produto.
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com
+Página 16 de 18
+Ficha de Informações de Segurança de Produtos Químicos - FISPQ
+De acordo com a NBR 14725-4:2014
+No. de catálogo 802407
+Nome do produto Quinolina para síntese
+SEÇÃO 16. Outras informações
+Texto completo das Declarações H mencionadas nas seções 2 e 3.
+H301 Tóxico se ingerido.
+H312 Nocivo em contato com a pele.
+H315 Provoca irritação à pele.
+H319 Provoca irritação ocular grave.
+H341 Suspeito de provocar defeitos genéticos.
+H350 Pode provocar câncer.
+H411 Tóxico para os organismos aquáticos, com efeitos prolongados.
+Recomendação de treinamento
+Proporcione informações, instruções e treinamento adequados para os operadores.
+Rotulagem
+Pictogramas de risco
+Palavra de advertência
+Perigo
+Frases de perigo
+H301 Tóxico se ingerido.
+H312 Nocivo em contato com a pele.
+H315 Provoca irritação à pele.
+H319 Provoca irritação ocular grave.
+H341 Suspeito de provocar defeitos genéticos.
+H350 Pode provocar câncer.
+H411 Tóxico para os organismos aquáticos, com efeitos prolongados.
+Frases de precaução
+Prevenção
+P201 Obtenha instruções específicas antes da utilização.
+P273 Evite a liberação para o meio ambiente.
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com
+Página 17 de 18
+Ficha de Informações de Segurança de Produtos Químicos - FISPQ
+De acordo com a NBR 14725-4:2014
+No. de catálogo 802407
+Nome do produto Quinolina para síntese
+Resposta de emergência
+P302 + P352 EM CASO DE CONTATO COM A PELE: Lave com água e sabão em abundância.
+P305 + P351 + P338 EM CASO DE CONTATO COM OS OLHOS: Enxágue cuidadosamente com
+água durante vários minutos. No caso de uso de lentes de contato, remova-as, se for fácil. Continue
+enxaguando.
+P308 + P310 EM CASO DE exposição ou suspeita de exposição: Contacte imediatamente um
+CENTRO DE INFORMAÇÃO ANTIVENENOS ou um médico.
+Informações complementares
+Restrita ao uso por profissionais.
+Legenda das abreviações e acrônimos
+As abreviaturas e acrônimos utilizados podem ser consultados em http://w ww.wikipedia.org.
+As indicações baseiam-se no nível actual dos nossos conhecimentos e servem para a caracterização do produto no
+que se refere às medidas de segurança a tomar. Estas indicações não implicam qualquer garantia de propriedades do
+produto descrito.
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com
+Página 18 de 18

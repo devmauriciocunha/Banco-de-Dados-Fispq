@@ -1,0 +1,502 @@
+Ficha de Informações de Segurança de Produtos
+Químicos - FISPQ
+De acordo com a NBR 14725-4:2014
+Data da revisão 19.05.2017 Versão 3.8
+SEÇÃO 1. Identificação do produto e da empresa
+1.1 Identificador do produto
+No. de catálogo 100765
+Nome do produto Ácido bórico 99.9999 Suprapur®
+Número de registro REACH Não há número de registro disponível para essa substância, uma vez
+que a substância ou a utilização da mesma são isentas de registro de
+acordo com o Artigo 2 da norma REACH (CE) No. 1907/2006, a
+tonelagem anual não exige registro ou o registro está previsto para um
+prazo posterior.
+Nº CAS 10043-35-3
+1.2 Usos identificados da substância ou mistura e usos não recomendados
+Usos identificados Reagente para análise
+Para informações adicionais sobre os usos, por favor consulte o portal
+Merck Chemicals (www.merckgroup.com).
+1.3 Detalhes do fornecedor da Ficha de Informação de Segurança de Produto Químico - FISPQ
+Empresa Merck S/A * Brasil * Rua Torre Eifell, 100 - Parque Rincão - Gleba A
+Cotia - CEP: 06705-481 - São Paulo - SP * tel/fax: +55 11 3127-7389
+1.4 Número do telefone de Suatrans: : 0800 707 7022 / 0800 17 2020
+emergência
+SEÇÃO 2. Identificação de perigos
+2.1 Classificação da substância ou mistura
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com
+Página 1 de 17
+Ficha de Informações de Segurança de Produtos
+Químicos - FISPQ
+De acordo com a NBR 14725-4:2014
+No. de catálogo 100765
+Nome do produto Ácido bórico 99.9999 Suprapur®
+Classificação (Perigoso para o meio ambiente)
+Toxicidade à reprodução, Categoria 1B, H360FD
+Para obter o texto completo das frases de perigo mencionadas nesta seção, consulte a seção 16.
+2.2 Elementos do rótulo
+Rotulagem (Perigoso para o meio ambiente)
+Pictogramas de risco
+Palavra de advertência
+Perigo
+Frases de perigo
+H360FD Pode prejudicar a fertilidade. Pode prejudicar o feto.
+Frases de precaução
+Prevenção
+P201 Obtenha instruções específicas antes da utilização.
+Resposta de emergência
+P308 + P313 EM CASO DE exposição ou suspeita de exposição: Consulte um médico.
+Restrita ao uso por profissionais.
+Nº CAS 10043-35-3
+2.3 Outros perigos
+Não conhecidos.
+SEÇÃO 3. Composição e informações sobre os ingredientes
+3.1 Substância
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com
+Página 2 de 17
+ | Nome químico (Concentração) | | | | | | | 
+ | Nº CAS | | | Número de registo | | | Classificação | 
+Ficha de Informações de Segurança de Produtos
+Químicos - FISPQ
+De acordo com a NBR 14725-4:2014
+No. de catálogo 100765
+Nome do produto Ácido bórico 99.9999 Suprapur®
+Fórmula H₃BO₃ BH₃O₃ (Hill)
+N° CE 233-139-2
+Massa molar 61,83 g/mol
+Componentes perigosos (Perigoso para o meio ambiente)
+Nome químico (Concentração)
+Nº CAS Número de registo Classificação
+Boric acid (<= 100 % )
+PBT/vPvB: Não aplicável para substâncias inorgânicas
+10043-35-3 *)
+Toxicidade à reprodução, Categoria 1B, H360FD
+*) Não há número de registro disponível para essa substância, uma vez que a substância ou a utilização da mesma são isentas de
+registro de acordo com o Artigo 2 da norma REACH (CE) No. 1907/2006, a tonelagem anual não exige registro ou o registro está
+previsto para um prazo posterior.
+Para obter o texto completo das frases de perigo mencionadas nesta seção, consulte a seção 16.
+3.2 Mistura
+Não aplicável
+SEÇÃO 4. Medidas de primeiros-socorros
+4.1 Descrição das medidas de primeiros-socorros
+Depois de inalar: Exposição ao ar fresco. Chamar um médico.
+No caso dum contacto com a pele: Retire imediatamente toda a roupa contaminada. Enxaguar a
+pele com água e tomar banho de chuveiro. Consultar um médico.
+Após contacto com os olhos: Enxaguar abundantemente com água. Consultar um
+oftalmologista.
+Após ingestão: fazer a vitima beber imediatamente água ( dois copos no máximo) Consultar um
+médico.
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com
+Página 3 de 17
+Ficha de Informações de Segurança de Produtos
+Químicos - FISPQ
+De acordo com a NBR 14725-4:2014
+No. de catálogo 100765
+Nome do produto Ácido bórico 99.9999 Suprapur®
+4.2 Sintomas e efeitos mais importantes, agudos e retardados
+descida de temperatura, agitação, espasmos, Diarréia, Náusea, Vômitos, Cansaço, ataxia
+(alteração da coordenação motora)
+4.3 Indicação da atenção médica imediata e do tratamento especial necessário
+Não existem informações disponíveis.
+SEÇÃO 5. Medidas de combate a incêndio
+5.1 Meios de extinção
+Meios adequados de extinção
+Adapte as medidas de combate a incêndios às condições locais e ao ambiente que esta situado
+ao seu redor.
+Agentes de extinção inadequados
+Nenhuma limitação de agentes extintores é dada para essa substância/mist ura.
+5.2 Riscos especiais resultantes da substância ou da mistura
+Não combustível.
+Possibilidade de formação de fumos perigosos em case de incêndio nas zonas próximas.
+Um incêndio pode provocar o desenvolvimento de:
+compostos de boro
+5.3 Precauções para bombeiros
+Equipamentos especiais para proteção das pessoas envolvidas no combate a incêndio.
+Não ficar na zona de perigo sem aparelhos respiratórios autónomos apropriados para
+respiração independente do ambiente. De forma a evitar o contacto com a pele, mantenha uma
+distância de segurança e utilize vestuário protetor adequado.
+Informações complementares
+Evitar a contaminação da água de superfície e da água subterrânea com a água de combate a
+incêndios.
+Suprimir (abater) com jatos de água os gases, vapores e névoas.
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com
+Página 4 de 17
+Ficha de Informações de Segurança de Produtos
+Químicos - FISPQ
+De acordo com a NBR 14725-4:2014
+No. de catálogo 100765
+Nome do produto Ácido bórico 99.9999 Suprapur®
+SEÇÃO 6. Medidas de controle para derramamento ou vazamento
+6.1 Precauções pessoais, equipamentos de proteção e procedimentos de emergência
+Recomendações para pessoal não envolvido com emergências: Evitar a inalação de pós. Evitar
+o contacto com a substância. Assegurar ventilação adequada. Evacuar a área de perigo,
+observar os procedimentos de emergência, consu ltar um especialista.
+Recomendações para atendentes de emergências: Equipamento protetor, vide seção 8.
+6.2 Precauções ambientais
+Não permitir a entrada do produto nos esgotos.
+6.3 Métodos e materiais de contenção e limpeza
+Cobrir ralos. Recolher, emendar e bombear vazamentos.
+Observar as possíveis restrições de material (vide seções 7 e 10).
+Absorver com cuidado. Proceder à eliminação de resíduos. Limpeza posterior. Evitar a fromação
+de pós.
+6.4 Consulta a outras seções
+Indicações sobre tratamento de dejetos, vide seção 13
+SEÇÃO 7. Manuseio e armazenamento
+7.1 Precauções para manuseio seguro
+Recomendações para manuseio seguro
+Observar os avisos dos rótulos.
+Trabalhar com chaminé. Não inalar a substância/mistura.
+Medidas de higiene
+Mudar imediatamente a roupa contaminada. Profilaxia cutânea. Depois de terminar o trabalho,
+lavar as mãos e a cara.
+7.2 Condições para armazenamento seguro, incluindo incompatibilidades
+Condições de armazenamento
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com
+Página 5 de 17
+Ficha de Informações de Segurança de Produtos
+Químicos - FISPQ
+De acordo com a NBR 14725-4:2014
+No. de catálogo 100765
+Nome do produto Ácido bórico 99.9999 Suprapur®
+Herméticamente fechado. Em local seco. Guardar em local bem arejado. Manter fechado ou
+numa área acessível só a pessoas qualificadas ou autorizadas.
+Temperatura recomendada de armazenamento, consulte na etiqueta de produto.
+7.3 Utilizações finais específicas
+Nenhum uso específico é previsto além dos mencionados na sessão 1.2.
+SEÇÃO 8. Controle de exposição e proteção individual
+8.1 Parâmetros de controle
+Boric acid (10043-35-3)
+BR OEL Short Term Exposure 6 mg/m³ Forma de exposição: Inhalable fraction.
+Limit (STEL):
+Média ponderada no 2 mg/m³ Forma de exposição: Inhalable fraction.
+tempo (TWA):
+8.2 Controles da exposição
+Medidas de controle de engenharia
+Medidas técnicas e operações de trabalho adequadas devem ter prioridade sobre o uso de
+equipamento de proteção pessoal.
+Vide seção 7.1.
+Medidas de proteção individual
+As características dos meios de protecção para o corpo devem ser seleccionadas em função da
+concentração e da quantidade das substâncias tóxicas de acordo com as condições específicas
+do local de trabalho. A resistência dos meios de protecção aos agentes químicos deve ser
+esclarecida junto dos fornecedores.
+Proteção para a pele/olhos
+Óculos de segurança
+Proteção das mãos
+contacto total:
+Substância da luva: Borracha nitrílica
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com
+Página 6 de 17
+Ficha de Informações de Segurança de Produtos
+Químicos - FISPQ
+De acordo com a NBR 14725-4:2014
+No. de catálogo 100765
+Nome do produto Ácido bórico 99.9999 Suprapur®
+Espessura da luva: 0,11 mm
+Pausa: > 480 min
+contacto com salpicos:
+Substância da luva: Borracha nitrílica
+Espessura da luva: 0,11 mm
+Pausa: > 480 min
+As luvas de protecção a usar têm que obedecer às especificações da directiva EC 89/686/EEC
+e do padrão resultante EN374, por exemplo KCL 741 Dermatril® L (contacto total), KCL 741
+Dermatril® L (contacto com salpicos).
+As ruturas acima descritas foram determinadas pelo KCL em testes de laboratório seg. a EN374
+com amostras dos tipos de luvas recomendados.
+Esta recomendação aplica-se apenas ao produto descrito na ficha de dados de segurança por
+nós fornecida bem como para a aplicação especificada.Quando houver dissolução ou mistura
+com outras substâncias e sob as devidas condições houver desvios aos descritos na EN374 por
+favor contactar o fornecedor de luvas com marcação CE (ex: KCL GmbH, D-36124 Eichenzell,
+Internet: www.kcl.de).
+Outro equipamento de protecção
+roupa de proteção
+Proteção respiratória
+necessário em caso de formação de pós.
+Tipo de Filtro recomendado: Filtro P 3
+O empresário deve assegurar que a manutenção, limpeza e teste dos dispositivos de proteção
+respiratória sejam executados de acordo com as instruções do produtor. Estas medidas devem
+ser adequadamente documentadas.
+Controles de riscos ambientais
+Não permitir a entrada do produto nos esgotos.
+SEÇÃO 9. Propriedades físicas e químicas
+9.1 Informações sobre propriedades físico-químicas básicas
+Estado físico sólido
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com
+Página 7 de 17
+Ficha de Informações de Segurança de Produtos
+Químicos - FISPQ
+De acordo com a NBR 14725-4:2014
+No. de catálogo 100765
+Nome do produto Ácido bórico 99.9999 Suprapur®
+Cor branco
+Odor inodoro
+Limite de Odor Não aplicável
+pH 3,8 - 4,8
+em 33 g/l
+20 °C
+Ponto de fusão Não aplicável, (decomposição)
+Ponto de ebulição Não existem informações disponíveis.
+Ponto de fulgor Não aplicável
+Taxa de evaporação Não existem informações disponíveis.
+Inflamabilidade (sólido, gás) O produto não é inflamável.
+Inflamabilidade (sólidos)
+Limite inferior de explosividade Não aplicável
+Limite superior de explosividade Não aplicável
+pressão de vapor < 1 Pa
+em 25 °C
+Método: Diretriz de Teste de OECD 104
+Densidade relativa do vapor Não existem informações disponíveis.
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com
+Página 8 de 17
+Ficha de Informações de Segurança de Produtos
+Químicos - FISPQ
+De acordo com a NBR 14725-4:2014
+No. de catálogo 100765
+Nome do produto Ácido bórico 99.9999 Suprapur®
+Densidade 1,489 g/cm3
+em 23 °C
+Método: Diretriz de Teste de OECD 109
+Densidade relativa Não existem informações disponíveis.
+Solubilidade em água 49,2 g/l
+em 20 °C
+Método: Diretriz de Teste de OECD 105
+Coeficiente de partição (n- log Pow: -1,09 (22 °C)
+octanol/água) Diretriz de Teste de OECD 107
+Não se prevê qualquer bio-acumulação.
+Temperatura de autoignição Não existem informações disponíveis.
+Temperatura de decomposição 70 °C
+Viscosidade, dinâmica Não existem informações disponíveis.
+Riscos de explosão Não classificado como explosivo.
+Propriedades oxidantes não
+9.2 Outras informações
+Temperatura de ignição não combustível
+Densidade aparente ca.400 - 600 kg/m3
+SEÇÃO 10. Estabilidade e reatividade
+10.1 Reatividade
+Vide seção 10.3.
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com
+Página 9 de 17
+Ficha de Informações de Segurança de Produtos
+Químicos - FISPQ
+De acordo com a NBR 14725-4:2014
+No. de catálogo 100765
+Nome do produto Ácido bórico 99.9999 Suprapur®
+10.2 Estabilidade química
+higroscópico
+10.3 Possibilidade de reações perigosas
+Perigo de explosão am presença de:
+Anidrido acético
+Reacções violentas são possiveis com:
+oxidantes fortes, Bases
+10.4 Condições a serem evitadas
+não existem indicações
+10.5 Materiais incompatíveis
+não existem indicações
+10.6 Produtos de decomposição perigosa
+em caso de incêndio: vide o capítulo 5°.
+SEÇÃO 11. Informações toxicológicas
+11.1 Informações sobre efeitos toxicológicos
+Toxicidade aguda oral
+DL50 Ratazana: 3.450 - 4.080 mg/kg
+(ECHA)
+Toxicidade aguda - Inalação
+CL50 Ratazana: > 2,03 mg/l; 4 h ; pó/névoa
+Diretriz de Teste de OECD 403
+(concentração máxima a preparar)
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com
+Página 10 de 17
+Ficha de Informações de Segurança de Produtos
+Químicos - FISPQ
+De acordo com a NBR 14725-4:2014
+No. de catálogo 100765
+Nome do produto Ácido bórico 99.9999 Suprapur®
+Toxicidade aguda - Dérmica
+DL50 Coelho: > 2.000 mg/kg
+(ECHA)
+Irritação da pele
+Coelho
+Resultado: Não provoca irritação na pele
+(ECHA)
+Irritação nos olhos
+Coelho
+Resultado: irritação leve
+Diretriz de Teste de OECD 405
+Sensibilização
+Teste de Buehler Cobaia
+Resultado: negativo
+Método: Diretriz de Teste de OECD 406
+Mutagenicidade em células germinativas
+Genotoxicidade in vivo
+Teste do micronúcleo in vivo
+Rato
+masculino e feminino
+oral
+Resultado: negativo
+Método: OECD TG 474
+Genotoxicidade in vitro
+Teste de Ames
+Salmonella typhimurium
+Resultado: negativo
+Método: OECD TG 471
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com
+Página 11 de 17
+Ficha de Informações de Segurança de Produtos
+Químicos - FISPQ
+De acordo com a NBR 14725-4:2014
+No. de catálogo 100765
+Nome do produto Ácido bórico 99.9999 Suprapur®
+Mutagenicidade bacteriana (ensaio em células de mamífero):
+Mouse lymphoma test
+Resultado: negativo
+Método: OECD TG 476
+Mutagenicidade bacteriana (ensaio em células de mamífero):
+Célular ovarianas de hamster chinês
+Resultado: negativo
+Método: OECD TG 482
+Carcinogenicidade
+Esta informação não está disponível.
+Toxicidade à reprodução
+Esta informação não está disponível.
+Teratogenicidade
+Via de aplicação: Oral
+Ratazana
+Número de exposições: Diariamente
+Método: OECD TG 414
+Efeitos carcinogênicos, mutagênicos e tóxicos à reprodução
+Toxicidade à reprodução:
+Pode prejudicar a fertilidade. Pode prejudicar o feto.
+Teratogenicidade:
+Pode prejudicar o feto.
+Toxicidade à reprodução:
+Pode prejudicar a fertilidade.
+Toxicidade sistêmica de órgão-alvo específico - exposição única
+Esta informação não está disponível.
+Toxicidade sistêmica de órgão-alvo específico - exposição repetida
+Esta informação não está disponível.
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com
+Página 12 de 17
+Ficha de Informações de Segurança de Produtos
+Químicos - FISPQ
+De acordo com a NBR 14725-4:2014
+No. de catálogo 100765
+Nome do produto Ácido bórico 99.9999 Suprapur®
+Perigo por aspiração.
+Esta informação não está disponível.
+11.2 Informações complementares
+Depois da absorção de grandes quantidades:
+Vômitos, Náusea, Diarréia, agitação, espasmos, Cansaço, ataxia (alteração da coordenação
+motora), descida de temperatura
+Esta substância deve ser manuseada com cuidado especial.
+SEÇÃO 12. Informações ecológicas
+12.1 Toxicidade
+Toxicidade para os peixes
+Ensaio por escoamento CL50 Oncorhynchus mykiss (truta arco-íris): 79 mg/l; 96 h
+(ECOTOX Database)
+Toxicidade em daphnias e outros invertebrados aquáticos.
+Ensaio estático CE50 Daphnia magna (pulga d'água ou dáfnia): 133 mg/l; 48 h
+(ECOTOX Database)
+Toxicidade para as algas
+Ensaio estático CE50 Pseudokirchneriella subcapitata (alga verde): 52,4 mg/l; 74,5 h
+Monitoramento analítico: sim
+Diretrizes para o teste 201 da OECD
+Toxicidade para os peixes (Toxicidade crônica)
+Ensaio semiestático NOEC Danio rerio (peixe-zebra): 6,4 mg/l; 34 d
+OECD TG 210
+Toxicidade em daphnias e outros invertebrados aquáticos. (Toxicidade crônica)
+Ensaio semiestático NOEC Daphnia magna (pulga d'água ou dáfnia): 34,2 mg/l; 21 d
+OECD TG 211
+12.2 Persistência e degradabilidade
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com
+Página 13 de 17
+Ficha de Informações de Segurança de Produtos
+Químicos - FISPQ
+De acordo com a NBR 14725-4:2014
+No. de catálogo 100765
+Nome do produto Ácido bórico 99.9999 Suprapur®
+Biodegradabilidade
+Os métodos para determinação da degradabilidade biológica não são aplicáveis às substâncias
+inorgânicas.
+12.3 Potencial bioacumulativo
+Coeficiente de partição (n-octanol/água)
+log Pow: -1,09 (22 °C)
+Diretriz de Teste de OECD 107
+Não se prevê qualquer bio-acumulação.
+12.4 Mobilidade no solo
+Não existem informações disponíveis.
+12.5 Resultados da avaliação PBT e vPvB
+PBT/vPvB: Não aplicável para substâncias inorgânicas
+12.6 Outros efeitos adversos
+Informações ecológicas adicionais
+A descarga no meio ambiente deve ser evitada.
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com
+Página 14 de 17
+Ficha de Informações de Segurança de Produtos
+Químicos - FISPQ
+De acordo com a NBR 14725-4:2014
+No. de catálogo 100765
+Nome do produto Ácido bórico 99.9999 Suprapur®
+SEÇÃO 13. Considerações sobre tratamento e disposição
+Métodos de tratamento de resíduos
+Os dejetos devem ser descartados em conformidade com regulamentações nacionais e locais.
+Mantenha as substâncias químicas em seus recipientes originais. Não misturar com outros
+dejetos. O manuseio de recipientes sujos deve ser realizado da mesma forma que o do produto
+em si.
+As frases de perigo e de precaução apresentadas no rótulo também se aplicam a qualquer
+resíduo deixado na embalagem. A disposição não controlada ou reciclagem desta embalagem
+não é permitida e pode ser perigosa.
+Deve ser incinerado em instalação de incineração adequada pelas autoridades competentes.
+SEÇÃO 14. Informações sobre transporte
+Transporte terrestre (ADR/RID)
+14.1 - 14.6 Produto não perigoso segundo o regulamento de transporte.
+Transporte fluvial (ADN)
+Não relevante
+Transporte aéreo (IATA)
+14.1 - 14.6 Produto não perigoso segundo o regulamento de transporte.
+Transporte marítimo (IMDG)
+14.1 - 14.6 Produto não perigoso segundo o regulamento de transporte.
+14.7 Transporte em massa de acordo com o Anexo II de MARPOL 73/78 e do Código IBC
+Não relevante
+SEÇÃO 15. Regulamentações
+15.1 Normas de segurança, saúde e ambientais específicas para a substância ou mistura
+Legislação nacional
+Classe de armazenagem 6.1D
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com
+Página 15 de 17
+Ficha de Informações de Segurança de Produtos
+Químicos - FISPQ
+De acordo com a NBR 14725-4:2014
+No. de catálogo 100765
+Nome do produto Ácido bórico 99.9999 Suprapur®
+15.2 Avaliação de segurança química
+Foi efetuada uma avaliação de segurança química para esta substância.
+SEÇÃO 16. Outras informações
+Texto completo das Declarações H mencionadas nas seções 2 e 3.
+H360FD Pode prejudicar a fertilidade. Pode prejudicar o feto.
+Recomendação de treinamento
+Proporcione informações, instruções e treinamento adequados para os operadores.
+Rotulagem
+Pictogramas de risco
+Palavra de advertência
+Perigo
+Frases de perigo
+H360 Pode prejudicar a fertilidade ou o feto.
+Frases de precaução
+Prevenção
+P201 Obtenha instruções específicas antes da utilização.
+Resposta de emergência
+P308 + P313 EM CASO DE exposição ou suspeita de exposição: Consulte um médico.
+Informações complementares
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com
+Página 16 de 17
+Ficha de Informações de Segurança de Produtos
+Químicos - FISPQ
+De acordo com a NBR 14725-4:2014
+No. de catálogo 100765
+Nome do produto Ácido bórico 99.9999 Suprapur®
+Restrita ao uso por profissionais.
+Legenda das abreviações e acrônimos
+As abreviaturas e acrônimos utilizados podem ser consultados em http://w ww.wikipedia.org.
+As indicações baseiam-se no nível actual dos nossos conhecimentos e servem para a caracterização do produto no
+que se refere às medidas de segurança a tomar. Estas indicações não implicam qualquer garantia de propriedades do
+produto descrito.
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com
+Página 17 de 17

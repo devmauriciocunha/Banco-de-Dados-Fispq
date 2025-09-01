@@ -1,0 +1,793 @@
+FICHA DE DADOS DE SEGURANÇA
+de acordo com a Regulamento (CE) No. 1907/2006
+Data de revisão 04.09.2017 Versão 10.0
+SECÇÃO 1. Identificação da substância/mistura e da sociedade/empresa
+1.1 Identificador do produto
+No. de catálogo 822257
+Nome do produto Ácido benzóico para síntese
+Número de registo REACH 01-2119455536-33-XXXX
+No. CAS 65-85-0
+1.2 Utilizações identificadas relevantes da substância ou mistura e utilizações desaconselhadas
+Utilizações identificadas Químico para síntese
+De acordo com as condições descritas no anexo desta folha de dados
+de se gurança.
+1.3 Identificação do fornecedor da ficha de dados de segurança
+Companhia Merck KGaA * 64271 Darmstadt * Alemanha * Tel: +49 6151 72-2440
+Departamento responsável LS-QHC * e-mail: prodsafe@merckgroup.com
+1.4 Número de telefone de CIAV, Centro de Informação Antivenenos, Rua Almirante Barroso, 36
+emergência 1000-013 Lisboa * Tel.Urgencia (Consultas): 808 250 143
+SECÇÃO 2. Identificação dos perigos
+2.1 Classificação da substância ou mistura
+Classificação (REGULAMENTO (CE) N.o 1272/2008)
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com.
+Página 1 de 26
+FICHA DE DADOS DE SEGURANÇA
+de acordo com a Regulamento (CE) No. 1907/2006
+No. de catálogo 822257
+Nome do produto Ácido benzóico para síntese
+Irritação cutânea, Categoria 2, H315
+Lesões oculares graves, Categoria 1, H318
+Toxicidade para órgãos-alvo específicos - exposição repetida, Categoria 1, Inalação, Pulmões, H372
+Para o pleno texto das DECLARAÇÕES H mencionadas nesta Secção, ver a Secção 16.
+2.2 Elementos do rótulo
+Rótulo.(REGULAMENTO (CE) N.o 1272/2008)
+Pictogramas de perigo
+Palavra-sinal
+Perigo
+Advertências de perigo
+H315 Provoca irritação cutânea.
+H318 Provoca lesões oculares graves.
+H372 Afecta os órgãos (Pulmões) após exposição prolongada ou repetida por inalação.
+Recomendações de prudência
+Prevenção
+P280 Usar protecção ocular.
+Resposta
+P302 + P352 SE ENTRAR EM CONTACTO COM A PELE: lavar abundantemente com sabonete e
+água.
+P305 + P351 + P338 SE ENTRAR EM CONTACTO COM OS OLHOS: Enxaguar cuidadosamente
+com água durante vários minutos. Se usar lentes de contacto, retire-as, se tal lhe for possível.
+Continue a enxaguar.
+P314 Em caso de indisposição, consulte um médico.
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com.
+Página 2 de 26
+ | Nome Químico (Concentração) | | | | | | | 
+ | No. CAS | | | Número de registo | | | Classificação | 
+FICHA DE DADOS DE SEGURANÇA
+de acordo com a Regulamento (CE) No. 1907/2006
+No. de catálogo 822257
+Nome do produto Ácido benzóico para síntese
+Rótulagem reduzida (≤125 ml)
+Pictogramas de perigo
+Palavra-sinal
+Perigo
+Advertências de perigo
+H318 Provoca lesões oculares graves.
+H372 Afecta os órgãos (Pulmões) após exposição prolongada ou repetida por inalação.
+Recomendações de prudência
+P280 Usar protecção ocular.
+P305 + P351 + P338 SE ENTRAR EM CONTACTO COM OS OLHOS: Enxaguar cuidadosamente com água durante
+vários minutos. Se usar lentes de contacto, retire-as, se tal lhe for possível. Continue a enxaguar.
+No. de Index 607-705-00-8
+2.3 Outros perigos
+Não conhecidos.
+SECÇÃO 3. Composição/informação sobre os componentes
+3.1 Substância
+Formula C₆H₅COOH C₇H₆O₂ (Hill)
+No. de Index 607-705-00-8
+No. CE 200-618-2
+Massa molar 122,12 g/mol
+Componentes perigosos (REGULAMENTO (CE) N.o 1272/2008)
+Nome Químico (Concentração)
+No. CAS Número de registo Classificação
+Ácido benzóico (<= 100 % )
+A substânica não atende ao critério para PBT ou vPvB de acordo com o reg ulamento (CE) n° 1907/2006, anexo XIII.
+65-85-0 01-2119455536-33-
+XXXX Irritação cutânea, Categoria 2, H315
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com.
+Página 3 de 26
+FICHA DE DADOS DE SEGURANÇA
+de acordo com a Regulamento (CE) No. 1907/2006
+No. de catálogo 822257
+Nome do produto Ácido benzóico para síntese
+Lesões oculares graves, Categoria 1, H318
+Toxicidade para órgãos-alvo específicos - exposição repetida,
+Categoria 1, H372
+Para o pleno texto das DECLARAÇÕES H mencionadas nesta Secção, ver a Secção 16.
+3.2 Mistura
+Não aplicável
+SECÇÃO 4. Medidas de primeiros socorros
+4.1 Descrição das medidas de primeiros socorros
+Depois de inalar: Exposição ao ar fresco. Chamar um médico.
+No caso dum contacto com a pele: Retirar imediatamente toda a roupa contaminada. Enxaguar
+a pele com água/tomar um duche.
+Após contacto com os olhos: Enxaguar abundantemente com água. Consultar imediatamente
+um oftalmologista. Retirar as lentes de contacto.
+Após ingestão: fazer a vitima beber imediatamente água ( dois copos no máximo) Consultar um
+médico.
+4.2 Sintomas e efeitos mais importantes, tanto agudos como retardados
+Diarreia, Náusea, Vómitos, Doenças do estômago / intestinais, Irritação ou corrosão, Tosse
+Irritação ou corrosão
+Risco de lesões oculares graves.
+4.3 Indicações sobre cuidados médicos urgentes e tratamentos especiais necessários
+Não existe informação disponível.
+SECÇÃO 5. Medidas de combate a incêndios
+5.1 Meios de extinção
+Meios adequados de extinção
+Água, Espuma, Dióxido de carbono (CO2), Pó seco
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com.
+Página 4 de 26
+FICHA DE DADOS DE SEGURANÇA
+de acordo com a Regulamento (CE) No. 1907/2006
+No. de catálogo 822257
+Nome do produto Ácido benzóico para síntese
+Meios inadequados de extinção
+Para esta substância/mistura, não há limitações dos agentes de extinção.
+5.2 Perigos especiais decorrentes da substância ou mistura
+Combustível.
+Os vapores são mais pesados que o ar e podem espalhar-se junto ao solo.
+Risco de explosão do pó.
+Em caso de forte aquecimento podem formar-se misturas explosivas com o ar.
+Em caso de incêndio formam-se gases inflamáveis e vapores perigosos.
+5.3 Recomendações para o pessoal de combate a incêndios
+Equipamento especial de proteção a utilizar pelo pessoal de combate a incêndio
+Não ficar na zona de perigo sem aparelhos respiratórios autónomos apropriados para
+respiração independente do ambiente. De forma a evitar o contacto com a pele, mantenha uma
+distância de segurança e utilize vestuário protetor adequado.
+Outras informações
+Evitar de contaminar água de superfície ou a água subterrânea com a água de extinção.
+SECÇÃO 6. Medidas a tomar em caso de fugas acidentais
+6.1 Precauções individuais, equipamento de proteção e procedimentos de emergência
+Conselho para o pessoal da não emergência Evitar a todo o custo o desprendimento e a
+analação de poeiras. Evitar o contacto com a substância. Assegurar ventilação adequada.
+Evacuar a área de perigo, observar os procedimentos de emergência, consu ltar um
+especialista.
+Conselho para o pessoal responsável pela resposta à emergência:
+Equipamento de protecção, ver secção 8.
+6.2 Precauções a nível ambiental
+Não permitir a entrada do produto no sistema de esgotos.
+6.3 Métodos e materiais de confinamento e limpeza
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com.
+Página 5 de 26
+FICHA DE DADOS DE SEGURANÇA
+de acordo com a Regulamento (CE) No. 1907/2006
+No. de catálogo 822257
+Nome do produto Ácido benzóico para síntese
+Cobrir os drenos. Colectar, ligar e bombear fugas para fora. Observar as possíveis restricções
+materiais (ver secções 7 e 10). Absorver em estado seco. Proceder à eliminação de resíduos.
+Limpeza posterior. Evitar a formação de pós.
+6.4 Remissão para outras secções
+Indicação sobre tratamento de resíduos, ver secção 13.
+SECÇÃO 7. Manuseamento e armazenagem
+7.1 Precauções para um manuseamento seguro
+Informação para um manuseamento seguro
+Observar os avisos das etiquetas.
+Medidas de higiene
+Mudar imediatamente a roupa contaminada. Profilaxia cutânea. Depois de terminar o trabalho,
+lavar as mãos e a cara.
+7.2 Condições de armazenagem segura, incluindo eventuais incompatibilidades
+Condições de armazenagem
+Herméticamente fechado. Em local seco. Guardar em lugar bem arejado. Manter fechado ou
+numa área acessível só a pessoas qualificadas ou autorizadas.
+Temperatura recomendada de armazenagem, consulte na etiqueta de produto.
+7.3 Utilização(ões) final(is) específica(s)
+Ver o cenário de exposição no anexo a este MSDS.
+SECÇÃO 8. Controlo da exposição/ Proteção individual
+8.1 Parâmetros de controlo
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com.
+Página 6 de 26
+FICHA DE DADOS DE SEGURANÇA
+de acordo com a Regulamento (CE) No. 1907/2006
+No. de catálogo 822257
+Nome do produto Ácido benzóico para síntese
+Não contem substâncias com valores limites de exposição profissional.
+Nível derivado de exposição sem efeitos (DNEL)
+Trabalhador DNEL, longo Efeitos sistêmicos inalação 3 mg/m3
+prazo
+Trabalhador DNEL, longo Efeitos locais inalação 0,1 mg/m3
+prazo
+Trabalhador DNEL, longo Efeitos sistêmicos cutânea 62,5 mg/kg Peso corporal
+prazo
+Consumidor DNEL, longa Efeitos sistêmicos inalação 1,5 mg/m3
+data
+Consumidor DNEL, longa Efeitos locais inalação 0,06 mg/m3
+data
+Consumidor DNEL, longa Efeitos sistêmicos cutânea 31,25 mg/kg Peso corporal
+data
+Consumidor DNEL, longa Efeitos sistêmicos oral 8,3 mg/kg Peso corporal
+data
+Concentração previsivelmente sem efeitos (PNEC)
+PNEC Agua doce 0,34 mg/l
+PNEC Água do mar 0,034 mg/l
+PNEC Liberação intermitente aquática 0,331 mg/l
+PNEC Usina de tratamento de águas residuais 100 mg/l
+PNEC Sedimento de água doce 1,75 mg/kg
+PNEC Sedimento marinho 0,175 mg/kg
+PNEC Solos 0,151 mg/kg
+8.2 Controlo da exposição
+Medidas de planeamento
+As medidas técnicas e as operações de trabalho adequadas devem ter prior idade em relação
+ao uso de equipamento de protecção pessoal.
+Ver secção 7.1.
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com.
+Página 7 de 26
+FICHA DE DADOS DE SEGURANÇA
+de acordo com a Regulamento (CE) No. 1907/2006
+No. de catálogo 822257
+Nome do produto Ácido benzóico para síntese
+Medidas de protecção individual
+As características dos meios de protecção para o corpo devem ser seleccionadas em função da
+concentração e da quantidade das substâncias tóxicas de acordo com as condições específicas
+do local de trabalho. A resistência dos meios de protecção aos agentes químicos deve ser
+esclarecida junto dos fornecedores.
+Protecção ocular/ facial
+Óculos de segurança bem ajustados
+Protecção das mãos
+contacto total:
+Substância de luva: Borracha de nitrilo
+Espessura das luvas: 0,11 mm
+Pausa através do 480 min
+tempo:
+contacto com salpicos:
+Substância de luva: Borracha de nitrilo
+Espessura das luvas: 0,11 mm
+Pausa através do 480 min
+tempo:
+As luvas de protecção a usar têm que obedecer às especificações da directiva EC 89/686/EEC
+e do padrão resultante EN374, por exemplo KCL 741 Dermatril® L (contacto total), KCL 741
+Dermatril® L (contacto com salpicos).
+As ruturas acima descritas foram determinadas pelo KCL em testes de laboratório seg. a EN374
+com amostras dos tipos de luvas recomendados.
+Esta recomendação aplica-se apenas ao produto descrito na ficha de dados de segurança por
+nós fornecida bem como para a aplicação especificada.Quando houver dissolução ou mistura
+com outras substâncias e sob as devidas condições houver desvios aos descritos na EN374 por
+favor contactar o fornecedor de luvas com marcação CE (ex: KCL GmbH, D-36124 Eichenzell,
+Internet: www.kcl.de).
+Outro equipamento de protecção
+vestuário de protecção
+Protecção respiratória
+necessário em caso de formação de pós.
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com.
+Página 8 de 26
+FICHA DE DADOS DE SEGURANÇA
+de acordo com a Regulamento (CE) No. 1907/2006
+No. de catálogo 822257
+Nome do produto Ácido benzóico para síntese
+Tipo de Filtro recomendado: Filtro P 2
+O empresário tem de garantir que a manutenção, limpeza e teste de equipamentos de proteção
+respiratória são realizados de acordo com as instruções do produtor. Estas medidas devem ser
+devidamente documentadas.
+Controlo da exposição ambiental
+Não permitir a entrada do produto no sistema de esgotos.
+SECÇÃO 9. Propriedades físico-químicas
+9.1 Informações sobre propriedades físicas e químicas de base
+Forma sólido
+Cor branco
+Odor característico
+Limiar olfativo Não existe informação disponível.
+pH 2,5 - 3,5
+a 20 °C
+(solução saturada)
+Ponto de fusão 121 - 123 °C
+Ponto de ebulição/intervalo de 249 °C
+ebulição a 1.013 hPa
+Ponto de inflamação 121 °C
+Método: c.c.
+Taxa de evaporação Não existe informação disponível.
+Inflamabilidade (sólido, gás) Não existe informação disponível.
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com.
+Página 9 de 26
+FICHA DE DADOS DE SEGURANÇA
+de acordo com a Regulamento (CE) No. 1907/2006
+No. de catálogo 822257
+Nome do produto Ácido benzóico para síntese
+Limite inferior de explosão Não existe informação disponível.
+Limite superior de explosão Não existe informação disponível.
+Pressão de vapor 0,001 hPa
+a 20 °C
+1,3 hPa
+a 96 °C
+Densidade relativa do vapor 4,21
+Densidade 1,321 gr/cm3
+a 20 °C
+Densidade relativa Não existe informação disponível.
+Hidrossolubilidade 2,9 g/l
+a 25 °C
+Coeficiente de partição: n- log Pow: 1,88
+octanol/água (experimental)
+(IUCLID) Não se prevê qualquer bio-acumulação. (Literatura)
+Temperatura de auto-ignição Não existe informação disponível.
+Temperatura de decomposição Não existe informação disponível.
+Viscosidade, dinâmico Não existe informação disponível.
+Propriedades explosivas Não classificado como explosivo.
+Propriedades comburentes não
+9.2 Outras informações
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com.
+Página 10 de 26
+FICHA DE DADOS DE SEGURANÇA
+de acordo com a Regulamento (CE) No. 1907/2006
+No. de catálogo 822257
+Nome do produto Ácido benzóico para síntese
+Ponto de sublimação > 100 °C
+Temperatura de ignição 570 °C
+Densidade da massa cerca de.500 kg/m3
+SECÇÃO 10. Estabilidade e reatividade
+10.1 Reatividade
+Risco de explosão do pó.
+Em caso de forte aquecimento podem formar-se misturas explosivas com o ar.
+Uma gama de aproximadamente 15 Kelvin abaixo do ponto flash é considerada como crítica.
+10.2 Estabilidade química
+sublimável
+10.3 Possibilidade de reações perigosas
+Risco de inflamação ou formação de gases ou vapores inflamáveis com:
+Flúor
+Reacção exotérmica com:
+alcalis, Agentes oxidantes fortes, Bases fortes, nitritos, redutores fortes
+10.4 Condições a evitar
+Forte aquecimento.
+10.5 Materiais incompatíveis
+não existem indicações
+10.6 Produtos de decomposição perigosos
+não existem indicações
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com.
+Página 11 de 26
+FICHA DE DADOS DE SEGURANÇA
+de acordo com a Regulamento (CE) No. 1907/2006
+No. de catálogo 822257
+Nome do produto Ácido benzóico para síntese
+SECÇÃO 11. Informação toxicológica
+11.1 Informações sobre os efeitos toxicológicos
+Toxicidade aguda por via oral
+Ratazana: > 2.000 mg/kg
+(Literatura)
+Sintomas: Náusea, Vómitos, Irritação das menbranas mucosas
+Náusea, Vómitos, Irritação das menbranas mucosas
+Toxicidade aguda por via inalatória
+CL50 Ratazana: > 12,2 mg/l; 4 h ; pó/névoa
+(Ficha de datos de seguridad externa)
+Sintomas: Tosse, Possiveis concequências:, irritação das mucosas
+Toxicidade aguda por via cutânea
+DL50 Coelho: > 5.000 mg/kg
+(IUCLID)
+Irritação cutânea
+Provoca irritação cutânea.
+Irritação ocular
+Coelho
+Resultado: Irritações severas
+(RTECS)
+Provoca lesões oculares graves.
+Sensibilização
+Possível sensibilização em pessoas predispostas.
+Mutagenicidade em células germinativas
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com.
+Página 12 de 26
+FICHA DE DADOS DE SEGURANÇA
+de acordo com a Regulamento (CE) No. 1907/2006
+No. de catálogo 822257
+Nome do produto Ácido benzóico para síntese
+Genotoxicidade in vitro
+Mutagenicidade bacteriana (ensaio em células de mamífero):
+Resultado: negativo
+(IUCLID)
+Teste de Ames
+Resultado: negativo
+(Literatura)
+Carcinogenicidade
+Informação não disponível.
+Toxicidade reprodutiva
+Informação não disponível.
+Teratogenicidade
+Informação não disponível.
+Toxicidade para órgãos-alvo específicos - exposição única
+Informação não disponível.
+Toxicidade para órgãos-alvo específicos - exposição repetida
+Afecta os órgãos após exposição prolongada ou repetida.
+Vias de exposição: Inalação
+Orgãos alvo: Pulmões
+Perigo de aspiração
+Informação não disponível.
+11.2 Outras informações
+Depois da ingestão de grandes quantidades:
+Doenças do estômago / intestinais, Diarreia
+Manusear de acordo com as boas práticas industriais de higiene e segurança.
+SECÇÃO 12. Informação ecológica
+12.1 Toxicidade
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com.
+Página 13 de 26
+FICHA DE DADOS DE SEGURANÇA
+de acordo com a Regulamento (CE) No. 1907/2006
+No. de catálogo 822257
+Nome do produto Ácido benzóico para síntese
+Toxicidade em peixes
+CL50 Lepomis macrochirus (Peixe-lua): 44,6 mg/l; 96 h
+(Ficha de datos de seguridad externa)
+Toxicidade em dáfnias e outros invertebrados aquáticos
+CE50 Daphnia magna: 102 mg/l; 24 h
+(Literatura)
+CE50 Tetrahymen pyriformis: 252 mg/l; 48 h
+(ECOTOX Database)
+Toxicidade em algas
+IC50 algas: 10 - 100 mg/l; 72 h
+(Ficha de datos de seguridad externa)
+Toxicidade em bactérias
+microtox test CE50 Photobacterium phosphoreum: 17 mg/l; 30 min
+(Literatura)
+CE50 lodo activado: > 1.000 mg/l; 3 h
+OECD TG 209
+12.2 Persistência e degradabilidade
+Biodegradabilidade
+> 71 %; 5 d
+OECD TG 301D
+Rápidamente biodegradável.
+> 90 %; 2 d
+OECD TG 302B
+Eliminado rapidamente da água
+12.3 Potencial de bioacumulação
+Coeficiente de partição: n-octanol/água
+log Pow: 1,88
+(experimental)
+(IUCLID) Não se prevê qualquer bio-acumulação. (Literatura)
+12.4 Mobilidade no solo
+Não existe informação disponível.
+12.5 Resultados da avaliação PBT e mPmB
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com.
+Página 14 de 26
+FICHA DE DADOS DE SEGURANÇA
+de acordo com a Regulamento (CE) No. 1907/2006
+No. de catálogo 822257
+Nome do produto Ácido benzóico para síntese
+A substânica não atende ao critério para PBT ou vPvB de acordo com o reg ulamento (CE) n°
+1907/2006, anexo XIII.
+12.6 Outros efeitos adversos
+A descarga no meio ambiente deve ser evitada.
+SECÇÃO 13. Considerações relativas à eliminação
+Métodos de tratamento de resíduos
+O material residual deve ser eliminado de acordo com os regulamentos nac ionai s e locais.
+Deixar os produtos químicos nos recipientes originais. Não misturar com outros materiais
+residuais. Manusear os recipientes nã o limp os como o próprio produto.
+Ver www.retrologistik.com para consultar os processos relativos à devolu ção de produtos
+químicos e contentores ou entrar em contacto connosco se tiver outras perguntas.
+Directiva relativa aos resíduos 2008/98/CE nota.
+SECÇÃO 14. Informações relativas ao transporte
+Transporte rodoviário (ADR/RID)
+14.1 - 14.6 Produto não perigoso segundo o regulamento de transporte.
+Transporte fluvial (ADN)
+Não relevante
+Transporte aéreo (IATA)
+14.1 - 14.6 Produto não perigoso segundo o regulamento de transporte.
+Transporte marítimo (IMDG)
+14.1 - 14.6 Produto não perigoso segundo o regulamento de transporte.
+14.7 Transporte a granel em conformidade com o anexo II da Convenção Marpol 73/78 e o
+Código IBC
+Não relevante
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com.
+Página 15 de 26
+FICHA DE DADOS DE SEGURANÇA
+de acordo com a Regulamento (CE) No. 1907/2006
+No. de catálogo 822257
+Nome do produto Ácido benzóico para síntese
+SECÇÃO 15. Informação sobre regulamentação
+15.1 Regulamentação/legislação específica para a substância ou mistura em matéria de saúde, segurança e
+ambiente
+Regulamentos UE
+Legislação sobre o principal SEVESO III
+acidente perigoso Não aplicável
+Restrições relativas ao Tomar nota da Directiva 94/33/CE sobre a protecção dos jovens
+trabalho no trabalho.Observe as restrições de trabalho relativas a proteção
+de maternidade, c onforme a Dir 92/85/CEE, ou as disposições
+nacionais mais rigorosa, onde aplicável.
+Regulamento (CE) N.º 1005/2009 relativo às não regulado
+substâncias que empobrecem a camada de ozono
+Regulamento (CE) Nº 850/2004 do Parlamento não regulado
+Europeu e do Conselho de 29 d e abril de 2004
+sobre poluentes orgânicos persistentes e diretiva
+de alt eração 79/117/CEE
+Substâncias que suscitam elevada preocupação Este produto não contém substâncias que
+(SVHC) suscitam elevada preocupação de acordo
+com a regulamentação (EC) nº 1907/2006
+(REACH), artigo 57, em con centração
+superior ao limite regulatório respectivo de
+≥ 0,1 % (p/p).
+Legislação nacional
+Classe de armazenagem 6.1C
+15.2 Avaliação da segurança química
+Não foi realizada uma avaliação de segurança química conforme a regulame ntação UE REACH
+Nº 1907/2006 para este produto.
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com.
+Página 16 de 26
+FICHA DE DADOS DE SEGURANÇA
+de acordo com a Regulamento (CE) No. 1907/2006
+No. de catálogo 822257
+Nome do produto Ácido benzóico para síntese
+SECÇÃO 16. Outras informações
+Texto integral das declarações H referidas nos parágrafos 2 e 3.
+H315 Provoca irritação cutânea.
+H318 Provoca lesões oculares graves.
+H372 Afecta os órgãos após exposição prolongada ou repetida por
+inalação.
+Recomendações de formação profissional
+Providenciar aos operadores de informação, instrução e formação adequadas.
+Rótulo
+Pictogramas de perigo
+Palavra-sinal
+Perigo
+Advertências de perigo
+H315 Provoca irritação cutânea.
+H318 Provoca lesões oculares graves.
+H372 Afecta os órgãos (Pulmões) após exposição prolongada ou repetida por inalação.
+Recomendações de prudência
+Prevenção
+P280 Usar protecção ocular.
+Resposta
+P302 + P352 SE ENTRAR EM CONTACTO COM A PELE: lavar abundantemente com sabonete e
+água.
+P305 + P351 + P338 SE ENTRAR EM CONTACTO COM OS OLHOS: Enxaguar cuidadosamente
+com água durante vários minutos. Se usar lentes de contacto, retire-as, se tal lhe for possível.
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com.
+Página 17 de 26
+FICHA DE DADOS DE SEGURANÇA
+de acordo com a Regulamento (CE) No. 1907/2006
+No. de catálogo 822257
+Nome do produto Ácido benzóico para síntese
+Continue a enxaguar.
+P314 Em caso de indisposição, consulte um médico.
+Legenda com a explicação das abreviaturas e siglas utilizadas na ficha de dados de segurança
+As abreviações e acrónimos usados podem ser consultados em http://www.wikipedia.org.
+Representante nacional
+Merck Farma e Quimica, S.A.* Rua Alfredo da Silva, 3-C * P-1300-040 Lisboa* Tel.: +351 (21)
+3613 500 * Fax: +351 (21) 3613 665 * merck@merck.pt
+As indicações baseiam-se no nível actual dos nossos conhecimentos e servem para a caracterização do produto no
+que se refere às medidas de segurança a tomar. Estas indicações não implicam qualquer garantia de propriedades do
+produto descrito.
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com.
+Página 18 de 26
+FICHA DE DADOS DE SEGURANÇA
+de acordo com a Regulamento (CE) No. 1907/2006
+No. de catálogo 822257
+Nome do produto Ácido benzóico para síntese
+CENÁRIO DE EXPOSIÇÃO 1 (Utilização industrial)
+1. Utilização industrial Químico para síntese)
+Sectores de utilização final
+SU 3 Utilizações industriais: Utilização de substâncias estremes ou contidas em preparações
+em instalações industriais
+SU9 Fabrico de produtos químicos finos
+SU 10 Formulação [mistura] de preparações e/ ou reembalagem (excluindo ligas)
+Categoria de produto químico
+PC19 Produtos intermédios
+PC21 Produtos químicos de laboratório
+Categorias de processamentos
+PROC1 Utilização em processo fechado, sem probabilidade de exposição
+PROC2 Utilização em processo continuo e fechado, com exposição ocasional controlada
+PROC3 Utilização em processo descontínuo fechado (síntese ou formulação)
+PROC4 Utilização em processos descontínuos e outros (síntese), onde há possibilidade de
+exposição
+PROC5 Mistura ou combinação em processos descontínuos de formulação de preparações e
+artigos (em vários estádios e/ ou contacto significativo)
+PROC8a Transferência de substâncias ou preparações (carga/ descarga) de/ para recipientes/
+grandes contentores em instalações não destinadas a esse fim
+PROC8b Transferência de substâncias ou preparações (carga/ descarga) de/ para recipientes/
+grandes contentores em instalações destinadas a esse fim
+PROC9 Transferência de substâncias ou preparações para pequenos contentores (linha de
+enchimento destinada a esse fim, incluindo pesagem)
+PROC14 Produção de preparações ou de artigos por aglomeração a frio, compressão, extrusão,
+peletização
+PROC15 Utilização como reagente para uso laboratorial
+Categorias de Libertação para o Ambiente
+ERC2 Formulação de preparações
+ERC4 Utilização industrial de auxiliares de processamento em processos e produtos que não
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com.
+Página 19 de 26
+FICHA DE DADOS DE SEGURANÇA
+de acordo com a Regulamento (CE) No. 1907/2006
+No. de catálogo 822257
+Nome do produto Ácido benzóico para síntese
+venham a fazer parte de artigos
+ERC6a Utilização industrial resultante no fabrico de uma outra substância (utilização de
+substâncias intermédias)
+ERC6b Utilização industrial de auxiliares de processamento reactivos
+2. Cenários de contribuição: medidas de gestão de riscos e condições operac ionais
+2.1 Cenário contribuidor controlando a exposição do trabalhador para: PROC1, PROC2, PROC3, PROC4,
+PROC5, PROC8a, PROC8b, PROC9, PROC14, PROC15
+Características do produto
+Concentração da substância na Cobre a percentagem da substância no produto até 100%.
+Mistura / Artigo
+Forma física (no momento da Sólido, poeira baixa
+utilização)
+Temperatura do Processo < 50 °C
+Frequência e duração da utilização
+Frequência de utilização 8 horas / dia
+Frequência de utilização 5 dias / semana
+Outras condições operacionais afectando a exposição dos trabalhadores
+Exterior / Interior Interno sem ventilação de exaustão local (LEV)
+Condições e medidas relacionadas a proteção pessoal, higiene e avaliação da saúde
+Pôr luvas adequadas testadas para EN374. Óculos de segurança bem ajustados
+Aviso adicional de boa prática para além da Avaliação de Segurança Química da REACH
+Conselhos adicionais das boas Utilizar fatos inteiros adequados para evitar a exposição da
+práticas pele.
+3. Estimação da exposição e referência para sua fonte
+Meio ambiente
+Uma avaliação de segurança química foi executada de acordo com REACH Art igo 14(3), Anexo I, secções 3
+(avaliação de riscos ao meio-ambiente) e 4 (avaliação PBT/vPvB). Visto que nenhum risco foi identificado, uma
+aval iação da exposição e a caracterização do risco não são necessárias (REAC H Anexo I secção 5.0).
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com.
+Página 20 de 26
+ | | Descritor de | | | | Duração da exposição, rota, efeito | | | | | | RCR | | Exposição do Método de
+Avaliação | | | 
+CS | | utilizações | | | | | | | | | | | RCR | | | | 
+ | | | | | | | | | | | | | | | | | 
+2.1 PROC1 | | | | | | | longo prazo, dermal, sistémico | | | | | | < 0,219 | ECETOC TRA | | | 
+ | | | | | | | longo prazo, inalante, sistémico | | | | | | < 0,167 | ECETOC TRA | | | 
+ | | | | | | | longo prazo, combinado, sistémico | | | | | | < 0,386 | | | | 
+2.1 PROC2 | | | | | | | longo prazo, dermal, sistémico | | | | | | < 0,219 | ECETOC TRA | | | 
+ | | | | | | | longo prazo, inalante, sistémico | | | | | | < 0,167 | ECETOC TRA | | | 
+ | | | | | | | longo prazo, combinado, sistémico | | | | | | < 0,386 | | | | 
+2.1 PROC3 | | | | | | | longo prazo, dermal, sistémico | | | | | | < 0,219 | ECETOC TRA | | | 
+ | | | | | | | longo prazo, inalante, sistémico | | | | | | < 0,167 | ECETOC TRA | | | 
+ | | | | | | | longo prazo, combinado, sistémico | | | | | | < 0,386 | | | | 
+2.1 PROC4 | | | | | | | longo prazo, dermal, sistémico | | | | | | < 0,219 | ECETOC TRA | | | 
+ | | | | | | | longo prazo, inalante, sistémico | | | | | | < 0,167 | ECETOC TRA | | | 
+ | | | | | | | longo prazo, combinado, sistémico | | | | | | < 0,386 | | | | 
+2.1 PROC5 | | | | | | | longo prazo, dermal, sistémico | | | | | | 0,219 | ECETOC TRA | | | 
+ | | | | | | | longo prazo, inalante, sistémico | | | | | | 0,167 | ECETOC TRA | | | 
+ | | | | | | | longo prazo, combinado, sistémico | | | | | | 0,386 | | | | 
+2.1 PROC8a | | | | | | | longo prazo, dermal, sistémico | | | | | | 0,219 | ECETOC TRA | | | 
+ | | | | | | | longo prazo, inalante, sistémico | | | | | | 0,167 | ECETOC TRA | | | 
+ | | | | | | | longo prazo, combinado, sistémico | | | | | | 0,386 | | | | 
+2.1 PROC8b | | | | | | | longo prazo, dermal, sistémico | | | | | | < 0,219 | ECETOC TRA | | | 
+ | | | | | | | longo prazo, inalante, sistémico | | | | | | < 0,167 | ECETOC TRA | | | 
+ | | | | | | | longo prazo, combinado, sistémico | | | | | | < 0,386 | | | | 
+2.1 PROC9 | | | | | | | longo prazo, dermal, sistémico | | | | | | < 0,219 | ECETOC TRA | | | 
+ | | | | | | | longo prazo, inalante, sistémico | | | | | | < 0,167 | ECETOC TRA | | | 
+ | | | | | | | longo prazo, combinado, sistémico | | | | | | < 0,386 | | | | 
+2.1 PROC14 | | | | | | | longo prazo, dermal, sistémico | | | | | | < 0,219 | ECETOC TRA | | | 
+ | | | | | | | longo prazo, inalante, sistémico | | | | | | < 0,167 | ECETOC TRA | | | 
+ | | | | | | | longo prazo, combinado, sistémico | | | | | | < 0,386 | | | | 
+2.1 PROC15 | | | | | | | longo prazo, dermal, sistémico | | | | | | < 0,219 | ECETOC TRA | | | 
+ | | | | | | | longo prazo, inalante, sistémico | | | | | | < 0,167 | ECETOC TRA | | | 
+ | | | | | | | longo prazo, combinado, sistémico | | | | | | < 0,386 | | | | 
+FICHA DE DADOS DE SEGURANÇA
+de acordo com a Regulamento (CE) No. 1907/2006
+No. de catálogo 822257
+Nome do produto Ácido benzóico para síntese
+Trabalhadores
+Descritor de Exposição do Método de
+CS utilizações Duração da exposição, rota, efeito RCR Avaliação
+2.1 PROC1 longo prazo, dermal, sistémico < 0,219 ECETOC TRA
+longo prazo, inalante, sistémico < 0,167 ECETOC TRA
+longo prazo, combinado, sistémico < 0,386
+2.1 PROC2 longo prazo, dermal, sistémico < 0,219 ECETOC TRA
+longo prazo, inalante, sistémico < 0,167 ECETOC TRA
+longo prazo, combinado, sistémico < 0,386
+2.1 PROC3 longo prazo, dermal, sistémico < 0,219 ECETOC TRA
+longo prazo, inalante, sistémico < 0,167 ECETOC TRA
+longo prazo, combinado, sistémico < 0,386
+2.1 PROC4 longo prazo, dermal, sistémico < 0,219 ECETOC TRA
+longo prazo, inalante, sistémico < 0,167 ECETOC TRA
+longo prazo, combinado, sistémico < 0,386
+2.1 PROC5 longo prazo, dermal, sistémico 0,219 ECETOC TRA
+longo prazo, inalante, sistémico 0,167 ECETOC TRA
+longo prazo, combinado, sistémico 0,386
+2.1 PROC8a longo prazo, dermal, sistémico 0,219 ECETOC TRA
+longo prazo, inalante, sistémico 0,167 ECETOC TRA
+longo prazo, combinado, sistémico 0,386
+2.1 PROC8b longo prazo, dermal, sistémico < 0,219 ECETOC TRA
+longo prazo, inalante, sistémico < 0,167 ECETOC TRA
+longo prazo, combinado, sistémico < 0,386
+2.1 PROC9 longo prazo, dermal, sistémico < 0,219 ECETOC TRA
+longo prazo, inalante, sistémico < 0,167 ECETOC TRA
+longo prazo, combinado, sistémico < 0,386
+2.1 PROC14 longo prazo, dermal, sistémico < 0,219 ECETOC TRA
+longo prazo, inalante, sistémico < 0,167 ECETOC TRA
+longo prazo, combinado, sistémico < 0,386
+2.1 PROC15 longo prazo, dermal, sistémico < 0,219 ECETOC TRA
+longo prazo, inalante, sistémico < 0,167 ECETOC TRA
+longo prazo, combinado, sistémico < 0,386
+Os parâmetros e eficiências padrão do modelo de avaliação de exposição aplicado foram utilizados
+para o cálculo (a menos que exista alguma especificação em contrário).
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com.
+Página 21 de 26
+FICHA DE DADOS DE SEGURANÇA
+de acordo com a Regulamento (CE) No. 1907/2006
+No. de catálogo 822257
+Nome do produto Ácido benzóico para síntese
+Para (outros) efeitos locais, as medidas de gestão de riscos são baseada s na caracterização
+qualitativa de risco.
+4. Orientação para os utilizadores a jusante para avaliar se ele trabalha dentro dos limites estabelecidos pelo
+cenário de exposição
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com.
+Página 22 de 26
+FICHA DE DADOS DE SEGURANÇA
+de acordo com a Regulamento (CE) No. 1907/2006
+No. de catálogo 822257
+Nome do produto Ácido benzóico para síntese
+Favor consultar os seguintes documentos: ECHA Guidance on information re quirements and
+chemical safety assessment Chapter R.12: Use descriptor s ystem; ECHA Guidance for downstream
+users; ECHA Guidance on information requirements and chemical safety assessment Part D:
+Exposure Scenario Bu ilding, Part E: Risk Characterisation and Part G: Extending the SDS; VCI /Cefic
+REACH Practical Guides on Exposure Assessment and Communications in the Supply Chain; CEFIC
+Guidance Specific Environmental Release Categories (SPERCs).
+Para a graduação das avaliações de exposição do trabalhador realizadas c om ECETOC TRA, favor
+consultar a ferramenta Merck ScIDeEx® em www.merckmillipore.com/scideex.
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com.
+Página 23 de 26
+FICHA DE DADOS DE SEGURANÇA
+de acordo com a Regulamento (CE) No. 1907/2006
+No. de catálogo 822257
+Nome do produto Ácido benzóico para síntese
+CENÁRIO DE EXPOSIÇÃO 2 (Utilização profissional)
+1. Utilização profissional Químico para síntese)
+Sectores de utilização final
+SU 22 Utilizações profissionais: Domínio público (administração, educação, actividades
+recreativas, serviços, artes e ofícios)
+Categoria de produto químico
+PC21 Produtos químicos de laboratório
+Categorias de processamentos
+PROC15 Utilização como reagente para uso laboratorial
+Categorias de Libertação para o Ambiente
+ERC2 Formulação de preparações
+ERC6a Utilização industrial resultante no fabrico de uma outra substância (utilização de
+substâncias intermédias)
+ERC6b Utilização industrial de auxiliares de processamento reactivos
+2. Cenários de contribuição: medidas de gestão de riscos e condições operac ionais
+2.1 Cenário contribuidor controlando a exposição do trabalhador para: PROC15
+Características do produto
+Concentração da substância na Cobre a percentagem da substância no produto até 100%.
+Mistura / Artigo
+Forma física (no momento da Sólido, poeira baixa
+utilização)
+Temperatura do Processo < 50 °C
+Frequência e duração da utilização
+Frequência de utilização 8 horas / dia
+Frequência de utilização 5 dias / semana
+Outras condições operacionais afectando a exposição dos trabalhadores
+Exterior / Interior Interno sem ventilação de exaustão local (LEV)
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com.
+Página 24 de 26
+ | | Descritor de | | | | Duração da exposição, rota, efeito | | | | | | RCR | | Exposição do Método de
+Avaliação | | | 
+CS | | utilizações | | | | | | | | | | | | | | | 
+ | | | | | | | | | | | | | | | | | 
+2.1 PROC15 | | | | | | | longo prazo, dermal, sistémico | | | | | | < 0,219 | ECETOC TRA | | | 
+ | | | | | | | longo prazo, inalante, sistémico | | | | | | < 0,167 | ECETOC TRA | | | 
+ | | | | | | | longo prazo, combinado, sistémico | | | | | | < 0,386 | | | | 
+FICHA DE DADOS DE SEGURANÇA
+de acordo com a Regulamento (CE) No. 1907/2006
+No. de catálogo 822257
+Nome do produto Ácido benzóico para síntese
+Condições e medidas relacionadas a proteção pessoal, higiene e avaliação da saúde
+Pôr luvas adequadas testadas para EN374. Óculos de segurança bem ajustados
+Aviso adicional de boa prática para além da Avaliação de Segurança Química da REACH
+Conselhos adicionais das boas Utilizar fatos inteiros adequados para evitar a exposição da
+práticas pele.
+3. Estimação da exposição e referência para sua fonte
+Meio ambiente
+Uma avaliação de segurança química foi executada de acordo com REACH Art igo 14(3), Anexo I, secções 3
+(avaliação de riscos ao meio-ambiente) e 4 (avaliação PBT/vPvB). Visto que nenhum risco foi identificado, uma
+aval iação da exposição e a caracterização do risco não são necessárias (REAC H Anexo I secção 5.0).
+Trabalhadores
+Descritor de Exposição do Método de
+CS utilizações Duração da exposição, rota, efeito RCR Avaliação
+2.1 PROC15 longo prazo, dermal, sistémico < 0,219 ECETOC TRA
+longo prazo, inalante, sistémico < 0,167 ECETOC TRA
+longo prazo, combinado, sistémico < 0,386
+Os parâmetros e eficiências padrão do modelo de avaliação de exposição aplicado foram utilizados
+para o cálculo (a menos que exista alguma especificação em contrário).
+Para (outros) efeitos locais, as medidas de gestão de riscos são baseada s na caracterização
+qualitativa de risco.
+4. Orientação para os utilizadores a jusante para avaliar se ele trabalha dentro dos limites estabelecidos pelo
+cenário de exposição
+Favor consultar os seguintes documentos: ECHA Guidance on information re quirements and
+chemical safety assessment Chapter R.12: Use descriptor s ystem; ECHA Guidance for downstream
+users; ECHA Guidance on information requirements and chemical safety assessment Part D:
+Exposure Scenario Bu ilding, Part E: Risk Characterisation and Part G: Extending the SDS; VCI /Cefic
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com.
+Página 25 de 26
+FICHA DE DADOS DE SEGURANÇA
+de acordo com a Regulamento (CE) No. 1907/2006
+No. de catálogo 822257
+Nome do produto Ácido benzóico para síntese
+REACH Practical Guides on Exposure Assessment and Communications in the Supply Chain; CEFIC
+Guidance Specific Environmental Release Categories (SPERCs).
+Para a graduação das avaliações de exposição do trabalhador realizadas c om ECETOC TRA, favor
+consultar a ferramenta Merck ScIDeEx® em www.merckmillipore.com/scideex.
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com.
+Página 26 de 26

@@ -1,0 +1,421 @@
+| FISPQ
+Ficha de Informações de Segurança de Produto
+Químico | Revisão: 01
+Data: 06/03/2018
+Página 1 de 9
+ | Acetona | 
+FISPQ Revisão: 01
+Ficha de Informações de Segurança de Produto
+Químico Data: 06/03/2018
+Acetona Página 1 de 9
+1- Identificação do produto e da empresa
+- Nome do produto: Acetona
+- Código interno de identificação do produto: 00022
+- Nome da empresa: NSA Produtos Químicos Eireli EPP
+- Endereço: Rua Paulo Afonso, 172/176 – Diadema - SP.
+- Telefone da empresa: (11) 4067-7609 / 3996-9017
+- e-mail: nsaquimica@nsaquimica.com.br
+2 – Identificação de perigos
+- Classificação de perigo do produto químico:
+- Líquidos inflamáveis - Categoria 2
+- Lesões oculares graves/irritação ocular - Categoria 2A
+- Toxicidade para órgãos-alvo específicos - Exposição única - Categoria 3
+- Sistema de classificação utilizado:
+- Norma ABNT-NBR 14725-2:2009 - versão corrigida 2:2010.
+- Sistema Globalmente Harmonizado para a Classificação e Rotulagem de Produtos Químicos,
+ONU.
+- Outros perigos que não resultam em elementos apropriados da rotulagem
+- O produto não possui outros perigos.
+Pictogramas:
+- Palavra de advertência: PERIGO
+- Frases de perigo: H225 Líquido e vapores altamente inflamáveis.
+- H319 Provoca irritação ocular grave.
+- H336 Pode provocar sonolência ou vertigem.
+- Frases de precaução: Prevenção
+- P210 - Mantenha afastado do calor/faísca/chama aberta/superfícies quentes - Não fume
+- P233 - Mantenha o recipiente hermeticamente fechado.
+ | FISPQ
+Ficha de Informações de Segurança de Produto
+Químico | Revisão: 01
+Data: 06/03/2018
+Página 2 de 9
+ | Acetona | 
+FISPQ Revisão: 01
+Ficha de Informações de Segurança de Produto
+Químico Data: 06/03/2018
+Acetona Página 2 de 9
+- P240 - Aterre o vaso contentor e o receptor do produto durante transferências.
+- P241 - Utilize equipamento elétrico/ de ventilação/ de iluminação/ à prova de explosão.
+- P242 - Utilize apenas ferramentas antifaiscantes.
+- P243 - Evite o acúmulo de cargas eletrostáticas.
+- P261- Evite inalar as poeiras/fumos/gases/névoas/vapores/aerossóis.
+- P264 - Lave cuidadosamente após o manuseio.
+- P271- Utilize apenas ao ar livre ou em locais bem ventilados.
+- P280 - Use luvas de proteção/ roupa de proteção/ proteção ocular/ proteção facial.
+- Resposta à emergência:
+- P303 + P361 + P353 - EM CASO DE CONTATO COM A PELE (ou o cabelo): Retire
+imediatamente toda a roupa contaminada. Enxágue a pele com água ou tome uma ducha.
+- P370 + P378 - Em caso de incêndio: Para a extinção utilize dióxido de carbono (CO2), espuma,
+neblina d’água e pó químico seco.
+- P305 + P351 + P338 - EM CASO DE CONTATO COM OS OLHOS: Enxágue cuidadosamente
+com água durante vários minutos. No caso de uso de lentes de contato, remova-as se for fácil.
+Consulte um médico.
+- P337 + P313 - Caso a irritação ocular persista: consulte um médico.
+- P304 + P340 - EM CASO DE INALAÇÃO: Remova a pessoa para local ventilado e a mantenha
+em repouso numa posição que não dificulte a respiração.
+- P312 - Caso sinta indisposição, contate um CENTRO DE INFORMAÇÃO TOXICOLÓ-
+GICA/médico.
+- Armazenamento
+- P403 + P235 - Armazene em local bem ventilado. Mantenha em local fresco.
+- P403 + P233 - Armazene em local bem fechado. Mantenha o recipiente hermeticamente fechado.
+- P405 - Armazene em local fechado a chave.
+- Disposição
+- P501 - Descarte o conteúdo de acordo com a legislação local.
+3 - Composição e informações sobre os ingredientes
+- Nome químico comum ou nome técnico: Acetona
+- Sinônimo: propanona
+- Número de registro CAS: 67-64-1
+- Impurezas que contribuam para o perigo: Não apresenta impurezas que contribuam para o perigo.
+4 - Medidas de primeiros socorros
+- Inalação: No caso de inalação acidental de vapores ou produtos de decomposição, se deslocar para
+um local arejado. Manter em repouso. Se necessário, consultar o médico.
+ | FISPQ
+Ficha de Informações de Segurança de Produto
+Químico | Revisão: 01
+Data: 06/03/2018
+Página 3 de 9
+ | Acetona | 
+FISPQ Revisão: 01
+Ficha de Informações de Segurança de Produto
+Químico Data: 06/03/2018
+Acetona Página 3 de 9
+- Contato com a pele: Remover imediatamente a roupa e os sapatos contaminados. Lavar
+mediatamente com muita água durante pelo menos 15 minutos. Se necessário, consultar o médico.
+- Contato com os olhos: Lave imediatamente com água corrente, também em baixo das pálpebras
+por, pelo menos, 15 minutos. No caso de contato com o olho, remova as lentes de contato e lave
+imediatamente com muita água, também sob as pálpebras durante pelo menos 15 minutos. Se a
+irritação do olho persiste, consultar um médico
+- Ingestão: NÃO provocar o vômito. Lave a boca com água corrente.
+- Sintomas e efeitos mais importantes, agudos e tardios: Pode provocar sonolência ou vertigem.
+- Notas para o médico: Evite contato com o produto ao socorrer a vítima. Se necessário, o
+tratamento sintomático deve compreender, sobretudo, medidas de suporte como correção de
+distúrbios hidroeletrolíticos, metabólicos, além de assistência respiratória. Em caso de contato com
+a pele não friccione o local atingido.
+- Contato com a pele: Remover imediatamente a roupa e os sapatos contaminados. Lavar
+imediatamente com muita água durante pelo menos 15 minutos. Se necessário, consultar o médico.
+- Contato com os olhos: Lave imediatamente com água corrente, também em baixo das pálpebras
+por, pelo menos, 15 minutos. No caso de contato com o olho, remova as lentes de contato e lave
+imediatamente com muita água, também sob as pálpebras durante pelo menos 15 minutos. Se a
+irritação do olho persiste, consultar um médico
+- Ingestão : NÃO provocar o vômito . Lave a boca com água corrente.
+- Sintomas e efeitos mais importantes, agudos e tardios: Pode provocar sonolência ou vertigem.
+- Notas para o médico: Evite contato com o produto ao socorrer a vítima. Se necessário, o
+tratamento sintomático deve compreender, sobretudo, medidas de suporte como correção de
+distúrbios hidroeletrolíticos, metabólicos, além de assistência respiratória. Em caso de contato com
+a pele não friccione o local atingido.
+5 - Medidas de combate a incêndio
+- Meios de extinção: Apropriados: Espuma. Pó químico seco. Dióxido de carbono (CO2)
+Não recomendados: Jato de água de grande vazão
+- Perigos específicos da mistura ou substância: Líquido altamente inflamável. As misturas vapor/ar
+são explosivas sob aquecimento intenso. Pode provocar combustão em contato com chama nua ou
+superfícies muito aquecidas.
+- Medidas de proteção da equipe de combate a incêndio: Utilizar os meios adequados para combater
+os incêndios nas proximidades.
+- Informações complementares:
+Adapte as medidas de combate a incêndios às condições locais e ao ambiente que está
+situado ao seu redor. Resfriar os recipientes / tanques, pulverizando-os com água.
+ | FISPQ
+Ficha de Informações de Segurança de Produto
+Químico | Revisão: 01
+Data: 06/03/2018
+Página 4 de 9
+ | Acetona | 
+FISPQ Revisão: 01
+Ficha de Informações de Segurança de Produto
+Químico Data: 06/03/2018
+Acetona Página 4 de 9
+6 - Medidas de controle para derramamento ou vazamento
+- Precauções pessoais
+- Para o pessoal que não faz parte dos serviços de emergência: Isole o vazamento de fontes de
+ignição. Impeça fagulhas ou chamas. Não fume. Não toque nos recipientes danificados ou no
+material derramado sem o uso de vestimentas adequadas. Utilize equipamento de proteção
+individual conforme descrito na seção 8.
+- Para o pessoal de serviço de emergência: Equipamento de proteção pessoal: luvas adequadas de
+proteção, óculos de segurança e roupas de proteção. Usar equipamento de respiração autônomo para
+combate a incêndios, se necessário. Coloque placas de aviso na área contaminada e não permita o
+acesso de pessoas não autorizadas. Evitar o contato com a pele e os olhos. Mantenha longe de
+chamas e faíscas. Armazene longe do calor. Usar equipamento de proteção individual. Se possível
+estancar o vazamento. Se indicado posicionar os recipientes danificados de modo que o ponto de
+vazamento fique para cima.
+- Precauções ao meio ambiente: Conter os vazamentos. Impedir que o produto atinja as canalizações
+ou nos cursos de água. Evitar que o produto entre no sistema de esgotos.
+- Método e materiais para a contenção e limpeza:
+- Recuperação: Recolher o derramamento. Coletar e transferir para recipientes corretamente
+etiquetados. Produto inflamável. Tomar todas as precauções necessárias. Aterrar equipamentos e
+contêineres. Manter em recipientes fechados adequados até a disposição.
+- Neutralização: Contenha o vazamento, absorva com substância absorvente não combustível (por
+exemplo, areia, terra, terra diatomácea, vermiculita) e transfira para um recipiente para descarte de
+acordo com os regulamentos locais/nacionais (consulte a seção 13).
+- Descontaminação/limpeza: Coletar solo contaminado. Limpar os solos contaminados e os objetos
+cuidadosamente, observando os regulamentos relativos ao meio ambiente. Coletar e transferir para
+recipientes corretamente etiquetados. Manter em recipientes fechados adequados até a disposição.
+Contenha o vazamento, absorva com substância absorvente não combustível (por exemplo, areia,
+terra, terra diatomácea, vermiculita) e transfira para um recipiente para descarte de acordo com os
+regulamentos locais/nacionais (consulte a seção 13).
+- Descarte: Descartar o conteúdo/ recipiente em uma instalação de incineração aprovada. Este
+produto não deve ser descartado diretamente nos esgotos, cursos d’água ou no solo. Fazer a
+disposição de acordo com a regulamentação local.
+- Diferenças na ação de grandes e pequenos vazamentos: Grandes vazamentos: Neblina d’água pode
+ser utilizada para reduzir vapores, mas isso não irá prevenir a ignição em ambientes fechados.
+7 - Manuseio e armazenamento
+- Medidas técnicas apropriadas para o manuseio
+- Precauções para manuseio seguro:
+- Medidas técnicas: Aterrar eletricamente a instalação. Ligar o contêiner e o equipamento receptor
+ao terra. Não fumar. Tomar medidas para impedir a formação de eletricidade estática. Providenciar
+ | FISPQ
+Ficha de Informações de Segurança de Produto
+Químico | Revisão: 01
+Data: 06/03/2018
+Página 5 de 9
+ | Acetona | 
+FISPQ Revisão: 01
+Ficha de Informações de Segurança de Produto
+Químico Data: 06/03/2018
+Acetona Página 5 de 9
+ventilação adequada. Proporcionar troca de ar suficiente e/ou sistema exaustor nas áreas de
+trabalho. As instalações elétricas e o material de trabalho devem obedecer as normas tecnológicas
+de segurança. Não usar instrumentos que produzam faíscas.
+- Recomendações sobre manuseio e uso seguros: Providenciar ventilação adequada. Proporcionar
+troca de ar suficiente e/ou sistema exaustor nas áreas de trabalho. Manusear de acordo com as boas
+práticas de higiene e segurança industrial. Usar equipamento de proteção individual. Evitar
+inalação, ingestão e contato com a pele e os olhos.
+- Medidas de higiene: Assegurar-se que os lava-olhos e os chuveiros de segurança estejam próximos
+ao local de trabalho. Manter o equipamento de proteção individual em boas condições de higiene.
+Lavar as mãos antes de interrupções, e no final do dia de trabalho. Não comer, beber ou fumar
+durante o uso.
+- Condições de armazenamento seguro, incluindo qualquer incompatibilidade
+- Prevenção de incêndio e explosão: Mantenha afastado do calor, faísca, chama aberta e superfícies
+quentes. - Não fume. Mantenha o recipiente hermeticamente fechado. Aterre o vaso contentor e o
+receptor do produto durante transferências. Utilize apenas ferramentas anti-faiscantes. Evite o
+acúmulo de cargas eletrostáticas.
+- Condições adequadas: Armazenar em local arejado. Manter afastado do calor e de fontes de
+ignição. Armazene conteúdo sob gás inerte. Manter sob nitrogênio. Armazenar afastado de chamas,
+superfícies aquecidas e fontes de ignição. Manter afastado de materiais incompatíveis a serem
+indicados pelo fabricante.
+- Materiais adequados para embalagem: Aço inoxidável, Aço carbono.
+- Materiais inadequados para embalagem: Materiais plásticos.
+8 - Controle de exposição e proteção individual
+- Parâmetros de controle
+- Limites de exposição ocupacional: Acetona
+- LT (NR-15): 780 ppm - 1870 mg/m3
+- TLV - TWA (ACGIH): 200 ppm
+- TLV - STEL (ACGIH, 2012): 500 ppm
+- Indicadores biológicos: Acetona
+- IBMP: 50 mg/L
+- Urina Fim do turno (O mais cedo possível após a exposição).
+- ACGIH - Biological Exposure Indices (BEI).
+- Outros limites e valores: Não estabelecidos.
+- Medidas de controle de engenharia: Promova ventilação mecânica e sistema de exaustão direta
+para o meio exterior. Estas medidas auxiliam na redução da exposição ao produto. É recomendado
+tornar disponíveis chuveiros de emergência e lava olhos na área de trabalho.
+- Medidas de proteção pessoal:
+- Proteção dos olhos/face: Óculos de segurança hermeticamente fechados.
+- Proteção da pele e do corpo: Escolher uma proteção para o corpo conforme a quantidade e a
+concentração das substâncias perigosas no local de trabalho. Retirar e lavar a roupa contaminada.
+- Proteção respiratória: Usar respirador com um filtro apropriado.
+ | FISPQ
+Ficha de Informações de Segurança de Produto
+Químico | Revisão: 01
+Data: 06/03/2018
+Página 6 de 9
+ | Acetona | 
+FISPQ Revisão: 01
+Ficha de Informações de Segurança de Produto
+Químico Data: 06/03/2018
+Acetona Página 6 de 9
+- Perigos térmicos: Não apresenta perigos térmicos.
+9 - Propriedades físicas químicas
+- Aspecto (estado físico, forma e cor): Líquido incolor
+- Odor e limite de odor: agradável
+- pH: Não disponível
+- Ponto de fusão/ponto de congelamento: Não disponível.
+- Ponto de ebulição inicial e faixa de temperatura de ebilução: 56,29_C a 1013 hPa
+- Ponto de fulgor: -18_C (vaso fechado)
+- Taxa de evaporação: < 1
+- Inflamabilidade (sólido; gás): Não aplicável.
+- Limite inferior/superior de inflamabilidade ou explosividade: Superior: 12,8% e Inferior: 2,6%
+- Pressão de vapor: 274,11 hPa a 20_C
+- Densidade de vapor: 2 (ar = 1)
+- Densidade relativa: 0,7899
+- Solubilidade(s): Miscível em água. completamente miscível em solventes orgânicos comuns
+- Coeficiente de partição - n-octanol/água: log Kow: -0,24
+- Temperatura de autoignição: 538_C
+- Temperatura de decomposição: Não disponível.
+- Viscosidade: Dinâmica: 0,33 mPa.s a 20_C
+- Outras informações: Constante de Henry: 1,894777 Pa.m3/mol em 25 _C Energia mínima de
+ignição: 1,15 Mj Peso molecular: 58,08 g/mol Tensão superficial: 23,3 mN/m em 20 _C
+Temperatura de cristalização: -94,7_C
+10 - Estabilidade e reatividade
+- Estabilidade e reatividade: Produto estável em condições normais de temperatura e pressão.
+- Possibilidade de reações perigosas: Reage violentamente com: Peróxidos, Ácido nítrico,
+Hidrocarbonetos halogenados e Agentes oxidantes fortes
+- Condições a serem evitadas: Temperaturas elevadas. Fontes de ignição. Contato com materiais
+incompatíveis.
+- Materiais incompatíveis: Peróxidos, ácido nítrico, hidrocarbonetos halogenados e agentes
+oxidantes fortes.
+- Produtos perigosos da decomposição: Dióxido de carbono (CO2) e monóxido de carbono
+11 - Informações toxicológicas
+- Toxicidade aguda:
+- Oral:
+- DL : 5.800 mg/kg - rato
+50
+- DL : 5.340 mg/kg - coelho
+50
+- Inalatória:
+- CL - 8 h : 50,1 mg/L - rato Sintomas: Efeitos narcolépticos. Os componentes do produto podem
+50
+ser absorvidos por inalação. Irritante para as vias respiratórias.
+ | FISPQ
+Ficha de Informações de Segurança de Produto
+Químico | Revisão: 01
+Data: 06/03/2018
+Página 7 de 9
+ | Acetona | 
+FISPQ Revisão: 01
+Ficha de Informações de Segurança de Produto
+Químico Data: 06/03/2018
+Acetona Página 7 de 9
+- Dérmica:
+- DL : 20.000 mg/kg - coelho
+50
+- Absorção dérmica possível
+- Corrosão/irritação à pele: Leve irritação da pele
+- Lesões oculares graves/irritação ocular: Irritante para os olhos. Irritante para as membranas
+mucosas
+- Sensibilização respiratória ou à pele: dados não disponíveis
+- Mutagenicidade em células germinativas: dados não disponíveis
+- Carcinogenicidade: Não classificável como carcinogênico humano
+- Toxicidade à reprodução: dados não disponíveis
+- Toxicidade para órgãos-alvo específicos – exposição única: Avaliação toxicológica: A substância
+ou mistura está classificada como tóxico para órgão-alvo específico, , categoria 3, com efeitos
+narcóticos., Pode causar sonolência e vertigem.
+- Toxicidade para órgãos-alvo específicos - exposição repetida: Se inalado Sintomas: Vertigens,
+Vômitos, Diarréia., Sonolência.
+- Dérmico Sintomas: Dermatite
+- Perigo por aspiração: dados não disponíveis
+12 - Informações ecológicas
+- Efeitos ambientais, comportamento e impactos do produto:
+- Ecotoxicidade: Toxicidade aguda para os peixes: CL - 24 h : 8.750 mg/L - Brachydanio rerio
+50
+(zebra fish). Toxicidade aguda para as dáfnias e outros invertebrados aquáticos: CE - 24 h : 6.400
+50
+mg/L - Daphnia magna. Toxicidade aos microorganismos: CE - 16 h : 1.700 mg/L - Pseudomonas
+50
+putida.
+- Persistência e degradabilidade: Biodegradabilidade aeróbica final. Rapidamente biodegradável.
+- Anaeróbio Biodegradável
+- Potencial bioacumulativo: Coeficiente de partição (n-octanol/água): Não potencialmente
+bioacumulável.
+- Mobilidade no solo: Potencial adsorção (Koc): O produto infiltra-se facilmente no solo. O produto
+evapora-se rapidamente.
+- Distribuição conhecida para compartimentos ambientais: Destino final do produto: Água
+- Destino final do produto: Ar
+- Outros efeitos adversos: dados não disponíveis.
+13 - Considerações sobre tratamento e disposição
+- Métodos recomendados para destinação final
+- Produto: Deve ser eliminado como resíduo perigoso de acordo com a legislação local. O
+tratamento e a disposição devem ser avaliados especificamente para cada produto. Devem ser
+consultadas legislações federais, estaduais e municipais, dentre estas: Resolução CONAMA
+005/1993, Lei n_12.305, de 02 de agosto de 2010 (Política Nacional de Resíduos Sólidos).
+ | FISPQ
+Ficha de Informações de Segurança de Produto
+Químico | Revisão: 01
+Data: 06/03/2018
+Página 8 de 9
+ | Acetona | 
+FISPQ Revisão: 01
+Ficha de Informações de Segurança de Produto
+Químico Data: 06/03/2018
+Acetona Página 8 de 9
+- Restos de produtos: Não descarte junto com lixo doméstico. Este produto não deve ser descartado
+diretamente nos esgotos, cursos d’água ou no solo. Fazer a disposição de acordo com a
+regulamentação local. Descartar o conteúdo/ recipiente em uma instalação de incineração aprovada.
+Embalagem usada: Não reutilize embalagens vazias. Estas podem conter restos do produto e devem
+ser mantidas fechadas e encaminhadas para descarte apropriado conforme estabelecido para o
+produto.
+14 - Informações sobre transporte
+- Regulamentações nacionais e internacionais:
+- Terrestre: Resolução n_ 420 de 12 de Fevereiro de 2004 da Agência Nacional de Transportes
+Terrestres (ANTT), Aprova as Instruções Complementares ao Regulamento do Transporte Terrestre
+de Produtos Perigosos e suas modificações.
+- Número ONU: 1090
+- Nome apropriado para embarque: ACETONA
+- Classe ou subclasse de risco principal: 3
+- Classe ou subclasse de risco subsidiário: NA
+- Número de risco: 33
+- Grupo de embalagem: II
+- Hidroviário: DPC - Diretoria de Portos e Costas (Transporte em águas brasileiras)
+Normas de Autoridade Marítima (NORMAM) NORMAM 01/DPC: Embarcações Empregadas na
+Navegação em Mar Aberto NORMAM 02/DPC: Embarcações Empregadas na Navegação Interior
+IMO - "International Maritime Organization"(Organização Marítima Internacional) International
+Maritime Dangerous Goods Code (IMDG Code).
+- Número ONU: 1090
+- Nome apropriado paraembarque: ACETONE (ACETONE SOLUTIONS)
+- Classe ou subclasse de risco principal: 3
+- Classe ou subclasse de risco subsidiário: NA
+- Grupo de embalagem: II
+- EmS: F-E,S-D
+- Perigo ao meio ambiente: O produto não é considerado poluente marinho.
+- Aéreo: ANAC - Agência Nacional de Aviação Civil - Resolução n_129 de 8 de dezembro de
+2009. RBAC N_175 - (REGULAMENTO BRASILEIRO DA AVIAÇÃO CIVIL) -
+TRANSPORTE DE ARTIGOS PERIGOSOS EM AERONAVES CIVIS. IS N_ 175-001 -
+INSTRUÇÃO SUPLEMENTAR – IS ICAO - "International Civil Aviation
+Organization"(Organização da Aviação Civil Internacional) - Doc 9284-NA/905 IATA -
+"International Air Transport Association"(Associação Internacional de Transporte Aéreo)
+Dangerous Goods Regulation (DGR).
+- Número ONU: 1090
+- Nome apropriado para embarque: ACETONE
+- Classe ou subclasse de risco principal: 3
+- Classe ou subclasse de risco subsidiário: NA
+- Grupo de embalagem: II
+ | FISPQ
+Ficha de Informações de Segurança de Produto
+Químico | Revisão: 01
+Data: 06/03/2018
+Página 9 de 9
+ | Acetona | 
+FISPQ Revisão: 01
+Ficha de Informações de Segurança de Produto
+Químico Data: 06/03/2018
+Acetona Página 9 de 9
+15 – Regulamentações
+- Regulamentações específicas para o produto químico:
+- Decreto Federal no 2.657, de 3 de julho de 1998.
+- Lei n_12.305, de 02 de agosto de 2010 (Política Nacional de Resíduos Sólidos).
+- Decreto n_ 7.404, de 23 de dezembro de 2010.
+- Portaria no 229, de 24 de maio de 2011 - Altera a Norma Regulamentadora no 26.
+- Norma ABNT-NBR 14725:2012
+16 - Outras informações
+- Informações importantes, mas não especificamente descritas às seções anteriores:
+- Esta FISPQ foi elaborada com base nos atuais conhecimentos sobre o manuseio apropriado do
+produto e sob as condições normais de uso, de acordo com a aplicação especificada na embalagem.
+Qualquer outra forma de utilização do produto que envolva a sua combinação com outros materiais,
+além de formas de uso diversas daquelas indicadas, são de responsabilidade do usuário. Adverte-se
+que o manuseio de qualquer substância química requer o conhecimento prévio de seus perigos pelo
+usuário. No local de trabalho cabe à empresa usuária do produto promover o treinamento de seus
+empregados e contratados quanto aos possíveis riscos advindos da exposição ao produto químico.
+- Legendas e abreviaturas:
+- ACGIH - American Conference of Governamental Industrial Hygienists
+- BEI - Biological Exposure Index (Índice Biológico de Exposição)
+- CAS - Chemical Abstracts Service
+- CL - Concentração Letal 50%
+50
+- CONAMA - Conselho Nacional do Meio Ambiente
+- DL - Dose Letal 50%
+50
+- LT - Limite de tolerância
+- NR - Norma Regulamentadora
+- ONU - Organização das Nações Unidas
+- STEL - Short Term Exposure Limit
+- TLV - Threshold Limit Value
+- TWA - Time Weighted Average

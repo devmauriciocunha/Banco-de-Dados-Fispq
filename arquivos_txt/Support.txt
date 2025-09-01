@@ -1,0 +1,664 @@
+Ficha de Informações de Segurança de Produtos Químicos
+PRODUTO: SUPPORT Data de elaboração: 22/04/2002
+REVISÃO: 02 Data de revisão: 14/11/2014
+Página 1 de 13
+1 – Identificação
+Nome da mistura: SUPPORT
+Principais usos recomendados para a Fungicida sistêmico do grupo químico benzimidazol, na forma de
+mistura: suspensão concentrada. Indicado para as partes aéreas das culturas
+descritas na bula do produto. Uso exclusivamente agrícola.
+Nome da empresa: SIPCAM NICHINO BRASIL S/A
+Endereço: Rua Igarapava, 599 – Distrito Industrial III
+Uberaba / MG - Brasil
+CEP: 38044-755
+Telefone para contato: (34) 3319-5568
+Telefone para emergências: 0800 70 10 450
+2 – Identificação de perigos
+Classificação da mistura (*): Classes de perigo Categoria
+Toxicidade para órgãos-alvo específicos – Exposição repetida 2
+Perigoso ao ambiente aquático – Agudo 3
+Perigoso ao ambiente aquático – Crônico 3
+(*) ABNT NBR 14725-2, Produtos Químicos - Informações sobre segurança, saúde e meio ambiente - Parte 2: Sistema de classificação de perigo
+(2010). Versão corrigida.
+O grau de perigo nas categorias do GHS diminui de acordo com a crescente numérica, sendo a categoria 1 a mais perigosa.
+Elementos de rotulagem do GHS e frases de precaução (**):
+Pictograma:
+Palavra de advertência: Atenção
+Frases de perigo: H373: Pode provocar danos aos rins, ao fígado e à tireoide por exposição repetida
+ou prolongada
+H412: Nocivo para os organismos aquáticos, com efeitos prolongados
+Frases de precaução: Prevenção:
+P260: Não inale os fumos, gases, névoas, vapores e aerossóis.
+P273: Evite a liberação para o meio ambiente.
+Resposta à emergência:
+P314: Em caso de mal-estar, consulte um médico.
+Disposição:
+P501: Descarte o conteúdo/recipiente em local apropriado conforme legislação
+vigente.
+Ficha de Informações de Segurança de Produtos Químicos
+PRODUTO: SUPPORT Data de elaboração: 22/04/2002
+REVISÃO: 02 Data de revisão: 14/11/2014
+Página 2 de 13
+(**) ABNT NBR 14725-3, Produtos Químicos - Informações sobre segurança, saúde e meio ambiente - Parte 3: Rotulagem (2013). Versão corrigida 2.
+Outros perigos que não resultam em O produto contém componentes que contribuem para potenciais
+uma classificação: alterações endócrinas, sendo necessária maior elucidação com estudos
+experimentais.
+3 – Composição e informações sobre os ingredientes
+MISTURA
+Ingredientes que contribuem para o Nome N° registro CAS Concentração (g/L)
+perigo:
+tiofanato-metílico 23564-05-8 500
+etilenoglicol 107-21-1 < 60
+* --- < 2
+*Segredo industrial. Dados de propriedade do fornecedor/fabricante
+4 – Medidas de primeiros-socorros
+Inalação: Remova a vítima para local arejado. Se a vítima não estiver
+respirando, aplique respiração artificial. Não faça respiração boca a
+boca caso a vítima tenha inalado ou ingerido o produto. Para estes
+casos, utilize máscara de ressuscitamento (mascarilha) ou outro
+sistema adequado de respiração. Procure um serviço de saúde levando
+a embalagem, o rótulo ou a bula do produto.
+Contato com a pele: Remova roupas e sapatos contaminados. Lave as áreas atingidas com
+água corrente em abundância. Em caso de contato menor com a pele,
+evite espalhar o material em áreas não afetadas. Procure um serviço
+de saúde levando a embalagem, o rótulo ou a bula do produto.
+Contato com os olhos: Retire lentes de contato, se presentes. Lave os olhos com água
+corrente em abundância por 15 minutos elevando as pálpebras
+ocasionalmente. Procure um serviço de saúde levando a embalagem, o
+rótulo ou a bula do produto.
+Ingestão: NÃO PROVOQUE VÔMITO. Lave a boca com água corrente em
+abundância. Em caso de vômito, mantenha a cabeça abaixo do nível
+dos quadris ou em posição lateral, se o indivíduo estiver deitado, para
+evitar aspiração do conteúdo gástrico. Procure um serviço de saúde
+levando a embalagem, o rótulo ou a bula do produto.
+Sintomas e efeitos mais importantes, Não são conhecidos os efeitos adversos do ativo deste produto para
+agudos ou tardios: seres humanos. A ingestão de grandes quantidades pode causar
+irritação do trato gastrintestinal, manifestada por dor abdominal,
+náusea, vômito e diarreia. Em contato com a pele pode causar reações
+alérgicas no local exposto. A inalação de altas concentrações do
+produto pode causar irritação do trato respiratório. Pode causar
+irritação moderada em contato com os olhos. O produto contém
+componentes que podem afetar os rins, o fígado e a tireoide após
+exposição repetida ou prolongada.
+Notas para o médico: Tratamento sintomático e de suporte, de acordo com o quadro clínico.
+Não há antídoto específico para o produto. Em caso de ingestão de
+grandes quantidades do produto, avalie a necessidade de realização de
+lavagem gástrica (até 1 hora após a ingestão).
+5 – Medidas de combate a incêndio
+Meios de extinção: Pequeno incêndio: utilize pó químico seco, dióxido de carbono (CO ),
+2
+jato d’água ou espuma normal.
+Ficha de Informações de Segurança de Produtos Químicos
+PRODUTO: SUPPORT Data de elaboração: 22/04/2002
+REVISÃO: 02 Data de revisão: 14/11/2014
+Página 3 de 13
+Grande incêndio: utilize jato d’água, neblina ou espuma normal. Não
+espalhe o material com o uso de jato d’água de alta pressão. As águas
+de diluição residuais ou do controle do fogo podem causar poluição.
+Confine as águas residuais em um dique para posterior destinação
+apropriada.
+Perigos específicos da mistura: O fogo pode produzir fumos, gases e vapores irritantes, tóxicos e/ou
+corrosivos como óxidos de nitrogênio, óxidos de enxofre, monóxido de
+carbono e dióxido de carbono.
+Medidas de proteção da equipe de Remova os recipientes da área do fogo, se isto puder ser feito sem
+combate a incêndio: risco. Resfrie os tanques ou contêineres com bastante água, mesmo
+após a extinção do fogo. Mantenha-se sempre longe de tanques
+envoltos em chamas. Utilize roupas protetoras adequadas no combate
+ao fogo e equipamento autônomo de respiração com pressão positiva.
+Vestimentas usuais de combate ao fogo oferecem proteção limitada.
+6 – Medidas de controle para derramamento ou vazamento
+Precauções pessoais, equipamentos de proteção e procedimentos de emergência
+Para o pessoal que não faz parte dos Use equipamento de proteção individual (EPI). Em caso de
+serviços de emergência: derramamento e vazamento deste produto químico, afaste de qualquer
+fonte de ignição ou calor. Não toque nem caminhe sobre o produto
+derramado. Evite o contato do produto com a pele, olhos e mucosas.
+Não manuseie embalagens rompidas, a menos que esteja devidamente
+protegido com a utilização de equipamento de proteção individual.
+Permaneça em local seguro tendo o vento pelas costas.
+Para o pessoal do serviço de emergência: Use EPI apropriado. Mantenha as pessoas não autorizadas afastadas.
+Ventile ambientes fechados antes de entrar. Como ação imediata de
+precaução, isole e sinalize a área de derramamento ou vazamento em
+um raio de 50 metros, no mínimo, em todas as direções.
+Precauções ao meio ambiente: Evite a contaminação ambiental. Em caso de derramamento e
+vazamento, contenha imediatamente o material derramado, não
+permitindo que o produto entre em bueiros, drenos ou corpos d’água.
+Caso ocorra escoamento do produto para corpos d’água, interrompa
+imediatamente a captação para o consumo humano ou animal, contate
+o órgão ambiental mais próximo e a empresa Sipcam Nichino Brasil
+S/A, visto que as medidas a serem adotadas dependem das proporções
+do acidente, das características do recurso hídrico em questão e da
+quantidade do produto envolvido.
+Métodos e materiais para a contenção e Utilize EPI. Elimine todas as fontes de ignição. Não fume. Isole e
+limpeza: sinalize a área contaminada. Não toque nem caminhe sobre o produto
+derramado. Pare o vazamento, se isto puder ser feito sem risco.
+Piso pavimentado: absorva o produto derramado com areia ou outro
+material não combustível e coloque em recipiente apropriado e
+devidamente identificado para posterior destinação apropriada.
+Grande derramamento: confine o fluxo em um dique longe do
+derramamento para posterior destinação apropriada. Previna a entrada
+do produto derramado em cursos d’água, rede de esgotos, porões ou
+áreas confinadas. O produto derramado não deverá mais ser utilizado.
+Consulte a empresa Sipcam Nichino Brasil S/A para devolução e
+destinação final.
+Solo: retire as camadas de terra contaminada até atingir o solo não
+contaminado e proceda conforme indicado acima.
+7 – Manuseio e armazenamento
+Ficha de Informações de Segurança de Produtos Químicos
+PRODUTO: SUPPORT Data de elaboração: 22/04/2002
+REVISÃO: 02 Data de revisão: 14/11/2014
+Página 4 de 13
+Precauções para manuseio seguro: Utilize EPI. Não manuseie o produto sem os EPIs recomendados ou se
+estiverem danificados. Evite o contato do produto com a pele, os olhos
+e as mucosas. Ao abrir a embalagem, faça-o de modo a evitar a
+formação de respingos. Não desentupa bicos, orifícios e válvulas com a
+boca. Manuseie o produto em local arejado e longe de qualquer fonte
+de ignição ou calor. Manipule respeitando as regras gerais de
+segurança e higiene industrial. Não aplique o produto nas horas mais
+quentes do dia ou na presença de ventos fortes.
+Leia e siga as instruções de uso recomendadas na bula e no rótulo.
+Aplique o produto somente nas doses recomendadas e observe o
+intervalo de segurança (intervalo de tempo entre a última aplicação e a
+colheita). Observe o prazo de validade. Não reutilize a embalagem
+vazia. Não lave embalagens em lagos, fontes, rios e demais corpos
+d’água. Não coma, beba ou fume durante o manuseio do produto. Lave
+as mãos e o rosto nos intervalos e após o trabalho. Faça a manutenção
+e lavagem dos equipamentos de proteção após cada aplicação do
+produto longe de fontes d’água para o consumo. Tome banho e troque
+as roupas ao final do dia de trabalho. Lave as roupas de proteção
+utilizadas na aplicação do produto, separadas das demais roupas da
+família, utilizando luvas e avental impermeável. Remova a roupa e o
+equipamento de proteção contaminado antes de entrar nas áreas de
+alimentação.
+Condições de armazenamento seguro: Evite armazenar o produto próximo a fontes de ignição e calor. Em
+caso de armazéns, deverão ser seguidas as instruções constantes na
+NBR 9843 da Associação Brasileira de Normas Técnicas – ABNT.
+Armazene o produto em sua embalagem original, sempre fechada, a
+temperatura ambiente a ao abrigo da luz. O local deve ser exclusivo
+para produtos tóxicos e deve ser isolado de alimentos, bebidas, rações
+ou outros materiais. A construção deve ser de alvenaria ou de material
+não comburente. O local deve ser ventilado, coberto e ter piso
+impermeável. Coloque placa de advertência com os dizeres: CUIDADO
+VENENO. Tranque o local, evitando o acesso de pessoas não
+autorizadas, principalmente crianças. Deve haver sempre embalagens
+adequadas disponíveis, para envolver embalagens rompidas ou para o
+recolhimento de produtos vazados. Observe as disposições constantes
+da Legislação Estadual e Municipal.
+Materiais recomendados para a embalagem: frascos e bombonas de
+COEX (coextrusão), PEAD (polietileno de alta densidade) ou PET
+(tereftalato de polietileno).
+8 – Controle de exposição e proteção individual
+Parâmetros de controle
+Limites de exposição ocupacional: Tiofanato-metílico: Não apresenta limites de exposição estabelecidos
+pela legislação brasileira (NR 15), pela ACGIH (2013), OSHA e NIOSH.
+Etilenoglicol:
+NR 15: Não apresenta limites de exposição estabelecidos pela
+legislação brasileira (NR 15) (MTE, 2011b).
+ACGIH: C 100 mg/m3 (H) (*) (valor teto) (ACGIH, 2013).
+NIOSH REL: C 50 ppm (valor teto) (NIOSH, 2011).
+OSHA PEL: Não estabelecido (OSHA, 2004).
+(H): Apenas aerossol.
+(*): Base: irritação no trato respiratório superior e nos olhos.
+Ficha de Informações de Segurança de Produtos Químicos
+PRODUTO: SUPPORT Data de elaboração: 22/04/2002
+REVISÃO: 02 Data de revisão: 14/11/2014
+Página 5 de 13
+O produto apresenta um componente com preservação de sua
+identidade (segredo industrial). Tal componente apresenta os seguintes
+parâmetros de limite de exposição:
+NR 15: Até 48h/semana: 1,6 ppm (2,3 mg/m3) (valor teto)
+(MTE, 2011b).
+ACGIH: C 0,3 ppm (*) (valor teto) (ACGIH, 2013).
+NIOSH REL: TWA 0,016 ppm;
+C 0,1 ppm (valor teto) (15 min);
+IDLH: ca. 20 ppm.
+OSHA PEL: TWA 0,75 ppm;
+STEL 2 ppm (15 min).
+(*): Base: Irritação no trato respiratório superior e nos olhos / A2: Suspeito de ser
+carcinogênico em humanos.
+NR 15: Norma Regulamentadora n° 15 do Ministério do Trabalho e Emprego.
+Indicadores biológicos de exposição: Os ingredientes do produto não apresentam indicadores biológicos de
+exposição estabelecidos pela legislação brasileira (NR 7) (MTE, 2011a)
+nem pela ACGIH (2013).
+NR 7: Norma regulamentadora n° 7 do Ministério do Trabalho e Emprego.
+Medidas de controle de engenharia: Assegure ventilação adequada durante a manipulação do produto.
+Providencie ventilação exaustora onde os processos exigirem.
+Chuveiros de emergência e lava-olhos devem estar disponíveis
+próximos à área de trabalho.
+Medidas de proteção pessoal
+Proteção dos olhos/ face: Use óculos de segurança com proteção lateral ou viseira facial.
+Proteção da pele: Durante o manuseio e aplicação do produto, use macacão de algodão
+hidrorrepelente com mangas compridas passando por cima do punho
+das luvas e as pernas das calças por cima das botas, luvas e botas de
+borracha, avental impermeável e touca árabe.
+Proteção respiratória: Use máscara de proteção contra eventuais vapores orgânicos e pó
+ativado, cobrindo o nariz e a boca.
+Perigos térmicos: Não disponível.
+9 – Propriedades físicas e químicas
+Aspecto: Líquido (pastoso), marrom claro.
+Odor: Característico.
+Limite de odor: Não disponível.
+pH: 5,59 a 20°C.
+Ponto de fusão/ponto de
+congelamento: Tiofanato-metílico técnico: 170°C.
+Ponto de ebulição inicial e faixa de
+temperatura de ebulição: Etilenoglicol: 197,3°C (ATSDR, 2010).
+Ponto de fulgor: Etilenoglicol: 127°C (ATSDR, 2010).
+Taxa de evaporação: Não disponível.
+Inflamabilidade (sólido; gás): Não aplicável.
+Limite inferior/superior de
+inflamabilidade ou explosividade: Não disponível.
+Ficha de Informações de Segurança de Produtos Químicos
+PRODUTO: SUPPORT Data de elaboração: 22/04/2002
+REVISÃO: 02 Data de revisão: 14/11/2014
+Página 6 de 13
+Pressão de vapor: Tiofanato-metílico técnico: 4,3 x 10-6 Pa (0,0043 mPa) a 28°C.
+Etilenoglicol: 11,86 Pa (0,089 mmHg) a 25°C (ATSDR, 2010).
+Densidade de vapor (ar=1): Etilenoglicol: 2,14 (ATSDR, 2010).
+Densidade: 1160 kg/m3 (1,1600 g/cm3) a 20°C.
+Solubilidade: O produto é miscível em água e insolúvel em diclorometano e hexano a
+25°C.
+Coeficiente de partição - n-octanol/ Tiofanato-metílico técnico: Log K = 1,52.
+OW
+água: Etilenoglicol: Log K = -1,36 (ATSDR, 2010).
+OW
+Temperatura de autoignição: Etilenoglicol: 398°C (HSDB, 2012a).
+Temperatura de decomposição: Tiofanato-metílico: 163°C (U.S. EPA, 2005).
+Viscosidade: 1,4961 Pa.s (1496,1 cP) a 20°C.
+Tensão superficial: 0,0654 N/m a 22°C.
+Corrosividade: O produto apresenta corrosividade para ferro, mas não é corrosivo
+para aço, alumínio, plástico e latão.
+10 – Estabilidade e reatividade
+Reatividade: Nenhuma quando armazenado e utilizado adequadamente.
+Estabilidade química: O produto é estável à temperatura ambiente e ao ar.
+Possibilidade de reações perigosas: Nenhuma, quando armazenado e manuseado adequadamente.
+O produto pode ser corrosivo para o ferro.
+Condições a serem evitadas: Fontes de ignição, calor, umidade e contato com materiais
+incompatíveis.
+Materiais incompatíveis: Tiofanato-metílico: Compostos alcalinos e que contenham cobre, ácidos
+e bases fortes, agentes redutores fortes (como os hidretos), ácidos
+fortemente oxidantes e peróxidos (HSDB, 2012b; THE UNIVERSITY OF
+AKRON, 2010).
+Produtos perigosos da decomposição: Não disponível.
+11 – Informações toxicológicas
+Toxicidade aguda: DL oral (ratos): > 3000 mg/kg p.c.
+50
+DL dérmica (ratos): > 4000 mg/kg p.c.
+50
+CL inalatória (ratos): > 5,20 mg/L/4h.
+50
+Corrosão/irritação da pele: Em estudo conduzido em coelhos, não foram observados sinais de
+irritação cutânea primária após aplicação do produto e, portanto, este
+foi considerado não irritante para a pele.
+Lesões oculares graves/irritação ocular: O produto foi considerado como não irritante ocular primário em
+estudo conduzido em coelhos.
+Sensibilização respiratória ou à pele: O produto não causou hipersensibilidade à pele em estudo conduzido
+em cobaias.
+Mutagenicidade em células O produto não apresentou potencial de atividade mutagênica no
+germinativas: ensaio de mutação gênica reversa (teste de Ames) nas cepas de
+Salmonella typhimurium, nem no teste do micronúcleo em medula
+óssea de camundongos.
+Carcinogenicidade: Tiofanato-metílico: Nos estudos conduzidos com o tiofanato-metílico
+para avaliar o potencial carcinogênico, foram observados tumores
+hepáticos e de tireoide, porém considerados não prováveis de
+ocorrerem no homem em doses que não alteram a homeostase dos
+Ficha de Informações de Segurança de Produtos Químicos
+PRODUTO: SUPPORT Data de elaboração: 22/04/2002
+REVISÃO: 02 Data de revisão: 14/11/2014
+Página 7 de 13
+hormônios tireoidianos no animal (EC, 2005).
+Etilenoglicol: Não há evidência de carcinogenicidade (HSDB, 2012a;
+WHO, 2002). É improvável que o etilenoglicol seja carcinogênico em
+humanos, baseado em resultados negativos de estudos conduzidos
+em camundongos e ratos, e na ausência de genotoxicidade em um
+número limitado de ensaios in vitro e in vivo (GOMES; LITEPLO;
+MEEK, 2002).
+Toxicidade à reprodução: Tiofanato-metílico: Em estudos conduzidos em ratos, não foi
+observada evidência de efeitos para a reprodução. Em estudos
+conduzidos em ratos e coelhos, não foram observados efeitos para o
+desenvolvimento em doses abaixo das que causaram toxicidade
+materna (APVMA, 2009).
+Etilenoglicol: Não foram observados efeitos para a reprodução. Em
+estudos conduzidos em animais de experimentação, o etilenoglicol
+apresentou alguns efeitos ao desenvolvimento em doses menores que
+as doses que causaram toxicidade materna. Acredita-se que um
+metabólito do etilenoglicol, o ácido glicólico, seja responsável pela
+toxicidade para o desenvolvimento. Contanto que a exposição ao
+etilenoglicol não atinja um nível que sature as enzimas de
+metabolização do etilenoglicol, a toxicidade para o desenvolvimento
+não é esperada (U.S. EPA, 2006).
+Toxicidade para órgãos-alvo específicos Tiofanato-metílico: Não foram identificados órgãos-alvo específicos
+– exposição única: após exposição única a esta substância em animais de
+experimentação (APVMA, 2009).
+Etilenoglicol: A exposição aguda incidental a partir de dados obtidos
+em humanos promove depressão no sistema nervoso central (SNC) e
+toxicidade renal (U.S. EPA, 2006). A inalação pode causar irritação do
+trato respiratório (HSDB, 2012; WHO, 2002).
+Toxicidade para órgãos-alvo específicos Tiofanato-metílico: O fígado e a tireoide foram identificados como os
+– exposição repetida: principais órgãos-alvo em estudos subcrônicos e crônicos em animais
+de experimentação (APVMA, 2009; U.S. EPA, 2005).
+Etilenoglicol: Os rins constituem os órgãos críticos após exposição
+repetida em estudos conduzidos em animais (WHO, 2002).
+Perigo por aspiração: Não há dados disponíveis em literatura referentes ao perigo por
+aspiração dos componentes do produto.
+12 – Informações ecológicas
+Ecotoxicidade
+Toxicidade para abelhas: DL (48h/contato): > 100 µg/abelha (Apis mellifera).
+50
+Toxicidade para algas: CE (96h): 153,62 mg/L (Pseudokirchneriella subcapitata).
+50
+Toxicidade para aves: DL oral (dose única): > 2000 mg/kg p.c (Cotumix coturnix japonica).
+50
+Toxicidade para crustáceos: CE (48h): 56,82 mg/L (Daphnia similis).
+50
+Toxicidade para organismos do solo: CL (14 dias): 46,45 mg/kg sílica (Eisenia foetida).
+50
+Toxicidade para peixes: CL (96h): 57,47 mg/L (Danio rerio).
+50
+Persistência e degradabilidade: Tiofanato-metílico Técnico: Estudos laboratoriais de degradabilidade e
+de campo mostraram que o tiofanato-metílico é degradável no solo e
+seu principal metabólito é o carbendazim. Estudos conduzidos em três
+tipos de solos diferentes demonstraram que a substância pode ser
+classificada como de persistência média nas condições de teste. O
+carbendazim (metabólito primário) é persistente no meio ambiente
+(U.S. EPA, 2005).
+Etilenoglicol: É rapidamente degradado no solo (HSDB, 2012b).
+Ficha de Informações de Segurança de Produtos Químicos
+PRODUTO: SUPPORT Data de elaboração: 22/04/2002
+REVISÃO: 02 Data de revisão: 14/11/2014
+Página 8 de 13
+Potencial bioacumulativo: Tiofanato-metílico: O fator de bioconcentração estimado (BCF/FBC =
+4), sugere que o potencial de bioconcentração em organismos
+aquáticos desta substância seja baixo (HSDB, 2012b).
+Etilenoglicol: Um valor de BCF/FBC = 10 foi calculado em peixes, após
+3 dias de exposição pelo etilenoglicol, o que sugere um baixo potencial
+de bioacumulação (ATSDR, 2010).
+Mobilidade no solo: Tiofanato-metílico Técnico: Estudos conduzidos em três tipos de solos
+demonstraram que a substância-teste apresentou moderada
+mobilidade, nas condições de teste.
+Etilenoglicol: Apresenta elevada mobilidade no solo (HSDB, 2012a).
+Outros efeitos adversos: Não disponível.
+13 – Considerações sobre destinação final
+Métodos recomendados para destinação final
+Resíduos de substâncias ou misturas: Mantenha as eventuais sobras dos produtos em suas embalagens
+originais adequadamente fechadas. Não descarte em sistemas de
+esgotos, cursos d’água e estações de tratamento de efluentes. Caso
+este produto venha a se tornar impróprio para utilização ou em desuso,
+consulte o registrante através do telefone indicado no rótulo, para a
+devolução, desativação e destinação final. A desativação do produto é
+feita através de incineração em fornos destinados a este tipo de
+operação, equipados com câmaras de lavagem de gases efluentes e
+aprovados pelo órgão ambiental competente. Observe a legislação
+estadual e municipal.
+Embalagens usadas: - PARA EMBALAGEM RÍGIDA LAVÁVEL: esta embalagem deverá ser
+submetida ao processo de Tríplice lavagem, imediatamente após seu
+esvaziamento, adotando-se os seguintes procedimentos: esvazie
+completamente o conteúdo da embalagem no tanque do pulverizador,
+mantendo-a na posição vertical durante 30 segundos; adicione água
+limpa à embalagem até ¼ do seu volume; tampe bem a embalagem e
+agite-a por 30 segundos; despeje a água de lavagem no tanque do
+pulverizador. Faça essa operação três vezes. Inutilize a embalagem
+plástica ou metálica perfurando o fundo.
+Lavagem sob pressão:
+Ao utilizar pulverizadores dotados de equipamentos de lavagem sob
+pressão, siga os seguintes procedimentos: encaixe a embalagem vazia
+no local apropriado do funil instalado no pulverizador; acione o
+mecanismo para liberar o jato de água; direcione o jato de água para
+todas as paredes internas da embalagem por 30 segundos. A água de
+lavagem deve ser transferida para o tanque pulverizador. Inutilize a
+embalagem plástica ou metálica perfurando o fundo.
+Ao utilizar equipamento independente para lavagem sob pressão, adote
+os seguintes procedimentos: imediatamente após o esvaziamento do
+conteúdo original da embalagem, mantê-la invertida sobre a boca do
+tanque de pulverização, em posição vertical, durante 30 segundos;
+mantenha a embalagem nesta posição, introduza a ponta do
+equipamento de lavagem sob pressão, direcionando o jato de água
+para todas as paredes internas da embalagem, por 30 segundos. Toda
+a água de lavagem deve ser dirigida diretamente para o tanque
+pulverizador. Inutilize a embalagem plástica ou metálica perfurando o
+fundo.
+DEVOLUÇÃO DA EMBALAGEM VAZIA: No prazo de até um ano da data
+da compra, o usuário deverá efetuar a devolução das embalagens
+vazias e respectivas tampas, observando as instruções constantes dos
+14 – Informações sobre transporte
+Regulamentações nacionais e internacionais:
+Terrestre:
+MINISTÉRIO DOS TRANSPORTES. Decreto n° 96.044/1988 (ANTT, 2004); Resolução n° 420/2004 e suas
+atualizações.
+Hidroviário:
+INTERNATIONAL MARITIME ORGANIZATION. International Maritime Dangerous Goods Code (IMDG Code, 2012).
+Ficha de Informações de Segurança de Produtos Químicos
+PRODUTO: SUPPORT Data de elaboração: 22/04/2002
+REVISÃO: 02 Data de revisão: 14/11/2014
+Página 9 de 13
+rótulos e das bulas. A devolução deverá ser feita aos estabelecimentos
+comerciais em que foram adquiridos os produtos ou qualquer posto de
+recebimento ou centro de recolhimento credenciado por este, indicados
+na nota fiscal de compra.
+Caso o produto não tenha sido totalmente utilizado nesse prazo, e
+ainda esteja dentro do prazo de validade, será facultada a devolução
+da embalagem em até 6 meses após o término do seu prazo de
+validade.
+O usuário deve guardar o comprovante de devolução para efeito de
+fiscalização, pelo prazo mínimo de um ano após a devolução da
+embalagem vazia.
+ARMAZENAMENTO DA EMBALAGEM VAZIA: O armazenamento das
+embalagens vazias, até sua devolução pelo usuário, deve ser efetuado
+em local coberto, ventilado, ao abrigo de chuva e com piso
+impermeável, ou no próprio local onde guardadas as embalagens
+cheias. Use luvas no manuseio dessa embalagem.
+TRANSPORTE: as embalagens vazias não podem ser transportadas
+junto com alimentos, bebidas, medicamentos, rações, animais e
+pessoas.
+A destinação inadequada das embalagens vazias e restos de produtos
+no meio ambiente causa contaminação do solo, da água e do ar,
+prejudicando a fauna, a flora e a saúde das pessoas.
+- EMBALAGEM SECUNDÁRIA (NÃO CONTAMINDADA): ESTA
+EMBALAGEM NÃO PODE SER LAVADA.
+ARMAZENAMENTO DA EMBALAGEM VAZIA: o armazenamento da
+embalagem vazia, até sua devolução pelo usuário, deve ser efetuado
+em local coberto, ventilado, ao abrigo de chuva e com piso
+impermeável, no próprio local onde guardadas as embalagens cheias.
+DEVOLUÇÃO DA EMBALAGEM VAZIA: é obrigatória a devolução da
+embalagem vazia, pelo usuário, onde foi adquirido o produto ou no
+local indicado na nota fiscal, emitida pelo estabelecimento comercial.
+TRANSPORTE: as embalagens vazias não podem ser transportadas
+junto com alimentos, bebidas, medicamentos, rações, animais e
+pessoas.
+DESTINAÇÃO FINAL DAS EMBALAGENS VAZIAS: A destinação final das
+embalagens vazias, após a devolução pelos usuários, somente poderá
+ser realizada pela empresa registrante ou por empresas legalmente
+autorizadas pelos órgãos competentes.
+É PROIBIDO AO USUÁRIO A REUTILIZAÇÃO E A RECICLAGEM DESTA
+EMBALAGEM VAZIA OU O FRACIONAMENTO E REEMBALAGEM DESTE
+PRODUTO.
+A destinação inadequada das embalagens vazias e restos de produtos
+no meio ambiente causa contaminação do solo, da água e do ar,
+prejudicando a fauna, a flora e a saúde das pessoas.
+14 – Informações sobre transporte
+Regulamentações nacionais e internacionais:
+Terrestre:
+MINISTÉRIO DOS TRANSPORTES. Decreto n° 96.044/1988 (ANTT, 2004); Resolução n° 420/2004 e suas
+atualizações.
+Hidroviário:
+INTERNATIONAL MARITIME ORGANIZATION. International Maritime Dangerous Goods Code (IMDG Code, 2012).
+Aéreo:
+INTERNATIONAL AIR TRANSPORT ASSOCIATION. Dangerous Goods Regulation. 54th ed. (IATA, 2013).
+
+Classificação para o transporte terrestre:
+Produto não perigoso para o transporte terrestre, segundo legislação vigente.
+
+Classificação para o transporte hidroviário:
+Produto não perigoso para o transporte terrestre, segundo legislação vigente.
+
+Classificação para o transporte aéreo:
+Produto não perigoso para o transporte terrestre, segundo legislação vigente.
+Ficha de Informações de Segurança de Produtos Químicos
+PRODUTO: SUPPORT Data de elaboração: 22/04/2002
+REVISÃO: 02 Data de revisão: 14/11/2014
+Página 10 de 13
+Aéreo:
+INTERNATIONAL AIR TRANSPORT ASSOCIATION. Dangerous Goods Regulation. 54th ed. (IATA, 2013).
+Classificação para o transporte terrestre:
+Produto não perigoso para o transporte terrestre, segundo legislação vigente.
+Classificação para o transporte hidroviário:
+Produto não perigoso para o transporte terrestre, segundo legislação vigente.
+Classificação para o transporte aéreo:
+Produto não perigoso para o transporte terrestre, segundo legislação vigente.
+15 – Informações sobre regulamentações
+Regulamentações específicas de segurança, saúde e meio ambiente para o produto químico
+Nacionais: Lei n° 7.802 de 11 de julho de 1989. Decreto n° 4.074 de janeiro de 2002.
+Esta Ficha de Informações de Segurança de Produtos Químicos (FISPQ) foi preparada
+de acordo com NBR 14725-4:2012, da ABNT (Associação Brasileira de Normas
+Técnicas).
+16 – Outras informações
+Informações importantes, mas não especificamente descritas nas seções anteriores
+Limitações e Garantias: As informações contidas nessa ficha correspondem ao estado atual do conhecimento
+técnico-científico Nacional e Internacional deste produto. As informações são fornecidas
+de boa fé, apenas como orientação, cabendo ao usuário a sua utilização de acordo com
+as leis e regulamentos federais, estaduais e locais pertinentes.
+Referências: AGENCY FOR TOXIC SUBSTANCES & DISEASES REGISTRY (ATSDR). Toxicological
+Profile for Ethylene glycol. Atlanta, United States of América, 2010. Disponível em:
+<http://www.atsdr.cdc.gov/ToxProfiles/tp96.pdf>. Acesso em: 23 set. 2013.
+AMERICAN CONFERENCE OF GOVERNMENTAL INDUSTRIAL HYGIENISTS (ACGIH).
+Threshold Limit Values (TLVs®) and Biological Exposure Indices (BEIs®).
+Cincinnati, OH, 2013.
+ASSOCIAÇÃO BRASILEIRA DA INDÚSTRIA QUÍMICA (ABIQUIM). Manual para
+atendimento a emergências com produtos perigosos. 6ª. ed. São Paulo, Brasil,
+2011.
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. ABNT NBR 14725-1: Produtos
+químicos: Informações sobre segurança, saúde e meio ambiente: Parte 1:
+Terminologia. Rio de Janeiro, Brasil, 2010. Versão corrigida.
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. ABNT NBR 14725-2: Produtos
+químicos: Informações sobre segurança, saúde e meio ambiente: Parte 2: Sistema de
+classificação de perigo. Rio de Janeiro, Brasil, 2009.
+Ficha de Informações de Segurança de Produtos Químicos
+PRODUTO: SUPPORT Data de elaboração: 22/04/2002
+REVISÃO: 02 Data de revisão: 14/11/2014
+Página 11 de 13
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. ABNT NBR 14725-3: Produtos
+químicos: Informações sobre segurança, saúde e meio ambiente: Parte 3: Rotulagem.
+2ª ed. Rio de Janeiro, Brasil, 2013. Versão corrigida 2.
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. ABNT NBR 14725-4: Produtos
+químicos: Informações sobre segurança, saúde e meio ambiente: Parte 4: Ficha de
+informações de segurança de produtos químicos. 2ª ed. Rio de Janeiro, Brasil, 2012.
+AUSTRALIAN PESTICIDES AND VETERINARY MEDICINES AUTHORITY (APVMA).
+Chemical Review Program: Human Health Risk Assessment - Thiophanate-methyl.
+Canberra, Australia: Department of Health and Ageing, 2009. Disponível em:
+<http://www.apvma.gov.au/products/review/docs/thiophanate-
+methyl_human_health.pdf>. Acesso em: 23 set. 2013.
+Banco de dados PLANITOX – The Science-based Toxicology Company.
+BRASIL. Decreto n° 4074, de 4 de janeiro de 2002. Regulamenta a Lei n° 7.802, de
+11/07/1989, que dispõe sobre a pesquisa, a experimentação, a produção, a
+embalagem e rotulagem, o transporte, o armazenamento, a comercialização, a
+propaganda comercial, a utilização, a importação, a exportação, o destino final dos
+resíduos e embalagens, o registro, a classificação, o controle, a inspeção e a
+fiscalização de agrotóxicos, seus componentes e afins, e dá outras providências. Diário
+Oficial [da] União, Poder Executivo, Brasília, DF, 8 jan. 2002.
+BRASIL. Decreto n° 96.044, de 18 de maio de 1988. Aprova o Regulamento para o
+transporte Rodoviário de Produtos Perigosos e dá outras providências. Diário Oficial
+[da] União, Poder Executivo, Brasília, DF, 19 maio 1988.
+BRASIL. Ministério dos Transportes. Resolução n° 420, de 12 de fevereiro de 2004.
+Aprova as instruções Complementares ao Regulamento do Transporte Terrestre de
+Produtos Perigosos. Diário Oficial [da] União, Poder Executive, Brasília, DF, 31 maio
+2004.
+EUROPEAN COMISSION (EC). Review report for the active substance
+thiophanate-methyl. Brussels, Belgium, 2005. Disponível em:
+<http://ec.europa.eu/food/plant/protection/evaluation/existactive/list_hiophanate-
+methyl.pdf>. Acesso em: 23 set. 2013.
+GOMES, R.; LITEPLO, R.; MEEK, M.E. Concise International Chemical Assessment
+Document 45 - Ethylene glycol: Human health aspects. Geneva, Switzerland: World
+Health Organization, 2002. Disponível em:
+<http://www.who.int/ipcs/publications/cicad/en/cicad45.pdf>. Acesso em: 23 set.
+2013.
+HAZARDOUS SUBSTANCES DATA BANK (HSDB). Ethylene glycol. Bethesda, United
+States of America: National Library of Medicine (US), Division of Specialized
+Information Services, 2012a. Disponível em: <http://toxnet.nlm.nih.gov/>. Acesso
+em: 23 set. 2013.
+HAZARDOUS SUBSTANCES DATA BANK (HSDB). Thiophanate-methyl. Bethesda,
+United States of America: National Library of Medicine (US), Division of Specialized
+Information Services, 2012b. Disponível em: <http://toxnet.nlm.nih.gov/>. Acesso
+em: 23 set. 2013.
+INTERNATIONAL AIR TRANSPORT ASSOCIATION (IATA). Dangerous Goods
+Regulation. 54th ed., Montreal, Canada, 2013.
+Ficha de Informações de Segurança de Produtos Químicos
+PRODUTO: SUPPORT Data de elaboração: 22/04/2002
+REVISÃO: 02 Data de revisão: 14/11/2014
+Página 12 de 13
+INTERNATIONAL MARITIME ORGANIZATION. International Maritime Dangerous
+Goods Code (IMDG Code). London, England, 2012.
+MINISTÉRIO DO TRABALHO E EMPREGO (MTE). Norma Regulamentadora n° 15:
+Atividades e operações insalubres. Diário Oficial [da] União, Poder Executivo,
+Brasília, DF, 6 jul. 1978 (atualizada em 28 jan. 2011b). Disponível em:
+<http://www.mte.gov.br/geral/publicacoes.asp>. Acesso em: 23 set. 2013.
+MINISTÉRIO DO TRABALHO E EMPREGO (MTE). NR 7 - Programa De Controle Médico
+De Saúde Ocupacional (107.000-2). Diário Oficial [da] União, Poder Executivo,
+Brasília, DF, 6 jul. 1978 (atualizada em 13 jun. 2011a). Disponível em:
+<http://portal.mte.gov.br/data/files/8A7C812D308E21660130E0819FC102ED/nr_07.p
+df>. Acesso em: 23 set. 2013.
+OCCUPATIONAL SAFETY & HEALTH ADMINISTRATION (OSHA). Chemical Sampling
+Information: Ethylene glycol Washington D.C., United States of America: United
+States Department of Labor, 2004. Disponível em:
+<http://www.osha.gov/dts/chemicalsampling/data/CH_240404.html>. Acesso em: 23
+set. 2013.
+THE NATIONAL INSTITUTE OF OCCUPATIONAL SAFETY AND HEALTH (NIOSH).
+Ethylene glycol. Atlanta, United States of America: Centers for Disease Control and
+Prevention, 2011. Disponível em: <http://www.cdc.gov/niosh/npg/npgd0272.html>.
+Acesso em: 23 set. 2013
+THE UNIVERSITY OF AKRON. Thiophanate-methyl. Ohio, United States of America,
+2010. Disponível em: <http://ull.chemistry.uakron.edu/erd/>. Acesso em: 23 set.
+2013.
+UNITED STATES ENVIRONMENTAL PROTECTION AGENCY (U.S. EPA). Endocrine
+Disruptor Screening Program Universe of Chemicals. Washington D.C., United
+States of America, 2012. Disponível em:
+<http://www.epa.gov/endo/pubs/edsp_chemical_universe_list_11_12.pdf>. Acesso
+em: 23 set. 2013.
+UNITED STATES ENVIRONMENTAL PROTECTION AGENCY (U.S. EPA). Reassessment
+of 3 Tolerances Exemptions for Ethylene Glycol, Diethylene Glycol, and the
+Combination of Diethylene Glycol Monomethyl Ether, Diethylene Glycol
+Monoethyl Ether, and Diethylene Glycol Monobutyl Ether. Washington, D.C.,
+United States of America, 2006. Disponível em:
+<http://www.epa.gov/opprd001/inerts/glycolethers.pdf>. Acesso em: 23 set. 2013.
+UNITED STATES ENVIRONMENTAL PROTECTION AGENCY (U.S. EPA). Reregistration
+Eligibility Decision (RED) for Thiophanate-methyl. Washington, D.C., United
+States of America, 2005. Disponível em:
+<http://www.epa.gov/oppsrrd1/REDs/tm_red.pdf>. Acesso em: 23 set. 2013.
+WORLD HEALTH ORGANIZATION (WHO). Ethylene Glycol: Human Health Aspects.
+Concise International Chemical Assessment Document 45. Geneva, 2002. Disponível
+em: <http://www.who.int/ipcs/publications/cicad/en/cicad45.pdf>. Acesso em: 23 set.
+2013.
+Legendas e abreviaturas: ACGIH - American Conference of Governmental Industrial Hygienists.
+BCF/FBC - Bioconcentration factor (fator de bioconcentração).
+C - Ceiling (valor teto).
+Ficha de Informações de Segurança de Produtos Químicos
+PRODUTO: SUPPORT Data de elaboração: 22/04/2002
+REVISÃO: 02 Data de revisão: 14/11/2014
+Página 13 de 13
+ca. - Carcinogen (Potencial carcinogênico de exposição ocupacional).
+CAS - Chemical Abstract Service.
+CE - Concentração efetiva do agente químico que causa inibição de 50% da biomassa
+50
+em relação ao controle, nas condições de teste.
+CL - Concentração que resulta em morte de 50% dos animais de experimentação,
+50
+nas condições de teste.
+COEX - Coextrusão; poliestireno co-extrusado/EVPE; poliamida polietileno/PAPE.
+DL - Dose administrada que resulta em morte de 50% dos animais de
+50
+experimentação, nas condições de teste.
+EPI - Equipamento de proteção individual.
+GHS - Globally Harmonized System of Classification and Labelling of Chemicals.
+IDLH - Limite Imediatamente Letal à Saúde (The Immediately Dangerous to Life or
+Health) estabelecido pela NIOSH.
+NIOSH - National Institute for Occupational Safety and Health.
+NIOSH IDLH - Limite Imediatamente Letal à Saúde (The Immediately Dangerous to
+Life or Health) estabelecido pela NIOSH.
+NIOSH REL - Limite de Exposição Recomendado (Recommended Exposure Limit)
+estabelecido pela NIOSH.
+OSHA - Occupational Safety and Health Administration.
+OSHA PEL - Limite de Exposição Permitido (Permissible Exposure Limit) estabelecido
+pela OSHA.
+Pa.s - Pascal segundo.
+p.c. - Peso corpóreo.
+ppm - Partes por milhão.
+STEL - Exposição de curta duração (Short-Term Exposure Limit).
+TWA - Média ponderada pelo Tempo (Time Weighted Average).

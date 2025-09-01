@@ -1,0 +1,486 @@
+Em conformidade com ABNT NBR 14725:2014-4
+FICHA DE INFORMAÇÃO DE SEGURANÇA DE PRODUTO QUÍMICO
+Produto: ÁCIDO PERACÉTICO
+Revisão: 03 Data: 30/10/2015 Página: 1/12
+1- IDENTIFICAÇÃO DO PRODUTO E FORNECEDOR
+Nome do produto: ÁCIDO PERACÉTICO
+Código Interno de Identificação do Produto: 3282
+Principais Usos Recomendados: Agente de limpeza, lavagem e desinfetante de uso
+profissional para as indústrias alimentícias, açúcar e álcool, celulose e papel, têxtil e
+curtumes.
+Distribuidor: HQUÍMICA EQUIPAMENTOS E PRODUTOS QUÍMICOS LTDA
+Rua Central, nº 303, Bairro: N.S do Rosário de Fátima.
+CEP: 29161-124 Serra/ES
+CNPJ: 05.671.199/0001-01 I.E.: 082.213.62-3
+PABX: (27) 3328-2800 // 3318-3825 // 99522-5639
+Telefone de Emergência: (27) 3328-2800
+Email: hquimica@hquimica.com.br, Website: www.hquimica.com.br
+2- IDENTIFICAÇÃO DE PERIGOS
+Perigo mais importante: O ácido peracético possui efeitos tóxicos principalmente
+ligados às propriedades corrosivas. Favorece a combustão de outras substâncias
+(produto comburente).
+Classificação do Produto químico:
+Líquidos inflamáveis: Categoria 4
+Peróxidos orgânicos: Tipo F
+Toxicidade aguda – Oral: Categoria 4
+Toxicidade aguda – Pele: Categoria 4
+Toxicidade aguda – Inalação: Categoria 1
+Corrosivo/irritante à pele: Categoria 1A
+Lesões oculares graves/Irritação ocular: Categoria 1
+Mutagenicidade em células germinativas: Categoria 2
+Toxicidade para órgão alvo específico – Exposição Única: Categoria 1
+Toxicidade para órgão alvo específico – Exposição Repetida: Categoria 1
+Perigoso ao ambiente aquático - Agudo: Categoria 2
+Sistema de classificação adotado: Norma ABNT-NBR 14725-Parte 2:2012.
+Adoção do Sistema Globalmente Harmozinado para Classificação e Rotulagem de
+Produtos Químicos, ONU.
+Visão geral de emergência: Perigo. Produto líquido inflamável, corrosivo à pele e aos
+olhos e tóxico para a vida aquática.
+Em conformidade com ABNT NBR 14725:2014-4
+FICHA DE INFORMAÇÃO DE SEGURANÇA DE PRODUTO QUÍMICO
+Produto: ÁCIDO PERACÉTICO
+Revisão: 03 Data: 30/10/2015 Página: 2/12
+Elementos apropriados da rotulagem:
+Pictogramas:
+Palavra de Advertência: PERIGO
+Frases de Perigo:
+H227-Líquido combustível.
+H242-Pode incendiar sob ação do calor.
+H302-Nocivo se ingerido.
+H312-Nocivo em contato com a pele.
+H330-Fatal se inalado.
+H314-Provoca queimadura severa à pele e dano aos olhos.
+H318-Provoca lesões oculares graves.
+H341-Suspeito de provocar defeitos genéticos.
+H370-Provoca danos aos órgãos respiratórios se inalado.
+H372-Provoca danos aos órgãos respiratórios e ao fígado através da exposição repetida
+ou prolongada.
+H401-Tóxico para os organismos aquáticos.
+Frases de Precaução:
+P210-Mantenha afastado de calor, faíscas, chamas abertas, superfícies quentes – Não
+Fume.
+P280-Use luvas de proteção, roupas de proteção, proteção ocular e proteção facial.
+P220-Mantenha e guarde afastado de roupas e materiais incompatíveis.
+P234-Mantenha somente no recipiente original.
+P260-Não inale fumos, gases, névoas, vapores e aerossóis.
+P271-Utilize apenas ao ar livre ou em locais bem ventilados.
+P284-Em caso de ventilação inadequada utilize equipamento de proteção respiratória.
+P264-Lave cuidadosamente os EPI’s e as mãos após o manuseio.
+P201-Obtenha instruções específicas antes da utilização.
+P202-Não manuseie o produto antes de ter lido e compreendido todas as precauções de
+segurança.
+P270-Não coma, beba ou fume durante a manipulação deste produto.
+P273-Evite a liberação para o meio ambiente.
+A Ficha de Informação de Segurança de Produtos Químicos deste produto químico
+perigoso pode ser solicitada pelo telefone: (16) 2101-1246
+Em conformidade com ABNT NBR 14725:2014-4
+FICHA DE INFORMAÇÃO DE SEGURANÇA DE PRODUTO QUÍMICO
+Produto: ÁCIDO PERACÉTICO
+Revisão: 03 Data: 30/10/2015 Página: 3/12
+3- COMPOSIÇÃO – INFORMAÇÕES SOBRE INGREDIENTES
+Fórmula química: CH – COOOH;
+3
+Peso molecular: 76,0;
+Caracterização química: Mistura equilibrada de ácido peracético, peróxido de
+hidrogênio, ácido acético e água;
+ Ácido Peracético:
+- Concentração: mínimo 15%;
+- CAS Nº: 79-21-0;
+ Peróxido de Hidrogênio:
+- Concentração: mínimo 23%;
+- CAS Nº: 7722-84-1;
+ Ácido Acético:
+- Concentração: mínimo 16%;
+- CAS Nº: 64-19-7;
+4- MEDIDAS DE PRIMEIROS SOCORROS
+Recomendações gerais:
+- Médico com urgência em todos os casos;
+- Equipamento de proteção individual para os socorristas (ver seção 8);
+- Em caso de projeção nos olhos e na face, tratar os olhos com prioridade;
+- Não secar as roupas contaminadas perto de uma fonte de calor viva ou
+incandescente;
+- Mergulhar as roupas contaminadas num recipiente com água;
+Efeitos:
+Efeitos principais: Corrosivo para as mucosas, para os olhos e a pele. A
+gravidade das lesões e o prognóstico da intoxicação dependem diretamente da
+concentração e da duração da exposição;
+Inalação: Irritação intensa do nariz e da garganta. Acessos de tosse e
+respiração difícil. Risco de broncopneumonia química, de edema pulmonar. No
+caso de exposições repetidas ou prolongadas: risco de dor de garganta, de perda
+de sangue pelo nariz, de bronquite crônica;
+Contato com os olhos: Irritação intensa, lacrimejo, vermelhidão dos olhos e
+edema das pálpebras. Queimaduras. Risco de lesões graves ou permanentes nos
+olhos. Risco de perda de visão;
+Contato com a pele: Irritação dolorosa, vermelhidão e destacamento ou erosão
+da pele. Risco de queimaduras profundas;
+Ingestão: Risco pouco provável (odor picante). Face pálida e cianozada.
+Irritação intensa, queimaduras, risco de perfuração digestiva com estado de
+choque. Abundantes secreções da boca e do nariz, com risco de sufocação. Risco
+de edema da garganta, com sufocação. Tumefacção do estômago, eruptações
+Em conformidade com ABNT NBR 14725:2014-4
+FICHA DE INFORMAÇÃO DE SEGURANÇA DE PRODUTO QUÍMICO
+Produto: ÁCIDO PERACÉTICO
+Revisão: 03 Data: 30/10/2015 Página: 4/12
+(arrotos). Náuseas e vômitos ensangüentados. Tosse e respiração difícil. Risco
+de broncopneumonia química, de edema pulmonar;
+Primeiros socorros:
+Inalação: Afastar a vítima, o mais rapidamente possível, da zona poluída,
+transportá-la deitada, com o tronco levantado, para um local calmo, fresco e
+bem arejado. Reanimação respiratória ou oxigênio, se necessário. Médico com
+urgência em todos os casos. Evitar o arrefecimento da vítima (cobrindo-a);
+Contato com os olhos: Sem perda de tempo, lavar os olhos com água corrente
+durante 15 minutos, mantendo as pálpebras bem afastadas. Administrar um
+colírio analgésico (oxibuprocaína) em caso de dificuldade de abertura das
+pálpebras. Oftalmologista com urgência em todos os casos. Prever com urgência
+o transporte para um centro hospitalar;
+Contato com a pele: Retirar o calçado, as meias e a roupa contaminada, sob a
+ducha se necessário, e lavar a pele atingida com água corrente. Evitar o
+arrefecimento da vítima (cobrindo-a) e arranjar roupas limpas. Médico com
+urgência em todos os casos;
+Ingestão:
+Generalidades: Médico com urgência em todos os casos. Prever o transporte
+urgente para um centro hospitalar;
+Vítima consciente: Fazer lavar a boca e dar a beber água fresca. Não fazer
+vomitar;
+Vítima inconsciente: Desapertar-lhe o colarinho e as roupas apertadas, deita-
+la sobre o seu lado esquerdo, em posição lateral de segurança. Reanimação
+respiratória ou oxigênio, se necessário. Evitar o arrefecimento da vítima
+(cobrindo-a);
+Conselhos médicos:
+Inalação: Reanimação respiratória (oxigenoterapia). Se necessário, entubação
+traqueal. Prevenção ou tratamento do estado de choque, do edema pulmonar e
+da infecção bacteriana;
+Contato com os olhos: Conforme opinião do oftalmologista. Vigilância médica
+de uma a duas semanas;
+Contato com a pele: Tratamento clássico das queimaduras;
+Ingestão: Oxigenoterapia por entubação intra-traqueal. Se necessário,
+traqueostomia. Colocação de uma sonda gástrica para liberar gases do
+estômago. Evitar a lavagem gástrica (risco de perfuração). No caso de dor
+intensa, administração de um analgésico morfinomimético em I.M. (piritramida)
+antes do transporte para um centro hospitalar. Prevenção ou tratamento do
+estado de choque, do edema pulmonar. Endoscopia digestiva urgente com
+evacuação do produto por aspiração.Tratamento das queimaduras digestivas e
+das suas seqüelas.
+5- MEDIDAS DE COMBATE A INCÊNDIO
+Meios de extinção apropriados: Água em grandes quantidades, água pulverizada;
+Em conformidade com ABNT NBR 14725:2014-4
+FICHA DE INFORMAÇÃO DE SEGURANÇA DE PRODUTO QUÍMICO
+Produto: ÁCIDO PERACÉTICO
+Revisão: 03 Data: 30/10/2015 Página: 5/12
+Meios de extinção a proscrever: Não há restrições;
+Riscos particulares: Comburente (ver secção 9). O oxigênio liberado em conseqüência
+da decomposição exotérmica pode favorecer a combustão no caso de incêndio próximo.
+Agente comburente pode causar a inflamação espontânea de materiais combustíveis. O
+contato com produtos inflamáveis pode causar incêndios ou explosões. Uma sobre
+pressão pode produzir-se em caso de decomposição nos espaços ou recipientes
+confinados;
+Medidas de proteção em caso de intervenção: Mandar evacuar qualquer pessoa
+não indispensável. Deixar intervir apenas pessoas treinadas, informadas sobre os
+perigos dos produtos e aptas. Usar vestuário e equipamento ignífugos de bombeiros.
+Usar aparelho autônomo de respiração em intervenções próximas ou em locais
+confinados. Usar vestuário antiácido em intervenções próximas. Proceder à limpeza dos
+equipamentos após intervenção (passagem sob chuveiro, limpeza com precaução,
+lavagem e verificação);
+Outras precauções: Se possível, evacuar os recipientes expostos ao fogo, se não,
+arrefecê-los com abundante quantidade de água. Aproximar-se do perigo de costas
+para o vento. Manter-se à distância, protegido e ao abrigo de proteções. Não se
+aproximar de recipientes que estiveram expostos ao fogo sem os arrefecer
+suficientemente.
+6- MEDIDAS DE CONTROLE PARA DERRAMAMENTO OU VAZAMENTO
+Precauções individuais e coletivas: Respeitar as medidas de proteção mencionadas
+na secção 5. Respeitar as medidas de proteção mencionadas na secção 8. Isolar a zona
+de perigo. Aproximar-se do perigo de costas para o vento. Afastar os materiais e
+produtos incompatíveis com o produto (ver seção 10). Se possível, sem expor o
+pessoal, tentar para a fuga. No caso de contato com materiais combustíveis, evitar a
+secagem do produto por diluição com água;
+Métodos de limpeza: Se possível, delimitar com areia ou terra as grandes
+quantidades de líquido. Diluir abundantemente com água. Não adicionar produtos
+químicos. Para a eliminação, consultar a secção 13. Para evitar qualquer risco de
+contaminação, o produto recuperado não pode ser reintroduzido no seu reservatório ou
+na sua embalagem de origem;
+Precauções para a proteção do ambiente: Não escorrer no meio ambiente (esgotos,
+ribeiros, solos, etc). Prevenir imediatamente as autoridades competentes no caso de
+derrame importante.
+7- MANUSEIO E ARMAZENAMENTO
+Manipulação: Operar num local bem ventilado. Manipular afastado de fontes de calor.
+Manipular o produto afastado de outros produtos incompatíveis. Evitar em absoluto
+qualquer contato com matérias orgânicas. Utilizar aparelhagem em materiais
+compatíveis com o produto. Antes de qualquer operação, passivar os circuitos de
+tubagens e aparelhos segundo o processo recomendado pelo produtor. Nunca repor no
+recipiente de armazenagem qualquer porção não utilizada do produto. Prever a
+Em conformidade com ABNT NBR 14725:2014-4
+FICHA DE INFORMAÇÃO DE SEGURANÇA DE PRODUTO QUÍMICO
+Produto: ÁCIDO PERACÉTICO
+Revisão: 03 Data: 30/10/2015 Página: 6/12
+disponibilidade de água para a hipótese de um acidente. A aparelhagem utilizada deve
+servir exclusivamente para o produto;
+Armazenagem: Num local arejado, fresco. Afastado de fontes de calor. Afastado de
+produtos incompatíveis (ver secção 10). Afastado de substâncias combustíveis.
+Conservar em recipientes de origem, fechados. Conservar em recipientes munidos de
+válvulas/respiradores de segurança. Bacia de retenção sob os recipientes e instalações
+de transporte. Controlar regularmente o estado e a temperatura dos recipientes. Para a
+armazenagem a granel, consultar o produtor;
+Outras precauções: Advertir o pessoal dos perigos do produto. Respeitar as medidas
+de proteção mencionadas na seção 8. Não confinar o produto num círculo, entre
+válvulas fechadas, ou num recipiente que não disponha de válvula de segurança. Em
+instalações industriais, aplicar as regras de prevenção contra acidentes graves
+(consultar um especialista);
+Materiais de embalagem/transporte: Graus compatíveis de PE de alta densidade.
+Aço inoxidável decapado e passivado.
+8- CONTROLE DE EXPOSIÇÃO E PROTEÇÃO INDIVIDUAL
+Medidas de ordem técnica: Ventilação dos locais. Prever uma aspiração local
+adequada se há riscos de emissão. Instalar dispositivos que permitam respeitar os
+valores limites de exposição. Respeitar as medidas de proteção mencionadas na seção
+7;
+Valores limites de exposição:
+Ácido peracético:
+SAEL (Solvay) 1997-98
+TWA: 0,15 ppm;
+Peróxido de hidrogênio:
+TLV (ACGIH – USA) 1997-98
+TWA: 1 ppm;
+TWA: 1,4 mg/m3;
+Ácido acético:
+TLV (ACGHI – USA) 1997-98
+TWA: 25 mg/m3;
+TWA: 10 ppm;
+STEL: 37 mg/m3;
+STEL: 15 ppm;
+Proteção respiratória: Em caso de emanação, máscara facial com cartucho tipo B. Em
+todos os casos em que as máscaras de cartucho são insuficientes/aparelho respiratório
+a ar ou autônomo em meio confinado/se oxigênio insuficiente/em caso de emanações
+importantes ou não controladas. Utilizar somente um aparelho respiratório conforme
+com as normas internacionais/nacionais;
+Proteção para mãos: Luvas de proteção com resistência química. Matérias
+aconselhadas: borracha butilo;
+Proteção dos olhos: Se risco de proteções, óculos químicos estanques ou viseira;
+Proteção da pele: Vestuário protetor. Vestuário de proteção/ botas em borracha
+butilo, se risco de proteções;
+Em conformidade com ABNT NBR 14725:2014-4
+FICHA DE INFORMAÇÃO DE SEGURANÇA DE PRODUTO QUÍMICO
+Produto: ÁCIDO PERACÉTICO
+Revisão: 03 Data: 30/10/2015 Página: 7/12
+Medidas de higiene específicas: Chuveiros e fontes oculares. Consultar o higienista
+industrial ou o engenheiro de segurança para a seleção do melhor equipamento de
+proteção individual adaptado às condições de trabalho.
+9- PROPRIEDADES FÍSICO-QUÍMICAS
+Aspecto: Líquido;
+Cor: Incolor;
+Odor: Acre;
+Mudança de estado:
+Ponto de congelamento: Aproximadamente - 30º C (negativos);
+Ponto/intervalo de ebulição (1013 mBar): Não aplicável (decomposição);
+Ponto de inflamação: 84º C (vaso fechado);
+Inflamabilidade: Não inflamável;
+Auto-inflamabilidade: Não inflamável;
+Pressão de vapor: Não há dados;
+Densidade relativa (D 20/4): 1,12 g/cm3;
+Densidade de vapor (ar = 1): Não há dados;
+Solubilidade: Miscível em todas as proporções com água;
+Solúvel em solventes orgânicos polares;
+Ligeiramente solúvel em solventes aromáticos;
+pH: Não aplicável;
+Coeficiente de repartição (n-octanol/água): Não há dados;
+Viscosidade (à 25º C): 1,6 cSt;
+Temperatura de decomposição: Decomposição auto-acelerada com libertação de
+oxigênio a partir de 55 gr.C.;
+Perigo de explosão: Não aplicável;
+Propriedades comburentes: Comburente.
+10- ESTABILIDADE E REATIVIDADE
+Estabilidade: Estável nas condições normais de utilização com lenta libertação de gás;
+Condições a evitar: Calor e fontes de calor;
+Matérias a evitar: Ácidos, bases, metais, sais metálicos, agentes redutores, matérias
+orgânicas, matérias inflamáveis;
+Produtos de decomposição perigosos: Oxigênio;
+Outras informações: Libertação de vapor de água, fumos nocivos, calor em caso de
+decomposição.
+11- INFORMAÇÕES TOXICOLÓGICAS
+11.1. Toxicidade aguda
+11.1.1. Toxicidade aguda oral
+- DL50, Ratazana, 652 mg/kg (11,7 % )
+Em conformidade com ABNT NBR 14725:2014-4
+FICHA DE INFORMAÇÃO DE SEGURANÇA DE PRODUTO QUÍMICO
+Produto: ÁCIDO PERACÉTICO
+Revisão: 03 Data: 30/10/2015 Página: 8/12
+11.1.2. Toxicidade aguda inalatória
+- CL50, Ratazana , 0,5 - 1,3 mg/l, aerossol (15 % PAA mixture)
+11.1.3. Toxicidade aguda dérmica
+- DL50, Coelho, 1.957 mg/kg (11,7 % PAA mixture)
+11.1.4. Irritação (outra via)
+- Inalação, Irritante para as vias respiratórias. (1 % PAA mixture)
+11.2. Corrosão/irritação da pele
+- Coelho, Corrosivo (10 % PAA mixture)
+11.3. Lesões oculares graves/irritação ocular
+- Coelho, Risco de graves lesões oculares. (10 % PAA mixture)
+11.4. Sensibilização respiratória ou da pele
+- Cobaia, Não provoca sensibilização em animais de laboratório.
+11.5. Mutagenicidade em células germinativas
+- Os testes in vitro não mostraram efeitos mutagênicos
+- Testes feitos com animais não demonstraram efeitos mutagênicos.
+11.6. Carcinogenicidade
+- Dados não disponíveis
+11.7. Efeitos da toxicidade na reprodução e lactação
+- Nenhuma toxicidade para reprodução
+- Ratazana, 30,4 mg/kg, NOAEL, efeito fetotóxico
+- Ratazana, 12,5 mg/kg, NOAEL, fêmea
+11.8. Toxicidade sistêmica de órgão-alvo específico - exposição repetida
+- Oral, 13 semanas, Ratazana, 0,75 mg/kg, NOAEL
+11.9. Outras Informações
+- Dados não disponíveis
+12- INFORMAÇÕES ECOLÓGICAS
+Ecotoxidade aguda:
+LC (peixes, Salmo gairdneri, 96 horas): 13 mg/L;
+50
+Condições: Água doce;
+Peixes, (Salmo gairdneri), NOEC: pigmentação;
+Ecotoxicidade crônica:
+LC Peixes, espécies diversa;
+50
+Em conformidade com ABNT NBR 14725:2014-4
+FICHA DE INFORMAÇÃO DE SEGURANÇA DE PRODUTO QUÍMICO
+Produto: ÁCIDO PERACÉTICO
+Revisão: 03 Data: 30/10/2015 Página: 9/12
+Resultado: Não há dados;
+NOEC;
+Resultado: Não há dados;
+Vegetais terrestres, espécies diversas, LOEC, fitotoxicidade: 10 mg/L;
+Resultado: Efeito fitotóxico;
+Mobilidade:
+Ar resultado: Volatilidade não significativa;
+Água resultado: Solubilidade e mobilidade importantes;
+Solo resultado: Adsorção não significativa;
+Sedimentos resultado: Adsorção não significativa;
+Degradabilidade abiótica:
+Ar resultado: Fotólise significativa;
+Água: t ½ aprox. 120 horas;
+Resultado: Hidrólise significativa;
+Produtos de degradação: Ácido acético e peróxido de hidrogênio (bio)
+degradável;
+Cinética função da temperatura, da diluição e da presença de impurezas (solução
+0,2%);
+Solo: 99%, 20 minutos.
+Resultado: Degradação significativa (Solução a 1%);
+Degradabilidade biótica:
+Aeróbia, teste: Biodegradabilidade fácil/ frasco fechado;
+Resultado: Não biodegradável;
+Aeróbia, teste: Biodegradabilidade intrínseca, 70%, 28 dias.
+Condições: Concentração ensaiada: 2 – 5 ppm/cultura adaptada;
+Anaeróbia: Resultado: Não há dados;
+Efeitos sobre as instalações de tratamento biológico: 90 mg/l
+Resultado: Ação inibidora;
+Efeitos sobre as instalações de tratamento biológico: Resultado: Aumento
+da CBO do efluente tratado por formação de ácido acético;
+Potencial de bioacumulação:Resultado: Não bioacumulável;
+Apreciação: Tóxico para os organismos aquáticos. Contudo, o perigo para o ambiente
+é limitado, em virtude das propriedades do produto: A ausência de bioacumulação, a
+sua alta degradabilidade abiótica e biótica, a fraca persistência dos produtos de
+degradação.
+13- CONSIDERAÇÕES SOBRE TRATAMENTO E DISPOSIÇÃO
+Tratamento dos resíduos: Tratar em conformidade com os regulamentos locais e
+nacionais. Pequenas quantidades. Diluir até 0,1% com água. Depois deste tratamento,
+o produto pode ser enviado para uma estação de depuração biológica. Quantidades
+importantes. Consultar o fornecedor;
+Tratamento das embalagens: Lavar abundantemente a embalagem com água e
+tratar o efluente como um resíduo. Não lavar as embalagens de circulação reservadas a
+este produto. As embalagens esvaziadas e limpas podem ser reutilizadas em
+conformidade com as regulamentações;
+Em conformidade com ABNT NBR 14725:2014-4
+FICHA DE INFORMAÇÃO DE SEGURANÇA DE PRODUTO QUÍMICO
+Produto: ÁCIDO PERACÉTICO
+Revisão: 03 Data: 30/10/2015 Página: 10/12
+Tudo que não puder ser recuperado ou reciclado deve ser descartado em uma
+instalação adequada e aprovada para descarte. Regulamentações de descarte locais ou
+estaduais podem deferir de regulamentos federais. O descarte de recipientes e de
+porções não utilizadas deste produto devem estar de acordo com as exigências legais
+federais, estaduais e locais.
+14- INFORMAÇÕES SOBRE TRANSPORTE
+ANTT -Nacional de Transportes Terrestres.
+Nº ONU: 3109
+Nome apropriado para embarque: Peróxido Orgânico, tipo F, Liquido
+Classe de Risco: 5.2
+Risco subsidiário: -
+Nº de Risco: 539
+Grupo de embalagem: II;
+Quantidade Limitada por Veículo: 333 kg
+IATA: transporte aéreo não permitido;
+Nº ONU: 3109;
+Classe IATA: 5,2;
+Risco subsidiário: CORROSIVO;
+Grupo de embalagem: II;
+Etiqueta: Peróxido Orgânico + Corrosivo;
+Classe IMDG: 5,2;
+Risco subsidiário: CORROSIVO;
+Grupo de embalagem: II;
+Etiqueta: Peróxido Orgânico + Corrosivo;
+Numeração painéis cisterna: 3109;
+MFAG: 735;
+EmS: 5,2 – 5;
+Denominação IMDG: Peróxido Orgânico de Tipo F, Líquido;
+Classe ADR/ADNR: 5,2 , 9º b;
+Risco subsidiário: 8;
+Grupo de embalagem: II;
+Etiqueta: 5,2 + 8;
+Numeração de painéis cisterna: 539/3109;
+Denominação ADR/RID: Peróxido Orgânico de Tipo F, Líquido;
+Classe RID: 5,2 , 9º b;
+Risco subsidiário: 8;
+Grupo de embalagem: II;
+Etiqueta: 5,2 + 8;
+Numeração painéis cisterna: 539/3109;
+Denominação ADR/RID: Peróxido Orgânico de Tipo F, Líquido;
+Etiquetas tipo ADR podem ser necessárias adaptações segundo as embalagens e
+meios de transporte previstos.
+Em conformidade com ABNT NBR 14725:2014-4
+FICHA DE INFORMAÇÃO DE SEGURANÇA DE PRODUTO QUÍMICO
+Produto: ÁCIDO PERACÉTICO
+Revisão: 03 Data: 30/10/2015 Página: 11/12
+15- INFORMAÇÕES SOBRE REGULAMENTAÇÕES
+ABNT NBR 14725: Produtos químicos - Informações sobre segurança, saúde e meio
+ambiente.
+ABNT NBR 14725-2: Parte 2: Sistema de Classificação de Perigo.
+ABNT NBR 14725-3: Parte 3: Rotulagem.
+ABNT NBR 14725-4: Parte 4: Ficha de Informação de Segurança de Produtos Químicos
+(FISPQ).
+ONU - GHS: Sistema Globalmente Harmonizado de Classificação e Rotulagem de Produtos
+Químicos, Revisão 3.
+16- OUTRAS INFORMAÇÕES
+Nos locais onde se manipulam produtos químicos deverá ser realizado o
+monitoramento da exposição dos trabalhadores, conforme PPRA (Programa de
+Prevenção de Riscos Ambientais) da NR-9. Funcionários que manipulam produtos
+químicos, em geral, devem ser monitorados biologicamente conforme o PCMSO
+(Programa de Controle Médico de Saúde Ocupacional) da NR-7.
+TERMO DE RESPONSABILIDADE
+Os dados e informações aqui transcritos se revestem de caráter meramente
+complementar, são fornecidos de boa fé, e representam o que de melhor até hoje se
+tem conhecido sobre a matéria, não significando, porém, que exaurem completamente
+o assunto. Nenhuma garantia é dada sobre o resultado da aplicação destes dados e
+informações, não eximindo os usuários de suas responsabilidades em qualquer fase do
+manuseio do produto. Prevalece sobre os dados aqui contidos o disposto nos
+regulamentos governamentais existente.
+As informações aqui contidas baseiam-se no atual nível de conhecimento da empresa. O
+usuário dos produtos é responsável pelo cumprimento das leis e das determinações
+existentes.
+Legenda da FISPQ:
+CAS – Chemical Abstracts Service Registry Number (Número de Registro do Serviço de
+Resumos Químicos);
+IATA = Internacional Air Transport Association (Agência Internacional para Transporte
+Aéreo);
+IATA – DGR = Internacional Air Transport Association - Dangerous Goods Code
+(Agência Internacional para Transporte Aéreo – Código de Produtos Perigosos);
+IDHL = Immdiately Dangerous to Life or Health Concentrations (Concentrações de
+Imediato Perigo à Vida e à Saúde);
+IMDG = International Maritime Dangerous Goods (Agência Internacional para
+Transporte Marítimo);
+LC = Lethal Concentration ( Concetração Letal para 50%);
+50
+Em conformidade com ABNT NBR 14725:2014-4
+FICHA DE INFORMAÇÃO DE SEGURANÇA DE PRODUTO QUÍMICO
+Produto: ÁCIDO PERACÉTICO
+Revisão: 03 Data: 30/10/2015 Página: 12/12
+LD = Letal Dose (Dose Letal para 50%);
+50
+NIOSH = National Institute for Ocupational Safety and Health (Instituto Nacional para
+a Saúde e Segurança Ocupacional);
+NR = Norma Regulamentadora;
+OSHA = Occupational Safety and Health Administration ( Administração em Saúde e
+Segurança Ocupacional).

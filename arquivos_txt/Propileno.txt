@@ -1,0 +1,351 @@
+Data da última revisão
+26/08/2019 | Versão:
+10 | FISPQ Nº
+221 | Página
+1 de 8
+Ficha de informações de segurança de produtos químicos
+(FISPQ)
+Nome da substância ou mistura: PROPILENO
+Data da última revisão Versão: FISPQ Nº Página
+26/08/2019 10 221 1 de 8
+1. Identificação
+Nome da substância ou mistura (nome comercial): PROPILENO
+Principais usos recomendados para a substância ou mistura: USO INDUSTRIAL
+Código interno de identificação da substância ou mistura: 000
+Nome da Empresa: Messer Gases
+Endereço:Alameda Mamoré, 989 – 8º e 12º andar - Alphaville
+Complemento:CEP 06454-040 – Barueri/ SP
+Telefone para contato: 0800 7254633
+Telefone para emergências: 0800 7254633
+2. Identificação de perigos
+Classificação da substância ou mistura: Gases inflamáveis (incluindo os gases quimicamente instáveis):
+Categoria 1 - Gases sob pressão: Classificação Gás liquefeito
+Elementos de rotulagem do GHS
+Palavra de advertência: Perigo
+Frase(s) de perigo: H220 - Gás extremamente inflamável . H280 - Contém gás sob pressão: pode explodir
+sob ação do calor .
+Frase(s) de precaução:
+• Geral:P103 - Leia o rótulo antes de utilizar o produto.
+• Prevenção: P210 - Mantenha afastado do calor/faísca/chama aberta/superfícies quentes. — Não
+fume.
+• Resposta à emergência: P377 - Vazamento de gás com chamas: não apague, a menos que se
+possa conter o vazamento com segurança., P381 - Elimine todas as fontes de ignição se puder ser
+feito com segurança.
+• Armazenamento: P410 + P403 - Mantenha ao abrigo da luz solar. Armazene em local bem
+ventilado.
+• Disposição:NE - Não exigidas
+Outros perigos que não resultam em uma classificação: É um asfixiante simples e, em concentrações
+elevadas, provoca asfixia por redução da concentração de oxigênio do ambiente.
+Outras informações: Não apresenta impurezas que contribuam para o perigo.
+Data da última revisão
+26/08/2019 | Versão:
+10 | FISPQ Nº
+221 | Página
+2 de 8
+Ficha de informações de segurança de produtos químicos
+(FISPQ)
+Nome da substância ou mistura: PROPILENO
+Data da última revisão Versão: FISPQ Nº Página
+26/08/2019 10 221 2 de 8
+3. Composição e informações sobre os ingredientes
+Tipo de produto: Substância
+Nome químico comum ou nome técnico: PROPILENO
+Sinônimo:C3H6
+N° CAS: 115-07-1
+Esta substância não contém impurezas que contribuam para o perigo.
+4. Medidas de primeiros socorros
+Medidas de primeiros socorros
+• Inalação: Os gases podem provocar tontura ou asfixia. Remova a vítima para local ventilado e a
+mantenha em repouso numa posição que não dificulte a respiração. Monitore a função respiratória. Se a
+vítima estiver respirando com dificuldade, forneça oxigênio. Se necessário aplique respiração artificial.
+Consulte um médico. Leve esta FISPQ.
+• Contato com a pele: Lave a pele exposta com quantidade suficiente de água para remoção do
+material. Em caso de irritação cutânea: Consulte um médico. Leve esta FISPQ.
+• Contato com os olhos: Em caso de contato do produto na forma pressurizada com os olhos pode
+ocorrer lesão ou queimadura por congelamento (frostbite). Lave imediatamente os olhos com
+quantidade suficiente de água, mantendo as pálpebras abertas. No caso de uso de lentes de contato,
+remova-as, se for fácil. Continue enxaguando. Consulte um médico. Leve esta FISPQ.
+• Ingestão: É uma maneira improvável de exposição, mas o contato com o líquido pode resultar no
+congelamento dos lábios e da boca. Havendo o contato, imediatamente banhe o local com água
+corrente durante 15 minutos no mínimo. Não induza o vômito. Nunca forneça algo por via oral a uma
+pessoa inconsciente. Procure um médico, leve esta FISPQ.
+Sintomas e efeitos mais importantes, agudos ou tardios: É um asfixiante simples e, em concentrações
+elevadas, provoca asfixia por redução da concentração de oxigênio do ambiente. Pode provocar sonolência ou
+vertigem com tontura e náuseas.
+Notas para o médico: 'Tratamento sintomático. Em caso de contato com a pele não friccione o local atingido.
+O gás frio ou o líquido pode causar congelamento.
+5. Medidas de combate a incêndio
+Meios de extinção apropriados: Compatível com espumal, neblina dágua, pó químico seco e dióxido de
+carbono (CO2).
+Meios de extinção inadequados: Não jogue água diretamente no ponto de vazamento.
+Perigos específicos da substância ou mistura: Gás extremamente inflamável. Contém gás sob pressão:
+pode explodir sob ação do calor. Muito perigoso quando exposto a calor excessivo ou outras fontes de ignição
+como: faíscas, chamas abertas ou chamas de fósforos e cigarros, operações de solda, lâmpadas-piloto e
+motores elétricos. Pode deslocar-se por grandes distâncias provocando retrocesso da chama ou novos focos
+de incêndio.
+Data da última revisão
+26/08/2019 | Versão:
+10 | FISPQ Nº
+221 | Página
+3 de 8
+Ficha de informações de segurança de produtos químicos
+(FISPQ)
+Nome da substância ou mistura: PROPILENO
+Data da última revisão Versão: FISPQ Nº Página
+26/08/2019 10 221 3 de 8
+Medidas de proteção da equipe de combate a incêndio: Óculos de proteção, luvas de segurança de raspa
+de couro, vestuário protetor adequado e sapatos de segurança com biqueira de aço. Equipamento de proteção
+respiratória do tipo autônomo (SCBA) com pressão positiva. Pare o vazamento, se isso puder ser feito sem
+risco. Antes de entrar nas áreas, especialmente confinadas, verifique a atmosfera com um equipamento
+adequado (ex. Explosímetro)
+6. Medidas de controle para derramamento ou vazamento
+Precauções pessoais, equipamentos de proteção e procedimentos de emergência
+• Para o pessoal que não faz parte dos serviços de emergência: Imediatamente retire-se da área de
+risco. Não tocar no produto. Ficar afastado de áreas baixas e ficar em posição que mantenha o vento
+pelas costas.
+• Para o pessoal do serviço de emergência: Óculos de segurança de ampla visão, luvas de segurança
+adequadas, vestuário protetor e sapato de segurança com biqueira de aço. Em caso de grandes
+vazamentos, recomenda-se o uso de equipamento de proteção respiratória do tipo autônomo (SCBA)
+com pressão positiva. Isole o vazamento de fontes de ignição.
+Precauções ao meio ambiente: Impedir a entrada do produto em esgotos, fossas ou qualquer outro lugar
+onde possa acumular atmosfera perigosa.
+Métodos e materiais para o estancamento e a contenção: Interromper o vazamento se puder ser feito sem
+riscos. Remova fontes de calor. Ventile a área do vazamento ou remova os recipientes com vazamento para
+área bem ventilada se não houver risco.
+Isolamento da área: Como ação imediata de precaução, isolar a área de derramamento ou vazamento em um
+raio de 100 metros, no mínimo, em todas as direções. Se a carga ou tanque estiver envolvido no fogo, ISOLE a
+área num raio de 1600 metros em todas as direções. Considere a necessidade de evacuação da área isolada.
+Métodos e materiais para a limpeza: Ventile a área antes de iniciar o processo de limpeza. Mantenha o
+pessoal não autorizado distante da área de risco. Contate a Messer Gases.
+7. Manuseio e armazenamento
+Precauções para manuseio seguro
+• Prevenção da exposição do trabalhador: Utilize EPI completo com óculos de segurança de ampla
+visão, luvas de segurança de raspa de couro, vestuário protetor adequado e sapatos fechados com
+biqueira de aço.
+• Prevenção de incêndio e explosão: Mantenha afastado do calor, faísca, chama aberta, superfícies
+quentes. Não fume. Utilize apenas ferramentas antifaiscantes. Use apenas equipamento à prova de
+explosão
+• Precauções e orientações para o manuseio seguro: Obtenha instruções específicas antes da
+utilização. Não respirar gás/vapor. Evitar todo contato com a pele, olhos ou roupa. Utilizar sempre o
+regulador de pressão na utilização do gás. Usar válvulas do tipo corta-chama de modo a evitar que
+retrocessos de chama atinjam o cilindro. Mantenha afastado do calor, faísca, chama aberta, superfícies
+quentes. Utilize apenas ferramentas antifaiscantes. Usar apenas equipamento à prova de explosão
+Data da última revisão
+26/08/2019 | Versão:
+10 | FISPQ Nº
+221 | Página
+4 de 8
+Ficha de informações de segurança de produtos químicos
+(FISPQ)
+Nome da substância ou mistura: PROPILENO
+Data da última revisão Versão: FISPQ Nº Página
+26/08/2019 10 221 4 de 8
+• Medidas de higiene
+• Apropriadas: Lave as mãos e o rosto cuidadosamente após o manuseio e antes de comer,
+beber, fumar ou ir ao banheiro.
+• Inapropriadas:Comer, beber ou fumar durante a utilização deste produto
+Condições de armazenamento seguro
+• Condições adequadas: Armazene em local bem ventilado, longe da luz solar e em temperatura.
+Mantenha os cilindros na posição vertical, fixados à parede ou em outra estrutura sólida. Mantenha o
+recipiente fechado e adequadamente identificado. Não é necessária a adição de estabilizantes e
+antioxidantes para garantir a durabilidade do produto.
+• Condições que devem ser evitadas, incluindo qualquer incompatibilidade: Umidade, temperaturas
+elevadas e fontes de ignição
+• Materiais para embalagem
+• Recomendados:Semelhante à embalagem original.
+• Inadequados:Não disponível
+Outras informações: Não disponível
+8. Controle de exposição e proteção individual
+Parâmetros de controle
+• Limites de exposição ocupacional: PROPILENO: TLV-TWA (ACGIH, 2014) 500 ppm / LT (NR15,
+1978) ASFIXIANTE SIMPLES
+• Indicadores biológicos: Não estabelecidos
+• Outros limites e valores: Não disponível
+Medidas de controle de engenharia: Promova ventilação mecânica e sistema de exaustão direta para o meio
+exterior. Estas medidas auxiliam na redução da exposição ao produto. Manter as concentrações atmosféricas,
+dos constituintes do produto, abaixo dos limites de exposição ocupacional indicados.
+Medidas de proteção pessoal
+• Proteção dos olhos/face: Usar óculos com lente incolor com proteção lateral ou ampla visão para o
+manuseio de cilindro. Óculos ampla visão e protetor facial deverá ser utilizado se houver a possibilidade
+de contato com o produto liquefeito
+• Proteção da pele: Sapatos de segurança com biqueira de aço, roupa completa resistente/retardante a
+chamas. Mantenha uma roupa de proteção química disponível para uso em caso de emergências.
+• Proteção respiratória: Uma avaliação de risco deve ser realizada para adequada definição da proteção
+respiratória tendo em vista as condições de uso do produto.
+• Proteção das mãos: Utilizar luvas de couro (vaqueta ou raspa) para o manuseio de cilindros. Havendo
+desgaste da luva, esta deve ser trocada imediatamente
+• Perigos térmicos: Usar luvas de proteção contra o frio na operação de transfência ou quando se
+desmontam linhas de produtos.
+Data da última revisão
+26/08/2019 | Versão:
+10 | FISPQ Nº
+221 | Página
+5 de 8
+Ficha de informações de segurança de produtos químicos
+(FISPQ)
+Nome da substância ou mistura: PROPILENO
+Data da última revisão Versão: FISPQ Nº Página
+26/08/2019 10 221 5 de 8
+Outras informações: Não disponível
+9. Propriedades físicas e químicas
+• Aspecto
+Estado físico: Gás; Forma: Gás Liquefeito; Cor: Incolor
+• Odor:Adocicado
+• Limite de odor: O limiar de detecção de odor é subjetivo e inadequado para alertar em caso de
+superexposição
+• pH:Não disponível
+• Ponto de fusão / ponto de congelamento: - 185 °C
+• Ponto de ebulição inicial: - 47,7 °C
+• Faixa de temperatura de ebulição: Não disponível
+• Ponto de Fulgor: - 107,8 (vaso fechado) °C
+• Taxa de evaporação: Não disponível
+• Inflamabilidade (sólido; gás): Gás Inflamável
+• Limite de inflamabilidade ou explosividade inferior: 2 %
+• Limite de inflamabilidade ou explosividade superior: 11 %
+• Pressão de vapor: 8690 mmHg a 25 ºC
+• Densidade de vapor: Não disponível
+• Densidade relativa: 1,5 a 20 ºC
+• Solubilidade(s):Parcialmente solúvel em água: 384 mg/L
+• Coeficiente de partição - n-octanol/água: Não disponível
+• Temperatura de autoignição: 455 º C
+• Temperatura de decomposição: 91,6 º C
+• Viscosidade:Não disponível
+• Outras informações: Não disponível
+10. Estabilidade e reatividade
+Estabilidade química: Produto estável em condições normais de temperatura e pressão.
+Reatividade:Reage violentamente com agentes oxidantes, halogênios e ácidos.
+Possibilidade de reações perigosas: Pode formar misturas explosivas com o ar. Pode reagir violentamente
+com oxidantes.
+Condições a serem evitadas: Armazenamento a altas temperaturas e humidade. Proximidade com materiais
+incompatíveis
+Materiais incompatíveis: Agentes oxidantes, halogênios e ácidos.
+Produtos perigosos da decomposição: Monóxido e Dióxido de Carbono.
+11. Informações toxicológicas
+Data da última revisão
+26/08/2019 | Versão:
+10 | FISPQ Nº
+221 | Página
+6 de 8
+Ficha de informações de segurança de produtos químicos
+(FISPQ)
+Nome da substância ou mistura: PROPILENO
+Data da última revisão Versão: FISPQ Nº Página
+26/08/2019 10 221 6 de 8
+Toxicidade aguda: É um asfixiante simples e, em concentrações elevadas, provoca asfixia por redução da
+concentração de oxigênio do ambiente.
+Corrosão/irritação da pele: O contato com o produto pode causar queimadura pelo frio na pele (frostbite).
+Lesões oculares graves/irritação ocular: O contato com o produto pode causar queimadura pelo frio nos
+olhos (frostbite).
+Sensibilização respiratória ou à pele: Inalação CL 50: 658mg/L/4h (Rato)
+Mutagenicidade em células germinativas: Não é esperado que o produto apresente mutagenicidade em
+células germinativas.
+Carcinogenicidade:Propileno (CAS 115-07-1 )IARC (International Agency for Research on Cancer): Grupo 03
+Toxicidade à reprodução: Não é esperado que o produto apresente toxicidade à reprodução.
+Toxicidade para órgãos-alvo específicos - exposição única: Não é esperado que o produto apresente
+toxicidade ao órgão-alvo específico por exposição única.
+Toxicidade para órgãos-alvo específicos - exposição repetida: Não é esperado que o produto apresente
+toxicidade ao órgão-alvo específico por exposição repetida.
+Perigo por aspiração: Não é esperado que o produto apresente perigo por aspiração.
+Outras informações: Não disponível
+12. Informações ecológicas
+Ecotoxicidade: NOCIVO PARA A VIDA AQUÁTICA: CL50 (96 horas - peixe) 51,7 mg/L / EC50 (48 horas -
+Daphnia Magna) 28,2 mg/L / EC50 (96 horas - Algae) 12,1 mg/L
+Persistência e degradabilidade: Em função da ausência de dados, espera-se que o produto apresente
+persistência e não seja rapidamente degradado.
+Potencial bioacumulativo: Não há dados disponíveis.
+Mobilidade no solo: Não determinada
+Outros efeitos adversos: Não são conhecidos outros efeitos para esses produtos
+13. Considerações sobre destinação final
+Métodos recomendados para destinação final
+• Produto:Mantenha os restos do produto em suas embalagens originais e devidamente fechadas. Para
+descarte, retornar ao fabricante os restos de produto e sua embalagem original.
+• Embalagem usada: Embalagem usada: Não disponha localmente. Cilindros contendo resíduos devem
+ser devolvidos ao fornecedor para disposição do mesmo.
+14. Informações sobre transporte
+Regulamentações nacionais e internacionais:
+Data da última revisão
+26/08/2019 | Versão:
+10 | FISPQ Nº
+221 | Página
+7 de 8
+Ficha de informações de segurança de produtos químicos
+(FISPQ)
+Nome da substância ou mistura: PROPILENO
+Data da última revisão Versão: FISPQ Nº Página
+26/08/2019 10 221 7 de 8
+Terrestres:
+• ONU:1077
+• Nome apropriado para embarque: PROPILENO
+• Classe / Subclasse: 2.1 - Gases inflamáveis
+• Número de Risco: 23
+• Grupo de Embalagem: NA
+• Nome Técnico: C3H6
+• Perigoso para o meio ambiente: Não
+• Regulamentação terrestre: Resolução n° 5232 e suas alterações (Agência Nacional de
+Transportes Terrestres)
+Hidroviário:
+• IMDG/GGVSea/ONU:1077
+• Classe / Subclasse: 2.1 Gases inflamáveis
+• Grupo de Embalagem: NA
+• EmS:F-D, S-U
+• Nome Técnico: PROPYLENE
+• Poluente marinho: Não
+• Regulamentação hidroviária: DPC – Diretoria de Portos e Costas (Transporte em águas
+brasileiras) - Normas de Autoridade Marítima (NORMAM) - NORMAM 01/DPC: Embarcações
+Empregadas na Navegação em Mar Aberto - NORMAM 02/DPC: Embarcações Empregadas na
+Navegação Interior IMO – “International Maritime Organization” (Organização Marítima
+Internacional) - International Maritime Dangerous Goods Code (IMDG Code)
+Aéreo:
+• ICAO/IATA/ONU:1077
+• Classe / Subclasse: 2.1 Gases inflamáveis
+• Grupo de Embalagem: NA
+• Nome Técnico: PROPYLENE
+• Perigoso para o meio ambiente: Não
+• Regulamentação aérea: ANAC – Agência Nacional de Aviação Civil – Resolução n°129 de 8 de
+dezembro de 2009. RBAC N°175 – (REGULAMENTO BRASILEIRO DA AVIAÇÃO CIVIL) –
+TRANSPORTE DE ARTIGOS PERIGOSOS EM AERONAVES CIVIS. IS N° 175-001 –
+INSTRUÇÃO SUPLEMENTAR – IS - ICAO – “International Civil Aviation Organization”
+(Organização da Aviação Civil Internacional) – Doc 9284-NA/905. IATA – “International Air
+Transport Association” (Associação Internacional de Transporte Aéreo) -Dangerous Goods
+Regulation (DGR).
+15. Informações sobre regulamentações
+Regulamentações específicas de segurança, saúde e meio ambiente para o produto químico:
+Resolução n° 5232 e suas alterações (Agência Nacional de Transportes Terrestres)
+Data da última revisão
+26/08/2019 | Versão:
+10 | FISPQ Nº
+221 | Página
+8 de 8
+Ficha de informações de segurança de produtos químicos
+(FISPQ)
+Nome da substância ou mistura: PROPILENO
+Data da última revisão Versão: FISPQ Nº Página
+26/08/2019 10 221 8 de 8
+Decreto Federal no. 2.657 (Ministério do Trabalho e Emprego)
+Norma Regulamentadora 26 - Decreto 229 (Ministério do Trabalho e Emprego)
+ABNT NBR 14725 Partes 1, 2, 3 e 4.
+Norma Regulamentadora 15 (Ministério do Trabalho e Emprego)
+16. Outras informações
+Informações importantes, mas não especificamente descritas às seções anteriores:
+Esta FISPQ foi elaborada baseada nos conhecimentos atuais do produto químico e fornece informações
+quanto à proteção, à segurança, à saúde e ao meio ambiente.
+Adverte-se que o manuseio de qualquer substância química requer o conhecimento prévio de seus perigos
+pelo usuário. Cabe à empresa usuária do produto promover o treinamento de seus empregados e contratados
+quanto aos possíveis riscos advindos do manuseio do produto.
+Referências:[Purple Book] – ONU – Organização das Nações Unidas
+[ECHA] European Chemical Agency. Regulamentos 1907/2006 e 1272/2008. Disponível em:
+http://echa.europa.eu/
+[HSNO] NOVA ZELÂNDIA. HSNO Chemical Classification and Information Database (CCID). Disponível em:
+http://www.epa.govt.nz/search-databases/Pages/nzioc-search.aspx
+[IFA] ALEMANHA. GESTIS Substance Database. Disponível em: http://gestis-
+en.itrust.de/nxt/gateway.dll/gestis_en/000000.xml?f=templates$fn=default.htm$3.0
+[NITE – National Institute of Technology and Evaluation] JAPÃO. Chemical Management. Disponível em:
+http://www.safe.nite.go.jp/english/ghs/ghs_index.html
+[NIOSH – The National Institute for Ocuupational Safety and Health] ESTADOS UNIDOS. Centers for Disease
+Control and Prevention. Disponível em: http://www.cdc.gov/niosh/topics/default.html
+[ACGIH] – American Conference of Governamental Industrial. Disponível em: https://www.acgih.org/
+ISO 11014
+Legendas e abreviaturas: ACGIH - American Conference of Governamental Industrial, BCF -Bioconcentration
+factor ou Fator de bioconcentração, CAS - Chemical Abstracts Service, CE50 ou EC50 - Concentração efetiva
+50%, CL50 ou LC50 - Concentração letal 50%, DL50 ou LD50 - Dose letal 50%, DNEL - Derived No-Effect
+Level, PNEC - Predicted No-Effect Concentration

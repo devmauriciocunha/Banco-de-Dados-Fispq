@@ -1,0 +1,512 @@
+Ficha de Informações de Segurança de Produtos
+Químicos (FISPQ)
+Associação Brasileira de Normas Técnicas ABNT: de acordo com ABNT NBR 14725-4
+PROVADO 200 SC
+1/11
+Versão 1 / BRA Data da revisão: 09.06.2021
+102000023717 Data de impressão: 09.06.2021
+SEÇÃO 1: IDENTIFICAÇÃO DO PRODUTO E DA EMPRESA
+1.1 Identificador do produto
+Nome comercial PROVADO 200 SC
+Código do produto (UVP) 79703503
+1.2 Usos identificados da substância ou mistura e usos não recomendados
+Uso Inseticida
+1.3 Detalhes do fornecedor da Ficha de Informação de Segurança de Produto Químico - FISPQ
+Fornecedor Bayer S.A.
+Rua Domingos Jorge, 1100
+04779-900 São Paulo - SP
+Brazil
+Telefone 0800 01 15 560
+Seção responsável Email: conversebayer@bayer.com
+Website www.agro.bayer.com.br
+1.4 Número do telefone de emergência
+Número do telefone de 0800 02 43 334 (24hrs)
+emergência
+Telefone de emergência 0800 70 10 450
+médica
+SEÇÃO 2: IDENTIFICAÇÃO DE PERIGOS
+2.1 Classificação da substância ou mistura
+Classificação de acordo com a legislação brasileira GHS
+Toxicidade aguda (Oral): Categoria 4
+H302 Nocivo se ingerido.
+Perigoso ao ambiente aquático – Agudo. : Categoria 3
+H402 Nocivo para os organismos aquáticos.
+Perigoso ao ambiente aquático – Crônico. : Categoria 3
+H412 Nocivo para os organismos aquáticos, com efeitos prolongados.
+2.2 Elementos do rótulo
+Rotulado de acordo com a legislação brasileira específica
+Obrigatório rotulo de perigo para fornecimento e uso.
+Componentes perigosos que devem ser apresentados no rótulo:
+ Imidacloprid
+Nome | Nº CAS | Conc. [%]
+Imidacloprid | 138261-41-3 | 18
+1,2-Benzisothiazol-3(2H)-one | 2634-33-5 | > 0,005 – < 0,05
+reaction mass of 5-chloro-2- methyl-2H-
+isothiazol-3-one and 2-methyl-2H-isothiazol-3-
+one (3:1) | 55965-84-9 | > 0,0015 – < 0,01
+Glycerine | 56-81-5 | > 1
+1,2-Propanediol | 57-55-6 | > 1
+Imidacloprid | 138261-41-3 | Fator M: 10 (aguda), 10 (crônica)
+1,2-Benzisothiazol-
+3(2H)-one | 2634-33-5 | Fator M: 10 (aguda)
+reaction mass of 5-
+chloro-2- methyl-
+2H-isothiazol-3-
+one and 2-methyl- | 55965-84-9 | Fator M: 100 (aguda), 100 (crônica)
+Ficha de Informações de Segurança de Produtos
+Químicos (FISPQ)
+Associação Brasileira de Normas Técnicas ABNT: de acordo com ABNT NBR 14725-4
+PROVADO 200 SC
+2/11
+Versão 1 / BRA Data da revisão: 09.06.2021
+102000023717 Data de impressão: 09.06.2021
+Palavra de advertência: Atenção
+Frases de perigo
+H302 Nocivo se ingerido.
+H402 Nocivo para os organismos aquáticos.
+Frases de precaução
+P264 Lave cuidadosamente após o manuseio.
+P270 Não coma, beba ou fume durante a utilização deste produto.
+P273 Evite a liberação para o meio ambiente.
+P301 + P312 EM CASO DE INGESTÃO: Caso sinta indisposição, contate um CENTRO DE
+INFORMAÇÃO TOXICOLÓGICA/ médico.
+P330 Enxágue a boca.
+P501 Descarte o conteúdo/ recipiente em uma instalação aprovada de tratamento de
+resíduos.
+2.3 Outros perigos
+Nenhum perigo adicional conhecido além dos mencionados.
+SEÇÃO 3: COMPOSIÇÃO E INFORMAÇÕES SOBRE OS INGREDIENTES
+3.2 Misturas
+Natureza química
+Suspensão concentrada (SC)
+Imidacloprid 200g/l
+Componentes perigosos
+Nome Nº CAS Conc. [%]
+Imidacloprid 138261-41-3 18
+1,2-Benzisothiazol-3(2H)-one 2634-33-5 > 0,005 – < 0,05
+reaction mass of 5-chloro-2- methyl-2H- 55965-84-9 > 0,0015 – < 0,01
+isothiazol-3-one and 2-methyl-2H-isothiazol-3-
+one (3:1)
+Glycerine 56-81-5 > 1
+1,2-Propanediol 57-55-6 > 1
+Informações complementares
+Imidacloprid 138261-41-3 Fator M: 10 (aguda), 10 (crônica)
+1,2-Benzisothiazol- 2634-33-5 Fator M: 10 (aguda)
+3(2H)-one
+reaction mass of 5- 55965-84-9 Fator M: 100 (aguda), 100 (crônica)
+chloro-2- methyl-
+2H-isothiazol-3-
+one and 2-methyl-
+2H-isothiazol-3-
+one (3:1) | | 
+Ficha de Informações de Segurança de Produtos
+Químicos (FISPQ)
+Associação Brasileira de Normas Técnicas ABNT: de acordo com ABNT NBR 14725-4
+PROVADO 200 SC
+3/11
+Versão 1 / BRA Data da revisão: 09.06.2021
+102000023717 Data de impressão: 09.06.2021
+2H-isothiazol-3-
+one (3:1)
+SEÇÃO 4: MEDIDAS DE PRIMEIROS SOCORROS
+4.1 Descrição das medidas de primeiros-socorros
+Recomendação geral Sair da área perigosa. Coloque e transporte a vítima em posição
+estável (deitada de lado). Tirar as roupas contaminadas
+imediatamente e descartá-las com segurança.
+Contato com a pele Lavar com água e sabão em abundância, se disponível com
+polietilenoglicol 400 e em seguida enxaguar com água. Se os
+sintomas persistirem, consultar um médico.
+Contato com os olhos Lavar imediatamente com bastante água, inclusive debaixo das
+pálpebras, durante pelo menos 15 minutos. Remover as lentes de
+contato, se presentes, após os primeiros 5 minutos, então continuar
+lavando o olho. Consultar o médico se a irritação se desenvolver e
+persistir.
+Ingestão Enxágue a boca. NÃO provoque vômito. Chamar imediatamente um
+médico ou entrar em contato com o Centro de Intoxicação.
+4.2 Sintomas e efeitos mais importantes, agudos e tardios
+Sintomas Em caso de ingestão em grandes quantidades, podem ocorrer os
+seguintes sintomas:, Vertigem, Dor abdominal, Náusea
+4.3 Notas para o médico
+Tratamento Tratar de acordo com os sintomas. Monitorar: funções respiratórias e
+cardíacas. Em caso de ingestão significativa deve ser considerada
+lavagem gástrica dentro das primeiras duas horas. No entanto, é
+sempre aconselhável a administração de carvão ativado e sulfato de
+sódio. Não há antídoto específico.
+SEÇÃO 5: MEDIDAS DE COMBATE A INCÊNDIO
+5.1 Meios de extinção
+Adequado Água pulverizada, Dióxido de carbono (CO2), Espuma, Areia
+Inadequado Nenhum conhecido.
+5.2 Riscos especiais Em caso de incêndio podem ser liberados:, Cloreto de hidrogênio
+resultantes da substância (HCl), Cianeto de hidrogênio (ácido cianídrico), Monóxido de Carbono
+ou da mistura (CO), Óxidos de nitrogênio (NOx)
+5.3 Precauções para bombeiros
+Equipamentos especiais Não respirar os vapores nos casos de incêndios e/ou explosões. Usar
+para proteção das pessoas equipamento de respiração autônomo em casos de incêndio.
+envolvidas no combate a
+incêndio.
+Ficha de Informações de Segurança de Produtos
+Químicos (FISPQ)
+Associação Brasileira de Normas Técnicas ABNT: de acordo com ABNT NBR 14725-4
+PROVADO 200 SC
+4/11
+Versão 1 / BRA Data da revisão: 09.06.2021
+102000023717 Data de impressão: 09.06.2021
+Outras informações Conter o derramamento dos fluidos de extinção. Não deixar a água
+usada para apagar o incêndio escoar para a drenagem ou para os
+cursos de água.
+SEÇÃO 6: MEDIDAS DE CONTROLE PARA DERRAMAMENTO OU VAZAMENTO
+6.1 Precauções pessoais, equipamentos de proteção e procedimentos de emergência
+6.1.1 Para o pessoal que não faz parte dos serviços de emergência
+Use equipamento de proteção individual (EPI). Isole e sinalize a área contaminada. Afaste todas as
+fontes de ignição. Não fume. Evite o contato do produto com a pele, olhos e mucosas. Não toque nem
+caminhe sobre o produto derramado.
+6.1.2 Para o pessoal do serviço de emergência
+Observe todas as precauções de segurança quanto à limpeza de derramamentos. Use equipamento
+de proteção individual (EPI). Mantenha as pessoas não autorizadas afastadas. Isole e sinalize a área
+contaminada em um raio mínimo de 50 metros em todas as direções. Afaste todas as fontes de
+ignição. Pare o vazamento imediatamente se for possível fazê-lo sem risco.
+6.2 Precauções ambientais Não permitir que atinja águas superficiais, drenos e águas
+subterrâneas.
+6.3 Métodos e materiais de contenção e limpeza
+Métodos de limpeza Impregnar com material absorvente inerte (por exemplo: areia, sílica
+gel, aglutinante ácido, aglutinante universal, serragem). Limpe
+completamente os pisos e objetos sujos, observando as normas
+ambientais. Manter em recipientes fechados adequados até a
+disposição.
+6.4 Consulta a outras Informações para manuseio seguro, ver seção 7.
+seções Informações para equipamentos de proteção individual, ver seção 8.
+Informações sobre destinação final de resíduos, ver seção 13.
+SEÇÃO 7: MANUSEIO E ARMAZENAMENTO
+7.1 Precauções para manuseio seguro
+Recomendações para Usar apenas em áreas com ventilação de exaustão apropriada.
+manuseio seguro
+Medidas de higiene Evitar o contato com a pele, olhos e vestuário. Guardar as roupas de
+trabalho separadamente. Lavar as mãos antes de interrupções do
+trabalho, e imediatamente após o manuseio do produto. Remover
+imediatamente a roupa suja e limpá-la cuidadosamente antes de voltar
+a utilizar. Destruir (incinerar) a roupa que não se possa lavar.
+7.2 Condições para armazenamento seguro, incluindo incompatibilidades
+Exigências para áreas de Armazenar no recipiente original. Guardar o recipiente hermeticamente
+estocagem e recipientes fechado em local seco e bem ventilado. Armazenar em local apenas
+acessível a pessoal autorizado. Guardar longe da luz direta do sol.
+Recomendações para Manter afastado de alimentos, bebidas e alimentos para animais.
+estocagem conjunta
+Materiais apropriados PEAD (polietileno de alta densidade)
+Ingredientes | Nº CAS | Parâmetros de controle | Atualizad
+o | Base
+I midacloprid | 138261-41-3 | 0,7 mg/m3
+(TWA) | | O ES BCS*
+Ficha de Informações de Segurança de Produtos
+Químicos (FISPQ)
+Associação Brasileira de Normas Técnicas ABNT: de acordo com ABNT NBR 14725-4
+PROVADO 200 SC
+5/11
+Versão 1 / BRA Data da revisão: 09.06.2021
+102000023717 Data de impressão: 09.06.2021
+7.3 Utilizações finais Consultar as indicações no rótulo da embalagem.
+específicas
+SEÇÃO 8: CONTROLE DE EXPOSIÇÃO E PROTEÇÃO INDIVIDUAL
+8.1 Parâmetros de controle
+Ingredientes Nº CAS Parâmetros de controle Atualizad Base
+o
+I midacloprid 138261-41-3 0,7 mg/m3 O ES BCS*
+(TWA)
+*OES BCS: Valor limite de exposição ocupacional interna Bayer AG, Divisão Crop Science (Norma de
+Exposição Ocupacional)
+8.2 Medidas de controle de engenharia
+Assegurar ventilação adequada no local de trabalho. Providenciar ventilação exaustora onde os
+processos exigirem, providenciar chuveiro de emergência e lavador de olhos próximo ao local de
+trabalho.
+8.3 Medidas pessoais de proteção
+Proteção respiratória Normalmente, não é necessário equipamento de proteção
+respiratória individual.
+A proteção respiratório apenas deve ser utilizada para controlar o
+risco residual das atividades de curta duração, quando foram
+tomadas todas as medidas viáveis praticáveis para reduzir a
+exposição na fonte, exemplo: contenção e/ou ventilação de
+exaustão local. Sempre siga as instruções do fabricante do
+respirador quanto ao uso e manutenção.
+Proteção das mãos Favor observar as instruções relativas à permeabilidade e ao tempo
+de afloramento que são fornecidas pelo fornecedor das luvas.
+Também leve em consideração as condições específicas locais sob
+as quais o produto é utilizado, como perigo de corte, abrasão e
+tempo de contato.
+Lavar luvas quando contaminadas. Descarte-as quando
+contaminadas no interior, quando perfuradas ou quando a
+contaminação do lado de fora não puder ser removida. Lave as
+mãos frequentemente e sempre antes de comer, beber, fumar ou
+usar o banheiro.
+Materiais Borracha nitrílica
+Pausa > 480 min
+Espessura da luva > 0,4 mm
+Índice de proteção Classe 6
+Diretriz Luvas protetoras de acordo com o EN
+374.
+Proteção dos olhos Utilizar óculos de proteção (conforme a EN166, campo de utilização
+= 5 ou equivalente).
+Proteção do corpo e da pele Utilizar macacão padrão e vestimenta Categoria 3 Tipo 6.
+Em caso de risco de exposição significativa, utilizar vestuário de alta
+proteção.
+Ficha de Informações de Segurança de Produtos
+Químicos (FISPQ)
+Associação Brasileira de Normas Técnicas ABNT: de acordo com ABNT NBR 14725-4
+PROVADO 200 SC
+6/11
+Versão 1 / BRA Data da revisão: 09.06.2021
+102000023717 Data de impressão: 09.06.2021
+Utilizar duas camadas de roupa sempre que possível. Macacões de
+poliester/algodão ou algodão devem ser utilizados sob a vestimenta
+de proteção química e deve ser lavada profissionalmente
+frequentemente.
+Se a vestimenta de proteção estiver com respingos ou
+significantemente contaminada, descontamine o mais rápido
+possível, e então remova cuidadosamente e descarte como
+orientado pelo fabricante.
+Riscos térmicos Não disponível.
+SEÇÃO 9: PROPRIEDADES FÍSICAS E QUÍMICAS
+9.1 Informações sobre propriedades físico-químicas básicas
+Estado da matéria líquido
+Estado físico suspensão
+Cor branco à bege claro
+Odor fraco, característico
+pH 7,5 - 8,2 (100 %) (23 °C)
+Viscosidade, cinemática Não disponível.
+Ponto de fusão Não disponível.
+Ponto de ebulição Não disponível.
+Temperatura de Não disponível.
+decomposição auto-
+acelerada (TDAA)
+Ponto de fulgor > 100 °C
+Inflamabilidade Não disponível.
+Limite superior de Não disponível.
+explosividade
+Limite inferior de Não disponível.
+explosividade
+Pressão de vapor Não disponível.
+Densidade relativa do vapor Não disponível.
+Densidade ca. 1,10 g/cm³ (20 °C)
+Solubilidade em água suspensivo
+Coeficiente de partição (n- Imidacloprido: log Pow: 0,57
+octanol/água)
+Decomposição térmica Não disponível.
+Temperatura de autoignição Não disponível.
+Tamanho da partícula Não disponível.
+9.2 Outras informações Não são conhecidas outras questões de segurança relacionadas com
+dados físico-químicos.
+Ficha de Informações de Segurança de Produtos
+Químicos (FISPQ)
+Associação Brasileira de Normas Técnicas ABNT: de acordo com ABNT NBR 14725-4
+PROVADO 200 SC
+7/11
+Versão 1 / BRA Data da revisão: 09.06.2021
+102000023717 Data de impressão: 09.06.2021
+SEÇÃO 10: ESTABILIDADE E REATIVIDADE
+10.1 Reatividade Estável em condições normais.
+10.2 Estabilidade química Estável sob as condições recomendadas de armazenagem.
+10.3 Possibilidade de Nenhuma reação perigosa quando armazenado e manuseado conforme
+reações perigosas as instruções prescritas.
+10.4 Condições a serem Temperaturas extremas e luz solar direta.
+evitadas
+10.5 Materiais incompatíveis Armazenar somente no recipiente original.
+10.6 Produtos perigosos de Não se esperam produtos de decomposição sob condições normais de
+decomposição uso.
+SEÇÃO 11: INFORMAÇÕOES TOXICOLÓGICAS
+11.1 Informações sobre efeitos toxicológicos
+Toxicidade aguda oral DL50 (Rato) > 1.218 mg/kg
+Toxicidade aguda - Inalação CL50 (Camundongo)
+Nenhuma mortalidade.
+CL50 não atingida
+Maior concentração testável.
+Toxicidade aguda - Dérmica DL50 (Rato) > 4.000 mg/kg
+Corrosão/irritação à pele. Não provoca irritação na pele (Coelho)
+Lesões oculares Não irrita os olhos (Coelho)
+graves/irritação ocular
+Sensibilização respiratória Pele: Não sensibilizante. (Cobaia)
+ou à pele OCDE Linha Diretriz de Ensaio 406, Ensaio de Buehler
+Avaliação de toxicidade para órgãos-alvo específicos (STOT)- exposição única
+Imidacloprido: Baseado nos dados avaliados, os critérios de classificação não são satisfeitos.
+Avaliação de toxicidade para órgãos-alvo específicos (STOT)- exposição repetida
+Imidacloprido não causou toxicidade para órgãos-alvo específicos em estudos com animais.
+Avaliação de mutagenicidade
+Imidacloprido não foi mutagênico ou genotóxico baseado no pelo global de evidência em uma bateria
+de in vitro
+Avaliação de carcinogenicidade
+Imidacloprido não foi carcinogênico em estudos de alimentação ao longo da vida de ratos e
+camundongos.
+Avaliação de toxicidade para a reprodução
+Ficha de Informações de Segurança de Produtos
+Químicos (FISPQ)
+Associação Brasileira de Normas Técnicas ABNT: de acordo com ABNT NBR 14725-4
+PROVADO 200 SC
+8/11
+Versão 1 / BRA Data da revisão: 09.06.2021
+102000023717 Data de impressão: 09.06.2021
+Imidacloprido causou toxicidade reprodutiva em um estudo de duas gerações em ratos, a dosagens
+tóxicas também para os animais progenitores. A toxicidade para a reprodução observada com
+Imidacloprido, está ligada a toxicidade parental.
+Avaliação de toxicidade para o desenvolvimento
+Imidacloprido causou toxicidade para o desenvolvimento apenas em doses tóxicas para as mães. Os
+efeitos sobre o desenvolvimento observados com Imidacloprido, estão relacionados com a toxicidade
+materna.
+Perigo por aspiração
+Com base nos dados disponíveis, os critérios de classificação não são atendidos.
+SEÇÃO 12: INFORMAÇÕES ECOLÓGICAS
+12.1 Ecotoxicidade
+Toxicidade para os peixes CL50 (Danio rerio (peixe-zebra)) 900 mg/l
+Duração da exposição: 96 h
+Toxicidade a invertebrados CE50 (Daphnia similis (dáfnia similis)) 88 mg/l
+aquáticos D uração da exposição: 48 h
+Toxicidade a plantas CE50 (Desmodesmus subspicatus (alga verde)) > 1.000 mg/l
+aquáticas Duração da exposição: 96 h
+Toxicidade para outros CL50 (Eisenia fetida (minhocas)) 58,78 mg/kg
+organismos Duração da exposição: 14 d
+DL50 (Apis mellifera (abelhas)) 0,169 µg/abelha (oral)
+Duração da exposição: 24 h
+DL50 (Apis mellifera (abelhas)) 0,29 µg/abelha (contato)
+Duração da exposição: 48 h
+12.2 Persistência e degradabilidade
+Biodegradabilidade Rapidamente biodegradável.
+Biodegradabilidade Imidacloprido:
+Não prontamente biodegradável
+Koc Imidacloprido: Koc: 225
+12.3 Potencial bioacumulativo
+Bioacumulação Imidacloprido:
+Não bioacumula.
+12.4 Mobilidade no solo
+Mobilidade no solo Imidacloprido: Move-se moderadamente em solos
+12.5 Resultados da avaliação PBT e vPvB
+Avaliação de substâncias Imidacloprido: Esta substância não é considerada persistente,
+PBT e vPvB bioacumulável e tóxica (PBT) Esta substância não é considerada muito
+persistente e muito bioacumulável (vPvB)
+12.6 Outros efeitos adversos
+Ficha de Informações de Segurança de Produtos
+Químicos (FISPQ)
+Associação Brasileira de Normas Técnicas ABNT: de acordo com ABNT NBR 14725-4
+PROVADO 200 SC
+9/11
+Versão 1 / BRA Data da revisão: 09.06.2021
+102000023717 Data de impressão: 09.06.2021
+Informações ecológicas Sem outros efeitos para serem mencionados.
+adicionais
+SEÇÃO 13: CONSIDERAÇÕES SOBRE TRATAMENTO E DISPOSIÇÃO
+13.1 Métodos de tratamento de resíduos
+Produto De acordo com a legislação vigente e, se necessário, após consulta ao
+site operador e/ou autoridade responsável, o produto pode ser
+destinado ao aterro de resíduos ou incineração.
+Embalagens contaminadas As embalagens com restos de produto deverão ser eliminadas como
+resíduos perigosos.
+SEÇÃO 14: INFORMAÇÕES SOBRE TRANSPORTE
+Regulamentações nacionais e internacionais:
+Terrestre:
+Resolução no 5232, de 14 de dezembro de 2016 da Agência Nacional de Transportes Terrestre
+(ANTT), Aprova as Instruções Complementares ao Regulamento Terrestre do Transporte de Produtos
+Perigosos, e dá outras providências.
+Hidroviário:
+INTERNATIONAL MARITIME ORGANIZATION, International Maritime Dangerous Goods Code
+(IMDG Code).
+Aéreo:
+INTERNATIONAL AIR TRANSPORT ASSOCIATION. Dangerous Goods Regulation (IATA).
+ANTT
+14.1 Número ONU 3082
+14.2 Nome apropriado para SUBSTÂNCIA QUE APRESENTA RISCO PARA O MEIO
+embarque AMBIENTE, LÍQUIDA, N.E.
+(IMIDACLOPRIDO EM SOLUÇÃO)
+14.3 Classes de riscos de 9
+transporte
+14.4 Grupo de embalagem III
+14.5 Marca de perigoso para o meio SIM
+ambiente
+Número de perigo 90
+IMDG
+14.1 Número ONU 3082
+14.2 Nome apropriado para ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID,
+embarque N.O.S.
+(IMIDACLOPRID SOLUTION)
+14.3 Classes de riscos de 9
+transporte
+14.4 Grupo de embalagem III
+14.5 Poluente marinho SIM
+IATA
+14.1 Número ONU 3082
+Ficha de Informações de Segurança de Produtos
+Químicos (FISPQ)
+Associação Brasileira de Normas Técnicas ABNT: de acordo com ABNT NBR 14725-4
+PROVADO 200 SC
+10/11
+Versão 1 / BRA Data da revisão: 09.06.2021
+102000023717 Data de impressão: 09.06.2021
+14.2 Nome apropriado para ENVIRONMENTALLY HAZARDOUS SUBSTANCE, LIQUID,
+embarque N.O.S.
+(IMIDACLOPRID SOLUTION )
+14.3 Classes de riscos de 9
+transporte
+14.4 Grupo de embalagem III
+14.5 Marca de perigoso para o meio SIM
+ambiente
+14.6 Precauções especiais para os usuários
+Ver seções 6 a 8 dessa Ficha de Informações de Segurança de Produto Químico.
+14.7 Transporte em massa de acordo com o Anexo II de MARPOL 73/78 e do Código IBC
+Não transportar a granel, de acordo com o código IBC.
+SEÇÃO 15: REGULAMENTAÇÕES
+15.1 Normas de segurança, saúde e ambientais específicas para a substância ou mistura
+Legislação nacional:
+Lei nº 7.802 de 11 de julho de 1989. Decreto nº 4.074 de janeiro de 2002.
+Portaria no. 229, de 24 de maio de 2011.
+Portaria no. 704, de 28 de maio de 2015.
+ANVISA: Portaria nº 3 de 16 de janeiro de 1992.
+IBAMA: Portaria Normativa nº 84 de 15 de outubro de 1996.
+ANVISA: RDC n° 294 de 29 de Julho de 2019.
+ANVISA: RDC n° 296 de 29 de Julho de 2019.
+Classificação Toxicológica (ANVISA): IV - Categoria 4: Produto Pouco Tóxico – faixa azul
+Classificação do Potencial de Periculosidade Classe III: Perigoso ao meio ambiente
+Ambiental (IBAMA):
+Esta Ficha de Informações de Segurança de Produtos Químicos (FISPQ) foi preparada de acordo
+com NBR 14725-4:2014 (Associação Brasileira de Normas Técnicas).
+SEÇÃO 16: OUTRAS INFORMAÇÕES
+Abreviações e siglas
+Conc. Concentração
+ANTT Agência Nacional de Transportes Terrestres
+LOEC/LOEL Menor concentração/nível com efeito observado
+UN Nações Unidas
+OECD Organização para a Cooperação e Desenvolvimento Econômico
+EN Norma Europeia
+N.O.S. Not otherwise specified
+IBC International Code for the Construction and Equipment of Ships Carrying Dangerous
+Chemicals in Bulk (IBC Code)
+EU União Europeia
+ELINCS Lista Europeia de substâncias químicas notificadas
+EINECS Inventário europeu das substâncias químicas comerciais existentes
+EC-No. Número da comunidade europeia
+Ficha de Informações de Segurança de Produtos
+Químicos (FISPQ)
+Associação Brasileira de Normas Técnicas ABNT: de acordo com ABNT NBR 14725-4
+PROVADO 200 SC
+11/11
+Versão 1 / BRA Data da revisão: 09.06.2021
+102000023717 Data de impressão: 09.06.2021
+NOEC/NOEL Concentração/nível sem efeito observado
+LDx Dose letal para X%
+LCx Concentração Letal para X%
+ICx Concentração d einibição para x%
+ECx Concentração efetiva para X%
+CAS-Nr. Número do CAS (Chemical Abstracts Service)
+MARPOL MARPOL: International Convention for the prevention of marine pollution from ships -
+Convenção Internacional para prevenção de poluição marinha por navios
+RID Regulamento relativo ao Transporte Internacional Ferroviário de Mercadorias
+Perigosas
+IMDG International Maritime Dangerous Goods
+IATA International Air Transport Association: Associação Internacional de Transporte Aéreo
+ADR Acordo Europeu relativo ao Transporte Internacional Rodoviário de Mercadorias
+Perigosas
+ADN Acordo Europeu relativo ao Transporte Internacional de Mercadorias Perigosas por
+vias navegáveis interiores
+WHO Organização Mundial de Saúde
+TWA Média ponderada de tempo
+ETA Estimativa de toxicidade aguda
+Limitações e Garantias:
+As informações contidas nessa ficha correspondem ao estado atual do conhecimento técnico-
+científico Nacional e Internacional deste produto. As informações são fornecidas de boa fé, apenas
+como orientação, cabendo ao usuário a sua utilização de acordo com as leis e regulamentos federais,
+estaduais e locais pertinentes.
+Modificações desde a última versão serão enfatizadas na margem. Esta versão substitui as versões
+anteriores.

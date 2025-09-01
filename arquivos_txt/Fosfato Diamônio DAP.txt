@@ -1,0 +1,745 @@
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+
+1 - IDENTIFICAÇÃO | 
+Nome do produto (nome
+comercial): | Fosfato Diamônio - DAP
+ | 
+Principais usos
+recomendados para
+substância ou mistura: | Fertilizante.
+ | 
+Nome da empresa: | MOSAIC FERTILIZANTES DO BRASIL LTDA.
+Endereço: | Av. Roque Petroni Jr., 999, 14º/15º andar CEP: 04707-910, São Paulo - SP - BR
+Telefone para contato: | (11) 4950-2795
+Telefone para
+emergências: | (41) 3420-1700
+ | 
+E-mail: | fispq.ehs@mosaicco.com
+2 - IDENTIFICAÇÃO DE PERIGOS | | | 
+Classificação de perigo
+do produto químico: | Corrosão/irritação à pele - Categoria 2
+Lesões oculares graves/irritação ocular - Categoria 2B
+Toxicidade aguda - Oral - Categoria 5
+Toxicidade para órgãos-alvo específicos - Exposição única - Categoria 3 | | 
+ | | | 
+Sistema de
+classificação utilizado: | Norma ABNT-NBR 14725-2.
+Sistema Globalmente Harmonizado para a Classificação e Rotulagem de Produtos Químicos, ONU. | | 
+Outros perigos que não
+resultam em uma
+classificação: | O produto não possui outros perigos. | | 
+ | | | 
+Elementos apropriados para rotulagem | | | 
+Pictogramas: | | | 
+ | | | 
+Palavra de advertência: | ATENÇÃO | | 
+Frases de perigo: | H303 Pode ser nocivo se ingerido.
+H315 Provoca irritação à pele.
+H320 Provoca irritação ocular.
+H335 Pode provocar irritação das vias respiratórias. | | 
+ | | | 
+Frases de precaução: | PREVENÇÃO:
+P261 Evite inalar as poeiras/fumos/gases/névoas/vapores/aerossóis.
+P264 Lave as mãos cuidadosamente após manuseio.
+P271 Utilize apenas ao ar livre ou em locais bem ventilados.
+P280 Use luvas de proteção, roupa de proteção, proteção ocular e proteção facial.
+RESPOSTA À EMERGÊNCIA:
+P302 + P352 EM CASO DE CONTATO COM A PELE: Lave com água e sabão em abundância.
+P304 + P340 EM CASO DE INALAÇÃO: Remova a pessoa para local ventilado e a mantenha em
+repouso numa posição que não dificulte a respiração.
+P305 + P351 + P338 EM CASO DE CONTATO COM OS OLHOS: Enxágue cuidadosamente com
+água durante vários minutos. No caso de uso de lentes de contato, remova-as, se for fácil. Continue
+enxaguando. | | 
+ | | | 
+ | | | 
+FISPQ
+Em conformidade com NBR 14725
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Produto: Fosfato Diamônio - DAP
+Revisão: 02 Data: 13/10/2020 Página: 1/7
+1 - IDENTIFICAÇÃO
+Nome do produto (nome Fosfato Diamônio - DAP
+comercial):
+Principais usos Fertilizante.
+recomendados para
+substância ou mistura:
+Nome da empresa: MOSAIC FERTILIZANTES DO BRASIL LTDA.
+Endereço: Av. Roque Petroni Jr., 999, 14º/15º andar CEP: 04707-910, São Paulo - SP - BR
+Telefone para contato: (11) 4950-2795
+Telefone para (41) 3420-1700
+emergências:
+E-mail: fispq.ehs@mosaicco.com
+2 - IDENTIFICAÇÃO DE PERIGOS
+Classificação de perigo Corrosão/irritação à pele - Categoria 2
+do produto químico: Lesões oculares graves/irritação ocular - Categoria 2B
+Toxicidade aguda - Oral - Categoria 5
+Toxicidade para órgãos-alvo específicos - Exposição única - Categoria 3
+Sistema de Norma ABNT-NBR 14725-2.
+classificação utilizado: Sistema Globalmente Harmonizado para a Classificação e Rotulagem de Produtos Químicos, ONU.
+Outros perigos que não O produto não possui outros perigos.
+resultam em uma
+classificação:
+Elementos apropriados para rotulagem
+Pictogramas:
+Palavra de advertência: ATENÇÃO
+Frases de perigo: H303 Pode ser nocivo se ingerido.
+H315 Provoca irritação à pele.
+H320 Provoca irritação ocular.
+H335 Pode provocar irritação das vias respiratórias.
+Frases de precaução: PREVENÇÃO:
+P261 Evite inalar as poeiras/fumos/gases/névoas/vapores/aerossóis.
+P264 Lave as mãos cuidadosamente após manuseio.
+P271 Utilize apenas ao ar livre ou em locais bem ventilados.
+P280 Use luvas de proteção, roupa de proteção, proteção ocular e proteção facial.
+RESPOSTA À EMERGÊNCIA:
+P302 + P352 EM CASO DE CONTATO COM A PELE: Lave com água e sabão em abundância.
+P304 + P340 EM CASO DE INALAÇÃO: Remova a pessoa para local ventilado e a mantenha em
+repouso numa posição que não dificulte a respiração.
+P305 + P351 + P338 EM CASO DE CONTATO COM OS OLHOS: Enxágue cuidadosamente com
+água durante vários minutos. No caso de uso de lentes de contato, remova-as, se for fácil. Continue
+enxaguando.
+ | Em conformidade com NBR 14725
+FICHA DE
+FICHA DE | INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Produto: Fosfato D | iamônio - DAP
+Revisão: 02 | Data: 13/10/2020 Página: 2/7
+ | P312 Caso sinta indisposição, contate um CENTRO DE INFORMAÇÃO TOXICOLÓGICA ou um
+médico.
+P321 Tratamento específico.
+P332 + P313 Em caso de irritação cutânea: Consulte um médico.
+P337 + P313 Caso a irritação ocular persista: Consulte um médico.
+P362 + P364 Retire a roupa contaminada. Lave-a antes de usá-la novamente.
+ARMAZENAMENTO:
+P403 + P233 Armazene em local bem ventilado. Mantenha o recipiente hermeticamente fechado.
+P405 Armazene em local fechado à chave.
+DISPOSIÇÃO:
+P501 Descarte o conteúdo e o recipiente em conformidade com as regulamentações locais.
+
+FICHA DE
+FICHA DE
+
+3 - COMPOSIÇÃO E INFORMAÇÕES SOBRE OS INGREDIENTES | 
+MISTURA | 
+Ingredientes ou
+impurezas que
+contribuem para o
+perigo: | Fosfato diamônio - dap (CAS 7783-28-0): 70 - 90% 1;
+Sulfato de amônio (CAS 7783-20-2): 5,5 - 7,5%.
+1Ingrediente não classificado como perigoso pelo sistema de classificação utilizado.
+4 - MEDIDAS DE PRIMEIROS-SOCORROS | 
+Inalação: | Remova a pessoa exposta para local ventilado.
+Contato com a pele: | Lave a pele exposta com quantidade suficiente de água para remoção do material.
+Contato com os olhos: | Enxágue cuidadosamente com água durante vários minutos. No caso de uso de lentes de contato,
+remova-as, se for fácil. Caso ocorra irritação ocular: consulte um médico. Leve esta FISPQ.
+ | 
+Ingestão: | Não induza o vômito. Lave a boca da pessoa exposta com água. Caso sinta indisposição, contate
+um CENTRO DE INFORMAÇÃO TOXICOLÓGICA ou um médico. Leve esta FISPQ.
+ | 
+Sintomas e efeitos mais
+importantes, agudos e
+tardios: | Provoca irritação à pele com vermelhidão, dor e ressecamento. Provoca irritação ocular com
+vermelhidão e lacrimejamento. Pode ser nocivo se ingerido. Pode provocar irritação das vias
+respiratórias.
+Notas para o médico: | Se necessário, forneça tratamento sintomático.
+5 - MEDIDAS DE COMBATE A INCÊNDIO | 
+Meios de extinção: | Apropriados: dióxido de carbono (CO2), espuma, neblina d'água, pó químico e pó químico seco.
+Não recomendados: jatos de água de forma direta.
+ | 
+Perigos específicos da
+mistura ou substância: | A combustão do produto químico ou de sua embalagem pode formar gases irritantes e tóxicos como
+monóxido e dióxido de carbono.
+Os vapores podem ser mais densos que o ar e tendem a se acumular em áreas baixas ou
+confinadas, como bueiros e porões. Os contêineres podem explodir se aquecidos.
+ | 
+Medidas de proteção
+da equipe de combate
+a incêndio: | Utilizar equipamento de proteção respiratória do tipo autônomo (SCBA) com pressão positiva e
+vestuário protetor completo. Contêineres e tanques envolvidos no incêndio devem ser resfriados
+com neblina d'água.
+6 - MEDIDAS DE CONTROLE PARA DERRAMAMENTO OU VAZAMENTO | 
+Precauções pessoais, equipamento de proteção e procedimentos de emergência | 
+Para o pessoal que não
+faz parte dos serviços | Não fume. Evite contato com o produto. Caso necessário, utilize equipamento de proteção individual
+conforme descrito na seção 8.
+ | 
+FISPQ
+Em conformidade com NBR 14725
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Produto: Fosfato Diamônio - DAP
+Revisão: 02 Data: 13/10/2020 Página: 2/7
+P312 Caso sinta indisposição, contate um CENTRO DE INFORMAÇÃO TOXICOLÓGICA ou um
+médico.
+P321 Tratamento específico.
+P332 + P313 Em caso de irritação cutânea: Consulte um médico.
+P337 + P313 Caso a irritação ocular persista: Consulte um médico.
+P362 + P364 Retire a roupa contaminada. Lave-a antes de usá-la novamente.
+ARMAZENAMENTO:
+P403 + P233 Armazene em local bem ventilado. Mantenha o recipiente hermeticamente fechado.
+P405 Armazene em local fechado à chave.
+DISPOSIÇÃO:
+P501 Descarte o conteúdo e o recipiente em conformidade com as regulamentações locais.
+3 - COMPOSIÇÃO E INFORMAÇÕES SOBRE OS INGREDIENTES
+MISTURA
+Ingredientes ou Fosfato diamônio - dap (CAS 7783-28-0): 70 - 90% 1;
+impurezas que Sulfato de amônio (CAS 7783-20-2): 5,5 - 7,5%.
+contribuem para o
+perigo: 1Ingrediente não classificado como perigoso pelo sistema de classificação utilizado.
+4 - MEDIDAS DE PRIMEIROS-SOCORROS
+Inalação: Remova a pessoa exposta para local ventilado.
+Contato com a pele: Lave a pele exposta com quantidade suficiente de água para remoção do material.
+Contato com os olhos: Enxágue cuidadosamente com água durante vários minutos. No caso de uso de lentes de contato,
+remova-as, se for fácil. Caso ocorra irritação ocular: consulte um médico. Leve esta FISPQ.
+Ingestão: Não induza o vômito. Lave a boca da pessoa exposta com água. Caso sinta indisposição, contate
+um CENTRO DE INFORMAÇÃO TOXICOLÓGICA ou um médico. Leve esta FISPQ.
+Sintomas e efeitos mais Provoca irritação à pele com vermelhidão, dor e ressecamento. Provoca irritação ocular com
+importantes, agudos e vermelhidão e lacrimejamento. Pode ser nocivo se ingerido. Pode provocar irritação das vias
+tardios: respiratórias.
+Notas para o médico: Se necessário, forneça tratamento sintomático.
+5 - MEDIDAS DE COMBATE A INCÊNDIO
+Meios de extinção: Apropriados: dióxido de carbono (CO2), espuma, neblina d'água, pó químico e pó químico seco.
+Não recomendados: jatos de água de forma direta.
+Perigos específicos da A combustão do produto químico ou de sua embalagem pode formar gases irritantes e tóxicos como
+mistura ou substância: monóxido e dióxido de carbono.
+Os vapores podem ser mais densos que o ar e tendem a se acumular em áreas baixas ou
+confinadas, como bueiros e porões. Os contêineres podem explodir se aquecidos.
+Medidas de proteção Utilizar equipamento de proteção respiratória do tipo autônomo (SCBA) com pressão positiva e
+da equipe de combate vestuário protetor completo. Contêineres e tanques envolvidos no incêndio devem ser resfriados
+a incêndio: com neblina d'água.
+6 - MEDIDAS DE CONTROLE PARA DERRAMAMENTO OU VAZAMENTO
+Precauções pessoais, equipamento de proteção e procedimentos de emergência
+Para o pessoal que não Não fume. Evite contato com o produto. Caso necessário, utilize equipamento de proteção individual
+faz parte dos serviços conforme descrito na seção 8.
+Revisão: 02 | Data: 13/10/2020 Página: 3/7
+de emergência: | 
+ | 
+Para o pessoal do
+serviço de emergência: | Isole o vazamento de fontes de ignição preventivamente.
+ | 
+Precauções ao meio
+ambiente: | Evite que o produto derramado atinja cursos d'água e rede de esgotos.
+ | 
+Método e materiais
+para a contenção e
+limpeza: | Colete o produto com uma pá limpa ou outro instrumento que não disperse o produto. Coloque o
+material em recipientes apropriados e remova-os para local seguro. Para destinação final, proceder
+conforme a Seção 13 desta FISPQ.
+Diferenças na ação de
+grandes e pequenos
+vazamentos: | Não há distinção entre as ações de grandes e pequenos vazamentos para este produto.
+ | 
+7 - MANUSEIO E ARMAZENAMENTO | 
+Medidas técnicas apropriadas para o manuseio | 
+Precauções para
+manuseio seguro: | Manuseie em uma área ventilada ou com sistema geral de ventilação/exaustão local. Evite
+formação de poeiras. Caso necessário, utilize equipamento de proteção individual conforme descrito
+na seção 8.
+ | 
+Medidas de higiene: | Lave as mãos e o rosto cuidadosamente após o manuseio e antes de comer, beber, fumar ou ir ao
+banheiro.
+ | 
+Condições de armazenamento seguro, incluindo qualquer incompatibilidade | 
+Prevenção de incêndio
+e explosão: | Não é esperado que o produto apresente perigo de incêndio ou explosão.
+ | 
+Condições adequadas: | Armazene em local bem ventilado e longe da luz solar. Mantenha o recipiente fechado. Manter
+armazenado em temperatura ambiente que não exceda 35°C.
+Não é necessária adição de estabilizantes e antioxidantes para garantir a durabilidade do produto.
+ | 
+Materiais adequados
+para embalagem: | Semelhante à embalagem original.
+ | 
+Materiais inadequados
+para embalagem: | Não são conhecidos materiais inadequados para este produto.
+ | 
+8 - CONTROLE DE EXPOSIÇÃO E PROTEÇÃO INDIVIDUAL | 
+Parâmetros de controle | 
+Limites de exposição
+ocupacional: | Não estabelecidos.
+ | 
+Indicadores biológicos: | Não estabelecidos.
+Outros limites e valores: | -Amônia:
+TLV - TWA (ACGIH, 2015): 25 ppm
+TLV - STEL (ACGIH, 2015): 35 ppm
+-Particulados (solúveis) não especificados de outra maneira (PNOS):
+PEL - TWA (OSHA, 2010): 5 mg/m³*
+*Respirável.
+ | 
+Medidas de controle de
+engenharia: | Promova ventilação mecânica e sistema de exaustão direta para o meio exterior. Estas medidas
+auxiliam na redução da exposição ao produto.
+ | 
+FISPQ
+Em conformidade com NBR 14725
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Produto: Fosfato Diamônio - DAP
+Revisão: 02 Data: 13/10/2020 Página: 3/7
+de emergência:
+Para o pessoal do Isole o vazamento de fontes de ignição preventivamente.
+serviço de emergência:
+Precauções ao meio Evite que o produto derramado atinja cursos d'água e rede de esgotos.
+ambiente:
+Método e materiais Colete o produto com uma pá limpa ou outro instrumento que não disperse o produto. Coloque o
+para a contenção e material em recipientes apropriados e remova-os para local seguro. Para destinação final, proceder
+limpeza: conforme a Seção 13 desta FISPQ.
+Diferenças na ação de Não há distinção entre as ações de grandes e pequenos vazamentos para este produto.
+grandes e pequenos
+vazamentos:
+7 - MANUSEIO E ARMAZENAMENTO
+Medidas técnicas apropriadas para o manuseio
+Precauções para Manuseie em uma área ventilada ou com sistema geral de ventilação/exaustão local. Evite
+manuseio seguro: formação de poeiras. Caso necessário, utilize equipamento de proteção individual conforme descrito
+na seção 8.
+Medidas de higiene: Lave as mãos e o rosto cuidadosamente após o manuseio e antes de comer, beber, fumar ou ir ao
+banheiro.
+Condições de armazenamento seguro, incluindo qualquer incompatibilidade
+Prevenção de incêndio Não é esperado que o produto apresente perigo de incêndio ou explosão.
+e explosão:
+Condições adequadas: Armazene em local bem ventilado e longe da luz solar. Mantenha o recipiente fechado. Manter
+armazenado em temperatura ambiente que não exceda 35°C.
+Não é necessária adição de estabilizantes e antioxidantes para garantir a durabilidade do produto.
+Materiais adequados Semelhante à embalagem original.
+para embalagem:
+Materiais inadequados Não são conhecidos materiais inadequados para este produto.
+para embalagem:
+8 - CONTROLE DE EXPOSIÇÃO E PROTEÇÃO INDIVIDUAL
+Parâmetros de controle
+Limites de exposição Não estabelecidos.
+ocupacional:
+Indicadores biológicos: Não estabelecidos.
+Outros limites e valores: -Amônia:
+TLV - TWA (ACGIH, 2015): 25 ppm
+TLV - STEL (ACGIH, 2015): 35 ppm
+-Particulados (solúveis) não especificados de outra maneira (PNOS):
+PEL - TWA (OSHA, 2010): 5 mg/m³*
+*Respirável.
+Medidas de controle de Promova ventilação mecânica e sistema de exaustão direta para o meio exterior. Estas medidas
+engenharia: auxiliam na redução da exposição ao produto.
+
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+
+Medidas de proteção pessoal | 
+Proteção dos
+olhos/face: | Óculos de proteção.
+ | 
+Proteção da pele e do
+corpo: | Sapatos fechados e vestimenta de proteção adequada. Luvas de proteção adequadas.
+ | 
+Proteção respiratória: | Uma avaliação de risco deve ser realizada para adequada definição da proteção respiratória tendo
+em vista as condições de uso do produto. Siga orientação do Programa de Proteção Respiratória
+(PPR), Fundacentro.
+ | 
+Perigos térmicos: | Não apresenta perigos térmicos.
+9 - PROPRIEDADES FÍSICAS E QUÍMICAS | 
+Aspecto (estado físico,
+forma e cor): | Sólido cristalino cinza a marrom.
+ | 
+Odor e limite de odor: | Pungente.
+pH: | 7,6 a 8,2 ((Solução a 100g/L a 20°C)).
+Ponto de fusão/ponto
+de congelamento: | Não disponível.
+ | 
+Ponto de ebulição inicial
+e faixa de temperatura
+de ebulição: | Não disponível.
+ | 
+Ponto de fulgor: | Não disponível.
+Taxa de evaporação: | Não disponível.
+Inflamabilidade: | Não disponível.
+Limite inferior/superior
+de inflamabilidade ou
+explosividade: | Não disponível.
+ | 
+Pressão de vapor: | Não disponível.
+Densidade de vapor: | Não disponível.
+Densidade relativa: | 1,619 (água a 4°C=1) a 20 °C.
+Solubilidade(s): | Solúvel em água. Solubilidade em água de 80 - 95%.
+Coeficiente de partição
+- n-octanol/água: | Não disponível.
+ | 
+Temperatura de
+autoignição: | Não disponível.
+ | 
+Temperatura de
+decomposição: | > 100 °C.
+ | 
+Viscosidade: | Não disponível.
+Outras informações: | Não aplicável.
+10 - ESTABILIDADE E REATIVIDADE | 
+Reatividade: | Não é esperada reatividade em condições normais de temperatura e pressão.
+Estabilidade: | Produto estável em condições normais de temperatura e pressão.
+FISPQ
+Em conformidade com NBR 14725
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Produto: Fosfato Diamônio - DAP
+Revisão: 02 Data: 13/10/2020 Página: 4/7
+Medidas de proteção pessoal
+Proteção dos Óculos de proteção.
+olhos/face:
+Proteção da pele e do Sapatos fechados e vestimenta de proteção adequada. Luvas de proteção adequadas.
+corpo:
+Proteção respiratória: Uma avaliação de risco deve ser realizada para adequada definição da proteção respiratória tendo
+em vista as condições de uso do produto. Siga orientação do Programa de Proteção Respiratória
+(PPR), Fundacentro.
+Perigos térmicos: Não apresenta perigos térmicos.
+9 - PROPRIEDADES FÍSICAS E QUÍMICAS
+Aspecto (estado físico, Sólido cristalino cinza a marrom.
+forma e cor):
+Odor e limite de odor: Pungente.
+pH: 7,6 a 8,2 ((Solução a 100g/L a 20°C)).
+Ponto de fusão/ponto Não disponível.
+de congelamento:
+Ponto de ebulição inicial Não disponível.
+e faixa de temperatura
+de ebulição:
+Ponto de fulgor: Não disponível.
+Taxa de evaporação: Não disponível.
+Inflamabilidade: Não disponível.
+Limite inferior/superior Não disponível.
+de inflamabilidade ou
+explosividade:
+Pressão de vapor: Não disponível.
+Densidade de vapor: Não disponível.
+Densidade relativa: 1,619 (água a 4°C=1) a 20 °C.
+Solubilidade(s): Solúvel em água. Solubilidade em água de 80 - 95%.
+Coeficiente de partição Não disponível.
+- n-octanol/água:
+Temperatura de Não disponível.
+autoignição:
+Temperatura de > 100 °C.
+decomposição:
+Viscosidade: Não disponível.
+Outras informações: Não aplicável.
+10 - ESTABILIDADE E REATIVIDADE
+Reatividade: Não é esperada reatividade em condições normais de temperatura e pressão.
+Estabilidade: Produto estável em condições normais de temperatura e pressão.
+
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+
+ | 
+ | 
+Possibilidade de
+reações perigosas: | Não são conhecidas reações perigosas com relação ao produto.
+ | 
+Condições a serem
+evitadas: | Temperaturas elevadas. Contato com materiais incompatíveis.
+ | 
+Materiais incompatíveis: | Agentes Oxidantes Fortes e Bases Fortes.
+Produtos perigosos da
+decomposição: | A decomposição do produto pode liberar amônia, nitrogênio e óxidos de fósforo.
+ | 
+11 - INFORMAÇÕES TOXICOLÓGICAS | 
+Toxicidade Aguda: | Evidências em humanos indicam que o produto provoca danos à saúde por via oral e, portanto, a
+classificação não é baseada em dados de dose letal.
+Produto não classificado como tóxico agudo por via dérmica e inalatória.
+Pode ser nocivo se ingerido.
+DL50 (Oral, ratos): > 2000 mg/kg.
+DL50 (Dérmica, ratos): > 5000 mg/kg.
+CL50 (Inalação de poeiras e névoas, ratos, 4h): > 5 mg/L.
+ | 
+Corrosão/irritação à
+pele: | Provoca irritação à pele com vermelhidão, dor e ressecamento.
+ | 
+Lesões oculares
+graves/irritação ocular: | Provoca irritação ocular com vermelhidão e lacrimejamento.
+ | 
+Sensibilização
+respiratória ou à pele: | Não é esperado que o produto apresente sensibilização respiratória ou à pele.
+ | 
+Mutagenicidade em
+células germinativas: | Não é esperado que o produto apresente mutagenicidade em células germinativas.
+ | 
+Carcinogenicidade: | Não é esperado que o produto apresente carcinogenicidade.
+Toxicidade à
+reprodução: | Não é esperado que o produto apresente toxicidade à reprodução.
+ | 
+Toxicidade para
+órgãos-alvo específicos
+–exposição única: | Pode provocar irritação das vias respiratórias, podendo ocasionar espirros e tosse.
+ | 
+Toxicidade para órgão-
+salvo específicos –
+exposição repetida: | Não é esperado que o produto apresente toxicidade ao órgão-alvo específico por exposição
+repetida.
+ | 
+Perigo por aspiração: | Não é esperado que o produto apresente perigo por aspiração.
+12 - INFORMAÇÕES ECOLÓGICAS | 
+Efeitos ambientais, comportamento e impactos do produto | 
+Ecotoxicidade: | Não é esperado que o produto apresente ecotoxicidade.
+CEr50 (Pseudokirchneriella subcapitata, 72h): > 100 mg/L;
+CL50 (Oncorhynchus mykiss, 96h): > 86 mg/L.
+ | 
+Persistência e
+degradabilidade: | Em função da ausência de dados, espera-se que o produto apresente persistência e não seja
+rapidamente degradado.
+Potencial
+bioacumulativo: | Apresenta baixo potencial bioacumulativo em organismos aquáticos.
+ | 
+Mobilidade no solo: | Não determinada.
+Outros efeitos
+adversos: | Pode liberar íons de amônio, que são tóxicos para os peixes. concentrações de amônia não
+ionizada acima de 0,02 mg / l são considerados tóxicos na água doce. Pode libertar fosfatos que irá
+resultar em crescimento de algas, o aumento da turbidez e empobrecido oxigênio. Em
+ | 
+FISPQ
+Em conformidade com NBR 14725
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Produto: Fosfato Diamônio - DAP
+Revisão: 02 Data: 13/10/2020 Página: 5/7
+Possibilidade de Não são conhecidas reações perigosas com relação ao produto.
+reações perigosas:
+Condições a serem Temperaturas elevadas. Contato com materiais incompatíveis.
+evitadas:
+Materiais incompatíveis: Agentes Oxidantes Fortes e Bases Fortes.
+Produtos perigosos da A decomposição do produto pode liberar amônia, nitrogênio e óxidos de fósforo.
+decomposição:
+11 - INFORMAÇÕES TOXICOLÓGICAS
+Toxicidade Aguda: Evidências em humanos indicam que o produto provoca danos à saúde por via oral e, portanto, a
+classificação não é baseada em dados de dose letal.
+Produto não classificado como tóxico agudo por via dérmica e inalatória.
+Pode ser nocivo se ingerido.
+DL50 (Oral, ratos): > 2000 mg/kg.
+DL50 (Dérmica, ratos): > 5000 mg/kg.
+CL50 (Inalação de poeiras e névoas, ratos, 4h): > 5 mg/L.
+Corrosão/irritação à Provoca irritação à pele com vermelhidão, dor e ressecamento.
+pele:
+Lesões oculares Provoca irritação ocular com vermelhidão e lacrimejamento.
+graves/irritação ocular:
+Sensibilização Não é esperado que o produto apresente sensibilização respiratória ou à pele.
+respiratória ou à pele:
+Mutagenicidade em Não é esperado que o produto apresente mutagenicidade em células germinativas.
+células germinativas:
+Carcinogenicidade: Não é esperado que o produto apresente carcinogenicidade.
+Toxicidade à Não é esperado que o produto apresente toxicidade à reprodução.
+reprodução:
+Toxicidade para Pode provocar irritação das vias respiratórias, podendo ocasionar espirros e tosse.
+órgãos-alvo específicos
+–exposição única:
+Toxicidade para órgão- Não é esperado que o produto apresente toxicidade ao órgão-alvo específico por exposição
+salvo específicos – repetida.
+exposição repetida:
+Perigo por aspiração: Não é esperado que o produto apresente perigo por aspiração.
+12 - INFORMAÇÕES ECOLÓGICAS
+Efeitos ambientais, comportamento e impactos do produto
+Ecotoxicidade: Não é esperado que o produto apresente ecotoxicidade.
+CEr50 (Pseudokirchneriella subcapitata, 72h): > 100 mg/L;
+CL50 (Oncorhynchus mykiss, 96h): > 86 mg/L.
+Persistência e Em função da ausência de dados, espera-se que o produto apresente persistência e não seja
+degradabilidade: rapidamente degradado.
+Potencial Apresenta baixo potencial bioacumulativo em organismos aquáticos.
+bioacumulativo:
+Mobilidade no solo: Não determinada.
+Outros efeitos Pode liberar íons de amônio, que são tóxicos para os peixes. concentrações de amônia não
+adversos: ionizada acima de 0,02 mg / l são considerados tóxicos na água doce. Pode libertar fosfatos que irá
+resultar em crescimento de algas, o aumento da turbidez e empobrecido oxigênio. Em
+
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+
+ | 
+Revisão: 02 | Data: 13/10/2020 Página: 6/7
+ | concentrações extremamente elevadas, isso pode ser perigoso para os peixes ou outros
+organismos marinhos. Liberação para cursos de água podem causar efeitos a jusante.
+13 - CONSIDERAÇÕES SOBRE DESTINAÇÃO FINAL | 
+Métodos recomendados para destinação final | 
+Produto: | O tratamento e a disposição devem ser avaliados especificamente para cada produto. Devem ser
+consultadas legislações federais, estaduais e municipais, dentre estas: Lei n°12.305, de 02 de
+agosto de 2010 (Política Nacional de Resíduos Sólidos).
+ | 
+Restos de produto: | Manter restos do produto em suas embalagens originais e devidamente fechadas. O descarte deve
+ser realizado conforme o estabelecido para o produto.
+ | 
+Embalagem usada: | Não reutilize embalagens vazias. Estas podem conter restos do produto e devem ser mantidas
+fechadas e encaminhadas para descarte apropriado conforme estabelecido para o produto.
+ | 
+14 - INFORMAÇÕES SOBRE TRANSPORTE | 
+Regulamentações nacionais e internacionais | 
+Terrestre: | ANTT - Agência Nacional de Transportes Terrestres:
+• Resolução nº 5232 de 14 de dezembro de 2016: Aprova as Instruções Complementares
+ao Regulamento Terrestre do Transporte de Produtos Perigosos, e dá outras providências.
+ | 
+Hidroviário: | DPC - Diretoria de Portos e Costas: Transporte em águas brasileiras.- Normas de Autoridade
+Marítima:
+• NORMAM 01/DPC: Embarcações Empregadas na Navegação em Mar Aberto.
+• NORMAM 02/DPC: Embarcações Empregadas na Navegação Interior.- International
+Maritime Organization (Organização Marítima Internacional):
+• IMDG Code - International Maritime Dangerous Goods Code
+(Código Marítimo Internacional de Produtos Perigosos).
+ | 
+Aéreo: | ANAC - Agência Nacional de Aviação Civil: Resolução n°129 de 8 de dezembro de 2009.N°175 -
+(Regulamento Brasileiro da Avianção Civil):
+• Transporte de Artigos Perigosos em Aeronaves Civis.
+• IS N° 175-001 - Instrução Suplementar.- International Civil Aviation Organization
+(Organização da Aviação Civil Internacional):
+• Doc 9284-NA/905.- International Air Transport Association (Associação Internacional de
+Transporte Aéreo):
+• DGR - Dangerous Goods Regulation (Regulação de Produtos Perigosos).
+ | 
+Número ONU: | Não classificado como perigoso para o transporte nos diferentes modais.
+15 - INFORMAÇÕES SOBRE REGULAMENTAÇÕES | 
+Regulamentações
+específicas para o
+produto químico: | Decreto Federal nº 10.088, de 5 de novembro de 2019;
+Norma ABNT-NBR 14725;
+Portaria nº 229, de 24 de maio de 2011 –Altera a Norma Regulamentadora nº 26.
+16 - OUTRAS INFORMAÇÕES
+Informações importantes, mas não especificamente descritas nas seções anteriores:
+Esta FISPQ foi elaborada com base nos atuais conhecimentos sobre o manuseio apropriado do produto e sob as condições
+normais de uso, de acordo com a aplicação especificada na embalagem. Qualquer outra forma de utilização do produto que
+envolva a sua combinação com outros materiais, além de formas de uso diversas daquelas indicadas, são de
+responsabilidade do usuário. Adverte-se que o manuseio de qualquer substância química requer o conhecimento prévio de
+seus perigos pelo usuário. No local de trabalho cabe à empresa usuária do produto promover o treinamento de seus
+colaboradores quanto aos possíveis riscos advindos da exposição ao produto químico.
+FISPQ
+Em conformidade com NBR 14725
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Produto: Fosfato Diamônio - DAP
+Revisão: 02 Data: 13/10/2020 Página: 6/7
+concentrações extremamente elevadas, isso pode ser perigoso para os peixes ou outros
+organismos marinhos. Liberação para cursos de água podem causar efeitos a jusante.
+13 - CONSIDERAÇÕES SOBRE DESTINAÇÃO FINAL
+Métodos recomendados para destinação final
+Produto: O tratamento e a disposição devem ser avaliados especificamente para cada produto. Devem ser
+consultadas legislações federais, estaduais e municipais, dentre estas: Lei n°12.305, de 02 de
+agosto de 2010 (Política Nacional de Resíduos Sólidos).
+Restos de produto: Manter restos do produto em suas embalagens originais e devidamente fechadas. O descarte deve
+ser realizado conforme o estabelecido para o produto.
+Embalagem usada: Não reutilize embalagens vazias. Estas podem conter restos do produto e devem ser mantidas
+fechadas e encaminhadas para descarte apropriado conforme estabelecido para o produto.
+14 - INFORMAÇÕES SOBRE TRANSPORTE
+Regulamentações nacionais e internacionais
+Terrestre: ANTT - Agência Nacional de Transportes Terrestres:
+• Resolução nº 5232 de 14 de dezembro de 2016: Aprova as Instruções Complementares
+ao Regulamento Terrestre do Transporte de Produtos Perigosos, e dá outras providências.
+Hidroviário: DPC - Diretoria de Portos e Costas: Transporte em águas brasileiras.- Normas de Autoridade
+Marítima:
+• NORMAM 01/DPC: Embarcações Empregadas na Navegação em Mar Aberto.
+• NORMAM 02/DPC: Embarcações Empregadas na Navegação Interior.- International
+Maritime Organization (Organização Marítima Internacional):
+• IMDG Code - International Maritime Dangerous Goods Code
+(Código Marítimo Internacional de Produtos Perigosos).
+Aéreo: ANAC - Agência Nacional de Aviação Civil: Resolução n°129 de 8 de dezembro de 2009.N°175 -
+(Regulamento Brasileiro da Avianção Civil):
+• Transporte de Artigos Perigosos em Aeronaves Civis.
+• IS N° 175-001 - Instrução Suplementar.- International Civil Aviation Organization
+(Organização da Aviação Civil Internacional):
+• Doc 9284-NA/905.- International Air Transport Association (Associação Internacional de
+Transporte Aéreo):
+• DGR - Dangerous Goods Regulation (Regulação de Produtos Perigosos).
+Número ONU: Não classificado como perigoso para o transporte nos diferentes modais.
+15 - INFORMAÇÕES SOBRE REGULAMENTAÇÕES
+Regulamentações Decreto Federal nº 10.088, de 5 de novembro de 2019;
+específicas para o Norma ABNT-NBR 14725;
+produto químico: Portaria nº 229, de 24 de maio de 2011 –Altera a Norma Regulamentadora nº 26.
+16 - OUTRAS INFORMAÇÕES
+Informações importantes, mas não especificamente descritas nas seções anteriores:
+Esta FISPQ foi elaborada com base nos atuais conhecimentos sobre o manuseio apropriado do produto e sob as condições
+normais de uso, de acordo com a aplicação especificada na embalagem. Qualquer outra forma de utilização do produto que
+envolva a sua combinação com outros materiais, além de formas de uso diversas daquelas indicadas, são de
+responsabilidade do usuário. Adverte-se que o manuseio de qualquer substância química requer o conhecimento prévio de
+seus perigos pelo usuário. No local de trabalho cabe à empresa usuária do produto promover o treinamento de seus
+colaboradores quanto aos possíveis riscos advindos da exposição ao produto químico.
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+
+Produto: Fosfato Diamônio - DAP
+Revisão: 02 Data: 13/10/2020 Página: 7/7
+Elaborada em julho de 2017.
+Legendas e Abreviaturas:
+ACGIH - American Conference of Governmental Industrial Hygienists;
+CAS - Chemical Abstracts Service;
+CEr50 - Concentração efetiva que resulta na redução de 50% da taxa de crescimento;
+CL50 - Concentração Letal 50%;
+DL50 - Dose Letal 50%;
+IARC - International Agency for Research on Cancer;
+NIOSH - National Institute for Occupational Safety and Health;
+NR - Norma Regulamentadora;
+ONU - Organização das Nações Unidas;
+OSHA - Occupational Safety & Health Administration;
+PEL - Permissible Exposure Limit;
+STEL - Short Term Exposure Limit;
+TLV - Threshold Limit Value;
+TWA - Time Weighted Average.
+Referências bibliográficas:
+BRASIL. MINISTÉRIO DO TRABALHO E EMPREGO (MTE). Norma Regulamentadora (NR) n°7: Programa de controle
+médico de saúde ocupacional. Brasília, DF. Jun. 1978.
+BRASIL. MINISTÉRIO DO TRABALHO E EMPREGO (MTE). Norma Regulamentadora (NR) n°15: Atividades e operações
+insalubres. Brasília, DF. Jun. 1978.
+GHS - GLOBALLY HARMONIZED SYSTEM OF CLASSIFICATION AND LABELLING OF CHEMICALS. 8th rev. ed. New
+York: United Nations, 2019.
+ACGIH - AMERICAN CONFERENCE OF GOVERNMENTAL INDUSTRIALS HYGIENISTS. TLVs® and BEIs®: Based on the
+Documentation of the Threshold Limit Values (TLVs®) for Chemical Substances and Physical Agents & Biological Exposure
+Indices (BEIs®). Cincinnati-USA, 2020.
+ECHA - EUROPEAN CHEMICAL AGENCY. Disponível em: < http://echa.europa.eu/web/guest >. Acesso em: jul. 2017.
+GESTIS - SUBSTANCE DATABASE. Disponível em: < http://gestis-
+en.itrust.de/nxt/gateway.dll/gestis_en/000000.xml?f=templates$fn=default.htm$3.0 >. Acesso em: jul. 2017.
+HSDB - HAZARDOUS SUBSTANCES DATA BANK. Disponível em: < http://toxnet.nlm.nih.gov/cgi-bin/sis/htmlgen?HSDB >.
+Acesso em: jul. 2017.
+IARC - INTERNATIONAL AGENCY FOR RESEARCH ON CANCER. Disponível em: <
+http://monographs.iarc.fr/ENG/Classification/index.php >. Acesso em: jul. 2017.
+IPCS - INTERNATIONAL PROGRAMME ON CHEMICAL SAFETY –INCHEM. Disponível em: < http://www.inchem.org/ >.
+Acesso em: jul. 2017.
+IUCLID - INTERNATIONAL UNIFORM CHEMICAL INFORMATION DATABASE. [S.l.]: European chemical Bureau.
+NIOSH - NATIONAL INSTITUTE OF OCCUPATIONAL AND SAFETY. International Chemical Safety Cards. Disponível em: <
+http://www.cdc.gov/niosh/ >. Acesso em: jul. 2017.
+TOXNET - TOXICOLOGY DATA NETWORKING. ChemIDplus Lite. Disponível em: < http://chem.sis.nlm.nih.gov/ >. Acesso
+em: jul. 2017.
+
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+
+FISPQ
+Em conformidade com NBR 14725
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Produto: Fosfato Diamônio - DAP
+Revisão: 02 Data: 13/10/2020 Página: 7/7
+Elaborada em julho de 2017.
+Legendas e Abreviaturas:
+ACGIH - American Conference of Governmental Industrial Hygienists;
+CAS - Chemical Abstracts Service;
+CEr50 - Concentração efetiva que resulta na redução de 50% da taxa de crescimento;
+CL50 - Concentração Letal 50%;
+DL50 - Dose Letal 50%;
+IARC - International Agency for Research on Cancer;
+NIOSH - National Institute for Occupational Safety and Health;
+NR - Norma Regulamentadora;
+ONU - Organização das Nações Unidas;
+OSHA - Occupational Safety & Health Administration;
+PEL - Permissible Exposure Limit;
+STEL - Short Term Exposure Limit;
+TLV - Threshold Limit Value;
+TWA - Time Weighted Average.
+Referências bibliográficas:
+BRASIL. MINISTÉRIO DO TRABALHO E EMPREGO (MTE). Norma Regulamentadora (NR) n°7: Programa de controle
+médico de saúde ocupacional. Brasília, DF. Jun. 1978.
+BRASIL. MINISTÉRIO DO TRABALHO E EMPREGO (MTE). Norma Regulamentadora (NR) n°15: Atividades e operações
+insalubres. Brasília, DF. Jun. 1978.
+GHS - GLOBALLY HARMONIZED SYSTEM OF CLASSIFICATION AND LABELLING OF CHEMICALS. 8th rev. ed. New
+York: United Nations, 2019.
+ACGIH - AMERICAN CONFERENCE OF GOVERNMENTAL INDUSTRIALS HYGIENISTS. TLVs® and BEIs®: Based on the
+Documentation of the Threshold Limit Values (TLVs®) for Chemical Substances and Physical Agents & Biological Exposure
+Indices (BEIs®). Cincinnati-USA, 2020.
+ECHA - EUROPEAN CHEMICAL AGENCY. Disponível em: < http://echa.europa.eu/web/guest >. Acesso em: jul. 2017.
+GESTIS - SUBSTANCE DATABASE. Disponível em: < http://gestis-
+en.itrust.de/nxt/gateway.dll/gestis_en/000000.xml?f=templates$fn=default.htm$3.0 >. Acesso em: jul. 2017.
+HSDB - HAZARDOUS SUBSTANCES DATA BANK. Disponível em: < http://toxnet.nlm.nih.gov/cgi-bin/sis/htmlgen?HSDB >.
+Acesso em: jul. 2017.
+IARC - INTERNATIONAL AGENCY FOR RESEARCH ON CANCER. Disponível em: <
+http://monographs.iarc.fr/ENG/Classification/index.php >. Acesso em: jul. 2017.
+IPCS - INTERNATIONAL PROGRAMME ON CHEMICAL SAFETY –INCHEM. Disponível em: < http://www.inchem.org/ >.
+Acesso em: jul. 2017.
+IUCLID - INTERNATIONAL UNIFORM CHEMICAL INFORMATION DATABASE. [S.l.]: European chemical Bureau.
+NIOSH - NATIONAL INSTITUTE OF OCCUPATIONAL AND SAFETY. International Chemical Safety Cards. Disponível em: <
+http://www.cdc.gov/niosh/ >. Acesso em: jul. 2017.
+TOXNET - TOXICOLOGY DATA NETWORKING. ChemIDplus Lite. Disponível em: < http://chem.sis.nlm.nih.gov/ >. Acesso
+em: jul. 2017.

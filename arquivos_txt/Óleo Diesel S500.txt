@@ -1,0 +1,479 @@
+| 1 | | | - | | | IDENTIFICAÇÃO DO PRODUTO E DA EMPRESA | 
+ | 2 | | | - | | | IDENTIFICAÇÃO DE PERIGOS | 
+Ficha de Informação de Segurança
+de Produto Químico - FISPQ
+PRODUTO: ÓLEO DIESEL S500 Página 1 de 9
+Data: 28/04/2017 Nº FISPQ: BR0109 Versão: 6 Anula e substitui versão: todas anteriores
+1 - IDENTIFICAÇÃO DO PRODUTO E DA EMPRESA
+Nome do produto: ÓLEO DIESEL S500
+Código interno de identificação: BR0109
+Utilizado como combustível.
+Principais usos recomendados para a
+substância ou mistura:
+PETROBRAS DISTRIBUIDORA S.A.
+Nome da empresa:
+Rua Correia Vasques 250
+Endereço:
+20211-140 - Cidade Nova - Rio de Janeiro (RJ).
+Telefone: 0800 728 9001
+Telefone para emergências: 08000 24 44 33
+2 - IDENTIFICAÇÃO DE PERIGOS
+PERIGOS MAIS IMPORTANTES:
+Líquidos e vapores inflamáveis. Causa irritação à pele. Suspeito de
+causar câncer. Pode causar irritação respiratória (irritação da área
+respiratória). Pode causar sonolência e vertigem (efeitos narcóticos).
+Pode ser mortal em caso de ingestão e por penetração nas vias
+respiratórias. Este produto contém gás sulfídrico, extremamente
+tóxico e inflamável.
+EFEITOS DO PRODUTO:
+Efeitos adversos à saúde humana:
+O produto pode causar irritação das vias aéreas superiores se
+inalado. Pode causar efeitos narcóticos. Causa irritação à pele e
+pode causar leve irritação aos olhos. Suspeito de causar câncer.
+Pode causar a morte se aspirado.
+Efeitos ambientais:
+O produto pode ser perigoso para o meio ambiente em caso de
+grandes derramamentos.
+Perigos físicos e químicos:
+Líquidos e vapores inflamáveis.
+Perigos específicos:
+Líquido inflamável. Recipientes podem explodir se aquecidos.
+Quando aquecidos, este líquido libera gases irritantes e tóxicos.
+Principais sintomas:
+Vermelhidão e dor na pele. Tosse, dor de garganta e falta de ar.
+Tontura, náusea, dor de cabeça, confusão mental, perda de
+consciência.
+Classificação de perigo do produto: Líquidos inflamáveis – Categoria 3
+Corrosivo/irritante à pele – Categoria 2
+Carcinogenicidade – Categoria 2
+Toxicidade sistêmica ao órgão-alvo após única exposição –
+Categoria 3
+Perigo por aspiração – Categoria 1
+Sistema de classificação adotado:
+Norma ABNT-NBR 14725-Parte 2:2009.
+Adoção do Sistema Globalmente Harmonizado para a Classificação
+ | 3 | | | - | | | COMPOSIÇÃO E INFORMAÇÃO SOBRE OS INGREDIENTES | 
+Ficha de Informação de Segurança
+de Produto Químico - FISPQ
+PRODUTO: ÓLEO DIESEL S500 Página 2 de 9
+Data: 28/04/2017 Nº FISPQ: BR0109 Versão: 6 Anula e substitui versão: todas anteriores
+e Rotulagem de Produtos Químicos, ONU.
+Visão geral das emergências: LÍQUIDO ALTAMENTE INFLAMÁVEL E PERIGOSO PARA A
+SAÚDE HUMANA.
+ELEMENTOS APROPRIADOS DA ROTULAGEM
+Pictogramas:
+Palavra de advertência:
+PERIGO
+Frase de advertência:
+Líquido combustível.
+Causa irritação à pele.
+Suspeito de causar câncer.
+Pode causar irritação respiratória (irritação da área respiratória).
+Pode causar sonolência e vertigem (efeitos narcóticos).
+Pode ser mortal em caso de ingestão e por penetração nas vias
+respiratórias.
+Frase de precaução:
+Mantenha afastado de calor [faíscas] [e chama] [não fume].
+Armazene em local fresco/baixa temperatura, em local bem ventilado
+[seco] [afastado de fontes de calor e de ignição].
+Quando em uso não [fume] [coma] [ou beba].
+Não use em local sem ventilação adequada.
+Evite contato com olhos e pele.
+Use equipamento de proteção individual apropriado.
+Se ingerido, lave a boca com água [somente se a vítima estiver
+consciente].
+Em caso de indisposição, consulte um médico.
+Use meios de contenção para evitar contaminação ambiental.
+Não permita o contato do produto com corpos d’água.
+3 - COMPOSIÇÃO E INFORMAÇÃO SOBRE OS INGREDIENTES
+>>> SUBSTÂNCIA DE PETRÓLEO
+Grupo de substância de petróleo: Gasóleos: Óleo diesel
+Gasóleos e óleos destilados são misturas complexas de petróleo,
+compostas primariamente de hidrocarbonetos saturados (parafínicos
+ou naftênicos) ou aromáticos com cadeia carbônica composta de 9 a
+30 átomos de carbono e ponto de ebulição entre 150 e 471ºC.
+Ingredientes | Concentração (%) | CAS
+Hidrocarbonetos
+aromáticos | --- | NA
+Hidrocarbonetos
+parafínicos | --- | NA
+Hidrocarbonetos
+naftênicos; | --- | NA
+Enxofre | Máx 500 mg/kg | 7704-34-9, orgânico
+ | 4 | | | - | | | MEDIDAS DE PRIMEIROS SOCORROS | 
+ | 5 | | | - | | | MEDIDAS DE COMBATE A INCÊNDIO | 
+Ficha de Informação de Segurança
+de Produto Químico - FISPQ
+PRODUTO: ÓLEO DIESEL S500 Página 3 de 9
+Data: 28/04/2017 Nº FISPQ: BR0109 Versão: 6 Anula e substitui versão: todas anteriores
+68334-30-5
+Número de registro CAS:
+Impurezas que contribuam para o
+Ingredientes Concentração (%) CAS
+perigo:
+Hidrocarbonetos NA
+---
+aromáticos
+Hidrocarbonetos NA
+---
+parafínicos
+Hidrocarbonetos NA
+---
+naftênicos;
+Enxofre Máx 500 mg/kg 7704-34-9, orgânico
+4 - MEDIDAS DE PRIMEIROS SOCORROS
+Inalação:
+Remova a vítima para local arejado e mantenha-a em repouso.
+Monitore a função respiratória. Se a vítima estiver respirando com
+dificuldade, forneça oxigênio. Se necessário aplique respiração
+artificial. Procure atenção médica. Leve esta FISPQ.
+Contato com a pele:
+Remova as roupas e sapatos contaminados. Lave a pele exposta
+com grande quantidade de água, por pelo menos 15 minutos.
+Procure atenção médica. Leve esta FISPQ.
+Contato com os olhos:
+Lave com água corrente por pelo menos 15 minutos, mantendo as
+pálpebras abertas. Retire lentes de contato quando for o caso.
+Procure atenção médica imediatamente. Leve esta FISPQ.
+Ingestão:
+Lave a boca da vítima com água em abundância. NÃO INDUZA O
+VÔMITO. Procure atenção médica. Leve esta FISPQ.
+Proteção do prestador de socorros
+Evite contato com o produto ao socorrer a vítima. Mantenha a vítima
+e/ou notas para o médico:
+em repouso e aquecida. Não forneça nada pela boca a uma pessoa
+inconsciente. O tratamento sintomático deve compreender,
+sobretudo, medidas de suporte como correção de distúrbios
+hidroeletrolíticos, metabólicos, além de assistência respiratória.
+5 - MEDIDAS DE COMBATE A INCÊNDIO
+Meios de extinção apropriados:
+Líquido inflamável. Compatível com espuma para hidrocarbonetos,
+neblina d’água, pó químico e dióxido de carbono (CO ).
+2
+Meio de extinção não recomendados:
+Jatos d’água. Água diretamente sobre o líquido em chamas.
+Perigos específicos:
+Os vapores são mais densos que o ar e tendem a se acumular em
+áreas baixas ou confinadas, como bueiros, porões, etc. Podem
+deslocar-se por grandes distâncias provocando retrocesso da chama
+ou novos focos de incêndio tanto em ambientes abertos como
+confinados. Os contêineres podem explodir se aquecidos. Este
+produto contém gás sulfídrico, extremamente inflamável.
+Métodos especiais de combate:
+Contêineres e tanques envolvidos no incêndio devem ser resfriados
+com jatos d’água.
+ | 6 | | | - | | | MEDIDAS DE CONTROLE PARA DERRAMAMENTO OU VAZAMENTO | 
+ | 7 | | | - | | | MANUSEIO E ARMAZENAMENTO | 
+Ficha de Informação de Segurança
+de Produto Químico - FISPQ
+PRODUTO: ÓLEO DIESEL S500 Página 4 de 9
+Data: 28/04/2017 Nº FISPQ: BR0109 Versão: 6 Anula e substitui versão: todas anteriores
+Proteção de bombeiro/brigadista:
+Equipamento de proteção respiratória do tipo autônomo (SCBA) com
+pressão positiva e vestuário protetor completo.
+6 - MEDIDAS DE CONTROLE PARA DERRAMAMENTO OU VAZAMENTO
+Precauções pessoais
+Remoção de fontes de ignição:
+Produto inflamável. Remova todas as fontes de ignição. Impeça
+fagulhas ou chamas. Não fume.
+Prevenção da inalação e do contato
+Não toque nos recipientes danificados ou no material derramado
+com a pele, mucosas e olhos:
+sem o uso de vestimentas adequadas. Evite inalação, contato com
+os olhos e com a pele. Utilize equipamento de proteção individual
+conforme descrito na seção 8.
+Precauções ao meio ambiente::
+Evite que o produto derramado atinja cursos d’água e rede de
+esgotos.
+Métodos para limpeza:
+Procedimentos a serem adotados:
+Colete o produto derramado e coloque em recipientes próprios.
+Adsorva o produto remanescente, com areia seca, terra, vermiculite,
+ou qualquer outro material inerte. Coloque o material adsorvido em
+recipientes apropriados e remova-os para local seguro.
+Prevenção de perigos secundários:
+Não descarte diretamente no meio ambiente ou na rede de esgoto. A
+água de diluição proveniente do combate ao fogo pode causar
+poluição.
+7 - MANUSEIO E ARMAZENAMENTO
+Medidas técnicas apropriadas - MANUSEIO
+Prevenção da exposição do
+Evite inalação e o contato com a pele, olhos e roupas. Evite respirar
+trabalhador:
+vapores/névoas do produto. Utilize equipamento de proteção
+individual ao manusear o produto, descritos na seção 8.
+Precauções e orientações para
+Manuseie o produto somente em locais bem arejados ou com
+manuseio seguro:
+sistemas de ventilação geral/local adequado. Evite formação de
+vapores ou névoas.
+Medidas de higiene:
+Não coma, beba ou fume durante o manuseio do produto. Lave bem
+as mãos antes de comer, beber, fumar ou ir ao banheiro. Roupas
+contaminadas devem ser trocadas e lavadas antes de sua
+reutilização.
+Medidas técnicas apropriadas – ARMAZENAMENTO
+Apropriadas:
+Mantenha o produto em local fresco, seco e bem ventilado, distante
+de fontes de calor e ignição. Mantenha os recipientes bem fechados
+e devidamente identificados. O local de armazenamento deve ter
+piso impermeável e com dique de contenção para reter em caso de
+vazamento. O local de armazenamento deve conter bacia de
+ | 8 | | | - | | | CONTROLE DE EXPOSIÇÃO E PROTEÇÃO INDIVIDUAL | 
+Ingredientes | TLV – TWA
+(ACGIH) | TLV – STEL
+(ACGIH)
+Névoa de óleo | 5mg/m3 | 10mg/m3
+ | 9 | | | - | | | PROPRIEDADES FÍSICO-QUÍMICAS | 
+Ficha de Informação de Segurança
+de Produto Químico - FISPQ
+PRODUTO: ÓLEO DIESEL S500 Página 5 de 9
+Data: 28/04/2017 Nº FISPQ: BR0109 Versão: 6 Anula e substitui versão: todas anteriores
+contenção para reter o produto, em caso de vazamento.
+Inapropriadas:
+Temperaturas elevadas. Fontes de ignição. Contato com materiais
+incompatíveis.
+Materiais seguros para embalagens
+Recomendados:
+Não especificado.
+8 - CONTROLE DE EXPOSIÇÃO E PROTEÇÃO INDIVIDUAL
+Parâmetros de controle específicos
+Limite de exposição ocupacional:
+Ingredientes TLV – TWA TLV – STEL
+(ACGIH) (ACGIH)
+Névoa de óleo 5mg/m3 10mg/m3
+Medida de controle de engenharia: Promova ventilação combinada com exaustão local,
+especialmente quando ocorrer formação de vapores/névoas do
+produto. É recomendado tornar disponíveis chuveiros de
+emergência e lava olhos na área de trabalho.
+Equipamento de proteção individual apropriado
+Proteção respiratória:
+Recomenda-se a utilização de respirador com filtro para vapores
+orgânicos para exposições médias acima da metade do TLV-TWA.
+Nos casos em que a exposição exceda 3 vezes o valor TLV-TWA,
+utilize respirador do tipo autônomo (SCBA) com suprimento de ar, de
+peça facial inteira, operado em modo de pressão positiva. Siga
+orientação do Programa de Prevenção Respiratória (PPR), 3ª ed.
+São Paulo: Fundacentro, 2002.
+Proteção das mãos:
+Luvas de proteção de PVC.
+Proteção dos olhos:
+Óculos de proteção com proteção lateral.
+Proteção da pele e corpo:
+Vestimenta impermeável.
+Precauções especiais:
+Evite usar lentes de contato enquanto manuseia este produto.
+9 - PROPRIEDADES FÍSICO-QUÍMICAS
+Aspecto: Líquido límpido ( isento de material em suspensão)
+Odor: Característico
+Ph: Não aplicável.
+Ponto de fusão/ponto de - 40 – 6ºC
+ | 10 | | | - | | | ESTABILIDADE E REATIVIDADE | 
+ | 11 | | | - | | | INFORMAÇÕES TOXICOLÓGICAS | 
+Ficha de Informação de Segurança
+de Produto Químico - FISPQ
+PRODUTO: ÓLEO DIESEL S500 Página 6 de 9
+Data: 28/04/2017 Nº FISPQ: BR0109 Versão: 6 Anula e substitui versão: todas anteriores
+congelamento:
+Ponto de ebulição inicial e faixa de 150 – 471ºC
+temperatura de ebulição:
+Ponto de fulgor: 38 ºC Mín.; Método NBR 7974.
+Taxa de evaporação: Não disponível.
+Inflamabilidade: Não aplicável.
+Limite inferior/superior de Não disponível.
+inflamabilidade ou explosividade:
+Pressão de vapor: 0,4 kPa a 40°C
+Densidade de vapor: Não disponível.
+Densidade relativa: 0,820-0,865 a 20 ºC (Método NBR-7148)
+Solubilidade: Insolúvel em água. Solúvel em solventes orgânicos.
+Coeficiente de partição – n- Log kow: 7,22 (dado estimado).
+octanol/água:
+Temperatura de auto-ignição: ≥ 225ºC
+Temperatura de decomposição: 400ºC
+Viscosidade: 2,5–5,5 cSt a 40ºC (Método: ASTM D-445)
+Faixa de destilação: 100 - 400 ºC @ 101,325 kPa (760 mmHg); Método: NBR-9619.
+10 - ESTABILIDADE E REATIVIDADE
+Estabilidade química:
+Estável sob condições usuais de manuseio e armazenamento. Não
+sofre polimerização.
+Materiais/substâncias incompatíveis:
+Agentes oxidantes fortes como peróxidos, cloratos e ácido crômico.
+Produtos perigosos da decomposição:
+Em combustão libera hidrocarbonetos leves e pesados e coque.
+11 - INFORMAÇÕES TOXICOLÓGICAS
+ | 12 | | | - | | | INFORMAÇÕES ECOLÓGICAS | 
+ | 13 | | | - | | | CONSIDERAÇÕES SOBRE TRATAMENTO E DISPOSIÇÃO | 
+Ficha de Informação de Segurança
+de Produto Químico - FISPQ
+PRODUTO: ÓLEO DIESEL S500 Página 7 de 9
+Data: 28/04/2017 Nº FISPQ: BR0109 Versão: 6 Anula e substitui versão: todas anteriores
+Toxicidade aguda:
+Como depressor do sistema nervoso central, pode causar efeitos
+narcóticos como dor de cabeça e tontura. Pode causar confusão
+mental e perda de consciência em altas concentrações. O produto
+pode causar irritação das vias aéreas superiores se inalado
+causando tosse, dor de garganta e falta de ar. Causa irritação a pele
+com vermelhidão e dor no local atingido. Pode causar leve irritação
+ocular. Pode ser fatal se aspirado. Pode causar a morte se ingerido
+ou inalado. Este produto contém gás sulfídrico, extremamente tóxico.
+DL (oral, ratos): > 7500 mg/kg
+50
+DL (dérmica, coelhos): > 4100 mg/kg
+50
+Toxicidade crônica:
+Pode causar dermatite após contato repetido e prolongado com a
+pele.
+Efeitos específicos:
+Carcinogenicidade: Possível carcinógeno humano (Grupo 2B -
+IARC).
+12 - INFORMAÇÕES ECOLÓGICAS
+Efeitos ambientais, comportamentos e impactos do produto
+Ecotoxicidade:
+Em caso de grandes derramamentos o produto pode ser perigoso
+para o meio ambiente devido à possível formação de uma película
+do produto na superfície da água diminuindo os níveis de oxigênio
+dissolvido.
+Persistência e degradabilidade:
+É esperada baixa degradação e alta persistência.
+Potencial bioacumulativo:
+É esperado potencial de bioacumulação em organismos aquáticos.
+Log kow: 7,22 (dado estimado).
+13 - CONSIDERAÇÕES SOBRE TRATAMENTO E DISPOSIÇÃO
+Métodos recomendados para tratamento e disposição aplicados ao
+Produto:
+Evite a exposição ocupacional ou a contaminação ambiental. Recicle
+qualquer parcela não utilizada do material para seu uso aprovado ou
+retorná-lo ao fabricante ou ao fornecedor. Outros métodos consultar
+legislação federal e estadual: Resolução CONAMA 005/1993, NBR
+10.004/2004.
+Restos de produtos: Manter restos do produto em suas embalagens originais, fechadas e
+dentro de tambores metálicos, devidamente fechados, de acordo
+com a legislação aplicável. O descarte deve ser realizado conforme o
+estabelecido para o produto, recomendando-se as rotas de
+processamento em cimenteiras e a incineração.
+Embalagem usada: Nunca reutilize embalagens vazias, pois elas podem conter restos do
+produto e devem ser mantidas fechadas e encaminhadas para serem
+destruídas em local apropriado. Neste caso, recomenda-se envio
+para rotas de recuperação dos tambores ou incineração.
+ | 14 | | | - | | | INFORMAÇÕES SOBRE TRANSPORTE | 
+Ficha de Informação de Segurança
+de Produto Químico - FISPQ
+PRODUTO: ÓLEO DIESEL S500 Página 8 de 9
+Data: 28/04/2017 Nº FISPQ: BR0109 Versão: 6 Anula e substitui versão: todas anteriores
+14 - INFORMAÇÕES SOBRE TRANSPORTE
+Regulamentações nacionais e internacionais
+Terrestre Resolução n° 5232 de 14 de Dezembro de 2016 da Agência Nacional
+de Transportes Terrestres (ANTT), Aprova as Instruções
+Complementares ao Regulamento do Transporte Terrestre de
+Produtos Perigosos e suas modificações.
+Número ONU: 1202
+Nome apropriado para embarque: ÓLEO DIESEL
+Classe de risco/ subclasse de risco
+3
+principal:
+Classe de risco/ subclasse de risco
+NA
+subsidiário:
+Número de risco: 30
+Grupo de embalagem: III
+Hidroviário DPC - Diretoria de Portos e Costas (Transporte em águas brasileiras)
+Normas de Autoridade Marítima (NORMAM)
+NORMAM 01/DPC: Embarcações Empregadas na Navegação em
+Mar Aberto
+NORMAM 02/DPC: Embarcações Empregadas na Navegação
+Interior
+IMO – “International Maritime Organization” (Organização Marítima
+Internacional)
+International Maritime Dangerous Goods Code (IMDG Code).
+Número ONU: 1202
+Nome apropriado para embarque: DIESEL FUEL
+Classe de risco/ subclasse de risco
+3
+principal:
+Classe de risco/ subclasse de risco
+NA
+subsidiário:
+Grupo de embalagem: III
+EmS: F-E, S-E
+Perigo ao meio ambiente: O produto não é considerado poluente marinho.
+ | 15 | | | - | | | REGULAMENTAÇÕES | 
+ | 16 | | | - | | | OUTRAS INFORMAÇÕES | 
+Ficha de Informação de Segurança
+de Produto Químico - FISPQ
+PRODUTO: ÓLEO DIESEL S500 Página 9 de 9
+Data: 28/04/2017 Nº FISPQ: BR0109 Versão: 6 Anula e substitui versão: todas anteriores
+Aéreo ANAC - Agência Nacional de Aviação Civil – Resolução n°129 de 8
+de dezembro de 2009.
+RBAC N°175 – (REGULAMENTO BRASILEIRO DA AVIAÇÃO CIVIL)
+- TRANSPORTE DE ARTIGOS PERIGOSOS EM AERONAVES
+CIVIS.
+IS N° 175-001 – INSTRUÇÃO SUPLEMENTAR - IS
+ICAO – “International Civil Aviation Organization” (Organização da
+Aviação Civil Internacional) – Doc 9284-NA/905
+IATA - “International Air Transport Association” (Associação
+Internacional de Transporte Aéreo)
+Dangerous Goods Regulation (DGR).
+Número ONU: 1202
+Nome apropriado para embarque: DIESEL FUEL
+Classe de risco/ subclasse de risco
+3
+principal:
+Classe de risco/ subclasse de risco
+NA
+subsidiário:
+Grupo de embalagem: III
+15 - REGULAMENTAÇÕES
+Regulamentações:
+Regulamentações: Decreto Federal nº 2.657, de 3 de julho de 1998
+Norma ABNT-NBR 14725-4:2012
+16 - OUTRAS INFORMAÇÕES
+Informações importantes:
+Esta FISPQ foi elaborada baseada nos conhecimentos atuais do produto químico e fornece informações
+quanto à proteção, à segurança, à saúde e ao meio ambiente.
+Adverte-se que o manuseio de qualquer substância química requer o conhecimento prévio de seus
+perigos pelo usuário. Cabe à empresa usuária do produto promover o treinamento de seus empregados e
+contratados quanto aos possíveis riscos advindos do produto.
+Siglas:
+ACGIH - American Conference of Governmental Industrial Hygienists
+CAS - Chemical Abstracts Service
+DL50 - Dose letal 50%
+STEL – Short Term Exposure Level
+TLV - Threshold Limit Value
+TWA - Time Weighted Average
+Bibliografia:
+ECB] EUROPEAN CHEMICALS BUREAU. Diretiva 67/548/EEC (substâncias) e Diretiva
+1999/45/EC (preparações). Disponível em: http://ecb.jrc.it/. Acesso em: outubro de 2010.
+[EPI-USEPA] ESTIMATION PROGRAMS INTERFACE Suite - United States Environmental
+Protection Agency. Software.
+Ficha de Informação de Segurança
+de Produto Químico - FISPQ
+PRODUTO: ÓLEO DIESEL S500 Página 10 de 9
+Data: 28/04/2017 Nº FISPQ: BR0109 Versão: 6 Anula e substitui versão: todas anteriores
+[HSDB] HAZARDOUS SUBSTANCES DATA BANK. Disponível em: http://toxnet.nlm.nih.gov/cgi-
+bin/sis/htmlgen?HSDB. Acesso em: outubro de 2010.
+[IARC] INTERNATIONAL AGENCY FOR RESEARCH ON CANCER. Disponível em:
+http://monographs.iarc.fr/ENG/Classification/index.php. Acesso em: outubro de 2010.
+[IPCS] INTERNATIONAL PROGRAMME ON CHEMICAL SAFETY – INCHEM. Disponível em:
+http://www.inchem.org/. Acesso em: outubro de 2010.
+[IPIECA] INTERNATIONAL PETROLEUM INDUSTRY ENVIRONMENTAL CONSERVATION
+ASSOCIATION. Guidance on the application of Globally Harmonized System (GHS) criteria to
+petroleum substances. Version 1. June 17th
+2010. Disponível em: http://www.ipieca.org/system/files/publications/ghs_guidance_17_june_2010.pdf. Acesso
+em: outubro de 2010.
+[IUCLID] INTERNATIONAL UNIFORM CHEMICAL INFORMATION DATABASE. [s.l.]:
+European chemical Bureau. Disponível em: http://ecb.jrc.ec.europa.eu. Access in: outubro de 2010.
+[NIOSH] NATIONAL INSTITUTE OF OCCUPATIONAL AND SAFETY. International Chemical
+Safety Cards. Disponível em: http://www.cdc.gov/niosh/. Acesso em: outubro de 2010.
+[NITE-GHS JAPAN] NATIONAL INSTITUTE OF TECHNOLOGY AND EVALUATION.
+Disponível em: http://www.safe.nite.go.jp/english/ghs_index.html. Acesso em: outubro de 2010.
+[PETROLEUM HPV] PETROLEUM HIGH PRODUCTION VOLUME. Disponível em:
+http://www.petroleumhpv.org/pages/petroleumsubstances.html. Acesso em: outubro de 2010.
+[REACH] REGISTRATION, EVALUATION, AUTHORIZATION AND RESTRICTION OF
+CHEMICALS. Commission Regulation (EC) No 1272/2008 of 16 December 2008 amending and
+repealing Directives 67/548/EEC and 1999/45/EC, and amending Regulation (EC) No 1907/2006 of the
+European Parliament and of the Council on the Registration, Evaluation, Authorization and Restriction
+of Chemicals.
+[SIRETOX/INTERTOX] SISTEMA DE INFORMAÇÕES SOBRE RISCOS DE EXPOSIÇÃO
+QUÍMICA. Disponível em: http://www.intertox.com.br. Acesso em: outubro de 2010.
+[TOXNET] TOXICOLOGY DATA NETWORKING. ChemIDplus Lite. Disponível em:
+http://chem.sis.nlm.nih.gov/. Acesso em: outubro de 2010.

@@ -1,0 +1,376 @@
+Ficha de Informações de Segurança de Produtos
+Químicos - FISPQ
+De acordo com a NBR 14725-4:2014
+Data da emissão: 18.01.2017 Versão 1.0
+SEÇÃO 1. Identificação do produto e da empresa
+1.1 Identificador do produto
+No. de catálogo 533004
+Nome do produto Acetato de amônio para LC-MS LiChropur®
+Número de registro REACH Não há número de registro disponível para essa substância, uma vez
+que a substância ou a utilização da mesma são isentas de registro de
+acordo com o Artigo 2 da norma REACH (CE) No. 1907/2006, a
+tonelagem anual não exige registro ou o registro está previsto para um
+prazo posterior.
+Nº CAS 631-61-8
+1.2 Usos identificados da substância ou mistura e usos não recomendados
+Usos identificados Reagente para análise
+Para informações adicionais sobre os usos, por favor consulte o portal
+Merck Chemicals (www.merckgroup.com).
+1.3 Detalhes do fornecedor da Ficha de Informação de Segurança de Produto Químico - FISPQ
+Empresa Merck S/A * Brasil * Rua Torre Eifell, 100 - Parque Rincão - Gleba A
+Cotia - CEP: 06705-481 - São Paulo - SP * tel/fax: +55 11 3127-7389
+1.4 Número do telefone de Suatrans: : 0800 707 7022 / 0800 17 2020
+emergência
+SEÇÃO 2. Identificação de perigos
+2.1 Classificação da substância ou mistura
+Esta substância não é classificada como perigosa de acordo com a legislação da União Européia.
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com
+Página 1 de 13
+Ficha de Informações de Segurança de Produtos
+Químicos - FISPQ
+De acordo com a NBR 14725-4:2014
+No. de catálogo 533004
+Nome do produto Acetato de amônio para LC-MS LiChropur®
+2.2 Elementos do rótulo
+Rotulagem (de acordo com a ABNT 14725-2)
+Substância ou mistura não perigosa de acordo com o Regulamento Europeu 1272/2008 (EC).
+2.3 Outros perigos
+Não conhecidos.
+SEÇÃO 3. Composição e informações sobre os ingredientes
+3.1 Substância
+Fórmula CH₃COONH₄ C₂H₇NO₂ (Hill)
+N° CE 211-162-9
+Massa molar 77,08 g/mol
+Observações Não apresenta ingredientes perigosos conforme o Regulamento
+(EC) No. 1907/2006.
+3.2 Mistura
+Não aplicável
+SEÇÃO 4. Medidas de primeiros-socorros
+4.1 Descrição das medidas de primeiros-socorros
+Após inalação: Exposição ao ar fresco.
+No caso dum contacto com a pele: Retire imediatamente toda a roupa contaminada. Enxaguar a
+pele com água e tomar banho de chuveiro.
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com
+Página 2 de 13
+Ficha de Informações de Segurança de Produtos
+Químicos - FISPQ
+De acordo com a NBR 14725-4:2014
+No. de catálogo 533004
+Nome do produto Acetato de amônio para LC-MS LiChropur®
+Após contacto com os olhos: Enxaguar abundantemente com água. Remova as lentes de
+contato.
+Após ingestão: fazer a mitima beber água (dois copos no máximo). Consultar o médido se se
+sentir mal.
+4.2 Sintomas e efeitos mais importantes, agudos e retardados
+ansiedade, Náusea, Dor de cabeça, Convulsões, sintomas musculares, Tremores
+De uma maneira geral, os sais de amónio originam as seguintes complicações: Depois
+de engolir: fenómenos de irritação local, náuseas, vómitos, diarreia. Acção sistémica: após
+a ingestão de quantidades muito grandes: queda da pressão sanguínea, colapso
+circulatório, distúrbios do SNC, convulsões, entorpecimento, paragem respiratória, hemólise.
+4.3 Indicação da atenção médica imediata e do tratamento especial necessário
+Não existem informações disponíveis.
+SEÇÃO 5. Medidas de combate a incêndio
+5.1 Meios de extinção
+Meios adequados de extinção
+Água, Espuma, Dióxido de carbono (CO2), Pó seco
+Agentes de extinção inadequados
+Nenhuma limitação de agentes extintores é dada para essa substância/mist ura.
+5.2 Riscos especiais resultantes da substância ou da mistura
+Combustível.
+Em caso de incêndio formam-se gases inflamáveis e vapores perigosos.
+Um incêndio pode provocar o desenvolvimento de:
+óxido nítrico
+5.3 Precauções para bombeiros
+Equipamentos especiais para proteção das pessoas envolvidas no combate a incêndio.
+Usar equipamento de respiração autônomo em casos de incêndio.
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com
+Página 3 de 13
+Ficha de Informações de Segurança de Produtos
+Químicos - FISPQ
+De acordo com a NBR 14725-4:2014
+No. de catálogo 533004
+Nome do produto Acetato de amônio para LC-MS LiChropur®
+Informações complementares
+Suprimir (abater) com jatos de água os gases, vapores e névoas. Evitar a contaminação da
+água de superfície e da água subterrânea com a água de combate a incêndios.
+SEÇÃO 6. Medidas de controle para derramamento ou vazamento
+6.1 Precauções pessoais, equipamentos de proteção e procedimentos de emergência
+Recomendações para pessoal não envolvido com emergências: Evitar a inalação de pós.
+Evacuar a área de perigo, observar os procedimentos de emergência, consu ltar um
+especialista.
+Recomendações para atendentes de emergências:
+Equipamento protetor, vide seção 8.
+6.2 Precauções ambientais
+Não permitir a entrada do produto nos esgotos.
+6.3 Métodos e materiais de contenção e limpeza
+Cobrir ralos. Recolher, emendar e bombear vazamentos. Observar as possíveis restrições de
+material (vide seções 7 e 10). Absorver em estado seco. Proceder à eliminação de resíduos.
+Limpeza posterior. Evitar a formação de pós.
+6.4 Consulta a outras seções
+Indicações sobre tratamento de dejetos, vide seção 13
+SEÇÃO 7. Manuseio e armazenamento
+7.1 Precauções para manuseio seguro
+Recomendações para manuseio seguro
+Observar os avisos dos rótulos.
+Medidas de higiene
+Mudar a roupa contaminada. Depois de terminar o trabalho, lavar as mãos.
+7.2 Condições para armazenamento seguro, incluindo incompatibilidades
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com
+Página 4 de 13
+Ficha de Informações de Segurança de Produtos
+Químicos - FISPQ
+De acordo com a NBR 14725-4:2014
+No. de catálogo 533004
+Nome do produto Acetato de amônio para LC-MS LiChropur®
+Condições de armazenamento
+Herméticamente fechado. Em local seco.
+Temperatura recomendada de armazenamento, consulte na etiqueta de produto.
+7.3 Utilizações finais específicas
+Nenhum uso específico é previsto além dos mencionados na sessão 1.2.
+SEÇÃO 8. Controle de exposição e proteção individual
+8.1 Parâmetros de controle
+Não contém substâncias com valores limites de exposição ocupacional.
+8.2 Controles da exposição
+Medidas de controle de engenharia
+Medidas técnicas e operações de trabalho adequadas devem ter prioridade sobre o uso de
+equipamento de proteção pessoal.
+Vide seção 7.1.
+Medidas de proteção individual
+As características dos meios de protecção para o corpo devem ser seleccionadas em função da
+concentração e da quantidade das substâncias tóxicas de acordo com as condições específicas
+do local de trabalho. A resistência dos meios de protecção aos agentes químicos deve ser
+esclarecida junto dos fornecedores.
+Proteção para a pele/olhos
+Óculos de segurança
+Proteção das mãos
+contacto total:
+Substância da luva: Borracha nitrílica
+Espessura da luva: 0,11 mm
+Pausa: > 480 min
+contacto com salpicos:
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com
+Página 5 de 13
+Ficha de Informações de Segurança de Produtos
+Químicos - FISPQ
+De acordo com a NBR 14725-4:2014
+No. de catálogo 533004
+Nome do produto Acetato de amônio para LC-MS LiChropur®
+Substância da luva: Borracha nitrílica
+Espessura da luva: 0,11 mm
+Pausa: > 480 min
+As luvas de protecção a usar têm que obedecer às especificações da directiva EC 89/686/EEC
+e do padrão resultante EN374, por exemplo KCL 741 Dermatril® L (contacto total), KCL 741
+Dermatril® L (contacto com salpicos).
+As ruturas acima descritas foram determinadas pelo KCL em testes de laboratório seg. a EN374
+com amostras dos tipos de luvas recomendados.
+Esta recomendação aplica-se apenas ao produto descrito na ficha de dados de segurança por
+nós fornecida bem como para a aplicação especificada.Quando houver dissolução ou mistura
+com outras substâncias e sob as devidas condições houver desvios aos descritos na EN374 por
+favor contactar o fornecedor de luvas com marcação CE (ex: KCL GmbH, D-36124 Eichenzell,
+Internet: www.kcl.de).
+Proteção respiratória
+necessário em caso de formação de pós.
+Tipo de Filtro recomendado: Filtro P 1
+O empresário deve assegurar que a manutenção, limpeza e teste dos dispositivos de proteção
+respiratória sejam executados de acordo com as instruções do produtor. Estas medidas devem
+ser adequadamente documentadas.
+Controles de riscos ambientais
+Não permitir a entrada do produto nos esgotos.
+SEÇÃO 9. Propriedades físicas e químicas
+9.1 Informações sobre propriedades físico-químicas básicas
+Estado físico sólido
+Cor incolor
+Odor fraco a ácido acético
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com
+Página 6 de 13
+Ficha de Informações de Segurança de Produtos
+Químicos - FISPQ
+De acordo com a NBR 14725-4:2014
+No. de catálogo 533004
+Nome do produto Acetato de amônio para LC-MS LiChropur®
+Limite de Odor Não existem informações disponíveis.
+pH 6,7 - 7,3
+em 50 g/l
+25 °C
+Ponto de fusão 114 °C
+Ponto de ebulição inicial e faixa (decomposição)
+de temperatura de ebulição
+Ponto de fulgor Não existem informações disponíveis.
+Taxa de evaporação Não existem informações disponíveis.
+Inflamabilidade (sólido, gás) Não existem informações disponíveis.
+Limite inferior de explosividade Não existem informações disponíveis.
+Limite superior de explosividade Não existem informações disponíveis.
+pressão de vapor Não existem informações disponíveis.
+Densidade relativa do vapor Não existem informações disponíveis.
+Densidade 1,17 g/cm3
+em 20 °C
+Densidade relativa Não existem informações disponíveis.
+Solubilidade em água 1.480 g/l
+em 4 °C
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com
+Página 7 de 13
+Ficha de Informações de Segurança de Produtos
+Químicos - FISPQ
+De acordo com a NBR 14725-4:2014
+No. de catálogo 533004
+Nome do produto Acetato de amônio para LC-MS LiChropur®
+Coeficiente de partição (n- log Pow: -2,79
+octanol/água) (calculado)
+(Literatura) Não se prevê qualquer bio-acumulação.
+Temperatura de autoignição Não existem informações disponíveis.
+Temperatura de decomposição 90 °C
+Viscosidade, dinâmica Não existem informações disponíveis.
+Riscos de explosão Não classificado como explosivo.
+Propriedades oxidantes não
+9.2 Outras informações
+Densidade aparente ca.410 kg/m3
+SEÇÃO 10. Estabilidade e reatividade
+10.1 Reatividade
+Em geral o seguinte aplica-se a substâncias e misturas orgânicas inflamáveis: numa distribuição
+geralmente fina, quando voltado para cima pode gerar uma potencial explosão de pó.
+10.2 Estabilidade química
+O produto é quimicamente estável em condições ambientes padrão (temperat ura ambiente).
+10.3 Possibilidade de reações perigosas
+Perigo de explosão am presença de:
+hipoclorito de sódio, compostos de ouro
+Reacções violentas são possiveis com:
+Acidos fortes, soluções fortes de hidróxidos alcalinos, Agentes oxidantes fortes
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com
+Página 8 de 13
+Ficha de Informações de Segurança de Produtos
+Químicos - FISPQ
+De acordo com a NBR 14725-4:2014
+No. de catálogo 533004
+Nome do produto Acetato de amônio para LC-MS LiChropur®
+10.4 Condições a serem evitadas
+Aquecimento forte (decomposição).
+Exposição à umidade.
+10.5 Materiais incompatíveis
+não existem indicações
+10.6 Produtos de decomposição perigosa
+em caso de incêndio: vide o capítulo 5°.
+SEÇÃO 11. Informações toxicológicas
+11.1 Informações sobre efeitos toxicológicos
+Toxicidade aguda oral
+Esta informação não está disponível.
+Toxicidade aguda - Inalação
+Esta informação não está disponível.
+Toxicidade aguda - Dérmica
+Esta informação não está disponível.
+Irritação da pele
+Esta informação não está disponível.
+Irritação nos olhos
+Esta informação não está disponível.
+Sensibilização
+Esta informação não está disponível.
+Mutagenicidade em células germinativas
+Esta informação não está disponível.
+Carcinogenicidade
+Esta informação não está disponível.
+Toxicidade à reprodução
+Esta informação não está disponível.
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com
+Página 9 de 13
+Ficha de Informações de Segurança de Produtos
+Químicos - FISPQ
+De acordo com a NBR 14725-4:2014
+No. de catálogo 533004
+Nome do produto Acetato de amônio para LC-MS LiChropur®
+Teratogenicidade
+Esta informação não está disponível.
+Toxicidade sistêmica de órgão-alvo específico - exposição única
+Esta informação não está disponível.
+Toxicidade sistêmica de órgão-alvo específico - exposição repetida
+Esta informação não está disponível.
+Perigo por aspiração.
+Esta informação não está disponível.
+11.2 Informações complementares
+Depois da ingestão de grandes quantidades:
+sintomas musculares, ansiedade, Convulsões, Dor de cabeça, Tremores, Náusea, psicose
+De uma maneira geral, os sais de amónio originam as seguintes complicações: Depois
+de engolir: fenómenos de irritação local, náuseas, vómitos, diarreia. Acção sistémica: após
+a ingestão de quantidades muito grandes: queda da pressão sanguínea, colapso
+circulatório, distúrbios do SNC, convulsões, entorpecimento, paragem respiratória, hemólise.
+Não se podem excluir propriedades perigosas, no entanto, são pouco prováveis se a
+manipulação do produto é adequada.
+Manusear de acordo com as boas práticas industriais de higiene e segurança.
+SEÇÃO 12. Informações ecológicas
+12.1 Toxicidade
+Toxicidade para os peixes
+CL50 Gambusia affinis (peixe-mosquito): 238 mg/l; 96 h
+(Literatura)
+12.2 Persistência e degradabilidade
+Biodegradabilidade
+Rapidamente biodegradável.
+12.3 Potencial bioacumulativo
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com
+Página 10 de 13
+Ficha de Informações de Segurança de Produtos
+Químicos - FISPQ
+De acordo com a NBR 14725-4:2014
+No. de catálogo 533004
+Nome do produto Acetato de amônio para LC-MS LiChropur®
+Coeficiente de partição (n-octanol/água)
+log Pow: -2,79
+(calculado)
+(Literatura) Não se prevê qualquer bio-acumulação.
+12.4 Mobilidade no solo
+Não existem informações disponíveis.
+12.5 Resultados da avaliação PBT e vPvB
+Avaliação de PBT/vPvB não realizada uma vez que a avaliação de segurança química não é
+exigida/não foi realizada.
+12.6 Outros efeitos adversos
+Informações ecológicas adicionais
+A descarga no meio ambiente deve ser evitada.
+SEÇÃO 13. Considerações sobre tratamento e disposição
+Métodos de tratamento de resíduos
+Os dejetos devem ser descartados em conformidade com regulamentações nacionais e locais.
+Mantenha as substâncias químicas em seus recipientes originais. Não misturar com outros
+dejetos. O manuseio de recipientes sujos deve ser realizado da mesma forma que o do produto
+em si.
+As frases de perigo e de precaução apresentadas no rótulo também se aplicam a qualquer
+resíduo deixado na embalagem. A disposição não controlada ou reciclagem desta embalagem
+não é permitida e pode ser perigosa.
+Deve ser incinerado em instalação de incineração adequada pelas autoridades competentes.
+SEÇÃO 14. Informações sobre transporte
+Transporte terrestre (ADR/RID)
+14.1 - 14.6 Produto não perigoso segundo o regulamento de transporte.
+Transporte fluvial (ADN)
+Não relevante
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com
+Página 11 de 13
+Ficha de Informações de Segurança de Produtos
+Químicos - FISPQ
+De acordo com a NBR 14725-4:2014
+No. de catálogo 533004
+Nome do produto Acetato de amônio para LC-MS LiChropur®
+Transporte aéreo (IATA)
+14.1 - 14.6 Produto não perigoso segundo o regulamento de transporte.
+Transporte marítimo (IMDG)
+14.1 - 14.6 Produto não perigoso segundo o regulamento de transporte.
+14.7 Transporte em massa de acordo com o Anexo II de MARPOL 73/78 e do Código IBC
+Não relevante
+SEÇÃO 15. Regulamentações
+15.1 Normas de segurança, saúde e ambientais específicas para a substância ou mistura
+Legislação nacional
+Classe de armazenagem 10 - 13
+15.2 Avaliação de segurança química
+Não foi realizada uma avaliação de segurança química conforme a regulame ntação UE REACH
+Nº 1907/2006 para este produto.
+SEÇÃO 16. Outras informações
+Recomendação de treinamento
+Proporcione informações, instruções e treinamento adequados para os operadores.
+Legenda das abreviações e acrônimos
+As abreviaturas e acrônimos utilizados podem ser consultados em http://w ww.wikipedia.org.
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com
+Página 12 de 13
+Ficha de Informações de Segurança de Produtos
+Químicos - FISPQ
+De acordo com a NBR 14725-4:2014
+No. de catálogo 533004
+Nome do produto Acetato de amônio para LC-MS LiChropur®
+As indicações baseiam-se no nível actual dos nossos conhecimentos e servem para a caracterização do produto no
+que se refere às medidas de segurança a tomar. Estas indicações não implicam qualquer garantia de propriedades do
+produto descrito.
+As Fichas de dados de Segurança para items de catálogo estão igualmente disponíveis em www.merckgroup.com
+Página 13 de 13

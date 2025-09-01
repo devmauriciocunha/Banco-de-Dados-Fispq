@@ -1,0 +1,350 @@
+Data da última revisão
+18/03/2019 | Versão:
+3 | FISPQ Nº
+233 | Página
+1 de 8
+Ficha de informações de segurança de produtos químicos
+(FISPQ)
+Nome da substância ou mistura: ETILENO COMPRIMIDO
+Data da última revisão Versão: FISPQ Nº Página
+18/03/2019 3 233 1 de 8
+1. Identificação
+Nome da substância ou mistura (nome comercial): ETILENO COMPRIMIDO
+Principais usos recomendados para a substância ou mistura: Uso Industrial
+Código interno de identificação da substância ou mistura: 000
+Nome da Empresa: Messer Gases
+Endereço:Alameda Mamoré, 989 – 8º e 12º andar - Alphaville
+Complemento:CEP 06454-040 – Barueri/ SP
+Telefone para contato: 0800 7254633
+Telefone para emergências: 0800 7254633
+2. Identificação de perigos
+Classificação da substância ou mistura: Gases inflamáveis (incluindo os gases quimicamente instáveis):
+Categoria 1 - Gases sob pressão: Classificação Gás liquefeito - Toxicidade para órgãos-alvo específicos -
+Exposição única: Categoria 3
+Elementos de rotulagem do GHS
+Palavra de advertência: Perigo
+Frase(s) de perigo: H220 - Gás extremamente inflamável . H280 - Contém gás sob pressão: pode explodir
+sob ação do calor . H336 - Pode provocar sonolência ou vertigem.
+Frase(s) de precaução:
+• Geral:P103 - Leia o rótulo antes de utilizar o produto.
+• Prevenção: P210 - Mantenha afastado do calor/faísca/chama aberta/superfícies quentes. — Não
+fume., P271 - Utilize apenas ao ar livre ou em locais bem ventilados.
+• Resposta à emergência: P377 - Vazamento de gás com chamas: não apague, a menos que se
+possa conter o vazamento com segurança., P381 - Elimine todas as fontes de ignição se puder ser
+feito com segurança., P304 + P340 - EM CASO DE INALAÇÃO: Remova a pessoa para local
+ventilado e a mantenha em repouso numa posição que não dificulte a respiração., P312 - Caso
+sinta indisposição, contate um CENTRO DE INFORMAÇÃO TOXICOLÓGICA/médico...
+• Armazenamento: P410 + P403 - Mantenha ao abrigo da luz solar. Armazene em local bem
+ventilado.
+• Disposição:P501 - Descarte o conteúdo/recipiente em conformidade com esta FISPQ
+Outros perigos que não resultam em uma classificação: É um asfixiante simples e, em concentrações
+elevadas, provoca asfixia por redução da concentração de oxigênio do ambiente.
+Data da última revisão
+18/03/2019 | Versão:
+3 | FISPQ Nº
+233 | Página
+2 de 8
+Ficha de informações de segurança de produtos químicos
+(FISPQ)
+Nome da substância ou mistura: ETILENO COMPRIMIDO
+Data da última revisão Versão: FISPQ Nº Página
+18/03/2019 3 233 2 de 8
+Outras informações: Não disponível
+3. Composição e informações sobre os ingredientes
+Tipo de produto: Substância
+Nome químico comum ou nome técnico: ETILENO
+Sinônimo:ETENO
+N° CAS: 74-85-1
+Esta substância não contém impurezas que contribuam para o perigo.
+4. Medidas de primeiros socorros
+Medidas de primeiros socorros
+• Inalação: Remover a vítima para uma área não contaminada utilizando equipamento autônomo de
+respiração. Se a vítima estiver respirando com dificuldade, forneça oxigênio. Se necessário aplique
+respiração artificial. Consulte um médico. Leve esta FISPQ.
+• Contato com a pele: Lave a pele exposta com quantidade suficiente de água para remoção do
+material. Em caso de irritação cutânea: Consulte um médico. Leve esta FISPQ.
+• Contato com os olhos: Enxágue cuidadosamente com água durante vários minutos. No caso de uso
+de lentes de contato, remova-as, se for fácil. Continue enxaguando. Caso a irritação ocular persista:
+consulte um médico. Leve esta FISPQ.
+• Ingestão: É uma maneira improvável de exposição, mas o contato com o líquido pode resultar no
+congelamento dos lábios e da boca. Havendo o contato, imediatamente banhe o local com água
+corrente durante 15 minutos no mínimo. Não induza o vômito. Nunca forneça algo por via oral a uma
+pessoa inconsciente. Procure um médico, leve esta FISPQ.
+Sintomas e efeitos mais importantes, agudos ou tardios: É um asfixiante simples e, em concentrações
+elevadas, provoca asfixia por redução da concentração de oxigênio do ambiente. O contato com o produto
+pode causar queimadura pelo frio na pele e nos olhos. (Frostbite). Pode provocar sonolência ou vertigem com
+tontura e náuseas.
+Notas para o médico: 'Tratamento sintomático. Evite contato com o produto ao socorrer a vítima. Em caso de
+contato com a pele não friccione o local atingido.
+5. Medidas de combate a incêndio
+Meios de extinção apropriados: Compatível com espuma, neblina dágua, pó químico seco e Dióxido de
+Carbono (CO2).
+Meios de extinção inadequados: Jatos dágua de forma direta.
+Perigos específicos da substância ou mistura: Muito perigoso quando exposto a calor excessivo ou outras
+fontes de ignição como: faíscas, chamas abertas ou chamas de fósforos e cigarros, operações de solda,
+lâmpadas-piloto e motores elétricos. Os gases podem ser mais densos que o ar, podendo se acumular em
+Data da última revisão
+18/03/2019 | Versão:
+3 | FISPQ Nº
+233 | Página
+3 de 8
+Ficha de informações de segurança de produtos químicos
+(FISPQ)
+Nome da substância ou mistura: ETILENO COMPRIMIDO
+Data da última revisão Versão: FISPQ Nº Página
+18/03/2019 3 233 3 de 8
+áreas baixas ou confinadas, como bueiros e porões. Podem deslocar-se por grandes distâncias provocando
+retrocesso da chama ou novos focos de incêndio tanto em ambientes abertos como confinados. Os
+contêineres podem explodir se aquecidos.
+Medidas de proteção da equipe de combate a incêndio: Se a carga estiver envolvida pelo fogo, isolar e
+evacuar a área em um raio mínimo de 800 metros. Utilizar equipamento de proteção respiratória do tipo
+autônomo (SCBA) com pressão positiva e vestuário protetor completo. Contêineres e tanques envolvidos no
+incêndio devem ser resfriados com neblina d’água
+6. Medidas de controle para derramamento ou vazamento
+Precauções pessoais, equipamentos de proteção e procedimentos de emergência
+• Para o pessoal que não faz parte dos serviços de emergência: Imediatamente retire-se da área de
+risco. Não tocar no produto. Não fume. Evite exposição ao produto. Permaneça afastado de áreas
+baixas, tendo o vento pelas costas. U
+• Para o pessoal do serviço de emergência: Utilize EPI completo com óculos de proteção, luvas de
+segurança de raspa de couro, vestuário protetor adequado e sapatos fechados com biqueira de aço.
+Equipamento de proteção respiratória do tipo autônomo (SCBA) com pressão positiva. Evacue a área,
+num raio de, no mínimo, 100 metros. Mantenha as pessoas não autorizadas afastadas da área.
+Precauções ao meio ambiente: Evite que o gás disperso atinja cursos d’água e rede de esgotos.
+Métodos e materiais para o estancamento e a contenção: Libere o conteúdo vagarosamente para a
+atmosfera. Permaneça a favor do vento. Não jogue água diretamente no ponto de vazamento.
+Isolamento da área: Isolar a área de derramamento ou vazamento em um raio de 100 metros, no mínimo, em
+todas as direções. ões. Considere a necessidade de evacuação da área isolada.
+Métodos e materiais para a limpeza: Libere o conteúdo vagarosamente para a atmosfera. Permaneça a favor
+do vento. Não jogue água diretamente no ponto de vazamento.
+7. Manuseio e armazenamento
+Precauções para manuseio seguro
+• Prevenção da exposição do trabalhador: Promova ventilação mecânica e sistema de exaustão direta
+para o exterior. Esta medida visa manter a concentração do produto abaixo dos limites de exposição
+ocupacional indicados.
+• Prevenção de incêndio e explosão: Mantenha afastado do calor, faísca, chama aberta e superfícies
+quentes. Não fume. Mantenha o recipiente hermeticamente fechado. Aterre o vaso contentor e o
+receptor do produto durante a transferência. Utilize apenas ferramentas anti-faiscante. Evite o acúmulo
+de cargas eletrostáticas. Utilize equipamento elétrico, de ventilação e de iluminação à prova de
+explosão.
+• Precauções e orientações para o manuseio seguro: NÃO REALIZAR OPERAÇÕES DE IÇAMENTO
+POR MEIO DO CAPACETE FIXO OU REMOVÍVEL. Manuseie em uma área ventilada ou com sistema
+geral de ventilação/exaustão local. Evite exposição ao produto. É recomendado o monitoramento
+constante da concentração de oxigênio. Quando o capacete de proteção da válvula for fixo, não tentar
+Data da última revisão
+18/03/2019 | Versão:
+3 | FISPQ Nº
+233 | Página
+4 de 8
+Ficha de informações de segurança de produtos químicos
+(FISPQ)
+Nome da substância ou mistura: ETILENO COMPRIMIDO
+Data da última revisão Versão: FISPQ Nº Página
+18/03/2019 3 233 4 de 8
+retirá-lo ao conectar o cilindro ao equipamento de operação. Não arrastar ou rolar os cilindros pelo chão,
+utilizar sempre um carrinho apropriado. Não submeter os cilindros a pancadas mecânicas
+• Medidas de higiene
+• Apropriadas: Lave as mãos e o rosto cuidadosamente após o manuseio e antes de comer,
+beber, fumar ou ir ao banheiro.
+• Inapropriadas:Comer, beber ou fumar durante a utilização deste produto.
+Condições de armazenamento seguro
+• Condições adequadas: Armazene em local bem ventilado, longe da luz solar e em temperatura.
+Mantenha os cilindros na posição vertical, fixados à parede ou em outra estrutura sólida. Mantenha o
+recipiente fechado e adequadamente identificado. Não é necessária a adição de estabilizantes e
+antioxidantes para garantir a durabilidade do produto.
+• Condições que devem ser evitadas, incluindo qualquer incompatibilidade: Armazenamento do
+produto em local quente e fechado ou sujeito à corrosão, sem ventilação; armazenamento dos cilindros
+na horizontal; cilindros não identificados; armazenamento junto à material combustível.
+• Materiais para embalagem
+• Recomendados:Semelhante à embalagem original.
+• Inadequados:Não disponível.
+Outras informações: Não disponíveis.
+8. Controle de exposição e proteção individual
+Parâmetros de controle
+• Limites de exposição ocupacional: Etileno: TLV - TWA (ACGIH, 2014): 200 ppm / LT - NR15:
+Asfixiante Simples
+• Indicadores biológicos: Não estabelecidos
+• Outros limites e valores: Não disponível
+Medidas de controle de engenharia: Sistema de exaustão local ou ventilação local adequada para evitar
+asfixia em locais de estocagem ou manuseio de cilindros por ausência de oxigênio.
+Medidas de proteção pessoal
+• Proteção dos olhos/face: Usar óculos com lente incolor com proteção lateral ou ampla visão para o
+manuseio de cilindro.
+• Proteção da pele: Roupa completa resistente/retardante a chamas. Mantenha uma roupa de proteção
+química disponível para uso em caso de emergências.
+• Proteção respiratória: Uma avaliação de risco deve ser realizada para adequada definição da proteção
+respiratória tendo em vista as condições de uso do produto.
+• Proteção das mãos: Utilizar luvas de couro (vaqueta ou raspa) para o manuseio de cilindros. Havendo
+desgaste da luva, esta deve ser trocada imediatamente
+Data da última revisão
+18/03/2019 | Versão:
+3 | FISPQ Nº
+233 | Página
+5 de 8
+Ficha de informações de segurança de produtos químicos
+(FISPQ)
+Nome da substância ou mistura: ETILENO COMPRIMIDO
+Data da última revisão Versão: FISPQ Nº Página
+18/03/2019 3 233 5 de 8
+• Perigos térmicos: O contato com o produto pode causar queimadura pelo frio na pele e nos olhos
+(frostbite).
+Outras informações: Não disponíveis.
+9. Propriedades físicas e químicas
+• Aspecto
+Estado físico: Gás; Forma: Gás Comprimido; Cor: Incolor
+• Odor:Adocicado
+• Limite de odor: Inodoro
+• pH:Não Disponível
+• Ponto de fusão / ponto de congelamento: -169 °C
+• Ponto de ebulição inicial: -103 °C
+• Faixa de temperatura de ebulição: Não Disponível
+• Ponto de Fulgor: Não Disponível
+• Taxa de evaporação: Não Disponível
+• Inflamabilidade (sólido; gás): Gás Inflamável
+• Limite de inflamabilidade ou explosividade inferior: 2,3 %
+• Limite de inflamabilidade ou explosividade superior: 34,0 %
+• Pressão de vapor: Não disponível
+• Densidade de vapor: 1 (Ar=1)
+• Densidade relativa: 0,57
+• Solubilidade(s):Parcialmente solúvem em água: 131 mg/L
+• Coeficiente de partição - n-octanol/água: Não Disponível
+• Temperatura de autoignição: 425 º C
+• Temperatura de decomposição: Não disponível
+• Viscosidade:Não disponível
+• Outras informações: Não disponível
+10. Estabilidade e reatividade
+Estabilidade química: Produto estável em condições normais de temperatura e pressão.
+Reatividade:Reage violentamente com agentes oxidantes
+Possibilidade de reações perigosas: Pode formar misturas explosivas com o ar. Pode reagir violentamente
+com oxidantes.
+Condições a serem evitadas: Temperaturas elevadas. Fontes de ignição.
+Materiais incompatíveis: Agentes oxidantes.
+Produtos perigosos da decomposição: Monóxido e Dióxido de Carbono.
+Data da última revisão
+18/03/2019 | Versão:
+3 | FISPQ Nº
+233 | Página
+6 de 8
+Ficha de informações de segurança de produtos químicos
+(FISPQ)
+Nome da substância ou mistura: ETILENO COMPRIMIDO
+Data da última revisão Versão: FISPQ Nº Página
+18/03/2019 3 233 6 de 8
+11. Informações toxicológicas
+Toxicidade aguda: É um asfixiante simples e, em concentrações elevadas, provoca asfixia por redução da
+concentração de oxigênio do ambiente.
+Corrosão/irritação da pele: O contato com o produto pode causar queimadura pelo frio na pele (frostbite).
+Lesões oculares graves/irritação ocular: O contato com o produto pode causar queimadura pelo frio nos
+olhos (frostbite).
+Sensibilização respiratória ou à pele: Não é esperado que o produto provoque sensibilização respiratória ou
+à pele.
+Mutagenicidade em células germinativas: Não é esperado que o produto apresente mutagenicidade em
+células germinativas.
+Carcinogenicidade:Não é esperado que o produto apresente carcinogenicidade.
+Toxicidade à reprodução: Não é esperado que o produto apresente toxicidade à reprodução.
+Toxicidade para órgãos-alvo específicos - exposição única: Pode provocar sonolência ou vertigem com
+tontura e náuseas.
+Toxicidade para órgãos-alvo específicos - exposição repetida: Não é esperado que o produto apresente
+toxicidade ao órgão-alvo específico por exposição repetida.
+Perigo por aspiração: Não é esperado que o produto apresente perigo por aspiração.
+Outras informações: Não disponível.
+12. Informações ecológicas
+Ecotoxicidade:Não é esperado que o produto apresente ecotoxicidade.
+Persistência e degradabilidade: Em função da ausência de dados, espera-se que o produto apresente
+persistência e não seja rapidamente degradado.
+Potencial bioacumulativo: Não é esperado potencial bioacumulativo em organismos aquáticos.
+Mobilidade no solo: Não determinada
+Outros efeitos adversos: Não são conhecidos outros efeitos ambientais para este produto.
+13. Considerações sobre destinação final
+Métodos recomendados para destinação final
+• Produto:Mantenha os restos do produto em suas embalagens originais e devidamente fechadas. Para
+descarte, retornar ao fabricante os restos de produto e sua embalagem original.
+• Embalagem usada: Não reutilize embalagens vazias. Estas podem conter restos do produto e devem
+ser mantidas fechadas. Após o uso, retornar as embalagens vazias ao fabricante.
+14. Informações sobre transporte
+Data da última revisão
+18/03/2019 | Versão:
+3 | FISPQ Nº
+233 | Página
+7 de 8
+Ficha de informações de segurança de produtos químicos
+(FISPQ)
+Nome da substância ou mistura: ETILENO COMPRIMIDO
+Data da última revisão Versão: FISPQ Nº Página
+18/03/2019 3 233 7 de 8
+Regulamentações nacionais e internacionais:
+Terrestres:
+• ONU:1962
+• Nome apropriado para embarque: ETILENO
+• Classe / Subclasse: 2.1 - Gases inflamáveis
+• Número de Risco: 23
+• Grupo de Embalagem: NA
+• Nome Técnico: ETENO
+• Perigoso para o meio ambiente: Não
+• Regulamentação terrestre: Resolução n° 5232 e suas alterações (Agência Nacional de
+Transportes Terrestres)
+Hidroviário:
+• IMDG/GGVSea/ONU:1962
+• Classe / Subclasse: 2.1 Gases inflamáveis
+• Grupo de Embalagem: NA
+• EmS:F-D, S-U
+• Nome Técnico: ETHYLENE, COMPRESSED
+• Poluente marinho: Não
+• Regulamentação hidroviária: DPC – Diretoria de Portos e Costas (Transporte em águas
+brasileiras) - Normas de Autoridade Marítima (NORMAM) - NORMAM 01/DPC: Embarcações
+Empregadas na Navegação em Mar Aberto - NORMAM 02/DPC: Embarcações Empregadas na
+Navegação Interior IMO – “International Maritime Organization” (Organização Marítima
+Internacional) - International Maritime Dangerous Goods Code (IMDG Code)
+Aéreo:
+• ICAO/IATA/ONU:1962
+• Classe / Subclasse: 2.1 Gases inflamáveis
+• Grupo de Embalagem: NA
+• Nome Técnico: ETHYLENE, COMPRESSED
+• Perigoso para o meio ambiente: Não
+• Regulamentação aérea: ANAC – Agência Nacional de Aviação Civil – Resolução n°129 de 8 de
+dezembro de 2009. RBAC N°175 – (REGULAMENTO BRASILEIRO DA AVIAÇÃO CIVIL) –
+TRANSPORTE DE ARTIGOS PERIGOSOS EM AERONAVES CIVIS. IS N° 175-001 –
+INSTRUÇÃO SUPLEMENTAR – IS - ICAO – “International Civil Aviation Organization”
+(Organização da Aviação Civil Internacional) – Doc 9284-NA/905. IATA – “International Air
+Transport Association” (Associação Internacional de Transporte Aéreo) -Dangerous Goods
+Regulation (DGR).
+15. Informações sobre regulamentações
+Data da última revisão
+18/03/2019 | Versão:
+3 | FISPQ Nº
+233 | Página
+8 de 8
+Ficha de informações de segurança de produtos químicos
+(FISPQ)
+Nome da substância ou mistura: ETILENO COMPRIMIDO
+Data da última revisão Versão: FISPQ Nº Página
+18/03/2019 3 233 8 de 8
+Regulamentações específicas de segurança, saúde e meio ambiente para o produto químico:
+Resolução n° 5232 e suas alterações (Agência Nacional de Transportes Terrestres)
+Decreto Federal no. 2.657 (Ministério do Trabalho e Emprego)
+Norma Regulamentadora 26 - Decreto 229 (Ministério do Trabalho e Emprego)
+ABNT NBR 14725 Partes 1, 2, 3 e 4.
+Norma Regulamentadora 15 (Ministério do Trabalho e Emprego)
+16. Outras informações
+Informações importantes, mas não especificamente descritas às seções anteriores:
+Esta FISPQ foi elaborada baseada nos conhecimentos atuais do produto químico e fornece informações
+quanto à proteção, à segurança, à saúde e ao meio ambiente.
+Adverte-se que o manuseio de qualquer substância química requer o conhecimento prévio de seus perigos
+pelo usuário. Cabe à empresa usuária do produto promover o treinamento de seus empregados e contratados
+quanto aos possíveis riscos advindos do manuseio do produto.
+Referências:[Purple Book] – ONU – Organização das Nações Unidas
+[ECHA] European Chemical Agency. Regulamentos 1907/2006 e 1272/2008. Disponível em:
+http://echa.europa.eu/
+[HSNO] NOVA ZELÂNDIA. HSNO Chemical Classification and Information Database (CCID). Disponível em:
+http://www.epa.govt.nz/search-databases/Pages/nzioc-search.aspx
+[IFA] ALEMANHA. GESTIS Substance Database. Disponível em: http://gestis-
+en.itrust.de/nxt/gateway.dll/gestis_en/000000.xml?f=templates$fn=default.htm$3.0
+[NITE – National Institute of Technology and Evaluation] JAPÃO. Chemical Management. Disponível em:
+http://www.safe.nite.go.jp/english/ghs/ghs_index.html
+[NIOSH – The National Institute for Ocuupational Safety and Health] ESTADOS UNIDOS. Centers for Disease
+Control and Prevention. Disponível em: http://www.cdc.gov/niosh/topics/default.html
+[ACGIH] – American Conference of Governamental Industrial. Disponível em: https://www.acgih.org/
+ISO 11014
+Legendas e abreviaturas: ACGIH - American Conference of Governamental Industrial, BCF -Bioconcentration
+factor ou Fator de bioconcentração, CAS - Chemical Abstracts Service, CE50 ou EC50 - Concentração efetiva
+50%, CL50 ou LC50 - Concentração letal 50%, DL50 ou LD50 - Dose letal 50%, DNEL - Derived No-Effect
+Level, PNEC - Predicted No-Effect Concentration

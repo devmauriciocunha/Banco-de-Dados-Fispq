@@ -1,0 +1,432 @@
+| 1 | | | - | | | IDENTIFICAÇÃO DO PRODUTO E DA EMPRESA | 
+ | 2 | | | - | | | IDENTIFICAÇÃO DE PERIGOS | 
+Ficha de Informação de Segurança
+de Produto Químico - FISPQ
+PRODUTO: CAP 30 / 45 Página 1 de 10
+Data: 01/09/2014 Nº FISPQ: BR0472 Versão: 4 Anula e substitui versão: todas anteriores
+1 - IDENTIFICAÇÃO DO PRODUTO E DA EMPRESA
+Nome do produto CIMENTO ASFÀLTICO DE PETRÓLEO - CAP 30/45
+Código interno de identificação BR0472
+Nome da empresa PETROBRAS DISTRIBUIDORA S.A.
+Endereço Rua Correia Vasques, 250
+20211-140 Cidade Nova - Rio de Janeiro (RJ).
+Telefone 0800 78 9001
+Telefone para emergências 08000 24 44 33
+2 - IDENTIFICAÇÃO DE PERIGOS
+Classificação de perigo do produto Corrosivo/irritante à pele – Categoria 2
+Prejuízo sério aos olhos/irritação aos olhos – Categoria 2A
+Toxicidade sistêmica ao órgão-alvo após única exposição –
+Categoria 3
+Toxicidade sistêmica em órgão alvo após exposição repetida –
+Categoria 2
+Sistema de classificação adotado
+Norma ABNT-NBR 14725-Parte 2:2009 – versão corrigida 2.2010 .
+Adoção do Sistema Globalmente Harmonizado para a Classificação
+e Rotulagem de Produtos Químicos, ONU.
+Visão geral das emergências
+SEMI-SÓLIDO PERIGOSO PARA A SAÚDE HUMANA
+ELEMENTOS APROPRIADOS DA ROTULAGEM
+Pictogramas
+Palavra de advertência
+PERIGO
+Frase de advertência
+Causa irritação à pele.
+Causa irritação ocular séria.
+Pode causar irritação respiratória (irritação da área respiratória).
+Pode causar sonolência e vertigem.
+Pode causar dano aos órgãos do trato respiratório e à pele através da
+exposição repetida ou prolongada.
+ | 3 | | | - | | | COMPOSIÇÃO E INFORMAÇÃO SOBRE OS INGREDIENTES | 
+Ingredientes | Concentração (%) | CAS
+Compostos
+Sulfurados | * | NA
+Compostos
+nitrogenados | ** | NA
+Compostos
+oxigenados | *** | NA
+Metais ( V, Ni , Fe) | Até 0,2 (p/p) | NA
+Ficha de Informação de Segurança
+de Produto Químico - FISPQ
+PRODUTO: CAP 30 / 45 Página 2 de 10
+Data: 01/09/2014 Nº FISPQ: BR0472 Versão: 4 Anula e substitui versão: todas anteriores
+Frase de precaução
+Não inale as poeiras e fumos.
+Em caso de irritação cutânea: consulte um médico.
+EM CASO DE CONTATO COM OS OLHOS: enxague
+cuidadosamente com água durante vários minutos. No caso de uso
+de lente de contato, remova-as, se for fácil. Continue enxaguando.
+Caso a irritação persista consulte um médico.
+EM CASO DE INALAÇÃO: Remova a pessoa para local ventilado e a
+mantenha em repouso numa posição que não dificulte a respiração.
+Caso sinta indisposição, contate um CENTRO DE INFORMAÇÃO
+TOXICOLÓGICA/Médico.
+3 - COMPOSIÇÃO E INFORMAÇÃO SOBRE OS INGREDIENTES
+>>>SUBSTÂNCIA DE PETRÓLEO
+Nome químico comum:
+Asfalto.
+Grupo de substância de petróleo:
+Betume (asfalto) e resíduos de destilação a vácuo
+Esta categoria é composta por um grupo de resíduos pesados
+provenientes de destilação sob altas temperaturas e a vácuo do
+petróleo; todos os resíduos possuem elevadas porcentagens de
+carbono e hidrogênio e cadeia carbônica com mais de 25 átomos e
+ponto de ebulição maior do que 450 oC.
+Número de registro CAS: 8052-42-4
+Ingredientes que contribuam para o Ingredientes Concentração (%) CAS
+perigo:
+Compostos * NA
+Sulfurados
+Compostos ** NA
+nitrogenados
+Compostos *** NA
+oxigenados
+Metais ( V, Ni , Fe) Até 0,2 (p/p) NA
+* Concentração de enxofre total: Max 5,0 % (ASTM D4629)
+** Concentração de nitrogênio total: Max. 1,0% (ASTM
+D4629)
+ | 4 | | | - | | | MEDIDAS DE PRIMEIROS SOCORROS | 
+ | 5 | | | - | | | MEDIDAS DE COMBATE A INCÊNDIO | 
+Ficha de Informação de Segurança
+de Produto Químico - FISPQ
+PRODUTO: CAP 30 / 45 Página 3 de 10
+Data: 01/09/2014 Nº FISPQ: BR0472 Versão: 4 Anula e substitui versão: todas anteriores
+*** Concentração de oxigênio total: Máx. 1,0%
+NA: Não aplicável
+4 - MEDIDAS DE PRIMEIROS SOCORROS
+Inalação:
+Remova a vítima para local arejado e mantenha-a em repouso.
+Monitore a função respiratória. Se a vítima estiver respirando com
+dificuldade, forneça oxigênio. Se necessário aplique respiração
+artificial. Procure atenção médica. Leve esta FISPQ.
+Contato com a pele:
+Remova as roupas e sapatos contaminados. Lave a pele exposta
+com grande quantidade de água, por pelo menos 15 minutos.
+Procure atenção médica. Leve esta FISPQ.
+Contato com os olhos:
+Lave com água corrente por pelo menos 15 minutos, mantendo as
+pálpebras abertas. Retire lentes de contato quando for o caso.
+Procure atenção médica imediatamente. Leve esta FISPQ.
+Ingestão:
+Lave a boca da vítima com água em abundância. NÃO INDUZA O
+VÔMITO. Procure atenção médica. Leve esta FISPQ.
+Sintomas e efeitos mais importantes,
+Provoca irritação à pele com vermelhidão. Ressecamento e prurido.
+agudos ou tardios:
+Provoca irritação e inflamação nos olhos com vermelhidão,
+lacrimejamento. A exposição ao fumo pode provocar tontura,
+sonolência, dor de cabeça, náuseas, e irritação ao trato respiratório
+com tosse, dor de garganta e dificuldade respiratória. Os fumos
+provenientes do aquecimento podem provocar dermatite, lesões
+parecidas com acne, e queratose, e irritação aos pulmões com
+bronquite, tosse e falta de ar, por exposição repetida ou prolongada.
+Proteção do prestador de socorros
+Evite contato com o produto ao socorrer a vítima. Mantenha a vítima
+e/ou notas para o médico:
+em repouso e aquecida. Não forneça nada pela boca a uma pessoa
+inconsciente. O tratamento sintomático deve compreender,
+sobretudo, medidas de suporte como correção de distúrbios
+hidroeletrolíticos, metabólicos, além de assistência respiratória.
+5 - MEDIDAS DE COMBATE A INCÊNDIO
+Meios de extinção apropriados: Pó químico, névoa d’água, dióxido de carbono ou espuma normal.
+Meio de extinção não recomendados:
+Jatos d’água diretamente.
+Perigos específicos:
+Este produto contém gás sulfídrico, extremamente inflamável.
+ | 6 | | | - | | | MEDIDAS DE CONTROLE PARA DERRAMAMENTO OU VAZAMENTO | 
+ | 7 | | | - | | | MANUSEIO E ARMAZENAMENTO | 
+Ficha de Informação de Segurança
+de Produto Químico - FISPQ
+PRODUTO: CAP 30 / 45 Página 4 de 10
+Data: 01/09/2014 Nº FISPQ: BR0472 Versão: 4 Anula e substitui versão: todas anteriores
+Métodos especiais de combate:
+Contêineres e tanques envolvidos no incêndio devem ser resfriados
+com jatos d’água.
+Perigos Específicos: Quando aquecido pode liberar sulfeto e hdrogênio
+Proteção de bombeiro/brigadista: Equipamento de proteção respiratória do tipo autônomo (SCBA) com
+pressão positiva e vestuário protetor completo.
+6 - MEDIDAS DE CONTROLE PARA DERRAMAMENTO OU VAZAMENTO
+Precauções pessoais
+Remoção de fontes de ignição: Produto não inflamável.
+Prevenção da inalação e do contato
+Não toque nos recipientes danificados ou no material derramado
+com a pele, mucosas e olhos:
+sem o uso de vestimentas adequadas. Evite inalação, contato com
+os olhos e com a pele. Utilize equipamento de proteção individual
+conforme descrito na seção 8.
+Precauções ao meio ambiente:
+Evite que o produto derramado atinja cursos d’água e rede de
+esgotos.
+Métodos para limpeza
+Procedimentos a serem adotados:
+Colete o produto derramado e coloque em recipientes próprios.
+Adsorva o produto remanescente, com areia seca, terra, vermiculite,
+ou qualquer outro material inerte. Coloque o material adsorvido em
+recipientes apropriados e remova-os para local seguro.
+Prevenção de perigos secundários:
+Não descarte diretamente no meio ambiente ou na rede de esgoto. A
+água de diluição proveniente do combate ao fogo pode causar
+poluição.
+7 - MANUSEIO E ARMAZENAMENTO
+Medidas técnicas apropriadas - MANUSEIO
+Prevenção da exposição do
+Evite inalação e o contato com a pele, olhos e roupas. Evite respirar
+trabalhador:
+vapores/névoas do produto. Utilize equipamento de proteção
+individual ao manusear o produto, descritos na seção 8.
+Precauções e orientações para
+Manuseie o produto somente em locais bem arejados ou com
+manuseio seguro:
+sistemas de ventilação geral/local adequado. Evite formação de
+vapores ou névoas.
+Medidas de higiene:
+Não coma, beba ou fume durante o manuseio do produto. Lave bem
+as mãos antes de comer, beber, fumar ou ir ao banheiro. Roupas
+contaminadas devem ser trocadas e lavadas antes de sua
+reutilização.
+ | 8 | | | - | | | CONTROLE DE EXPOSIÇÃO E PROTEÇÃO INDIVIDUAL | 
+Componente | TLV – TWA
+(ACGIH, 2010) | REL - CREL - C
+(NIOSH)
+ | (mg/m3) | (mg/m3)
+Asfalto | 0,5 | 
+ | 9 | | | - | | | PROPRIEDADES FÍSICO-QUÍMICAS | 
+Ficha de Informação de Segurança
+de Produto Químico - FISPQ
+PRODUTO: CAP 30 / 45 Página 5 de 10
+Data: 01/09/2014 Nº FISPQ: BR0472 Versão: 4 Anula e substitui versão: todas anteriores
+Medidas técnicas apropriadas – ARMAZENAMENTO
+Apropriadas:
+Mantenha o produto em local seco, bem ventilado e os recipientes
+bem fechados e devidamente identificados. O local de
+armazenamento deve ter piso impermeável, isento de materiais
+oxidantes e com dique de contenção para reter o produto em caso
+de vazamento.
+Inapropriadas:
+Contato com materiais incompatíveis.
+Materiais seguros para embalagens
+Recomendados:
+Não disponível.
+8 - CONTROLE DE EXPOSIÇÃO E PROTEÇÃO INDIVIDUAL
+Parâmetros de controle específicos
+Limite de exposição ocupacional:
+TLV – TWA REL - CREL - C
+Componente (ACGIH, 2010) (NIOSH)
+(mg/m3) (mg/m3)
+Asfalto 0,5
+Medida de controle de engenharia: Promova ventilação combinada com exaustão local, especialmente
+quando ocorrer formação de vapores/névoas do produto. É
+recomendado tornar disponíveis chuveiros de emergência e lava
+olhos na área de trabalho.
+Equipamento de proteção individual apropriado
+Proteção respiratória:
+Recomenda-se a utilização de respirador com filtro para vapores
+orgânicos para exposições médias acima da metade do TLV-TWA.
+Nos casos em que a exposição exceda 3 vezes o valor TLV-TWA,
+utilize respirador do tipo autônomo (SCBA) com suprimento de ar, de
+peça facial inteira, operado em modo de pressão positiva. Siga
+orientação do Programa de Prevenção Respiratória (PPR), 3ª ed.
+São Paulo: Fundacentro, 2002
+Proteção das mãos:
+Luvas de proteção de PVC.
+Proteção dos olhos:
+Óculos de proteção ou protetor facial contra respingos.
+Proteção da pele e corpo:
+Vestimenta protetora adequada.
+Precauções especiais:
+Evite usar lentes de contato enquanto manuseia este produto.
+9 - PROPRIEDADES FÍSICO-QUÍMICAS
+ | 10 | | | - | | | ESTABILIDADE E REATIVIDADE | 
+Ficha de Informação de Segurança
+de Produto Químico - FISPQ
+PRODUTO: CAP 30 / 45 Página 6 de 10
+Data: 01/09/2014 Nº FISPQ: BR0472 Versão: 4 Anula e substitui versão: todas anteriores
+Aspecto: Semi- sólido ( temperatura ambiente) e marrom escuro
+Odor: Característico
+Ph: Não disponível.
+Ponto de fusão/ponto de 54 - 173ºC
+congelamento:
+Ponto de ebulição inicial e faixa de > 300 °C.
+temperatura de ebulição:
+Ponto de fulgor: >235 °C,(Método: vaso fechado)
+Taxa de evaporação: Não disponível.
+Inflamabilidade: Não disponível.
+Limite inferior/superior de Não disponível.
+inflamabilidade ou explosividade:
+Pressão de vapor: Não disponível
+Densidade de vapor: Não disponível.
+Densidade: 1,0 – 1,18 (água a 4° C = 1)
+Solubilidade: Solúvel em clorofórmio, éter, acetona, e óleo turpentina. Insolúvel em
+água.
+Coeficiente de partição – n- Não disponível.
+octanol/água:
+Temperatura de auto-ignição: 400°C
+Temperatura de decomposição: Não disponível.
+Viscosidade: Não disponível
+Faixa de destilação: Não disponível.
+Ponto de combustão: Não disponível.
+Parte volátil: Nenhuma.
+10 - ESTABILIDADE E REATIVIDADE
+Estabilidade química:
+Estável sob condições usuais de manuseio e armazenamento. Não
+sofre polimerização.
+ | 11 | | | - | | | INFORMAÇÕES TOXICOLÓGICAS | 
+ | 12 | | | - | | | INFORMAÇÕES ECOLÓGICAS | 
+ | 13 | | | - | | | CONSIDERAÇÕES SOBRE TRATAMENTO E DISPOSIÇÃO | 
+Ficha de Informação de Segurança
+de Produto Químico - FISPQ
+PRODUTO: CAP 30 / 45 Página 7 de 10
+Data: 01/09/2014 Nº FISPQ: BR0472 Versão: 4 Anula e substitui versão: todas anteriores
+Materiais/substâncias incompatíveis:
+Agentes oxidantes fortes como peróxidos, cloratos e ácido crômico.
+Reações Perigosas: Nafta, oxigênio liquido e solventes voláteis podem formar misturas
+inflamáveis ou explosivas.
+Produtos perigosos da decomposição: Quando aquecido libera fumos irritantes e acres. Quando aquecido
+pode liberar sulfeto de hidrogênio.
+11 - INFORMAÇÕES TOXICOLÓGICAS
+Toxicidade aguda: Causa irritação à pele com vermelhidão, ressecamento, coceira e, o
+contato da pele com o produto aquecido pode levar à queimaduras
+severas. Causa irritação e inflamação nos olhos com vermelhidão,
+acrimejamento e prurido. A exposição aos fumos causa narcose com
+tontura, sonolência, dor de cabeça, náusea e, irrita o trato
+respiratório com tosse, dor de garganta e dificuldade respiratória.
+Este produto contém gás sulfídrico, extremamente tóxico.
+DL50(oral, ratos) > 5000 mg/kg.
+DL50 (pele, ratos) > 2000 mg/kg.
+Toxicidade crônica: Os fumos provenientes do aquecimento podem causar dermatite,
+lesões parecidas com acne, queratoses e danos aos pulmões após
+contato repetido ou prolongado.
+Efeitos específicos: Carcinogenicidade: Não classificado como carcinogênico para
+humanos (Grupo A4 – ACGIH).
+12 - INFORMAÇÕES ECOLÓGICAS
+Efeitos ambientais, comportamentos e impactos do produto
+Ecotoxicidade:
+Em caso de grandes derramamentos devido á complexidade do
+produto, este poderá apresentar comportamentos distintos tais como
+adsorção ao sedimento e formação de película na superfície,
+podendo resultar em impacto ao meio ambiente.
+Persistência e degradabilidade:
+É esperada baixa degradação e alta persistência.
+Potencial bioacumulativo;
+Não é esperado potencial de bioacumulação em organismos
+aquáticos.
+Mobilidade: Os componentes do produto apresentam baixa mobilidade no solo.
+13 - CONSIDERAÇÕES SOBRE TRATAMENTO E DISPOSIÇÃO
+Métodos recomendados para tratamento e disposição aplicados ao
+Produto:
+Devem ser eliminados como resíduos de acordo com a Legislação
+local. O tratamento e a disposição devem ser avaliados
+especificamente para cada produto. Devem ser consultadas
+legislações federais, estaduais e municipais, dentre estas: Resolução
+CONAMA 005/1993, ABNT-NBR 10.004/2004 e ABNT-NBR 16725.
+ | 14 | | | - | | | INFORMAÇÕES SOBRE TRANSPORTE | 
+Ficha de Informação de Segurança
+de Produto Químico - FISPQ
+PRODUTO: CAP 30 / 45 Página 8 de 10
+Data: 01/09/2014 Nº FISPQ: BR0472 Versão: 4 Anula e substitui versão: todas anteriores
+Restos de produtos: Manter restos do produto em suas embalagens originais, fechadas e
+dentro de tambores metálicos, devidamente fechados, de acordo
+com a legislação aplicável. O descarte deve ser realizado conforme o
+estabelecido para o produto, recomendando-se as rotas de
+processamento em cimenteiras e a incineração.
+Embalagem usada: Nunca reutilize embalagens vazias, pois elas podem conter restos do
+produto e devem ser mantidas fechadas e encaminhadas para serem
+destruídas em local apropriado. Neste caso, recomenda-se envio
+para rotas de recuperação dos tambores ou incineração.
+14 - INFORMAÇÕES SOBRE TRANSPORTE
+Regulamentações nacionais e internacionais
+Terrestre: Decreto nº 96.044, de 18 de maio de 1988: Aprova o regulamento
+para o transporte rodoviário de produtos perigosos e dá outras
+providências.
+Agência Nacional de transportes terrestres (ANTT): Resoluções Nº.
+420/04, 701/04, 1644/06, 2657/08, 2975/08 e 3383/10.
+Hidroviário: DPC – Diretoria de Portos e Costas ( Transporte em águas
+brasileiras)
+Normas de Autoridade Marítima (NORMAM)
+NORMAM 01/DPC: Embarcações Empregadas na Navegação em
+Mar Aberto.
+NORMAM 02/DPC: Embarcações Empregadas na Navegação
+Interior.
+IMO – “International Maritime Organization” ( Organização Marítima
+Internacional)
+International Maritime Dangerous Goods Code (IMDG Code) –
+Incorporating Amendment 34-08;2008 Edition.
+Aéreo: DAC -Departamento de Aviação Civil: IAC 153-1001.
+Instrução de Aviação Civil – Normas para o transporte de artigos
+perigosos em aeronaves civis.
+IATA – “ International Air Transport Association” ( Associação
+Nacional de Transporte Aéreo)
+Dangerous Goods Regulation (DGR) - 51
+Número ONU: 3257
+Nome apropriado para embarque: LÍQUIDO A TEMPERATURA ELEVADA, N.E (Asfalto)
+Classe e subclasse de risco principal 9
+e subsidiário:
+Número de risco: 99
+Grupo de embalagem: III
+Observações: O produto à temperatura ambiente encontra-se no estado sólido.
+Portanto não é enquadrado como produto perigoso para transporte
+segundo a legislação em vigor, Resolução 420/ANTT.
+ | 15 | | | - | | | REGULAMENTAÇÕES | 
+ | 16 | | | - | | | OUTRAS INFORMAÇÕES | 
+Ficha de Informação de Segurança
+de Produto Químico - FISPQ
+PRODUTO: CAP 30 / 45 Página 9 de 10
+Data: 01/09/2014 Nº FISPQ: BR0472 Versão: 4 Anula e substitui versão: todas anteriores
+15 - REGULAMENTAÇÕES
+Regulamentações:
+Regulamentações: Decreto Federal nº 2.657, de 3 de julho de 1998
+Norma ABNT-NBR 14725-4: 2009
+Lei nº 12.305, de 2 de agosto de 2010 (Política Nacional de Resíduos Sólidos).
+Decreto nº 7.404, de 23 de dezembro de 2010.
+16 - OUTRAS INFORMAÇÕES
+Informações importantes:
+Esta FISPQ foi elaborada baseada nos conhecimentos atuais do produto químico e fornece informações quanto à
+proteção, à segurança, à saúde e ao meio ambiente.
+Adverte-se que o manuseio de qualquer substância química requer o conhecimento prévio de seus perigos pelo
+usuário. Cabe à empresa usuária do produto promover o treinamento de seus empregados e contratados quanto
+aos possíveis riscos advindos do produto.
+Siglas:
+ACGIH - American Conference of Governmental Industrial Hygienists
+C – Ceiling Value
+CAS - Chemical Abstracts Service
+DL - Dose letal 50%
+50
+NIOSH – National Institute for Occupational Safety and Hygienists
+REL – Recommended Exposure Limit
+TLV - Threshold Limit Value
+TWA - Time Weighted Average
+Bibliografia:
+ECB] EUROPEAN CHEMICALS BUREAU. Diretiva 67/548/EEC (substâncias) e Diretiva 1999/45/EC
+(preparações). Disponível em: http://ecb.jrc.it/. Acesso em: outubro de 2010.
+[EPI-USEPA] ESTIMATION PROGRAMS INTERFACE Suite - United States Environmental Protection
+Agency. Software.
+[HSDB] HAZARDOUS SUBSTANCES DATA BANK. Disponível em: http://toxnet.nlm.nih.gov/cgi-
+bin/sis/htmlgen?HSDB. Acesso em: outubro de 2010.
+[IARC] INTERNATIONAL AGENCY FOR RESEARCH ON CANCER. Disponível em:
+http://monographs.iarc.fr/ENG/Classification/index.php. Acesso em: outubro de 2010.
+[IPCS] INTERNATIONAL PROGRAMME ON CHEMICAL SAFETY – INCHEM. Disponível em:
+http://www.inchem.org/. Acesso em: outubro de 2010.
+[IPIECA] INTERNATIONAL PETROLEUM INDUSTRY ENVIRONMENTAL CONSERVATION ASSOCIATION.
+Guidance on the application of Globally Harmonized System (GHS) criteria to petroleum substances.
+Version 1. June 17th 2010. Disponível em:
+Ficha de Informação de Segurança
+de Produto Químico - FISPQ
+PRODUTO: CAP 30 / 45 Página 10 de 10
+Data: 01/09/2014 Nº FISPQ: BR0472 Versão: 4 Anula e substitui versão: todas anteriores
+http://www.ipieca.org/system/files/publications/ghs_guidance_17_june_2010.pdf. Acesso em: outubro de 2010.
+[IUCLID] INTERNATIONAL UNIFORM CHEMICAL INFORMATION DATABASE. [s.l.]:
+European chemical Bureau. Disponível em: http://ecb.jrc.ec.europa.eu. Access in: outubro de 2010.
+[NIOSH] NATIONAL INSTITUTE OF OCCUPATIONAL AND SAFETY. International Chemical Safety Cards.
+Disponível em: http://www.cdc.gov/niosh/. Acesso em: outubro de 2010.
+[NITE-GHS JAPAN] NATIONAL INSTITUTE OF TECHNOLOGY AND EVALUATION.
+Disponível em: http://www.safe.nite.go.jp/english/ghs_index.html. Acesso em: outubro de 2010.
+[PETROLEUM HPV] PETROLEUM HIGH PRODUCTION VOLUME. Disponível em:
+http://www.petroleumhpv.org/pages/petroleumsubstances.html. Acesso em: outubro de 2010.
+[REACH] REGISTRATION, EVALUATION, AUTHORIZATION AND RESTRICTION OF CHEMICALS.
+Commission Regulation (EC) No 1272/2008 of 16 December 2008 amending and
+repealing Directives 67/548/EEC and 1999/45/EC, and amending Regulation (EC) No 1907/2006 of the
+European Parliament and of the Council on the Registration, Evaluation, Authorization and Restriction of
+Chemicals.
+[SIRETOX/INTERTOX] SISTEMA DE INFORMAÇÕES SOBRE RISCOS DE EXPOSIÇÃO QUÍMICA.
+Disponível em: http://www.intertox.com.br. Acesso em: outubro de 2010.
+[TOXNET] TOXICOLOGY DATA NETWORKING. ChemIDplus Lite. Disponível em:
+http://chem.sis.nlm.nih.gov/. Acesso em: outubro de 2010.

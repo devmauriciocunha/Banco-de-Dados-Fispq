@@ -1,0 +1,850 @@
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+
+1 - IDENTIFICAÇÃO | 
+Nome do produto (nome
+comercial): | ÁCIDO NÍTRICO 65% P.A
+ | 
+Código Interno de
+Identificação do
+Produto: | 088003
+ | 
+Principais usos
+recomendados para
+substância ou mistura: | Reagente analítico.
+ | 
+Nome da empresa: | Quimesp Química Ltda
+Endereço: | Rua Murilo, 48 - Vila Nova Cumbica CEP: 07230-060, Guarulhos - SP - BR
+Telefone para contato: | (11) 2488-2222
+Telefone para
+emergências: | 0800-7077022
+ | 
+Fax: | (11) 2482-0220
+E-mail: | laboratorio@quimesp.com
+2 - IDENTIFICAÇÃO DE PERIGOS | | | | | | | 
+Classificação de perigo
+do produto químico: | | Corrosão/irritação à pele - Categoria 1A
+Corrosivo para os metais - Categoria 1
+Lesões oculares graves/irritação ocular - Categoria 1
+Líquidos oxidantes - Categoria 3
+Toxicidade aguda - Inalação - Categoria 4 | | | | | 
+ | | | | | | | 
+Sistema de
+classificação utilizado: | | Norma ABNT-NBR 14725-2.
+Sistema Globalmente Harmonizado para a Classificação e Rotulagem de Produtos Químicos, ONU. | | | | | 
+Outros perigos que não
+resultam em uma
+classificação: | | O produto não possui outros perigos. | | | | | 
+ | | | | | | | 
+Elementos apropriados para rotulagem | | | | | | | 
+Pictogramas: | | | | | | | 
+ | | | | | | | 
+Palavra de advertência: | | PERIGO | | | | | 
+Frases de perigo: | | H272 Pode agravar um incêndio, comburente.
+H290 Pode ser corrosivo para os metais.
+H314 Provoca queimadura severa à pele e dano aos olhos.
+H332 Nocivo se inalado. | | | | | 
+ | | | | | | | 
+Frases de precaução: | | PREVENÇÃO:
+P210 Mantenha afastado do calor, faísca, chama aberta ou superfícies quentes. - Não fume.
+P220 Mantenha afastado de roupa e materiais combustíveis.
+P221 Tome todas as precauções para não misturar com materiais combustíveis.
+P234 Conserve somente no recipiente original.
+P260 Não inale as poeiras/fumos/gases/névoas/vapores/aerossóis.
+P261 Evite inalar as poeiras/fumos/gases/névoas/vapores/aerossóis.
+P264 Lave as mãos cuidadosamente após manuseio. | | | | | 
+ | | | | | | | 
+ | | | | | | | 
+FISPQ
+Em conformidade com NBR 14725
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Produto: ÁCIDO NÍTRICO 65% P.A
+Revisão: 04 Data: 25/01/2021 Página: 1/8
+1 - IDENTIFICAÇÃO
+Nome do produto (nome ÁCIDO NÍTRICO 65% P.A
+comercial):
+Código Interno de 088003
+Identificação do
+Produto:
+Principais usos Reagente analítico.
+recomendados para
+substância ou mistura:
+Nome da empresa: Quimesp Química Ltda
+Endereço: Rua Murilo, 48 - Vila Nova Cumbica CEP: 07230-060, Guarulhos - SP - BR
+Telefone para contato: (11) 2488-2222
+Telefone para 0800-7077022
+emergências:
+Fax: (11) 2482-0220
+E-mail: laboratorio@quimesp.com
+2 - IDENTIFICAÇÃO DE PERIGOS
+Classificação de perigo Corrosão/irritação à pele - Categoria 1A
+do produto químico: Corrosivo para os metais - Categoria 1
+Lesões oculares graves/irritação ocular - Categoria 1
+Líquidos oxidantes - Categoria 3
+Toxicidade aguda - Inalação - Categoria 4
+Sistema de Norma ABNT-NBR 14725-2.
+classificação utilizado: Sistema Globalmente Harmonizado para a Classificação e Rotulagem de Produtos Químicos, ONU.
+Outros perigos que não O produto não possui outros perigos.
+resultam em uma
+classificação:
+Elementos apropriados para rotulagem
+Pictogramas:
+Palavra de advertência: PERIGO
+Frases de perigo: H272 Pode agravar um incêndio, comburente.
+H290 Pode ser corrosivo para os metais.
+H314 Provoca queimadura severa à pele e dano aos olhos.
+H332 Nocivo se inalado.
+Frases de precaução: PREVENÇÃO:
+P210 Mantenha afastado do calor, faísca, chama aberta ou superfícies quentes. - Não fume.
+P220 Mantenha afastado de roupa e materiais combustíveis.
+P221 Tome todas as precauções para não misturar com materiais combustíveis.
+P234 Conserve somente no recipiente original.
+P260 Não inale as poeiras/fumos/gases/névoas/vapores/aerossóis.
+P261 Evite inalar as poeiras/fumos/gases/névoas/vapores/aerossóis.
+P264 Lave as mãos cuidadosamente após manuseio.
+ | | 
+FICHA DE
+FICHA DE | FICHA DE
+FICHA DE | INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+ | | 
+Produto: ÁCIDO N | | ÍTRICO 65% P.A
+Revisão: 04 | | Data: 25/01/2021 Página: 2/8
+ | | P271 Utilize apenas ao ar livre ou em locais bem ventilados.
+P280 Use luvas de proteção, roupa de proteção, proteção ocular e proteção facial.
+RESPOSTA À EMERGÊNCIA:
+P301 + P330 + P331 EM CASO DE INGESTÃO: Enxágue a boca. NÃO provoque vômito.
+P303 + P361 + P353 EM CASO DE CONTATO COM A PELE (ou o cabelo): Retire imediatamente
+toda a roupa contaminada. Enxágue a pele com água ou tome uma ducha.
+P304 + P340 EM CASO DE INALAÇÃO: Remova a pessoa para local ventilado e a mantenha em
+repouso numa posição que não dificulte a respiração.
+P305 + P351 + P338 EM CASO DE CONTATO COM OS OLHOS: Enxágue cuidadosamente com
+água durante vários minutos. No caso de uso de lentes de contato, remova-as, se for fácil. Continue
+enxaguando.
+P310 Contate imediatamente um CENTRO DE INFORMAÇÃO TOXICOLÓGICA ou um médico.
+P312 Caso sinta indisposição, contate um CENTRO DE INFORMAÇÃO TOXICOLÓGICA ou um
+médico.
+P321 Tratamento específico.
+P363 Lave a roupa contaminada antes de usá-la novamente.
+P370 + P378 Em caso de incêndio: Para a extinção utilize areia seca, dióxido de carbono (CO2),
+espuma resistente a álcool, neblina d'água e pó químico seco.
+P390 Absorva o produto derramado a fim de evitar danos materiais.
+ARMAZENAMENTO:
+P405 Armazene em local fechado à chave.
+P406 Armazene num recipiente resistente à corrosão ou com um revestimento interno resistente.
+DISPOSIÇÃO:
+P501 Descarte o conteúdo e o recipiente em conformidade com as regulamentações locais.
+3 - COMPOSIÇÃO E INFORMAÇÕES SOBRE OS INGREDIENTES | 
+SUBSTÂNCIA | 
+Nome químico comum
+ou nome técnico: | Ácido nítrico.
+ | 
+Sinônimo: | Ácido azótico; ácido nítrico; hidróxido de nitrila.
+Número de registro
+CAS: | 7697-37-2
+ | 
+Impurezas que
+contribuam para o
+perigo: | Não apresenta componentes que contribuam para o perigo.
+ | 
+4 - MEDIDAS DE PRIMEIROS-SOCORROS | 
+Inalação: | Remova a vítima para local ventilado e a mantenha em repouso numa posição que não dificulte a
+respiração. Caso sinta indisposição, contate um CENTRO DE INFORMAÇÃO TOXICOLÓGICA ou
+um médico. Leve esta FISPQ.
+ | 
+Contato com a pele: | EM CASO DE CONTATO COM A ROUPA: Enxágue imediatamente com água em abundância a
+roupa e a pele contaminadas antes de se despir. Consulte um médico. Leve esta FISPQ.
+ | 
+Contato com os olhos: | Enxágue cuidadosamente com água durante vários minutos. No caso de uso de lentes de contato,
+remova-as, se for fácil. Continue enxaguando. Caso a irritação ocular persista: consulte um médico.
+Leve esta FISPQ.
+ | 
+Ingestão: | Lave a boca da vítima com água em abundância. Caso sinta indisposição, contate um CENTRO DE
+INFORMAÇÃO TOXICOLÓGICA ou um médico Leve esta FISPQ.
+ | 
+Sintomas e efeitos mais
+importantes, agudos e | Provoca queimadura severa à pele e dano aos olhos com dor, formação de bolhas e descamação.
+Provoca lesões oculares graves com queimadura, lacrimejamento, dor, opacidade permanente da
+FISPQ
+Em conformidade com NBR 14725
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Produto: ÁCIDO NÍTRICO 65% P.A
+Revisão: 04 Data: 25/01/2021 Página: 2/8
+P271 Utilize apenas ao ar livre ou em locais bem ventilados.
+P280 Use luvas de proteção, roupa de proteção, proteção ocular e proteção facial.
+RESPOSTA À EMERGÊNCIA:
+P301 + P330 + P331 EM CASO DE INGESTÃO: Enxágue a boca. NÃO provoque vômito.
+P303 + P361 + P353 EM CASO DE CONTATO COM A PELE (ou o cabelo): Retire imediatamente
+toda a roupa contaminada. Enxágue a pele com água ou tome uma ducha.
+P304 + P340 EM CASO DE INALAÇÃO: Remova a pessoa para local ventilado e a mantenha em
+repouso numa posição que não dificulte a respiração.
+P305 + P351 + P338 EM CASO DE CONTATO COM OS OLHOS: Enxágue cuidadosamente com
+água durante vários minutos. No caso de uso de lentes de contato, remova-as, se for fácil. Continue
+enxaguando.
+P310 Contate imediatamente um CENTRO DE INFORMAÇÃO TOXICOLÓGICA ou um médico.
+P312 Caso sinta indisposição, contate um CENTRO DE INFORMAÇÃO TOXICOLÓGICA ou um
+médico.
+P321 Tratamento específico.
+P363 Lave a roupa contaminada antes de usá-la novamente.
+P370 + P378 Em caso de incêndio: Para a extinção utilize areia seca, dióxido de carbono (CO2),
+espuma resistente a álcool, neblina d'água e pó químico seco.
+P390 Absorva o produto derramado a fim de evitar danos materiais.
+ARMAZENAMENTO:
+P405 Armazene em local fechado à chave.
+P406 Armazene num recipiente resistente à corrosão ou com um revestimento interno resistente.
+DISPOSIÇÃO:
+P501 Descarte o conteúdo e o recipiente em conformidade com as regulamentações locais.
+3 - COMPOSIÇÃO E INFORMAÇÕES SOBRE OS INGREDIENTES
+SUBSTÂNCIA
+Nome químico comum Ácido nítrico.
+ou nome técnico:
+Sinônimo: Ácido azótico; ácido nítrico; hidróxido de nitrila.
+Número de registro 7697-37-2
+CAS:
+Impurezas que Não apresenta componentes que contribuam para o perigo.
+contribuam para o
+perigo:
+4 - MEDIDAS DE PRIMEIROS-SOCORROS
+Inalação: Remova a vítima para local ventilado e a mantenha em repouso numa posição que não dificulte a
+respiração. Caso sinta indisposição, contate um CENTRO DE INFORMAÇÃO TOXICOLÓGICA ou
+um médico. Leve esta FISPQ.
+Contato com a pele: EM CASO DE CONTATO COM A ROUPA: Enxágue imediatamente com água em abundância a
+roupa e a pele contaminadas antes de se despir. Consulte um médico. Leve esta FISPQ.
+Contato com os olhos: Enxágue cuidadosamente com água durante vários minutos. No caso de uso de lentes de contato,
+remova-as, se for fácil. Continue enxaguando. Caso a irritação ocular persista: consulte um médico.
+Leve esta FISPQ.
+Ingestão: Lave a boca da vítima com água em abundância. Caso sinta indisposição, contate um CENTRO DE
+INFORMAÇÃO TOXICOLÓGICA ou um médico Leve esta FISPQ.
+Sintomas e efeitos mais Provoca queimadura severa à pele e dano aos olhos com dor, formação de bolhas e descamação.
+importantes, agudos e Provoca lesões oculares graves com queimadura, lacrimejamento, dor, opacidade permanente da
+
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+
+Revisão: 04 | Data: 25/01/2021 Página: 3/8
+tardios: | córnea e cegueira. Nocivo se inalado.
+Notas para o médico: | Evite contato com o produto ao socorrer a vítima. Se necessário, o tratamento sintomático deve
+compreender, sobretudo, medidas de suporte como correção de distúrbios hidroeletrolíticos,
+metabólicos, além de assistência respiratória. Em caso de contato com a pele não friccione o local
+atingido.
+ | 
+5 - MEDIDAS DE COMBATE A INCÊNDIO | 
+Meios de extinção: | Apropriados: areia seca, dióxido de carbono (CO2), espuma resistente a álcool, neblina d'água e pó
+químico seco.
+Não recomendados: espuma e jatos d'água.
+ | 
+Perigos específicos da
+mistura ou substância: | A combustão do produto químico ou de sua embalagem pode formar gases irritantes e tóxicos como
+monóxido e dióxido de carbono, óxido de nitrogênio e fumos de ácidos venenosos.
+Muito perigoso quando exposto a materiais combustíveis, inflamáveis ou explosivos.
+Combata o incêndio à distância, devido ao risco de explosão.
+ | 
+Medidas de proteção
+da equipe de combate
+a incêndio: | Equipamento de proteção respiratória do tipo autônomo (SCBA) com pressão positiva e vestuário
+protetor completo. Em caso de incêndio de grandes proporções: inunde a área com água de uma
+distância segura, se não for possível abandone a área e deixe o material queimar. Contêineres e
+tanques envolvidos no incêndio devem ser resfriados lateralmente com bastante água.
+ | 
+6 - MEDIDAS DE CONTROLE PARA DERRAMAMENTO OU VAZAMENTO | 
+Precauções pessoais, equipamento de proteção e procedimentos de emergência | 
+Para o pessoal que não
+faz parte dos serviços
+de emergência: | Isole o vazamento de fontes de ignição. Impeça fagulhas ou chamas. Não fume. Não toque nos
+recipientes danificados ou no material derramado sem o uso de vestimentas adequadas. Utilize
+equipamento de proteção individual conforme descrito na seção 8.
+Para o pessoal do
+serviço de emergência: | Utilize EPI completo com óculos de segurança, luvas de segurança, vestuário protetor adequado e
+sapatos fechados. Em caso de vazamento, onde a exposição é grande, recomenda-se o uso de
+máscara de proteção respiratória adequada.
+ | 
+Precauções ao meio
+ambiente: | Evite que o produto derramado atinja cursos d'água e rede de esgotos.
+ | 
+Método e materiais
+para a contenção e
+limpeza: | Utilize névoa de água ou espuma supressora de vapor para reduzir a dispersão do produto. Utilize
+barreiras naturais ou de contenção de derrame. Colete o produto derramado e coloque em
+recipientes apropriados. Adsorva o produto remanescente, com areia seca, terra, vermiculite, ou
+qualquer outro material inerte. Coloque o material adsorvido em recipientes apropriados e remova-
+os para local seguro. Para neutralizar use solução de carbonato de sódio.Para destinação final,
+proceder conforme a Seção 13 desta FISPQ.
+ | 
+Diferenças na ação de
+grandes e pequenos
+vazamentos: | São preconizadas as mesmas ações para grandes e pequenos vazamentos deste produto.
+ | 
+7 - MANUSEIO E ARMAZENAMENTO | 
+Medidas técnicas apropriadas para o manuseio | 
+Precauções para
+manuseio seguro: | Manuseie em uma área ventilada ou com sistema geral de ventilação/exaustão local. Evite
+formação de vapores ou névoas. Evite inalar o produto em caso de formação de vapores ou
+névoas. Utilize equipamento elétrico, de ventilação e de iluminação à prova de explosão. Use roupa
+resistente a ou retardadora de fogo/chama. Use luvas de proteção, roupa de proteção, proteção
+ocular, proteção facial como indicado na Seção 8.
+ | 
+Medidas de higiene: | Lave bem as mãos antes de comer, beber, fumar ou ir ao banheiro. Roupas contaminadas devem
+ser trocadas e lavadas antes de sua reutilização.
+ | 
+Condições de armazenamento seguro, incluindo qualquer incompatibilidade | 
+FISPQ
+Em conformidade com NBR 14725
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Produto: ÁCIDO NÍTRICO 65% P.A
+Revisão: 04 Data: 25/01/2021 Página: 3/8
+tardios: córnea e cegueira. Nocivo se inalado.
+Notas para o médico: Evite contato com o produto ao socorrer a vítima. Se necessário, o tratamento sintomático deve
+compreender, sobretudo, medidas de suporte como correção de distúrbios hidroeletrolíticos,
+metabólicos, além de assistência respiratória. Em caso de contato com a pele não friccione o local
+atingido.
+5 - MEDIDAS DE COMBATE A INCÊNDIO
+Meios de extinção: Apropriados: areia seca, dióxido de carbono (CO2), espuma resistente a álcool, neblina d'água e pó
+químico seco.
+Não recomendados: espuma e jatos d'água.
+Perigos específicos da A combustão do produto químico ou de sua embalagem pode formar gases irritantes e tóxicos como
+mistura ou substância: monóxido e dióxido de carbono, óxido de nitrogênio e fumos de ácidos venenosos.
+Muito perigoso quando exposto a materiais combustíveis, inflamáveis ou explosivos.
+Combata o incêndio à distância, devido ao risco de explosão.
+Medidas de proteção Equipamento de proteção respiratória do tipo autônomo (SCBA) com pressão positiva e vestuário
+da equipe de combate protetor completo. Em caso de incêndio de grandes proporções: inunde a área com água de uma
+a incêndio: distância segura, se não for possível abandone a área e deixe o material queimar. Contêineres e
+tanques envolvidos no incêndio devem ser resfriados lateralmente com bastante água.
+6 - MEDIDAS DE CONTROLE PARA DERRAMAMENTO OU VAZAMENTO
+Precauções pessoais, equipamento de proteção e procedimentos de emergência
+Para o pessoal que não Isole o vazamento de fontes de ignição. Impeça fagulhas ou chamas. Não fume. Não toque nos
+faz parte dos serviços recipientes danificados ou no material derramado sem o uso de vestimentas adequadas. Utilize
+de emergência: equipamento de proteção individual conforme descrito na seção 8.
+Para o pessoal do Utilize EPI completo com óculos de segurança, luvas de segurança, vestuário protetor adequado e
+serviço de emergência: sapatos fechados. Em caso de vazamento, onde a exposição é grande, recomenda-se o uso de
+máscara de proteção respiratória adequada.
+Precauções ao meio Evite que o produto derramado atinja cursos d'água e rede de esgotos.
+ambiente:
+Método e materiais Utilize névoa de água ou espuma supressora de vapor para reduzir a dispersão do produto. Utilize
+para a contenção e barreiras naturais ou de contenção de derrame. Colete o produto derramado e coloque em
+limpeza: recipientes apropriados. Adsorva o produto remanescente, com areia seca, terra, vermiculite, ou
+qualquer outro material inerte. Coloque o material adsorvido em recipientes apropriados e remova-
+os para local seguro. Para neutralizar use solução de carbonato de sódio.Para destinação final,
+proceder conforme a Seção 13 desta FISPQ.
+Diferenças na ação de São preconizadas as mesmas ações para grandes e pequenos vazamentos deste produto.
+grandes e pequenos
+vazamentos:
+7 - MANUSEIO E ARMAZENAMENTO
+Medidas técnicas apropriadas para o manuseio
+Precauções para Manuseie em uma área ventilada ou com sistema geral de ventilação/exaustão local. Evite
+manuseio seguro: formação de vapores ou névoas. Evite inalar o produto em caso de formação de vapores ou
+névoas. Utilize equipamento elétrico, de ventilação e de iluminação à prova de explosão. Use roupa
+resistente a ou retardadora de fogo/chama. Use luvas de proteção, roupa de proteção, proteção
+ocular, proteção facial como indicado na Seção 8.
+Medidas de higiene: Lave bem as mãos antes de comer, beber, fumar ou ir ao banheiro. Roupas contaminadas devem
+ser trocadas e lavadas antes de sua reutilização.
+Condições de armazenamento seguro, incluindo qualquer incompatibilidade
+Prevenção de incêndio
+e explosão: | Mantenha afastado do calor, faísca, chama aberta e superfícies quentes. - Não fume. Mantenha
+afastado de roupa e materiais combustíveis. Tome todas as precauções para não misturar com
+materiais combustíveis e outros materiais incompatíveis.
+ | 
+Condições adequadas: | Armazene em local bem ventilado. Armazene num recipiente resistente à corrosão ou com um
+revestimento interno resistente. Conserve somente no recipiente original. Mantenha em local fresco.
+Guarde afastado de roupas. Manter armazenado em temperatura ambiente que não exceda 35°C.
+Não é necessária adição de estabilizantes e antioxidantes para garantir a durabilidade do produto.
+ | 
+Materiais adequados
+para embalagem: | Semelhante à embalagem original.
+ | 
+Materiais inadequados
+para embalagem: | Não são conhecidos materiais inadequados para este produto.
+ | 
+8 - CONTROLE DE EXPOSIÇÃO E PROTEÇÃO INDIVIDUAL | 
+Parâmetros de controle | 
+Limites de exposição
+ocupacional: | Não estabelecidos.
+ | 
+Indicadores biológicos: | Não estabelecidos.
+Outros limites e valores: | IDLH (NIOSH, 2010): 25ppm.
+Medidas de controle de
+engenharia: | Promova ventilação mecânica e sistema de exaustão direta para o meio exterior. Estas medidas
+auxiliam na redução da exposição ao produto. É recomendado tornar disponíveis chuveiros de
+emergência e lava olhos na área de trabalho.
+ | 
+Medidas de proteção pessoal | 
+Proteção dos
+olhos/face: | Óculos de proteção contra respingos.
+ | 
+Proteção da pele e do
+corpo: | Sapatos fechados, vestimenta de segurança para proteção de todo o corpo contra respingos de
+produtos químicos. Luvas de proteção de borracha fluorada. Não utilizar luvas de borracha natural,
+butílica, nitrílica, policloropreno e PVC.
+ | 
+Proteção respiratória: | Máscara de proteção com filtro contra vapores e névoas.
+Perigos térmicos: | Não apresenta perigos térmicos.
+9 - PROPRIEDADES FÍSICAS E QUÍMICAS | 
+Aspecto (estado físico,
+forma e cor): | Líquido inorgânico higroscópico incolor a amarelo.
+ | 
+Odor e limite de odor: | Característico (limite de odor: 0,29 a 0,98 ppm).
+pH: | < 2 (5%).
+Ponto de fusão/ponto
+de congelamento: | -41,59 a -41 °C.
+ | 
+Ponto de ebulição inicial
+e faixa de temperatura
+de ebulição: | 83 °C a 100 kPa.
+ | 
+Ponto de fulgor: | 8 °C - Vaso aberto.
+Taxa de evaporação: | Não disponível.
+Inflamabilidade: | Não disponível.
+Limite inferior/superior | Superior: 2,5 g/m³
+ | 
+FISPQ
+Em conformidade com NBR 14725
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Produto: ÁCIDO NÍTRICO 65% P.A
+Revisão: 04 Data: 25/01/2021 Página: 4/8
+Prevenção de incêndio Mantenha afastado do calor, faísca, chama aberta e superfícies quentes. - Não fume. Mantenha
+e explosão: afastado de roupa e materiais combustíveis. Tome todas as precauções para não misturar com
+materiais combustíveis e outros materiais incompatíveis.
+Condições adequadas: Armazene em local bem ventilado. Armazene num recipiente resistente à corrosão ou com um
+revestimento interno resistente. Conserve somente no recipiente original. Mantenha em local fresco.
+Guarde afastado de roupas. Manter armazenado em temperatura ambiente que não exceda 35°C.
+Não é necessária adição de estabilizantes e antioxidantes para garantir a durabilidade do produto.
+Materiais adequados Semelhante à embalagem original.
+para embalagem:
+Materiais inadequados Não são conhecidos materiais inadequados para este produto.
+para embalagem:
+8 - CONTROLE DE EXPOSIÇÃO E PROTEÇÃO INDIVIDUAL
+Parâmetros de controle
+Limites de exposição Não estabelecidos.
+ocupacional:
+Indicadores biológicos: Não estabelecidos.
+Outros limites e valores: IDLH (NIOSH, 2010): 25ppm.
+Medidas de controle de Promova ventilação mecânica e sistema de exaustão direta para o meio exterior. Estas medidas
+engenharia: auxiliam na redução da exposição ao produto. É recomendado tornar disponíveis chuveiros de
+emergência e lava olhos na área de trabalho.
+Medidas de proteção pessoal
+Proteção dos Óculos de proteção contra respingos.
+olhos/face:
+Proteção da pele e do Sapatos fechados, vestimenta de segurança para proteção de todo o corpo contra respingos de
+corpo: produtos químicos. Luvas de proteção de borracha fluorada. Não utilizar luvas de borracha natural,
+butílica, nitrílica, policloropreno e PVC.
+Proteção respiratória: Máscara de proteção com filtro contra vapores e névoas.
+Perigos térmicos: Não apresenta perigos térmicos.
+9 - PROPRIEDADES FÍSICAS E QUÍMICAS
+Aspecto (estado físico, Líquido inorgânico higroscópico incolor a amarelo.
+forma e cor):
+Odor e limite de odor: Característico (limite de odor: 0,29 a 0,98 ppm).
+pH: < 2 (5%).
+Ponto de fusão/ponto -41,59 a -41 °C.
+de congelamento:
+Ponto de ebulição inicial 83 °C a 100 kPa.
+e faixa de temperatura
+de ebulição:
+Ponto de fulgor: 8 °C - Vaso aberto.
+Taxa de evaporação: Não disponível.
+Inflamabilidade: Não disponível.
+Limite inferior/superior Superior: 2,5 g/m³
+
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+
+de inflamabilidade ou
+explosividade: | e Inferior: 0,75 g/m³.
+ | 
+Pressão de vapor: | 42 a 63,1 mmHg.
+Densidade de vapor: | 2 a 3 (ar = 1).
+Densidade relativa: | 1,4 (água a 4°C=1) a 20 °C.
+Solubilidade(s): | Miscível em água. Miscível em todas as proporções de acetona, benzeno, tetracloreto de carbono,
+éter etílico e metanol.
+ | 
+Coeficiente de partição
+- n-octanol/água: | log Kow: -0,21.
+ | 
+Temperatura de
+autoignição: | 235 °C.
+ | 
+Temperatura de
+decomposição: | 84 °C.
+ | 
+Viscosidade: | Dinâmica: 0,75 a 0,76 mPa.s a 25 °C.
+Outras informações: | Tensão superficial: 0,04115 N/m a 20ºC.
+10 - ESTABILIDADE E REATIVIDADE | 
+Reatividade: | Muito corrosivo para madeira, papel, roupas e alguns metais.
+Estabilidade: | Produto estável em condições normais de temperatura e pressão.
+Possibilidade de
+reações perigosas: | O produto pode reagir violentamente com celulose, aminas, amônia, bases, carvão vegetal, lítio,
+metais, potássio, sódio, substâncias combustíveis e terebentina. Risco de explosão em contato com
+acetato de fosfina, acetonitrila, ácido acético, agentes oxidantes, agentes redutores, alcoóis,
+carbonetos, cianetos, césio, ciclopentadieno, flúor, hidretos metálico, metais alcalinos, metais
+alcalinos-terrosos, pós metálicos, rubídio, silicato de lítio, substâncias orgânicas, sulfetos, álcalis e
+tricloreto de fósforo.
+ | 
+Condições a serem
+evitadas: | Temperaturas elevadas. Materiais inflamáveis ou combustíveis. Umidade. Contato com materiais
+incompatíveis.
+Materiais incompatíveis: | Acetato de fosfina, Acetileto de césio, Acetileto de rubídio, Ácidos, Acrilonitrila, Açúcares, Agentes
+Oxidantes, Agentes Redutores, Água, Alcoois, Algodão, Amônia, Arseneto de hidrogênio, Arsina,
+Bases, Benzeno, Carbonetos, Carvão, Celulose, Crotonaldeído, Dióxido de enxofre, Fosfina,
+Fosforetos, Hidrazina, Hidreto de antimônio, Hidreto de sódio, Hipoclorito de sódio, Iodeto de
+hidrogênio, Materiais orgânicos, Metais alcalinos, Metais alcalinos terrosos, Metais de transição,
+Metalóide, Mistura de permanganato de potássio e álcool, Mistura de substâncias orgânicas e ácido
+sulfúrico, Óxido de cromo, Óxido de ferro II em pó, Pentafluoreto de bromo, Piridinas, Polipropileno,
+Pós metálicos, Seleneto, Seleneto de hidrogênio, Selênio, Silicato de lítio, Sulfetos, Sulfureto de
+dimetila, Telureto de hidrogênio, Tolueno, Tricloreto de fósforo, Trifluoreto de cloro e Urânio.
+ | 
+Produtos perigosos da
+decomposição: | A decomposição térmica do produto pode liberar óxido de nitrogênio, hidrogênio e nitrato.
+ | 
+11 - INFORMAÇÕES TOXICOLÓGICAS | 
+Toxicidade Aguda: | Nocivo se inalado.
+Corrosão/irritação à
+pele: | Provoca queimadura severa à pele com dor, formação de bolhas e descamação.
+ | 
+Lesões oculares
+graves/irritação ocular: | Provoca lesões oculares graves com queimadura, lacrimejamento, dor, opacidade permanente da
+córnea e cegueira.
+Sensibilização
+respiratória ou à pele: | Não é esperado que o produto apresente sensibilização respiratória ou à pele.
+ | 
+FISPQ
+Em conformidade com NBR 14725
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Produto: ÁCIDO NÍTRICO 65% P.A
+Revisão: 04 Data: 25/01/2021 Página: 5/8
+de inflamabilidade ou e Inferior: 0,75 g/m³.
+explosividade:
+Pressão de vapor: 42 a 63,1 mmHg.
+Densidade de vapor: 2 a 3 (ar = 1).
+Densidade relativa: 1,4 (água a 4°C=1) a 20 °C.
+Solubilidade(s): Miscível em água. Miscível em todas as proporções de acetona, benzeno, tetracloreto de carbono,
+éter etílico e metanol.
+Coeficiente de partição log Kow: -0,21.
+- n-octanol/água:
+Temperatura de 235 °C.
+autoignição:
+Temperatura de 84 °C.
+decomposição:
+Viscosidade: Dinâmica: 0,75 a 0,76 mPa.s a 25 °C.
+Outras informações: Tensão superficial: 0,04115 N/m a 20ºC.
+10 - ESTABILIDADE E REATIVIDADE
+Reatividade: Muito corrosivo para madeira, papel, roupas e alguns metais.
+Estabilidade: Produto estável em condições normais de temperatura e pressão.
+Possibilidade de O produto pode reagir violentamente com celulose, aminas, amônia, bases, carvão vegetal, lítio,
+reações perigosas: metais, potássio, sódio, substâncias combustíveis e terebentina. Risco de explosão em contato com
+acetato de fosfina, acetonitrila, ácido acético, agentes oxidantes, agentes redutores, alcoóis,
+carbonetos, cianetos, césio, ciclopentadieno, flúor, hidretos metálico, metais alcalinos, metais
+alcalinos-terrosos, pós metálicos, rubídio, silicato de lítio, substâncias orgânicas, sulfetos, álcalis e
+tricloreto de fósforo.
+Condições a serem Temperaturas elevadas. Materiais inflamáveis ou combustíveis. Umidade. Contato com materiais
+evitadas: incompatíveis.
+Materiais incompatíveis: Acetato de fosfina, Acetileto de césio, Acetileto de rubídio, Ácidos, Acrilonitrila, Açúcares, Agentes
+Oxidantes, Agentes Redutores, Água, Alcoois, Algodão, Amônia, Arseneto de hidrogênio, Arsina,
+Bases, Benzeno, Carbonetos, Carvão, Celulose, Crotonaldeído, Dióxido de enxofre, Fosfina,
+Fosforetos, Hidrazina, Hidreto de antimônio, Hidreto de sódio, Hipoclorito de sódio, Iodeto de
+hidrogênio, Materiais orgânicos, Metais alcalinos, Metais alcalinos terrosos, Metais de transição,
+Metalóide, Mistura de permanganato de potássio e álcool, Mistura de substâncias orgânicas e ácido
+sulfúrico, Óxido de cromo, Óxido de ferro II em pó, Pentafluoreto de bromo, Piridinas, Polipropileno,
+Pós metálicos, Seleneto, Seleneto de hidrogênio, Selênio, Silicato de lítio, Sulfetos, Sulfureto de
+dimetila, Telureto de hidrogênio, Tolueno, Tricloreto de fósforo, Trifluoreto de cloro e Urânio.
+Produtos perigosos da A decomposição térmica do produto pode liberar óxido de nitrogênio, hidrogênio e nitrato.
+decomposição:
+11 - INFORMAÇÕES TOXICOLÓGICAS
+Toxicidade Aguda: Nocivo se inalado.
+Corrosão/irritação à Provoca queimadura severa à pele com dor, formação de bolhas e descamação.
+pele:
+Lesões oculares Provoca lesões oculares graves com queimadura, lacrimejamento, dor, opacidade permanente da
+graves/irritação ocular: córnea e cegueira.
+Sensibilização Não é esperado que o produto apresente sensibilização respiratória ou à pele.
+respiratória ou à pele:
+
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+
+Revisão: 04 | Data: 25/01/2021 Página: 6/8
+ | 
+Mutagenicidade em
+células germinativas: | Não classificado para Mutagenicidade em células germinativas.
+Teste de ames mostrou que a substância não possui potencial mutagênico.
+Carcinogenicidade: | Não é esperado que o produto apresente carcinogenicidade.
+Toxicidade à
+reprodução: | Não é esperado que o produto apresente toxicidade à reprodução.
+ | 
+Toxicidade para
+órgãos-alvo específicos
+–exposição única: | Não é esperado que o produto apresente toxicidade ao órgão-alvo específico por exposição única.
+ | 
+Toxicidade para órgão-
+salvo específicos –
+exposição repetida: | Não é esperado que o produto apresente toxicidade ao órgão-alvo específico por exposição
+repetida.
+ | 
+Perigo por aspiração: | Não é esperado que o produto apresente perigo por aspiração.
+12 - INFORMAÇÕES ECOLÓGICAS | 
+Efeitos ambientais, comportamento e impactos do produto | 
+Ecotoxicidade: | Não é esperado que o produto apresente ecotoxicidade.
+CE50 (Crustáceos, 48h): 180 mg/L.
+ | 
+Persistência e
+degradabilidade: | Em função da ausência de dados, espera-se que o produto apresente persistência e não seja
+rapidamente degradado.
+Potencial
+bioacumulativo: | Apresenta baixo potencial bioacumulativo em organismos aquáticos.
+log Kow: -0,21.
+Mobilidade no solo: | Não determinada.
+Outros efeitos
+adversos: | Não são conhecidos outros efeitos ambientais para este produto.
+ | 
+13 - CONSIDERAÇÕES SOBRE DESTINAÇÃO FINAL | 
+Métodos recomendados para destinação final | 
+Produto: | O tratamento e a disposição devem ser avaliados especificamente para cada produto. Devem ser
+consultadas legislações federais, estaduais e municipais, dentre estas: Lei n°12.305, de 02 de
+agosto de 2010 (Política Nacional de Resíduos Sólidos).
+ | 
+Restos de produto: | Manter restos do produto em suas embalagens originais e devidamente fechadas. O descarte deve
+ser realizado conforme o estabelecido para o produto.
+ | 
+Embalagem usada: | Não reutilize embalagens vazias. Estas podem conter restos do produto e devem ser mantidas
+fechadas e encaminhadas para descarte apropriado conforme estabelecido para o produto.
+ | 
+14 - INFORMAÇÕES SOBRE TRANSPORTE | 
+Regulamentações nacionais e internacionais | 
+Terrestre: | ANTT - Agência Nacional de Transportes Terrestres:
+• Resolução nº 5232 de 14 de dezembro de 2016: Aprova as Instruções Complementares
+ao Regulamento Terrestre do Transporte de Produtos Perigosos, e dá outras providências.
+ | 
+Número ONU: | 2031
+Nome apropriado para
+embarque: | ÁCIDO NÍTRICO
+ | 
+Classe ou subclasse de
+risco principal: | 8
+ | 
+Classe ou subclasse de
+risco subsidiário: | 5.1
+ | 
+FISPQ
+Em conformidade com NBR 14725
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Produto: ÁCIDO NÍTRICO 65% P.A
+Revisão: 04 Data: 25/01/2021 Página: 6/8
+Mutagenicidade em Não classificado para Mutagenicidade em células germinativas.
+células germinativas: Teste de ames mostrou que a substância não possui potencial mutagênico.
+Carcinogenicidade: Não é esperado que o produto apresente carcinogenicidade.
+Toxicidade à Não é esperado que o produto apresente toxicidade à reprodução.
+reprodução:
+Toxicidade para Não é esperado que o produto apresente toxicidade ao órgão-alvo específico por exposição única.
+órgãos-alvo específicos
+–exposição única:
+Toxicidade para órgão- Não é esperado que o produto apresente toxicidade ao órgão-alvo específico por exposição
+salvo específicos – repetida.
+exposição repetida:
+Perigo por aspiração: Não é esperado que o produto apresente perigo por aspiração.
+12 - INFORMAÇÕES ECOLÓGICAS
+Efeitos ambientais, comportamento e impactos do produto
+Ecotoxicidade: Não é esperado que o produto apresente ecotoxicidade.
+CE50 (Crustáceos, 48h): 180 mg/L.
+Persistência e Em função da ausência de dados, espera-se que o produto apresente persistência e não seja
+degradabilidade: rapidamente degradado.
+Potencial Apresenta baixo potencial bioacumulativo em organismos aquáticos.
+bioacumulativo: log Kow: -0,21.
+Mobilidade no solo: Não determinada.
+Outros efeitos Não são conhecidos outros efeitos ambientais para este produto.
+adversos:
+13 - CONSIDERAÇÕES SOBRE DESTINAÇÃO FINAL
+Métodos recomendados para destinação final
+Produto: O tratamento e a disposição devem ser avaliados especificamente para cada produto. Devem ser
+consultadas legislações federais, estaduais e municipais, dentre estas: Lei n°12.305, de 02 de
+agosto de 2010 (Política Nacional de Resíduos Sólidos).
+Restos de produto: Manter restos do produto em suas embalagens originais e devidamente fechadas. O descarte deve
+ser realizado conforme o estabelecido para o produto.
+Embalagem usada: Não reutilize embalagens vazias. Estas podem conter restos do produto e devem ser mantidas
+fechadas e encaminhadas para descarte apropriado conforme estabelecido para o produto.
+14 - INFORMAÇÕES SOBRE TRANSPORTE
+Regulamentações nacionais e internacionais
+Terrestre: ANTT - Agência Nacional de Transportes Terrestres:
+• Resolução nº 5232 de 14 de dezembro de 2016: Aprova as Instruções Complementares
+ao Regulamento Terrestre do Transporte de Produtos Perigosos, e dá outras providências.
+Número ONU: 2031
+Nome apropriado para ÁCIDO NÍTRICO
+embarque:
+Classe ou subclasse de 8
+risco principal:
+Classe ou subclasse de 5.1
+risco subsidiário:
+
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+
+Número de risco: | | 85
+Grupo de embalagem: | | II
+Hidroviário: | | DPC - Diretoria de Portos e Costas: Transporte em águas brasileiras.- Normas de Autoridade
+Marítima:
+• NORMAM 01/DPC: Embarcações Empregadas na Navegação em Mar Aberto.
+• NORMAM 02/DPC: Embarcações Empregadas na Navegação Interior.- International
+Maritime Organization (Organização Marítima Internacional):
+• IMDG Code - International Maritime Dangerous Goods Code
+(Código Marítimo Internacional de Produtos Perigosos).
+ | | 
+Número ONU: | | 2031
+Nome apropriado para
+embarque: | | NITRIC ACID
+ | | 
+Classe ou subclasse de
+risco principal: | | 8
+ | | 
+Classe ou subclasse de
+risco subsidiário: | | 5.1
+ | | 
+Grupo de embalagem: | | II
+EmS: | | F-A,S-B
+Perigo ao Meio
+Ambiente: | | O produto não é considerado poluente marinho para o transporte.
+Aéreo: | | ANAC - Agência Nacional de Aviação Civil: Resolução n°129 de 8 de dezembro de 2009.N°175 -
+(Regulamento Brasileiro da Avianção Civil):
+• Transporte de Artigos Perigosos em Aeronaves Civis.
+• IS N° 175-001 - Instrução Suplementar.- International Civil Aviation Organization
+(Organização da Aviação Civil Internacional):
+• Doc 9284-NA/905.- International Air Transport Association (Associação Internacional de
+Transporte Aéreo):
+• DGR - Dangerous Goods Regulation (Regulação de Produtos Perigosos).
+ | | 
+Número ONU: | | 2031
+Nome apropriado para
+embarque: | | NITRIC ACID
+ | | 
+Classe ou subclasse de
+risco principal: | | 8
+ | | 
+Classe ou subclasse de
+risco subsidiário: | | 5.1
+ | | 
+Grupo de embalagem: | | II
+Medidas e condições
+específicas de
+precaução: | | Não aplicável
+ | | 
+15 - INFORMAÇÕES SOBRE REGULAMENTAÇÕES | 
+Regulamentações
+específicas para o
+produto químico: | Decreto Federal nº 10.088, de 5 de novembro de 2019.
+Portaria nº 229, de 24 de maio de 2011 - Altera a Norma Regulamentadora nº 26.
+Norma ABNT-NBR 14725.
+16 - OUTRAS INFORMAÇÕES
+Informações importantes, mas não especificamente descritas nas seções anteriores:
+FISPQ
+Em conformidade com NBR 14725
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Produto: ÁCIDO NÍTRICO 65% P.A
+Revisão: 04 Data: 25/01/2021 Página: 7/8
+Número de risco: 85
+Grupo de embalagem: II
+Hidroviário: DPC - Diretoria de Portos e Costas: Transporte em águas brasileiras.- Normas de Autoridade
+Marítima:
+• NORMAM 01/DPC: Embarcações Empregadas na Navegação em Mar Aberto.
+• NORMAM 02/DPC: Embarcações Empregadas na Navegação Interior.- International
+Maritime Organization (Organização Marítima Internacional):
+• IMDG Code - International Maritime Dangerous Goods Code
+(Código Marítimo Internacional de Produtos Perigosos).
+Número ONU: 2031
+Nome apropriado para NITRIC ACID
+embarque:
+Classe ou subclasse de 8
+risco principal:
+Classe ou subclasse de 5.1
+risco subsidiário:
+Grupo de embalagem: II
+EmS: F-A,S-B
+Perigo ao Meio O produto não é considerado poluente marinho para o transporte.
+Ambiente:
+Aéreo: ANAC - Agência Nacional de Aviação Civil: Resolução n°129 de 8 de dezembro de 2009.N°175 -
+(Regulamento Brasileiro da Avianção Civil):
+• Transporte de Artigos Perigosos em Aeronaves Civis.
+• IS N° 175-001 - Instrução Suplementar.- International Civil Aviation Organization
+(Organização da Aviação Civil Internacional):
+• Doc 9284-NA/905.- International Air Transport Association (Associação Internacional de
+Transporte Aéreo):
+• DGR - Dangerous Goods Regulation (Regulação de Produtos Perigosos).
+Número ONU: 2031
+Nome apropriado para NITRIC ACID
+embarque:
+Classe ou subclasse de 8
+risco principal:
+Classe ou subclasse de 5.1
+risco subsidiário:
+Grupo de embalagem: II
+Medidas e condições Não aplicável
+específicas de
+precaução:
+15 - INFORMAÇÕES SOBRE REGULAMENTAÇÕES
+Regulamentações Decreto Federal nº 10.088, de 5 de novembro de 2019.
+específicas para o Portaria nº 229, de 24 de maio de 2011 - Altera a Norma Regulamentadora nº 26.
+produto químico: Norma ABNT-NBR 14725.
+16 - OUTRAS INFORMAÇÕES
+Informações importantes, mas não especificamente descritas nas seções anteriores:
+
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+
+Esta FISPQ foi elaborada com base nos atuais conhecimentos sobre o manuseio apropriado do produto e sob as condições
+normais de uso, de acordo com a aplicação especificada na embalagem. Qualquer outra forma de utilização do produto que
+envolva a sua combinação com outros materiais, além de formas de uso diversas daquelas indicadas, são de
+responsabilidade do usuário. Adverte-se que o manuseio de qualquer substância química requer o conhecimento prévio de
+seus perigos pelo usuário. No local de trabalho cabe à empresa usuária do produto promover o treinamento de seus
+empregados e contratados quanto aos possíveis riscos advindos da exposição ao produto químico.
+Elaborada em agosto de 2019.
+Legendas e Abreviaturas:
+ACGIH - American Conference of Governmental Industrial Hygienists;
+CAS - Chemical Abstracts Service;
+CE50 - Concentração Efetiva 50%;
+IDLH - Immediately Dangerous to Life or Health;
+Kow - Coeficiente de partição octanol/água;
+NIOSH - National Institute for Occupational Safety and Health;
+NR - Norma Regulamentadora;
+ONU - Organização das Nações Unidas.
+Referências bibliográficas:
+BRASIL. MINISTÉRIO DO TRABALHO E EMPREGO (MTE). Norma Regulamentadora (NR) n°7: Programa de controle
+médico de saúde ocupacional. Brasília, DF. Jun. 1978.
+BRASIL. MINISTÉRIO DO TRABALHO E EMPREGO (MTE). Norma Regulamentadora (NR) n°15: Atividades e operações
+insalubres. Brasília, DF. Jun. 1978.
+GHS - GLOBALLY HARMONIZED SYSTEM OF CLASSIFICATION AND LABELLING OF CHEMICALS. 8th rev. ed. New
+York: United Nations, 2019.
+ACGIH - AMERICAN CONFERENCE OF GOVERNMENTAL INDUSTRIALS HYGIENISTS. TLVs® and BEIs®: Based on the
+Documentation of the Threshold Limit Values (TLVs®) for Chemical Substances and Physical Agents & Biological Exposure
+Indices (BEIs®). Cincinnati-USA, 2020.
+FISPQ
+Em conformidade com NBR 14725
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Produto: ÁCIDO NÍTRICO 65% P.A
+Revisão: 04 Data: 25/01/2021 Página: 8/8
+Esta FISPQ foi elaborada com base nos atuais conhecimentos sobre o manuseio apropriado do produto e sob as condições
+normais de uso, de acordo com a aplicação especificada na embalagem. Qualquer outra forma de utilização do produto que
+envolva a sua combinação com outros materiais, além de formas de uso diversas daquelas indicadas, são de
+responsabilidade do usuário. Adverte-se que o manuseio de qualquer substância química requer o conhecimento prévio de
+seus perigos pelo usuário. No local de trabalho cabe à empresa usuária do produto promover o treinamento de seus
+empregados e contratados quanto aos possíveis riscos advindos da exposição ao produto químico.
+Elaborada em agosto de 2019.
+Legendas e Abreviaturas:
+ACGIH - American Conference of Governmental Industrial Hygienists;
+CAS - Chemical Abstracts Service;
+CE50 - Concentração Efetiva 50%;
+IDLH - Immediately Dangerous to Life or Health;
+Kow - Coeficiente de partição octanol/água;
+NIOSH - National Institute for Occupational Safety and Health;
+NR - Norma Regulamentadora;
+ONU - Organização das Nações Unidas.
+Referências bibliográficas:
+BRASIL. MINISTÉRIO DO TRABALHO E EMPREGO (MTE). Norma Regulamentadora (NR) n°7: Programa de controle
+médico de saúde ocupacional. Brasília, DF. Jun. 1978.
+BRASIL. MINISTÉRIO DO TRABALHO E EMPREGO (MTE). Norma Regulamentadora (NR) n°15: Atividades e operações
+insalubres. Brasília, DF. Jun. 1978.
+GHS - GLOBALLY HARMONIZED SYSTEM OF CLASSIFICATION AND LABELLING OF CHEMICALS. 8th rev. ed. New
+York: United Nations, 2019.
+ACGIH - AMERICAN CONFERENCE OF GOVERNMENTAL INDUSTRIALS HYGIENISTS. TLVs® and BEIs®: Based on the
+Documentation of the Threshold Limit Values (TLVs®) for Chemical Substances and Physical Agents & Biological Exposure
+Indices (BEIs®). Cincinnati-USA, 2020.

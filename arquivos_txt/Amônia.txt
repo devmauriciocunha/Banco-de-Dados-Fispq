@@ -1,0 +1,830 @@
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTO QUÍMICO
+FISPQ
+No me do Produto: AMÔNIA (NH )
+3
+FIS PQ nº: 01 Rev.: 09
+Pág ina 1 de 19
+Data da última revisão: 06/10/2016.
+1. IDENTIFICAÇÃO
+Nome do produto: AMÔNIA (NH ).
+3
+Principais usos recomendados: Insumo na fabricação de produtos fertilizantes, farmacêutica e
+químicos. Utilizado como gás refrigerante nos processos de resfriamento de câmaras frigoríficas e ar
+condicionado industrial.
+Código Interno de Identificação do Produto: AMÔNIA ANIDRA (NH ).
+3
+Nome da empresa: QUIMITEC PRODUTOS QUÍMICOS LTDA
+Endereço: Estrada Venâncio Pereira Veloso, 606 – Jardim Primavera – Duque de Caxias – RJ
+Telefone da empresa: (21) 2676-1022, (21) 2676-1318, (21) 2776-2111.
+Telefone para emergências: (21) 98977-3330 (21) 96403-0634 ID: 55*91271*1
+E-mail: quimitec@quimitec.com.br
+Site: www.quimitec.com.br
+2. IDENTIFICAÇÃO DE PERIGOS
+Classificação de perigo do produto químico: Gás sob pressão - liquefeito,
+Toxicidade aguda - Categoria 4,
+Corrosão e irritação da pele – Categoria 1 A,
+Lesões oculares – Categoria 1 (1 A),
+Sensibilidade respiratória ou da pele – Categoria 1,
+Toxicidade sistêmica para certos órgãos – alvos: Exposição única – Categoria 1
+Toxicidade sistêmica para certos órgãos – alvos: Exposição repetida - Categoria 1
+Perigo ao meio ambiente aquático – Agudo - Categoria 1
+Sistema de classificação utilizado: Norma ABNT-NBR 14725:2009 – Versão corrigida 2:2010
+Sistema Globalmente Harmonizado para a Classificação e Rotulagem de Produtos Químicos, ONU.
+Outros perigos que não resultam em uma classificação: O produto não possui outros perigos.
+Efeitos do produto
+Efeitos adversos à saúde humana: Efeito tóxico à saúde humana, o contato com a Amônia líquida
+pode causar severas queimaduras nos olhos e na pele. Sua ação tóxica sobre as mucosas interrompe
+a respiração e impede a visão, mesmo a baixas concentrações. Pode causar queimadura e asfixia. A
+concentração de 500 ppm causa irritação na garganta. 2000 ppm é perigoso para pequena exposição
+e 5000 ppm pode ser fatal até mesmo no caso de breve exposição.
+Inalação: A inalação da Amônia gasosa, em grandes concentrações, pode causar morte.
+1 CÓPIA NÃO CONTROLADA
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTO QUÍMICO
+FISPQ | FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTO QUÍMICO
+ | FISPQ
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTO QUÍMICO
+FISPQ
+No me do Produto: AMÔNIA (NH )
+3
+FIS PQ nº: 01 Rev.: 09
+Pág ina 2 de 19
+Data da última revisão: 06/10/2016.
+Contato com os olhos: Amônia líquida pode causar severas queimaduras nos olhos e impede a visão,
+mesmo a baixas concentrações e na fase gasosa.
+Contato com a pele: Amônia líquida é um irritante cutâneo que pode provocar queimaduras na pele.
+Ingestão: Causa corrosão e dano imediato ao trato gastrintestinal.
+Queimadura: A amônia líquida pode provocar queimaduras na pele.
+Efeitos ambientais: Por ser muito solúvel em água e, mesmo em concentrações baixas, torna-se
+prejudicial à vida aquática. Animais expostos poderão sofrer danos teciduais e serem levados à
+morte. Queima as plantas por desidratação.
+Perigos físicos e químicos: A amônia é um produto alcalino que libera calor quando reage com ácido.
+Em contato com Halogênios, Boro, Alquil Sulfatos 1.2 Dicloroetano, Óxidos de Etileno, Platina,
+Triclorato de Nitrogênio e fortes oxidantes, pode causar reações extremamente exotérmicas ou
+explosivas. Em contato com metais pesados e seus compostos pode formar produtos explosivos. Em
+contato com cloro e seus compostos pode resultar a liberação de gás cloroamina. A amônia pode
+produzir significativa mistura explosiva quando em contato com hidrocarbonetos. O produto também
+é incompatível com aldeído acético, acroleína, hidrazina, ferrocianeto de potássio.
+Perigos específicos: A amônia se vaporiza rapidamente. O gás é mais leve do que o ar. A amônia é
+estável quando armazenada e usada sob condições normais de estocagem e manuseio. Acima de 450
+ºC pode decompor-se, liberando Nitrogênio e Hidrogênio, este último é altamente inflamável. Não
+ocorre polimerização.
+Principais sintomas: A inalação pode causar dificuldade respiratória, bronco espasmo, queimaduras
+nas mucosas da boca, faringe e laringe, constrição e dor torácica e salivação. Dependendo da
+concentração e do tempo de exposição, o quadro respiratório pode evoluir com edema e espasmo
+de glote, asfixia, cianose edema pulmonar, parada respiratória e morte. O contato da Amônia líquida
+com a pele pode causar queimaduras graves. A exposição dos olhos à Amônia na forma gasosa pode
+causar lacrimejamento, vermelhidão e inchamento das pálpebras. Os acidentes com Amônia líquida
+nos olhos são sempre graves, podendo causar perda permanente da visão. A exposição repetida ao
+produto pode causar bronquite crônica.
+Os sintomas de intoxicação por amônia iniciam-se com a irritação dos olhos, nariz e garganta, seguida
+de tosse, sufocação, dor no peito e vômitos.
+2 CÓPIA NÃO CONTROLADA
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTO QUÍMICO
+FISPQ | FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTO QUÍMICO
+ | FISPQ
+ELEMENTOS
+APROPRIAD
+OS DA
+ROTULAGEM | DADOS
+Identificação
+do produto e
+telefone de
+emergência
+do
+fornecedor | Nome comercial: AMÔNIA (NH3)
+Sinônimo: AMÔNIA ANIDRA, GÁS AMONÍACO.
+Telefone de emergência: (21) 2676-1022 (21)2676-1318
+Composição
+química | AMÔNIA ANIDRA (NH3)
+Pictogramas
+de perigo | 
+Palavra de
+advertência | PERIGO
+Frase de
+perigo | Contém gás sob pressão: Pode explodir sob ação do calor.
+Nocivo se ingerido.
+Fatal se inalado.
+Provoca queimadura severa à pele e danos aos olhos.
+Provoca lesões oculares.
+Quando inalado provoca dificuldade respiratórias.
+Muito tóxico para os organismos aquáticos.
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTO QUÍMICO
+FISPQ
+No me do Produto: AMÔNIA (NH )
+3
+FIS PQ nº: 01 Rev.: 09
+Pág ina 3 de 19
+Data da última revisão: 06/10/2016.
+Classificação de perigo do produto químico e sistema de classificação usado: Gás tóxico.
+NFPA (National Fire Protection Association)
+Saúde: 3
+Inflamabilidade: 1
+Reatividade: 0
+Risco Específico: Corrosivo
+Visão geral de emergências: Dependendo das proporções, isole e evacue a área. Procure bloquear o
+vazamento ou transferir o produto. Fique no sentido oposto ao vento. O acesso de pessoas à área
+contaminada só deve ser permitido se estiverem usando roupas de proteção química e máscara com
+suplemento de ar.
+ELEMENTOS DADOS
+APROPRIAD
+OS DA
+ROTULAGEM
+Identificação Nome comercial: AMÔNIA (NH3)
+do produto e Sinônimo: AMÔNIA ANIDRA, GÁS AMONÍACO.
+telefone de Telefone de emergência: (21) 2676-1022 (21)2676-1318
+emergência
+do
+fornecedor
+Composição AMÔNIA ANIDRA (NH3)
+química
+Pictogramas
+de perigo
+Palavra de PERIGO
+advertência
+Frase de Contém gás sob pressão: Pode explodir sob ação do calor.
+perigo Nocivo se ingerido.
+Fatal se inalado.
+Provoca queimadura severa à pele e danos aos olhos.
+Provoca lesões oculares.
+Quando inalado provoca dificuldade respiratórias.
+Muito tóxico para os organismos aquáticos.
+3 CÓPIA NÃO CONTROLADA
+Frases de
+precaução | Armazene em local bem ventilado.
+Não coma, beba ou fume durante a utilização desse produto.
+Não inale os gases.
+Utilize apenas ao ar livre ou em locais bem ventilados.
+Use equipamento de proteção respiratória.
+Use luvas de proteção e proteção ocular.
+Evite a liberação para o meio ambiente.
+Outras
+informações | Ficha de Informações de Segurança de Produtos Químicos (FISPQ)
+deste produto químico perigoso pode ser solicitada via telefone, e-mail.
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTO QUÍMICO
+FISPQ
+No me do Produto: AMÔNIA (NH )
+3
+FIS PQ nº: 01 Rev.: 09
+Pág ina 4 de 19
+Data da última revisão: 06/10/2016.
+Frases de Armazene em local bem ventilado.
+precaução Não coma, beba ou fume durante a utilização desse produto.
+Não inale os gases.
+Utilize apenas ao ar livre ou em locais bem ventilados.
+Use equipamento de proteção respiratória.
+Use luvas de proteção e proteção ocular.
+Evite a liberação para o meio ambiente.
+Outras Ficha de Informações de Segurança de Produtos Químicos (FISPQ)
+informações deste produto químico perigoso pode ser solicitada via telefone, e-mail.
+3. COMPOSIÇÃO E INFORMAÇÕES SOBRE OS INGREDIENTES
+Substância
+Ingredientes ou impurezas que contribuem para o perigo: Amônia (CAS 7664-41-7)
+Nome químico comum ou nome genérico: AMÔNIA ANIDRA (NH ).
+3
+Sinônimo: AMÔNIA ANIDRA (NH ).
+3
+Concentração: NH3 99,99%
+Chemical Abstract Service (nº CAS): 7664-41-7
+Ingredientes que contribuam para o perigo - Fórmula: NH
+3
+Nomeclatura Comum do Mercusul – NCM: 28.14.10.00
+4. MEDIDAS DE PRIMEIROS-SOCORROS
+Inalação: Tomar precauções ao socorrer a vítima. Usar equipamentos de proteção apropriados.
+Remova a fonte de contaminação ou transporte a vítima para local arejado. Se houver dificuldades
+respiratórias, respiração artificial deve ser introduzida por pessoal habilitado. NÃO permitir que a
+vítima se mova desnecessariamente. Os sintomas edema pulmonar podem ser retardados em até 48
+horas, após a exposição. Manter em repouso. Transporte a vítima IMEDIATAMENTE para um hospital.
+Contato com os olhos: O atendimento imediato é fundamenta para evitar a cegueira. Evitar o
+contato direto com a substância. Utilizar equipamentos de proteção individual ao socorrer a vítima.
+Aplique o agente neutralizar (Diphoterine). Em caso de não disponibilidade do produto, lave o (s)
+olho (s) contaminado (s) deixando a água fluir por, pelo menos, 20 minutos ou até que a substância
+tenha sido removida. Cobrir ambos olhos com gaze estéril para evitar que a vítima esfregue os olhos.
+Não permita que a vítima beba álcool ou fume. Transporte a vítima IMEDIATAMENTE para um
+hospital.
+4 CÓPIA NÃO CONTROLADA
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTO QUÍMICO
+FISPQ | FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTO QUÍMICO
+ | FISPQ
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTO QUÍMICO
+FISPQ
+No me do Produto: AMÔNIA (NH )
+3
+FIS PQ nº: 01 Rev.: 09
+Pág ina 5 de 19
+Data da última revisão: 06/10/2016.
+Ingestão: A via oral não é uma via de exposição para gases, porém pode ocorrer queimaduras na
+boca, faringe, esôfago e estômago.
+Sintomas e efeitos mais importantes, agudos e tardios: O gás amônia é extremamente irritante as
+vias respiratórias. O odor pode ser percebido e concentrações que se situam entre 0,6 a 53 ppm. Os
+trabalhadores que são repetidamente expostos a amônia podem desenvolver tolerância ( ou
+aclimatização) aos efeitos irritantes após umas poucas semanas. Tolerância significa que níveis mais
+altos de exposição são necessários para produzir efeitos anteriormente observados em
+concentrações mais baixas. O contato de níveis elevados de gás amônia com a umidade da pele
+produz hidróxido de amônio que é corrosivo. Em concentrações de ordem de 1.000 ppm, a amônia é
+moderadamente irritante apele úmida. Em concentrações da ordem de 20.000 ppm os efeitos são
+mais pronunciados e em níveis de 30.000 ppm, pode haver a produção de queimaduras com bolhas.
+Se a via de exposição fosse a respiratória, esses mesmos níveis seriam fatais. O contato direto com o
+gás liquefeito pode causar queimaduras, com dormência e coceiras na área afetada. A pele pode
+tornar-se branca ou amarelada, com aspecto de cera. Pústulas, morte do tecido e gangrena também
+foram relatados nos casos mais severos. Contato direto da pele através de esguicho de gás amônia
+liquefeito, pode resultar em queimaduras corrosivas. Cicatrizes permanentes da pele podem ocorrer.
+O contato com os olhos causa irritação e lacrimejamento, queimaduras, visão turva e até perda
+completa da visão.
+Notas para o médico: Gás amônia é um gás extremamente irritante para a pele e olhos. O gás
+dissolve na umidade da pele formando hidróxido de amônio que é corrosivo. Pode causar perda
+completa da visão após contato com o gás liquefeito. Pode ser fatal se inalado. Pode causas edema
+pulmonar cujos sintomas podem ser retardados em até 48 horas após a exposição.
+5. MEDIDAS DE COMBATE A INCÊNDIO
+Meios de extinção: A amônia não é considerada inflamável. Usar os meios de extinção apropriados
+para o ambiente atingido. Se a amônia gás estiver queimando, usar pó químico seco ou dióxido de
+carbono para pequenos incêndios; para grandes incêndios, usar névoa de água, neblina ou espuma.
+AÇÃO DE EMERGÊNCIA: evacuar a área e combater o fogo à maior distância possível ou local
+protegido, à prova de explosão. Combater o fogo com o vento pelas costas, para evitar vapores
+perigosos de produtos de decomposição. Se o vazamento tiver incendiado, o melhor procedimento é
+interromper o vazamento do gás antes de tentar extinguir o fogo. É EXTREMAMENTE PERIGOSO
+combater o fogo enquanto houver vazamento de gás. Este pode formar misturas explosivas com o ar
+e reinflamar, que pode causar ainda mais danos, que se o incêndio original estivesse queimando. Em
+alguns casos, extinguir o fogo com dióxido de carbono ou pó químico seco; pode ser importante para
+5 CÓPIA NÃO CONTROLADA
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTO QUÍMICO
+FISPQ | FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTO QUÍMICO
+ | FISPQ
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTO QUÍMICO
+FISPQ
+No me do Produto: AMÔNIA (NH )
+3
+FIS PQ nº: 01 Rev.: 09
+Pág ina 6 de 19
+Data da última revisão: 06/10/2016.
+interromper o fluxo de gás. No entanto, isso deve ser feito cuidadosamente. Usar névoa de água para
+proteger a equipe e tentar interromper o vazamento. Nuvens de gás podem ser controlados por
+névoa de água ou neblina. Se possível, isolar os materiais ainda não envolvidos no fogo e proteger a
+equipe. Remover os recipientes da área do fogo, se isso puder ser feito sem risco. Decomposição
+explosiva pode ocorrer em condições de incêndio. Usar extremos cuidados, uma vez que pode haver
+ruptura dos containeres. Além disso, os containeres, tanques ou dutos expostos AP fogo devem ser
+resfriados pela aplicação de grandes quantidades de água, e deve começar o mais rápido possível
+(dentro dos primeiros minutos) e deve concentrar-se nas porções secas dos containeres. Cuidar para
+não bloquear a válvula de alívio de pressão. Retirar-se imediatamente, caso aumente o barulho do
+dispositivo de segurança/alívio ou ocorrendo qualquer descoloração do tanque devido ao fogo.
+Perigos específicos: Flutua sobre a água, produzindo uma visível e tóxica poeira de vapor. É um gás
+tóxico sob condições ambiente. Não é considerado um gás inflamável, mas uma grande quantidade e
+intensa fonte de energia pode causar ignição e/ou explosão. Pode decompor-se a altas temperaturas
+formando hidrogênio muito inflamável e dióxido de nitrogênio tóxico. GÁS COMPRIMIDO. Risco de
+intoxicação e explosão em espaços confinados. GÁS CORROSIVO. Pode ser fatal se inalado. O gás
+liquefeito pode causar rachaduras na pele e corrosão aos olhos e pele.
+Obs.: A amônia não é considerado uma substância com sério risco de incêndio ou explosão, porque
+as misturas amôniar-se são difíceis de se inflamar e são necessárias altas concentrações de gás. No
+entanto, uma grande quantidade e intensa fonte de energia pode causar ignição e/ou explosão,
+particularmente em ambientes confinados. A faixa de concentração para ser combustível ou
+inflamável/explosiva tem sido relatada em várias fontes entre 15 a 28%. A faixa de explosividade é
+aumentada para 15 a 17% pela mistura com gases combustíveis ou inflamáveis (como o hidrogênio) a
+altas temperaturas e pressão. A presença de óleo ou materiais combustíveis aumentam o risco de
+incêndio e a presença de ferro, diminuindo a temperatura de ignição de 850 para 651°C. Dióxido de
+nitrogênio irritante e tóxico podem-se formar durante incêndio, no ar. Containeres podem romper-se
+violentamente devido a superpressurização, se exposto ao fogo ou calor excessivo, pó um período de
+tempo suficiente, liberando gases inflamáveis e tóxicos. Explosões da mistura ar/amônia tem
+ocorrido em espaços confinados.
+Medidas de proteção da equipe de combate a incêndio: Em situação de emergência, plano de
+entrada ao local com concentração desconhecida da substância ou em condições de IPVS
+(Imediatamente perigoso à vida e a saúde), não entrar na área sem estar usando equipamento
+especializado, adequado para a situação. Vestimentas usuais de combate ao fogo não são eficientes
+com a substância. Usar roupas que confiram proteção química, equipamento autônomo de
+respiração, máscara inteira, pressão positiva ou respirador com fornecimento de ar, máscara inteira,
+pressão positiva com um equipamento autônomo de respiração pressão positiva auxiliar.
+Equipamento autônomo de respiração e roupas protetoras contra produtos químicos,
+especificamente recomendado pelo fabricante, podem ser usados, mas não oferecem proteção
+térmica, a não ser que isso seja especificado pelo fabricante das mesmas. Deverão ser usadas roupas
+6 CÓPIA NÃO CONTROLADA
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTO QUÍMICO
+FISPQ | FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTO QUÍMICO
+ | FISPQ
+Pequenos Derramamentos
+Proveniente de embalagens pequenas (cilindros) ou um
+pequeno vazamento na linha | | | Grandes Derramamentos
+Provenientes de um tanque grande ou de diversas embalagens
+pequenas (cilindros) | | 
+Primeiro, ISOLE,
+em todas as direções | DIA | NOITE | Primeiro, ISOLE,
+em todas as direções | DIA | NOITE
+30 metros | 100
+metros | 100 metros | 60 metros | 600
+metros | 2,2 Km
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTO QUÍMICO
+FISPQ
+No me do Produto: AMÔNIA (NH )
+3
+FIS PQ nº: 01 Rev.: 09
+Pág ina 7 de 19
+Data da última revisão: 06/10/2016.
+de proteção adequada resistente a substância química com encapsulamento completo (aprovado por
+MSHA/NIOSH ou equivalente), em caso de derramamento ou vazamento sem fogo. Respiradores
+purificadores de ar não protegem contra a deficiência de oxigênio atmosférico.
+6. MEDIDAS DE CONTROLE PARA DERRAMAMENTO OU VAZAMENTO
+Precauções pessoais
+Para o pessoal que não faz parte dos serviços de emergência: Utilize equipamentos de proteção
+individual, principalmente proteção respiratória como máscara autônoma e ainda luvas de PVC.
+Para o pessoal de serviço de emergência: Equipamentos autônomos de respiração de máscara
+inteira com fornecimento de ar e roupas protetoras contra produtos químicos, especificamente
+recomendado pelo fabricante, podem ser usados.
+Precauções ao meio ambiente
+Método e materiais para a contenção e limpeza: AR- utilize névoa de água para impedir a
+propagação dos vapores. Solo – Se líquido, absorva-o com areia, terra seca ou mistura 1:1:1 de
+carbonato de sódio, bentonita e areia. O material adsorvente utilizado no derrame deve ser recolhido
+e neutralizado com HCI 5%. Utilizando barreiras, espumas de poliuretano ou de concreto ou sacos de
+areia impeça o líquido de atingir os corpos d´água. Se necessário e se houver tempo hábil construa
+uma lagoa de contenção. Se sólido recolha o material, colocando-o em containeres para posterior
+neutralização ou reutilização. Cubra o material sólido derramado para evitar a sua lixiviação por ação
+das chuvas.
+Atenção: A água que entrou em contato com o material é corrosiva ÁGUA – limite a extensão de
+derramamento com bóias de contenção ou barreiras naturais. Neutralize com ácidos diluídos
+(clorídrico 5%).
+Diferença na ação de grandes e pequenos vazamentos:
+Observar a direção do vento. Proteja as pessoas no sentido oposto ao vento, saindo da área do
+acidente abaixado evitando contato com a nuvem produzida pelo vazamento do produto:
+Pequenos Derramamentos Grandes Derramamentos
+Proveniente de embalagens pequenas (cilindros) ou um Provenientes de um tanque grande ou de diversas embalagens
+pequeno vazamento na linha pequenas (cilindros)
+Primeiro, ISOLE, DIA NOITE Primeiro, ISOLE, DIA NOITE
+em todas as direções em todas as direções
+30 metros 100 100 metros 60 metros 600 2,2 Km
+metros metros
+7 CÓPIA NÃO CONTROLADA
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTO QUÍMICO
+FISPQ
+No me do Produto: AMÔNIA (NH )
+3
+FIS PQ nº: 01 Rev.: 09
+Pág ina 8 de 19
+Data da última revisão: 06/10/2016.
+7. MANUSEIO E ARMAZENAMENTO
+Medidas técnicas apropriadas para o manuseio
+Precauções para o manuseio seguro: Cuidados ao manipular o produto. Trata-se de gás comprimido.
+Líquido sob pressão. Gás corrosivo. Evitar contato com materiais incompatíveis como agentes
+oxidantes, halogênios e materiais pesados. Vide idem estabilidade e reatividade – substâncias e
+materiais incompatíveis. Etiquetar bem os cilindros. Mantê-los bem fechados. Evitar danos físicos nos
+containeres. Abrir a válvula do cilindro vagarosamente para prevenir rápida descompressão e dano a
+válvula. Manter as válvulas dos cilindros sempre limpas e livre de contaminantes. Abrir e fechar as
+válvulas pelo menos uma vez ao dia, enquanto o cilindro estiver em uso para evitar freezing da
+válvula. Manter os cilindros vazios sob pressão levemente positiva. Não utilizar os cilindros para
+outras finalidades.
+Medidas de higiene: lave bem as mãos antes de comer, beber, fumar ou ir ao banheiro. Roupas
+contaminadas devem ser trocadas e lavadas antes de sua reutilização.
+Condições de armazenagem seguro, incluindo qualquer incompatibilidade
+Prevenção de incêndio e explosão: Evitar a liberação do gás para o ambiente de trabalho. Ao
+manipular o gás amônia verificar sempre a compatibilidade da amônia com substâncias com as quais
+irá entrar em contato com agentes oxidantes, halogêneos e metais pesados. Vide idem estabilidade e
+reatividade – substâncias e materiais incompatíveis Usar o tipo de contêiner recomendado pelo
+fabricante. Não trabalhar perto de fontes de ignição como fogo, faísca, chama aberta, superfícies
+aquecidas etc. inspecionar os recipientes quanto a danos ou vazamentos antes de manuseá-los. Usar
+de sistema de ventilação que não gere faísca e sistema elétrico seguro na área de manuseio. Manter
+bem acessíveis os equipamentos de combate a incêndio, derramamento e vazamento. Para
+operações em grande escala a instalação de um sistema de detecção de vazamento e fogo
+juntamente com um sistema automático de supressão de fogo é necessária. Manter as saídas de
+emergência livre de obstruções.
+Condições adequadas: Armazenar em local fresco e seco e bem ventilado e afastado de fontes de
+calor e de ignição. Manter as quantidades máximas em estoque e dentro da faixa de temperatura
+recomendada pelo fabricante/fornecedor: entre -29°C e 52°C. A área de armazenamento deve estar
+claramente identificada, livre de obstruções e acessível somente a pessoas autorizadas. A área de
+armazenamento deve estar separada da área de trabalho, de elevadores, de locais de trânsito de
+pessoas (portas, escadas etc.). O assoalho deve ser vedado. Inspecionar a área regularmente para
+identificar quaisquer danos ao local prevenindo acidentes. Siga todas as recomendações para
+armazenamento seguro.
+8 CÓPIA NÃO CONTROLADA
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTO QUÍMICO
+FISPQ
+No me do Produto: AMÔNIA (NH )
+3
+FIS PQ nº: 01 Rev.: 09
+Pág ina 9 de 19
+Data da última revisão: 06/10/2016.
+Condições de armazenamento – Produtos e materiais a evitar – Agentes oxidantes: percloratos,
+cloratos, peróxido de hidrogênio, trióxido de crôio, óxidos de nitrogênio, ácido nítrico e cloreto de
+nitrila, haleatos de boro, ácidos, anidridos ácidos.
+Halogênios: Cloro, bromo, flúor ou interhalogenios (pentafluoreto de bromo, trifluoreto de cloro).
+Metais pesados e seus sais: compostos de ouro, compostos de prata e mercúrio; dicloreto de
+enxofre, compostos de telúrio, óxido de etileno, ácido hipocloroso, azida, pentaborano, estibina; 2-
+nitro, 4-nitro, 2,4-dinitro clorobenzeno, acetaldeído, cálcio.
+Materiais de embalagem: Material especifico compatível com a amônia; tubulação aço carbono –
+ASTM A106, tanques aço carbono – normalizado – ASTM A 285/A 515/A 516)
+8. CONTROLE DE EXPOSIÇÃO E PROTEÇÃO INDIVIDUAL
+Parâmetros de controle
+Limites de exposição ocupacional: NR15-LEO: 20 ppm (14 mg/m³). Grau de insalubridade: médio
+ACGIH: ACGIH –TLVs: 25 ppm (17 mg/m³) TWA; 35 ppm STEL; - efeito crítico: irritação.
+NIOSH: NIOSH-RELs: 25 ppm (18 mg/m³) TWA; 35 ppm STEL; 27 mg/m³ (CEIL)
+OSHA: OSHA-RELs: 50 ppm (35 mg/m³) TWA
+Indicadores biológicos: NR7: NR7-IBE: Não estabelecido, porém de acordo com a NR7 – 7.4.2.2 – Para
+os trabalhadores expostos a agentes químicos não constantes dos quadros I e II da referida NR-7,
+outros indicadores biológicos poderão ser monitorizados, dependendo de estudo prévio dos aspectos
+de validade toxicológica, analítica e de interpretação desses indicadores.
+ACGIH: ACGIH 2000: Determinante biológico de exposição não estabelecido.
+Outros limites e valores: DFG – MAKs: 20 ppm (14mg/m³) TWA; Peak I
+Medidas de controle de engenharia: Os métodos de engenharia para controlar as condições de risco
+são preferidos. Os métodos incluem: ventilação mecânica (diluição e exaustão local), processos
+confinados, controle das condições e modificações do processo (substituição da substância por outra
+de menor risco). Devido ao elevado risco associado à amônia devem ser tomadas rigorosas medidas
+de controle para prevenir a liberação de gases e vapores da substância para o ambiente de trabalho
+(como operações de confinamento). Utilizar sistema de ventilação que não gere faísca, separado dos
+outros sistemas. Exaustão direta para o meio externo.
+Medidas de proteção individual
+Proteção dos olhos/face: Óculos de segurança contra produtos químicos e/ou protetores faciais
+Proteção da pele e do corpo: Roupas de PVC e botas
+9 CÓPIA NÃO CONTROLADA
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTO QUÍMICO
+FISPQ
+No me do Produto: AMÔNIA (NH )
+3
+FIS PQ nº: 01 Rev.: 09
+Pág ina 10 de 19
+Data da última revisão: 06/10/2016.
+Proteção respiratória: Máscara Panorama com filtro NH₃ ou combinado. Para grande concentração
+do produto, utilizar máscara autônoma (pressão positiva) ou máscara com as mandado.
+ATENÇÃO! Máscara com filtro mecânico não protege o trabalhador exposto à atmosfera deficiente
+de oxigênio.
+Perigos térmicos: Não apresenta perigos térmicos.
+09. PROPRIEDADES FÍSICO-QUÍMICAS
+Aspecto (Estado físico e cor) : Gasoso ou líquido sob pressão. Incolor.
+Odor e limite de odor: Extremamente penetrante, pungente, intensivamente irritante, sufocante. O
+odor pode ser percebido em concentrações que se situam entre 0,6 a 53ppm.
+pH: 11,6 (1,0N); 11,1 (0,1N); 10,6 (0,01N) – soluções em água a 25°C.
+Ponto de fusão/ponto de congelamento: -77,73°C
+Ponto de ebulição inicial e faixa de temperatura de ebulição: - 33,35°C
+Ponto de fulgor: Não aplicável
+Taxa de evaporação: Não aplicável (gás)
+Inflamabilidade(sólido; gás): 133°C
+Limite inferior/superior de Inflamabilidade ou explosividade: 16-25%
+Pressão de vapor: 8,5 atm (20°C), 10,2 atm (25°C) – anidro, 2.9 atm (25°C) – solução aquosa 28%
+Densidade de vapor: 0,597 a 25°C (ar=1)
+Densidade relativa: Densidade relativa (gravidade específica): 0,707 a 25°C; 0,609 a 21,1° (liquido)
+(água=1)
+Solubilidade(s): Em água: 42,8% (v/v) a 0°C; 34% (v/v) a 25°C
+Em etanol: 20% (v/v) a 0°C; 10% (v/v) a 25°C
+Em metanol: 16% (v/v) a 25°C
+Solúvel em clorofórmio e éter
+Coeficiente de partição – n- : Log Kow = 0,23 (estimado)
+Octonal/água: Log Koc = 1.155 (estimado)
+Temperatura de autoignição: 651°C
+Temperatura de decomposição: 450°C
+Viscosidade: Viscosidade dinâmica: 0,000982 mPa.s (0,00982 centipoise) a 20°C
+Outras informações: pKa = 9,25 (25°C)
+Peso molecular: 17,03
+Substância higroscópica
+Apesar de possuir limites de explosividade deve prioritariamente ser tratada como gás tóxico, não
+devendo ser aquecido.
+10 CÓPIA NÃO CONTROLADA
+ESPECIFICAÇÕES TÉCNICAS PARA NH
+3 | | | | | | | | | 
+TEOR NH
+3 | | | | ASPECTO | UMIDADE | | | | H S
+2
+Padrão | | Mínimo | Máximo | | | Mínimo | | Máximo | 
+99,99% | | 99,95% | 100% | Gás | 0.000% | | 0.050% | | ISENTO
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTO QUÍMICO
+FISPQ
+No me do Produto: AMÔNIA (NH )
+3
+FIS PQ nº: 01 Rev.: 09
+Pág ina 11 de 19
+Data da última revisão: 06/10/2016.
+ESPECIFICAÇÕES TÉCNICAS PARA NH
+3
+TEOR NH UMIDADE
+3
+ASPECTO H S
+2
+Padrão Mínimo Máximo Mínimo Máximo
+99,99% 99,95% 100% Gás 0.000% 0.050% ISENTO
+Documentos de Referências e fontes de consulta: Manual de Amônia – MOPE/IBP – Capítulo I-6 –
+Pág. 13; ABNT NBR 5772 – Dezembro/80; ABNT NBR 5773 – Dezembro/77; ABNT NBR 5775 –
+Dezembro/80; ABNT NBR 9430 – Julho/86.
+10. ESTABILIDADE E REATIVIDADE
+Estabilidade e reatividade: Produto estável quando respeitado as condições de armazenagem e
+manuseio. Decompões-se em hidrogênio e nitrogênio a cerca de 450-500°C. A decomposição ocorre a
+temperaturas mais baixas na presença de metais como o ferro, níquel, zinco e em menor extensão,
+superfícies catalíticas como porcelana e pedra-pomes. Na presença de catalisadores, a decomposição
+inicia-se abaixo de 300°C e completa-se a 500-600°C. Sensibilidade ao impacto mecânico: não
+sensível, material estável. Sensibilidade à carga estática: a amônia liquefeita não acumula carga
+estática, uma vez que sua condutividade elétrica é alta. Condutividade elétrica: 1,3x10⁷ p S/m (-79°C);
+3x10⁹ p S/m (comercial -35°C). Energia mínima de ignição: 680 milijoules. Corrosividade a metais: a
+amônia não é corrosiva à maioria dos metais comuns, como o ferro fundido, aço, aço inoxidável,
+cobre e suas ligas, níquel e suas ligas e alumínio. Na presença de vapores de água ou umidade, ataca
+cobre, prata, estanho, zinco e suas ligas e superfícies galvanizadas.
+OBS.: Se decompõe a nitrogênio e gases hidrogênio inflamável quando exposto a descarga elétrica.
+Considerável calor é envolvido quando o gás amônia é dissolvido em água. Aproximadamente 2.180
+Kilojoules (520 Kcal) do calor são envolvidos quando 1Kg de amônia gás é dissolvida.
+Possibilidade de reações perigosos: pode reagir violentamente ou explosivamente com agentes
+oxidantes fortes como os percloratos, cloratos, peróxido de nitrogênio, trióxido de cromo, óxidos de
+nitrogênio, ácido nítrico, cloreto de nitrila ou ácidos, anidridos ácidos, cloretos ácidos. Pode reagir
+violentamente ou formar produtos explosivos com halogênios como cloro, bromo, flúor ou
+interhalogênios como pentafluoreto de bromo, tetrafuoreto de cloro. Pode formar compostos
+choques-sensíveis que podem explodir quando secos como os metais pesados e seus sais como
+compostos de ouro – cloreto, óxidos e outros sais – compostos de prata ou mercúrio. Explosão sob
+aquecimento pode surgir pela formação de nitritos quando reage com dicloreto de enxofre,
+tetrabrometo de telúrio e tetracloreto de telúrio. O óxido de etileno pode polimerizar-se
+explosivamente em contato com a amônia. Explode em contato com ácido hipocloroso, produzindo
+cloro. Reage violentamente e explosivamente com cloreto de tiotririazil ou tetrametilamida. Pode
+reagir com o cálcio com evolução de calor, incendiando-se a altas temperaturas. Reações violentas
+11 CÓPIA NÃO CONTROLADA
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTO QUÍMICO
+FISPQ
+No me do Produto: AMÔNIA (NH )
+3
+FIS PQ nº: 01 Rev.: 09
+Pág ina 12 de 19
+Data da última revisão: 06/10/2016.
+com produção de altas pressões e explosões podem ocorrer quando reage com 2-nitro, 4-nitro, ou
+2,4-dinitro clorobenzeno. Reage violentamente com acetaldeido.
+Condições a serem evitadas: Evitar umidade, fagulhas, fontes de ignição, descarga elétrica, materiais
+inflamáveis ou substancias incompatíveis. Evitar temperaturas extremas (acima de 52°C e abaixo de -
+29°C).
+Materiais incompatíveis: Halogênios, boro, 1,2 dicloroetano, óxidos de etileno, platina, triclorato de
+nitrogênoo, oxidantes fortes. O produto é também incompatível com acrofeína, hidraxina,
+ferrocianeto de potássio, ácidos minerais não oxidantes, ácido sulfúrico, ácido nítrico, ácido orgânico,
+amida, anidridos orgânicos, isocianatos, acetato de vinila, óxidos de alcenos (etileno, propileno),
+epicloridrina, aldeídos, éteres, ouro, cobre. As combinações com mercúrio são altamente explosivas.
+Produtos perigosos da decomposição: Decompõe-se em hidrogênio e nitrogênio a cerca de 450-
+500°C. Tem sido relatado que os principais produtos de combustão no ar a temperaturas igual ou
+superior a 780°C são o nitrogênio e a água, com pequenas quantidades de dióxido de nitrogênio e
+nitrato de amônia.
+11. INFORMAÇÕES TOXICOLÓGICAS
+Toxicidade aguda: É extremamente irritante para as vias respiratórias. O odor pode ser percebido em
+concentrações entre 0,6 a 53ppm.
+ACGIH: LC50= 7338 ppm (1h, rato); LD50 Oral = 350 mg/kg (rato)
+Corrosão/irritação à pele: O contato de níveis elevados de gás amônia com a umidade da pele
+produz hidróxido de amônia. Em concentrações de ordem de 1.000 ppm, a amônia é
+moderadamente irritante apele úmida. Em concentrações da ordem de 20.000 ppm os efeitos são
+mais pronunciados e em níveis de 30.000 ppm, pode haver a produção de queimaduras com bolhas.
+Se a via de exposição fosse a respiratória, esses mesmos níveis seriam fatais. O contato direto com o
+gás liquefeito pode causar queimaduras, com dormência e coceiras na área afetada. A pele pode
+tornar-se branca ou amarelada, com aspecto de cera. Pústulas, morte do tecido e gangrena também
+foram relatados nos casos mais severos. Contato direto da pele através de esguicho de gás amônia
+liquefeito, pode resultar em queimaduras corrosivas. Cicatrizes permanentes da pele podem ocorrer.
+Lesões oculares graves /irritação ocular: A exposição do produto com os olhos a 72 ppm foi
+considerada irritante por uns poucos voluntários e a exposição a 134 ppm resultou em irritação e
+lacrimejamento. Exposição a níveis da ordem de 700 ppm o gás é extremamente irritante, com ação
+imediata. O contato direto com o gás liquefeito pode causar queimadura, corrosão dos olhos, visão
+turva e até perda completa da visão.
+12 CÓPIA NÃO CONTROLADA
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTO QUÍMICO
+FISPQ | FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTO QUÍMICO
+ | FISPQ
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTO QUÍMICO
+FISPQ
+No me do Produto: AMÔNIA (NH )
+3
+FIS PQ nº: 01 Rev.: 09
+Pág ina 13 de 19
+Data da última revisão: 06/10/2016.
+Sensibilização respiratória ou à pele: Exposição a concentrações acima de 1500 ppm por uns poucos
+minutos pode causar edema pulmonar (compressão do tórax e dificuldade respiratória) podem ser
+retardados (entre 1-24 horas). Numerosos casos de exposição que resultarem em óbito são relatados
+na literatura. Em pessoas que sobreviveram, a recuperação, muitas vezes, foi completa, e dependeu
+da magnitude dos efeitos ocorridos no trato respiratório e nos pulmões. Os trabalhadores que são
+repetidamente expostos à amônia podem desenvolver tolerância (ou aclimatização) aos efeitos
+irritantes após umas poucas semanas. Tolerância significa que níveis mais altos de exposição são
+necessários para produzir efeitos anteriormente observados em concentrações mais baixas.
+Mutagenicidade em células germinativas: Não é esperado que o produto apresente mutagenecidade
+em células germinativas.
+Toxicidade à reprodução: Não é esperado que o produto apresente toxicidade à reprodução.
+Toxicidade para órgãos-alvo específicos – exposição única: O contato direto com o gás liquefeito
+pode causar queimaduras, com dormência e coceiras na área afetada. A pele pode tornar-se branca
+ou amarelada, com aspecto de cera. Pústulas, morte tecidual e gangrena também foram relatados
+nos casos mais severos. Contato direto da pele com um esguicho de gás amônia liquefeito, pode
+resultar em queimaduras corrosivas. Cicatrizes permanentes da pele podem ocorrer. O contato com
+os olhos causa irritação e lacrimejamento, queimaduras, visão turva e até perda completa da visão.
+Pode ser fatal se inalado. A amônia é irritante primário. O local de ação dos gases é determinado
+principalmente pela sua solubilidade. Assim, os que são muito solúveis na água, serão rapidamente
+absorvidos pelas vias aéreas superiores onde exercerão sua ação irritante. Em altas concentrações a
+amônia atua como asfixiante e pode afetar o sistema nervoso central (SNC) causando espasmos. O
+odor é perceptível a 20 ppm (média).
+Toxicidade para órgãos-alvo específicos – exposição repetida: O gás amônia é extremamente
+irritante para as vias respiratórias. Os trabalhadores que são repetidamente expostos a amônia
+podem desenvolver tolerância (ou aclimatização) aos efeitos irritantes após umas poucas semanas.
+Tolerância significa que níveis mais elevados de exposição são necessários para produzir efeitos
+anteriormente observados em concentrações mais baixas. Gás amônia é um gás extremamente
+irritante para pele e olhos. O gás se dissolve na umidade da pele formando hidróxido de amônio que
+é corrosivo. Pode causar edema pulmonar cujos sintomas podem ser retratados em até 48 horas
+após a exposição.
+Perigo de aspiração: As principais complicações decorrentes da ingestão são hemorragias digestivas,
+perfurações na orofaringe e estado de choque secundário à hemorragia abundante, acidose e/ou
+coagulação intravascular disseminada.
+13 CÓPIA NÃO CONTROLADA
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTO QUÍMICO
+FISPQ
+No me do Produto: AMÔNIA (NH )
+3
+FIS PQ nº: 01 Rev.: 09
+Pág ina 14 de 19
+Data da última revisão: 06/10/2016.
+12. INFORMAÇÕES ECOLÓGICAS
+Efeitos ambientais, comportamentos e impactos do produto
+Ecotoxicidade:
+Aquática: CL50 Daphnia magna = 24mg/l (48 horas), CL50 Daphnia pulex = 187mg/l (48 horas), CL50
+Ceriodaphina reticulata = 131 mg/l (48 horas), CL50 trutas (rainbow trout) = 0,97 mg/l, CL50
+Lumbriculus variegates (Oligochaete)= 390 mg/l (24 horas).
+Terrestre: CL50 ratos = 3670 ppm (4 horas de exposição); 7338 ppm (1 hora de exposição), CL50
+camundongos = 2115 ppm (4 horas de exposição); 4230 ppm (1 hora de exposição).
+Persistência e degradabilidade: AR: a extensão com que a reação entre a amônia e os ácidos ocorre
+na atmosfera depende da concentração local destes compostos acídicos. A amônia pode ainda reagir
+com radicais hidroxilas presente na atmosfera, estas reações contribuem com 10% da remoção total
+da substância da atmosfera. A meia vida da amônia na atmosfera é de poucos dias. ÁGUA: na água,
+sofre o ciclo do nitrogênio, com nitrificação e desnitrificação. Há a formação dos compostos iônicos
+de nitrogênio e a partir destes, forma-se o nitrogênio elementar. Os nitritos e nitratos formados
+podem se lixiviar através do sedimento, ou serem absorvidos por plantas e outros organismos. Altas
+concentrações de nitrato nas águas profundas podem causar metamoglovinemia em crianças. O
+nitrogênio elementar formado no processo anaeróbico de desnitrificação retorna à atmosfera por
+volatilização. Em meio aquoso, a amônia está em equilíbrio com o íon amônio NH₄. O equilíbrio
+amônia-amônio é altamente dependente do pH e em menor extensão, da temperatura do meio. Em
+águas ácidas, o equilíbrio desloca-se em favor do íon amônio. SOLO: a amônia é utilizada como
+nutriente, sendo absorvida por plantas e outros organismos, podendo ser convertida em outros
+compostos orgânicos nitrogenados. No solo, é rapidamente convertida a nitrato por ação de
+microorganismos nitrificantes. O nitrato formado pode ser absorvido pelas plantas ou se lixiviar
+atingindo as águas profundas. Concentrações muito elevadas de amônia podem ser tóxicas para as
+plantas, organismos e microbiota.
+Potencial bioacumulativo: A concentração de amônia em truta arco-iris aumentou de 0,6 a 4,0 mg/g
+após 24 horas de exposição à amônia na concentração de 36,2 mmol/l, pH 7, a 10°C. A absorção de
+amônia por fitoplanctons marinhos aumentou no período noturno, atingindo um máximo à meia-
+noite. Neste horário, os valores de amônia eram 2 a 3 vezes maiores do que os diurnos. A amônia,
+entretanto não se bioacumula na cadeia alimentar.
+Mobilidade no solo: A adsorção da amônia a sedimentos e matéria orgânica em suspensão aumenta
+com a concentração de matéria orgânica, concentração de íon metálico, e com a diminuição do PH. A
+população microbiana e a absorção pelas plantas também interferem neste processo. A amônia pode
+ser produzida no solo e então, liberada. A adsorção da amônia tanto em solo úmido como seco
+ocorre na forma iônica como a amônia é um nutriente para a maioria das plantas, sua absorção pelas
+14 CÓPIA NÃO CONTROLADA
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTO QUÍMICO
+FISPQ
+No me do Produto: AMÔNIA (NH )
+3
+FIS PQ nº: 01 Rev.: 09
+Pág ina 15 de 19
+Data da última revisão: 06/10/2016.
+plantas é um processo importante de transporte. A velocidade de absorção varia com o período de
+crescimento da planta. É rapidamente bioconvertida pela produção microbiana ou volatilizada para a
+atmosfera. Devido a esses processos, não se lixívia facilmente. No entanto, o nitrato derivado da
+amônia pode penetrar até as águas subterrâneas.
+Outros efeitos adversos: Não são conhecidos outros efeitos adversos além dos expostos.
+13. CONSIDERAÇÕES SOBRE DESTINAÇÃO FINAL
+Métodos de tratamento e disposição de resíduos:
+Produto: O tratamento e a disposição devem ser avaliados especificamente para cada produto.
+Devem ser consultadas legislações federais, estaduais e municipais dentre estas: Lei nº 12.305, de 02
+de agosto de 2010 (Política Nacional de Resíduos Sólidos).
+Restos de produtos
+Produto – Tratamento físico: Não recomendado
+Produto – Tratamento químico: neutralizar com ácido clorídrico 5%.
+Produto – Tratamento biológico: Bioremediação- Procedeu-se a oxidação da amônia com um biofilme
+de Nitrosomonas europaea em colunas de areia. No equilíbrio, o pH era 6,0 devido a formação do
+nitrito na coluna. Cianobacteria filamentosa, a 30°C removeu a amônia em 3 dias. Um biofiltro em
+escala laboratorial removeu amônia do ar, com uma eficiência de 83% para concentrações da
+substância no ambiente de 4 a 16ppm. Bactérias nitrificantes foram utilizadas em laboratório,
+removendo completamente a amônia em 48 horas a 3 semanas, dependendo da concentração da
+substância no resíduo.
+Embalagem usada: Não aplicável
+14. INFORMAÇÕES SOBRE TRANSPORTE
+Regulamentações nacionais e internacionais
+Terrestre: Resolução nº 420 de 12 de fevereiro de 2004 da Agência Nacional de Transporte Terrestres
+(ANTT), Aprova as Instruções Complementares ao Regulamento do Transporte Terrestre de Produtos
+Perigosos e suas modificações.
+Número ONU: 1005
+Nome apropriado para embarque: Amônia Anidra
+Classe ou subclasse de risco principal: 8 – Substância corrosivas
+Classe ou subclasse de risco subsidiário: 2.3 Gases tóxicos
+Número de risco: 268
+Grupo de embalagem: -----
+15 CÓPIA NÃO CONTROLADA
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTO QUÍMICO
+FISPQ
+No me do Produto: AMÔNIA (NH )
+3
+FIS PQ nº: 01 Rev.: 09
+Pág ina 16 de 19
+Data da última revisão: 06/10/2016.
+Hidroviário: DCP – Diretoria de Portos e Costas (Transporte em águas brasileiras). Normas de
+Autoridade Marítimas (NORMAM), NORMAM 01/DPC: Embarcações Empregadas na Navegação em
+Mar Aberto, NORMAM 02/DPC: Embarcações Empregadas na Navegação interior, IMO – “
+International Matitime Organization” (Organização Marítima Internacional), International Maritime
+Dangerous Good Code (IMDG Code).
+Número ONU: 1005
+Nome apropriado para embarque:Ammonia, anhydrous, liquefied ou Anhydrous
+Classe ou subclasse de risco principal: 8 – Substância corrosivas
+Classe ou subclasse de risco subsidiário: 2.3 Gases tóxicos
+Grupo de embalagem: -----
+EmS: F-D, S-U
+Perigo ao meio ambiente: Substâncias perigosas ao meio ambiente
+Aéreo: ANAC – Agência Nacional de Aviação Civil – Resolução nº 129 de 8 de dezembro de 2009.
+RBAC nº 175 – (Regulamento Brasileiro de Aviação Civil) – Transporte de Artigos Perigosos em
+Aeronaves Civis. IS nº 175-001 – Instrução Suplementar – IS. ICAO – “ International Civil Aviation
+Organization” (organização de Aviação Civil Internacional) – DOC 9284-NA/905. IATA – “ International
+Air Transport Association” (Associação Internacional de Transporte Aéreo) Dangerous Goods
+Regulation (DGR).
+Número ONU: 1005
+Nome apropriado para embarque:Ammonia, anhydrous, liquefied ou Anhydrous
+Classe ou subclasse de risco principal: 8 – Substância corrosivas
+Classe ou subclasse de risco subsidiário: 2.3 Gases tóxicos
+Grupo de embalagem: -----
+15. INFORMAÇÕES SOBRE REGULAMENTAÇÕES
+Regulamentações específicas para o produto químico: Decreto Lei nº 96.044 de 18/MAI/1988, que
+trata da regulamentação do transporte de produtos perigosos. Resolução nº 420 de 12/FEV/2004 da
+ANTT, que trata de instruções complementares ao regulamento do transporte terrestre de produtos
+perigosos. NBR-7500 da ABNT, que normatiza os símbolos de riscos e manuseio para o transporte e
+armazenagem de materiais. NBR-7501 da ABNT, que normatiza a terminologia utilizada no transporte
+de produtos perigosos. NBR-7502 da ABNT, que normatiza a classificação do transporte de produtos
+perigosos. NBR-7503 da ABNT, que normatiza a ficha de emergência para o transporte de produtos
+perigosos – características e dimensões.
+16 CÓPIA NÃO CONTROLADA
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTO QUÍMICO
+FISPQ
+No me do Produto: AMÔNIA (NH )
+3
+FIS PQ nº: 01 Rev.: 09
+Pág ina 17 de 19
+Data da última revisão: 06/10/2016.
+16. OUTRAS INFORMAÇÕES
+Informações importantes, mas não especificamente descritas às seções anteriores
+Esta FISPQ foi elaborada com base nos atuais conhecimentos sobre o manuseio apropriado do
+produto e sob as condições normais de uso, de acordo com aplicação especificada na embalagem.
+Quaisquer outras formas de utilização do produto que envolva combinações com outros materiais,
+além de formas de uso diversas daquelas indicadas, são de responsabilidade do usuário. Adverte-se
+que o manuseio de quaisquer substâncias requer o conhecimento prévio de seus perigos pelo
+usuário. No local de cada empresa usuária do produto promover o treinamento de seus
+colaboradores quanto aos possíveis riscos advindos da exposição ao produto químico.
+Legendas e abreviaturas:
+BEI: Biological Exposure índex
+CAS: Chemical Abstracts Service
+EPA: United States Environmental Protection Agency
+IARC: international Agency for Research on Cancer
+NIOSH: national institute os Occupational Safety and Health
+NR: Norma Regulamentadora
+TLV: Threshold limit Value
+LD50 (Lethal Dose) – dose letal a 50% da população exposta
+LD50 (Lethal Concentration) – concentração letal a 50% da população exposta
+Diphoterine: Produto para primeiros socorros empregado na descontaminação de pele e olhos em
+acidentes com agentes químicos agressivos, tais como ácidos e bases concentrados. Substância ativa
+não-tóxica e não-irritante dissolvida em água que atua com eficácia imediata sobre tais agressores,
+interrompendo seu avanço, aliviando a doe e evitando que ocorra queimadura química.
+Referências bibliográficas:
+Andrade Filho, A; Campolina, M.; Borges, M. Toxicologia na Prática Clínica. Belo Horizonte: Folium,
+2005.
+Associação Brasileira de Higienistas Ocupacionais. Limites de Exposição Ocupacional & Índices
+Biológicos de Exposição. São Paulo: ABHO, 2006.
+Guidance for Compilation of Safety Data Sheets for Fertilizer Material. European Fertilizer
+Manufactures Association – EFMA, 1996.
+Hathaway, G.J.; Proctor, N.H. Proctor and Hughes’ Chemical Hazards of the Workplace - Fifth Edition.
+New Jersey: John Wiley & Sons, 2004.
+International Agency for Research on Cancer. Overall Evaluations of Carcinogenicity to Humans.
+17 CÓPIA NÃO CONTROLADA
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTO QUÍMICO
+FISPQ | FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTO QUÍMICO
+ | FISPQ
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTO QUÍMICO
+FISPQ
+No me do Produto: AMÔNIA (NH )
+3
+FIS PQ nº: 01 Rev.: 09
+Pág ina 18 de 19
+Data da última revisão: 06/10/2016.
+http://monographs.iarc.fr/ENG/Classification/crthgr01.php. Last updated: 13 August 2007.
+Capturado na Internet em 24/10/2007.
+International Labour Office. Encyclopaedia of Occupational Health and Safety. 3 ed. Geneve, 1983.
+Manuais de Legislação Atlas. Segurança e Medicina do Trabalho. 60 ed. São Paulo: Atlas, 2007.
+Mendes, R. Patologia do Trabalho. 2 ed. São Paulo: Atheneu, 2003.
+Michel, O.R. Toxicologia Ocupacional. Rio de Janeiro: Revinter, 2000.
+Patnaik, P. Propriedades Nocivas das Substâncias Químicas. Belo Horizonte: Ergo, 2002.
+Wikipédia – Enciclopédia Livre – Internet
+CETESB – Companhia de Tecnologia de Saneamento Ambiental (www.cetesb.sp.gov.br)
+Manual de Autoproteção: Produtos Perigosos – Manuseio e transporte Rodoviário – PP8 – Grupo
+Ambitec. São Paulo – SP– 8ª Edição. – Carlos Eduardo Viriato – 11/12/2006
+Hazardous Chemicals Desk Reference 4th Edition – Richar J. Lewis, SR – 1997
+Encyclopaedia Of Occuptional Heath And Safet – 3th Edition- Luigi Parmeggiani – 1983;
+FUNDACENTRO (Fundação Jorge Dupart Figueiredo de Segurança e Medicina do Trabalho)
+http://www.brown.edu/Departments/Visual_Art/documents/Ammonia.pdf. Acesso em 07/06/10.
+http://www.tannerind.com/anhydrous-msds.html. Acesso em 07/06/10.
+[ACGIH] AMERICAN CONFERENCE OF GOVERNMETAL INDUSTRIAL HYGIENISTS. 2001 TLVS e BEIs:
+Limites de exposição (TLVs) para substâncias químicas e agentes físicos e índices biológicos de
+exposição (BEIs). Tradução: Associação Brasileira de Higienistas Ocupacionais. São paulo, 2001.
+ARMOUR MA. Hazardous Laboratory chemicals: disposal guide. Boca Raton: CRC Press;1996
+[ATSDR] agency for toxic substances and disease registry. Toxicological
+Profile for ammonia. Syracuse:US Departmente of Commerce, 1991.
+BRASIL. Agência Nacional de Vigilância Sanitária. Normas regulamentadores aprovadas pela Portaria
+nº 3214, de 8 de junho de 1978, atualizadas até 18 de julho de 1997. In: Segurança e medicina do
+trabalho. 38. Ed. São Paulo: Atlas, 1997.
+18 CÓPIA NÃO CONTROLADA
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTO QUÍMICO
+FISPQ | FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTO QUÍMICO
+ | FISPQ
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTO QUÍMICO
+FISPQ
+No me do Produto: AMÔNIA (NH )
+3
+FIS PQ nº: 01 Rev.: 09
+Pág ina 19 de 19
+Data da última revisão: 06/10/2016.
+____ Ministério de Transporte. Portaria nº 204 de 20 de maio de 1997. Regulamento do Transporte
+Terrestre de Produtos Perigosos.
+____ Ministério de Transporte. Decreto 1797 de 25 de janeiro de 1996. Relação de Produtos
+Perigosos no Âmbito Mercosul.
+MANUAL DE AUTOPROTEÇÃO – PRODUTOS PERIGOSOS. PMESP VPRv G1 Secretaria da Segurança
+Pública Estado de São Paulo. São Paulo: MERCOSUL 1º Ed, 1997.
+[USEPA] UNITED STATES ENVIRONMENTAL PROTECTION AGENCY EXOTOX: Ecotoxicology Database.
+Available from : htt://www.epa.gov/cgi-bin/ecotox_quick_search. [august 20,2001].
+- ABNT NBR 14725:2012-Parte 4 Ficha de informações de segurança de produtos químicos (FISPQ)
+19 CÓPIA NÃO CONTROLADA

@@ -1,0 +1,782 @@
+| FICHA DE INFORMAÇÕES DE SEGURANÇA
+DE PRODUTO QUÍMICO | Rev: 03
+Código: FISPQ - 007 | METANOL | Pág: 1 / 13
+Elaborado por:
+Claudia S. Portantiolo
+Responsável Técnica
+CRQ XIII 13400549
+Data: 10/05/2016 | Revisado por:
+Claudia S. Portantiolo
+Responsável Técnica
+CRQ XIII 13400549
+Data: 10/05/2016 | Aprovado por:
+Claudia S. Portantiolo
+Responsável Técnica
+CRQ XIII 13400549
+Data: 10/05/2016
+FICHA DE INFORMAÇÕES DE SEGURANÇA Rev: 03
+DE PRODUTO QUÍMICO
+Código: FISPQ - 007 METANOL Pág: 1 / 13
+1. IDENTIFICAÇÃO DO PRODUTO E DA EMPRESA
+Nome do produto (nome comercial): Metanol (Álcool Metílico)
+Código interno de identificação do produto: 73, 74, 75, 1243, 1750, 3357 e 3926
+Principais usos recomendados para a substância: Utilizado em larga escala como
+solvente industrial, na indústria de plásticos, etc. A relação do metanol com os combustíveis é
+que ele é usado no processo de transesterificação da gordura, na produção do biodiesel e
+metalurgia (têmperas). É um ótimo combustível e muito utilizado para esta finalidade.
+Nome da empresa: Quimidrol Comércio Indústria Importação Ltda.
+Endereço: Rua Dona Francisca, 6505 – Distrito Industrial – Joinville – SC
+Telefone para contato: (47) 3027 - 8700
+Telefone para emergências: (47) 3027 - 8700
+Fax: (47) 3027-8712
+E-mail: laboratorio@quimidrol.com.br
+2. IDENTIFICAÇÃO DE PERIGOS
+Classificação da substância: Líquido inflamável e tóxico.
+Classificação conforme a NBR 14725-2:
+Líquidos inflamáveis (Categoria 2)
+Toxicidade aguda - Dérmica (Categoria 3)
+Toxicidade aguda - Inalação (Categoria 3)
+Toxicidade aguda - Oral (Categoria 3)
+Toxicidade para órgãos-alvo específicos - exposição única (Categoria 1)
+Elementos de rotulagem do GHS, incluindo as frases de precaução:
+Pictogramas:
+Elaborado por: Revisado por: Aprovado por:
+Claudia S. Portantiolo Claudia S. Portantiolo Claudia S. Portantiolo
+Responsável Técnica Responsável Técnica Responsável Técnica
+CRQ XIII 13400549 CRQ XIII 13400549 CRQ XIII 13400549
+Data: 10/05/2016 Data: 10/05/2016 Data: 10/05/2016
+Anexo - 9 – PSQ/BPF - 4.1.1. – Controle de Projetos
+Rev: 02 Data: 17/03/2014
+ | FICHA DE INFORMAÇÕES DE SEGURANÇA
+DE PRODUTO QUÍMICO | Rev: 03
+Código: FISPQ - 007 | METANOL | Pág: 2 / 13
+Elaborado por:
+Claudia S. Portantiolo
+Responsável Técnica
+CRQ XIII 13400549
+Data: 10/05/2016 | Revisado por:
+Claudia S. Portantiolo
+Responsável Técnica
+CRQ XIII 13400549
+Data: 10/05/2016 | Aprovado por:
+Claudia S. Portantiolo
+Responsável Técnica
+CRQ XIII 13400549
+Data: 10/05/2016
+FICHA DE INFORMAÇÕES DE SEGURANÇA Rev: 03
+DE PRODUTO QUÍMICO
+Código: FISPQ - 007 METANOL Pág: 2 / 13
+Palavra de advertência: Perigo
+Frase de perigo: H225 – Líquido e vapores altamente inflamáveis.
+H301 + H311 + H331 – Tóxico por ingestão, contacto com a pele
+ou inalação.
+H360 – Pode prejudicar a fertilidade ou o feto.
+H370 – Afeta os órgãos
+Frases de precaução: Prevenção:
+P210 – Mantenha afastado do calor/faísca/chama aberta/
+superfícies quentes. – Não fume.
+P233 – Mantenha o recipiente hermeticamente fechado.
+P240 – Aterre o vaso contentor e o receptor do produto durante
+transferências.
+P241 – Utilize equipamento elétrico/de ventilação/de iluminação à
+prova de explosão.
+P242 – Utilize apenas ferramentas antifaiscantes.
+P243 – Evite o acúmulo de cargas eletrostáticas.
+P280 – Use luvas de proteção/roupa de proteção/proteção
+ocular/proteção facial.
+P264 – Lave cuidadosamente após o manuseio.
+P270 – Não coma, beba ou fume durante a utilização deste
+produto.
+P201 – Obtenha instruções específicas antes da utilização.
+P202 – Não manuseie o produto antes de ter lido e
+compreendido todas as precauções de segurança
+Emergência:
+P303 + P361 + P353 – EM CASO DE CONTATO COM A PELE
+(ou com o cabelo): Retire imediatamente toda a roupa
+contaminada. Enxágue a pele com água/tome uma ducha.
+P370 + P378 – Em caso de incêndio: Para a extinção utilize areia
+seca, extintor químico seco ou espuma resistente ao álcool.
+P301 + P310 – EM CASO DE INGESTÃO: Contate
+imediatamente um CENTRO DE INFORMAÇÃO
+TOXICOLÓGICA/ médico.
+P330 – Enxágue a boca.
+P308 + P313 – EM CASO DE exposição ou suspeita de
+exposição: Consulte um médico.
+Elaborado por: Revisado por: Aprovado por:
+Claudia S. Portantiolo Claudia S. Portantiolo Claudia S. Portantiolo
+Responsável Técnica Responsável Técnica Responsável Técnica
+CRQ XIII 13400549 CRQ XIII 13400549 CRQ XIII 13400549
+Data: 10/05/2016 Data: 10/05/2016 Data: 10/05/2016
+Anexo - 9 – PSQ/BPF - 4.1.1. – Controle de Projetos
+Rev: 02 Data: 17/03/2014
+ | FICHA DE INFORMAÇÕES DE SEGURANÇA
+DE PRODUTO QUÍMICO | Rev: 03
+Código: FISPQ - 007 | METANOL | Pág: 3 / 13
+Elaborado por:
+Claudia S. Portantiolo
+Responsável Técnica
+CRQ XIII 13400549
+Data: 10/05/2016 | Revisado por:
+Claudia S. Portantiolo
+Responsável Técnica
+CRQ XIII 13400549
+Data: 10/05/2016 | Aprovado por:
+Claudia S. Portantiolo
+Responsável Técnica
+CRQ XIII 13400549
+Data: 10/05/2016
+FICHA DE INFORMAÇÕES DE SEGURANÇA Rev: 03
+DE PRODUTO QUÍMICO
+Código: FISPQ - 007 METANOL Pág: 3 / 13
+Armazenamento:
+P403 + P235 – Armazene em local bem ventilado. Mantenha em
+local fresco.
+P405 – Armazene em local fechado à chave .
+Descarte:
+P501 – Descarte o conteúdo/recipiente em um aterro
+devidamente licenciado pelos órgãos competentes .
+Outros perigos que não resultam em uma classificação: Não disonível
+3. COMPOSIÇÃO E INFORMAÇÕES SOBRE OS INGREDIENTES
+Indicar se o produto químico é substância ou mistura: Este produto é uma substância.
+Nome químico comum ou nome técnico: Metanol
+Sinônimo: Álcool metílico, álcool de madeira; monohidroximetano; carbinol; espírito colonial
+Número de registro CAS: 67-56-1
+Impurezas que contribuam para o perigo: Não apresenta.
+4. MEDIDAS DE PRIMEIROS-SOCORROS
+Medidas de primeiros-socorros
+- Inalação: Procurar ar fresco no caso de inalação acidental de vapores ou produtos de
+decomposição. Se não houver respiração, aplicar respiração artificial. Se necessário,
+consultar o médico.
+- Contato com a pele: Remover imediatamente a roupa e os sapatos contaminados. Lavar
+imediatamente com muita água durante pelo menos 15 minutos. Se necessário, consultar o
+médico.
+- Contato com os olhos: Lavar com água corrente no mínimo por 15 minutos, levantando as
+pálpebras algumas vezes, para eliminar quaisquer resíduos do material. Remova lentes de
+contato, se tiver. Consultar um médico oftalmologista.
+- Ingestão: A ingestão de metanol causa risco de vida. NÃO provoque vômito. Se a vítima
+estiver consciente, lavar a sua boca com água limpa em abundância. Procurar orientação
+médica imediatamente.
+Ações que devem ser evitadas: Não administrar nada oralmente ou provocar o vômito em
+vítima inconsciente ou com convulsão. Não limpar partes do corpo com solventes.
+Proteção para o prestador de socorros: Evite contato com o produto ao socorrer a vítima.
+Usar os EPI’s indicados na seção 8.
+Elaborado por: Revisado por: Aprovado por:
+Claudia S. Portantiolo Claudia S. Portantiolo Claudia S. Portantiolo
+Responsável Técnica Responsável Técnica Responsável Técnica
+CRQ XIII 13400549 CRQ XIII 13400549 CRQ XIII 13400549
+Data: 10/05/2016 Data: 10/05/2016 Data: 10/05/2016
+Anexo - 9 – PSQ/BPF - 4.1.1. – Controle de Projetos
+Rev: 02 Data: 17/03/2014
+ | FICHA DE INFORMAÇÕES DE SEGURANÇA
+DE PRODUTO QUÍMICO | Rev: 03
+Código: FISPQ - 007 | METANOL | Pág: 4 / 13
+Elaborado por:
+Claudia S. Portantiolo
+Responsável Técnica
+CRQ XIII 13400549
+Data: 10/05/2016 | Revisado por:
+Claudia S. Portantiolo
+Responsável Técnica
+CRQ XIII 13400549
+Data: 10/05/2016 | Aprovado por:
+Claudia S. Portantiolo
+Responsável Técnica
+CRQ XIII 13400549
+Data: 10/05/2016
+FICHA DE INFORMAÇÕES DE SEGURANÇA Rev: 03
+DE PRODUTO QUÍMICO
+Código: FISPQ - 007 METANOL Pág: 4 / 13
+Sintomas e efeitos mais importantes, agudos ou tardios: O Metanol pode ser fatal ou
+provocar a cegueira se ingerido. Os efeitos devidos a ingestão podem incluir dor de cabeça,
+vertigem, sonolência, acidose metabólica, coma e ataques convulsivos. Os sintomas podem
+ser retardados. Danificação do fígado e rim.
+Notas para o médico: A exposição aguda ao Metanol, quer por ingestão ou respiração
+concentrações elevadas de ar pode resultar em sintomas que aparecem entre 40 minutos a
+72 horas após a exposição. Os sintomas e sinais são geralmente limitados ao Sistema
+Nervoso Central (SNC), olhos e do trato gastrointestinal. Por causa dos efeitos iniciais do
+SNC de dor de cabeça, vertigem, confusão e letargia, pode haver uma impressão de
+intoxicação por Etanol. Visão turva, diminuição da acuidade e fotofobia são queixas comuns.
+O tratamento com ipecacuanha ou lavagem é indicado em qualquer paciente dentro de duas
+horas após a ingestão. A acidose metabólica profunda e bicarbonato sérico ocorre em níveis
+de intoxicação grave onde uma medida mais precisa da gravidade do que os níveis séricos de
+Metanol. Os protocolos de tratamento estão disponíveis na maioria dos hospitais conta ainda
+com a colaboração inicial dos profissionais de pronto atendimento em hospitais e/ou clínicas
+adequadas e recomendadas. O Etanol diminui significativamente a toxicidade do Metanol,
+porque compete para as mesmas enzimas metabólicas, e tem sido usado para tratar a
+intoxicação por Metanol.
+5. MEDIDAS DE COMBATE A INCÊNDIO
+Meios de extinção:
+- Meios de extinção apropriados: Espuma, pó químico e dióxido de carbono (CO ).
+2
+Extintor de pó químico, água pulverizada, extrato de espuma. Grandes incêndios: água
+pulverizada, espuma tipo AFF(R) (com formação de película aquosa resistente ao álcool) com
+sistema de proporção de espuma de 3% ou 6%. Manter os outros tanques expostos ao fogo
+resfriados.
+- Meios de extinção não recomendados: Evitar o uso de jato pleno de água direto para
+combater ao fogo.
+Perigos específicos da substância: Os vapores do Metanol podem queimar com uma
+chama invisível. Durante um incêndio, monóxido de carbono, dióxido de carbono e gases
+irritantes e tóxicos como o formaldeído podem ser produzidos. Os vapores podem acumular-
+se em espaços confinados, resultando em toxicidade e perigo de inflamabilidade. Recipientes
+fechados podem romper-se violentamente e liberar repentinamente grandes quantidades de
+Metanol, quando expostos ao fogo ou calor excessivo por um período suficiente de tempo. Os
+vapores são ligeiramente mais pesados que o ar e podem percorrer grandes distâncias em
+direção a fontes de ignição.
+Medidas de proteção da equipe de combate a incêndio: Usar máscara autônoma,
+panorâmica, com pressão positiva ou uma linha de ar e roupas de aproximação/proteção a
+temperaturas elevadas.
+Elaborado por: Revisado por: Aprovado por:
+Claudia S. Portantiolo Claudia S. Portantiolo Claudia S. Portantiolo
+Responsável Técnica Responsável Técnica Responsável Técnica
+CRQ XIII 13400549 CRQ XIII 13400549 CRQ XIII 13400549
+Data: 10/05/2016 Data: 10/05/2016 Data: 10/05/2016
+Anexo - 9 – PSQ/BPF - 4.1.1. – Controle de Projetos
+Rev: 02 Data: 17/03/2014
+ | FICHA DE INFORMAÇÕES DE SEGURANÇA
+DE PRODUTO QUÍMICO | Rev: 03
+Código: FISPQ - 007 | METANOL | Pág: 5 / 13
+Elaborado por:
+Claudia S. Portantiolo
+Responsável Técnica
+CRQ XIII 13400549
+Data: 10/05/2016 | Revisado por:
+Claudia S. Portantiolo
+Responsável Técnica
+CRQ XIII 13400549
+Data: 10/05/2016 | Aprovado por:
+Claudia S. Portantiolo
+Responsável Técnica
+CRQ XIII 13400549
+Data: 10/05/2016
+FICHA DE INFORMAÇÕES DE SEGURANÇA Rev: 03
+DE PRODUTO QUÍMICO
+Código: FISPQ - 007 METANOL Pág: 5 / 13
+Produtos perigosos da decomposição: A combustão (incêndio) produzirá vapor d’água,
+CO (dióxido de carbono), CO (monóxido de carbono) e gases irritantes e tóxicos como o
+2
+formaldeído.
+6. MEDIDAS DE CONTROLE PARA DERRAMAMENTO OU VAZAMENTO
+Precauções pessoais, equipamento de proteção e procedimentos de emergência
+- Para o pessoal que não faz parte dos serviços de emergência: Afaste-se do local,
+somente pessoas treinadas devem participar do atendimento da emergência.
+- Para o pessoal do serviço de emergência: Vestir equipamento de proteção pessoal.
+Colocar as pessoas em segurança. Evitar contato do produto com os olhos e pele. Afastar os
+curiosos.
+Precauções ao meio ambiente: Conter os vazamentos. Impedir que o produto atinja as
+canalizações ou nos cursos de água. Evitar que o produto entre no sistema de esgotos. Não
+descarte diretamente no meio ambiente ou na rede de esgoto. A água de diluição proveniente
+do combate ao fogo pode causar poluição. Avisar as autoridades competentes se o produto
+alcançar sistemas de drenagem ou cursos de água ou se contaminar o solo ou a vegetação.
+Métodos e materiais para a contenção e limpeza: Líquido inflamável! Pode queimar sem
+chama visível. A liberação pode causar risco imediato de incêndio e explosão. Eliminar todas
+as fontes de ignição, impedir vazamentos e utilizar materiais absorventes. Se necessário,
+conter derramamento por diques. Espumas resistentes ao álcool podem ser aplicadas ao
+derramamento para diminuir o risco de incêndio e de vapor. Maximizar a recuperação de
+Metanol para reciclagem ou reutilização. Restringir o acesso a área até a conclusão da
+limpeza. Assegurar que, a limpeza seja feita apenas por pessoal treinado. Usar proteção
+pessoal adequada e notificar todas as agências governamentais, conforme exigido por lei
+(consulte a seção 13).
+7. MANUSEIO E ARMAZENAMENTO
+Medidas técnicas apropriadas: Providenciar ventilação exaustora onde os processos assim
+o exigirem. O produto deve ser manuseado obedecendo às normas e procedimentos de
+higiene industrial e segurança do trabalho de acordo com a legislação em vigor. Elimine
+fontes quentes e de ignição. Todos os equipamentos elétricos usados devem ser blindados e
+a prova de explosão. As instalações e equipamentos devem ser aterrados para evitar a
+eletricidade estática. Chuveiros de emergência e lavador de olhos devem ser instalados nos
+locais de uso e estocagem. Não usar instrumentos que produzam faíscas. Não fumar.
+Precauções e orientações para manuseio seguro: Evite inalação e o contato com a pele,
+olhos e roupas. Evite respirar vapores/névoas do produto. Utilize equipamento de proteção
+individual ao manusear o produto, descritos na seção 8.
+Condições de armazenamento seguro, incluindo qualquer incompatibilidade:
+Elaborado por: Revisado por: Aprovado por:
+Claudia S. Portantiolo Claudia S. Portantiolo Claudia S. Portantiolo
+Responsável Técnica Responsável Técnica Responsável Técnica
+CRQ XIII 13400549 CRQ XIII 13400549 CRQ XIII 13400549
+Data: 10/05/2016 Data: 10/05/2016 Data: 10/05/2016
+Anexo - 9 – PSQ/BPF - 4.1.1. – Controle de Projetos
+Rev: 02 Data: 17/03/2014
+ | FICHA DE INFORMAÇÕES DE SEGURANÇA
+DE PRODUTO QUÍMICO | Rev: 03
+Código: FISPQ - 007 | METANOL | Pág: 6 / 13
+Elaborado por:
+Claudia S. Portantiolo
+Responsável Técnica
+CRQ XIII 13400549
+Data: 10/05/2016 | Revisado por:
+Claudia S. Portantiolo
+Responsável Técnica
+CRQ XIII 13400549
+Data: 10/05/2016 | Aprovado por:
+Claudia S. Portantiolo
+Responsável Técnica
+CRQ XIII 13400549
+Data: 10/05/2016
+FICHA DE INFORMAÇÕES DE SEGURANÇA Rev: 03
+DE PRODUTO QUÍMICO
+Código: FISPQ - 007 METANOL Pág: 6 / 13
+- Medidas técnicas: O local de armazenamento deve ter piso impermeável, isento de
+materiais combustíveis e com bacia de contenção para reter o produto em caso de
+vazamento. Especificações de engenharia devem atender regulamentações locais.
+- Condições adequadas: Mantenha o produto em local fresco, seco e bem ventilado, distante
+de fontes de calor e ignição. Mantenha os recipientes bem fechados e devidamente
+identificados.
+- Condições que devem ser evitadas: Exposição das embalagens contendo o produto sob o
+sol, chuva, temperaturas elevadas, fontes de ignição e contato com materiais incompatíveis.
+8. CONTROLE DE EXPOSIÇÃO E PROTEÇÃO INDIVIDUAL
+Parâmetros de controle:
+Limites de Tolerância - Metanol Fontes
+TWA/TLV – 200 ppm (ACGIH)
+STEL – 250 ppm (ACGIH)
+IDLH – 6000 ppm (NIOSH)
+LT-156 ppm (NR 15)
+Indicadores biológicos: (NR-7)
+Agente químico: Metanol
+Determinante: Metanol na urina
+Horário de coleta: Final da jornada
+IBMP: 15 mg/l
+Notas: Basal, não específico.
+Outros limites e valores:
+Limite crítico de odores 2000 ppm
+Medidas de controle de engenharia: Manter o local de trabalho ventilado. Em ambientes
+abertos e manobras posicionar-se a favor do vento. Se necessário use ventilação local
+exaustora ou geral diluidora (com renovação de ar). Em áreas confinadas providenciar
+ventilação local e geral para manter a concentração no ar abaixo dos limites de exposição. Os
+sistemas de ventilação devem ser projetados de acordo com padrões aprovados de
+engenharia. Devem ser observadas medidas de higiene compatíveis com os componentes
+deste produto. Outros equipamentos de proteção individual e coletiva poderão ser indicados
+em função do local e condições de aplicação. Manter chuveiros e lava-olhos de emergência
+nos locais onde haja manipulação do produto.
+Equipamento de proteção individual apropriado
+- Proteção dos olhos/face: Usar óculos de segurança ou protetor facial. Não é recomendado
+o uso de lentes de contato.
+Elaborado por: Revisado por: Aprovado por:
+Claudia S. Portantiolo Claudia S. Portantiolo Claudia S. Portantiolo
+Responsável Técnica Responsável Técnica Responsável Técnica
+CRQ XIII 13400549 CRQ XIII 13400549 CRQ XIII 13400549
+Data: 10/05/2016 Data: 10/05/2016 Data: 10/05/2016
+Anexo - 9 – PSQ/BPF - 4.1.1. – Controle de Projetos
+Rev: 02 Data: 17/03/2014
+ | FICHA DE INFORMAÇÕES DE SEGURANÇA
+DE PRODUTO QUÍMICO | Rev: 03
+Código: FISPQ - 007 | METANOL | Pág: 7 / 13
+Elaborado por:
+Claudia S. Portantiolo
+Responsável Técnica
+CRQ XIII 13400549
+Data: 10/05/2016 | Revisado por:
+Claudia S. Portantiolo
+Responsável Técnica
+CRQ XIII 13400549
+Data: 10/05/2016 | Aprovado por:
+Claudia S. Portantiolo
+Responsável Técnica
+CRQ XIII 13400549
+Data: 10/05/2016
+FICHA DE INFORMAÇÕES DE SEGURANÇA Rev: 03
+DE PRODUTO QUÍMICO
+Código: FISPQ - 007 METANOL Pág: 7 / 13
+- Proteção da pele e do corpo: Avental, calça e sapatos. Os tipos de auxílios para proteção
+do corpo devem ser escolhidos especialmente segundo o posto de trabalho em função da
+concentração e quantidade de substância.
+- Proteção das mãos: Luvas impermeáveis resistentes ao produto (nitrílicas ou de neoprene).
+As luvas devem ser inspecionadas antes da utilização.
+- Proteção respiratória: Quando as concentrações dos vapores excederem o limite de
+tolerância, utilizar máscara respiratória com filtro polivalente ou para vapores orgânicos. Em
+caso de exposição em ambiente confinado ou enclausurado, pode ser necessário o uso de
+equipamentos de respiração autônoma ou conjunto de ar mandado.
+Perigos térmicos: Não disponível.
+9. PROPRIEDADES FÍSICAS E QUÍMICAS
+Aspecto (estado físico, forma, cor etc.): Líquido, muito móvel e volátil, incolor.
+Odor: Leve e característico de álcool.
+Limite de odor: Não disponível
+pH: Não aplicável
+Ponto de fusão/ponto de congelamento: – 97,8 ºC (a 760 mmHg)
+Ponto de ebulição inicial e faixa de temperatura de ebulição: 64 a 65 °C (a 760 mmHg)
+Ponto de fulgor: 11 ºC (vaso fechado)
+Taxa de evaporação: 4,1 (acetato de n-butila=1)
+Inflamabilidade (sólido; gás): Altamente inflamável
+Limite de inflamabilidade ou explosividade
+LEI: (limite de exposividade inferior): 6 %
+(v/v)
+LES: (limite de explosividade superior): 36 %
+(v/v)
+Pressão de vapor: 169,27 hPa a 25 ºC
+Densidade de vapor: 1,1 densidade relativa a 20 ºC (ar = 1)
+Densidade relativa: 0, 792 g/cm3
+Solubilidade(s): Miscível em água, álcool etílico, éter, benzeno, cetonas e na maioria dos
+solventes orgânicos.
+Coeficiente de partição – n-octanol/água: Log P (oct) = – 0,77
+Temperatura de autoignição: 455 ºC (1,013 hPa)
+Temperatura de decomposição: Não disponível
+Viscosidade: 0,544 a 0,590 (25 ºC)
+Elaborado por: Revisado por: Aprovado por:
+Claudia S. Portantiolo Claudia S. Portantiolo Claudia S. Portantiolo
+Responsável Técnica Responsável Técnica Responsável Técnica
+CRQ XIII 13400549 CRQ XIII 13400549 CRQ XIII 13400549
+Data: 10/05/2016 Data: 10/05/2016 Data: 10/05/2016
+Anexo - 9 – PSQ/BPF - 4.1.1. – Controle de Projetos
+Rev: 02 Data: 17/03/2014
+ | FICHA DE INFORMAÇÕES DE SEGURANÇA
+DE PRODUTO QUÍMICO | Rev: 03
+Código: FISPQ - 007 | METANOL | Pág: 8 / 13
+Elaborado por:
+Claudia S. Portantiolo
+Responsável Técnica
+CRQ XIII 13400549
+Data: 10/05/2016 | Revisado por:
+Claudia S. Portantiolo
+Responsável Técnica
+CRQ XIII 13400549
+Data: 10/05/2016 | Aprovado por:
+Claudia S. Portantiolo
+Responsável Técnica
+CRQ XIII 13400549
+Data: 10/05/2016
+FICHA DE INFORMAÇÕES DE SEGURANÇA Rev: 03
+DE PRODUTO QUÍMICO
+Código: FISPQ - 007 METANOL Pág: 8 / 13
+10. ESTABILIDADE E REATIVIDADE
+Reatividade: Estável nas condições normais de uso.
+Estabilidade química: Não disponível
+Possibilidade de reações perigosas: Reações com oxidantes, ácidos e bases fortes. Pode
+ser corrosivo ao chumbo, alumínio, magnésio e platina.
+Condições a serem evitadas: Contatos com faíscas, calor, chamas ou fontes de ignição .
+Materiais incompatíveis: Agentes oxidantes fortes, zinco, chumbo, alumínio, magnésio,
+ácidos fortes. Ácido perclórico, perclorato de chumbo, metais reativos que desprendem do
+hidrogênio, alguns tipos de plásticos como o polietileno e borrachas. Não reage com água.
+Altamente reativo em amônia anidra, ácido sulfúrico, ácido nítrico, cianeto de hidrogênio e
+sulfato de hidrogênio. Oxida-se formando peróxidos, podendo ser oxidado ou reduzido.
+Facilmente polimerizado com desprendimento de calor
+Produtos perigosos da decomposição: CO (monóxido de carbono), CO2 (dióxido de
+carbono) e HCHO (formaldeído).
+11. INFORMAÇÕES TOXICOLÓGICAS
+Toxicidade aguda:
+LD Oral - Humano - 143 mg/kg
+LO
+Observações: Pulmões, tórax ou respiração: Dispnéia. A ingestão pode causar irritação
+gastrointestinal, náuseas, vómitos e diarreia.
+DL Oral - ratazana - 1,187 - 2,769 mg/kg
+50
+CL Inalação - ratazana - 4 h - 128.2 mg/l
+50
+CL Inalação - ratazana - 6 h - 87.6 mg/l
+50
+DL Dérmico - coelho - 17,100 mg/kg,
+50
+Corrosão/irritação da pele: Pele - coelho - Não provoca irritação da pele.
+Lesões oculares graves/irritação ocular: Olhos - coelho - Não irrita os olhos.
+Sensibilização respiratória ou à pele: Teste de maximização - porquinho da índia - OECD
+TG 406 - Não causa uma sensibilização da pele.
+Mutagenicidade em células germinativas:
+Genotoxicidade in vitro - Teste de Ames - S. typhimurium - com ou sem ativação metabólica –
+negativo.
+Genotoxicidade in vitro - ensaios in vitro - fibroblasto – negativo.
+Mutação de células somáticas de mamíferos.
+Genotoxicidade in vivo - rato - macho e fêmea - intraperitoneal – negativo.
+Carcinogenicidade: Nenhum componente deste produto presente a níveis maiores ou iguais
+a 0,1% é identificado como carcinogênico provável, possível ou confirmado pelo IARC.
+Elaborado por: Revisado por: Aprovado por:
+Claudia S. Portantiolo Claudia S. Portantiolo Claudia S. Portantiolo
+Responsável Técnica Responsável Técnica Responsável Técnica
+CRQ XIII 13400549 CRQ XIII 13400549 CRQ XIII 13400549
+Data: 10/05/2016 Data: 10/05/2016 Data: 10/05/2016
+Anexo - 9 – PSQ/BPF - 4.1.1. – Controle de Projetos
+Rev: 02 Data: 17/03/2014
+ | FICHA DE INFORMAÇÕES DE SEGURANÇA
+DE PRODUTO QUÍMICO | Rev: 03
+Código: FISPQ - 007 | METANOL | Pág: 9 / 13
+Elaborado por:
+Claudia S. Portantiolo
+Responsável Técnica
+CRQ XIII 13400549
+Data: 10/05/2016 | Revisado por:
+Claudia S. Portantiolo
+Responsável Técnica
+CRQ XIII 13400549
+Data: 10/05/2016 | Aprovado por:
+Claudia S. Portantiolo
+Responsável Técnica
+CRQ XIII 13400549
+Data: 10/05/2016
+FICHA DE INFORMAÇÕES DE SEGURANÇA Rev: 03
+DE PRODUTO QUÍMICO
+Código: FISPQ - 007 METANOL Pág: 9 / 13
+Toxicidade à reprodução: A informação disponível não sugere que o metanol seja uma
+toxina reprodutiva.
+Toxicidade para órgãos - alvo específicos - exposição única: Afeta os órgãos.
+Toxicidade para órgãos - alvo específicos - exposição repetida: A substância ou mistura
+não está classificada como tóxico específico de orgãos-alvo, exposição repetida.
+Perigo por aspiração: Nenhuma classificação de toxicidade de aspiração.
+Efeitos potenciais à saúde:
+Inalação: Tóxico se inalado. Causa uma irritação no aparelho respiratório.
+Ingestão: Tóxico se ingerido.
+Pele: Tóxico se absorvido através da pele. Causa uma irritação da pele.
+Olhos: Provoca irritação ocular grave.
+12. INFORMAÇÕES ECOLÓGICAS
+Ecotoxicidade: Tóxico para organismos aquáticos principalmente, além de ser
+potencialmente tóxico para outros seres vivos e ambientes.
+- Peixes
+mortalidade CL50 - Lepomis macrochirus - 15,400.0 mg/l - 96 h
+NOEC - Oryzias latipes - 7,900 mg/l – 200 h
+- Toxicidade em Dáfnia e outros invertebrados aquáticos
+CE50 - Daphnia magna - > 10,000.00 mg/l - 48 h
+- Toxicidade em algas Inibição do crescimento CE50 - Scenedesmus capricornutum (alga em
+água doce)
+22,000.0 mg/l - 96 h
+Crustáceos
+Persistência e degradabilidade:
+- No solo:
+BOD5: 0,6/1,1g O /g substância.
+2
+COD: 1,42 g O /g substância.
+2
+- Na água:
+Facilmente biodegradável.
+Teste: 99%, OECD 301D.
+Solúvel em água.
+O CH OH será transformado em CO e H O.
+3 2 2
+Potencial bioacumulativo:
+Não é bioacumulativo Log Pow: - 0,77
+BCF: < 1,0 (Leuciscus Idus).
+Elaborado por: Revisado por: Aprovado por:
+Claudia S. Portantiolo Claudia S. Portantiolo Claudia S. Portantiolo
+Responsável Técnica Responsável Técnica Responsável Técnica
+CRQ XIII 13400549 CRQ XIII 13400549 CRQ XIII 13400549
+Data: 10/05/2016 Data: 10/05/2016 Data: 10/05/2016
+Anexo - 9 – PSQ/BPF - 4.1.1. – Controle de Projetos
+Rev: 02 Data: 17/03/2014
+ | FICHA DE INFORMAÇÕES DE SEGURANÇA
+DE PRODUTO QUÍMICO | Rev: 03
+Código: FISPQ - 007 | METANOL | Pág: 10 / 13
+Elaborado por:
+Claudia S. Portantiolo
+Responsável Técnica
+CRQ XIII 13400549
+Data: 10/05/2016 | Revisado por:
+Claudia S. Portantiolo
+Responsável Técnica
+CRQ XIII 13400549
+Data: 10/05/2016 | Aprovado por:
+Claudia S. Portantiolo
+Responsável Técnica
+CRQ XIII 13400549
+Data: 10/05/2016
+FICHA DE INFORMAÇÕES DE SEGURANÇA Rev: 03
+DE PRODUTO QUÍMICO
+Código: FISPQ - 007 METANOL Pág: 10 / 13
+Mobilidade no solo: Compostos orgânicos voláteis (COV): 100%. Migrará até as águas
+subterrâneas e/ou evaporará rapidamente.
+Outros efeitos adversos: Na água, sua meia-vida situa-se entre 1 a 10 dias. No ar, persistirá
+como aerossol por uma curta duração, sofrendo degradação fotoquímica produzida por
+radicais hidroxil, sendo o metanol residual removido da atmosfera por precipitação
+pluviométrica. No ecossistema aquático, metanol pode ser muito prejudicial à vida.
+13. CONSIDERAÇÕES SOBRE TRATAMENTO E DISPOSIÇÃO
+Métodos recomendados para destinação final
+- Produto: Sempre que possível o produto deverá ser recuperado, quando não for possível
+incineração ou aterramento de acordo com regulamentação federal ou regional.
+- Restos de produtos: Não descarte junto com lixo doméstico. Este produto não deve ser
+descartado diretamente nos esgotos, cursos d'água ou no solo. Incineração ou aterramento
+de acordo com regulamentação federal ou regional.
+- Embalagem usada: Não usar para armazenar água ou produtos para consumo humano.
+Queimar em incinerador ou colocar em aterro específico, devem ser tomados os cuidados de
+acordo com os regulamentos locais. Se forem reutilizadas lavar com água e destinar a
+solução para o tratamento. As embalagens descontaminadas podem ser enviadas reciclagem
+por empresa licenciada. As embalagens podem também ser enviadas para recondicionadores
+credenciados pelas autoridades para executar tais procedimentos.
+Outras informações: O usuário deve consultar os órgãos locais sobre regulamentação para
+disposição.
+14. INFORMAÇÕES SOBRE TRANSPORTE
+Regulamentações nacionais e internacionais:
+Terrestres:
+Resolução nº 420 de 12 de Fevereiro de 2004 da Agência Nacional de Transportes Terrestres
+(ANTT), que Aprova as Instruções Complementares ao Regulamento do Transporte Terrestre
+de Produtos Perigosos e suas modificações.
+Hidroviário:
+DPC – Diretoria de Portos e Costas (Transporte em águas brasileiras).
+Normas de Autoridade Marítima (NORMAM):
+- NORMAM 01/DPC: Embarcações Empregadas na Navegação em Mar aberto;
+- NORMAM 02/DPC: Embarcações Empregadas na Navegação Interior.
+IMO – “Internacional Maritime Organization” (Organização Marítima Internacional).
+Internacional Maritime Dangerous Goods Code (IMDG Code).
+Elaborado por: Revisado por: Aprovado por:
+Claudia S. Portantiolo Claudia S. Portantiolo Claudia S. Portantiolo
+Responsável Técnica Responsável Técnica Responsável Técnica
+CRQ XIII 13400549 CRQ XIII 13400549 CRQ XIII 13400549
+Data: 10/05/2016 Data: 10/05/2016 Data: 10/05/2016
+Anexo - 9 – PSQ/BPF - 4.1.1. – Controle de Projetos
+Rev: 02 Data: 17/03/2014
+ | FICHA DE INFORMAÇÕES DE SEGURANÇA
+DE PRODUTO QUÍMICO | Rev: 03
+Código: FISPQ - 007 | METANOL | Pág: 11 / 13
+Elaborado por:
+Claudia S. Portantiolo
+Responsável Técnica
+CRQ XIII 13400549
+Data: 10/05/2016 | Revisado por:
+Claudia S. Portantiolo
+Responsável Técnica
+CRQ XIII 13400549
+Data: 10/05/2016 | Aprovado por:
+Claudia S. Portantiolo
+Responsável Técnica
+CRQ XIII 13400549
+Data: 10/05/2016
+FICHA DE INFORMAÇÕES DE SEGURANÇA Rev: 03
+DE PRODUTO QUÍMICO
+Código: FISPQ - 007 METANOL Pág: 11 / 13
+Aéreo:
+ANAC – Agência Nacional de Aviação Civil – Resolução nº 129 de 8 de dezembro de 2009.
+RBAC nº 175 – (REGULAMENTO BRASILEIRO DA AVIAÇÃO CIVIL) – TRANSPORTE DE
+ARTIGOS PERIGOSOS.
+IS nº 175-001 – INSTRUÇÃO SUPLEMENTAR – IS
+ICAO – “internacional Civil Aviation Organization” (Organização da Aviação Civil Internacional)
+– Doc 9284-NA/905.
+IATA – “Internacional Air Transport Association” (Associação Internacional de Transporte
+Aéreo).
+Dangerous Goods Regulation (DGR).
+Para produto classificado como perigoso para o transporte (conforme modal):
+Número ONU: 1230
+Nome adequado para embarque: Metanol
+Classe de risco: 3
+Número de risco: 336
+Risco subsidiário: 6.1
+Grupo embalagem: II
+Perigo ao meio ambiente: Não disponível
+15. REGULAMENTAÇÕES
+Regulamentações específicas de segurança, saúde e meio ambiente para o produto
+químico
+FISPQ (Ficha de Informações de Segurança de Produto Químico) em conformidade com o
+Decreto 2657 de 03.07.98, contém informações diversas sobre um determinado produto
+químico, quanto à proteção, à segurança, à saúde e ao meio ambiente. Em alguns países,
+essa ficha é chamada de Material Safety Data Sheet - MSDS. A norma brasileira NBR 14725-
+4, segunda edição 03/08/2012, válida a partir de 03/09/2012, apresenta informações para a
+elaboração e o preenchimento de uma FISPQ. Esta norma estabelece que as informações
+sobre o produto químico devem ser distribuídas, na FISPQ, por 16 seções determinadas, cuja
+terminologia, numeração e sequência não devem ser alteradas.
+Transporte de Produtos Perigosos: Decreto No 96.044, de 18/maio/1988 (Aprova o
+regulamento técnico para o transporte rodoviário de produtos perigosos e dá outras
+providencias). Resolução do Ministério dos Transportes No 420 de 12/Fev./2004, (aprova as
+instruções complementares ao regulamento do transporte terrestre de produtos perigosos).
+Elaborado por: Revisado por: Aprovado por:
+Claudia S. Portantiolo Claudia S. Portantiolo Claudia S. Portantiolo
+Responsável Técnica Responsável Técnica Responsável Técnica
+CRQ XIII 13400549 CRQ XIII 13400549 CRQ XIII 13400549
+Data: 10/05/2016 Data: 10/05/2016 Data: 10/05/2016
+Anexo - 9 – PSQ/BPF - 4.1.1. – Controle de Projetos
+Rev: 02 Data: 17/03/2014
+ | FICHA DE INFORMAÇÕES DE SEGURANÇA
+DE PRODUTO QUÍMICO | Rev: 03
+Código: FISPQ - 007 | METANOL | Pág: 12 / 13
+Elaborado por:
+Claudia S. Portantiolo
+Responsável Técnica
+CRQ XIII 13400549
+Data: 10/05/2016 | Revisado por:
+Claudia S. Portantiolo
+Responsável Técnica
+CRQ XIII 13400549
+Data: 10/05/2016 | Aprovado por:
+Claudia S. Portantiolo
+Responsável Técnica
+CRQ XIII 13400549
+Data: 10/05/2016
+FICHA DE INFORMAÇÕES DE SEGURANÇA Rev: 03
+DE PRODUTO QUÍMICO
+Código: FISPQ - 007 METANOL Pág: 12 / 13
+16. OUTRAS INFORMAÇÕES
+Informações importantes, mas não especificamente descritas nas seções anteriores:
+As informações e recomendações constantes desta publicação foram pesquisadas e
+compiladas de fontes idôneas e capacitadas para emiti-las. Os dados dessa Ficha referem-se
+a um produto específico e podem não ser válidos onde esse produto estiver sendo usado em
+combinação com outros. Estes dados são de caráter complementar, fornecidos de boa fé,
+representando o que de melhor se conhece sobre a matéria em questão, não significando que
+o assunto tenha sido completamente exaurido.
+A legislação específica, reguladora da matéria integrante da presente FISPQ, prevalece sobre
+os dados e informações, acima explicitados.
+Constitui obrigação do usuário determinar que o produto seja sempre manuseado de maneira
+segura e de forma correta.
+Referências: FISPQ dos fornecedores.
+Legendas e abreviaturas
+ABNT – Associação Brasileira de Normas Técnicas
+ACGIH = American Confederation of Governmental Industrial Hygienists (USA)
+ADR: European agreement concerning the international carriage of dangerous goods by road.
+CA = Certificado de Aprovação
+CAS = Chemical Abstract Service
+CE : Concentração média para 50% da resposta máxima
+50
+CL: Concentração Letal - concentração de uma substância em um meio ambiente que
+provoca a morte após certo período de exposição
+CL : Concentração letal para 50% dos animais em teste. DBO: Demanda Bioquímica de
+50
+Oxigênio
+DBO: Demanda Bioquímica de Oxigênio
+DGR = Dangerous Goods Regulation
+DL : Dose Letal para 50% dos animais em teste
+50
+DLLo: Dose Letal Baixa - quantidade mínima letal de uma substância química para os animais
+em teste
+EPA = Environmental Protection Agency
+EPI = Equipamento de Proteção Individual
+FISPQ = Ficha Interna de Segurança de Produto Químico
+GHS: Globally Harmonized System of Classification and Labelling of Chemicals
+IARC = International Agency for Research on Cancer
+IATA = International Air Transport Association
+IBMP: Índice Biológico Máximo Permitido
+Elaborado por: Revisado por: Aprovado por:
+Claudia S. Portantiolo Claudia S. Portantiolo Claudia S. Portantiolo
+Responsável Técnica Responsável Técnica Responsável Técnica
+CRQ XIII 13400549 CRQ XIII 13400549 CRQ XIII 13400549
+Data: 10/05/2016 Data: 10/05/2016 Data: 10/05/2016
+Anexo - 9 – PSQ/BPF - 4.1.1. – Controle de Projetos
+Rev: 02 Data: 17/03/2014
+ | FICHA DE INFORMAÇÕES DE SEGURANÇA
+DE PRODUTO QUÍMICO | Rev: 03
+Código: FISPQ - 007 | METANOL | Pág: 13 / 13
+Elaborado por:
+Claudia S. Portantiolo
+Responsável Técnica
+CRQ XIII 13400549
+Data: 10/05/2016 | Revisado por:
+Claudia S. Portantiolo
+Responsável Técnica
+CRQ XIII 13400549
+Data: 10/05/2016 | Aprovado por:
+Claudia S. Portantiolo
+Responsável Técnica
+CRQ XIII 13400549
+Data: 10/05/2016
+FICHA DE INFORMAÇÕES DE SEGURANÇA Rev: 03
+DE PRODUTO QUÍMICO
+Código: FISPQ - 007 METANOL Pág: 13 / 13
+ICAO: International Civil Aviation Organization
+ICAO-TI: Technical Instructions by the ICAO
+IDLH – Immediately Dangerous to Life or Health
+IMDG = Código internacional de riscos para transporte seguro via marítima
+Kow: Coeficiente de partição n-octanol/água.
+LOLI - List Of LIsts™ - ChemADVISOR's Regulatory Database
+LT – Limite de Tolerância
+NBR = Norma Brasileira Reunida
+NIOSH: National Institute for Occupational Safety and Health
+NR = Norma Regulamentadora
+NTP: National Toxicology Program
+OIT = Organização Internacional do Trabalho
+ONU = Organização das Nações Unidas
+OSHA = Occupational Safety and Health Administration
+PCMSO = Programa de Controle Médico de Saúde Ocupacional
+PEL = Limite de Exposição Permissível / Permissible Exposure Limit (USA)
+PEL-TWA= Limite de Exposição Permissível – média ponderada no tempo
+PPRA = Programa de Prevenção de Riscos Ambientais
+RID: Regulations concerning the international transport of dangerous goods by rail
+STEL – Short Therm Exposure Limit
+TLV = Valor Limite de Tolerância / Threshold Limit Value (USA)
+TLV-STEL: Valor Limite de Tolerância - período curto de tempo (15 minutos, máximo)
+TLV-TWA = Valor Limite de Tolerância / – média ponderada no tempo
+TWA - Time Weighted Average
+Elaborado por: Revisado por: Aprovado por:
+Claudia S. Portantiolo Claudia S. Portantiolo Claudia S. Portantiolo
+Responsável Técnica Responsável Técnica Responsável Técnica
+CRQ XIII 13400549 CRQ XIII 13400549 CRQ XIII 13400549
+Data: 10/05/2016 Data: 10/05/2016 Data: 10/05/2016
+Anexo - 9 – PSQ/BPF - 4.1.1. – Controle de Projetos
+Rev: 02 Data: 17/03/2014

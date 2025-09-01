@@ -1,0 +1,310 @@
+FICHA DE INFORMAÇÃO DE SEGURANÇA DE PRODUTOS QUÍMICOS – FISPQ
+De acordo com a NBR 14725-4:2012
+Data da emissão: 01/10/12 Data da revisão 11/11/15 revisão 02 Fispq Nº 076
+1. IDENTIFICAÇÃO DO PRODUTO E DA EMPRESA
+1.1 Identificadores do produto
+Nome do produto : DIFENILAMINA
+Referência do Produto : QMA0000113150
+Marca : Química Moderna
+1.2 Outros meios de identificação
+Dados não disponíveis
+1.3 Utilizações identificadas relevantes da substância ou mistura e utilizações desaconselhadas
+Só para utilização em laboratório. Não para utilização farmaceutica, doméstica ou outras utilizações.
+1.4 Identificação do fornecedor da ficha de dados de segurança
+Empresa : Química Moderna Ind. e Com Ltda.
+Rua Titicaca, 813
+0642-080 - Barueri - SP
+BRASIL
+Telefone : +55 11 2391 0950
+Número de Fax : +55 11 4198 1064
+Email endereço : laboratório@quimicamoderna.net.br
+1.5 Número do telefone de emergência
+(11) 2391 0950
+2. IDENTIFICAÇÃO DE PERIGOS
+2.1 Classificação GHS
+Toxicidade aguda, Oral (Categoria 3)
+Toxicidade aguda, Inalação (Categoria 3)
+Toxicidade aguda, Dérmico (Categoria 3)
+Toxicidade para órgãos-alvo específicos - exposição repetida (Categoria 2)
+Toxicidade aguda para o ambiente aquático (Categoria 1)
+Toxicidade crónica para o ambiente aquático (Categoria 1)
+2.2 Elementos da Etiqueta GHS, incluindo declarações de prevenção
+Pictograma
+Palavra de advertência Perigo
+Frases de Perigo
+H301 + H311 + H331 Tóxico por ingestão, contato com a pele ou inalação
+H373 Pode afectar os órgãos após exposição prolongada ou repetida.
+H410 Muito tóxico para os organismos aquáticos com efeitos duradouros.
+Frases de Precaução
+Prevenção
+P260 Não respirar as poeiras/ fumos/ gases/ névoas/ vapores/ aerossóis.
+P264 Lavar a pele cuidadosamente após manuseamento.
+Química Moderna - DIFENILAMINA – Revisão 02 - Data de revisão 11.11.2015 Página 1 de 8
+Componente | Concentração
+Difenilamina | 
+No. CAS 122-39-4 | <= 100 %
+P273 Evitar a libertação para o ambiente.
+P280 Usar luvas de proteção/ vestuário de proteção.
+Resposta
+P301 + P310 + P330 EM CASO DE INGESTÃO: contacte imediatamente um CENTRO DE
+INFORMAÇÃO ANTIVENENOS ou um médico. Enxaguar a boca.
+P302 + P352 + P312 SE EM CONTATO COM A PELE: Lavar com muita água. Caso sinta
+indisposição, contacte um CENTRO DE INFORMAÇÃO ANTIVENENOS
+ou um médico.
+P304 + P340 + P311 EM CASO DE INALAÇÃO: retirar a pessoa para uma zona ao ar livre e
+mantê-la numa posição que não dificulte a respiração. Contacte um
+CENTRO DE INFORMAÇÃO ANTIVENENOS ou um médico.
+P314 Em caso de indisposição, consulte um médico.
+P361 + P364 Retirar imediatamente a roupa contaminada e lavá-la antes de a voltar a
+usar.
+Armazenagem
+P403 + P233 Armazenar em local bem ventilado. Manter o recipiente bem fechado.
+2.3 Outros Perigos - nenhum(a)
+3. COMPOSIÇÃO E INFORMAÇÕES SOBRE OS INGREDIENTES
+3.1 Substâncias
+Formula : C12H11N
+Peso molecular : 169.22 g/mol
+Componente Concentração
+Difenilamina
+No. CAS 122-39-4 <= 100 %
+4. MEDIDAS DE PRIMEIROS-SOCORROS
+4.1 Descrição das medidas de primeiros socorros
+Recomendação geral
+Consultar um médico. Mostrar esta ficha de segurança ao médico de serviço.
+Em caso de inalação
+Se for respirado, levar a pessoa para o ar fresco. Se não respirar, dar respiração artificial. Consultar um
+médico.
+Em caso de contato com a pele
+Lavar com polietileno glicol e depois com bastante água. Transportar imediatamente paciente para um
+Hospital. Retirar imediatamente todo o vestuário contaminado.Lavar com sabão e muita água. Transportar
+imediatamente paciente para um Hospital. Consultar um médico.
+Se entrar em contato com os olhos
+Lavar os olhos com água como precaução.
+Em caso de ingestão
+Nunca dar nada pela boca a uma pessoa inconsciente. Enxaguar a boca com água. Consultar um médico.
+4.2 Sintomas e efeitos mais importantes, tanto agudos como retardados
+A absorção pelo organismo leva à formação de metemoglobina que em concentração suficiente provoca
+cianose. O início pode demorar de 2 a 4 horas ou mais., Náusea, Vómitos, Pode causar lesões no fígado.,
+Pode causar lesões nos rins.
+Até onde sabemos, as propriedades químicas, físicas e toxicológicas não foram minuciosamente
+investigadas.
+Química Moderna - DIFENILAMINA – Revisão 02 - Data de revisão 11.11.2015 Página 2 de 8
+4.3 Indicações sobre cuidados médicos urgentes e tratamentos especiais necessários
+Dados não disponíveis
+5. MEDIDAS DE COMBATE A INCÊNDIO
+5.1 Meios de extinção
+Meios adequados de extinção
+Utilizar água pulverizada, espuma resistente ao álcool, produto químico seco ou dióxido de carbono.
+5.2 Perigos especiais decorrentes da substância ou mistura
+Óxidos de carbono, Óxidos de azoto (NOx)
+5.3 Recomendações para o pessoal de combate a incêndios
+Usar equipamento de respiração autónomo para combate a incêndios, se necessário.
+5.4 Outras informações
+Dados não disponíveis
+6. MEDIDAS DE CONTROLE PARA DERRAMAMENTO OU VAZAMENTO
+6.1 Precauções individuais, equipamento de proteção e procedimentos de emergência
+Pôr uma proteção respiratória. Evitar a formação de poeira. Evitar a respiração do vapor/névoa/gas.
+Assegurar ventilação adequada. Evacuar o pessoal para áreas de segurança. Evitar de respirar o pó.
+6.2 Precauções a nível ambiental
+Prevenir dispersão ou derramamento, se seguro. Não permitir a entrada do produto no sistema de
+esgotos. A descarga no meio ambiente deve ser evitada.
+6.3 Métodos e materiais de confinamento e limpeza
+Apanhar os resíduos sem levantar poeiras. Varrer e apanhar com uma pá. Manter em recipientes
+fechados adequados, para eliminação.
+6.4 Remissão para outras secções
+Para eliminação de resíduos ver seção 13.
+7. MANUSEIO E ARMAZENAMENTO
+7.1 Precauções para um manuseamento seguro
+Evitar o contato com a pele e os olhos. Evitar a formação de pó e aerossois.
+Providenciar uma adequada ventilação em locais onde se formem poeiras.
+7.2 Condições de armazenagem segura, incluindo eventuais incompatibilidades
+Armazenar em local fresco. Guardar o recipiente herméticamente fechado em lugar seco e bem ventilado.
+7.3 Utilizações finais específicas
+Dados não disponíveis
+8. CONTROLE DE EXPOSIÇÃO E PROTEÇÃO INDIVIDUAL
+8.1 Parâmetros de controlo
+Límites de exposição ocupacional
+8.2 Controlo da exposição
+Controlos técnicos adequados
+Evitar o contato com a pele, olhos e vestuário. Lavar as mãos antes de interrupções do trabalho, e
+imediatamente a seguir ao manuseamento do produto.
+Proteção individual
+Proteção ocular/ facial
+Mascaras de proteção e óculos de segurança. Use equipamento de proteção ocular testado e
+aprovado de acordo com as normas governamentais adequadas.
+Química Moderna - DIFENILAMINA – Revisão 02 - Data de revisão 11.11.2015 Página 3 de 8
+Proteção da pele
+Manusear com luvas de borracha ou neoprene. As luvas devem ser inspecionadas antes da utilização.
+Descarte as luvas contaminadas após o uso, em conformidade com as leis eboas práticas de laboratório.
+Lavar e secar as mãos.
+As luvas de proteção selecionadas devem satisfazer as especificações da Diretiva MTb.
+Contato total
+Material: Borracha de nitrilo
+espessura mínima da capa: 0.11 mm
+Pausa através do tempo: 480 min
+Contato com salpicos
+Material: Borracha de nitrilo
+espessura mínima da capa: 0.11 mm
+Pausa através do tempo: 480 min
+Esta recomendação é apenas desejável e deve ser avaliada por um responsável de segurança e
+higiene industrial familiarizado com a situação específica de utilização pretendida pelos nossos clientes.
+Não deve ser interpretado como uma oferta de aprovação para qualquer cenário de uso específico
+Proteção do corpo
+Traje completo de proteção para produtos químicos, capa avental, bota de segurança, avental de trevira se necessario.
+Proteção respiratória
+Nos casos em que a avaliação de risco mostrar que os respiradores purificadores do ar são
+apropriados, use um respirador de partículas para pós e material particulado. Se o respirador for o único meio de
+proteção, usa um respirador de ar de cobertura facial total. Use mascaras e componentes testados e aprovados
+por normas governamentais apropriadas.
+9. PROPRIEDADES FÍSICAS E QUÍMICAS
+9.1 Informações sobre propriedades físicas e químicas de base
+a) Aspeto Forma: cristalino
+Cor: branco
+b) Odor Dados não disponíveis
+c) Limite de Odor Dados não disponíveis
+d) pH Dados não disponíveis
+e) Ponto de fusão/ponto Ponto/intervalo de fusão: 50 - 53 °C - lit.
+de congelamento
+f) Ponto de ebulição inicial 302 °C - lit.
+e intervalo de ebulição
+g) Ponto de fulgor 153 °C - câmara fechada
+h) Taxa de evaporação Dados não disponíveis
+i) Inflamabilidade (sólido, Dados não disponíveis
+gás)
+Química Moderna - DIFENILAMINA – Revisão 02 - Data de revisão 11.11.2015 Página 4 de 8
+Dados não disponíveis
+j) Limites de
+inflamabilidade superior
+/ inferior ou
+explosividade
+k) Pressão de vapor 1 hPa a 108 °C
+l) Densidade de vapor Dados não disponíveis
+m) Densidade relativa 1.160 g/cm3
+n) Hidrossolubilidade insolúvel
+o) Coeficiente de partição log Pow: 3.5
+n-octanol/água
+p) Temperatura de auto- Dados não disponíveis
+ignição
+q) Temperatura de Dados não disponíveis
+decomposição
+r) Viscosidade Dados não disponíveis
+10. ESTABILIDADE E REATIVIDADE
+10.1 Reatividade
+Dados não disponíveis
+10.2 Estabilidade química
+Dados não disponíveis
+10.3 Possibilidade de reações perigosas
+Dados não disponíveis
+10.4 Condições a evitar
+Dados não disponíveis
+10.5 Materiais incompatíveis
+Agentes oxidantes fortes, Ácidos fortes
+10.6 Produtos de decomposição perigosos
+Outros produtos de decomposição perigosos - Dados não disponíveis
+11. INFORMAÇÕES TOXICOLÓGICAS
+11.1 Informações sobre os efeitos toxicológicos
+Toxicidade aguda
+DL50 Oral - Ratazana - 1,120 mg/kg
+Observações: Comportamento: Sonolência (diminuição da atividade geral) Problemas respiratórios
+Sangue: Metahemoglobinemia-Carboxihemoglobina
+Inalação: Dados não disponíveis
+Dérmico: Dados não disponíveis
+Corrosão/irritação cutânea
+Dados não disponíveis
+Lesões oculares graves/irritação ocular
+Dados não disponíveis
+Sensibilização respiratória ou cutânea
+Dados não disponíveis
+Mutagenicidade em células germinativas
+Dados não disponíveis
+Química Moderna - DIFENILAMINA – Revisão 02 - Data de revisão 11.11.2015 Página 5 de 8
+Carcinogenicidade
+Este produto é ou contém um componente que não é classificável quanto à sua carcinogenicidade segundo
+sua classificação pela IARC, ACGIH, NTP ou EPA.
+IARC: Nenhum componente deste produto presente a níveis maiores ou iguais a 0.1% é identificado
+como carcinogénio provável, possível ou confirmado pelo IARC.
+Toxicidade à reproduçã e lactação
+Efeitos tóxicos no desenvolvimento - Ratazana - Oral
+Malformações Específicas do Desenvolvimento: Aparelho urogenital
+Toxicidade sistêmica para órgãos-alvo específicos - exposição única
+Dados não disponíveis
+Toxicidade sistêmica para órgãos-alvo específicos - exposição repetida
+Pode afectar os órgãos após exposição prolongada ou repetida.
+Perigo de aspiração
+Dados não disponíveis
+Possíveis danos para a saúde
+Inalação Tóxico se inalado. Pode causar uma irritação do aparelho respiratório.
+Ingestão Tóxico se ingerido.
+Pele Tóxico se absorvido através da pele. Pode causar uma irritação da pele.
+Olhos Pode causar uma irritação dos olhos.
+Sinais e sintomas de exposição
+A absorção pelo organismo leva à formação de metemoglobina que em concentração suficiente provoca
+cianose. O início pode demorar de 2 a 4 horas ou mais., Náusea, Vómitos, Pode causar lesões no fígado.,
+Pode causar lesões nos rins.
+Até onde sabemos, as propriedades químicas, físicas e toxicológicas não foram minuciosamente
+investigadas.
+Informação adicional
+RTECS: JJ7800000
+12. INFORMAÇÕES ECOLÓGICAS
+12.1 Ecotoxicidade
+Toxicidade em peixes CL50 - Pimephales promelas (vairão gordo) - 3.79 mg/l - 96.0 h
+CL0 - Leuciscus idus (Carpa dourada) - 20 mg/l - 48.0 h
+Toxicidade em dáfnias e CE50 - Daphnia magna - 0.27 - 0.36 mg/l - 48 h
+outros invertebrados
+aquáticos
+Toxicidade em algas CE50 - Desmodesmus subspicatus (alga verde) - 0.048 mg/l - 72 h
+CI50 - Desmodesmus subspicatus (alga verde) - 1.5 mg/l - 72 h
+12.2 Persistência e degradabilidade
+Biodegradabilidade Resultado: - De acordo com os resultados dos testes de biodegradabilidade,
+este produto não é fácilmente biodegradável.
+Dados não disponíveis
+12.3 Potencial biocumulativo
+Bioacumulação Cyprinus carpio (Carpa) -
+Factor de bioconcentração (BCF): 253
+Química Moderna - DIFENILAMINA – Revisão 02 - Data de revisão 11.11.2015 Página 6 de 8
+12.4 Mobilidade no solo
+Dados não disponíveis
+12.5 Resultados da avaliação PBT e mPmB
+Dados não disponíveis
+12.6 Outros efeitos adversos
+Muito tóxico para os organismos aquáticos com efeitos duradouros.
+13. CONSIDERAÇÕES SOBRE TRATAMENTO E DISPOSIÇÃO
+13.1 Métodos de tratamento de resíduos
+Produto
+Propor a entrega de soluções excedentes e não recicláveis a uma empresa idónea de tratamento de
+resíduos. Dissolver ou misturar o material com um solvente combustível e queimar em incinerador químico
+equipado com pós-combustor e purificador de gases.
+Embalagens contaminadas
+Eliminar como produto Não utilizado.
+14. INFORMAÇÕES SOBRE TRANSPORTE
+14.1 Número ONU
+ADR/RID: 2811 DOT (US): - IMDG: 2811 IATA: 2811
+14.2 Designação oficial de transporte da ONU
+ADR/RID: SÓLIDO TÓXIDO ORGÂNICO
+(Difenilamina)
+DOT (US): Mercadorias não perigosas
+IMDG: Sustância sólida perigosa para o meio ambiente (Difenilamina)
+IATA: Sustância sólida perigosa para o meio ambiente. (Difenilamina)
+14.3 Classes de perigo para efeitos de transporte
+ADR/RID: 6.1 DOT (US): - IMDG: 6.1 IATA: 6.1
+14.4 Grupo de embalagem
+ADR/RID: III DOT (US): - IMDG: III IATA: III
+14.5 Perigos para o ambiente
+ADR/RID: sim DOT (US): não IMDG Poluente marinho: sim IATA: sim
+14.6 Precauções especiais para o utilizador
+.
+15. REGULAMENTAÇÕES
+15.1 Regulamentação/legislação específica para a substância ou mistura em matéria de saúde, segurança
+e ambiente
+Esta Ficha de Informações de Produtos Químicos foi preparada de acordo com a NBR 14725-4/2012 da
+ABNT (Associação Brasileira de Normas Técnicas)
+Química Moderna - DIFENILAMINA – Revisão 02 - Data de revisão 11.11.2015 Página 7 de 8
+16. OUTRAS INFORMAÇÕES
+Outras informações
+Acredita-se que as informações acima estejam corretas, embora não pretendam ser totalmente
+abrangentes, devendo ser usadas apenas como um guia. A informação contida neste
+documento esta baseada no presente estado do nosso conhecimento e é aplicável ás
+precauções de segurança apropriadas para o produto. Não representa nenhuma garantia das
+propriedades do produto. A Química Moderna, não responderá por nenhum dano resultante do
+manuseio ou do uso incorreto.
+Química Moderna - DIFENILAMINA – Revisão 02 - Data de revisão 11.11.2015 Página 8 de 8

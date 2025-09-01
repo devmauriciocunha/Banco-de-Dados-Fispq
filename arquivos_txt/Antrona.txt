@@ -1,0 +1,369 @@
+FICHA DE INFORMAÇÃO DE Versão 8.0
+Data da revisão 09.03.2021
+SEGURANÇA DE PRODUTO Data de impressão 16.03.2021
+QUÍMICO
+1. IDENTIFICAÇÃO DO PRODUTO E DA EMPRESA
+1.1 Identificadores do produto
+Nome do produto : Antrona P.A, 10 gramas ACS,Reag. Ph Eur
+Referência do Produto : 1.01468
+No. de catálogo : 101468
+Marca : Millipore
+Número REACH : Um número de registo não está disponível para esta substancia,
+já que a substancia ou os seus usos estão isentos do registo, a
+tonelagem anual não requere registo ou este registo está
+previsto para uma data posterior
+Nº CAS : 90-44-8
+1.2 Usos identificados da substância ou mistura e usos não recomendados
+Usos identificados : Reagente para análise, Produção química
+1.3 Detalhes do fornecedor da Ficha de Informação de Segurança de Produto Químico
+- FISPQ
+Empresa : Merck S/A
+Rua Torre Eifell, 100
+PARQUE RINCÃO - GLEBA A COTIA, SÃO PAULO
+06705-481
+BRAZIL
+Telefone : 0800 727-7292
+Número de Fax : 0800 727-7292
+1.4 Número do telefone de emergência
+Núnero de Telefone de : Chemtrec: +(55)-2139581449 *
+Emergência Suatrans: 0800 707 7022 / 0800 17 2020
+2. IDENTIFICAÇÃO DE PERIGOS
+2.1 Classificação da substância ou mistura
+Classificação de acordo com o regulamento (CE) 1272/2008
+Irritação da pele (Categoria 2), H315
+Irritação ocular (Categoria 2A), H319
+Toxicidade sistêmica de órgão-alvo específico - exposição única (Categoria 3), Sistema
+respiratório, H335
+Millipore- 1.01468 Página 1 de 9
+The life science business of Merck operates as MilliporeSigma in
+the US and Canada
+ | Componente | | | Classificação | | | Concentração | 
+Anthrone | | | | | | | | 
+ | | | Skin Irrit. 2; Eye Irrit. 2A;
+STOT SE 3; H315, H319,
+H335 | | | <= 100 % | | 
+Para obter o texto completo das frases de perigo mencionadas nesta seção, consulte a
+seção 16.
+2.2 Elementos do rótulo
+Rotulagem de acordo com o Regulamento (CE) 1272/2008
+Pictograma
+Palavra-sinal Atenção
+Declaração de perigo
+H315 Provoca irritação à pele.
+H319 Provoca irritação ocular grave.
+H335 Pode provocar irritação das vias respiratórias.
+declaração de precaução
+Prevenção
+P261 Evite inalar as poeiras/ fumos/ gases/ névoas/ vapores/
+aerossóis.
+P264 Lave a pele cuidadosamente após o manuseio.
+P271 Utilize apenas ao ar livre ou em locais bem ventilados.
+P280 Use luvas de proteção/ proteção ocular/ proteção facial.
+Resposta de emergência
+P304 + P340 + P312 EM CASO DE INALAÇÃO: Remova a pessoa para local ventilado
+e a mantenha em repouso numa posição que não dificulte a
+respiração. Caso sinta indisposição, contate um CENTRO DE
+INFORMAÇÃO TOXOCOLÓGICA/ médico.
+P332 + P313 Em caso de irritação cutânea: Consulte um médico.
+P337 + P313 Caso a irritação ocular persista: consulte um médico.
+P362 + P364 Retire toda a roupa contaminada e lave-a antes de usá-la
+novamente.
+Armazenamento
+P403 + P233 Armazene em local bem ventilado. Mantenha o recipiente
+hermeticamente fechado.
+Disposição
+P501 Descarte o conteúdo/ recipiente em uma estação aprovada de
+tratamento de resíduos.
+2.3 Outros Perigos - nenhum
+3. COMPOSIÇÃO E INFORMAÇÕES SOBRE OS INGREDIENTES
+3.1 Substâncias
+Fórmula : C14H10O
+Peso molecular : 194.23 g/mol
+Nº CAS : 90-44-8
+N° CE : 201-994-0
+Componente Classificação Concentração
+Anthrone
+Skin Irrit. 2; Eye Irrit. 2A; <= 100 %
+STOT SE 3; H315, H319,
+H335
+Millipore- 1.01468 Página 2 de 9
+The life science business of Merck operates as MilliporeSigma in
+the US and Canada
+Para obter o texto completo das frases de perigo mencionadas nesta seção, consulte a
+seção 16.
+4. MEDIDAS DE PRIMEIROS-SOCORROS
+4.1 Descrição das medidas de primeiros-socorros
+Recomendação geral
+Mostrar esta FISPQ ao médico de plantão.
+Se inalado
+Após inalação: Exposição ao ar fresco.
+Em caso de contato com a pele
+No caso dum contacto com a pele: Retirar imediatamente toda a roupa contaminada.
+Enxaguar a pele com água/tomar um duche.
+Em caso de contato com o olho
+Após contacto com os olhos: Enxaguar abundantemente com água. Consultar um
+oftalmologista. Remova as lentes de contato.
+Se ingerido
+Após ingestão: fazer a vitima beber imediatamente água ( dois copos no máximo)
+Consultar um médico.
+4.2 Sintomas e efeitos mais importantes, agudos e retardados
+Os sintomas e efeitos mais importantes conhecidos descrevem-se na etiqueta (ver secção
+2.2) e / ou na secção 11
+4.3 Indicação da atenção médica imediata e do tratamento especial necessário
+dados não disponíveis
+5. MEDIDAS DE COMBATE A INCÊNDIO
+5.1 Meios de extinção
+Meios adequados de extinção
+Água Espuma Dióxido de carbono (CO2) Pó seco
+Agentes de extinção inadequados
+Para esta substância/mistura, não há limitações dos agentes de extinção.
+5.2 Riscos especiais resultantes da substância ou da mistura
+A natureza dos produtos de decomposição não é conhecida.
+Combustível.
+Em caso de incêndio formam-se gases inflamáveis e vapores perigosos.
+5.3 Precauções para bombeiros
+Não ficar na zona de perigo sem aparelhos respiratórios autónomos apropriados para
+respiração independente do ambiente. De forma a evitar o contacto com a pele, mantenha
+uma distância de segurança e utilize vestuário protetor adequado.
+5.4 Informações complementares
+Evitar a contaminação da água de superfície e da água subterrânea com a água de
+combate a incêndios.
+Millipore- 1.01468 Página 3 de 9
+The life science business of Merck operates as MilliporeSigma in
+the US and Canada
+6. MEDIDAS DE CONTROLE PARA DERRAMAMENTO OU VAZAMENTO
+6.1 Precauções pessoais, equipamentos de proteção e procedimentos de emergência
+Conselho para o pessoal da não emergência: Evitar a inalação de pós. Evitar o contacto
+com a substância. Assegurar ventilação adequada. Evacuar a área de perigo, observar os
+procedimentos de emergência, consultar um especialista.
+Para a proteção individual, consultar a seção 8.
+6.2 Precauções ambientais
+Não permitir a entrada do produto nos esgotos.
+6.3 Métodos e materiais de contenção e limpeza
+Cobrir os drenos. Colectar, ligar e bombear fugas para fora. Observar as possíveis
+restricções materiais (ver secções 7 e 10). Absorver em estado seco. Proceder à
+eliminação de resíduos. Limpeza posterior. Evitar a formação de pós.
+6.4 Consulta a outras seções
+Para eliminação de resíduos ver secção 13.
+7. MANUSEIO E ARMAZENAMENTO
+7.1 Precauções para manuseio seguro
+Ver precauções na secção 2.2
+7.2 Condições para armazenamento seguro, incluindo incompatibilidades
+Condições de armazenamento
+Ao abrigo da luz.Herméticamente fechado. Em local seco.
+Temperatura recomendada de armazenagem, consulte na etiqueta de produto.
+7.3 Utilizações finais específicas
+Aparte dos usos mencionados na secção 1.2 não se estipulam outros usos específicos
+8. CONTROLE DE EXPOSIÇÃO E PROTEÇÃO INDIVIDUAL
+8.1 Parâmetros de controle
+Componentes com parâmetros a controlar no local de trabalho
+Não contém substâncias com valores limites de exposição ocupacional.
+8.2 Controles da exposição
+Controles apropriados de engenharia
+Mudar imediatamente a roupa contaminada. Profilaxia cutânea. Depois de terminar o
+trabalho, lavar as mãos e a cara.
+Equipamento de Proteção Individual (EPI)
+Proteção para a pele/olhos
+Use equipamento de proteção ocular testado e aprovado de acordo com as normas
+governamentais adequadas, tais como NIOSH (US) ou EN 166 (EU). Óculos de
+segurança
+Proteção para a pele
+Esta recomendação aplica-se apenas ao produto descrito na ficha de dados de
+segurança por nós fornecida bem como para a aplicação especificada. Quando
+houver dissolução ou mistura com outras substâncias e sob as devidas condições
+houver desvios aos descritos na EN374, por favor, contactar o fornecedor de luvas
+com marcação CE (ex: KCL GmbH, D-36124 Eichenzell, Internet: www.kcl.de).
+Contato total
+Millipore- 1.01468 Página 4 de 9
+The life science business of Merck operates as MilliporeSigma in
+the US and Canada
+Materiais: Borracha nitrílica
+espessura mínima da capa: 0.11 mm
+Pausa: 480 min
+Material ensaiado:KCL 741 Dermatril® L
+Esta recomendação aplica-se apenas ao produto descrito na ficha de dados de
+segurança por nós fornecida bem como para a aplicação especificada. Quando
+houver dissolução ou mistura com outras substâncias e sob as devidas condições
+houver desvios aos descritos na EN374, por favor, contactar o fornecedor de luvas
+com marcação CE (ex: KCL GmbH, D-36124 Eichenzell, Internet: www.kcl.de).
+Contato com salpicos
+Materiais: Borracha nitrílica
+espessura mínima da capa: 0.11 mm
+Pausa: 480 min
+Material ensaiado:KCL 741 Dermatril® L
+Proteção do corpo
+vestuário de protecção
+Proteção respiratória
+necessário em caso de formação de pós.
+Nossas recomendações sobre proteção respiratória de filtragem são baseadas nas
+seguintes normas: DIN EN 143, DIN 14387 e outras normas associadas relacionadas
+ao sistema de proteção respiratória utilizado.
+Controle da exposição ambiental
+Não permitir a entrada do produto nos esgotos.
+9. PROPRIEDADES FÍSICAS E QUÍMICAS
+9.1 Informações sobre propriedades físico-químicas básicas
+a) Aspecto Estado físico: sólido
+Cor: amarelo-claro
+b) Odor dados não disponíveis
+c) Limite de Odor dados não disponíveis
+d) pH dados não disponíveis
+e) Ponto de Ponto de fusão: 155 - 158 °C
+fusão/congelamento
+f) Ponto de ebulição dados não disponíveis
+inicial e faixa de
+temperatura de
+ebulição
+g) Ponto de inflamação Não aplicável
+h) Taxa de evaporação dados não disponíveis
+i) Inflamabilidade dados não disponíveis
+(sólido, gás)
+j) Limites superiores / dados não disponíveis
+inferiores de
+inflamabilidade ou de
+explosão
+Millipore- 1.01468 Página 5 de 9
+The life science business of Merck operates as MilliporeSigma in
+the US and Canada
+k) Pressão de vapor dados não disponíveis
+l) Densidade do vapor dados não disponíveis
+m) Densidade relativa dados não disponíveis
+n) Solubilidade em água dados não disponíveis
+o) Coeficiente de dados não disponíveis
+partição (n-
+octanol/água)
+p) Temperatura de dados não disponíveis
+autoignição
+q) Temperatura de dados não disponíveis
+decomposição
+r) Viscosidade Viscosidade, cinemática: dados não disponíveis
+Viscosidade, dinâmica: dados não disponíveis
+s) Riscos de explosão dados não disponíveis
+t) Propriedades dados não disponíveis
+oxidantes
+9.2 Outra informação de segurança
+Densidade aparente 450 kg/m3
+10. ESTABILIDADE E REATIVIDADE
+10.1 Reatividade
+Em geral o seguinte aplica-se a substâncias e misturas orgânicas inflamáveis: numa
+distribuição geralmente fina, quando voltado para cima pode gerar uma potencial explosão
+de pó.
+10.2 Estabilidade química
+O produto é estável quimicamente sob condições ambiente padrão (temperatura
+ambiente).
+10.3 Possibilidade de reações perigosas
+Reacções violentas são possíveis com:
+Agentes oxidantes fortes
+10.4 Condições a serem evitadas
+não existem indicações
+10.5 Materiais incompatíveis
+dados não disponíveis
+10.6 Produtos de decomposição perigosa
+Em caso de incendio: veja-se secção 5
+11. INFORMAÇÕES TOXICOLÓGICAS
+11.1 Informações sobre efeitos toxicológicos
+Toxicidade aguda
+dados não disponíveis
+Millipore- 1.01468 Página 6 de 9
+The life science business of Merck operates as MilliporeSigma in
+the US and Canada
+Corrosão/irritação à pele.
+dados não disponíveis
+Lesões oculares graves/irritação ocular
+dados não disponíveis
+Sensibilização respiratória ou à pele
+dados não disponíveis
+Mutagenicidade em células germinativas
+dados não disponíveis
+Carcinogenicidade
+IARC: Nenhum componente deste produto com concentrações maiores ou iguais a
+0,1% é identificado como como carcinogênico provável, possível ou confirmado
+pelo IARC.
+Toxicidade à reprodução
+dados não disponíveis
+Toxicidade sistêmica de órgão-alvo específico - exposição única
+Pode provocar irritação das vias respiratórias.
+Toxicidade sistêmica de órgão-alvo específico - exposição repetida
+dados não disponíveis
+Perigo por aspiração.
+dados não disponíveis
+11.2 Informação adicional
+dados não disponíveis
+Até onde sabemos, as propriedades químicas, físicas e toxicológicas não foram
+minuciosamente investigadas.
+12. INFORMAÇÕES ECOLÓGICAS
+12.1 Toxicidade
+dados não disponíveis
+12.2 Persistência e degradabilidade
+dados não disponíveis
+12.3 Potencial bioacumulativo
+dados não disponíveis
+12.4 Mobilidade no solo
+dados não disponíveis
+12.5 Resultados da avaliação PBT e vPvB
+A valoração de PBT / mPmB não está disponível já que a avaliação de segurança química
+não é necessária / não se realizou
+12.6 Outros efeitos adversos
+dados não disponíveis
+Millipore- 1.01468 Página 7 de 9
+The life science business of Merck operates as MilliporeSigma in
+the US and Canada
+13. CONSIDERAÇÕES SOBRE TRATAMENTO E DISPOSIÇÃO
+13.1 Métodos de tratamento de resíduos
+Produto
+O material residual deve ser eliminado de acordo com os regulamentos nacionais e locais.
+Deixar os produtos químicos nos recipientes originais. Não misturar com outros materiais
+residuais. Manusear os recipientes não limpos como o próprio produto. As advertências
+de perigo e recomendações de prudência apresentadas na etiqueta aplicam-se também a
+todos os resíduos deixados no recipiente. Uma eliminação ou reciclagem descontrolada
+desta embalagem não é permitida e pode ser perigosa. A embalagem tem de ser
+incinerada numa instalação de incineração adequada que disponha de uma autorização
+fornecida pelas autoridades competentes.
+14. INFORMAÇÕES SOBRE TRANSPORTE
+14.1 Número ONU
+ADR/RID: - DOT (US): - IMDG: - IATA: - ANTT: -
+14.2 Nome de embarque correto da ONU
+ADR/RID: Mercadorias não perigosas
+DOT (US): Mercadorias não perigosas
+IMDG: Mercadorias não perigosas
+IATA: Mercadorias não perigosas
+ANTT: Mercadorias não perigosas
+14.3 Classes de riscos de transporte
+ADR/RID: - DOT (US): - IMDG: - IATA: - ANTT: -
+14.4 Grupo de embalagem
+ADR/RID: - DOT (US): - IMDG: - IATA: - ANTT: -
+14.5 Perigos ambientais
+ADR/RID: não DOT (US): não IMDG Poluente IATA: não
+marinho: não
+14.6 Precauções especiais para os usuários
+Informações complementares
+Produto não perigoso segundo o regulamento de transporte.
+14.7 Numero De Risco
+15. REGULAMENTAÇÕES
+15.1 Normas de segurança, saúde e ambientais específicas para a substância ou
+mistura
+Esta Ficha de Informações de Produtos Químicos foi preparada de acordo com a NBR
+14725-4/2014 da ABNT (Associação Brasileira de Normas Técnicas)
+Millipore- 1.01468 Página 8 de 9
+The life science business of Merck operates as MilliporeSigma in
+the US and Canada
+16. OUTRAS INFORMAÇÕES
+Informações complementares
+Acredita-se que as informações acima estejam correctas, embora não pretendam ser
+totalmente abrangentes, devendo ser usadas apenas como um guia. A informação
+contida neste documento esta baseada no presente estado do nosso conhecimento e é
+aplicável ás precauções de segurança apropriadas para o produto. Não representa
+nenhuma garantia das propriedades do produto. A Corporação Sigma-Aldrich e as suas
+companhias afiliadas, não responderão por nenhum dano resultante do manuseio ou do
+contato com o produto acima. Consultar www.sigma-aldrich.com e/ou o verso da
+factura ou nota que acompanha o produto para tomar conhecimento dos termos
+adicionais e condições de venda.
+Direitos exclusivos, 2020, da Sigma-Aldrich Co. LLC. Permissão concedida para fazer
+número ilimitado de cópias em papel, somente para uso interno.
+A marca no cabeçalho e/ou rodapé deste documento pode não corresponder
+temporariamente ao produto adquirido, uma vez que alteramos a nossa marca. No
+entanto, todas as informações no documento referentes ao produto não sofreram
+alterações e correspondem ao produto encomendado. Para obter mais informações,
+envie um e-mail para mlsbranding@sial.com.
+Millipore- 1.01468 Página 9 de 9
+The life science business of Merck operates as MilliporeSigma in
+the US and Canada

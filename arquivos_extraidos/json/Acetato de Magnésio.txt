@@ -1,0 +1,246 @@
+FICHA DE INFORMAÇÃO DE SEGURANÇA DE PRODUTOS QUÍMICOS – FISPQ
+De acordo com a NBR 14725-4:2014
+Data da emissão: 01/10/12 Data da revisão 07/01/19 revisão nº 02 Fispq Nº 078
+1. IDENTIFICAÇÃO DO PRODUTO E DA EMPRESA
+1.1 Identificadores do produto
+Nome do produto : ACETATO DE MAGNÉSIO SOLUÇÃO
+Referência do Produto : QMA0000113956
+Marca : Química Moderna
+1.2 Outros meios de identificação
+dados não disponíveis
+1.3 Utilizações identificadas relevantes da substância ou mistura e utilizações desaconselhadas
+Só para utilização em laboratório. Não para utilização farmaceutica, doméstica ou outras utilizações.
+1.4 Identificação do fornecedor da ficha de dados de segurança
+Empresa : Química Moderna Ind. e Com Ltda.
+Rua Titicaca, 813
+0642-080 - Barueri - SP
+BRASIL
+Telefone : +55 11 2391 0950
+Número de Fax : +55 11 4198 1064
+Email endereço : laboratório@quimicamoderna.net.br
+1.5 Número do telefone de emergência
+(11) 2391 0950
+2. IDENTIFICAÇÃO DE PERIGOS
+2.1 Classificação GHS
+2.3 Outros Perigos - nenhum(a)
+3. COMPOSIÇÃO E INFORMAÇÕES SOBRE OS INGREDIENTES
+3.2 Misturas
+Formula : C4H6MgO4.4H2O
+Peso molecular : 214,46 g/mol
+CAS : 16674-78-5
+4. MEDIDAS DE PRIMEIROS-SOCORROS
+4.1 Descrição das medidas de primeiros socorros
+Se for inalado
+Se for respirado, levar a pessoa para o ar fresco. Se não respirar, dar respiração artificial.
+No caso de contato com a pele
+Lavar com sabão e muita água.
+No caso de contato com os olhos
+Lavar os olhos com água como precaução.
+Química Moderna ACETATO DE MAGNÉSIO SOLUÇÃO Revisão: 03 Página 1 de 6
+Data de revisão 07/01/19
+Se for engolido
+Nunca dar nada pela boca a uma pessoa inconsciente. Enxaguar a boca com água.
+4.2 Sintomas e efeitos mais importantes, tanto agudos como retardados
+Até onde sabemos, as propriedades químicas, físicas e toxicológicas não foram minuciosamente
+investigadas.
+4.3 Indicações sobre cuidados médicos urgentes e tratamentos especiais necessários
+dados não disponíveis
+5. MEDIDAS DE COMBATE A INCÊNDIO
+5.1 Meios de extinção
+Meios adequados de extinção
+Utilizar água pulverizada, espuma resistente ao álcool, produto químico seco ou dióxido de carbono.
+5.2 Perigos especiais decorrentes da substância ou mistura
+Óxidos de carbono, Óxido de magnésio
+Óxidos de carbono, Óxido de magnésio
+5.3 Recomendações para o pessoal de combate a incêndios
+Usar equipamento de respiração autónomo para combate a incêndios, se necessário.
+5.4 Outras informações
+dados não disponíveis
+6. MEDIDAS DE CONTROLE PARA DERRAMAMENTO OU VAZAMENTO
+6.1 Precauções individuais, equipamento de proteção e procedimentos de emergência
+Evitar a respiração do vapor/névoa/gas.
+6.2 Precauções a nível ambiental
+Não permitir a entrada do produto no sistema de esgotos.
+6.3 Métodos e materiais de confinamento e limpeza
+Manter em recipientes fechados adequados, para eliminação.
+6.4 Remissão para outras secções
+Para eliminação de resíduos ver seção 13.
+7. MANUSEIO E ARMAZENAMENTO
+7.1 Precauções para um manuseamento seguro
+dados não disponíveis
+7.2 Condições de armazenagem segura, incluindo eventuais incompatibilidades
+Armazenar em local fresco. Guardar o recipiente herméticamente fechado em lugar seco e bem ventilado.
+7.3 Utilizações finais específicas
+dados não disponíveis
+8. CONTROLE DE EXPOSIÇÃO E PROTEÇÃO INDIVIDUAL
+8.1 Parâmetros de controle
+Límites de exposição ocupacional
+8.2 Controle da exposição
+Controles técnicos adequados
+Prática geral de higiene industrial.
+Proteção individual
+Proteção ocular/ facial
+Use equipamento de proteção ocular testado e aprovado de acordo com as normas governamentais
+Adequadas.
+Química Moderna ACETATO DE MAGNÉSIO SOLUÇÃO Revisão: 03 Página 2 de 6
+Data de revisão 07/01/19
+Proteção da pele
+Manusear com luvas. As luvas devem ser inspectadas antes da utilização. Use uma técnica
+adequada para a remoção das luvas (sem tocar a superfície exterior da luva) para evitar o contato
+da pele com o produto. Descarte as luvas contaminadas após o uso, em conformidade com as leis e
+boas práticas de laboratório . Lavar e secar as mãos.
+.
+Contato total
+Substância: Borracha de nitrilo
+espessura mínima da capa: 0.11 mm
+Pausa através do tempo: 480 min
+Contato com salpicos
+Substância: Borracha de nitrilo
+espessura mínima da capa: 0.11 mm
+Pausa através do tempo: 480 min
+Esta recomendação é apenas desejável e deve ser
+avaliada por um responsável de segurança e higiene industrial familiarizado com a situação
+específica de utilização pretendida pelos nossos clientes. Não deve ser interpretado como uma
+oferta de aprovação para qualquer cenário de uso específico
+Proteção do corpo
+Roupas impermeáveis, O tipo de equipamento de proteção deve ser escolhido de acordo com a
+concentração e a quantidade da substância perigosa no lugar de trabalho.
+Proteção respiratória
+Proteção respiratória, usar mascaras para vapores acidos.. Use respiradores e componentes testados e aprovados por
+normas governamentais apropriadas.
+9. PROPRIEDADES FÍSICAS E QUÍMICAS
+9.1 Informações sobre propriedades físicas e químicas de base
+a) Aspecto Forma: claro, líquido
+Cor: incolor
+b) Odor dados não disponíveis
+c) Limite de Odor dados não disponíveis
+d) pH 5.0 - 7.0
+e) Ponto de fusão/ponto dados não disponíveis
+de congelamento
+f) Ponto de ebulição inicial dados não disponíveis
+e intervalo de ebulição
+g) Ponto de fulgor dados não disponíveis
+h) Taxa de evaporação dados não disponíveis
+i) Inflamabilidade (sólido, dados não disponíveis
+gás)
+j) Limites de dados não disponíveis
+inflamabilidade superior
+/ inferior ou explosividade
+Química Moderna ACETATO DE MAGNÉSIO SOLUÇÃO Revisão: 03 Página 3 de 6
+Data de revisão 07/01/19
+k) Pressão de vapor dados não disponíveis
+l) Densidade de vapor dados não disponíveis
+m) Densidade relativa 1.074 g/cm3
+n) Hidrossolubilidade dados não disponíveis
+o) Coeficiente de partição dados não disponíveis
+n-octanol/água
+p) Temperatura de auto- dados não disponíveis
+ignição
+q) Temperatura de dados não disponíveis
+decomposição
+r) Viscosidade dados não disponíveis
+10. ESTABILIDADE E REATIVIDADE
+10.1 Reatividade
+dados não disponíveis
+10.2 Estabilidade química
+dados não disponíveis
+10.3 Possibilidade de reacções perigosas
+dados não disponíveis
+10.4 Condições a evitar
+dados não disponíveis
+10.5 Materiais incompatíveis
+Agentes oxidantes fortes
+10.6 Produtos de decomposição perigosos
+Outros produtos de decomposição perigosos - dados não disponíveis
+11. INFORMAÇÕES TOXICOLÓGICAS
+11.1 Informações sobre os efeitos toxicológicos
+Toxicidade aguda
+dados não disponíveis
+Corrosão/irritação cutânea
+dados não disponíveis
+Lesões oculares graves/irritação ocular
+dados não disponíveis
+Sensibilização respiratória ou cutânea
+dados não disponíveis
+Mutagenicidade em células germinativas
+dados não disponíveis
+Carcinogenicidade
+IARC: Nenhum componente deste produto presente a níveis maiores ou iguais a 0.1% é identificado
+como carcinogénio provável, possível ou confirmado pelo IARC.
+Toxicidade à reproduçã e lactação
+dados não disponíveis
+Química Moderna ACETATO DE MAGNÉSIO SOLUÇÃO Revisão: 03 Página 4 de 6
+Data de revisão 07/01/19
+Toxicidade sistêmica para órgãos-alvo específicos - exposição única
+dados não disponíveis
+Toxicidade sistêmica para órgãos-alvo específicos - exposição repetida
+dados não disponíveis
+Perigo de aspiração
+dados não disponíveis
+Efeitos potenciais para a saúde
+Inalação Pode ser perigoso se for inalação. Pode causar uma irritação do aparelho
+respiratório.
+Ingestão Pode ser perigoso se for engolido.
+Pele Pode ser perigoso se for absorto pela pele. Pode causar uma irritação da
+pele.
+Olhos Pode causar uma irritação dos olhos.
+Sinais e sintomas de exposição
+Até onde sabemos, as propriedades químicas, físicas e toxicológicas não foram minuciosamente
+investigadas.
+Informação adicional
+RTECS: dados não disponíveis
+12. INFORMAÇÕES ECOLÓGICAS
+12.1 Ecotoxicidade
+dados não disponíveis
+12.2 Persistência e degradabilidade
+dados não disponíveis
+12.3 Potencial biocumulativo
+dados não disponíveis
+12.4 Mobilidade no solo
+dados não disponíveis
+12.5 Resultados da avaliação PBT e mPmB
+dados não disponíveis
+12.6 Outros efeitos adversos
+dados não disponíveis
+13. CONSIDERAÇÕES SOBRE TRATAMENTO E DISPOSIÇÃO
+13.1 Métodos de tratamento de resíduos
+Produto
+Propor a entrega de soluções excedentes e não recicláveis a uma empresa idónea de tratamento de
+resíduos.
+Embalagens contaminadas
+Eliminar como produto Não utilizado.
+14. INFORMAÇÕES SOBRE TRANSPORTE
+14.1 Número ONU
+ADR/RID: - DOT (US): - IMDG: - IATA: -
+14.2 Designação oficial de transporte da ONU
+ADR/RID: Mercadorias não perigosas
+DOT (US): Mercadorias não perigosas
+IMDG: Mercadorias não perigosas
+IATA: Mercadorias não perigosas
+Química Moderna ACETATO DE MAGNÉSIO SOLUÇÃO Revisão: 03 Página 5 de 6
+Data de revisão 07/01/19
+14.3 Classes de perigo para efeitos de transporte
+ADR/RID: - DOT (US): - IMDG: - IATA: -
+14.4 Grupo de embalagem
+ADR/RID: - DOT (US): - IMDG: - IATA: -
+14.5 Perigos para o ambiente
+ADR/RID: não DOT (US): não IMDG Poluente marinho: não IATA: não
+14.6 Precauções especiais para o utilizador
+dados não disponíveis
+15. REGULAMENTAÇÕES
+15.1 Regulamentação/legislação específica para a substância ou mistura em matéria de saúde, segurança
+e ambiente
+Esta Ficha de Informações de Produtos Químicos foi preparada de acordo com a NBR 14725-4/2014 da
+ABNT (Associação Brasileira de Normas Técnicas)
+16. OUTRAS INFORMAÇÕES
+Outras informações
+Acredita-se que as informações acima estejam corretas, embora não pretendam ser totalmente
+abrangentes, devendo ser usadas apenas como um guia. A informação contida neste
+documento esta baseada no presente estado do nosso conhecimento e é aplicável ás
+precauções de segurança apropriadas para o produto. Não representa nenhuma garantia das
+propriedades do produto. A Química Moderna, não responderá por nenhum dano resultante do
+manuseio ou do uso incorreto.
+.
+Química Moderna ACETATO DE MAGNÉSIO SOLUÇÃO Revisão: 03
+Página 6 de 6
+Data de revisão 07/01/19

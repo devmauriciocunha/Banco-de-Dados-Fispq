@@ -1,0 +1,354 @@
+Data da última revisão
+08/07/2019 | Versão:
+1 | FISPQ Nº
+258 | Página
+1 de 8
+Ficha de informações de segurança de produtos químicos
+(FISPQ)
+Nome da substância ou mistura: METANO
+Data da última revisão Versão: FISPQ Nº Página
+08/07/2019 1 258 1 de 8
+1. Identificação
+Nome da substância ou mistura (nome comercial): METANO
+Principais usos recomendados para a substância ou mistura: Uso industrial.
+Código interno de identificação da substância ou mistura: 000
+Nome da Empresa: Messer Gases
+Endereço:Alameda Mamoré, 989 – 8º e 12º andar - Alphaville
+Complemento:CEP 06454-040 – Barueri/ SP
+Telefone para contato: 0800 7254633
+Telefone para emergências: 0800 7254633
+2. Identificação de perigos
+Classificação da substância ou mistura: Gases inflamáveis (incluindo os gases quimicamente instáveis):
+Categoria 1 - Gases sob pressão: Classificação Gás comprimido
+Elementos de rotulagem do GHS
+Palavra de advertência: Perigo
+Frase(s) de perigo: H220 - Gás extremamente inflamável . H280 - Contém gás sob pressão: pode explodir
+sob ação do calor .
+Frase(s) de precaução:
+• Geral:P103 - Leia o rótulo antes de utilizar o produto.
+• Prevenção: P210 - Mantenha afastado do calor/faísca/chama aberta/superfícies quentes. Não
+fume.
+• Resposta à emergência: P377 - Vazamento de gás com chamas: não apague, a menos que se
+possa conter o vazamento com segurança. P381 - Elimine todas as fontes de ignição se puder ser
+feito com segurança.
+• Armazenamento: P410 + P403 - Mantenha ao abrigo da luz solar. Armazene em local bem
+ventilado.
+• Disposição:P501 - Descarte o conteúdo/recipiente em local adequado de acordo com a legislação
+vigente.
+Outros perigos que não resultam em uma classificação: É um asfixiante simples e, em concentrações
+elevadas, provoca asfixia por redução da concentração de oxigênio do ambiente.
+Outras informações: Não disponíveis.
+Data da última revisão
+08/07/2019 | Versão:
+1 | FISPQ Nº
+258 | Página
+2 de 8
+Ficha de informações de segurança de produtos químicos
+(FISPQ)
+Nome da substância ou mistura: METANO
+Data da última revisão Versão: FISPQ Nº Página
+08/07/2019 1 258 2 de 8
+3. Composição e informações sobre os ingredientes
+Tipo de produto: Substância
+Nome químico comum ou nome técnico: METANO
+Sinônimo:METANO COMPRIMIDO
+N° CAS: 74-82-8
+Esta substância não contém impurezas que contribuam para o perigo.
+4. Medidas de primeiros socorros
+Medidas de primeiros socorros
+• Inalação: Os gases podem provocar tontura ou asfixia. Remova a vítima para local ventilado e a
+mantenha em repouso numa posição que não dificulte a respiração. Monitore a função respiratória. Se a
+vítima estiver respirando com dificuldade, forneça oxigênio. Se necessário aplique respiração artificial.
+Consulte um médico. Leve esta FISPQ.
+• Contato com a pele: Não deve ocorrer em condições normais de uso. Caso a vítima apresente algum
+sintoma, consulte um médico Leve esta FISPQ.
+• Contato com os olhos: Não deve ocorrer em condições normais de uso, Caso a vítima apresente
+algum sintoma, consulte um médico. Leve esta FISPQ.
+• Ingestão: Não deve ocorrer em condições normais de uso. Caso a vítima apresente, algum sintoma,
+consulte um médico. Leve esta FISPQ.
+Sintomas e efeitos mais importantes, agudos ou tardios: É um asfixiante simples e, em concentrações
+elevadas, provoca asfixia por redução da concentração de oxigênio do ambiente.
+Notas para o médico: Evite contato com o produto ao socorrer a vítima. Se necessário, o tratamento
+sintomático deve compreender, sobretudo, medidas de suporte como correção de distúrbios hidroeletrolíticos,
+metabólicos, além de assistência respiratória. Embora menos eficaz, usa-se 100% oxigênio através de
+máscara se as instalações hiperbáricas não estiverem disponíveis. As drogas estimulantes não são indicadas.
+5. Medidas de combate a incêndio
+Meios de extinção apropriados: Compatível com espuma, neblina dágua e pó químico seco.
+Meios de extinção inadequados: Jatos dágua de forma direta.
+Perigos específicos da substância ou mistura: Extremamente inflamável.
+Medidas de proteção da equipe de combate a incêndio: Utilizar equipamento de proteção respiratória do
+tipo autônomo (SCBA) com pressão positiva e vestuário protetor completo para combate a incêndio. Não
+intervir sem equipamento de proteção adequado. Os gases podem deslocar-se por grandes distâncias
+provocando retrocesso da chama ou novos focos de incêndio tanto em ambientes abertos como confinados.
+6. Medidas de controle para derramamento ou vazamento
+Data da última revisão
+08/07/2019 | Versão:
+1 | FISPQ Nº
+258 | Página
+3 de 8
+Ficha de informações de segurança de produtos químicos
+(FISPQ)
+Nome da substância ou mistura: METANO
+Data da última revisão Versão: FISPQ Nº Página
+08/07/2019 1 258 3 de 8
+Precauções pessoais, equipamentos de proteção e procedimentos de emergência
+• Para o pessoal que não faz parte dos serviços de emergência: Impeça fagulhas ou chamas. Não
+fume. Não toque nos cilindros danificados e sem o uso de vestimentas adequadas. Evite exposição ao
+produto. Permaneça afastado de áreas baixas, tendo o vento pelas costas. Utilize equipamento de
+proteção individual conforme descrito na Seção 8.
+• Para o pessoal do serviço de emergência: Utilize EPI completo com óculos de segurança de ampla
+visão, luvas de segurança de couro (vaqueta ou raspa), vestuário protetor adequado e sapatos
+fechados. Em caso de grandes vazamentos, onde a exposição é grande, recomenda-se o uso de
+equipamento de proteção respiratória do tipo autônomo (SCBA) com pressão positiva. Isole o
+vazamento de fontes de ignição. Evacue a área, num raio de, no mínimo, 100 metros. Mantenha as
+pessoas não autorizadas afastadas da área. Pare o vazamento, se isso puder ser feito sem risco.
+Precauções ao meio ambiente: Impeça a entrada do produto em esgotos, fossas ou qualquer outro lugar
+onde possa acumular atmosfera perigosa.
+Métodos e materiais para o estancamento e a contenção: Libere o conteúdo vagarosamente para a
+atmosfera. Permaneça a favor do vento. Não jogue água diretamente no ponto de vazamento. Devido à
+dispersão do produto no ambiente, recomenda-se que a área seja ventilada até a liberação do local. Para
+destinação final, proceder conforme a Seção 13.
+Isolamento da área: Como ação imediata de precaução, isolar a área de derramamento ou vazamento em um
+raio de 100 metros, no mínimo, em todas as direções. Se a carga ou tanque estiver envolvido no fogo, ISOLE a
+área num raio de 1600 metros em todas as direções. Considere a necessidade de evacuação da área isolada.
+Métodos e materiais para a limpeza: Ventile a área antes de iniciar o processo de limpeza. Mantenha o
+pessoal não autorizado distante da área de risco.
+7. Manuseio e armazenamento
+Precauções para manuseio seguro
+• Prevenção da exposição do trabalhador: Utilizar todos os EPI. Proteger os cilindros de danos
+materiais, não arrastar, não rodar, deslizar ou deixar cair. Usar sempre um equipamento próprio para o
+transporte/ movimento (mecanico, manual, etc) dos cilindros, mesmo em curtas distâncias. Nunca insira
+qualquer objeto (ex. chave, chave de fenda, pé de cabra) dentro da abertura do capacete do cilindro;
+isto pode causar dano a válvula, e consequentemente um vazamento. Se a válvula estiver muito dura,
+descontinue o uso e entre em contato com o seu fornedor.
+• Prevenção de incêndio e explosão: Mantenha afastado do calor, faísca, chama aberta, superfícies
+quentes. Não fume. Utilize apenas ferramentas antifaiscantes. Usar apenas equipamento à prova de
+explosão.
+• Precauções e orientações para o manuseio seguro: Manuseie em uma área ventilada ou com
+sistema geral de ventilação/exaustão local. Evite exposição ao produto. É recomendado o
+monitoramento constante da concentração de oxigênio. Mantenha o protetor de válvula do cilindro em
+sua posição, até o momento do uso. Não abra o cilindro se ele apresentar sinais de danos. Utilize
+equipamento de proteção individual conforme descrito na Seção 8.
+Data da última revisão
+08/07/2019 | Versão:
+1 | FISPQ Nº
+258 | Página
+4 de 8
+Ficha de informações de segurança de produtos químicos
+(FISPQ)
+Nome da substância ou mistura: METANO
+Data da última revisão Versão: FISPQ Nº Página
+08/07/2019 1 258 4 de 8
+• Medidas de higiene
+• Apropriadas: Lave as mãos e o rosto cuidadosamente após o manuseio e antes de comer,
+beber, fumar ou ir ao banheiro. Roupas contaminadas devem ser trocadas e lavadas antes de
+sua reutilização. Remova a roupa e o equipamento de proteção contaminado antes de entrar nas
+áreas de alimentação.
+• Inapropriadas:Comer, beber ou fumar durante a utilização deste produto.
+Condições de armazenamento seguro
+• Condições adequadas: Manter em lugar fresco, bem ventilado. Armazenar e usar com ventilação
+adequada. Manter os cilindros na posição vertical, prevenindo sua queda ou mesmo que seja
+derrubado. Mantenha a válvula com capacete de proteção, se fornecido, firmemente rosqueado no lugar
+com a mão e quando este não estiver em uso. Use um do sistema de fila para evitar o armazenamento
+de cilindros cheios por longos períodos.
+• Condições que devem ser evitadas, incluindo qualquer incompatibilidade: Calor, chamas e
+faíscas.
+• Materiais para embalagem
+• Recomendados:Semelhante à embalagem original.
+• Inadequados:Não disponíveis.
+Outras informações: Não disponíveis.
+8. Controle de exposição e proteção individual
+Parâmetros de controle
+• Limites de exposição ocupacional: METANO (NR15,1978): Asfixiante simples.
+• Indicadores biológicos: Não estabelecidos.
+• Outros limites e valores: Não disponível.
+Medidas de controle de engenharia: Promova ventilação mecânica e sistema de exaustão direta para o meio
+exterior. Estas medidas auxiliam na redução da exposição ao produto. Manter as concentrações atmosféricas,
+dos constituintes do produto, abaixo dos limites de exposição ocupacional indicados.
+Medidas de proteção pessoal
+• Proteção dos olhos/face: Óculos de segurança de ampla visão.
+• Proteção da pele: Sapatos de segurança com biqueira de aço. Roupas de proteção podem ser
+necessárias.
+• Proteção respiratória: Uma avaliação de risco deve ser realizada para adequada definição da proteção
+respiratória tendo em vista as condições de uso do produto.
+• Proteção das mãos: Utilizar luvas de couro (vaqueta ou raspa) para o manuseio de cilindros. Havendo
+desgaste da luva, esta deve ser trocada imediatamente.
+• Perigos térmicos: Não apresenta perigos térmicos.
+Outras informações: Não disponíveis.
+Data da última revisão
+08/07/2019 | Versão:
+1 | FISPQ Nº
+258 | Página
+5 de 8
+Ficha de informações de segurança de produtos químicos
+(FISPQ)
+Nome da substância ou mistura: METANO
+Data da última revisão Versão: FISPQ Nº Página
+08/07/2019 1 258 5 de 8
+9. Propriedades físicas e químicas
+• Aspecto
+Estado físico: Gás; Forma: Gás; Cor: Incolor
+• Odor:Inodoro.
+• Limite de odor: Não disponível.
+• pH:Não disponível.
+• Ponto de fusão / ponto de congelamento: -182°C
+• Ponto de ebulição inicial: -161°C
+• Faixa de temperatura de ebulição: Não disponível.
+• Ponto de Fulgor: Não disponível.
+• Taxa de evaporação: Não disponível.
+• Inflamabilidade (sólido; gás): Inflamável.
+• Limite de inflamabilidade ou explosividade inferior: 4,4%
+• Limite de inflamabilidade ou explosividade superior: 17%
+• Pressão de vapor: Não disponível.
+• Densidade de vapor: 0,6
+• Densidade relativa: 0,42
+• Solubilidade(s):26 mg/L.
+• Coeficiente de partição - n-octanol/água: 1,09
+• Temperatura de autoignição: 595°C
+• Temperatura de decomposição: Não disponível.
+• Viscosidade:Não disponível.
+• Outras informações: Não disponíveis.
+10. Estabilidade e reatividade
+Estabilidade química: Estável sob condições recomendadas de manuseio e estocagem.
+Reatividade:Produto não reativo sob condições normais de uso e armazenagem.
+Possibilidade de reações perigosas: Pode formar misturas explosivas com o ar. Pode reagir violentamente
+com oxidantes.
+Condições a serem evitadas: Calor, chamas e faíscas.
+Materiais incompatíveis: Agentes oxidantes.
+Produtos perigosos da decomposição: Monóxido e Dióxido de Carbono.
+11. Informações toxicológicas
+Toxicidade aguda: Não é esperado que o produto apresente toxicidade aguda.
+Corrosão/irritação da pele: Não é esperado que o produto provoque irritação à pele.
+Data da última revisão
+08/07/2019 | Versão:
+1 | FISPQ Nº
+258 | Página
+6 de 8
+Ficha de informações de segurança de produtos químicos
+(FISPQ)
+Nome da substância ou mistura: METANO
+Data da última revisão Versão: FISPQ Nº Página
+08/07/2019 1 258 6 de 8
+Lesões oculares graves/irritação ocular: Não é esperado que o produto provoque irritação ocular.
+Sensibilização respiratória ou à pele: Não é esperado que o produto provoque sensibilização respiratória ou
+à pele.
+Mutagenicidade em células germinativas: Não é esperado que o produto apresente mutagenicidade em
+células germinativas.
+Carcinogenicidade:Não é esperado que o produto apresente carcinogenicidade.
+Toxicidade à reprodução: Não é esperado que o produto apresente toxicidade à reprodução.
+Toxicidade para órgãos-alvo específicos - exposição única: Não é esperado que o produto apresente
+toxicidade ao órgão-alvo específico por exposição única.
+Toxicidade para órgãos-alvo específicos - exposição repetida: Não é esperado que o produto apresente
+toxicidade ao órgão-alvo específico por exposição repetida.
+Perigo por aspiração: Em elevadas concentrações pode causar asfixia.
+Outras informações: Não disponíveis.
+12. Informações ecológicas
+Ecotoxicidade:Não é esperado que o produto apresente ecotoxicidade.
+Persistência e degradabilidade: Em função da ausência de dados, espera-se que o produto apresente
+persistência e não seja rapidamente degradado.
+Potencial bioacumulativo: Não é esperado potencial bioacumulativo em organismos aquáticos.
+Mobilidade no solo: Não é esperado o produto provocar poluição do solo ou da água, devido a sua alta
+volatilidade.
+Outros efeitos adversos: Não disponíveis,
+13. Considerações sobre destinação final
+Métodos recomendados para destinação final
+• Produto:O tratamento e a disposição devem ser avaliados especificamente para cada produto. Devem
+ser consultadas legislações federais, estaduais e municipais, dentre estas: Lei n°12.305, de 02 de
+agosto de 2010 (Política Nacional de Resíduos Sólidos). Mantenha os restos do produto em suas
+embalagens originais e devidamente fechadas. O descarte deve ser realizado conforme o estabelecido
+para o produto.
+• Embalagem usada: Não reutilize embalagens vazias. Estas podem conter restos do produto e devem
+ser mantidas fechadas. Após o uso, retornar as embalagens vazias ao fabricante.
+14. Informações sobre transporte
+Regulamentações nacionais e internacionais:
+Terrestres:
+Data da última revisão
+08/07/2019 | Versão:
+1 | FISPQ Nº
+258 | Página
+7 de 8
+Ficha de informações de segurança de produtos químicos
+(FISPQ)
+Nome da substância ou mistura: METANO
+Data da última revisão Versão: FISPQ Nº Página
+08/07/2019 1 258 7 de 8
+• ONU:1971
+• Nome apropriado para embarque: METANO, COMPRIMIDO, ou GÁS NATURAL, COMPRIMIDO,
+com elevado teor de metano
+• Classe / Subclasse: 2.1 - Gases inflamáveis
+• Número de Risco: 23
+• Grupo de Embalagem: NA
+• Nome Técnico: METANO
+• Perigoso para o meio ambiente: Não
+• Regulamentação terrestre: Resolução n° 5232 e suas alterações (Agência Nacional de
+Transportes Terrestres)
+Hidroviário:
+• IMDG/GGVSea/ONU:1971
+• Classe / Subclasse: 2.1
+• Grupo de Embalagem: N.A.
+• EmS:F-C, S-U
+• MFAG:N.A.
+• Nome Técnico: METANO, COMPRIMIDO, ou GÁS NATURAL, COMPRIMIDO, com elevado teor
+de metano
+• Poluente marinho: Não
+• Regulamentação hidroviária: DPC – Diretoria de Portos e Costas (Transporte em águas
+brasileiras) - Normas de Autoridade Marítima (NORMAM) - NORMAM 01/DPC: Embarcações
+Empregadas na Navegação em Mar Aberto - NORMAM 02/DPC: Embarcações Empregadas na
+Navegação Interior IMO – “International Maritime Organization” (Organização Marítima
+Internacional) - International Maritime Dangerous Goods Code (IMDG Code).
+Aéreo:
+• ICAO/IATA/ONU:1971
+• Classe / Subclasse: 2.1
+• Grupo de Embalagem: N.A.
+• Nome Técnico: METANO, COMPRIMIDO, ou GÁS NATURAL, COMPRIMIDO, com elevado teor
+de metano
+• Perigoso para o meio ambiente: Não
+• Regulamentação aérea: ANAC – Agência Nacional de Aviação Civil – Resolução n°129 de 8 de
+dezembro de 2009. RBAC N°175 – (REGULAMENTO BRASILEIRO DA AVIAÇÃO CIVIL) –
+TRANSPORTE DE ARTIGOS PERIGOSOS EM AERONAVES CIVIS. IS N° 175-001 –
+INSTRUÇÃO SUPLEMENTAR – IS - ICAO – “International Civil Aviation Organization”
+(Organização da Aviação Civil Internacional) – Doc 9284-NA/905. IATA – “International Air
+Transport Association” (Associação Internacional de Transporte Aéreo) -Dangerous Goods
+Regulation (DGR).
+Regulamentações adicionais: Não disponíveis,
+Data da última revisão
+08/07/2019 | Versão:
+1 | FISPQ Nº
+258 | Página
+8 de 8
+Ficha de informações de segurança de produtos químicos
+(FISPQ)
+Nome da substância ou mistura: METANO
+Data da última revisão Versão: FISPQ Nº Página
+08/07/2019 1 258 8 de 8
+15. Informações sobre regulamentações
+Regulamentações específicas de segurança, saúde e meio ambiente para o produto químico:
+Resolução n° 5232 e suas alterações (Agência Nacional de Transportes Terrestres)
+Decreto Federal no. 2.657 (Ministério do Trabalho e Emprego)
+Norma Regulamentadora 26 - Decreto 229 (Ministério do Trabalho e Emprego)
+ABNT NBR 14725 Partes 1, 2, 3 e 4.
+Norma Regulamentadora 15 (Ministério do Trabalho e Emprego)
+16. Outras informações
+Informações importantes, mas não especificamente descritas às seções anteriores:
+Esta FISPQ foi elaborada baseada nos conhecimentos atuais do produto químico e fornece informações
+quanto à proteção, à segurança, à saúde e ao meio ambiente.
+Adverte-se que o manuseio de qualquer substância química requer o conhecimento prévio de seus perigos
+pelo usuário. Cabe à empresa usuária do produto promover o treinamento de seus empregados e contratados
+quanto aos possíveis riscos advindos do manuseio do produto.
+Referências:[Purple Book] – ONU – Organização das Nações Unidas
+[ECHA] European Chemical Agency. Regulamentos 1907/2006 e 1272/2008. Disponível em:
+http://echa.europa.eu/
+[HSNO] NOVA ZELÂNDIA. HSNO Chemical Classification and Information Database (CCID). Disponível em:
+http://www.epa.govt.nz/search-databases/Pages/nzioc-search.aspx
+[IFA] ALEMANHA. GESTIS Substance Database. Disponível em: http://gestis-
+en.itrust.de/nxt/gateway.dll/gestis_en/000000.xml?f=templates$fn=default.htm$3.0
+[NITE – National Institute of Technology and Evaluation] JAPÃO. Chemical Management. Disponível em:
+http://www.safe.nite.go.jp/english/ghs/ghs_index.html
+[NIOSH – The National Institute for Ocuupational Safety and Health] ESTADOS UNIDOS. Centers for Disease
+Control and Prevention. Disponível em: http://www.cdc.gov/niosh/topics/default.html
+[ACGIH] – American Conference of Governamental Industrial. Disponível em: https://www.acgih.org/
+ISO 11014
+Legendas e abreviaturas: ACGIH - American Conference of Governamental Industrial, BCF -Bioconcentration
+factor ou Fator de bioconcentração, CAS - Chemical Abstracts Service, CE50 ou EC50 - Concentração efetiva
+50%, CL50 ou LC50 - Concentração letal 50%, DL50 ou LD50 - Dose letal 50%, DNEL - Derived No-Effect
+Level, PNEC - Predicted No-Effect Concentration

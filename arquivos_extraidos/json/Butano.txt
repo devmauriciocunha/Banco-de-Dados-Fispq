@@ -1,0 +1,473 @@
+| 1 | | | - | | | IDENTIFICAÇÃO DO PRODUTO E DA EMPRESA | 
+ | 2 | | | - | | | IDENTIFICAÇÃO DE PERIGOS | 
+Ficha de Informação de Segurança
+de Produto Químico - FISPQ
+PRODUTO: BUTANO Página 1 de 11
+Data: 04/06/2019 Nº FISPQ: BR0400 Versão: 08 Anula e substitui versão: todas anteriores
+1 - IDENTIFICAÇÃO DO PRODUTO E DA EMPRESA
+Nome do produto: BUTANO
+Código interno de identificação: BR0400
+Principais usos recomendados para a Utilizado como gás liquefeito de petróleo (GLP).
+substância ou mistura:
+Nome da empresa: PETROBRAS DISTRIBUIDORA S.A.
+Endereço: Rua Correia Vasques, 250
+20211-140 - Cidade Nova - Rio de Janeiro (RJ).
+Telefone: 0800 728 9001
+Telefone para emergências: 08000 24 44 33
+2 - IDENTIFICAÇÃO DE PERIGOS
+- Classificação de perigo do produto: Gases inflamáveis – Categoria 1
+Gases sob pressão – Gás Liquefeito
+Mutagenicidade em células germinativas – Categoria 1B
+Carcinogenicidade – Categoria 1B
+Tóxico à reprodução – Categoria 1B
+Toxicidade sistêmica ao órgão-alvo após única exposição –
+Categoria 3
+Toxicidade sistêmica em órgão-alvo após exposição repetida –
+Categoria 2
+- Sistema de classificação adotado: Norma ABNT-NBR 14725-Parte 2:2009.
+Adoção do Sistema Globalmente Harmonizado para a Classificação
+e Rotulagem de Produtos Químicos, ONU.
+Outros perigos que não resultam em Pode provocar asfixia. O contato do gás liquefeito com os olhos e a
+uma classificação pele pode causar “queimaduras pelo frio” (frosbite).
+ | 3 | | | - | | | COMPOSIÇÃO E INFORMAÇÃO SOBRE OS INGREDIENTES | 
+Ficha de Informação de Segurança
+de Produto Químico - FISPQ
+PRODUTO: BUTANO Página 2 de 11
+Data: 04/06/2019 Nº FISPQ: BR0400 Versão: 08 Anula e substitui versão: todas anteriores
+ELEMENTOS APROPRIADOS DA ROTULAGEM
+- Pictogramas
+- Palavra de advertência PERIGO
+- Frases de perigo: G ás extremamente inflamável.
+Contém gás sob pressão: pode explodir sob efeito do calor.
+Pode provocar defeitos genéticos se inalado.
+Pode provocar câncer se inalado.
+Pode prejudicar a fertilidade ou o feto.
+Pode causar irritação das vias respiratórias.
+Pode causar sonolência e vertigem (efeitos narcóticos).
+Pode causar dano ao sistema sanguíneo, sistema hematopoiético,
+coração, fígado e medula óssea através da exposição repetida ou
+prolongada.
+- Frases de precaução: Vazamento de gás com chamas: não apague, a menos que se possa
+conter o vazamento com segurança.
+Use luvas de proteção, roupa de proteção, proteção ocular e
+proteção facial.
+EM CASO DE INALAÇÃO: Remova a pessoa para local ventilado e a
+mantenha em repouso numa posição que não dificulte a respiração.
+Em caso de mal estar, consulte um médico.
+EM CASO DE exposição ou suspeita de exposição: Contate um
+CENTRO DE INFORMAÇÃO TOXICOLÓGICA ou médico.
+Mantenha ao abrigo de luz solar. Armazene em local bem ventilado.
+3 - COMPOSIÇÃO E INFORMAÇÃO SOBRE OS INGREDIENTES
+>>>SUBSTÂNCIA
+Nome químico ou comum: Butano
+Sinônimo: Butano, hidrocarboneto alifático C4.
+Número de Registro CAS: 87741-01-3
+Concentração: 40 – 54,6%
+Ingredientes | Concentração (%) | CAS
+Butenos | 54,6 | NA
+Butadieno. | 0,2 (p/p) | 106-99-0
+Hidrocarbonetos alifáticos
+C4. | 94,8 (p/p) | NA
+ | 4 | | | - | | | MEDIDAS DE PRIMEIROS SOCORROS | 
+ | 5 | | | - | | | MEDIDAS DE COMBATE A INCÊNDIO | 
+Ficha de Informação de Segurança
+de Produto Químico - FISPQ
+PRODUTO: BUTANO Página 3 de 11
+Data: 04/06/2019 Nº FISPQ: BR0400 Versão: 08 Anula e substitui versão: todas anteriores
+Impurezas que contribuam para o
+Ingredientes Concentração (%) CAS
+perigo:
+Butenos 54,6 NA
+Butadieno. 0,2 (p/p) 106-99-0
+Hidrocarbonetos alifáticos 94,8 (p/p) NA
+C4.
+4 - MEDIDAS DE PRIMEIROS SOCORROS
+Inalação:
+Remova a vítima para local ventilado e a mantenha em repouso
+numa posição que não dificulte a respiração. Caso sinta
+indisposição, contate um CENTRO DE INFORMAÇÃO
+TOXICOLÓGICA ou um médico. Leve esta FISPQ.
+Contato com a pele:
+Lave a pele exposta com quantidade suficiente de água para
+remoção do material. Em caso de irritação cutânea: Consulte um
+médico. Leve esta FISPQ.
+Contato com os olhos:
+Enxágue cuidadosamente com água durante vários minutos. No
+caso de uso de lentes de contato, remova-as, se for fácil. Continue
+enxaguando. Caso a irritação ocular persista: consulte um médico.
+Leve esta FISPQ.
+Ingestão:
+Não se aplica, produto gasoso.
+Sintomas e efeitos mais importantes,
+Pode provocar depressão do sistema nervoso central (SNC) e
+agudos ou tardios:
+irritação das vias respiratórias com tosse, falta de ar, dores de
+cabeça, náusea, tontura, sonolência e confusão. Pode causar asfixia
+com aumento da frequência cardíaca, fadiga anormal, vômito,
+inconsciência, convulsões, colapso respiratório e morte. Pode
+provocar danos ao sistema sanguíneo, sistema hematopoiético,
+coração e fígado por exposição repetida e prolongada.
+Proteção do prestador de socorros
+Evite contato com o produto ao socorrer a vitima. Se necessário, o
+e/ou notas para o médico:
+tratamento sintomático deve compreender, sobretudo, medidas
+de suporte como correção de distúrbios hidroeletrolíticos,
+metabólicos, além de assistência respiratória. Em caso de contato
+com a pele não friccione o local atingido.
+5 - MEDIDAS DE COMBATE A INCÊNDIO
+Meios de extinção apropriados:
+Apropriados: Compatível com espuma resistente a álcool, neblina
+d’água, pó químico e dióxido de carbono (CO2).
+Não recomendados: Água diretamente sobre o ponto de vazamento,
+pois pode ocorrer congelamento.
+Perigos específicos da mistura ou
+A combustão do produto químico pode gerar fumos anestésicos,
+substância:
+monóxido e dióxido de carbono. Risco de explosão, se a ignição for
+em área fechada. Espontaneamente explosivo à luz do sol com
+cloro. Forma mistura explosiva com o ar e agentes oxidantes Gás
+ | 6 | | | - | | | MEDIDAS DE CONTROLE PARA DERRAMAMENTO OU VAZAMENTO | 
+ | 7 | | | - | | | MANUSEIO E ARMAZENAMENTO | 
+Ficha de Informação de Segurança
+de Produto Químico - FISPQ
+PRODUTO: BUTANO Página 4 de 11
+Data: 04/06/2019 Nº FISPQ: BR0400 Versão: 08 Anula e substitui versão: todas anteriores
+extremamente inflamável.
+Medidas de proteção da equipe de
+Equipamento de proteção respiratória do tipo autônomo (SCBA)
+combate a incêndio:
+com pressão positiva e vestuário protetor completo. Contêineres
+e tanques envolvidos no incêndio devem ser resfriados com
+neblina d’água.
+6 - MEDIDAS DE CONTROLE PARA DERRAMAMENTO OU VAZAMENTO
+Precauções pessoais
+Para o pessoal que não faz parte dos Isole o vazamento de fontes de ignição. Impeça fagulhas ou chamas.
+serviços de emergência: Não fume no local. Não toque nos recipientes danificados ou no
+material derramado sem o uso de vestimentas adequadas. Evite
+inalação, contato com os olhos e com a pele. Utilize equipamento de
+proteção individual conforme descrito na seção 8.
+Para o pessoal de serviço de Utilizar EPI completo com óculos de proteção com proteção
+emergência: lateral, luvas de PVC e vestimenta impermeável. Em caso de
+grandes vazamentos, onde a exposição é grande, recomenda-se o
+uso de máscara de proteção com filtro para vapores orgânicos.
+Precauções ao meio ambiente:
+Evite que o produto derramado atinja cursos d’água e rede de
+esgotos.
+Métodos e materiais para contenção e Interrompa o vazamento se não houver risco. Alivie o conteúdo
+limpeza: vagarosamente para a atmosfera. Ventile a área de vazamento ou
+remova o recipiente para área bem ventilada.
+Diferenças na ação de grandes e Não há distinção entre as ações de grandes e pequenos vazamentos
+pequenos vazamentos: para este produto
+7 - MANUSEIO E ARMAZENAMENTO
+Medidas técnicas apropriadas - MANUSEIO
+- Precauções para manuseio seguro:
+Manuseie em uma área ventilada ou com sistema geral de
+ventilação/exaustão local. Evite formação de névoas. Evite
+exposição ao produto. Evite contato com materiais incompatíveis.
+Utilize equipamento de proteção individual conforme descrito na
+seção 8.
+- Medidas de higiene:
+Lave as mãos e o rosto cuidadosamente após o manuseio e
+antes de comer, beber, fumar ou ir ao banheiro. Roupas
+contaminadas devem ser trocadas e lavadas antes de sua
+reutilização. Remova a roupa e o equipamento de proteção
+contaminado antes de entrar nas áreas de alimentação.
+Condições para armazenamento seguro, incluindo qualquer incompatibilidade.
+Prevenção de incêndio e explosão:
+Mantenha afastado do calor, faísca, chama aberta e superfícies
+ | 8 | | | - | | | CONTROLE DE EXPOSIÇÃO E PROTEÇÃO INDIVIDUAL | 
+Ingredientes | TLV – TWA
+(ACGIH, 2012) | LT
+(NR-15, 1978)
+Butano | 1000 ppm. | 470 ppm
+Butadieno | 2 ppm | 470 ppm
+Ficha de Informação de Segurança
+de Produto Químico - FISPQ
+PRODUTO: BUTANO Página 5 de 11
+Data: 04/06/2019 Nº FISPQ: BR0400 Versão: 08 Anula e substitui versão: todas anteriores
+quentes. Não fume. Mantenha o recipiente hermeticamente
+fechado. Aterre o vaso contentor e o receptor do produto
+durante transferências. Utilize apenas ferramentas anti-faiscante.
+Evite o acúmulo de cargas eletrostáticas. Utilize equipamento
+elétrico, de ventilação e de iluminação à prova de explosão.
+Condições adequadas:
+Mantenha o produto em local fresco, seco, protegido de luz
+solar direta e à prova de fogo. Mantenha os cilindros na posição
+vertical, fixados à parede ou em outra estrutura sólida. O local de
+armazenamento deve ter piso impermeável, não-oxidante e com
+dique de contenção para reter o produto em caso de
+vazamento. Armazenar em tanques adequados colocados na
+barreira de contenção em caso de vazamento. Especificações de
+engenharia devem atender a regulamentações locais.
+Materiais para embalagens:
+Cilindros de aço e carbono, alumínio à temperatura ambiente e
+pressão de 12 Kg/cm2.
+8 - CONTROLE DE EXPOSIÇÃO E PROTEÇÃO INDIVIDUAL
+Parâmetros de controle específicos
+Limite de exposição ocupacional:
+Ingredientes TLV – TWA LT
+(ACGIH, 2012) (NR-15, 1978)
+Butano 1000 ppm. 470 ppm
+Butadieno 2 ppm 470 ppm
+-Indicadores biológicos: - 1,3 Butadieno:
+BEI (ACGIH, 2012):
+1,2 Dihidroxi-4-(N-acetilcisteinil)-bitano na urina: 2,5 mg/L
+(final da jornada) Sq, B.
+Mistura de adutos de hemoglobina (Hb) de (N-1 e N-2-hidroxibutenil)
+vanila no sangue: 2,5 mols/g Hb Sq.
+B: O determinante pode estar presente em amostras biológicas
+coletadas de pessoas que não foram ocupacionalmente expostas em
+uma concentração que poderia afetar a interpretação do resultado.
+Tais concentrações basais estão incorporadas no valor do BEI.
+Sq: O determinante é um indicador de exposição à substância
+química, mas a interpretação quantitativa da medida é imprecisa.
+Este determinante deve ser usado como teste de triagem, se um
+teste quantitativo não foi viável; ou como teste de confirmação, se o
+teste quantitativo não for específico e a origem do determinante
+estiver em questão.
+- Outros limites e valores: Informação referente ao:
+- 1,3 Butadieno:
+IDLH (NIOSH, 2010): 2,000 ppm
+Medida de controle de engenharia:
+Promova ventilação mecânica e sistema de exaustão direta para o
+meio exterior. Estas medidas auxiliam na redução da exposição ao
+ | 9 | | | - | | | PROPRIEDADES FÍSICO-QUÍMICAS | 
+Ficha de Informação de Segurança
+de Produto Químico - FISPQ
+PRODUTO: BUTANO Página 6 de 11
+Data: 04/06/2019 Nº FISPQ: BR0400 Versão: 08 Anula e substitui versão: todas anteriores
+produto. Manter as concentrações atmosféricas, dos constituintes do
+produto, abaixo dos limites de exposição ocupacional indicados.
+Medidas de proteção pessoal:
+Proteção dos olhos/face:
+Óculos de segurança (onde houver risco de espirros).
+Proteção da pele e corpo:
+Luvas de proteção (recomenda-se PVC ou nitrílica) e vestimenta
+protetora resistente ao produto (onde houver risco de espirro).
+Proteção respiratória:
+Recomenda-se a utilização de respirador com filtro para vapores
+orgânicos para exposições médias acima da metade do TLV-TWA.
+Nos casos em que a exposição exceda 3 vezes o valor TLV-TWA,
+utilize respirador do tipo autônomo (SCBA) com suprimento de ar, de
+peça facial inteira, operado em modo de pressão positiva. Siga
+orientação do Programa de Prevenção Respiratória (PPR), 3ª ed.
+São Paulo: Fundacentro, 2002.
+Perigos térmicos:
+Não apresenta perigos térmicos.
+9 - PROPRIEDADES FÍSICO-QUÍMICAS
+Aspecto: Gás incolor.
+Odor: Característico.
+Ph: Não aplicável.
+Ponto de fusão/ponto de Não disponível.
+congelamento:
+Ponto de ebulição inicial e faixa de - 0,5 °C.
+temperatura de ebulição:
+Ponto de fulgor: -60ºC
+Taxa de evaporação: Não disponível.
+Inflamabilidade: Altamente Inflamável.
+Limite inferior/superior de Superior: 8,4%
+inflamabilidade ou explosividade: Inferior: 1,8%
+Pressão de vapor: 2 atm a18,8 °C.
+Densidade de vapor: 2,05 (ar = 1)
+Densidade relativa: Não disponível
+Solubilidade: Solúvel em água. Solúvel em éter, clorofórmio e álcool.
+Coeficiente de partição – n- Log Kow: 2,64
+ | 10 | | | - | | | ESTABILIDADE E REATIVIDADE | 
+ | 11 | | | - | | | INFORMAÇÕES TOXICOLÓGICAS | 
+Ficha de Informação de Segurança
+de Produto Químico - FISPQ
+PRODUTO: BUTANO Página 7 de 11
+Data: 04/06/2019 Nº FISPQ: BR0400 Versão: 08 Anula e substitui versão: todas anteriores
+octanol/água:
+Temperatura de auto-ignição: 346ºC
+Temperatura de decomposição: Não disponível.
+Viscosidade: Não disponível.
+Outras informações: Densidade: 0,580
+10 - ESTABILIDADE E REATIVIDADE
+Estabilidade e reatividade:
+Estável sob condições usuais de manuseio e armazenamento.
+Possibilidade de reações perigosas:
+Explode espontaneamente com cloro sob luz solar.
+Condições a serem evitadas:
+Temperaturas elevadas. Umidade. Fontes de ignição. Contato com
+materiais incompatíveis. Armazenamento por mais de 6 meses.
+Materiais/substâncias incompatíveis: Cloro, dióxido de cloro e oxigênio líquido
+Produtos perigosos da decomposição:
+Em combustão libera vapores anestésicos, monóxido e dióxido de
+carbono.
+11 - INFORMAÇÕES TOXICOLÓGICAS
+Toxicidade aguda: Não classificado como tóxico agudo por via inalatória.
+CL (inalatória, ratos, 4h): 658 mg/L
+50
+Corrosão/irritação da pele: O contato do gás liquefeito com a pele pode causar
+“queimaduras pelo frio” (frostbite).
+Lesões oculares graves/ irritação O contato do gás liquefeito com os olhos pode causar
+ocular: “queimaduras pelo frio” (frostbite).
+Sensibilização respiratória ou da pele: Não é esperado que o produto provoque sensibilização respiratória
+ou à pele.
+Mutagenicidade em células Pode provocar defeitos genéticos se inalado.
+germinativas:
+Informação referente ao:
+- 1,3-butadieno:
+Pode causar danos mutagênicos e clastogênicos em células
+somáticas. Ensaios de mutagenicidade multi-geração realizados em
+ratos dominantes apresentaram resultado positivo, descritos na UE-
+RAR Nº20 (2002).
+ | 12 | | | - | | | INFORMAÇÕES ECOLÓGICAS | 
+Ficha de Informação de Segurança
+de Produto Químico - FISPQ
+PRODUTO: BUTANO Página 8 de 11
+Data: 04/06/2019 Nº FISPQ: BR0400 Versão: 08 Anula e substitui versão: todas anteriores
+Carcinogenicidade: Pode provocar câncer se inalado. Pode provocar leucemia.
+Informação referente ao:
+- 1,3-butadieno:
+Provavelmente carcinogênico para humanos (Grupo 2A – IARC).
+Pode provocar câncer dos órgãos hematopoiéticos como leucemia.
+Existem evidências suficientes em animais experimentais acerca da
+carcinogenicidade do 1,3-butadieno. A substância pode ter efeitos na
+medula óssea, resultando em leucemia.
+Toxicidade à reprodução: Pode prejudicar a fertilidade ou o feto.
+Informação referente ao:
+- 1,3-butadieno:
+Estudos realizados em animais evidenciaram que esta substância é
+possivelmente tóxica à reprodução humana por causar danos aos
+ovários e testículos.
+Toxicidade para órgãos-alvo Pode provocar depressão do sistema nervoso central (SNC) com
+específicos – exposição única: dores de cabeça, náusea, tontura, sonolência e confusão.
+Pode provocar irritação das vias respiratórias com tosse e falta de ar.
+Pode causar asfixia com aumento da frequência cardíaca, fadiga
+anormal, vômito, inconsciência, convulsões, colapso respiratório e
+morte.
+Toxicidade para órgãos-alvo Pode provocar danos ao sistema sanguíneo, sistema
+específicos – exposição repetida: hematopoiético, coração e fígado por exposição repetida e
+prolongada.
+Perigo por aspiração: Não é esperado que o produto apresente perigo por aspiração.
+12 - INFORMAÇÕES ECOLÓGICAS
+Efeitos ambientais, comportamentos e impactos do produto
+Ecotoxicidade: Não é esperado que o produto apresente perigo para organismos
+aquáticos.
+Persistência e degradabilidade:
+É esperada rápida degradação e baixa persistência.
+Potencial bioacumulativo:
+Não é esperado potencial de bioacumulativo em organismos
+aquáticos.
+Mobilidade no solo:
+Não determinado.
+Outros efeitos adversos:
+Contribui para a formação do smog fotoquímico pela degradação na
+atmosfera através de reações fotoquímicas para formar oxidantes
+fotoquímicos e interferindo no ciclo fotoquímico dos óxidos de
+nitrogênio.
+ | 13 | | | - | | | CONSIDERAÇÕES SOBRE TRATAMENTO E DISPOSIÇÃO | 
+ | 14 | | | - | | | INFORMAÇÕES SOBRE TRANSPORTE | 
+Ficha de Informação de Segurança
+de Produto Químico - FISPQ
+PRODUTO: BUTANO Página 9 de 11
+Data: 04/06/2019 Nº FISPQ: BR0400 Versão: 08 Anula e substitui versão: todas anteriores
+13 - CONSIDERAÇÕES SOBRE TRATAMENTO E DISPOSIÇÃO
+Métodos recomendados para tratamento e disposição aplicados ao
+Produto:
+Evite a exposição ocupacional ou a contaminação ambiental. Recicle
+qualquer parcela não utilizada do material para seu uso aprovado ou
+retorná-lo ao fabricante ou ao fornecedor. Outros métodos consultar
+legislação federal e estadual: Resolução CONAMA 005/1993, NBR
+10.004/2004.
+Restos de produtos: Manter restos do produto em suas embalagens originais, fechadas e
+dentro de tambores metálicos, devidamente fechados, de acordo
+com a legislação aplicável. O descarte deve ser realizado conforme o
+estabelecido para o produto, recomendando-se as rotas de
+processamento em cimenteiras e a incineração.
+Embalagem usada: Nunca reutilize embalagens vazias, pois elas podem conter restos do
+produto e devem ser mantidas fechadas e encaminhadas para serem
+destruídas em local apropriado. Neste caso, recomenda-se envio
+para rotas de recuperação dos tambores ou incineração.
+14 - INFORMAÇÕES SOBRE TRANSPORTE
+Regulamentações nacionais e internacionais
+Terrestre: Decreto nº 96.044, de 18 de maio de 1988: Aprova o regulamento
+para o transporte rodoviário de produtos perigosos e dá outras
+providências.
+Agência Nacional de transportes terrestres (ANTT): Resolução Nº.
+5232/16.
+Hidroviário: DPC – Diretoria de Portos e Costas ( Transporte em águas
+brasileiras)
+Normas de Autoridade Marítima (NORMAM)
+NORMAM 01/DPC: Embarcações Empregadas na Navegação em
+Mar Aberto.
+NORMAM 02/DPC: Embarcações Empregadas na Navegação
+Interior.
+IMO – “International Maritime Organization” ( Organização Marítima
+Internacional)
+International Maritime Dangerous Goods Code (IMDG Code) –
+Incorporating Amendment 34-08;2008 Edition.
+Aéreo: DAC -Departamento de Aviação Civil: IAC 153-1001.
+Instrução de Aviação Civil – Normas para o transporte de artigos
+perigosos em aeronaves civis.
+IATA – “ International Air Transport Association” ( Associação
+Nacional de Transporte Aéreo)
+Dangerous Goods Regulation (DGR) - 51
+Número ONU: 1011
+Nome apropriado para embarque: Butano.
+ | 15 | | | - | | | REGULAMENTAÇÕES | 
+ | 16 | | | - | | | OUTRAS INFORMAÇÕES | 
+Ficha de Informação de Segurança
+de Produto Químico - FISPQ
+PRODUTO: BUTANO Página 10 de 11
+Data: 04/06/2019 Nº FISPQ: BR0400 Versão: 08 Anula e substitui versão: todas anteriores
+Classe e subclasse de risco principal 2.1
+e subsidiário:
+Número de risco: 23
+Grupo de embalagem: -
+15 - REGULAMENTAÇÕES
+Regulamentações:
+Decreto Federal nº 2.657, de 3 de julho de 1998
+Norma ABNT-NBR 14725:2012.
+Portaria MTE nº 704 de 28 de maio de 2015 – Altera a Norma Regulamentadora nº 26.
+16 - OUTRAS INFORMAÇÕES
+Informações importantes:
+Esta FISPQ foi elaborada baseada nos conhecimentos atuais do produto químico e fornece informações quanto à
+proteção, à segurança, à saúde e ao meio ambiente.
+Adverte-se que o manuseio de qualquer substância química requer o conhecimento prévio de seus
+perigos pelo usuário. Cabe à empresa usuária do produto promover o treinamento de seus empregados e
+contratados quanto aos possíveis riscos advindos do produto.
+Siglas:
+ACGIH - American Conference of Governmental Industrial Hygienists
+CAS - Chemical Abstracts Service
+DL50 - Dose letal 50%
+STEL – Short Term Exposure Level
+TLV - Threshold Limit Value
+TWA - Time Weighted Average
+Bibliografia:
+ECB] EUROPEAN CHEMICALS BUREAU. Diretiva 67/548/EEC (substâncias) e Diretiva 1999/45/EC
+(preparações). Disponível em: http://ecb.jrc.it/. Acesso em: outubro de 2010.
+[EPI-USEPA] ESTIMATION PROGRAMS INTERFACE Suite - United States Environmental Protection
+Agency. Software.
+[HSDB] HAZARDOUS SUBSTANCES DATA BANK. Disponível em: http://toxnet.nlm.nih.gov/cgi-
+bin/sis/htmlgen?HSDB. Acesso em: outubro de 2010.
+[IARC] INTERNATIONAL AGENCY FOR RESEARCH ON CANCER. Disponível em:
+http://monographs.iarc.fr/ENG/Classification/index.php. Acesso em: outubro de 2010.
+[IPCS] INTERNATIONAL PROGRAMME ON CHEMICAL SAFETY – INCHEM. Disponível em:
+http://www.inchem.org/. Acesso em: outubro de 2010.
+[IPIECA] INTERNATIONAL PETROLEUM INDUSTRY ENVIRONMENTAL CONSERVATION ASSOCIATION.
+Guidance on the application of Globally Harmonized System (GHS) criteria to petroleum substances.
+Version 1. June 17th 2010. Disponível em:
+http://www.ipieca.org/system/files/publications/ghs_guidance_17_june_2010.pdf. Acesso em: outubro de 2010.
+[IUCLID] INTERNATIONAL UNIFORM CHEMICAL INFORMATION DATABASE. [s.l.]:
+European chemical Bureau. Disponível em: http://ecb.jrc.ec.europa.eu. Access in: outubro de 2010.
+[NIOSH] NATIONAL INSTITUTE OF OCCUPATIONAL AND SAFETY. International Chemical Safety Cards.
+Disponível em: http://www.cdc.gov/niosh/. Acesso em: outubro de 2010.
+Ficha de Informação de Segurança
+de Produto Químico - FISPQ
+PRODUTO: BUTANO Página 11 de 11
+Data: 04/06/2019 Nº FISPQ: BR0400 Versão: 08 Anula e substitui versão: todas anteriores
+[NITE-GHS JAPAN] NATIONAL INSTITUTE OF TECHNOLOGY AND EVALUATION.
+Disponível em: http://www.safe.nite.go.jp/english/ghs_index.html. Acesso em: outubro de 2010.
+[PETROLEUM HPV] PETROLEUM HIGH PRODUCTION VOLUME. Disponível em:
+http://www.petroleumhpv.org/pages/petroleumsubstances.html. Acesso em: outubro de 2010.
+[REACH] REGISTRATION, EVALUATION, AUTHORIZATION AND RESTRICTION OF CHEMICALS.
+Commission Regulation (EC) No 1272/2008 of 16 December 2008 amending and repealing Directives
+67/548/EEC and 1999/45/EC, and amending Regulation (EC) No 1907/2006 of the European Parliament and of
+the Council on the Registration, Evaluation, Authorization and Restriction of Chemicals.
+[SIRETOX/INTERTOX] SISTEMA DE INFORMAÇÕES SOBRE RISCOS DE EXPOSIÇÃO QUÍMICA.
+Disponível em: http://www.intertox.com.br. Acesso em: outubro de 2010.
+[TOXNET] TOXICOLOGY DATA NETWORKING. ChemIDplus Lite. Disponível em:
+http://chem.sis.nlm.nih.gov/. Acesso em: outubro de 2010.

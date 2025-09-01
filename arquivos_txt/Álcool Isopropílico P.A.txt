@@ -1,0 +1,881 @@
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+
+1 - IDENTIFICAÇÃO | 
+Nome do produto (nome
+comercial): | ÁLCOOL ISOPROPÍLICO (ISOPROPANOL) P.A
+ | 
+Código Interno de
+Identificação do
+Produto: | 071002
+ | 
+Principais usos
+recomendados para
+substância ou mistura: | Reagente para uso analítico.
+ | 
+Nome da empresa: | Quimesp Química Ltda
+Endereço: | Rua Murilo, 48 - Vila Nova Cumbica CEP: 07230-060, Guarulhos - SP - BR
+Telefone para contato: | (11) 2488-2222
+Telefone para
+emergências: | 0800-7077022
+ | 
+Fax: | (11) 2482-0220
+E-mail: | laboratorio@quimesp.com
+2 - IDENTIFICAÇÃO DE PERIGOS | | | | | 
+Classificação de perigo
+do produto químico: | Lesões oculares graves/irritação ocular - Categoria 2A
+Líquidos inflamáveis - Categoria 2
+Toxicidade aguda - Oral - Categoria 5
+Toxicidade para órgãos-alvo específicos - Exposição única - Categoria 3 - Narcótico | | | | 
+ | | | | | 
+Sistema de
+classificação utilizado: | Norma ABNT-NBR 14725-2.
+Sistema Globalmente Harmonizado para a Classificação e Rotulagem de Produtos Químicos, ONU. | | | | 
+Outros perigos que não
+resultam em uma
+classificação: | Os vapores do produto podem formar uma mistura explosiva em contato com o ar. | | | | 
+ | | | | | 
+Elementos apropriados para rotulagem | | | | | 
+Pictogramas: | | | | | 
+ | | | | | 
+Palavra de advertência: | PERIGO | | | | 
+Frases de perigo: | H225 Líquido e vapores altamente inflamáveis.
+H303 Pode ser nocivo se ingerido.
+H319 Provoca irritação ocular grave.
+H336 Pode provocar sonolência ou vertigem. | | | | 
+ | | | | | 
+Frases de precaução: | PREVENÇÃO:
+P210 Mantenha afastado do calor, faísca, chama aberta ou superfícies quentes. - Não fume.
+P233 Mantenha o recipiente hermeticamente fechado.
+P240 Aterre o vaso contentor e o receptor do produto durante transferências.
+P241 Utilize equipamento elétrico, de ventilação e de iluminação à prova de explosão.
+P242 Utilize apenas ferramentas antifaiscantes.
+P243 Evite o acúmulo de cargas eletrostáticas.
+P261 Evite inalar as poeiras/fumos/gases/névoas/vapores/aerossóis.
+P264 Lave as mãos cuidadosamente após manuseio. | | | | 
+ | | | | | 
+ | | | | | 
+FISPQ
+Em conformidade com NBR 14725
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Produto: ÁLCOOL ISOPROPÍLICO (ISOPROPANOL) P.A
+Revisão: 03 Data: 25/01/2021 Página: 1/8
+1 - IDENTIFICAÇÃO
+Nome do produto (nome ÁLCOOL ISOPROPÍLICO (ISOPROPANOL) P.A
+comercial):
+Código Interno de 071002
+Identificação do
+Produto:
+Principais usos Reagente para uso analítico.
+recomendados para
+substância ou mistura:
+Nome da empresa: Quimesp Química Ltda
+Endereço: Rua Murilo, 48 - Vila Nova Cumbica CEP: 07230-060, Guarulhos - SP - BR
+Telefone para contato: (11) 2488-2222
+Telefone para 0800-7077022
+emergências:
+Fax: (11) 2482-0220
+E-mail: laboratorio@quimesp.com
+2 - IDENTIFICAÇÃO DE PERIGOS
+Classificação de perigo Lesões oculares graves/irritação ocular - Categoria 2A
+do produto químico: Líquidos inflamáveis - Categoria 2
+Toxicidade aguda - Oral - Categoria 5
+Toxicidade para órgãos-alvo específicos - Exposição única - Categoria 3 - Narcótico
+Sistema de Norma ABNT-NBR 14725-2.
+classificação utilizado: Sistema Globalmente Harmonizado para a Classificação e Rotulagem de Produtos Químicos, ONU.
+Outros perigos que não Os vapores do produto podem formar uma mistura explosiva em contato com o ar.
+resultam em uma
+classificação:
+Elementos apropriados para rotulagem
+Pictogramas:
+Palavra de advertência: PERIGO
+Frases de perigo: H225 Líquido e vapores altamente inflamáveis.
+H303 Pode ser nocivo se ingerido.
+H319 Provoca irritação ocular grave.
+H336 Pode provocar sonolência ou vertigem.
+Frases de precaução: PREVENÇÃO:
+P210 Mantenha afastado do calor, faísca, chama aberta ou superfícies quentes. - Não fume.
+P233 Mantenha o recipiente hermeticamente fechado.
+P240 Aterre o vaso contentor e o receptor do produto durante transferências.
+P241 Utilize equipamento elétrico, de ventilação e de iluminação à prova de explosão.
+P242 Utilize apenas ferramentas antifaiscantes.
+P243 Evite o acúmulo de cargas eletrostáticas.
+P261 Evite inalar as poeiras/fumos/gases/névoas/vapores/aerossóis.
+P264 Lave as mãos cuidadosamente após manuseio.
+ | 
+FICHA DE
+FICHA DE | INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Produto: ÁLCOOL | ISOPROPÍLICO (ISOPROPANOL) P.A
+Revisão: 03 | Data: 25/01/2021 Página: 2/8
+ | P271 Utilize apenas ao ar livre ou em locais bem ventilados.
+P280 Use luvas de proteção, roupa de proteção, proteção ocular e proteção facial.
+RESPOSTA À EMERGÊNCIA:
+P303 + P361 + P353 EM CASO DE CONTATO COM A PELE (ou o cabelo): Retire imediatamente
+toda a roupa contaminada. Enxágue a pele com água ou tome uma ducha.
+P304 + P340 EM CASO DE INALAÇÃO: Remova a pessoa para local ventilado e a mantenha em
+repouso numa posição que não dificulte a respiração.
+P305 + P351 + P338 EM CASO DE CONTATO COM OS OLHOS: Enxágue cuidadosamente com
+água durante vários minutos. No caso de uso de lentes de contato, remova-as, se for fácil. Continue
+enxaguando.
+P312 Caso sinta indisposição, contate um CENTRO DE INFORMAÇÃO TOXICOLÓGICA ou um
+médico.
+P337 + P313 Caso a irritação ocular persista: Consulte um médico.
+P370 + P378 Em caso de incêndio: Para a extinção utilize dióxido de carbono (CO2), espuma,
+espuma resistente a álcool, neblina d'água e pó químico seco.
+ARMAZENAMENTO:
+P403 + P233 Armazene em local bem ventilado. Mantenha o recipiente hermeticamente fechado.
+P403 + P235 Armazene em local bem ventilado. Mantenha em local fresco.
+P405 Armazene em local fechado à chave.
+DISPOSIÇÃO:
+P501 Descarte o conteúdo e o recipiente em conformidade com as regulamentações locais.
+
+FICHA DE
+FICHA DE
+
+3 - COMPOSIÇÃO E INFORMAÇÕES SOBRE OS INGREDIENTES | 
+SUBSTÂNCIA | 
+Nome químico comum
+ou nome técnico: | 2-propanol.
+ | 
+Sinônimo: | Álcool isopropílico; isopropanol.
+Número de registro
+CAS: | 67-63-0
+ | 
+Impurezas que
+contribuam para o
+perigo: | Não apresenta componentes que contribuam para o perigo.
+ | 
+4 - MEDIDAS DE PRIMEIROS-SOCORROS | 
+Inalação: | Remova a vítima para local ventilado e a mantenha em repouso numa posição que não dificulte a
+respiração. Caso sinta indisposição, contate um CENTRO DE INFORMAÇÃO TOXICOLÓGICA ou
+um médico. Leve esta FISPQ.
+ | 
+Contato com a pele: | EM CASO DE CONTATO COM A PELE (ou o cabelo): Retire imediatamente toda a roupa
+contaminada. Enxágue a pele com água ou tome uma ducha. Leve esta FISPQ.
+ | 
+Contato com os olhos: | Enxágue cuidadosamente com água durante vários minutos. No caso de uso de lentes de contato,
+remova-as, se for fácil. Caso a irritação ocular persista: consulte um médico. Leve esta FISPQ.
+ | 
+Ingestão: | Lave a boca da vítima com água em abundância. Caso sinta indisposição, contate um CENTRO DE
+INFORMAÇÃO TOXICOLÓGICA ou um médico. Leve esta FISPQ.
+ | 
+Sintomas e efeitos mais
+importantes, agudos e
+tardios: | Provoca irritação ocular grave com vermelhidão e dor. Pode ser nocivo se ingerido. Pode provocar
+sonolência ou vertigem, podendo ocasionar náusea e tontura.
+ | 
+Notas para o médico: | Evite contato com o produto ao socorrer a vítima. Se necessário, o tratamento sintomático deve
+compreender, sobretudo, medidas de suporte como correção de distúrbios hidroeletrolíticos,
+metabólicos, além de assistência respiratória. Em caso de contato com a pele não friccione o local
+ | 
+FISPQ
+Em conformidade com NBR 14725
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Produto: ÁLCOOL ISOPROPÍLICO (ISOPROPANOL) P.A
+Revisão: 03 Data: 25/01/2021 Página: 2/8
+P271 Utilize apenas ao ar livre ou em locais bem ventilados.
+P280 Use luvas de proteção, roupa de proteção, proteção ocular e proteção facial.
+RESPOSTA À EMERGÊNCIA:
+P303 + P361 + P353 EM CASO DE CONTATO COM A PELE (ou o cabelo): Retire imediatamente
+toda a roupa contaminada. Enxágue a pele com água ou tome uma ducha.
+P304 + P340 EM CASO DE INALAÇÃO: Remova a pessoa para local ventilado e a mantenha em
+repouso numa posição que não dificulte a respiração.
+P305 + P351 + P338 EM CASO DE CONTATO COM OS OLHOS: Enxágue cuidadosamente com
+água durante vários minutos. No caso de uso de lentes de contato, remova-as, se for fácil. Continue
+enxaguando.
+P312 Caso sinta indisposição, contate um CENTRO DE INFORMAÇÃO TOXICOLÓGICA ou um
+médico.
+P337 + P313 Caso a irritação ocular persista: Consulte um médico.
+P370 + P378 Em caso de incêndio: Para a extinção utilize dióxido de carbono (CO2), espuma,
+espuma resistente a álcool, neblina d'água e pó químico seco.
+ARMAZENAMENTO:
+P403 + P233 Armazene em local bem ventilado. Mantenha o recipiente hermeticamente fechado.
+P403 + P235 Armazene em local bem ventilado. Mantenha em local fresco.
+P405 Armazene em local fechado à chave.
+DISPOSIÇÃO:
+P501 Descarte o conteúdo e o recipiente em conformidade com as regulamentações locais.
+3 - COMPOSIÇÃO E INFORMAÇÕES SOBRE OS INGREDIENTES
+SUBSTÂNCIA
+Nome químico comum 2-propanol.
+ou nome técnico:
+Sinônimo: Álcool isopropílico; isopropanol.
+Número de registro 67-63-0
+CAS:
+Impurezas que Não apresenta componentes que contribuam para o perigo.
+contribuam para o
+perigo:
+4 - MEDIDAS DE PRIMEIROS-SOCORROS
+Inalação: Remova a vítima para local ventilado e a mantenha em repouso numa posição que não dificulte a
+respiração. Caso sinta indisposição, contate um CENTRO DE INFORMAÇÃO TOXICOLÓGICA ou
+um médico. Leve esta FISPQ.
+Contato com a pele: EM CASO DE CONTATO COM A PELE (ou o cabelo): Retire imediatamente toda a roupa
+contaminada. Enxágue a pele com água ou tome uma ducha. Leve esta FISPQ.
+Contato com os olhos: Enxágue cuidadosamente com água durante vários minutos. No caso de uso de lentes de contato,
+remova-as, se for fácil. Caso a irritação ocular persista: consulte um médico. Leve esta FISPQ.
+Ingestão: Lave a boca da vítima com água em abundância. Caso sinta indisposição, contate um CENTRO DE
+INFORMAÇÃO TOXICOLÓGICA ou um médico. Leve esta FISPQ.
+Sintomas e efeitos mais Provoca irritação ocular grave com vermelhidão e dor. Pode ser nocivo se ingerido. Pode provocar
+importantes, agudos e sonolência ou vertigem, podendo ocasionar náusea e tontura.
+tardios:
+Notas para o médico: Evite contato com o produto ao socorrer a vítima. Se necessário, o tratamento sintomático deve
+compreender, sobretudo, medidas de suporte como correção de distúrbios hidroeletrolíticos,
+metabólicos, além de assistência respiratória. Em caso de contato com a pele não friccione o local
+
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+
+ | 
+Revisão: 03 | Data: 25/01/2021 Página: 3/8
+ | atingido.
+5 - MEDIDAS DE COMBATE A INCÊNDIO | 
+Meios de extinção: | Apropriados: dióxido de carbono (CO2), espuma, espuma resistente a álcool, neblina d'água e pó
+químico seco.
+Não recomendados: água diretamente sobre o produto em chamas.
+ | 
+Perigos específicos da
+mistura ou substância: | A combustão do produto químico ou de sua embalagem pode formar gases irritantes e tóxicos como
+monóxido e dióxido de carbono.
+Muito perigoso quando exposto a calor excessivo ou outras fontes de ignição como: faíscas,
+chamas abertas ou chamas de fósforos e cigarros, operações de solda, lâmpadas-piloto e motores
+elétricos. Pode acumular carga estática por fluxo ou agitação. Podem deslocar-se por grandes
+distâncias provocando retrocesso da chama ou novos focos de incêndio tanto em ambientes
+abertos como confinados. Os contêineres podem explodir se aquecidos.
+ | 
+Medidas de proteção
+da equipe de combate
+a incêndio: | Equipamento de proteção respiratória do tipo autônomo (SCBA) com pressão positiva e vestuário
+protetor completo. Contêineres e tanques envolvidos no incêndio devem ser resfriados com neblina
+d'água.
+6 - MEDIDAS DE CONTROLE PARA DERRAMAMENTO OU VAZAMENTO | 
+Precauções pessoais, equipamento de proteção e procedimentos de emergência | 
+Para o pessoal que não
+faz parte dos serviços
+de emergência: | Isole o vazamento de fontes de ignição. Impeça fagulhas ou chamas. Não fume. Não toque nos
+recipientes danificados ou no material derramado sem o uso de vestimentas adequadas. Utilize
+equipamento de proteção individual conforme descrito na seção 8.
+Para o pessoal do
+serviço de emergência: | Utilize EPI completo com óculos de segurança, luvas de segurança, vestuário protetor adequado e
+sapatos fechados. Em caso de vazamento, onde a exposição é grande, recomenda-se o uso de
+máscara de proteção respiratória adequada.
+ | 
+Precauções ao meio
+ambiente: | Evite que o produto derramado atinja cursos d'água e rede de esgotos.
+ | 
+Método e materiais
+para a contenção e
+limpeza: | Utilize névoa de água ou espuma supressora de vapor para reduzir a dispersão do produto. Utilize
+barreiras naturais ou de contenção de derrame. Colete o produto derramado e coloque em
+recipientes apropriados. Adsorva o produto remanescente, com areia seca, terra, vermiculite, ou
+qualquer outro material inerte. Coloque o material adsorvido em recipientes apropriados e remova-
+os para local seguro. Para destinação final, proceder conforme a Seção 13 desta FISPQ.
+ | 
+Diferenças na ação de
+grandes e pequenos
+vazamentos: | Grandes vazamentos: Neblina d'água pode ser utilizada para reduzir vapores, mas isso não irá
+prevenir a ignição em ambientes fechados.
+ | 
+7 - MANUSEIO E ARMAZENAMENTO | 
+Medidas técnicas apropriadas para o manuseio | 
+Precauções para
+manuseio seguro: | Manuseie em uma área ventilada ou com sistema geral de ventilação/exaustão local. Evite
+formação de vapores ou névoas. Evite inalar o produto em caso de formação de vapores ou
+névoas. Inspecione os recipientes quanto a danos ou vazamentos antes de manuseá-los. Evite
+contato com materiais incompatíveis. Utilize equipamento elétrico, de ventilação e de iluminação à
+prova de explosão. Use luvas de proteção, roupa de proteção, proteção ocular, proteção facial como
+indicado na Seção 8.
+ | 
+Medidas de higiene: | Lave bem as mãos antes de comer, beber, fumar ou ir ao banheiro. Roupas contaminadas devem
+ser trocadas e lavadas antes de sua reutilização.
+ | 
+Condições de armazenamento seguro, incluindo qualquer incompatibilidade | 
+Prevenção de incêndio
+e explosão: | Mantenha afastado do calor, faísca, chama aberta e superfícies quentes. - Não fume. Mantenha o
+recipiente hermeticamente fechado. Aterre o vaso contentor e o receptor do produto durante
+ | 
+FISPQ
+Em conformidade com NBR 14725
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Produto: ÁLCOOL ISOPROPÍLICO (ISOPROPANOL) P.A
+Revisão: 03 Data: 25/01/2021 Página: 3/8
+atingido.
+5 - MEDIDAS DE COMBATE A INCÊNDIO
+Meios de extinção: Apropriados: dióxido de carbono (CO2), espuma, espuma resistente a álcool, neblina d'água e pó
+químico seco.
+Não recomendados: água diretamente sobre o produto em chamas.
+Perigos específicos da A combustão do produto químico ou de sua embalagem pode formar gases irritantes e tóxicos como
+mistura ou substância: monóxido e dióxido de carbono.
+Muito perigoso quando exposto a calor excessivo ou outras fontes de ignição como: faíscas,
+chamas abertas ou chamas de fósforos e cigarros, operações de solda, lâmpadas-piloto e motores
+elétricos. Pode acumular carga estática por fluxo ou agitação. Podem deslocar-se por grandes
+distâncias provocando retrocesso da chama ou novos focos de incêndio tanto em ambientes
+abertos como confinados. Os contêineres podem explodir se aquecidos.
+Medidas de proteção Equipamento de proteção respiratória do tipo autônomo (SCBA) com pressão positiva e vestuário
+da equipe de combate protetor completo. Contêineres e tanques envolvidos no incêndio devem ser resfriados com neblina
+a incêndio: d'água.
+6 - MEDIDAS DE CONTROLE PARA DERRAMAMENTO OU VAZAMENTO
+Precauções pessoais, equipamento de proteção e procedimentos de emergência
+Para o pessoal que não Isole o vazamento de fontes de ignição. Impeça fagulhas ou chamas. Não fume. Não toque nos
+faz parte dos serviços recipientes danificados ou no material derramado sem o uso de vestimentas adequadas. Utilize
+de emergência: equipamento de proteção individual conforme descrito na seção 8.
+Para o pessoal do Utilize EPI completo com óculos de segurança, luvas de segurança, vestuário protetor adequado e
+serviço de emergência: sapatos fechados. Em caso de vazamento, onde a exposição é grande, recomenda-se o uso de
+máscara de proteção respiratória adequada.
+Precauções ao meio Evite que o produto derramado atinja cursos d'água e rede de esgotos.
+ambiente:
+Método e materiais Utilize névoa de água ou espuma supressora de vapor para reduzir a dispersão do produto. Utilize
+para a contenção e barreiras naturais ou de contenção de derrame. Colete o produto derramado e coloque em
+limpeza: recipientes apropriados. Adsorva o produto remanescente, com areia seca, terra, vermiculite, ou
+qualquer outro material inerte. Coloque o material adsorvido em recipientes apropriados e remova-
+os para local seguro. Para destinação final, proceder conforme a Seção 13 desta FISPQ.
+Diferenças na ação de Grandes vazamentos: Neblina d'água pode ser utilizada para reduzir vapores, mas isso não irá
+grandes e pequenos prevenir a ignição em ambientes fechados.
+vazamentos:
+7 - MANUSEIO E ARMAZENAMENTO
+Medidas técnicas apropriadas para o manuseio
+Precauções para Manuseie em uma área ventilada ou com sistema geral de ventilação/exaustão local. Evite
+manuseio seguro: formação de vapores ou névoas. Evite inalar o produto em caso de formação de vapores ou
+névoas. Inspecione os recipientes quanto a danos ou vazamentos antes de manuseá-los. Evite
+contato com materiais incompatíveis. Utilize equipamento elétrico, de ventilação e de iluminação à
+prova de explosão. Use luvas de proteção, roupa de proteção, proteção ocular, proteção facial como
+indicado na Seção 8.
+Medidas de higiene: Lave bem as mãos antes de comer, beber, fumar ou ir ao banheiro. Roupas contaminadas devem
+ser trocadas e lavadas antes de sua reutilização.
+Condições de armazenamento seguro, incluindo qualquer incompatibilidade
+Prevenção de incêndio Mantenha afastado do calor, faísca, chama aberta e superfícies quentes. - Não fume. Mantenha o
+e explosão: recipiente hermeticamente fechado. Aterre o vaso contentor e o receptor do produto durante
+Revisão: 03 | Data: 25/01/2021 Página: 4/8
+ | transferências. Utilize apenas ferramentas anti-faiscantes. Evite o acúmulo de cargas eletrostáticas.
+ | 
+Condições adequadas: | Armazene em local ventilado e protegido do calor. Mantenha afastado de materiais incompatíveis.
+Mantenha um controlador de temperatura no local de armazenamento que possa garantir as
+seguintes condições:
+- Temperatura de 5 a 30°C.
+Não é necessária adição de estabilizantes e antioxidantes para garantir a durabilidade do produto.
+ | 
+Materiais adequados
+para embalagem: | Frasco de Vidro Âmbar e embalagens pláticas.
+ | 
+Materiais inadequados
+para embalagem: | Maior parte de plásticos finos, o alumínio quando em temperaturas acima de 50ºC, borracha de
+neoprene.
+8 - CONTROLE DE EXPOSIÇÃO E PROTEÇÃO INDIVIDUAL | 
+Parâmetros de controle | 
+Limites de exposição
+ocupacional: | Não estabelecidos.
+ | 
+Indicadores biológicos: | Não estabelecidos.
+Outros limites e valores: | Não estabelecidos.
+Medidas de controle de
+engenharia: | Promova ventilação mecânica e sistema de exaustão direta para o meio exterior. Estas medidas
+auxiliam na redução da exposição ao produto. É recomendado tornar disponíveis chuveiros de
+emergência e lava olhos na área de trabalho.
+ | 
+Medidas de proteção pessoal | 
+Proteção dos
+olhos/face: | Óculos com proteção lateral.
+ | 
+Proteção da pele e do
+corpo: | Sapatos fechados, vestimenta de segurança para proteção de todo o corpo contra respingos de
+produtos químicos. Luvas de proteção do tipo PVC, nitrílica, fluorada, butílica, policloropreno ou
+borracha natural.
+ | 
+Proteção respiratória: | Com base nos limites de exposição ocupacional do produto, uma avaliação de risco deve ser
+realizada para adequada definição da proteção respiratória tendo em vista as condições de uso do
+produto. Siga orientação do Programa de Proteção Respiratória (PPR), Fundacentro.
+ | 
+Perigos térmicos: | Não apresenta perigos térmicos.
+9 - PROPRIEDADES FÍSICAS E QUÍMICAS | 
+Aspecto (estado físico,
+forma e cor): | Líquido incolor.
+ | 
+Odor e limite de odor: | Característico de álcool.
+pH: | Não disponível.
+Ponto de fusão/ponto
+de congelamento: | -87,9 °C.
+ | 
+Ponto de ebulição inicial
+e faixa de temperatura
+de ebulição: | 82,3 °C a 760 mmHg.
+ | 
+Ponto de fulgor: | 12 °C - Vaso aberto.
+Taxa de evaporação: | 1,7 (n-butil-acetato = 1).
+Inflamabilidade: | Inflamável.
+FISPQ
+Em conformidade com NBR 14725
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Produto: ÁLCOOL ISOPROPÍLICO (ISOPROPANOL) P.A
+Revisão: 03 Data: 25/01/2021 Página: 4/8
+transferências. Utilize apenas ferramentas anti-faiscantes. Evite o acúmulo de cargas eletrostáticas.
+Condições adequadas: Armazene em local ventilado e protegido do calor. Mantenha afastado de materiais incompatíveis.
+Mantenha um controlador de temperatura no local de armazenamento que possa garantir as
+seguintes condições:
+- Temperatura de 5 a 30°C.
+Não é necessária adição de estabilizantes e antioxidantes para garantir a durabilidade do produto.
+Materiais adequados Frasco de Vidro Âmbar e embalagens pláticas.
+para embalagem:
+Materiais inadequados Maior parte de plásticos finos, o alumínio quando em temperaturas acima de 50ºC, borracha de
+para embalagem: neoprene.
+8 - CONTROLE DE EXPOSIÇÃO E PROTEÇÃO INDIVIDUAL
+Parâmetros de controle
+Limites de exposição Não estabelecidos.
+ocupacional:
+Indicadores biológicos: Não estabelecidos.
+Outros limites e valores: Não estabelecidos.
+Medidas de controle de Promova ventilação mecânica e sistema de exaustão direta para o meio exterior. Estas medidas
+engenharia: auxiliam na redução da exposição ao produto. É recomendado tornar disponíveis chuveiros de
+emergência e lava olhos na área de trabalho.
+Medidas de proteção pessoal
+Proteção dos Óculos com proteção lateral.
+olhos/face:
+Proteção da pele e do Sapatos fechados, vestimenta de segurança para proteção de todo o corpo contra respingos de
+corpo: produtos químicos. Luvas de proteção do tipo PVC, nitrílica, fluorada, butílica, policloropreno ou
+borracha natural.
+Proteção respiratória: Com base nos limites de exposição ocupacional do produto, uma avaliação de risco deve ser
+realizada para adequada definição da proteção respiratória tendo em vista as condições de uso do
+produto. Siga orientação do Programa de Proteção Respiratória (PPR), Fundacentro.
+Perigos térmicos: Não apresenta perigos térmicos.
+9 - PROPRIEDADES FÍSICAS E QUÍMICAS
+Aspecto (estado físico, Líquido incolor.
+forma e cor):
+Odor e limite de odor: Característico de álcool.
+pH: Não disponível.
+Ponto de fusão/ponto -87,9 °C.
+de congelamento:
+Ponto de ebulição inicial 82,3 °C a 760 mmHg.
+e faixa de temperatura
+de ebulição:
+Ponto de fulgor: 12 °C - Vaso aberto.
+Taxa de evaporação: 1,7 (n-butil-acetato = 1).
+Inflamabilidade: Inflamável.
+
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+
+Limite inferior/superior
+de inflamabilidade ou
+explosividade: | Superior: 13,4 % - 335 g/m³
+e Inferior: 2% - 50 g/m³.
+ | 
+Pressão de vapor: | 45,4 mmHg a 25 °C.
+Densidade de vapor: | 2,1 (ar = 1).
+Densidade relativa: | 0,79 (água a 4°C=1) a 25 °C.
+Solubilidade(s): | Miscível em água (1 mg/L a 25 °C). Miscível em álcool, éter, clorofórmio, benzeno, solventes
+orgânicos. Imiscível em soluções de sal.
+ | 
+Coeficiente de partição
+- n-octanol/água: | log Kow: 0,05.
+ | 
+Temperatura de
+autoignição: | 398 °C.
+ | 
+Temperatura de
+decomposição: | Não disponível.
+ | 
+Viscosidade: | Dinâmica: 2,04 mPa.s a 25 °C.
+Outras informações: | Temperatura crítica: 235,15 °C
+Pressão crítica: 4,7 MPa.
+ | 
+10 - ESTABILIDADE E REATIVIDADE | 
+Reatividade: | Reage com o ar ou oxigênio para formar peróxidos perigosamente
+instáveis.
+ | 
+Estabilidade: | Produto estável em condições normais de temperatura e pressão.
+Possibilidade de
+reações perigosas: | Não são conhecidas reações perigosas com relação ao produto.
+ | 
+Condições a serem
+evitadas: | Temperaturas elevadas. Fontes de ignição. Contato com materiais incompatíveis.
+ | 
+Materiais incompatíveis: | Ácido nítrico, Agentes Oxidantes, Álcalis metálicos, Aldeídos, Alumínio, Aminas, Compostos
+clorídricos, Dicromato de sódio, Dióxido de nitrogênio, Metais alcalinos, Percloratos, Peróxido de
+hidrogênio e Trióxido de cromo.
+ | 
+Produtos perigosos da
+decomposição: | A decomposição do produto pode liberar propanal, propano, etano, eteno, acetileno, formaldeído e
+monóxido de carbono.
+11 - INFORMAÇÕES TOXICOLÓGICAS | 
+Toxicidade Aguda: | Produto não classificado como tóxico agudo por via dérmica e inalatória.
+Pode ser nocivo se ingerido.
+DL50 (Oral, ratos): 3600 mg/kg.
+DL50 (Dérmica, coelhos): > 5000 mg/kg.
+CL50 (Inalação de vapores, ratos, 4h): > 20 mg/L.
+ | 
+Corrosão/irritação à
+pele: | Não é esperado que o produto provoque irritação da pele.
+ | 
+Lesões oculares
+graves/irritação ocular: | Provoca irritação ocular grave com vermelhidão e dor.
+ | 
+Sensibilização
+respiratória ou à pele: | Não é esperado que o produto apresente sensibilização respiratória ou à pele.
+ | 
+Mutagenicidade em
+células germinativas: | Não é esperado que o produto apresente mutagenicidade em células germinativas.
+ | 
+Carcinogenicidade: | Não classificado para Carcinogenicidade.
+ | 
+FISPQ
+Em conformidade com NBR 14725
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Produto: ÁLCOOL ISOPROPÍLICO (ISOPROPANOL) P.A
+Revisão: 03 Data: 25/01/2021 Página: 5/8
+Limite inferior/superior Superior: 13,4 % - 335 g/m³
+de inflamabilidade ou e Inferior: 2% - 50 g/m³.
+explosividade:
+Pressão de vapor: 45,4 mmHg a 25 °C.
+Densidade de vapor: 2,1 (ar = 1).
+Densidade relativa: 0,79 (água a 4°C=1) a 25 °C.
+Solubilidade(s): Miscível em água (1 mg/L a 25 °C). Miscível em álcool, éter, clorofórmio, benzeno, solventes
+orgânicos. Imiscível em soluções de sal.
+Coeficiente de partição log Kow: 0,05.
+- n-octanol/água:
+Temperatura de 398 °C.
+autoignição:
+Temperatura de Não disponível.
+decomposição:
+Viscosidade: Dinâmica: 2,04 mPa.s a 25 °C.
+Outras informações: Temperatura crítica: 235,15 °C
+Pressão crítica: 4,7 MPa.
+10 - ESTABILIDADE E REATIVIDADE
+Reatividade: Reage com o ar ou oxigênio para formar peróxidos perigosamente
+instáveis.
+Estabilidade: Produto estável em condições normais de temperatura e pressão.
+Possibilidade de Não são conhecidas reações perigosas com relação ao produto.
+reações perigosas:
+Condições a serem Temperaturas elevadas. Fontes de ignição. Contato com materiais incompatíveis.
+evitadas:
+Materiais incompatíveis: Ácido nítrico, Agentes Oxidantes, Álcalis metálicos, Aldeídos, Alumínio, Aminas, Compostos
+clorídricos, Dicromato de sódio, Dióxido de nitrogênio, Metais alcalinos, Percloratos, Peróxido de
+hidrogênio e Trióxido de cromo.
+Produtos perigosos da A decomposição do produto pode liberar propanal, propano, etano, eteno, acetileno, formaldeído e
+decomposição: monóxido de carbono.
+11 - INFORMAÇÕES TOXICOLÓGICAS
+Toxicidade Aguda: Produto não classificado como tóxico agudo por via dérmica e inalatória.
+Pode ser nocivo se ingerido.
+DL50 (Oral, ratos): 3600 mg/kg.
+DL50 (Dérmica, coelhos): > 5000 mg/kg.
+CL50 (Inalação de vapores, ratos, 4h): > 20 mg/L.
+Corrosão/irritação à Não é esperado que o produto provoque irritação da pele.
+pele:
+Lesões oculares Provoca irritação ocular grave com vermelhidão e dor.
+graves/irritação ocular:
+Sensibilização Não é esperado que o produto apresente sensibilização respiratória ou à pele.
+respiratória ou à pele:
+Mutagenicidade em Não é esperado que o produto apresente mutagenicidade em células germinativas.
+células germinativas:
+Carcinogenicidade: Não classificado para Carcinogenicidade.
+
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+
+ | Não classificado carcinogênico para humanos (grupo 3 –iarc). não classificável como carcinogênico
+humano (categoria a4 –acgih).
+ | 
+Toxicidade à
+reprodução: | Não é esperado que o produto apresente toxicidade à reprodução.
+ | 
+Toxicidade para
+órgãos-alvo específicos
+–exposição única: | Pode provocar sonolência ou vertigem, podendo ocasionar náusea e tontura.
+Em elevadas concentrações pode provocar hipotensão, taquicardia, vasodilatação, tonturas,
+incoordenação, cefaleia, confusão, estupor e coma.
+Toxicidade para órgão-
+salvo específicos –
+exposição repetida: | Não é esperado que o produto apresente toxicidade ao órgão-alvo específico por exposição
+repetida.
+ | 
+Perigo por aspiração: | Não é esperado que o produto apresente perigo por aspiração.
+12 - INFORMAÇÕES ECOLÓGICAS | 
+Efeitos ambientais, comportamento e impactos do produto | 
+Ecotoxicidade: | Não é esperado que o produto apresente ecotoxicidade.
+CE50 (Daphnia magna, 48h): > 100 mg/L;
+CL50 (Pimephales promelas, 96h): > 100 mg/L.
+ | 
+Persistência e
+degradabilidade: | O produto não apresenta persistência e é considerado rapidamente degradável.
+Taxa de degradação aeróbica: 86% em 14 dias
+DBO5: 1,72 g O2/g
+DQO: 2.23 g O2/g
+DBO5/DQO ≥ 0.5.
+ | 
+Potencial
+bioacumulativo: | Apresenta baixo potencial bioacumulativo em organismos aquáticos.
+BCF: 3,162 (calculado)
+log Kow: 0,05.
+ | 
+Mobilidade no solo: | É esperada alta mobilidade no solo.
+Koc: 1,5.
+ | 
+Outros efeitos
+adversos: | Não são conhecidos outros efeitos ambientais para este produto.
+ | 
+13 - CONSIDERAÇÕES SOBRE DESTINAÇÃO FINAL | 
+Métodos recomendados para destinação final | 
+Produto: | O tratamento e a disposição devem ser avaliados especificamente para cada produto. Devem ser
+consultadas legislações federais, estaduais e municipais, dentre estas: Lei n°12.305, de 02 de
+agosto de 2010 (Política Nacional de Resíduos Sólidos).
+ | 
+Restos de produto: | Manter restos do produto em suas embalagens originais e devidamente fechadas. O descarte deve
+ser realizado conforme o estabelecido para o produto.
+ | 
+Embalagem usada: | Não reutilize embalagens vazias. Estas podem conter restos do produto e devem ser mantidas
+fechadas e encaminhadas para descarte apropriado conforme estabelecido para o produto.
+ | 
+14 - INFORMAÇÕES SOBRE TRANSPORTE | 
+Regulamentações nacionais e internacionais | 
+Terrestre: | ANTT - Agência Nacional de Transportes Terrestres:
+• Resolução nº 5232 de 14 de dezembro de 2016: Aprova as Instruções Complementares
+ao Regulamento Terrestre do Transporte de Produtos Perigosos, e dá outras providências.
+ | 
+Número ONU: | 1219
+Nome apropriado para
+embarque: | ISOPROPANOL (ÁLCOOL ISOPROPÍLICO)
+ | 
+FISPQ
+Em conformidade com NBR 14725
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Produto: ÁLCOOL ISOPROPÍLICO (ISOPROPANOL) P.A
+Revisão: 03 Data: 25/01/2021 Página: 6/8
+Não classificado carcinogênico para humanos (grupo 3 –iarc). não classificável como carcinogênico
+humano (categoria a4 –acgih).
+Toxicidade à Não é esperado que o produto apresente toxicidade à reprodução.
+reprodução:
+Toxicidade para Pode provocar sonolência ou vertigem, podendo ocasionar náusea e tontura.
+órgãos-alvo específicos Em elevadas concentrações pode provocar hipotensão, taquicardia, vasodilatação, tonturas,
+–exposição única: incoordenação, cefaleia, confusão, estupor e coma.
+Toxicidade para órgão- Não é esperado que o produto apresente toxicidade ao órgão-alvo específico por exposição
+salvo específicos – repetida.
+exposição repetida:
+Perigo por aspiração: Não é esperado que o produto apresente perigo por aspiração.
+12 - INFORMAÇÕES ECOLÓGICAS
+Efeitos ambientais, comportamento e impactos do produto
+Ecotoxicidade: Não é esperado que o produto apresente ecotoxicidade.
+CE50 (Daphnia magna, 48h): > 100 mg/L;
+CL50 (Pimephales promelas, 96h): > 100 mg/L.
+Persistência e O produto não apresenta persistência e é considerado rapidamente degradável.
+degradabilidade: Taxa de degradação aeróbica: 86% em 14 dias
+DBO5: 1,72 g O2/g
+DQO: 2.23 g O2/g
+DBO5/DQO ≥ 0.5.
+Potencial Apresenta baixo potencial bioacumulativo em organismos aquáticos.
+bioacumulativo: BCF: 3,162 (calculado)
+log Kow: 0,05.
+Mobilidade no solo: É esperada alta mobilidade no solo.
+Koc: 1,5.
+Outros efeitos Não são conhecidos outros efeitos ambientais para este produto.
+adversos:
+13 - CONSIDERAÇÕES SOBRE DESTINAÇÃO FINAL
+Métodos recomendados para destinação final
+Produto: O tratamento e a disposição devem ser avaliados especificamente para cada produto. Devem ser
+consultadas legislações federais, estaduais e municipais, dentre estas: Lei n°12.305, de 02 de
+agosto de 2010 (Política Nacional de Resíduos Sólidos).
+Restos de produto: Manter restos do produto em suas embalagens originais e devidamente fechadas. O descarte deve
+ser realizado conforme o estabelecido para o produto.
+Embalagem usada: Não reutilize embalagens vazias. Estas podem conter restos do produto e devem ser mantidas
+fechadas e encaminhadas para descarte apropriado conforme estabelecido para o produto.
+14 - INFORMAÇÕES SOBRE TRANSPORTE
+Regulamentações nacionais e internacionais
+Terrestre: ANTT - Agência Nacional de Transportes Terrestres:
+• Resolução nº 5232 de 14 de dezembro de 2016: Aprova as Instruções Complementares
+ao Regulamento Terrestre do Transporte de Produtos Perigosos, e dá outras providências.
+Número ONU: 1219
+Nome apropriado para ISOPROPANOL (ÁLCOOL ISOPROPÍLICO)
+embarque:
+
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+
+Classe ou subclasse de
+risco principal: | | 3
+ | | 
+Classe ou subclasse de
+risco subsidiário: | | NA
+ | | 
+Número de risco: | | 33
+Grupo de embalagem: | | II
+Hidroviário: | | DPC - Diretoria de Portos e Costas: Transporte em águas brasileiras.- Normas de Autoridade
+Marítima:
+• NORMAM 01/DPC: Embarcações Empregadas na Navegação em Mar Aberto.
+• NORMAM 02/DPC: Embarcações Empregadas na Navegação Interior.- International
+Maritime Organization (Organização Marítima Internacional):
+• IMDG Code - International Maritime Dangerous Goods Code
+(Código Marítimo Internacional de Produtos Perigosos).
+ | | 
+Número ONU: | | 1219
+Nome apropriado para
+embarque: | | ISOPROPANOL (ISOPROPYL ALCOHOL)
+ | | 
+Classe ou subclasse de
+risco principal: | | 3
+ | | 
+Classe ou subclasse de
+risco subsidiário: | | NA
+ | | 
+Grupo de embalagem: | | II
+EmS: | | F-E,S-D
+Perigo ao Meio
+Ambiente: | | O produto não é considerado poluente marinho para o transporte.
+Aéreo: | | ANAC - Agência Nacional de Aviação Civil: Resolução n°129 de 8 de dezembro de 2009.N°175 -
+(Regulamento Brasileiro da Avianção Civil):
+• Transporte de Artigos Perigosos em Aeronaves Civis.
+• IS N° 175-001 - Instrução Suplementar.- International Civil Aviation Organization
+(Organização da Aviação Civil Internacional):
+• Doc 9284-NA/905.- International Air Transport Association (Associação Internacional de
+Transporte Aéreo):
+• DGR - Dangerous Goods Regulation (Regulação de Produtos Perigosos).
+ | | 
+Número ONU: | | 1219
+Nome apropriado para
+embarque: | | ISOPROPANOL (ISOPROPYL ALCOHOL)
+ | | 
+Classe ou subclasse de
+risco principal: | | 3
+ | | 
+Classe ou subclasse de
+risco subsidiário: | | NA
+ | | 
+Grupo de embalagem: | | II
+Medidas e condições
+específicas de
+precaução: | | Não aplicável
+ | | 
+15 - INFORMAÇÕES SOBRE REGULAMENTAÇÕES | 
+Regulamentações
+específicas para o
+produto químico: | Decreto Federal nº 10.088, de 5 de novembro de 2019.
+Portaria nº 229, de 24 de maio de 2011 - Altera a Norma Regulamentadora nº 26.
+Norma ABNT-NBR 14725.
+FISPQ
+Em conformidade com NBR 14725
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Produto: ÁLCOOL ISOPROPÍLICO (ISOPROPANOL) P.A
+Revisão: 03 Data: 25/01/2021 Página: 7/8
+Classe ou subclasse de 3
+risco principal:
+Classe ou subclasse de NA
+risco subsidiário:
+Número de risco: 33
+Grupo de embalagem: II
+Hidroviário: DPC - Diretoria de Portos e Costas: Transporte em águas brasileiras.- Normas de Autoridade
+Marítima:
+• NORMAM 01/DPC: Embarcações Empregadas na Navegação em Mar Aberto.
+• NORMAM 02/DPC: Embarcações Empregadas na Navegação Interior.- International
+Maritime Organization (Organização Marítima Internacional):
+• IMDG Code - International Maritime Dangerous Goods Code
+(Código Marítimo Internacional de Produtos Perigosos).
+Número ONU: 1219
+Nome apropriado para ISOPROPANOL (ISOPROPYL ALCOHOL)
+embarque:
+Classe ou subclasse de 3
+risco principal:
+Classe ou subclasse de NA
+risco subsidiário:
+Grupo de embalagem: II
+EmS: F-E,S-D
+Perigo ao Meio O produto não é considerado poluente marinho para o transporte.
+Ambiente:
+Aéreo: ANAC - Agência Nacional de Aviação Civil: Resolução n°129 de 8 de dezembro de 2009.N°175 -
+(Regulamento Brasileiro da Avianção Civil):
+• Transporte de Artigos Perigosos em Aeronaves Civis.
+• IS N° 175-001 - Instrução Suplementar.- International Civil Aviation Organization
+(Organização da Aviação Civil Internacional):
+• Doc 9284-NA/905.- International Air Transport Association (Associação Internacional de
+Transporte Aéreo):
+• DGR - Dangerous Goods Regulation (Regulação de Produtos Perigosos).
+Número ONU: 1219
+Nome apropriado para ISOPROPANOL (ISOPROPYL ALCOHOL)
+embarque:
+Classe ou subclasse de 3
+risco principal:
+Classe ou subclasse de NA
+risco subsidiário:
+Grupo de embalagem: II
+Medidas e condições Não aplicável
+específicas de
+precaução:
+15 - INFORMAÇÕES SOBRE REGULAMENTAÇÕES
+Regulamentações Decreto Federal nº 10.088, de 5 de novembro de 2019.
+específicas para o Portaria nº 229, de 24 de maio de 2011 - Altera a Norma Regulamentadora nº 26.
+produto químico: Norma ABNT-NBR 14725.
+
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+
+16 - OUTRAS INFORMAÇÕES
+Informações importantes, mas não especificamente descritas nas seções anteriores:
+Esta FISPQ foi elaborada com base nos atuais conhecimentos sobre o manuseio apropriado do produto e sob as condições
+normais de uso, de acordo com a aplicação especificada na embalagem. Qualquer outra forma de utilização do produto que
+envolva a sua combinação com outros materiais, além de formas de uso diversas daquelas indicadas, são de
+responsabilidade do usuário. Adverte-se que o manuseio de qualquer substância química requer o conhecimento prévio de
+seus perigos pelo usuário. No local de trabalho cabe à empresa usuária do produto promover o treinamento de seus
+empregados e contratados quanto aos possíveis riscos advindos da exposição ao produto químico.
+Elaborada em agosto de 2019.
+Legendas e Abreviaturas:
+ACGIH - American Conference of Governmental Industrial Hygienists;
+BCF - Bioconcentration factor;
+CAS - Chemical Abstracts Service;
+CE50 - Concentração Efetiva 50%;
+CL50 - Concentração Letal 50%;
+DBO5 - Demanda Bioquímica de Oxigênio em 5 dias;
+DL50 - Dose Letal 50%;
+DQO - Demanda Química de Oxigênio;
+Koc - Coeficiente de Partição de Carbono Orgânico;
+Kow - Coeficiente de partição octanol/água;
+NR - Norma Regulamentadora;
+ONU - Organização das Nações Unidas.
+Referências bibliográficas:
+BRASIL. MINISTÉRIO DO TRABALHO E EMPREGO (MTE). Norma Regulamentadora (NR) n°7: Programa de controle
+médico de saúde ocupacional. Brasília, DF. Jun. 1978.
+BRASIL. MINISTÉRIO DO TRABALHO E EMPREGO (MTE). Norma Regulamentadora (NR) n°15: Atividades e operações
+insalubres. Brasília, DF. Jun. 1978.
+GHS - GLOBALLY HARMONIZED SYSTEM OF CLASSIFICATION AND LABELLING OF CHEMICALS. 8th rev. ed. New
+York: United Nations, 2019.
+ACGIH - AMERICAN CONFERENCE OF GOVERNMENTAL INDUSTRIALS HYGIENISTS. TLVs® and BEIs®: Based on the
+Documentation of the Threshold Limit Values (TLVs®) for Chemical Substances and Physical Agents & Biological Exposure
+Indices (BEIs®). Cincinnati-USA, 2020.
+FISPQ
+Em conformidade com NBR 14725
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Produto: ÁLCOOL ISOPROPÍLICO (ISOPROPANOL) P.A
+Revisão: 03 Data: 25/01/2021 Página: 8/8
+16 - OUTRAS INFORMAÇÕES
+Informações importantes, mas não especificamente descritas nas seções anteriores:
+Esta FISPQ foi elaborada com base nos atuais conhecimentos sobre o manuseio apropriado do produto e sob as condições
+normais de uso, de acordo com a aplicação especificada na embalagem. Qualquer outra forma de utilização do produto que
+envolva a sua combinação com outros materiais, além de formas de uso diversas daquelas indicadas, são de
+responsabilidade do usuário. Adverte-se que o manuseio de qualquer substância química requer o conhecimento prévio de
+seus perigos pelo usuário. No local de trabalho cabe à empresa usuária do produto promover o treinamento de seus
+empregados e contratados quanto aos possíveis riscos advindos da exposição ao produto químico.
+Elaborada em agosto de 2019.
+Legendas e Abreviaturas:
+ACGIH - American Conference of Governmental Industrial Hygienists;
+BCF - Bioconcentration factor;
+CAS - Chemical Abstracts Service;
+CE50 - Concentração Efetiva 50%;
+CL50 - Concentração Letal 50%;
+DBO5 - Demanda Bioquímica de Oxigênio em 5 dias;
+DL50 - Dose Letal 50%;
+DQO - Demanda Química de Oxigênio;
+Koc - Coeficiente de Partição de Carbono Orgânico;
+Kow - Coeficiente de partição octanol/água;
+NR - Norma Regulamentadora;
+ONU - Organização das Nações Unidas.
+Referências bibliográficas:
+BRASIL. MINISTÉRIO DO TRABALHO E EMPREGO (MTE). Norma Regulamentadora (NR) n°7: Programa de controle
+médico de saúde ocupacional. Brasília, DF. Jun. 1978.
+BRASIL. MINISTÉRIO DO TRABALHO E EMPREGO (MTE). Norma Regulamentadora (NR) n°15: Atividades e operações
+insalubres. Brasília, DF. Jun. 1978.
+GHS - GLOBALLY HARMONIZED SYSTEM OF CLASSIFICATION AND LABELLING OF CHEMICALS. 8th rev. ed. New
+York: United Nations, 2019.
+ACGIH - AMERICAN CONFERENCE OF GOVERNMENTAL INDUSTRIALS HYGIENISTS. TLVs® and BEIs®: Based on the
+Documentation of the Threshold Limit Values (TLVs®) for Chemical Substances and Physical Agents & Biological Exposure
+Indices (BEIs®). Cincinnati-USA, 2020.

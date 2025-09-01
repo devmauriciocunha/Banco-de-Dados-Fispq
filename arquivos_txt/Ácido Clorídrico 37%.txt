@@ -1,0 +1,637 @@
+Bioquímica
+e Química
+Ltda. | Bioquímica
+e Química
+Ltda. | FICHA DE SEGURANÇA
+De acordo com a norma NBR 14725-4:2014 | FISPQ No. OT - 016
+ | | | Página 1 de 7
+ | 1. Identificação do produto e da empresa | 
+1.1 Identificadores do produto Nome do produto:
+ÁCIDO CLORÍDRICO 37% PA, ACS
+Referência do Produto : FMA0000112090; FMG0000412090
+1.2 Outros meios de identificação
+Dados não disponíveis
+1.3 Utilizações identificadas relevantes da substância ou mistura e utilizações desaconselhadas
+Só para utilização R&D. Não para utilização farmacêutica, doméstica ou outras utilizações.
+1.4 Identificação do fornecedor da ficha de dados de segurança
+Bioquímica e Química Ltda.
+Rua Leiria, 537 - São Francisco - Belo Horizonte - MG - CEP: 31255-100
+Telefone: (31) 2534-5001 - www.bioquimicaonline.com
+1.5 Número de telefone de emergência
+31 - 2534-5001 | | 
+ | 2. Identificação de perigos | 
+2.1 Classificação da substância ou mistura
+Corrosivo para os metais (Categoria 1)
+Corrosão cutânea (Categoria 1B)
+Lesões oculares graves (Categoria 1)
+Toxicidade para órgãos-alvo específicos - exposição única (Categoria 3), Sistema respiratório
+2.2 Elementos da etiqueta
+Rotulagem de acordo com o Regulamento (CE) 1272/2008
+Pictograma
+Palavra de Advertência
+Perigo
+Declaração de perigo
+H290 Pode ser corrosivo para os metais.
+H314 Provoca queimaduras na pele e lesões oculares graves.
+H335 Pode provocar irritação das vias respiratórias.
+Declaração de precaução
+Prevenção
+P264 Lavar a pele cuidadosamente após manuseamento.
+P280 Usar luvas de proteção/ vestuário de proteção/ proteção ocular/proteção facial.
+Resposta
+P303 + P361 + P353 SE ENTRAR EM CONTACTO COM A PELE (ou o cabelo): retirar imediatamente toda a roupa contaminada.
+Enxaguar a pele com água/tomar um duche.
+P304 + P340 + P310 EM CASO DE INALAÇÃO: retirar a pessoa para uma zona ao ar livre e mantê-la numa posição que não dificulte
+a respiração. Contate imediatamente um CENTRO DE INFORMAÇÃO ANTIVENENOS/ médico.
+P305 + P351 + P338 + P310 SE ENTRAR EM CONTACTO COM OS OLHOS: enxaguar cuidadosamente com água durante vários | | 
+Bioquímica FISPQ No. OT - 016
+FICHA DE SEGURANÇA
+e Química
+Ltda. De acordo com a norma NBR 14725-4:2014 Página 1 de 7
+Nome do produto: ÁCIDO CLORÍDRICO 37% PA, Referência do produto: FMA0000112090; FMG0000412090
+ACS
+Data da revisão: 28/09/2021 No. da revisão: 04
+1. Identificação do produto e da empresa
+1.1 Identificadores do produto Nome do produto:
+ÁCIDO CLORÍDRICO 37% PA, ACS
+Referência do Produto : FMA0000112090; FMG0000412090
+1.2 Outros meios de identificação
+Dados não disponíveis
+1.3 Utilizações identificadas relevantes da substância ou mistura e utilizações desaconselhadas
+Só para utilização R&D. Não para utilização farmacêutica, doméstica ou outras utilizações.
+1.4 Identificação do fornecedor da ficha de dados de segurança
+Bioquímica e Química Ltda.
+Rua Leiria, 537 - São Francisco - Belo Horizonte - MG - CEP: 31255-100
+Telefone: (31) 2534-5001 - www.bioquimicaonline.com
+1.5 Número de telefone de emergência
+31 - 2534-5001
+2. Identificação de perigos
+2.1 Classificação da substância ou mistura
+Corrosivo para os metais (Categoria 1)
+Corrosão cutânea (Categoria 1B)
+Lesões oculares graves (Categoria 1)
+Toxicidade para órgãos-alvo específicos - exposição única (Categoria 3), Sistema respiratório
+2.2 Elementos da etiqueta
+Rotulagem de acordo com o Regulamento (CE) 1272/2008
+Pictograma
+Palavra de Advertência
+Perigo
+Declaração de perigo
+H290 Pode ser corrosivo para os metais.
+H314 Provoca queimaduras na pele e lesões oculares graves.
+H335 Pode provocar irritação das vias respiratórias.
+Declaração de precaução
+Prevenção
+P264 Lavar a pele cuidadosamente após manuseamento.
+P280 Usar luvas de proteção/ vestuário de proteção/ proteção ocular/proteção facial.
+Resposta
+P303 + P361 + P353 SE ENTRAR EM CONTACTO COM A PELE (ou o cabelo): retirar imediatamente toda a roupa contaminada.
+Enxaguar a pele com água/tomar um duche.
+P304 + P340 + P310 EM CASO DE INALAÇÃO: retirar a pessoa para uma zona ao ar livre e mantê-la numa posição que não dificulte
+a respiração. Contate imediatamente um CENTRO DE INFORMAÇÃO ANTIVENENOS/ médico.
+P305 + P351 + P338 + P310 SE ENTRAR EM CONTACTO COM OS OLHOS: enxaguar cuidadosamente com água durante vários
+Bioquímica
+e Química
+Ltda. | Bioquímica
+e Química
+Ltda. | FICHA DE SEGURANÇA
+De acordo com a norma NBR 14725-4:2014 | FISPQ No. OT - 016
+ | | | Página 2 de 7
+minutos. Se usar lentes de contato, retire-as, se tal lhe for possível. Continuar a enxaguar.
+Contate imediatamente um CENTRO DE INFORMAÇÃO
+ANTIVENENOS/ médico.
+P363 Lavar a roupa contaminada antes de a voltar a usar.
+Armazenagem
+P403 + P233 Armazenar em local bem ventilado. Manter o recipiente bem fechado.
+2.3 Outros Perigos
+Nenhum (a)
+
+ | 3. Composição e informação sobre os ingredientes | 
+3.2 Misturas
+Fórmula: HCl
+Peso molecular: 36.46 g/mol
+Ingredientes perigosos de acordo com o Regulamento (CE) Nº 1272/2008
+COMPONENTE CLASSIFICAÇÃO CONCENTRAÇÃO
+Hydrochloric acid
+Corrosivo para os metais (Categoria 1).
+Corrosão cutânea (Categoria 1B).
+No. CAS 7647-01-0 Lesões oculares graves (Categoria 1).
+37%
+Toxicidade para órgãos-alvo
+específicos - exposição única
+(Categoria 3). Sistema respiratório
+Water
+No. CAS 7732-18-5 - 63% | | 
+COMPONENTE | CLASSIFICAÇÃO | CONCENTRAÇÃO
+Hydrochloric acid | | 
+No. CAS 7647-01-0 | Corrosivo para os metais (Categoria 1).
+Corrosão cutânea (Categoria 1B).
+Lesões oculares graves (Categoria 1).
+Toxicidade para órgãos-alvo
+específicos - exposição única
+(Categoria 3). Sistema respiratório | 37%
+Water | | 
+No. CAS 7732-18-5 | - | 63%
+ | 4. Medidas de primeiros socorros | 
+4.1 Descrição das medidas de primeiros socorros
+Recomendação geral
+Consultar um médico. Mostrar esta ficha de segurança ao médico de serviço.
+Em caso de inalação
+Se for respirado, levar a pessoa para o ar fresco. Se não respirar, dar respiração artificial. Consultar um médico.
+Em caso de contato com a pele
+Despir imediatamente a roupa e os sapatos contaminados. Lavar com sabão e muita água. Consultar um médico.
+Se entrar em contato com os olhos
+Lavar cuidadosamente com muita água, durante pelo menos quinze minutos, e consultar o médico.
+Em caso de ingestão
+NÃO provoca vómito. Nunca dar nada pela boca a uma pessoa inconsciente. Enxaguar a boca com água.
+Consultar um médico.
+4.2 Sintomas e efeitos mais importantes, tanto agudos como retardados
+Sensação de queimadura, Tosse, respiração ruidosa, laringite, Respiração superficial, espasmo, inflamação e edema da laringe,
+espasmo, inflamação e edema dos brônquios, pneumonia, edema pulmonar, O material é extremamente destrutivo para os tecidos
+das membranas mucosas e para o trato respiratório superior, os olhos e a pele.
+4.3 Indicações sobre cuidados médicos urgentes e tratamentos especiais necessários
+Dados não disponíveis | | 
+ | 5. Medidas de combate a incêndio | 
+5.1 Meios de extinção
+Meios adequados de extinção
+Utilizar água pulverizada, espuma resistente ao álcool, produto químico seco ou dióxido de carbono.
+Meios de extinção não recomendados | | 
+Bioquímica FISPQ No. OT - 016
+FICHA DE SEGURANÇA
+e Química
+Ltda. De acordo com a norma NBR 14725-4:2014 Página 2 de 7
+Nome do produto: ÁCIDO CLORÍDRICO 37% PA, Referência do produto: FMA0000112090; FMG0000412090
+ACS
+Data da revisão: 28/09/2021 No. da revisão: 04
+minutos. Se usar lentes de contato, retire-as, se tal lhe for possível. Continuar a enxaguar.
+Contate imediatamente um CENTRO DE INFORMAÇÃO
+ANTIVENENOS/ médico.
+P363 Lavar a roupa contaminada antes de a voltar a usar.
+Armazenagem
+P403 + P233 Armazenar em local bem ventilado. Manter o recipiente bem fechado.
+2.3 Outros Perigos
+Nenhum (a)
+3. Composição e informação sobre os ingredientes
+3.2 Misturas
+Fórmula: HCl
+Peso molecular: 36.46 g/mol
+Ingredientes perigosos de acordo com o Regulamento (CE) Nº 1272/2008
+COMPONENTE CLASSIFICAÇÃO CONCENTRAÇÃO
+Hydrochloric acid
+Corrosivo para os metais (Categoria 1).
+Corrosão cutânea (Categoria 1B).
+No. CAS 7647-01-0 Lesões oculares graves (Categoria 1).
+37%
+Toxicidade para órgãos-alvo
+específicos - exposição única
+(Categoria 3). Sistema respiratório
+Water
+No. CAS 7732-18-5 - 63%
+4. Medidas de primeiros socorros
+4.1 Descrição das medidas de primeiros socorros
+Recomendação geral
+Consultar um médico. Mostrar esta ficha de segurança ao médico de serviço.
+Em caso de inalação
+Se for respirado, levar a pessoa para o ar fresco. Se não respirar, dar respiração artificial. Consultar um médico.
+Em caso de contato com a pele
+Despir imediatamente a roupa e os sapatos contaminados. Lavar com sabão e muita água. Consultar um médico.
+Se entrar em contato com os olhos
+Lavar cuidadosamente com muita água, durante pelo menos quinze minutos, e consultar o médico.
+Em caso de ingestão
+NÃO provoca vómito. Nunca dar nada pela boca a uma pessoa inconsciente. Enxaguar a boca com água.
+Consultar um médico.
+4.2 Sintomas e efeitos mais importantes, tanto agudos como retardados
+Sensação de queimadura, Tosse, respiração ruidosa, laringite, Respiração superficial, espasmo, inflamação e edema da laringe,
+espasmo, inflamação e edema dos brônquios, pneumonia, edema pulmonar, O material é extremamente destrutivo para os tecidos
+das membranas mucosas e para o trato respiratório superior, os olhos e a pele.
+4.3 Indicações sobre cuidados médicos urgentes e tratamentos especiais necessários
+Dados não disponíveis
+5. Medidas de combate a incêndio
+5.1 Meios de extinção
+Meios adequados de extinção
+Utilizar água pulverizada, espuma resistente ao álcool, produto químico seco ou dióxido de carbono.
+Meios de extinção não recomendados
+Bioquímica
+e Química
+Ltda. | Bioquímica
+e Química
+Ltda. | FICHA DE SEGURANÇA
+De acordo com a norma NBR 14725-4:2014 | FISPQ No. OT - 016
+ | | | Página 3 de 7
+ | 6. Medidas de controle para derramamento ou vazamentos | 
+6.1 Precauções individuais, equipamento de proteção e procedimentos de emergência
+Usar equipamento de proteção individual. Evitar a respiração do vapor/névoa/gás. Assegurar ventilação adequada. Evacuar o pessoal
+para áreas de segurança.
+6.2 Precauções a nível ambiental
+Não permitir a entrada do produto no sistema de esgotos.
+6.3 Métodos e materiais de confinamento e limpeza
+Embeber em material inerte e absorvente e tratar como desperdício especial. Manter em recipientes fechados adequados, para
+eliminação.
+6.4 Remissão para outras seções
+Para eliminação de resíduos ver seção 13. | | 
+ | 7. Manuseio e armazenamento | 
+7.1 Precauções para manuseio seguro
+Observar os avisos dos rótulos. Evitar o contato com os olhos e com a pele. Evitar a inalação do vapor. Evite comer, beber ou fumar
+nas áreas de trabalho, remover roupas e equipamentos de proteção contaminados antes de entrar em áreas de alimentação.
+7.2 Condições de armazenagem segura, incluindo eventuais incompatibilidades.
+Armazenar em local fresco. Guardar o recipiente hermeticamente fechado em lugar seco e bem ventilado. Os contentores abertos
+devem ser cuidadosamente fechados de novo e têm que ficar direitos para evitar a dispersão.
+7.3Utilizações finais específicas
+Dados não disponíveis | | 
+ | 8. Controle de exposição e proteção individual | 
+8.1 Parâmetros de controle
+Componentes a controlar com relação ao local de trabalho
+8.2 Controle da exposição
+Controles técnicos adequados
+Manusear de acordo com as boas práticas industriais de higiene e segurança. Lavar as mãos antes de interrupções, e no final do dia
+de trabalho.
+Proteção individual
+Proteção ocular/ facial
+Óculos de segurança bem ajustados. Proteção da face (mínimo de 8 polegadas (20 cm)). Use equipamento de proteção ocular
+testado e aprovado de acordo com as normas governamentais adequadas, tais como NIOSH (US) ou EN 166 (EU).
+Proteção da pele
+Manusear com luvas. As luvas devem ser inspecionadas antes da utilização. Use uma técnica adequada para a remoção das luvas
+(sem tocar a superfície exterior da luva) para evitar o contato da pele com o produto. Descarte as luvas contaminadas após o uso, em
+conformidade com as leis e boas práticas de laboratório. Lavar e secar as mãos.
+As luvas de proteção selecionadas devem satisfazer as especificações da Diretiva da UE 89/689/CEE e a norma EN 374 derivada | | 
+Bioquímica FISPQ No. OT - 016
+FICHA DE SEGURANÇA
+e Química
+Ltda. De acordo com a norma NBR 14725-4:2014 Página 3 de 7
+Nome do produto: ÁCIDO CLORÍDRICO 37% PA, Referência do produto: FMA0000112090; FMG0000412090
+ACS
+Data da revisão: 28/09/2021 No. da revisão: 04
+Jatos d’água.
+5.2 Perigos especiais decorrentes da substância ou mistura
+Não combustível. Possibilidade de formação de fumos perigosos em case de incêndio nas zonas próximas. Em caso de incêndio
+pode formar cloreto de hidrogênio.
+5.3 Recomendações para o pessoal de combate a incêndios
+Utilizar aparelhos de proteção respiratória independente do ar e roupas de aproximação/proteção a temperaturas elevadas
+5.4 Outras informações
+Os jatos de água podem ser utilizados para arrefecer os contentores fechados.
+6. Medidas de controle para derramamento ou vazamentos
+6.1 Precauções individuais, equipamento de proteção e procedimentos de emergência
+Usar equipamento de proteção individual. Evitar a respiração do vapor/névoa/gás. Assegurar ventilação adequada. Evacuar o pessoal
+para áreas de segurança.
+6.2 Precauções a nível ambiental
+Não permitir a entrada do produto no sistema de esgotos.
+6.3 Métodos e materiais de confinamento e limpeza
+Embeber em material inerte e absorvente e tratar como desperdício especial. Manter em recipientes fechados adequados, para
+eliminação.
+6.4 Remissão para outras seções
+Para eliminação de resíduos ver seção 13.
+7. Manuseio e armazenamento
+7.1 Precauções para manuseio seguro
+Observar os avisos dos rótulos. Evitar o contato com os olhos e com a pele. Evitar a inalação do vapor. Evite comer, beber ou fumar
+nas áreas de trabalho, remover roupas e equipamentos de proteção contaminados antes de entrar em áreas de alimentação.
+7.2 Condições de armazenagem segura, incluindo eventuais incompatibilidades.
+Armazenar em local fresco. Guardar o recipiente hermeticamente fechado em lugar seco e bem ventilado. Os contentores abertos
+devem ser cuidadosamente fechados de novo e têm que ficar direitos para evitar a dispersão.
+7.3Utilizações finais específicas
+Dados não disponíveis
+8. Controle de exposição e proteção individual
+8.1 Parâmetros de controle
+Componentes a controlar com relação ao local de trabalho
+8.2 Controle da exposição
+Controles técnicos adequados
+Manusear de acordo com as boas práticas industriais de higiene e segurança. Lavar as mãos antes de interrupções, e no final do dia
+de trabalho.
+Proteção individual
+Proteção ocular/ facial
+Óculos de segurança bem ajustados. Proteção da face (mínimo de 8 polegadas (20 cm)). Use equipamento de proteção ocular
+testado e aprovado de acordo com as normas governamentais adequadas, tais como NIOSH (US) ou EN 166 (EU).
+Proteção da pele
+Manusear com luvas. As luvas devem ser inspecionadas antes da utilização. Use uma técnica adequada para a remoção das luvas
+(sem tocar a superfície exterior da luva) para evitar o contato da pele com o produto. Descarte as luvas contaminadas após o uso, em
+conformidade com as leis e boas práticas de laboratório. Lavar e secar as mãos.
+As luvas de proteção selecionadas devem satisfazer as especificações da Diretiva da UE 89/689/CEE e a norma EN 374 derivada
+Bioquímica
+e Química
+Ltda. | Bioquímica
+e Química
+Ltda. | FICHA DE SEGURANÇA
+De acordo com a norma NBR 14725-4:2014 | FISPQ No. OT - 016
+ | | | Página 4 de 7
+ | 9. Propriedades físico-químicas | 
+9.1 Informações sobre propriedades físicas e químicas de base
+a) Aspecto Forma: Líquido
+Cor: amarelo claro
+b) Odor acre
+c) Limite de Odor Dados não disponíveis
+d) pH Dados não disponíveis
+e) Ponto de fusão/ponto de congelamento -30 °C
+f) Ponto de ebulição inicial e intervalo de ebulição > 100 °C
+g) Ponto de fulgor 49 °C
+h) Taxa de evaporação Dados não disponíveis
+i) Inflamabilidade (sólido, gás) Dados não disponíveis
+j) Limites de inflamabilidade superior/inferior ou explosividade Dados não disponíveis
+k) Pressão de vapor 226.636 hPa a 21.1 °C
+546.596 hPa a 37.7 °C
+l) Densidade de vapor Dados não disponíveis
+m) Densidade relativa 1,15
+n) Hidrossolubilidade Dados não disponíveis
+o) Coeficiente de partição n-octanol/água Dados não disponíveis
+p) Temperatura de autoignição Dados não disponíveis
+q) Temperatura de decomposição Dados não disponíveis
+r) Viscosidade 2,3mPa.s em 15°c
+9.2 Outra informação de segurança
+Dados não disponíveis | | 
+ | 10. Estabilidade e reatividade | 
+Bioquímica FISPQ No. OT - 016
+FICHA DE SEGURANÇA
+e Química
+Ltda. De acordo com a norma NBR 14725-4:2014 Página 4 de 7
+Nome do produto: ÁCIDO CLORÍDRICO 37% PA, Referência do produto: FMA0000112090; FMG0000412090
+ACS
+Data da revisão: 28/09/2021 No. da revisão: 04
+dela.
+Contato total
+Material: Borracha de nitrilo
+Espessura mínima da capa: 0.4 mm
+Pausa através do tempo: 480 min
+Contacto com salpicos
+Material: Borracha de nitrilo
+Espessura mínima da capa: 0.11 mm
+Pausa através do tempo: 69 min
+Proteção do corpo
+Se for utilizado em solução, ou misturado com outras substâncias, e sob condições que diferem da
+EN 374, contatar o fornecedor de luvas da CE. Esta recomendação é apenas desejável e deve ser avaliada por um responsável de
+segurança e higiene industrial familiarizado com a situação específica de utilização pretendida pelos nossos clientes. Não deve ser
+interpretado como uma oferta de aprovação para qualquer cenário de uso específico
+Proteção respiratória
+Nos casos em que a avaliação de risco mostrar que os respiradores purificadores do ar são apropriados, use um respirador de
+cobertura facial total com cartuchos de combinação multiobjectivos (E.U.A.) ou do tipo ABEK (EN 14387) como apoio a controlos de
+engenharia. Se o respirador for o único meio de proteção, usa um respirador de ar de cobertura facial total. Use respiradores e
+componentes testados e aprovados por normas governamentais apropriadas, tais como as NIOSH (E.U.A.) ou CEN (UE).
+9. Propriedades físico-químicas
+9.1 Informações sobre propriedades físicas e químicas de base
+a) Aspecto Forma: Líquido
+Cor: amarelo claro
+b) Odor acre
+c) Limite de Odor Dados não disponíveis
+d) pH Dados não disponíveis
+e) Ponto de fusão/ponto de congelamento -30 °C
+f) Ponto de ebulição inicial e intervalo de ebulição > 100 °C
+g) Ponto de fulgor 49 °C
+h) Taxa de evaporação Dados não disponíveis
+i) Inflamabilidade (sólido, gás) Dados não disponíveis
+j) Limites de inflamabilidade superior/inferior ou explosividade Dados não disponíveis
+k) Pressão de vapor 226.636 hPa a 21.1 °C
+546.596 hPa a 37.7 °C
+l) Densidade de vapor Dados não disponíveis
+m) Densidade relativa 1,15
+n) Hidrossolubilidade Dados não disponíveis
+o) Coeficiente de partição n-octanol/água Dados não disponíveis
+p) Temperatura de autoignição Dados não disponíveis
+q) Temperatura de decomposição Dados não disponíveis
+r) Viscosidade 2,3mPa.s em 15°c
+9.2 Outra informação de segurança
+Dados não disponíveis
+10. Estabilidade e reatividade
+Bioquímica
+e Química
+Ltda. | Bioquímica
+e Química
+Ltda. | FICHA DE SEGURANÇA
+De acordo com a norma NBR 14725-4:2014 | FISPQ No. OT - 016
+ | | | Página 5 de 7
+ | 11. Informações toxicológicas | 
+11.1 Informações sobre os efeitos toxicológicos
+Toxicidade aguda
+DL50 Oral - coelho - 900 mg/kg (Hydrochloric acid)
+CL50 Inalação - ratazana - 1 h - 3124 ppm(Hydrochloric acid)
+Corrosão/irritação cutânea
+Pele - Coelho - Provoca queimaduras. (Hydrochloric acid)
+Lesões oculares graves/irritação ocular
+Olhos - Coelho - Corrosivo para os olhos (Hydrochloric acid)
+Sensibilização respiratória ou cutânea
+Não provoca sensibilização em animais de laboratório. (Hydrochloric acid)
+Mutagenicidade em células germinativas
+Dados não disponíveis
+Carcinogenicidade
+Este produto é ou contém um componente que não é classificável quanto à sua carcinogenicidade segundo
+sua classificação pela IARC, ACGIH, NTP ou EPA. (Hydrochloric acid)
+(Hydrochloric acid)
+IARC: 3 - Grupo 3: Não classificado quanto à sua carcinogenicidade para os humanos (Hydrochloric
+acid)
+Toxicidade reprodutiva
+Dados não disponíveis (Hydrochloric acid)
+Toxicidade para órgãos-alvo específicos - exposição única
+A substância ou mistura está classificada como tóxico específico de orgãos-alvo, exposição única, categoria
+3, com irritação das vias respiratórias. (Hydrochloric acid)
+Toxicidade para órgãos-alvo específicos - exposição repetida
+A substância ou mistura não está classificada como tóxico específico de orgãos-alvo, exposição repetida.
+Perigo de aspiração
+Nenhuma classificação de toxicidade de aspiração (Hydrochloric acid)
+Possíveis danos para a saúde:
+Inalação. Pode ser perigoso se for inalação. O material é extremamente destrutivo para os tecidos das membranas mucosas e do
+trato respiratório superior.
+Causa uma irritação no aparelho respiratório.
+Ingestão. Pode ser perigoso se for engolido. Provoca queimaduras.
+Pele Pode ser perigoso se for absorto pela pele. Causa queimaduras na pele.
+Olhos Causa queimaduras nos olhos. | | 
+Bioquímica FISPQ No. OT - 016
+FICHA DE SEGURANÇA
+e Química
+Ltda. De acordo com a norma NBR 14725-4:2014 Página 5 de 7
+Nome do produto: ÁCIDO CLORÍDRICO 37% PA, Referência do produto: FMA0000112090; FMG0000412090
+ACS
+Data da revisão: 28/09/2021 No. da revisão: 04
+10.1 Reatividade
+Dados não disponíveis
+10.2 Estabilidade química
+Estável sob as condições recomendadas de armazenamento.
+10.3 Possibilidade de reações perigosas
+Dados não disponíveis
+10.4 Condições a evitar
+Calor, chamas e faíscas.
+10.5 Materiais incompatíveis
+Bases, Aminas, Metais alcalinos, Metais, permanganatos, por exemplo, permanganato de potássio, Flúor, acetilídios metálicos,
+dissiliceto de hexalítio.
+10.6 Produtos de decomposição perigosos
+Produtos perigosos de decomposição formados durante os incêndios. - Cloreto de hidrogénio gasoso
+Outros produtos de decomposição perigosos - Dados não disponíveis
+11. Informações toxicológicas
+11.1 Informações sobre os efeitos toxicológicos
+Toxicidade aguda
+DL50 Oral - coelho - 900 mg/kg (Hydrochloric acid)
+CL50 Inalação - ratazana - 1 h - 3124 ppm(Hydrochloric acid)
+Corrosão/irritação cutânea
+Pele - Coelho - Provoca queimaduras. (Hydrochloric acid)
+Lesões oculares graves/irritação ocular
+Olhos - Coelho - Corrosivo para os olhos (Hydrochloric acid)
+Sensibilização respiratória ou cutânea
+Não provoca sensibilização em animais de laboratório. (Hydrochloric acid)
+Mutagenicidade em células germinativas
+Dados não disponíveis
+Carcinogenicidade
+Este produto é ou contém um componente que não é classificável quanto à sua carcinogenicidade segundo
+sua classificação pela IARC, ACGIH, NTP ou EPA. (Hydrochloric acid)
+(Hydrochloric acid)
+IARC: 3 - Grupo 3: Não classificado quanto à sua carcinogenicidade para os humanos (Hydrochloric
+acid)
+Toxicidade reprodutiva
+Dados não disponíveis (Hydrochloric acid)
+Toxicidade para órgãos-alvo específicos - exposição única
+A substância ou mistura está classificada como tóxico específico de orgãos-alvo, exposição única, categoria
+3, com irritação das vias respiratórias. (Hydrochloric acid)
+Toxicidade para órgãos-alvo específicos - exposição repetida
+A substância ou mistura não está classificada como tóxico específico de orgãos-alvo, exposição repetida.
+Perigo de aspiração
+Nenhuma classificação de toxicidade de aspiração (Hydrochloric acid)
+Possíveis danos para a saúde:
+Inalação. Pode ser perigoso se for inalação. O material é extremamente destrutivo para os tecidos das membranas mucosas e do
+trato respiratório superior.
+Causa uma irritação no aparelho respiratório.
+Ingestão. Pode ser perigoso se for engolido. Provoca queimaduras.
+Pele Pode ser perigoso se for absorto pela pele. Causa queimaduras na pele.
+Olhos Causa queimaduras nos olhos.
+Bioquímica
+e Química
+Ltda. | Bioquímica
+e Química
+Ltda. | FICHA DE SEGURANÇA
+De acordo com a norma NBR 14725-4:2014 | FISPQ No. OT - 016
+ | | | Página 6 de 7
+ | 12. Informações ecológicas | 
+12.1 Toxicidade
+Toxicidade em peixes CL50 - Lepomis macrochirus - 24.6 mg/l - 96 h (Hydrochloric acid)
+Toxicidade em dáfnias e outros invertebrados aquáticos
+CE50 - Daphnia magna - 4.91 mg/l - 48 h (Hydrochloric acid)
+12.2 Persistência e degradabilidade
+Dados não disponíveis
+12.3 Potencial de bioacumulação
+Dados não disponíveis
+12.4 Mobilidade no solo
+Dados não disponíveis (Hydrochloric acid)
+12.5 Resultados da avaliação PBT e mPmB
+A valoração de PBT / mPmB não está disponível já que a avaliação de segurança química não é necessária / não se realizou
+12.6 Outros efeitos adversos
+Pode ser nocivo para os organismos aquáticos devido à mudança do pH. Não deitar os resíduos no esgoto. | | 
+ | 13. Considerações sobre tratamento e disposição | 
+13.1 Métodos de tratamento de resíduos
+Produto
+Manter as pessoas afastadas, isolar e cercar as áreas de risco. O embarque, armazenamento e/ou descarte de resíduos, são
+regulamentados e as ações corretivas, seguem os procedimentos específicos.
+Produto:
+Estancar o vazamento, se isso puder ser feito sem risco e usar neblina de água para reduzir os vapores.
+Os pequenos vazamentos devem ser neutralizados com grande quantidade de água.
+Os grandes derramamentos devem ser sanados buscando de maneira segura eliminar a fonte de vazamento. Os resíduos devem ser
+dispostos seguindo os procedimentos pertinentes.
+Restos de produtos:
+Os resíduos resultantes são denominados como classe 1, e devem atender a legislação ambiental específica.
+Descartar de maneira consistente com a regulamentação federal, estadual e local. Tudo o que não for salvo para recuperação e
+reciclagem deverá ser manipulado como lixo perigoso e enviado para um incinerador ou enviado para usina de tratamento de
+resíduos aprovados pelo órgão ambiental competente. A regulamentação federal para descarte de resíduos pode diferir da
+regulamentação estadual e da regulamentação local. Dispor os recipientes e conteúdo não utilizados de acordo com a legislação
+federal, estadual e local.
+Embalagens contaminadas
+Eliminar como produto não utilizado. | | 
+ | 14. Informações sobre transporte | 
+14.1 Número ONU
+ADR/RID: 1789 IMDG: 1789 IATA: 1789 ANTT: 1789
+14.2 Designação oficial de transporte da ONU
+ADR/RID: ÁCIDO CLORÍDRICO
+IMDG: HYDROCHLORIC ACID
+IATA: Hydrochloric acid
+ANTT: ÁCIDO CLORÍDRICO
+14.3 Classes de perigo para efeitos de transporte
+ADR/RID: 8 IMDG: 8 IATA: 8 ANTT: 8
+14.4 Grupo de embalagem
+ADR/RID: II IMDG: II IATA: II ANTT: II | | 
+Bioquímica FISPQ No. OT - 016
+FICHA DE SEGURANÇA
+e Química
+Ltda. De acordo com a norma NBR 14725-4:2014 Página 6 de 7
+Nome do produto: ÁCIDO CLORÍDRICO 37% PA, Referência do produto: FMA0000112090; FMG0000412090
+ACS
+Data da revisão: 28/09/2021 No. da revisão: 04
+Sinais e sintomas de exposição
+A inalação de vapores pode provocar: sensação de queimadura, Tosse, respiração ruidosa, Respiração superficial, espasmo,
+inflamação e edema da laringe, espasmo, inflamação e edema dos brônquios, pneumonite, edema pulmonar (Hydrochloric acid).
+12. Informações ecológicas
+12.1 Toxicidade
+Toxicidade em peixes CL50 - Lepomis macrochirus - 24.6 mg/l - 96 h (Hydrochloric acid)
+Toxicidade em dáfnias e outros invertebrados aquáticos
+CE50 - Daphnia magna - 4.91 mg/l - 48 h (Hydrochloric acid)
+12.2 Persistência e degradabilidade
+Dados não disponíveis
+12.3 Potencial de bioacumulação
+Dados não disponíveis
+12.4 Mobilidade no solo
+Dados não disponíveis (Hydrochloric acid)
+12.5 Resultados da avaliação PBT e mPmB
+A valoração de PBT / mPmB não está disponível já que a avaliação de segurança química não é necessária / não se realizou
+12.6 Outros efeitos adversos
+Pode ser nocivo para os organismos aquáticos devido à mudança do pH. Não deitar os resíduos no esgoto.
+13. Considerações sobre tratamento e disposição
+13.1 Métodos de tratamento de resíduos
+Produto
+Manter as pessoas afastadas, isolar e cercar as áreas de risco. O embarque, armazenamento e/ou descarte de resíduos, são
+regulamentados e as ações corretivas, seguem os procedimentos específicos.
+Produto:
+Estancar o vazamento, se isso puder ser feito sem risco e usar neblina de água para reduzir os vapores.
+Os pequenos vazamentos devem ser neutralizados com grande quantidade de água.
+Os grandes derramamentos devem ser sanados buscando de maneira segura eliminar a fonte de vazamento. Os resíduos devem ser
+dispostos seguindo os procedimentos pertinentes.
+Restos de produtos:
+Os resíduos resultantes são denominados como classe 1, e devem atender a legislação ambiental específica.
+Descartar de maneira consistente com a regulamentação federal, estadual e local. Tudo o que não for salvo para recuperação e
+reciclagem deverá ser manipulado como lixo perigoso e enviado para um incinerador ou enviado para usina de tratamento de
+resíduos aprovados pelo órgão ambiental competente. A regulamentação federal para descarte de resíduos pode diferir da
+regulamentação estadual e da regulamentação local. Dispor os recipientes e conteúdo não utilizados de acordo com a legislação
+federal, estadual e local.
+Embalagens contaminadas
+Eliminar como produto não utilizado.
+14. Informações sobre transporte
+14.1 Número ONU
+ADR/RID: 1789 IMDG: 1789 IATA: 1789 ANTT: 1789
+14.2 Designação oficial de transporte da ONU
+ADR/RID: ÁCIDO CLORÍDRICO
+IMDG: HYDROCHLORIC ACID
+IATA: Hydrochloric acid
+ANTT: ÁCIDO CLORÍDRICO
+14.3 Classes de perigo para efeitos de transporte
+ADR/RID: 8 IMDG: 8 IATA: 8 ANTT: 8
+14.4 Grupo de embalagem
+ADR/RID: II IMDG: II IATA: II ANTT: II
+Bioquímica
+e Química
+Ltda. | Bioquímica
+e Química
+Ltda. | FICHA DE SEGURANÇA
+De acordo com a norma NBR 14725-4:2014 | FISPQ No. OT - 016
+ | | | Página 7 de 7
+ | 15. Regulamentações | 
+15.1 Regulamentação/legislação específica para a substância ou mistura em matéria de saúde, segurança e ambiente
+Esta Ficha de Informações de Produtos Químicos foi preparada de acordo com a NBR 14725-4/2014 da
+ABNT (Associação Brasileira de Normas Técnicas) | | 
+ | 16. Outras informações | 
+Esta FISPQ foi elaborada baseada nos conhecimentos atuais do produto químico e fornece informações quanto à proteção, à
+segurança, à saúde e ao meio ambiente. Adverte-se que o manuseio de qualquer substância química requer o conhecimento prévio
+de seus perigos pelo usuário. Cabe à empresa usuária do produto promover o treinamento de seus empregados e contratados
+quanto aos possíveis riscos advindos do produto.
+Este produto deve ser armazenado e manuseado de acordo com as boas práticas de higiene industrial e em conformidade com as
+regulamentações locais. | | 
+Bioquímica FISPQ No. OT - 016
+FICHA DE SEGURANÇA
+e Química
+Ltda. De acordo com a norma NBR 14725-4:2014 Página 7 de 7
+Nome do produto: ÁCIDO CLORÍDRICO 37% PA, Referência do produto: FMA0000112090; FMG0000412090
+ACS
+Data da revisão: 28/09/2021 No. da revisão: 04
+14.5 Perigos para o ambiente
+ADR/RID: não IMDG Poluente marinho: não IATA: não
+14.6 Precauções especiais para o utilizador
+Dados não disponíveis
+15. Regulamentações
+15.1 Regulamentação/legislação específica para a substância ou mistura em matéria de saúde, segurança e ambiente
+Esta Ficha de Informações de Produtos Químicos foi preparada de acordo com a NBR 14725-4/2014 da
+ABNT (Associação Brasileira de Normas Técnicas)
+16. Outras informações
+Esta FISPQ foi elaborada baseada nos conhecimentos atuais do produto químico e fornece informações quanto à proteção, à
+segurança, à saúde e ao meio ambiente. Adverte-se que o manuseio de qualquer substância química requer o conhecimento prévio
+de seus perigos pelo usuário. Cabe à empresa usuária do produto promover o treinamento de seus empregados e contratados
+quanto aos possíveis riscos advindos do produto.
+Este produto deve ser armazenado e manuseado de acordo com as boas práticas de higiene industrial e em conformidade com as
+regulamentações locais.

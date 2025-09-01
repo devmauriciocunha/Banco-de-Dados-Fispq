@@ -1,0 +1,871 @@
+1. IDENTIFICAÇÃO
+Ficha de Informações de
+Segurança de Produto Químico
+SELECT 240 EC
+Página: (1 de 21)
+1. IDENTIFICAÇÃO
+Nome do Produto: Select 240 EC
+Código Arysta: FISP – 033
+Principais usos recomendados: Herbicida sistêmico, pós e pré-emergente, do grupo
+químico oxima ciclohexanodiona.
+Fornecedor:
+ARYSTA LIFESCIENCE DO BRASIL
+INDÚSTRIA QUÍMICA E AGROPECUÁRIA S.A.
+Rodovia Sorocaba – Pilar do Sul, km 122
+Salto de Pirapora – SP – 18160-000
+Fone/Fax Comercial: (15) 3491-9900 / 3292-1161
+E-mail: arysta-br@arysta.com
+Telefone de emergência: 0800 014 11 49
+2. IDENTIFICAÇÃO DE PERIGOS
+Perigos mais importantes: o produto pode ser nocivo ao homem e tóxico ao meio
+ambiente se não utilizado conforme as recomendações.
+Efeitos do Produto:
+Efeitos adversos à saúde humana: o produto pode ser nocivo se ingerido e em
+contato com a pele. O produto é nocivo se inalado. Provoca irritação à pele e
+irritação ocular. Pode provocar danos ao fígado, rins e ao sistema nervoso. Por
+exposição repetida ou prolongada, pode provocar danos ao fígado. Pode ser
+nocivo se ingerido e penetrar nas vias respiratórias.
+Efeitos Ambientais: o produto é considerado nocivo para os organismos
+aquáticos.
+Perigos físicos e químicos: líquido e vapores inflamáveis.
+Data de elaboração: (25/07/2014) Data de revisão: (13/07/2018)
+Número de Revisão: (03)
+Ficha de Informações de
+Segurança de Produto Químico
+SELECT 240 EC
+Página: (2 de 21)
+Principais Sintomas: A ingestão de grandes quantidades do produto pode causar
+náusea, vômito, dor abdominal e diarreia, podendo apresentar também dores de
+cabeça, fraqueza sonolência e taquicardia. A inalação pode causar irritação faríngea
+e pulmonar produzindo tosse, dificuldade respiratória, rinorréia e dor. O contato
+direto com a pele e olhos pode causar irritação e lesão da área de contato.
+Classificação de perigo do produto:
+Sistema de classificação: ANVISA: Portaria nº3, 16 de janeiro de 1992 / IBAMA:
+Portaria Normativa nº84, 15 de outubro 1996.
+Classificação Toxicológica ANVISA: Classe I – Extremamente Tóxico.
+Classificação do Potencial de Periculosidade Ambiental IBAMA: Classe III – Produto
+Perigoso ao Meio Ambiente.
+Sistema de classificação de perigo de acordo com o Sistema Globalmente
+Harmonizado para a Classificação e Rotulagem de Produtos Químicos. Norma
+ABNT-NBR 14725 – Parte 2. Versão corrigida em 26 de julho de 2010.
+Toxicidade aguda - Oral: Categoria 5.
+Toxicidade aguda - Pele: Categoria 5.
+Toxicidade aguda - Inalação: Categoria 4.
+Corrosão/irritação à pele: Categoria 2.
+Lesões oculares graves/irritação ocular: Categoria 2B.
+Sensibilizantes respiratórios: Classificação impossível.
+Sensibilização à pele: Não classificado
+Mutagenicidade: Classificação impossível.
+Carcinogenicidade: Classificação impossível.
+Tóxico à reprodução: Classificação impossível.
+Toxicidade sistêmica ao órgão-alvo (única exposição): Categoria 2.
+Toxicidade sistêmica ao órgão-alvo (exposição repetida): Categoria 2.
+Perigo por Aspiração: Categoria 2.
+Perigoso ao ambiente aquático - Agudo: Categoria 3.
+Perigoso ao ambiente aquático - Crônico: Classificação impossível.
+Líquidos inflamáveis: Categoria 3.
+Data de elaboração: (25/07/2014) Data de revisão: (13/07/2018)
+Número de Revisão: (03)
+Pictograma | | | 
+Palavra de
+advertência | Atenção | | 
+Ficha de Informações de
+Segurança de Produto Químico
+SELECT 240 EC
+Página: (3 de 21)
+Elementos apropriados da rotulagem:
+Pictograma
+Palavra de
+Atenção
+advertência
+Frases de perigo:
+H226 – Líquidos e vapores inflamáveis.
+H303 – Pode ser nocivo se ingerido.
+H313 – Pode ser nocivo em contato com a pele.
+H315 – Provoca irritação à pele.
+H320 – Provoca irritação ocular.
+H332 – Nocivo se inalado.
+H371 – Pode provocar danos ao fígado, rins e sistema nervoso.
+H373 – Pode provocar danos ao fígado por exposição repetida ou prolongada.
+H305 – Pode ser nocivo se ingerido e penetrar nas vias respiratórias.
+H402 – Nocivo para os organismos aquáticos.
+Frases de precaução:
+P210 – Mantenha afastado do calor/faísca/chama aberta/superfícies quentes. – Não
+fume.
+P260 – Não inale as poeiras/fumos/gases/névoas/vapores/aerossóis.
+P270 – Não coma, beba ou fume durante a utilização deste produto.
+P271 – Utilize apenas ao ar livre ou em locais bem ventilados.
+P273 – Evite a liberação para o meio ambiente.
+P280 – Use luvas de proteção/roupa de proteção/proteção ocular/proteção facial.
+3. COMPOSIÇÃO E INFORMAÇÕES SOBRE OS INGREDIENTES
+Natureza Química: este produto é uma mistura.
+Ingredientes ou impurezas que contribuam para o perigo:
+Data de elaboração: (25/07/2014) Data de revisão: (13/07/2018)
+Número de Revisão: (03)
+Nome químico | No CAS | Concentração | | Fórmula | | Sinônimos | | Classificação de | 
+ | | | | Molecular | | | | perigo | 
+Cletodim | 99129-
+21-2 | 24% | C H ClNO S
+17 26 3 | | | ND | | Toxicidade aguda - Oral: | 
+ | | | | | | | | Categoria 4. | 
+ | | | | | | | | | 
+ | | | | | | | | Toxicidade aguda - | 
+ | | | | | | | | Inalação: Categoria 4. | 
+ | | | | | | | | | 
+ | | | | | | | | Corrosão/ irritação à | 
+ | | | | | | | | pele: Categoria 3. | 
+ | | | | | | | | | 
+ | | | | | | | | Lesões oculares | 
+ | | | | | | | | graves/irritação ocular. | 
+ | | | | | | | | Categoria 2B. | 
+ | | | | | | | | | 
+ | | | | | | | | Toxicidade para órgãos- | 
+ | | | | | | | | alvo específicos – | 
+ | | | | | | | | Exposição única: | 
+ | | | | | | | | Categoria 2. | 
+ | | | | | | | | | 
+ | | | | | | | | Toxicidade para órgãos- | 
+ | | | | | | | | alvo específicos – | 
+ | | | | | | | | Exposição repetida: | 
+ | | | | | | | | Categoria 2. | 
+ | | | | | | | | | 
+ | | | | | | | | Perigoso ao meio | 
+ | | | | | | | | ambiente aquático – | 
+ | | | | | | | | Agudo: Categoria 3. | 
+Cletodim
+
+99129-
+21-2
+C H ClNO S
+17 26 3
+
+Ficha de Informações de
+Segurança de Produto Químico
+SELECT 240 EC
+Página: (4 de 21)
+Fórmula Classificação de
+Nome químico No CAS Concentração Sinônimos
+Molecular perigo
+Toxicidade aguda - Oral:
+Categoria 4.
+Toxicidade aguda -
+Inalação: Categoria 4.
+Corrosão/ irritação à
+pele: Categoria 3.
+Lesões oculares
+graves/irritação ocular.
+Categoria 2B.
+Cletodim 99129- C H ClNO S
+17 26 3
+24% ND
+21-2 Toxicidade para órgãos-
+alvo específicos –
+Exposição única:
+Categoria 2.
+Toxicidade para órgãos-
+alvo específicos –
+Exposição repetida:
+Categoria 2.
+Perigoso ao meio
+ambiente aquático –
+Agudo: Categoria 3.
+Data de elaboração: (25/07/2014) Data de revisão: (13/07/2018)
+Número de Revisão: (03)
+Emulsificante 1 | 26264-
+06-2 /
+64742-
+94-5 | >25% | ND | ND | | Toxicidade aguda - Oral: | 
+ | | | | | | Categoria 5. | 
+ | | | | | | | 
+ | | | | | | Corrosão/ irritação à | 
+ | | | | | | pele: Categoria 3. | 
+ | | | | | | | 
+ | | | | | | Lesões oculares | 
+ | | | | | | graves/irritação ocular. | 
+ | | | | | | Categoria 2B. | 
+Emulsificante 2 | 99734-
+09-5 | >20% | ND | ND | | Toxicidade aguda - Oral: | 
+ | | | | | | Categoria 5. | 
+ | | | | | | | 
+ | | | | | | Toxicidade aguda - | 
+ | | | | | | Dérmica: Categoria 5. | 
+ | | | | | | | 
+ | | | | | | Lesões oculares | 
+ | | | | | | graves/ irritação ocular: | 
+ | | | | | | Categoria 2B. | 
+ | | | | | | | 
+ | | | | | | Perigo por aspiração: | 
+ | | | | | | Categoria 2. | 
+ | | | | | | | 
+ | | | | | | Perigoso ao meio | 
+ | | | | | | ambiente aquático – | 
+ | | | | | | Agudo: Categoria 3. | 
+26264-
+06-2 /
+64742-
+94-5
+99734-
+09-5
+Ficha de Informações de
+Segurança de Produto Químico
+SELECT 240 EC
+Página: (5 de 21)
+Toxicidade aguda - Oral:
+Categoria 5.
+26264-
+Corrosão/ irritação à
+06-2 /
+Emulsificante 1 >25% ND ND pele: Categoria 3.
+64742-
+94-5
+Lesões oculares
+graves/irritação ocular.
+Categoria 2B.
+Toxicidade aguda - Oral:
+Categoria 5.
+Toxicidade aguda -
+Dérmica: Categoria 5.
+Lesões oculares
+99734- graves/ irritação ocular:
+Emulsificante 2 >20% ND ND
+09-5 Categoria 2B.
+Perigo por aspiração:
+Categoria 2.
+Perigoso ao meio
+ambiente aquático –
+Agudo: Categoria 3.
+Data de elaboração: (25/07/2014) Data de revisão: (13/07/2018)
+Número de Revisão: (03)
+Solvente | 64742-
+95-6 | >40% | ND | ND | | Toxicidade aguda - Oral: | 
+ | | | | | | Categoria 5. | 
+ | | | | | | | 
+ | | | | | | Toxicidade aguda - | 
+ | | | | | | Dérmica: Categoria 5. | 
+ | | | | | | | 
+ | | | | | | Corrosão/ irritação à | 
+ | | | | | | pele: Categoria 3. | 
+ | | | | | | | 
+ | | | | | | Lesões oculares graves/ | 
+ | | | | | | irritação ocular: | 
+ | | | | | | Categoria 2B. | 
+ | | | | | | | 
+ | | | | | | Toxicidade para órgãos- | 
+ | | | | | | alvo específicos – | 
+ | | | | | | Exposição única: | 
+ | | | | | | Categoria 2. | 
+ | | | | | | | 
+ | | | | | | Toxicidade para órgãos- | 
+ | | | | | | alvo específicos – | 
+ | | | | | | Exposição repetida: | 
+ | | | | | | Categoria 2. | 
+ | | | | | | | 
+ | | | | | | Perigo por aspiração: | 
+ | | | | | | Categoria 2. | 
+ | | | | | | | 
+ | | | | | | Perigoso ao meio | 
+ | | | | | | ambiente aquático – | 
+ | | | | | | Agudo: Categoria 2. | 
+ | | | | | | | 
+ | | | | | | Líquidos inflamáveis: | 
+ | | | | | | Categoria 3 | 
+64742-
+95-6
+Ficha de Informações de
+Segurança de Produto Químico
+SELECT 240 EC
+Página: (6 de 21)
+Toxicidade aguda - Oral:
+Categoria 5.
+Toxicidade aguda -
+Dérmica: Categoria 5.
+Corrosão/ irritação à
+pele: Categoria 3.
+Lesões oculares graves/
+irritação ocular:
+Categoria 2B.
+Toxicidade para órgãos-
+alvo específicos –
+Exposição única:
+64742-
+Categoria 2.
+Solvente >40% ND ND
+95-6
+Toxicidade para órgãos-
+alvo específicos –
+Exposição repetida:
+Categoria 2.
+Perigo por aspiração:
+Categoria 2.
+Perigoso ao meio
+ambiente aquático –
+Agudo: Categoria 2.
+Líquidos inflamáveis:
+Categoria 3
+Sistema de classificação de perigo de acordo com o Sistema Globalmente
+Harmonizado para a Classificação e Rotulagem de Produtos Químicos. Norma ABNT-
+NBR 14725 – Parte 2. Versão corrigida em 26 de julho de 2010.
+CLASSE: Herbicida graminicida sistêmico pós-emergente.
+TIPO DE FORMULAÇÃO: Concentrado emulsionável.
+GRUPO QUÍMICO: Ciclohexenona.
+Data de elaboração: (25/07/2014) Data de revisão: (13/07/2018)
+Número de Revisão: (03)
+Ficha de Informações de
+Segurança de Produto Químico
+SELECT 240 EC
+Página: (7 de 21)
+4. MEDIDAS DE PRIMEIROS SOCORROS
+Medidas de Primeiros Socorros: levar o acidentado para um local arejado. Retirar as
+roupas contaminadas. Lavar as partes do corpo atingidas com água em abundância e
+sabão. Se o acidentado estiver inconsciente e não respirar mais, praticar oxigenação
+ou respiração artificial. Encaminhar ao serviço médico mais próximo levando esta
+ficha.
+Inalação: remover a pessoa para local arejado. Se respirar com dificuldade, consultar
+um médico imediatamente. Se não estiver respirando, faça respiração artificial. Utilizar
+um intermediário (tipo Ambu®) para realizar o procedimento.
+Contato com a pele: lavar imediatamente a área afetada com água em abundância e
+sabão neutro. Remover as roupas contaminadas. Ocorrendo efeitos/sintomas,
+consultar um médico. Lavar as roupas contaminadas antes de reutilizá-las.
+Contato com os olhos: lavá-los imediatamente com água em abundância durante pelo
+menos 15 minutos. Manter as pálpebras abertas de modo a garantir enxágüe
+adequado dos olhos, evite que a água de lavagem entre no outro olho. Consultar um
+médico caso se desenvolva irritação.
+Ingestão: não provocar vômito, entretanto é possível que o mesmo ocorra
+espontaneamente não devendo ser evitado. Deitar o paciente de lado para evitar que
+aspire resíduos. Procurar um médico imediatamente. ATENÇÃO: nunca dê algo por
+via oral para uma pessoa inconsciente.
+Quais ações devem ser evitadas: não aplicar respiração boca a boca caso o paciente
+tenha ingerido o produto. Utilizar um intermediário (tipo Ambu®) para realizar o
+procedimento.
+Proteção para os prestadores de primeiros socorros: evitar contato oral, cutâneo,
+ocular e inalatório com o produto durante o processo.
+Notas para o médico: Não há antídoto específico conhecido. Em caso de ingestão
+recente de grandes quantidades, realizar lavagem gástrica e carvão ativado. O
+tratamento é sintomático e deverá compreender medidas de suporte, correção de
+distúrbios hidroeletrolíticos, metabólicos e assistência respiratória, se necessário. Em
+caso de contato ocular, proceder à lavagem com soro fisiológico e encaminhamento
+para avaliação oftalmológica.
+5. MEDIDAS DE COMBATE A INCÊNDIO
+Meios de extinção apropriados: utilizar extintores de água em forma de neblina, CO ,
+2
+ou pó químico seco.
+Data de elaboração: (25/07/2014) Data de revisão: (13/07/2018)
+Número de Revisão: (03)
+Ficha de Informações de
+Segurança de Produto Químico
+SELECT 240 EC
+Página: (8 de 21)
+Meio de extinção não recomendados: evitar o uso de jatos de água diretamente sobre
+o produto. Fique a favor do vento para evitar intoxicação.
+Perigos específicos e métodos especiais de combate a incêndio: Líquido e vapores
+inflamáveis. Evacue a área e combata o fogo a uma distância segura. Utilize diques
+para conter a água usada no combate. Posicionar-se de costas para o vento. Usar
+água em forma de neblina para resfriar equipamentos expostos nas proximidades
+do fogo.
+Proteção das pessoas envolvidas no combate a incêndio: equipamento de respiração
+autônoma e roupas apropriadas para combate a incêndio.
+Perigos específicos da combustão do produto químico: A queima pode produzir gases
+tóxicos e irritantes.
+6. MEDIDAS DE CONTROLE PARA DERRAMAMENTO OU VAZAMENTO
+Precauções pessoais: utilizar macacão impermeável (PVC), óculos protetores, botas
+de borracha e luvas de borracha nitrílica. A proteção respiratória deverá ser realizada
+dependendo das concentrações presentes no ambiente ou da extensão do
+derramamento/vazamento. Neste caso, deverá se optar por máscaras com filtro
+mecânico P2.
+Remoção de fontes de ignição: interromper a energia elétrica e desligar fontes
+geradoras de faíscas. Retirar do local todo material que possa causar princípio
+de incêndio (ex.: óleo diesel).
+Controle de poeira: não aplicável por tratar-se de um produto líquido.
+Prevenção da inalação e do contato com a pele, mucosas e olhos: utilizar
+roupas e acessórios descritos acima, no Item Precauções Pessoais.
+Precauções para o meio ambiente: evitar a contaminação dos cursos d’água vedando
+a entrada de galerias de águas pluviais (boca de lobo). Evitar que resíduos do produto
+derramado atinjam coleções de água.
+Data de elaboração: (25/07/2014) Data de revisão: (13/07/2018)
+Número de Revisão: (03)
+Ficha de Informações de
+Segurança de Produto Químico
+SELECT 240 EC
+Página: (9 de 21)
+Métodos para limpeza: eliminar toda fonte de fogo ou calor. Afastar os curiosos e
+sinalizar o perigo para o trânsito. Evitar o contato com a pele e roupas. O produto
+derramado não deverá mais ser utilizado. Consulte o registrante através do telefone
+para a sua devolução e destinação final. Piso pavimentado: absorva o produto com
+serragem ou areia, recolha o material com auxílio de uma pá e coloque em
+recipiente lacrado e identificado devidamente. Solo: retire as camadas de terra
+contaminada até atingir o solo não contaminado, recolha esse material e coloque
+em um recipiente lacrado e devidamente identificado. Contate a empresa
+registrante. Corpos d’água: interrompa imediatamente a captação para o consumo
+humano ou animal, contate o órgão ambiental mais próximo e o centro de
+emergência da empresa, visto que as medidas a serem adotadas dependem das
+proporções do acidente, das características do corpo hídrico em questão e da
+quantidade do produto envolvido.
+Prevenção de perigos secundários: evitar que o produto contamine riachos, lagos,
+fontes de água, poços, esgotos pluviais e efluentes.
+7. MANUSEIO E ARMAZENAMENTO
+Manuseio:
+Medidas técnicas: o produto é um herbicida graminicida pós-emergente, sistêmico,
+altamente seletivo para as culturas de soja, feijão, algodão, tomate, batata, cebola,
+alho, cenoura, café, fumo, mandioca e melancia na pós-emergência destas culturas
+e na aplicação em pré-emergência do milho e do trigo. É efetivo contra ampla faixa
+de gramíneas anuais e perenes, apresentando pouca ou nenhuma atividade sobre
+as plantas daninhas de folhas largas e ciperáceas. Dosagem: vide quadro na
+embalagem do produto ou siga orientação de um profissional habilitado. Modo de
+aplicação: SELECT 240 EC apresenta maior atividade sobre gramíneas anuais ou
+perenes que estejam em fase ativa de perfilhamento e/ou crescimento. SELECT
+240 EC deve ser emulsionado em água e aplicado em pulverização uniforme da
+parte aérea das plantas daninhas. Antes de utilizar o produto, consulte a bula.
+Número, época e intervalo de aplicação: o produto deve ser aplicado uma única
+Data de elaboração: (25/07/2014) Data de revisão: (13/07/2018)
+Número de Revisão: (03)
+Ficha de Informações de
+Segurança de Produto Químico
+SELECT 240 EC
+Página: (10 de 21)
+vez quando a maioria das sementes das plantas daninhas (gramíneas) tiver
+germinado. A aplicação pode ser feita em qualquer estádio de crescimento da
+cultura, antes do período crítico de competição das gramíneas com a cultura, exceto
+em milho e trigo onde o produto é aplicado antes da semeadura. Intervalo de
+reentrada de pessoas nas culturas e áreas tratadas: Não entre na área em que o
+produto foi aplicado antes da secagem completa da calda (no mínimo 24 horas após
+a aplicação). Caso necessite entrar antes desse período, utilize equipamentos de
+proteção individual (EPIs) recomendados para o uso durante a aplicação.
+Prevenção da exposição do trabalhador: utilizar EPI conforme descrito
+no Item 8. Não comer, beber ou fumar durante o manuseio do produto.
+Ao abrir a embalagem fazê-lo de modo a evitar derrame. Não utilizar
+equipamentos de proteção individual e de aplicação danificados e /ou
+defeituosos. Não manipular e/ou carregar embalagens danificadas.
+Precauções para manuseio seguro: utilizar EPI conforme descrito no
+Item 8. Sempre que possível manter o produto em embalagens e em
+ambientes fechados. Manuseie o produto em local aberto e ventilado.
+Não aplique o produto na presença de ventos fortes e nas horas mais
+quentes do dia.
+Orientações para manuseio seguro: utilizar EPI conforme descrito no Item 8.
+Manusear o produto com exaustão local apropriada ou em área bem ventilada. No
+caso de sintomas de intoxicação, interromper imediatamente o trabalho e proceder
+conforme descrito no Item 4 desta ficha.
+Medidas de higiene:
+Apropriadas: Lavar as roupas contaminadas separadamente, evitando
+contato com outros utensílios de uso pessoal. Lavar as mãos antes de
+comer ou fumar. Não manuseie este material perto de alimentos,
+rações ou água potável.
+Data de elaboração: (25/07/2014) Data de revisão: (13/07/2018)
+Número de Revisão: (03)
+Ficha de Informações de
+Segurança de Produto Químico
+SELECT 240 EC
+Página: (11 de 21)
+Inapropriadas: não lavar vestimentas contaminadas juntamente com
+outras peças de roupas ou utensílios de uso pessoal.
+Armazenamento
+Medidas técnicas
+Apropriadas: Manter o produto e as eventuais sobras em suas
+embalagens originais adequadamente fechadas.
+Inapropriadas: evitar exposição direta a luz solar.
+Condições de armazenamento
+Adequadas: mantenha o produto em sua embalagem original, sempre
+fechada. O local deve ser exclusivo para produtos tóxicos, devendo ser
+isolado de alimentos, bebidas, rações ou outros materiais. A construção
+deve ser de alvenaria ou de material não combustível. O local deve ser
+ventilado, coberto e ter piso impermeável. Coloque placa de
+advertência com os dizeres: CUIDADO VENENO. Tranque o local,
+evitando o acesso de pessoas não autorizadas, principalmente
+crianças. Deve haver sempre embalagens adequadas disponíveis, para
+envolver embalagens rompidas ou para o recolhimento de produtos
+vazados. Em caso de armazéns, deverão ser seguidas as instruções
+constantes da NBR 9843 da Associação Brasileira de Normas Técnicas
+- ABNT. Observe as disposições constantes da legislação estadual e
+municipal.
+A evitar: locais úmidos, com fontes de calor.
+Produtos e materiais incompatíveis: não armazenar junto com alimentos, bebidas,
+inclusive os destinados para animais.
+Materiais seguros para embalagens
+Recomendadas: produto já embalado em embalagem apropriada.
+Data de elaboração: (25/07/2014) Data de revisão: (13/07/2018)
+Número de Revisão: (03)
+ | Nome comum | | | Limite de Exposição | | | Tipo | | | Efeito | | | Referências | 
+Cletodim | | | Não estabelecido | | | | TLV-TWA | | --- | | | | ACGIH 2017 | 
+ | | | | | | | REL-TWA | | | | | | NIOSH | 
+ | | | | | | | PEL-TWA | | | | | | OSHA | 
+Emulsificante 1 | | | Não estabelecido | | | | TLV-TWA | | --- | | | | ACGIH 2017 | 
+ | | | | | | | REL-TWA | | | | | | NIOSH | 
+ | | | | | | | PEL-TWA | | | | | | OSHA | 
+Emulsificante 2 | | | Não estabelecido | | | | TLV-TWA | | --- | | | | ACGIH 2017 | 
+ | | | | | | | REL-TWA | | | | | | NIOSH | 
+ | | | | | | | PEL-TWA | | | | | | OSHA | 
+Solvente | | | Não estabelecido | | | | TLV-TWA | | | | | | ACGIH 2017 | 
+ | | | | | | | REL-TWA | | | --- | | | NIOSH | 
+ | | | | | | | PEL-TWA | | | | | | OSHA | 
+Nome comum | Limite Biológico | Tipo | Notas | | Horário da | | Referências
+ | | | | | coleta | | 
+Cletodim | Não estabelecido | BEI | --- | --- | | | ACGIH 2017
+Emulsificante 1 | Não estabelecido | BEI | --- | --- | | | ACGIH 2017
+Emulsificante 2 | Não estabelecido | BEI | --- | --- | | | ACGIH 2017
+Solvente | Não estabelecido | BEI | --- | --- | | | ACGIH 2017
+Ficha de Informações de
+Segurança de Produto Químico
+SELECT 240 EC
+Página: (12 de 21)
+Inadequados: não retirar o produto de sua embalagem original.
+8. CONTROLE DE EXPOSIÇÃO E PROTEÇÃO INDIVIDUAL
+Medidas de controle de engenharia: providenciar ventilação adequada. O operador
+deve sempre utilizar um equipamento para proteção respiratória mesmo quando
+providenciada uma boa ventilação. Manter as embalagens firmemente fechadas.
+Parâmetros de controle específicos:
+Limites de exposição ocupacional:
+Nome comum Limite de Exposição Tipo Efeito Referências
+TLV-TWA ACGIH 2017
+Cletodim Não estabelecido REL-TWA --- NIOSH
+PEL-TWA OSHA
+TLV-TWA ACGIH 2017
+Emulsificante 1 Não estabelecido REL-TWA --- NIOSH
+PEL-TWA OSHA
+TLV-TWA ACGIH 2017
+Emulsificante 2 Não estabelecido REL-TWA --- NIOSH
+PEL-TWA OSHA
+TLV-TWA ACGIH 2017
+Solvente Não estabelecido REL-TWA --- NIOSH
+PEL-TWA OSHA
+Indicadores biológicos:
+Horário da
+Nome comum Limite Biológico Tipo Notas Referências
+coleta
+Cletodim Não estabelecido BEI --- --- ACGIH 2017
+Emulsificante 1 Não estabelecido BEI --- --- ACGIH 2017
+Emulsificante 2 Não estabelecido BEI --- --- ACGIH 2017
+Solvente Não estabelecido BEI --- --- ACGIH 2017
+Equipamentos de proteção individual:
+Proteção respiratória: utilizar máscara com filtro mecânico de classe P2.
+Data de elaboração: (25/07/2014) Data de revisão: (13/07/2018)
+Número de Revisão: (03)
+Ficha de Informações de
+Segurança de Produto Químico
+SELECT 240 EC
+Página: (13 de 21)
+Proteção para as mãos: utilizar luvas impermeáveis de borracha (nitrila).
+Proteção para os olhos: utilizar óculos de segurança para produtos químicos
+com proteção lateral.
+Proteção para a pele e corpo: utilizar macacão de algodão hidrorrepelente com
+mangas compridas passando por cima do punho das luvas e as pernas das
+calças por cima das botas, botas de borracha, avental impermeável e touca
+árabe.
+Precauções Especiais: manter os EPI’s devidamente limpos e em condições adequadas de
+uso, realizando periodicamente inspeções e possíveis manutenções e/ou substituições de
+equipamentos danificados. Os equipamentos de proteção individual (EPI) recomendados
+devem ser vestidos na seguinte ordem: macacão, botas, avental, máscara, óculos, touca
+árabe e luvas. Devem ser retirados na seguinte ordem: touca árabe, óculos, avental, botas,
+macacão, luvas e máscara.
+9. PROPRIEDADES FÍSICAS E QUÍMICAS
+Estado físico: líquido.
+Forma: concentrado emulsionável.
+Cor: translúcido de cor 7/14 – 7.5YR (laranja).
+Odor: característico.
+pH: 4,64 (sob 25°C e 1% m/v).
+Ponto de fusão/ponto de congelamento: não disponível.
+Ponto de ebulição inicial e faixa de temperatura de ebulição: Cletodim se decompõe a
+temperatura abaixo da temperatura do ponto de ebulição.
+Ponto de fulgor: 49,3ºC.
+Inflamabilidade: não disponível.
+Taxa de evaporação: não disponível.
+Limite inferior/superior de inflamabilidade ou explosividade: não disponível
+Pressão de vapor: não disponível.
+Densidade: 0,9437 g/cm3.
+Solubilidade/Miscibilidade: não disponível
+Coeficiente de partição n-octanol/água: Cletodim – log Kow 2:1, 1:2 e 1:1 é 2,97;
+3,16 e 3,08 respectivamente.
+Temperatura de auto-ignição: não disponível.
+Data de elaboração: (25/07/2014) Data de revisão: (13/07/2018)
+Número de Revisão: (03)
+Ficha de Informações de
+Segurança de Produto Químico
+SELECT 240 EC
+Página: (14 de 21)
+Temperatura de decomposição: não disponível.
+Viscosidade: 2 mPa.s a 20 ± 0,2°C e a 40 ± 0,2°C
+Corrosividade: não disponível
+Tensão superficial: 30,7 mN/m.
+10. ESTABILIDADE E REATIVIDADE
+Estabilidade química: produto é estável sob condições indicadas de uso e
+armazenagem.
+Reatividade: não há dados disponíveis sobre a reatividade do produto.
+Possibilidade de reações perigosas: não há dados disponíveis.
+Condições a serem evitadas: evitar contato com calor, altas temperaturas, fontes de
+ignição e exposição à luz solar direta.
+Materiais ou substâncias incompatíveis: não há dados disponíveis.
+Produtos perigosos de decomposição: A queima pode produzir gases tóxicos e
+irritantes.
+11. INFORMAÇÕES TOXICOLÓGICAS
+Toxicidade aguda:
+DL Oral (ratos):
+50
+Cletodim: 1360 mg/kg
+Emulsificante 1: 4000 mg/kg
+Emulsificante 2: 5000mg/kg
+Solvente: >3000mg/kg
+ETAm = 2342 mg/kg.
+DL Dérmica (ratos):
+50
+Cletodim: >5000 mg/kg
+Emulsificante 1: não há dados disponíveis.
+Emulsificante 2: >2000mg/kg
+Solvente: >3160mg/kg
+ETAm = 3436mg/kg
+CL Inalatória (4h): >3,941 mg/L
+50
+Data de elaboração: (25/07/2014) Data de revisão: (13/07/2018)
+Número de Revisão: (03)
+Ficha de Informações de
+Segurança de Produto Químico
+SELECT 240 EC
+Página: (15 de 21)
+Efeitos Locais:
+Irritabilidade cutânea: A substância (0,5 mL) foi aplicada em três coelhos
+(Oryctolagus cuniculus), sem diluição em dose única. Ao final das 4 horas de exposição,
+os resíduos da substância foram removidos com água desmineralizada. Os animais
+foram observados 1h, 24h, 48h, 72h, 7, 10 e 14 dias após a remoção da substância
+para presença de eritema e edema. O grau de irritação/corrosão cutânea foi avaliado
+segundo o método de Draize. As médias de leitura calculadas em 24h, 48h e 72h, para
+os animais 1, 2 e 3 foram respectivamente 2,0; 1,0 e 2,0 para edema e 2,0; 2,0 e 1,0
+para eritema. Devido à persistência dos sinais de irritação cutânea, o teste foi finalizado
+em 14 dias para os três animais avaliados. Nas condições do teste, a substância foi
+classificada como irritante.
+Irritabilidade ocular:
+Cletodim: Moderadamente irritante aos olhos, baseado em teste com cobaias.
+Emulsificante 1: O contato com os olhos provoca irritação (testado em olhos
+de coelhos).
+Emulsificante 2: irritação leve em olhos de coelhos
+Solvente: irritante aos olhos.
+Sensibilização à pele: foram selecionadas para o teste definitivo as seguintes
+concentrações: 50%, 25% e 10%. Utilizaram-se 20 camundongos, sendo 4 animais
+por grupo de teste, total de 5 grupos: 3 grupos experimentais (substância-teste),
+controle negativo e positivo. De acordo com os resultados obtidos no método de
+ELISA, foi possível verificar que o controle positivo apresentou o índice de
+estimulação (SI) igual a 2,88, ou seja, superior a 1,6 dentro do valor esperado para
+o controle positivo. Este resultado confirma que o ensaio é considerado válido. Em
+relação aos resultados obtidos para a substância-teste, observou-se SI (índice de
+estimulação) de 1,54; 1,11 e 1.13 para as concentrações de 50%, 25% e 10%,
+indicando que se trata de substância não sensibilizante.
+Sensibilização respiratória: não há dados disponíveis.
+Toxicidade crônica:
+Mutagenicidade em células germinativas:
+Cletodim: não mutagênico.
+Emulsificante 1: não há dados disponíveis.
+Emulsificante 2: não mutagênico.
+Solvente: não mutagênico.
+Data de elaboração: (25/07/2014) Data de revisão: (13/07/2018)
+Número de Revisão: (03)
+Ficha de Informações de
+Segurança de Produto Químico
+SELECT 240 EC
+Página: (16 de 21)
+Carcinogenicidade:
+Cletodim: não carcinogênico – teste em ratos.
+Emulsificante 1: não há dados disponíveis.
+Emulsificante 2: não há dados disponíveis.
+Solvente: não carcinogênico.
+Toxicidade à reprodução:
+Cletodim: não há dados disponíveis.
+Emulsificante 1: não há dados disponíveis.
+Emulsificante 2: não há dados disponíveis.
+Solvente: não é toxico a reprodução.
+Toxicidade sistêmica para órgão-alvo - Exposição única:
+Cletodim: A substância pode provar o aumento do tamanho do fígado.
+Emulsificante 1: não há dados disponíveis.
+Emulsificante 2: não há dados disponíveis.
+Solvente: Resultados de estudos em animais indicam que estes produtos
+causam mudanças no fígado e efeitos deletérios nos rins, pulmões, coração e
+sistema nervoso.
+Toxicidade sistêmica para órgão-alvo - Exposições repetidas:
+Cletodim: Ao realizar testes em altas doses com animais, levou ao aumento
+do tamanho do fígado, diminuição do peso corporal e anemia.
+Emulsificante 1: não há dados disponíveis.
+Emulsificante 2: não há dados disponíveis.
+Solvente: Pode causar efeitos no SNC, danos hepáticos e renais.
+Perigo de aspiração: Se a mistura for aspirada, pode causar pneumonite química.
+Principais Sintomas: A ingestão de grandes quantidades do produto pode causar
+náusea, vômito, dor abdominal e diarreia, podendo apresentar também dores de
+cabeça, fraqueza sonolência e taquicardia. A inalação pode causar irritação
+faríngea e pulmonar produzindo tosse, dificuldade respiratória, rinorréia e dor. O
+contato direto com a pele e olhos pode causar irritação e lesão da área de contato.
+12. INFORMAÇÕES ECOLÓGICAS
+Efeitos Ambientais, comportamentais e impactos do produto:
+Persistência/Degradabilidade:
+Data de elaboração: (25/07/2014) Data de revisão: (13/07/2018)
+Número de Revisão: (03)
+Ficha de Informações de
+Segurança de Produto Químico
+SELECT 240 EC
+Página: (17 de 21)
+Cletodim: Persistência curta no ambiente. Teste feito em 28 dias, a
+metabolização da substância ocorreu em 53,20% em solo LE.
+Emulsificante 1: não há dados disponíveis.
+Emulsificante 2: não há dados disponíveis.
+Solvente: não há dados disponíveis.
+Ecotoxicidade:
+Toxicidade aguda oral para abelhas: >100 µg/abelhas.
+Toxicidade aguda por contato para abelhas: >100 µg/abelhas.
+Toxicidade aguda para Peixes: CE 0,017mg/L.
+50
+Toxicidade aguda para Algas: CE 38,91 mg/L.
+50
+Toxicidade aguda para Aves: >2000mg/kg p.c
+Toxicidade aguda para Minhocas: CL 1,31 mg/kg.
+50
+Mobilidade no solo: não há dados disponíveis.
+Bioacumulação: não há dados disponíveis.
+13. CONSIDERAÇÕES SOBRE DESTINAÇÃO FINAL
+Métodos de tratamento e disposição:
+Produto: caso este produto venha a se tornar impróprio para utilização ou em
+desuso, consulte o registrante através do telefone indicado no rótulo para sua
+devolução e destinação final.
+Restos de produtos: manter as eventuais sobras dos produtos e ou com
+validade vencida em suas embalagens originais adequadamente fechadas.
+Embalagem usada: No prazo de até um ano da data da compra, é obrigatória
+a devolução da embalagem vazia, com tampa, pelo usuário, ao
+estabelecimento onde foi adquirido o produto ou no local indicado na nota
+fiscal, emitida no ato da compra. Caso o produto não tenha sido totalmente
+utilizado nesse prazo, e ainda esteja dentro de seu prazo de validade, será
+facultada a devolução da embalagem em até 6 meses após o término do prazo
+de validade. O usuário deve guardar o comprovante de devolução para efeito
+de fiscalização, pelo prazo mínimo de um ano após a devolução da
+embalagem vazia.
+Data de elaboração: (25/07/2014) Data de revisão: (13/07/2018)
+Número de Revisão: (03)
+Ficha de Informações de
+Segurança de Produto Químico
+SELECT 240 EC
+Página: (18 de 21)
+14. INFORMAÇÕES SOBRE TRANSPORTE
+Regulamentações nacionais e internacionais:
+TRANSPORTE TERRESTRE: Resolução ANTT 5232 de 16/12/2016 do Ministério dos
+Transportes:
+Número ONU: 1993
+Nome apropriado para embarque: LÍQUIDO INFLAMÁVEL, N.E. (mistura de
+hidrocarbonetos aromáticos).
+Classe de risco: 3
+Número de risco: 30
+Grupo de embalagem: III
+Perigo ao meio ambiente: o produto é considerado um poluente marinho.
+TRANSPORTE MARÍTIMO: IMDG (International Maritime Dangerous Goods Code) e
+IATA (Internacional Air Transport Association). Edição de 2017.
+UN number: 1993
+Name and description: FLAMMABLE LIQUIDS, N.O.S. (aromatic
+hydrocarbon mixtures).
+Class risk: 3
+Packing group: III
+Environmentally hazardous: product is considered a marine pollutant.
+15. INFORMAÇÕES SOBRE REGULAMENTAÇÕES
+Regulamentações:
+ABNT NBR – 14725 Parte 1 - Versão corrigida em 26 de janeiro de 2010.
+ABNT NBR – 14725 Parte 2 - Versão corrigida em 26 de julho de 2010.
+ABNT NBR – 14725 Parte 3 - Emenda I em 14 de agosto de 2017.
+ABNT NBR – 14725 Parte 4 - Emenda I em 18 de novembro de 2014.
+Resolução 5232 – ANTT – Atualizada em 16 de dezembro de 2016.
+IMDG CODE – Edição 2017
+Data de elaboração: (25/07/2014) Data de revisão: (13/07/2018)
+Número de Revisão: (03)
+16. OUTRAS INFORMAÇÕES | | 
+ | | 
+ | | "Esta Ficha foi elaborada por TOXICLIN® Serviços Médicos, a partir de dados fornecidos
+ | | pela Empresa distribuidora. As informações desta FISPQ representam os dados atuais e
+ | | refletem com exatidão o nosso melhor conhecimento para o manuseio apropriado deste
+ | | produto de acordo com as especificações constantes no rótulo e bula. Quaisquer outros
+ | | usos do produto que não os recomendados, serão de responsabilidade do usuário."
+ | | 
+ | Siglas: | 
+Ficha de Informações de
+Segurança de Produto Químico
+SELECT 240 EC
+Página: (19 de 21)
+16. OUTRAS INFORMAÇÕES
+"Esta Ficha foi elaborada por TOXICLIN® Serviços Médicos, a partir de dados fornecidos
+pela Empresa distribuidora. As informações desta FISPQ representam os dados atuais e
+refletem com exatidão o nosso melhor conhecimento para o manuseio apropriado deste
+produto de acordo com as especificações constantes no rótulo e bula. Quaisquer outros
+usos do produto que não os recomendados, serão de responsabilidade do usuário."
+Siglas:
+ABNT – Associação Brasileira de Normas Técnicas
+ACGIH – American Conference of Governmental Industrial Hygienists
+ANTT – Agência Nacional de Transporte Terestre
+BCF – Fator de Bioconcentração
+BEI – Índice Biológico de exposição
+CAS – Chemical Abstracts Service
+CL – Concentração letal 50%
+50
+CE – Concentração efetiva 50%
+50
+DL – Dose letal 50%
+50
+ETAm - Estimativa de toxicidade aguda da mistura m
+EPI – Equipamento de Proteção Individual
+GI – Gastrointestinal
+IARC – Internacional Agency for Research on Cancer
+IATA – International Air Transport Association
+ICAO – International Civil Aviation Organization
+IMO – Internacional Maritime Organization
+Koc – Coeficiente de partição carbono orgânico-água
+Kow – Coeficiente de partição n-octanol-água
+Log Kow – Logarítimo do coeficiente de partição n-octanol-água
+MT – Ministério dos Transportes
+NBR – Norma Brasileira
+NIOSH – National Institute for Occupational Safety and Health
+NTP – National Toxicology Program
+ONU – Organização das Nações Unidas
+OSHA – Occupational Safety & Health Administration
+PEL – Permissible Exposure Limit
+REL – Recommended Exposure Limit
+SNC – Sistema Nervoso Central
+STEL – Short Term Exposure Limit
+TGI – Trato Gastro Intestinal
+TLV – Threshold Limit Value
+Data de elaboração: (25/07/2014) Data de revisão: (13/07/2018)
+Número de Revisão: (03)
+Ficha de Informações de
+Segurança de Produto Químico
+SELECT 240 EC
+Página: (20 de 21)
+TRS – Trato Respiratório Superior
+TWA – Time Weighted Average
+Legendas:
+Classificação impossível – não há dados suficientes ou disponíveis para classificação
+do produto.
+Não classificado – produto não se enquadra na categoria de classificação GHS e,
+portanto, não apresenta perigo.
+Bibliografia:
+ACGIH (Estados Unidos). TLVs E BEIs: Limites de Exposição Ocupacional e Índices
+Biológicos de Exposição. São Paulo: Abho, 2017. 304 p.
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS – ABNT. NBR 14725. Adoção do
+GHS, Parte 1 – Versão corrigida em 26 de janeiro de 2010.
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS – ABNT. NBR 14725. Adoção do
+GHS, Parte 2 – Versão corrigida em 26 de julho de 2010.
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS – ABNT. NBR 14725. Adoção do
+GHS, Parte 3 – Emenda I em 14 de agosto de 2017.
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS – ABNT. NBR 14725. Adoção do
+GHS, Parte 4 – Emenda I em 18 de novembro de 2014.
+IMO. IMDG CODE: International maritme dangerous goods code. Londres: International
+Maritme Organization, 2017.
+THE CHEMICAL DATABASE. Disponível em: http://ull.chemistry.uakron.edu/erd/. Acesso
+em 13 de julho de 2018.
+CHEMICAL SAFETY INFORMATION FROM INTERGOVERNMENTAL ORGANIZATIONS
+– INCHEM. Disponível em: http://www.inchem.org/. Acesso em 13 de julho de 2018.
+HAZARDOUS SUBSTANCES DATA BANK – HSDB. Disponível em:
+http://toxnet.nlm.nih.gov/cgi-bin/sis/htmlgen?HSDB. Acesso em 13 de julho de 2018.
+NATIONAL INSTITUTE OF OCCUPATIONAL AND SAFETY – NIOSH. International
+Data de elaboração: (25/07/2014) Data de revisão: (13/07/2018)
+Número de Revisão: (03)
+Ficha de Informações de
+Segurança de Produto Químico
+SELECT 240 EC
+Página: (21 de 21)
+Chemical Safety Cards. Disponível em: www.cdc.gov/niosh/. Acesso em 13 de julho de
+2018.
+OCCUPATIONAL SAFETY & HEALTH ADMINISTRATION – OSHA. Disponível em:
+http://www.osha.gov/. Acesso em 13 de julho de 2018.
+CHEMICAL SAFETY INFORMATION FROM INTERGOVERNMENTAL ORGANIZATIONS
+– INCHEM. Disponível em: http://www.inchem.org/. Acesso em 13 de julho de 2018.
+ENVIROMENTAL PROTECTION AGENCY (UNITED STATES) - EPA. Disponível em
+http://www.epa.gov. Acesso em 13 de julho de 2018.
+RESOLUÇÃO N° 5232. Ministério dos Transportes. Agência Nacional de Transportes
+Terrestres, Resolução n° 5232 de 16 de dezembro de 2016.
+Data de elaboração: (25/07/2014) Data de revisão: (13/07/2018)
+Número de Revisão: (03)

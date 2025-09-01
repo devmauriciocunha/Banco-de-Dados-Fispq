@@ -1,0 +1,319 @@
+| FICHA DE SEGURANÇA
+De acordo com a norma NBR 14725-04:2014 | FISPQ No. 2523
+ | | Página 1 de 4
+dentificação de perigos | 
+SSIFICAÇÃO DE PERIGO DO PRODUTO (ABNT NBR 14725-2)
+é uma substância ou mistura perigosa de acordo com o Sistema Harmonizado Global (GHS).
+MENTOS APROPRIADOS DA ROTULAGEM (ABNT NBR 14725-3)
+ogramas: -
+avra de Advertência: - Perigo
+ses de Perigo: -
+0 Pode ser corrosivo para os metais.
+4 Provoca queimaduras na pele e lesões oculares graves.
+5 Pode provocar irritação das vias respiratórias.
+ses de Precaução: -
+4 Conservar unicamente no recipiente de origem.
+1 Evitar respirar as poeiras/ fumos/ gases/ névoas/ vapores/ aerossóis.
+4 Lavar a pele cuidadosamente após manuseamento.
+1 Utilizar apenas ao ar livre ou em locais bem ventilados.
+0 Usar luvas de proteção/ vestuário de proteção/ proteção ocular/ proteção facial.
+posta P301 + P330 + P331 EM CASO DE INGESTÃO: enxaguar a boca.
+O provocar o vómito.
+3 + P361 + P353 SE NA PELE (ou no cabelo): Retirar imediatamente todo o vestuário contaminado. Enxaguar a pele com água /
+veiro.
+4 + P340 SE FOR INALADO: Deslocar a pessoa para o ar fresco e mantê-la confortável para respirar. P305 + P351 + P338 SE
+TRAR EM CONTACTO COM OS OLHOS: enxaguar cuidadosamente com água durante vários minutos. Se usar lentes de contato,
+e-as, se tal lhe for possível. Continuar a enxaguar.
+0 Contate imediatamente um CENTRO DE INFORMAÇÃO ANTIVENENOS ou um médico.
+TIONAL FIRE PROTECTION ASSOCIATION (NFPA) | 
+omposição e informação sobre os ingredientes | 
+ | 
+FISPQ No. 2523
+FICHA DE SEGURANÇA
+De acordo com a norma NBR 14725-04:2014 Página 1 de 4
+Data da emissão: 05/09/2018 No. da revisão: 05
+Identificação da substância/preparação
+Referência do produto:
+Nome do produto: ACIDO CLORIDRICO 25%
+Identificação da sociedade/empresa
+Empresa: CONTROL LAB COM. DE PROD. P/LAB. LTDA
+Rua Niterói, 81, CEP 83010-600 – São Jose dos Pinhais - Paraná - Brasil
+Tel (0xx41) 32821090 - Fax (0xx41) 32821090 e-Mail: contato@ctrl-lab.com.br
+2. Identificação de perigos
+CLASSIFICAÇÃO DE PERIGO DO PRODUTO (ABNT NBR 14725-2)
+Não é uma substância ou mistura perigosa de acordo com o Sistema Harmonizado Global (GHS).
+ELEMENTOS APROPRIADOS DA ROTULAGEM (ABNT NBR 14725-3)
+Pictogramas: -
+Palavra de Advertência: - Perigo
+Frases de Perigo: -
+H290 Pode ser corrosivo para os metais.
+H314 Provoca queimaduras na pele e lesões oculares graves.
+H335 Pode provocar irritação das vias respiratórias.
+Frases de Precaução: -
+P234 Conservar unicamente no recipiente de origem.
+P261 Evitar respirar as poeiras/ fumos/ gases/ névoas/ vapores/ aerossóis.
+P264 Lavar a pele cuidadosamente após manuseamento.
+P271 Utilizar apenas ao ar livre ou em locais bem ventilados.
+P280 Usar luvas de proteção/ vestuário de proteção/ proteção ocular/ proteção facial.
+Resposta P301 + P330 + P331 EM CASO DE INGESTÃO: enxaguar a boca.
+NÃO provocar o vómito.
+P303 + P361 + P353 SE NA PELE (ou no cabelo): Retirar imediatamente todo o vestuário contaminado. Enxaguar a pele com água /
+chuveiro.
+P304 + P340 SE FOR INALADO: Deslocar a pessoa para o ar fresco e mantê-la confortável para respirar. P305 + P351 + P338 SE
+ENTRAR EM CONTACTO COM OS OLHOS: enxaguar cuidadosamente com água durante vários minutos. Se usar lentes de contato,
+retire-as, se tal lhe for possível. Continuar a enxaguar.
+P310 Contate imediatamente um CENTRO DE INFORMAÇÃO ANTIVENENOS ou um médico.
+NATIONAL FIRE PROTECTION ASSOCIATION (NFPA)
+3. Composição e informação sobre os ingredientes
+ | FICHA DE SEGURANÇA
+De acordo com a norma NBR 14725-4:2014 | FISPQ No. 2523
+ | | Página 2 de 4
+4. Medidas de primeiros socorros | 
+Após a inalação: Exposição ao ar fresco. Caso a vítima esteja indisposta, chamar um médico.
+Após contato com a pele: Lavar abundantemente com água. Tirar a roupa contaminada.
+Após contato com os olhos: Enxaguar abundantemente com água, mantendo a pálpebra aberta. Consultar
+um oftalmologista.
+Após a ingestão: Nunca dar nada pela boca a uma pessoa inconsciente. Enxaguar a boca com água. | 
+5. Medidas de combate a incêndio | 
+Meios adequados de extinção: Borrifo de água. Dióxido de carbono, pó químico seco ou espuma adequada.
+Riscos especiais: Não combustível. Em caso de incêndio formam-se gases inflamáveis, vapores perigosos e
+óxidos de enxofre
+Equipamento especial de proteção para o combate ao incêndio: Não ficar na zona de perigo sem
+aparelhos respiratórios autônomos apropriados para a respiração independente do ambiente. De forma a evitar
+o contato com a pele, mantenha uma distância de segurança e utilize vestuário protetor adequado.
+Outras informações: Evitar a infiltração da água de extinção nas águas superficiais ou nas águas
+subterrâneas. Precipitar com água os vapores liberados. | 
+6. Medidas de controle para derramamento ou vazamentos | 
+Medidas de proteção para as pessoas: Evitar o contato com a substância. Não inalar os vapores/aerossóis.
+Garantir a ventilação com ar fresco em recintos fechados.
+Medidas de proteção do meio ambiente: Não permita que entre no sistema de esgotos; perigo de explosão.
+Procedimentos de limpeza / absorção: Absorver com areia ou vermiculita e colocar em recipientes fechados
+para ser descartado. Jorrar grandes quantidades de água na área do derrame. | 
+7. Manuseio e armazenamento | 
+• MANUSEIO
+Sem outras exigências.
+• ARMAZENAMENTO
+Conservar hermeticamente fechado, em local bem ventilado e seco. Temperatura de armazenamento: sem
+limitações. | 
+8. Controle de exposição e proteção individual | 
+• CONTROLE DE EXPOSIÇÃO
+Medidas de controle de engenharia: Ventilação local adequada, sistema de exaustão e outros controles de
+engenharia necessários para manter os níveis de exposição abaixo dos limites recomendados. Chuveiros de
+emergência e lava-olhos devem estar próximos ao local de trabalho.
+• PROTEÇÃO INDIVIDUAL
+As características dos meios de proteção para o corpo devem ser selecionadas em função da concentração e | 
+FISPQ No. 2523
+FICHA DE SEGURANÇA
+De acordo com a norma NBR 14725-4:2014 Página 2 de 4
+Nome do produto: Acido Clorídrico 25% Aquoso Referência do produto: ALPHA835
+Data da revisão: 05/09/2018 No. da revisão: 05
+Nome comum: Ácido Clorídrico 37% Nome comum: Água
+N° CAS: 7647-01-0 Nº CAS: 7732-18-5
+Peso molecular: 36,46 g/mol Peso molecular: 18,02 g/mol
+Fórmula molecular: HCl Fómula Hill: H2O
+Concentração: ~25% Concentração: ~75%
+4. Medidas de primeiros socorros
+Após a inalação: Exposição ao ar fresco. Caso a vítima esteja indisposta, chamar um médico.
+Após contato com a pele: Lavar abundantemente com água. Tirar a roupa contaminada.
+Após contato com os olhos: Enxaguar abundantemente com água, mantendo a pálpebra aberta. Consultar
+um oftalmologista.
+Após a ingestão: Nunca dar nada pela boca a uma pessoa inconsciente. Enxaguar a boca com água.
+5. Medidas de combate a incêndio
+Meios adequados de extinção: Borrifo de água. Dióxido de carbono, pó químico seco ou espuma adequada.
+Riscos especiais: Não combustível. Em caso de incêndio formam-se gases inflamáveis, vapores perigosos e
+óxidos de enxofre
+Equipamento especial de proteção para o combate ao incêndio: Não ficar na zona de perigo sem
+aparelhos respiratórios autônomos apropriados para a respiração independente do ambiente. De forma a evitar
+o contato com a pele, mantenha uma distância de segurança e utilize vestuário protetor adequado.
+Outras informações: Evitar a infiltração da água de extinção nas águas superficiais ou nas águas
+subterrâneas. Precipitar com água os vapores liberados.
+6. Medidas de controle para derramamento ou vazamentos
+Medidas de proteção para as pessoas: Evitar o contato com a substância. Não inalar os vapores/aerossóis.
+Garantir a ventilação com ar fresco em recintos fechados.
+Medidas de proteção do meio ambiente: Não permita que entre no sistema de esgotos; perigo de explosão.
+Procedimentos de limpeza / absorção: Absorver com areia ou vermiculita e colocar em recipientes fechados
+para ser descartado. Jorrar grandes quantidades de água na área do derrame.
+7. Manuseio e armazenamento
+• MANUSEIO
+Sem outras exigências.
+• ARMAZENAMENTO
+Conservar hermeticamente fechado, em local bem ventilado e seco. Temperatura de armazenamento: sem
+limitações.
+8. Controle de exposição e proteção individual
+• CONTROLE DE EXPOSIÇÃO
+Medidas de controle de engenharia: Ventilação local adequada, sistema de exaustão e outros controles de
+engenharia necessários para manter os níveis de exposição abaixo dos limites recomendados. Chuveiros de
+emergência e lava-olhos devem estar próximos ao local de trabalho.
+• PROTEÇÃO INDIVIDUAL
+As características dos meios de proteção para o corpo devem ser selecionadas em função da concentração e
+ | FICHA DE SEGURANÇA
+De acordo com a norma NBR 14725-4:2014 | FISPQ No. 2523
+ | | Página 3 de 4
+9. Propriedades físico-químicas | 
+Forma: Líquido Temperatura de auto-ignição: Não aplicável
+Cor: Incolor Limite de explosividade superior: Não aplicável
+Odor: Inodoro Limite de explosividade inferior: Não aplicável
+pH: Não disponível Pressão de vapor: Não aplicável
+Ponto de fusão: Não disponível Densidade bruta: Não disponível
+Ponto de ebulição: > 100 °C - lit . Densidade: 1,2 g/cm3 (25ºC)
+Temperatura de decomposição: Não disponível Solubilidade (água): Não disponível
+Ponto de fulgor: Não disponível | 
+10. Estabilidade e reatividade | 
+Condições a serem evitadas:
+Não há.
+Substâncias a serem evitadas:
+Agentes oxidantes fortes.
+Produtos de decomposição perigosa:
+Monóxido de carbono, dióxido de carbono. | 
+11. Informações toxicológicas | 
+• TOXICIDADE AGUDA
+Dados não disponíveis.
+• TOXICIDADE SUBAGUDA OU CRÔNICA
+IARC: 3 - Grupo 3: Não classificado quanto à sua carcinogenicidade para os humanos (Hydrochloric acid)
+Sensibilização:
+Dados não disponíveis.
+Mutagenicidade:
+Dados não disponíveis.
+Carcinogênese:
+Dados não disponíveis.
+• OUTRAS INFORMAÇÕES TOXICOLÓGICAS
+Após contato com a pele: Pode provocar irritação da pele.
+Absorção cutânea: Pode ser nocivo se absorvido através da pele. | 
+FISPQ No. 2523
+FICHA DE SEGURANÇA
+De acordo com a norma NBR 14725-4:2014 Página 3 de 4
+Nome do produto: Acido Clorídrico 25% Aquoso Referência do produto: ALPHA835
+Data da revisão: 05/09/2018 No. da revisão: 05
+da quantidade das substâncias tóxicas de acordo com as condições específicas do local de trabalho. A
+resistência dos meios de proteção aos agentes químicos deve ser esclarecida junto dos fornecedores.
+Proteção respiratória: Necessária mascara em caso de formação de vapores e ou aerossóis.
+Proteção dos olhos: Necessária, como óculos de segurança.
+Proteção das mãos: Em caso de contato com o líquido, luva de nitrilo.
+Proteção da pele e do corpo: Roupas protetoras adequadas.
+Higiene Industrial: Mudar imediatamente a roupa contaminada. Depois de terminar o trabalho, lavar as mãos
+e a cara. Trabalhar com capela. Não inalar a substância.
+9. Propriedades físico-químicas
+Forma: Líquido Temperatura de auto-ignição: Não aplicável
+Cor: Incolor Limite de explosividade superior: Não aplicável
+Odor: Inodoro Limite de explosividade inferior: Não aplicável
+pH: Não disponível Pressão de vapor: Não aplicável
+Ponto de fusão: Não disponível Densidade bruta: Não disponível
+Ponto de ebulição: > 100 °C - lit . Densidade: 1,2 g/cm3 (25ºC)
+Temperatura de decomposição: Não disponível Solubilidade (água): Não disponível
+Ponto de fulgor: Não disponível
+10. Estabilidade e reatividade
+Condições a serem evitadas:
+Não há.
+Substâncias a serem evitadas:
+Agentes oxidantes fortes.
+Produtos de decomposição perigosa:
+Monóxido de carbono, dióxido de carbono.
+11. Informações toxicológicas
+• TOXICIDADE AGUDA
+Dados não disponíveis.
+• TOXICIDADE SUBAGUDA OU CRÔNICA
+IARC: 3 - Grupo 3: Não classificado quanto à sua carcinogenicidade para os humanos (Hydrochloric acid)
+Sensibilização:
+Dados não disponíveis.
+Mutagenicidade:
+Dados não disponíveis.
+Carcinogênese:
+Dados não disponíveis.
+• OUTRAS INFORMAÇÕES TOXICOLÓGICAS
+Após contato com a pele: Pode provocar irritação da pele.
+Absorção cutânea: Pode ser nocivo se absorvido através da pele.
+ | FICHA DE SEGURANÇA
+De acordo com a norma NBR 14725-4:2014 | FISPQ No. 2523
+ | | Página 4 de 4
+12. Informações ecológicas | 
+• TOXICIDADE:
+Dados não disponíveis.
+• PERSISTÊNCIA E DEGRADABILIDADE:
+Dados não disponíveis.
+• POTENCIAL BIOACUMULATIVO:
+Dados não disponíveis.
+• MOBILIDADE NO SOLO
+Dados não disponíveis.
+• OUTROS EFEITOS ADVERSOS:
+Não permita a entrada em águas residuais ou solos! | 
+13. Considerações sobre tratamento e disposição | 
+No tratamento e disposição do produto, de seus restos e embalagens usadas, deve-se atentar para a
+legislação nos âmbitos municipal, estadual e federal. | 
+14. Informações sobre transporte | 
+• TERRESTRE
+Nome apropriado para embarque: ÁCIDO CLORÍDRICO
+Nº. ONU: 1789
+Classe de Risco: 8
+Número de Risco: 80
+Grupo de Embalagem: II
+• HIDROVIÁRIO (IMDG)
+Classe: 8
+Nº. ONU: 1789
+Grupo de Embalagem: II
+N°EMS: F-A S-B
+Nome apropriado para embarque: HYDROCHLORIC ACID
+• AÉREO (CAO -PAX)
+Nº. ONU: 1789
+Classe de Risco: 8
+Grupo de Embalagem: II
+Nome apropriado para embarque: HYDROCHLORIC ACID | 
+15. Regulamentações | 
+NORMA ABNT NBR 14725:2009 | 
+16. Outras Informações | 
+ | 
+FISPQ No. 2523
+FICHA DE SEGURANÇA
+De acordo com a norma NBR 14725-4:2014 Página 4 de 4
+Nome do produto: Acido Clorídrico 25% Aquoso Referência do produto: ALPHA835
+Data da revisão: 05/09/2018 No. da revisão: 05
+Após contato com os olhos: Pode provocar irritação nos olhos.
+Após inalação: O material pode ser irritante para as membranas mucosas e para o trato respiratório superior.
+Pode ser nocivo se inalado.
+Após ingestão: Pode ser nocivo se deglutido.
+12. Informações ecológicas
+• TOXICIDADE:
+Dados não disponíveis.
+• PERSISTÊNCIA E DEGRADABILIDADE:
+Dados não disponíveis.
+• POTENCIAL BIOACUMULATIVO:
+Dados não disponíveis.
+• MOBILIDADE NO SOLO
+Dados não disponíveis.
+• OUTROS EFEITOS ADVERSOS:
+Não permita a entrada em águas residuais ou solos!
+13. Considerações sobre tratamento e disposição
+No tratamento e disposição do produto, de seus restos e embalagens usadas, deve-se atentar para a
+legislação nos âmbitos municipal, estadual e federal.
+14. Informações sobre transporte
+• TERRESTRE
+Nome apropriado para embarque: ÁCIDO CLORÍDRICO
+Nº. ONU: 1789
+Classe de Risco: 8
+Número de Risco: 80
+Grupo de Embalagem: II
+• HIDROVIÁRIO (IMDG)
+Classe: 8
+Nº. ONU: 1789
+Grupo de Embalagem: II
+N°EMS: F-A S-B
+Nome apropriado para embarque: HYDROCHLORIC ACID
+• AÉREO (CAO -PAX)
+Nº. ONU: 1789
+Classe de Risco: 8
+Grupo de Embalagem: II
+Nome apropriado para embarque: HYDROCHLORIC ACID
+15. Regulamentações
+NORMA ABNT NBR 14725:2009
+16. Outras Informações
+ | FICHA DE SEGURANÇA
+De acordo com a norma NBR 14725-4:2014 | FISPQ No. 2523
+ | | Página 5 de 4
+FISPQ No. 2523
+FICHA DE SEGURANÇA
+De acordo com a norma NBR 14725-4:2014 Página 5 de 4
+Nome do produto: Acido Clorídrico 25% Aquoso Referência do produto: ALPHA835
+Data da revisão: 05/09/2018 No. da revisão: 05
+As informações acima foram obtidas de fontes confiáveis. Embora estas não sejam totalmente abrangentes,
+apresentam um vasto conhecimento referente às características do produto, devendo ser usadas como um
+guia. A Control Lab não deverá ter responsabilidade legal por quaisquer danos resultantes do manuseio ou do
+contato com o produto acima.

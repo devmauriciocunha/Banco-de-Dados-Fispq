@@ -1,0 +1,1035 @@
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS | 
+1 IDENTIFICAÇÃO | | | 
+Nome do produto (nome | | PARA-XILENO | 
+comercial): | | | 
+Nome da empresa: | | | BRASKEM S/A | 
+ | | | Rua Eteno, 1561 – Pólo Petroquímico de Camaçari – Camaçari – | 
+ | | | Bahia – | 
+Email para contato: | | productsafety@braskem.com | | 
+Telefone de emergência: | | | CHEMTREC: (021) 3958-1449, (011) 4349-1359, 0800 892 0479 | 
+ | | | (BRASIL) | 
+ | | | 1-703-741-5970 (INTERNACIONAL) | 
+2 IDENTIFICAÇÃO DE PERIGOS | | | 
+Classificação de perigo do
+produto químico: | | Líquidos inflamáveis – Categoria 3 | 
+ | | Toxicidade aguda – Oral – Categoria 5 | 
+ | | Toxicidade aguda – Dérmica – Categoria 4 | 
+ | | Toxicidade aguda – Inalação – Categoria 4 | 
+ | | Corrosão/irritação à pele – Categoria 2 | 
+ | | Lesões oculares graves/irritação ocular – Categoria 2A | 
+ | | Toxicidade à reprodução – Categoria 2 | 
+ | | Toxicidade para órgãos-alvo específicos – Exposição única – | 
+ | | Categoria 3 | 
+ | | Perigo por aspiração – Categoria 1 | 
+ | | Perigoso ao ambiente aquático – Agudo – Categoria 2 | 
+Classificação de perigo do
+produto químico:
+Outros perigos que não | | | O produto não possui outros perigos. | 
+FISPQ
+Em conformidade com NBR 14725
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Produto: PARA-XILENO
+Revisão: 8.0 Data: 15/08/2017 Página: 1 /17
+Data da revisão: 24/03/21
+1 IDENTIFICAÇÃO
+Nome do produto (nome
+PARA-XILENO
+comercial):
+Principais usos recomendados Matéria prima para síntese de ácido tereftálico purificado (PTA) e
+para a substância ou mistura: Polietileno tereftalato (PET)
+Nome da empresa: BRASKEM S/A
+Rua Eteno, 1561 – Pólo Petroquímico de Camaçari – Camaçari –
+Endereço:
+Bahia – CEP 42810-000
+Email para contato: productsafety@braskem.com
+CHEMTREC: (021) 3958-1449, (011) 4349-1359, 0800 892 0479
+Telefone de emergência: (BRASIL)
+1-703-741-5970 (INTERNACIONAL)
+2 IDENTIFICAÇÃO DE PERIGOS
+Líquidos inflamáveis – Categoria 3
+Toxicidade aguda – Oral – Categoria 5
+Toxicidade aguda – Dérmica – Categoria 4
+Toxicidade aguda – Inalação – Categoria 4
+Corrosão/irritação à pele – Categoria 2
+Classificação de perigo do
+Lesões oculares graves/irritação ocular – Categoria 2A
+produto químico:
+Toxicidade à reprodução – Categoria 2
+Toxicidade para órgãos-alvo específicos – Exposição única –
+Categoria 3
+Perigo por aspiração – Categoria 1
+Perigoso ao ambiente aquático – Agudo – Categoria 2
+Norma ABNT-NBR 14725-2.
+Sistema de classificação
+Sistema Globalmente Harmonizado para a Classificação e Rotulagem
+utilizado:
+de Produtos Químicos, ONU.
+Outros perigos que não O produto não possui outros perigos.
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS | 
+resultam em uma | | 
+classificação: | | 
+Pictogramas: | | | 
+Frases de perigo: | | H226 Líquido e vapores inflamáveis. | 
+ | | H303 Pode ser nocivo se ingerido. | 
+ | | H304 Pode ser fatal se ingerido e penetrar nas vias respiratórias. | 
+ | | H312 Nocivo em contato com a pele. | 
+ | | H315 Provoca irritação à pele. | 
+ | | H319 Provoca irritação ocular grave. | 
+ | | H332 Nocivo se inalado. | 
+ | | H335 Pode provocar irritação das vias respiratórias. | 
+ | | H361 Suspeita-se que prejudique a fertilidade ou o feto. | 
+ | | H401 Tóxico para os organismos aquáticos. | 
+FISPQ
+Em conformidade com NBR 14725
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Produto: PARA-XILENO
+Revisão: 8.0 Data: 15/08/2017 Página: 2 /17
+Data da revisão: 24/03/21
+resultam em uma
+classificação:
+Elementos apropriados da rotulagem
+Pictogramas:
+Palavra de advertência: PERIGO
+H226 Líquido e vapores inflamáveis.
+H303 Pode ser nocivo se ingerido.
+H304 Pode ser fatal se ingerido e penetrar nas vias respiratórias.
+H312 Nocivo em contato com a pele.
+H315 Provoca irritação à pele.
+Frases de perigo:
+H319 Provoca irritação ocular grave.
+H332 Nocivo se inalado.
+H335 Pode provocar irritação das vias respiratórias.
+H361 Suspeita-se que prejudique a fertilidade ou o feto.
+H401 Tóxico para os organismos aquáticos.
+P210 Mantenha afastado do calor, faísca, chama aberta e superfícies
+quentes. — Não fume.
+P273 Evite a liberação para o meio ambiente.
+P301 + P310 EM CASO DE INGESTÃO: Contate imediatamente um
+CENTRO DE INFORMAÇÃO TOXICOLÓGICA ou um médico.
+P302 + P352 EM CASO DE CONTATO COM A PELE: Lave com
+água em abundância.
+Frases de precaução:
+P304 + P340 EM CASO DE INALAÇÃO: Remova a pessoa para
+local ventilado e a mantenha em repouso numa posição que não
+dificulte a respiração.
+P305 + P351 + P338 EM CASO DE CONTATO COM OS OLHOS:
+Enxágue cuidadosamente com água durante vários minutos. No caso
+de uso de lentes de contato, remova-as, se for fácil. Continue
+enxaguando.
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS | 
+3 COMPOSIÇÃO E INFORMAÇÕES SOBRE OS INGREDIENTES | | 
+SUBSTÂNCIA | | 
+Sinônimo: | p-Xileno;1,4-Dimetilbenzeno; p-Dimetilbenzeno; p-Metiltolueno; 1,4- | 
+ | Xileno; 4-Xileno; p-Xilol; xilenos. | 
+Impurezas que contribuam
+para o perigo: | Concentração
+Ingredientes Nº CAS
+(%)
+m-Xileno ≤ 0,2 108-38-3
+Etilbenzeno ≤ 0,15 100-41-4
+o-Xileno ≤ 0,1 95-47-6
+Tolueno ≤ 0,1 108-88-3
+Benzeno* ≤ 0,05 71-43-2
+Não aromáticos* ≤ 0,05 ND
+* As impurezas não estão em concentração suficiente para contribuir
+para o perigo.
+ND: Não Disponível. | | | | | | | | 
+ | Ingredientes | | | | Concentração | | Nº CAS | | 
+ | | | | | (%) | | | | 
+ | | m-Xileno | | | ≤ 0,2 | | | 108-38-3 | 
+ | | Etilbenzeno | | | ≤ 0,15 | | | 100-41-4 | 
+ | | o-Xileno | | | ≤ 0,1 | | | 95-47-6 | 
+ | | Tolueno | | | ≤ 0,1 | | | 108-88-3 | 
+ | | Benzeno* | | | ≤ 0,05 | | | 71-43-2 | 
+ | | Não aromáticos* | | | ≤ 0,05 | | | ND | 
+ | * As impurezas não estão em concentração suficiente para contribuir | | | | | | | | 
+ | para o perigo. | | | | | | | | 
+ | ND: Não Disponível. | | | | | | | | 
+4 MEDIDAS DE PRIMEIROS-SOCORROS | | 
+Inalação: | Remova a vítima para local ventilado e a mantenha em repouso numa | 
+ | posição que não dificulte a respiração. Contate um CENTRO DE | 
+ | INFORMAÇÃO TOXICOLÓGICA ou um médico. Leve esta FISPQ. | 
+FISPQ
+Em conformidade com NBR 14725
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Produto: PARA-XILENO
+Revisão: 8.0 Data: 15/08/2017 Página: 3 /17
+Data da revisão: 24/03/21
+P308 + P313 EM CASO DE exposição ou suspeita de exposição:
+Consulte um médico.
+3 COMPOSIÇÃO E INFORMAÇÕES SOBRE OS INGREDIENTES
+SUBSTÂNCIA
+Nome químico comum ou para-Xileno
+nome técnico:
+p-Xileno;1,4-Dimetilbenzeno; p-Dimetilbenzeno; p-Metiltolueno; 1,4-
+Sinônimo:
+Xileno; 4-Xileno; p-Xilol; xilenos.
+Número de registro CAS: 106-42-3
+Concentração
+Ingredientes Nº CAS
+(%)
+m-Xileno ≤ 0,2 108-38-3
+Etilbenzeno ≤ 0,15 100-41-4
+o-Xileno ≤ 0,1 95-47-6
+Impurezas que contribuam
+para o perigo: Tolueno ≤ 0,1 108-88-3
+Benzeno* ≤ 0,05 71-43-2
+Não aromáticos* ≤ 0,05 ND
+* As impurezas não estão em concentração suficiente para contribuir
+para o perigo.
+ND: Não Disponível.
+4 MEDIDAS DE PRIMEIROS-SOCORROS
+Remova a vítima para local ventilado e a mantenha em repouso numa
+Inalação: posição que não dificulte a respiração. Contate um CENTRO DE
+INFORMAÇÃO TOXICOLÓGICA ou um médico. Leve esta FISPQ.
+Contato com a pele: Lave a pele exposta com quantidade suficiente de água para remoção
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS | 
+Contato com os olhos: | | Enxágue cuidadosamente com água durante vários minutos. No caso | 
+ | | de uso de lentes de contato, remova-as, se for fácil e enxágue | 
+ | | novamente. Caso a irritação ocular persista: Consulte um médico. | 
+ | | Leve esta FISPQ. | 
+Sintomas e efeitos mais
+importantes, agudos ou
+tardios: | | Pode ser nocivo se ingerido. Pode ser fatal se ingerido e penetrar nas | 
+ | | vias respiratórias, podendo causar pneumonite química. Nocivo em | 
+ | | contato com a pele e se inalado. Provoca irritação à pele com | 
+ | | vermelhidão, dor e ressecamento, e aos olhos com vermelhidão e dor. | 
+ | | O contato repetido ou prolongado com a pele pode causar dermatite | 
+ | | (pele avermelhada, desidratada e com rachaduras). A ingestão pode | 
+ | | causar distúrbios gastrointestinais. Pode provocar irritação das vias | 
+ | | respiratórias com tosse, espirros, falta de ar e dores de garganta. | 
+ | | Exposição aguda a doses elevadas ou exposição crônica pode causar | 
+ | | danos pulmonares, hepáticos, renais e neurológicos com aumento na | 
+ | | atividade das transaminases séricas, aumento dos níveis de uréia no | 
+ | | sangue, diminuição do clearance de creatinina, hepatomegalia, | 
+ | | insuficiência respiratória e congestão pulmonar severa. A exposição | 
+ | | crônica pode causar cefaléia, irritabilidade, insônia, agitação, cansaço, | 
+ | | tremores e dificuldade de concentração. | 
+Sintomas e efeitos mais
+importantes, agudos ou
+tardios:
+5 MEDIDAS DE COMBATE A INCÊNDIO | | | 
+Meios de extinção: | | Apropriados: Compatível com pó químico seco, dióxido de carbono | 
+ | | (CO ), neblina d´água ou espuma.
+2 | 
+FISPQ
+Em conformidade com NBR 14725
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Produto: PARA-XILENO
+Revisão: 8.0 Data: 15/08/2017 Página: 4 /17
+Data da revisão: 24/03/21
+do material. Caso a irritação cutânea persista: Consulte um médico.
+Leve esta FISPQ.
+Enxágue cuidadosamente com água durante vários minutos. No caso
+de uso de lentes de contato, remova-as, se for fácil e enxágue
+Contato com os olhos:
+novamente. Caso a irritação ocular persista: Consulte um médico.
+Leve esta FISPQ.
+Não induza o vômito. Lave a boca da vítima com água em abundância.
+Nunca forneça algo por via oral a uma pessoa inconsciente. Contate
+Ingestão:
+um CENTRO DE INFORMAÇÃO TOXICOLÓGICA ou um médico.
+Leve esta FISPQ.
+Pode ser nocivo se ingerido. Pode ser fatal se ingerido e penetrar nas
+vias respiratórias, podendo causar pneumonite química. Nocivo em
+contato com a pele e se inalado. Provoca irritação à pele com
+vermelhidão, dor e ressecamento, e aos olhos com vermelhidão e dor.
+O contato repetido ou prolongado com a pele pode causar dermatite
+(pele avermelhada, desidratada e com rachaduras). A ingestão pode
+Sintomas e efeitos mais causar distúrbios gastrointestinais. Pode provocar irritação das vias
+importantes, agudos ou respiratórias com tosse, espirros, falta de ar e dores de garganta.
+tardios: Exposição aguda a doses elevadas ou exposição crônica pode causar
+danos pulmonares, hepáticos, renais e neurológicos com aumento na
+atividade das transaminases séricas, aumento dos níveis de uréia no
+sangue, diminuição do clearance de creatinina, hepatomegalia,
+insuficiência respiratória e congestão pulmonar severa. A exposição
+crônica pode causar cefaléia, irritabilidade, insônia, agitação, cansaço,
+tremores e dificuldade de concentração.
+Evite contato com o produto ao socorrer a vítima. Se necessário, o
+tratamento sintomático deve compreender, sobretudo, medidas de
+Notas para o médico: suporte como correção de distúrbios hidroeletrolíticos, metabólicos,
+além de assistência respiratória. Em caso de contato com o produto
+não friccione o local atingido.
+5 MEDIDAS DE COMBATE A INCÊNDIO
+Apropriados: Compatível com pó químico seco, dióxido de carbono
+Meios de extinção:
+(CO ), neblina d´água ou espuma.
+2
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS | 
+ | Não recomendados: Água diretamente sobre o líquido em chamas. | | 
+Perigos específicos da mistura
+ou substância: | | A combustão do produto químico ou de sua embalagem pode formar | 
+ | | gases irritantes e tóxicos como monóxido e dióxido de carbono. Sofre | 
+ | | decomposição em elevadas temperaturas, formando gases tóxicos | 
+ | | como aldeídos e hidrocarbonetos. Muito perigoso quando exposto a | 
+ | | calor excessivo ou outras fontes de ignição como: faíscas, chamas | 
+ | | abertas ou chamas de fósforos e cigarros, operações de solda, | 
+ | | lâmpadas-piloto e motores elétricos. Pode acumular carga estática por | 
+ | | fluxo ou agitação. Os vapores do líquido aquecido podem incendiar-se | 
+ | | por descarga estática. Os vapores são mais densos que o ar e tendem a | 
+ | | se acumular em áreas baixas ou confinadas, como bueiros, porões, etc. | 
+ | | Podem deslocar-se por grandes distâncias provocando retrocesso da | 
+ | | chama ou novos focos de incêndio tanto em ambientes abertos como | 
+ | | confinados. Os contêineres podem explodir se aquecidos. | 
+Medidas de proteção da
+equipe de combate a incêndio: | | Equipamento de proteção respiratória do tipo autônomo (SCBA) com | 
+ | | pressão positiva e vestuário protetor completo. Contêineres e tanques | 
+ | | envolvidos no incêndio devem ser resfriados com neblina d’água. | 
+Perigos específicos da mistura
+ou substância:
+Medidas de proteção da
+equipe de combate a incêndio:
+6 MEDIDAS DE CONTROLE PARA DERRAMAMENTO OU VAZAMENTO | | | | 
+Precauções pessoais | | | | 
+Para o pessoal que não faz
+parte dos serviços de
+emergência: | | | Isole o vazamento de fontes de ignição. Impeça fagulhas ou chamas. | 
+ | | | Não fume. Evacuar a área, num raio de 50 metros. Não toque nos | 
+ | | | recipientes danificados ou no material derramado sem o uso de | 
+ | | | vestimentas adequadas. Evite inalação, contato com os olhos e com a | 
+ | | | pele. Utilize equipamento de proteção individual conforme descrito na | 
+ | | | seção 8. | 
+Para pessoal de serviço de
+emergência: | | | Utilizar EPI completo, com luvas de segurança de PVC, polietileno ou | 
+ | | | neoprene, óculos de segurança de ampla visão contra respingos de | 
+ | | | produtos químicos e resistente a impacto, vestuário protetor adequado | 
+ | | | de PVC, polietileno ou neoprene e sapatos fechados. O material | 
+ | | | utilizado deve ser impermeável. Recomenda-se o uso de máscara de | 
+ | | | proteção respiratória com filtro contra vapores orgânicos e névoas. | 
+Precauções ao meio ambiente: | | | Evite que o produto derramado atinja cursos d’água e rede de esgotos. | 
+Para o pessoal que não faz
+parte dos serviços de
+emergência:
+Para pessoal de serviço de
+emergência:
+FISPQ
+Em conformidade com NBR 14725
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Produto: PARA-XILENO
+Revisão: 8.0 Data: 15/08/2017 Página: 5 /17
+Data da revisão: 24/03/21
+Não recomendados: Água diretamente sobre o líquido em chamas.
+A combustão do produto químico ou de sua embalagem pode formar
+gases irritantes e tóxicos como monóxido e dióxido de carbono. Sofre
+decomposição em elevadas temperaturas, formando gases tóxicos
+como aldeídos e hidrocarbonetos. Muito perigoso quando exposto a
+calor excessivo ou outras fontes de ignição como: faíscas, chamas
+abertas ou chamas de fósforos e cigarros, operações de solda,
+Perigos específicos da mistura
+lâmpadas-piloto e motores elétricos. Pode acumular carga estática por
+ou substância:
+fluxo ou agitação. Os vapores do líquido aquecido podem incendiar-se
+por descarga estática. Os vapores são mais densos que o ar e tendem a
+se acumular em áreas baixas ou confinadas, como bueiros, porões, etc.
+Podem deslocar-se por grandes distâncias provocando retrocesso da
+chama ou novos focos de incêndio tanto em ambientes abertos como
+confinados. Os contêineres podem explodir se aquecidos.
+Equipamento de proteção respiratória do tipo autônomo (SCBA) com
+Medidas de proteção da
+pressão positiva e vestuário protetor completo. Contêineres e tanques
+equipe de combate a incêndio:
+envolvidos no incêndio devem ser resfriados com neblina d’água.
+6 MEDIDAS DE CONTROLE PARA DERRAMAMENTO OU VAZAMENTO
+Precauções pessoais
+Isole o vazamento de fontes de ignição. Impeça fagulhas ou chamas.
+Não fume. Evacuar a área, num raio de 50 metros. Não toque nos
+Para o pessoal que não faz
+recipientes danificados ou no material derramado sem o uso de
+parte dos serviços de
+vestimentas adequadas. Evite inalação, contato com os olhos e com a
+emergência:
+pele. Utilize equipamento de proteção individual conforme descrito na
+seção 8.
+Utilizar EPI completo, com luvas de segurança de PVC, polietileno ou
+neoprene, óculos de segurança de ampla visão contra respingos de
+Para pessoal de serviço de produtos químicos e resistente a impacto, vestuário protetor adequado
+emergência: de PVC, polietileno ou neoprene e sapatos fechados. O material
+utilizado deve ser impermeável. Recomenda-se o uso de máscara de
+proteção respiratória com filtro contra vapores orgânicos e névoas.
+Precauções ao meio ambiente: Evite que o produto derramado atinja cursos d’água e rede de esgotos.
+Métodos e materiais para
+contenção e limpeza: | Utilize névoa de água ou espuma supressora de vapor para reduzir a
+ | dispersão dos vapores. Utilize barreiras naturais ou de contenção de
+ | derrame. Colete o produto derramado e coloque em recipientes
+ | próprios. Adsorva o produto remanescente, com areia seca, terra,
+ | vermiculite, ou qualquer outro material inerte. Coloque o material
+ | adsorvido em recipientes apropriados e remova-os para local seguro.
+ | Para destinação final, proceder conforme a Seção 13 desta FISPQ.
+Diferenças na ação de grandes
+e pequenos vazamentos: | Não há distinção entre as ações de grandes e pequenos vazamentos
+ | para este produto.
+7 MANUSEIO E ARMAZENAMENTO
+Medidas técnicas apropriadas para o manuseio
+Medidas de higiene: | Lave as mãos e o rosto cuidadosamente após o manuseio e antes de
+ | comer, beber, fumar ou ir ao banheiro. Roupas contaminadas devem
+ | ser trocadas e lavadas antes de sua reutilização. Remova a roupa e o
+ | equipamento de proteção contaminado antes de entrar nas áreas de
+ | alimentação.
+Prevenção de incêndio e
+explosão: | Mantenha afastado do calor, faísca, chama aberta e superfícies quentes.
+ | — Não fume. Mantenha o recipiente hermeticamente fechado. Aterre o
+ | vaso contentor e o receptor do produto durante transferências. Utilize
+ | apenas ferramentas anti-faiscante. Evite o acúmulo de cargas
+ | eletrostáticas. Utilize equipamento elétrico, de ventilação e de
+ | iluminação à prova de explosão.
+FISPQ
+Em conformidade com NBR 14725
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Produto: PARA-XILENO
+Revisão: 8.0 Data: 15/08/2017 Página: 6 /17
+Data da revisão: 24/03/21
+Utilize névoa de água ou espuma supressora de vapor para reduzir a
+dispersão dos vapores. Utilize barreiras naturais ou de contenção de
+derrame. Colete o produto derramado e coloque em recipientes
+Métodos e materiais para
+próprios. Adsorva o produto remanescente, com areia seca, terra,
+contenção e limpeza:
+vermiculite, ou qualquer outro material inerte. Coloque o material
+adsorvido em recipientes apropriados e remova-os para local seguro.
+Para destinação final, proceder conforme a Seção 13 desta FISPQ.
+Diferenças na ação de grandes Não há distinção entre as ações de grandes e pequenos vazamentos
+e pequenos vazamentos: para este produto.
+7 MANUSEIO E ARMAZENAMENTO
+Medidas técnicas apropriadas para o manuseio
+Manuseie em uma área ventilada ou com sistema geral de
+ventilação/exaustão local. Evite formação de vapores orgânicos e
+Precauções para manuseio
+névoas. Evite exposição ao produto. Evite contato com materiais
+seguro:
+incompatíveis. Utilize equipamento de proteção individual conforme
+descrito na seção 8.
+Lave as mãos e o rosto cuidadosamente após o manuseio e antes de
+comer, beber, fumar ou ir ao banheiro. Roupas contaminadas devem
+Medidas de higiene: ser trocadas e lavadas antes de sua reutilização. Remova a roupa e o
+equipamento de proteção contaminado antes de entrar nas áreas de
+alimentação.
+Condições de armazenamento seguro, incluindo qualquer incompatibilidade
+Mantenha afastado do calor, faísca, chama aberta e superfícies quentes.
+— Não fume. Mantenha o recipiente hermeticamente fechado. Aterre o
+Prevenção de incêndio e vaso contentor e o receptor do produto durante transferências. Utilize
+explosão: apenas ferramentas anti-faiscante. Evite o acúmulo de cargas
+eletrostáticas. Utilize equipamento elétrico, de ventilação e de
+iluminação à prova de explosão.
+Armazene em local bem ventilado, longe da luz solar. Mantenha o
+recipiente fechado. Mantenha armazenado em temperatura ambiente
+Condições adequadas:
+que não exceda 35°C. Este produto pode reagir, de forma perigosa,
+com alguns materiais incompatíveis conforme destacado na Seção 10.
+Materiais para embalagens: | | Tambor com tampa e cinta metálica, bombonas de PVC, cilindros de
+ | | aço carbono ou aço inox. Não recomendados: Papelão, alguns tipos de
+ | | plástico (em especial os de baixa densidade), alguns tipos de borracha
+ | | e isopor.
+8 CONTROLE DE EXPOSIÇÃO E PROTEÇÃO INDIVIDUAL | | | | 
+Parâmetros de controle | | | | 
+ | Nome químico
+ou comum | TLV – TWA
+(ACGIH,
+2012) | TLV – STEL
+(ACGIH,
+2012) | LT (NR-15,
+1978)
+ | Benzeno | 0,5 ppm | 2,5 ppm | *
+ | Etilbenzeno | 20 ppm | NE | 78 ppm
+ | Tolueno | 20 ppm | NE | 78 ppm**
+ | Xileno (o, m e
+p isômeros) | 100 ppm | 150 ppm | 78 ppm**
+Indicadores biológicos: | | - Benzeno:
+ | | BEI (ACGIH, 2012):
+FISPQ
+Em conformidade com NBR 14725
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Produto: PARA-XILENO
+Revisão: 8.0 Data: 15/08/2017 Página: 7 /17
+Data da revisão: 24/03/21
+Não é necessária adição de estabilizantes e antioxidantes para garantir
+a durabilidade do produto.
+Tambor com tampa e cinta metálica, bombonas de PVC, cilindros de
+aço carbono ou aço inox. Não recomendados: Papelão, alguns tipos de
+Materiais para embalagens:
+plástico (em especial os de baixa densidade), alguns tipos de borracha
+e isopor.
+8 CONTROLE DE EXPOSIÇÃO E PROTEÇÃO INDIVIDUAL
+Parâmetros de controle
+Nome químico TLV – TWA TLV – STEL LT (NR-15,
+ou comum (ACGIH, (ACGIH, 1978)
+2012) 2012)
+Benzeno 0,5 ppm 2,5 ppm *
+Etilbenzeno 20 ppm NE 78 ppm
+Tolueno 20 ppm NE 78 ppm**
+Xileno (o, m e 100 ppm 78 ppm**
+150 ppm
+p isômeros)
+Limites de exposição * O benzeno não possui LT, mas é objeto do Anexo 13-A, da NR15,
+ocupacional: onde, para as empresas sujeitas ao disposto no Anexo, define-se o
+parâmetro VRT-MPT (concentração média de benzeno no ar
+ponderada pelo tempo, para uma jornada de trabalho de oito horas,
+obtida na zona de respiração dos trabalhadores, individualmente ou de
+Grupos Homogêneos de Exposição - GHE, conforme definido na
+Instrução Normativa nº 01). Segundo tal Anexo, os valores
+estabelecidos para os VRT-MPT são 1,0 ppm para as empresas
+abrangidas no Anexo, com exceção das siderúrgicas, e 2,5 ppm para as
+siderúrgicas.
+NE: Não Estabelecido.
+** Absorção também pela pele.
+- Benzeno:
+Indicadores biológicos:
+BEI (ACGIH, 2012):
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS | 
+ | | Ácido S-Fenilmercaptúrico na urina: 25 µg/g de creatinina (final da | 
+ | | jornada). B | 
+ | | Ácido t,t-mucônico na urina: 500 µg/g de creatinina (final da jornada). | 
+ | | B | 
+ | | - Etilbenzeno: | 
+ | | Ácidos mandélico + fenilglioxílico na urina (Etilbenzeno no ar | 
+ | | exalado final): 0,7 g/g de creatinina (final da jornada e da semana – | 
+ | | Não crítico). Ne, (Sq) | 
+ | | - Tolueno: | 
+ | | BEI (ACGIH, 2012): | 
+ | | Tolueno no sangue: 0,02 mg/L (antes da última jornada da semana). | 
+ | | Tolueno na urina: 0,03 mg/L (final da jornada). | 
+ | | o-Cresol na urina (com hidrólise): 0,3 mg/g de creatinina (final da | 
+ | | jornada). B | 
+ | | IBMP (NR-7, 1978): | 
+ | | Ácido hipúrico na urina: 2,5 g/g de creatinina (final do último dia de | 
+ | | jornada de trabalho. Recomenda-se evitar a primeira jornada da | 
+ | | semana e recomenda-se iniciar a monitorização após 1 (um) mês de | 
+ | | exposição). EE | 
+ | | - Xilenos (grau técnico ou comercial): | 
+ | | BEI (ACGIH, 2012): | 
+ | | Ácidos metilhipúricos na urina: 1,5 g/g de creatinina (final da | 
+ | | jornada). | 
+ | | IBMP (NR-7, 1978): | 
+ | | Ácido metilhipúrico na urina: 1,5 g/g de creatinina (final do último dia | 
+ | | de jornada de trabalho (recomenda-se evitar a primeira jornada da | 
+ | | semana)). EE | 
+ | | | 
+ | | B: O determinante pode estar presente em amostras biológicas | 
+ | | coletadas de pessoas que não foram ocupacionalmente expostas em | 
+ | | uma concentração que poderia afetar a interpretação do resultado. Tais | 
+ | | concentrações basais estão incorporadas no valor do BEI. | 
+ | | Ne: Não específico – O determinante não é específico, sendo também | 
+FISPQ
+Em conformidade com NBR 14725
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Produto: PARA-XILENO
+Revisão: 8.0 Data: 15/08/2017 Página: 8 /17
+Data da revisão: 24/03/21
+Ácido S-Fenilmercaptúrico na urina: 25 µg/g de creatinina (final da
+jornada). B
+Ácido t,t-mucônico na urina: 500 µg/g de creatinina (final da jornada).
+B
+- Etilbenzeno:
+Ácidos mandélico + fenilglioxílico na urina (Etilbenzeno no ar
+exalado final): 0,7 g/g de creatinina (final da jornada e da semana –
+Não crítico). Ne, (Sq)
+- Tolueno:
+BEI (ACGIH, 2012):
+Tolueno no sangue: 0,02 mg/L (antes da última jornada da semana).
+Tolueno na urina: 0,03 mg/L (final da jornada).
+o-Cresol na urina (com hidrólise): 0,3 mg/g de creatinina (final da
+jornada). B
+IBMP (NR-7, 1978):
+Ácido hipúrico na urina: 2,5 g/g de creatinina (final do último dia de
+jornada de trabalho. Recomenda-se evitar a primeira jornada da
+semana e recomenda-se iniciar a monitorização após 1 (um) mês de
+exposição). EE
+- Xilenos (grau técnico ou comercial):
+BEI (ACGIH, 2012):
+Ácidos metilhipúricos na urina: 1,5 g/g de creatinina (final da
+jornada).
+IBMP (NR-7, 1978):
+Ácido metilhipúrico na urina: 1,5 g/g de creatinina (final do último dia
+de jornada de trabalho (recomenda-se evitar a primeira jornada da
+semana)). EE
+B: O determinante pode estar presente em amostras biológicas
+coletadas de pessoas que não foram ocupacionalmente expostas em
+uma concentração que poderia afetar a interpretação do resultado. Tais
+concentrações basais estão incorporadas no valor do BEI.
+Ne: Não específico – O determinante não é específico, sendo também
+ | observado depois da exposição a outras substâncias químicas.
+ | Sq: Semiquantitativo – O determinante é um indicador de exposição à
+ | substância química, mas a interpretação quantitativa da medida é
+ | imprecisa. Este determinante deve ser usado como teste de triagem, se
+ | um teste quantitativo não for viável; ou como teste de confirmação, se
+ | o teste quantitativo não for específico e a origem do determinante
+ | estiver em questão.
+ | EE: O indicador biológico é capaz de indicar uma exposição ambiental
+ | acima do limite de tolerância, mas não possui, isoladamente,
+ | significado clínico ou toxicológico próprio, ou seja, não indica doença,
+ | nem está associado a um efeito ou disfunção de qualquer sistema
+ | biológico.
+Medidas de controle de
+engenharia: | Promova ventilação mecânica e sistema de exaustão direta para o meio
+ | exterior. Estas medidas auxiliam na redução da exposição ao produto.
+ | Manter as concentrações atmosféricas, dos constituintes do produto,
+ | abaixo dos limites de exposição ocupacional indicados.
+Proteção dos olhos/face: | A menos que um protetor respiratório de peça facial inteira esteja
+ | sendo utilizado, devem ser utilizados óculos de segurança de ampla
+ | visão contra respingos de produtos químicos e resistentes a impacto.
+Proteção respiratória: | Máscara de proteção respiratória com filtro contra vapores orgânicos e
+ | névoas.
+9 PROPRIEDADES FÍSICAS E QUÍMICAS | 
+Aspecto (estado físico, forma
+e cor): | 
+ | Líquido claro e livre de sedimentos (transparente).
+ | 
+FISPQ
+Em conformidade com NBR 14725
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Produto: PARA-XILENO
+Revisão: 8.0 Data: 15/08/2017 Página: 9 /17
+Data da revisão: 24/03/21
+observado depois da exposição a outras substâncias químicas.
+Sq: Semiquantitativo – O determinante é um indicador de exposição à
+substância química, mas a interpretação quantitativa da medida é
+imprecisa. Este determinante deve ser usado como teste de triagem, se
+um teste quantitativo não for viável; ou como teste de confirmação, se
+o teste quantitativo não for específico e a origem do determinante
+estiver em questão.
+EE: O indicador biológico é capaz de indicar uma exposição ambiental
+acima do limite de tolerância, mas não possui, isoladamente,
+significado clínico ou toxicológico próprio, ou seja, não indica doença,
+nem está associado a um efeito ou disfunção de qualquer sistema
+biológico.
+- Tolueno:
+Outros limites e valores:
+IDLH (NIOSH, 2010): 200 ppm
+Promova ventilação mecânica e sistema de exaustão direta para o meio
+Medidas de controle de exterior. Estas medidas auxiliam na redução da exposição ao produto.
+engenharia: Manter as concentrações atmosféricas, dos constituintes do produto,
+abaixo dos limites de exposição ocupacional indicados.
+Medidas de proteção pessoal
+A menos que um protetor respiratório de peça facial inteira esteja
+Proteção dos olhos/face: sendo utilizado, devem ser utilizados óculos de segurança de ampla
+visão contra respingos de produtos químicos e resistentes a impacto.
+Luvas de segurança e vestuário protetor adequado de PVC, polietileno
+Proteção da pele e do corpo:
+ou neoprene e sapatos fechados.
+Máscara de proteção respiratória com filtro contra vapores orgânicos e
+Proteção respiratória:
+névoas.
+Perigos térmicos: Não apresenta perigos térmicos.
+9 PROPRIEDADES FÍSICAS E QUÍMICAS
+Aspecto (estado físico, forma
+Líquido claro e livre de sedimentos (transparente).
+e cor):
+Odor e limite de odor: Aromático característico.
+pH: | | | Não disponível.
+Ponto de fusão/ponto de | | 13,2°C | 
+congelamento: | | | 
+Ponto de ebulição inicial e | | 138,35°C | 
+faixa de temperatura de | | | 
+ebulição: | | | 
+Taxa de evaporação: | | | 9,9 (éter dietílico = 1); 0,7 (acetato de n-butila = 1).
+Limite inferior/superior de | | LEI: 1,1%
+LES: 7,0%
+inflamabilidade ou | | 
+explosividade: | | 
+LEI: 1,1%
+LES: 7,0%
+Densidade de vapor: | | | 3,7
+Solubilidade(s): | | Praticamente insolúvel em água; solúvel em etanol, acetona, benzeno
+ | | e éter dietílico.
+Temperatura de autoignição: | | | 528°C
+Viscosidade: | | | Não disponível.
+
+10 ESTABILIDADE E REATIVIDADE
+FISPQ
+Em conformidade com NBR 14725
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Produto: PARA-XILENO
+Revisão: 8.0 Data: 15/08/2017 Página: 10 /17
+Data da revisão: 24/03/21
+pH: Não disponível.
+Ponto de fusão/ponto de
+13,2°C
+congelamento:
+Ponto de ebulição inicial e
+faixa de temperatura de 138,35°C
+ebulição:
+Ponto de fulgor: 25°C (copo fechado)
+Taxa de evaporação: 9,9 (éter dietílico = 1); 0,7 (acetato de n-butila = 1).
+Inflamabilidade (sólido; gás): Não aplicável.
+Limite inferior/superior de
+LEI: 1,1%
+inflamabilidade ou
+LES: 7,0%
+explosividade:
+Pressão de vapor: 8,84 mmHg a 25°C; 6,5 mmHg a 20°C.
+Densidade de vapor: 3,7
+Densidade relativa: 0,858 – 0,8611 (água a 4°C = 1) a 20°C
+Praticamente insolúvel em água; solúvel em etanol, acetona, benzeno
+Solubilidade(s):
+e éter dietílico.
+Coeficiente de partição – n-
+3,15
+octanol/água:
+Temperatura de autoignição: 528°C
+Temperatura de
+Não disponível.
+decomposição:
+Viscosidade: Não disponível.
+Peso molecular: 106,16; faixa de destilação (5 a 97% volume): 1°C
+(máximo) incluindo 138,3°C; temperatura crítica: 359°C; pressão
+Outras informações:
+crítica: 3618 kPa (35,7 atm); calor de combustão: - 4559,8 kJ/mol;
+constante dielétrica: 2,27 a 25°C; calor de fusão: 17. 112 J/mol °K.
+10 ESTABILIDADE E REATIVIDADE
+Estabilidade e reatividade: | | Produto instável em condições normais de temperatura e pressão. Pode
+ | | agredir algumas formas de plástico, borrachas e revestimentos.
+Condições a serem evitadas: | | Temperaturas elevadas. Fontes de ignição. Contato com materiais
+ | | incompatíveis.
+Produtos perigosos da | | | Sofre decomposição, em elevadas temperaturas, formando gases
+decomposição: | | | tóxicos como aldeídos e hidrocarbonetos.
+11 INFORMAÇÕES TOXICOLÓGICAS | | | 
+Toxicidade aguda: | | | Pode ser nocivo se ingerido. Nocivo em contato com a pele. Nocivo se
+ | | | inalado.
+ | | | DL (oral, ratos): 4029,00 mg/kg
+50
+ | | | DL (dérmica, coelhos): 1000,01 – 2000,00 mg/kg
+50
+ | | | CL (inalação, ratos, 4h): 10,01 – 20,00 mg/L
+50
+Corrosão/irritação da pele: | | | Provoca irritação à pele com vermelhidão, dor e ressecamento.
+Lesões oculares | | Provoca irritação ocular grave com vermelhidão e dor. | 
+graves/irritação ocular: | | | 
+Sensibilização respiratória ou
+à pele: | | | O contato repetido ou prolongado com a pele pode causar dermatite
+ | | | (pele avermelhada, desidratada e com rachaduras). Não é esperado que
+ | | | o produto provoque sensibilização respiratória.
+Mutagenicidade em células | | | Não é esperado que o produto apresente mutagenicidade em células
+germinativas: | | | germinativas.
+Carcinogenicidade: | | | Não classificado como carcinogênico para humanos (Grupo A4 –
+ | | | ACGIH).
+ | | | Não classificável quanto à sua carcinogenicidade para humanos
+Toxicidade aguda | :
+Sensibilização respiratória ou
+à pele:
+FISPQ
+Em conformidade com NBR 14725
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Produto: PARA-XILENO
+Revisão: 8.0 Data: 15/08/2017 Página: 11 /17
+Data da revisão: 24/03/21
+Produto instável em condições normais de temperatura e pressão. Pode
+Estabilidade e reatividade:
+agredir algumas formas de plástico, borrachas e revestimentos.
+Pode haver oxidação do p-xileno com ácido nítrico sob pressão na
+fabricação de ácido terftálico e pode explodir em autoclaves e sistemas
+Possibilidade de reações
+condensados. Reage violentamente com ácidos fortes como ácido
+perigosas:
+acético e ácido nítrico e agentes oxidantes fortes como o cloro, bromo
+e flúor.
+Temperaturas elevadas. Fontes de ignição. Contato com materiais
+Condições a serem evitadas:
+incompatíveis.
+Agentes oxidantes e ácidos fortes: Cloro, bromo, flúor, ácido nítrico e
+Materiais incompatíveis:
+acético; 1,3-dicloro-5,5-dimetil-2,4-imidazolidindona.
+Produtos perigosos da Sofre decomposição, em elevadas temperaturas, formando gases
+decomposição: tóxicos como aldeídos e hidrocarbonetos.
+11 INFORMAÇÕES TOXICOLÓGICAS
+Pode ser nocivo se ingerido. Nocivo em contato com a pele. Nocivo se
+inalado.
+Toxicidade aguda: DL (oral, ratos): 4029,00 mg/kg
+50
+DL (dérmica, coelhos): 1000,01 – 2000,00 mg/kg
+50
+CL (inalação, ratos, 4h): 10,01 – 20,00 mg/L
+50
+Corrosão/irritação da pele: Provoca irritação à pele com vermelhidão, dor e ressecamento.
+Lesões oculares
+Provoca irritação ocular grave com vermelhidão e dor.
+graves/irritação ocular:
+O contato repetido ou prolongado com a pele pode causar dermatite
+Sensibilização respiratória ou
+(pele avermelhada, desidratada e com rachaduras). Não é esperado que
+à pele:
+o produto provoque sensibilização respiratória.
+Mutagenicidade em células Não é esperado que o produto apresente mutagenicidade em células
+germinativas: germinativas.
+Não classificado como carcinogênico para humanos (Grupo A4 –
+Carcinogenicidade: ACGIH).
+Não classificável quanto à sua carcinogenicidade para humanos
+ | | (Grupo 3 – IARC).
+ | | Não classificável quanto à carcinogenicidade humana (Grupo D –
+ | | EPA).
+Toxicidade à reprodução: | | Suspeita-se que prejudique a fertilidade ou o feto. Estudos em animais
+ | | demonstraram que o produto pode causar danos ao feto em
+ | | desenvolvimento.
+Toxicidade para órgãos-alvo
+específicos – exposição única: | | A ingestão pode causar distúrbios gastrointestinais. Pode provocar
+ | | irritação das vias respiratórias com tosse, espirros, falta de ar e dores
+ | | de garganta. Exposição aguda a doses elevadas pode causar danos
+ | | pulmonares, hepáticos, renais e neurológicos com aumento na
+ | | atividade das transaminases séricas, aumento dos níveis de uréia no
+ | | sangue, diminuição do clearance de creatinina e congestão pulmonar
+ | | severa.
+Toxicidade para órgãos-alvo
+específicos – exposição
+repetida: | | A exposição crônica pode causar cefaléia, irritabilidade, insônia,
+ | | agitação, cansaço, tremores e dificuldade de concentração. Exposição
+ | | crônica pode causar danos pulmonares, hepáticos, renais e
+ | | neurológicos com insuficiência respiratória e hepatomegalia.
+Perigo por aspiração: | | Pode ser fatal se ingerido e penetrar nas vias respiratórias, podendo
+ | | causar pneumonite química.
+Toxicidade para órgãos-alvo
+específicos – exposição única:
+Toxicidade para órgãos-alvo
+específicos – exposição
+repetida:
+12 INFORMAÇÕES ECOLÓGICAS | | | 
+Efeitos ambientais, comportamento e impactos do produto | | | 
+Ecotoxicidade: | | | 
+Persistência e | | | Em função da ausência de dados, espera-se que o produto apresente
+degradabilidade: | | | persistência e não seja rapidamente degradado.
+Potencial bioacumulativo: | | | Apresenta baixo potencial bioacumulativo em organismos aquáticos.
+ | | | BCF: 15
+ | | | Log kow: 3,15
+Mobilidade no solo: | | | Não determinada.
+FISPQ
+Em conformidade com NBR 14725
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Produto: PARA-XILENO
+Revisão: 8.0 Data: 15/08/2017 Página: 12 /17
+Data da revisão: 24/03/21
+(Grupo 3 – IARC).
+Não classificável quanto à carcinogenicidade humana (Grupo D –
+EPA).
+Suspeita-se que prejudique a fertilidade ou o feto. Estudos em animais
+Toxicidade à reprodução: demonstraram que o produto pode causar danos ao feto em
+desenvolvimento.
+A ingestão pode causar distúrbios gastrointestinais. Pode provocar
+irritação das vias respiratórias com tosse, espirros, falta de ar e dores
+de garganta. Exposição aguda a doses elevadas pode causar danos
+Toxicidade para órgãos-alvo
+pulmonares, hepáticos, renais e neurológicos com aumento na
+específicos – exposição única:
+atividade das transaminases séricas, aumento dos níveis de uréia no
+sangue, diminuição do clearance de creatinina e congestão pulmonar
+severa.
+A exposição crônica pode causar cefaléia, irritabilidade, insônia,
+Toxicidade para órgãos-alvo
+agitação, cansaço, tremores e dificuldade de concentração. Exposição
+específicos – exposição
+crônica pode causar danos pulmonares, hepáticos, renais e
+repetida:
+neurológicos com insuficiência respiratória e hepatomegalia.
+Pode ser fatal se ingerido e penetrar nas vias respiratórias, podendo
+Perigo por aspiração:
+causar pneumonite química.
+12 INFORMAÇÕES ECOLÓGICAS
+Efeitos ambientais, comportamento e impactos do produto
+Tóxico para os organismos aquáticos.
+Ecotoxicidade:
+CL (Morone saxatilis, 96h): 2 mg/L
+50
+Persistência e Em função da ausência de dados, espera-se que o produto apresente
+degradabilidade: persistência e não seja rapidamente degradado.
+Apresenta baixo potencial bioacumulativo em organismos aquáticos.
+Potencial bioacumulativo: BCF: 15
+Log kow: 3,15
+Mobilidade no solo: Não determinada.
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS | 
+13 CONSIDERAÇÕES SOBRE DESTINAÇÃO FINAL | | | 
+Métodos recomendados para tratamento e disposição aplicados ao | | | 
+Produto: | | Deve ser eliminado como resíduo perigoso de acordo com a legislação | 
+ | | local. Deve ser adsorvido com carvão ativado granular seguido ou não | 
+ | | de biorremediação. Pode-se empregar a incineração. Devem ser | 
+ | | consultadas legislações federais, estaduais e municipais, dentre estas: | 
+ | | Lei n°12.305, de 02 de agosto de 2010 (Política Nacional de Resíduos | 
+ | | Sólidos). | 
+Restos de produtos: | | Manter restos do produto em suas embalagens originais e devidamente | 
+ | | fechadas. O descarte deve ser realizado conforme o estabelecido para o | 
+ | | produto. | 
+Embalagem usada: | | O tratamento e disposição de embalagem não se aplicam pois o | 
+ | | produto é fornecido por meio de dutovia, diretamente para os tanques | 
+ | | de armazenamento. | 
+14 INFORMAÇÕES SOBRE TRANSPORTE | | | | 
+Classificação para transporte terrestre: ANTT | | | | 
+Número ONU: | | | UN1307 | 
+Nome apropriado para embarque: | | | XILENOS | 
+Classe / Subclasse de risco: | | | 3 | 
+Número de risco: | | | 30 | 
+Grupo de embalagem: | | | III | 
+Perigo ao meio ambiente: | | | Produto considerado perigoso para o meio ambiente | 
+ | | | conforme os dados disponíveis | 
+Classificação para transporte marítimo: IMO - IMDG | 
+FISPQ
+Em conformidade com NBR 14725
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Produto: PARA-XILENO
+Revisão: 8.0 Data: 15/08/2017 Página: 13 /17
+Data da revisão: 24/03/21
+Outros efeitos adversos: Não são conhecidos outros efeitos ambientais para este produto.
+13 CONSIDERAÇÕES SOBRE DESTINAÇÃO FINAL
+Métodos recomendados para tratamento e disposição aplicados ao
+Deve ser eliminado como resíduo perigoso de acordo com a legislação
+local. Deve ser adsorvido com carvão ativado granular seguido ou não
+de biorremediação. Pode-se empregar a incineração. Devem ser
+Produto:
+consultadas legislações federais, estaduais e municipais, dentre estas:
+Lei n°12.305, de 02 de agosto de 2010 (Política Nacional de Resíduos
+Sólidos).
+Manter restos do produto em suas embalagens originais e devidamente
+Restos de produtos: fechadas. O descarte deve ser realizado conforme o estabelecido para o
+produto.
+O tratamento e disposição de embalagem não se aplicam pois o
+Embalagem usada: produto é fornecido por meio de dutovia, diretamente para os tanques
+de armazenamento.
+14 INFORMAÇÕES SOBRE TRANSPORTE
+Classificação para transporte terrestre: ANTT
+Número ONU: UN1307
+Nome apropriado para embarque: XILENOS
+Classe / Subclasse de risco: 3
+Número de risco: 30
+Grupo de embalagem: III
+Produto considerado perigoso para o meio ambiente
+Perigo ao meio ambiente:
+conforme os dados disponíveis
+Classificação para transporte marítimo: IMO - IMDG
+Número ONU: UN1307
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS | 
+Nome apropriado para embarque: | | | XYLENES | 
+Grupo de embalagem: | | | III | 
+Transporte a granel de acordo com o | | | | 
+Anexo II da Convenção MARPOL | | | | 
+73/78 e o Código IBC: | | | | 
+Nome do produto: | | | Xylenes | 
+Classificação para transporte aéreo: IATA - ICAO | 
+Nome apropriado para embarque: | | | Xylenes | 
+Grupo de embalagem: | | | III | 
+15 INFORMAÇÕES SOBRE REGULAMENTAÇÕES | | | 
+Regulamentações específicas
+para o produto químico: | | Decreto Federal nº 2.657, de 3 de julho de 1998. | 
+ | | Decreto n° 7.404, de 23 de dezembro de 2010. | 
+ | | Portaria nº 229, de 24 de maio de 2011 – Altera a Norma | 
+ | | Regulamentadora nº 26. | 
+ | | Portaria N° 1.274, de 25 de agosto de 2003: Produto sujeito a controle | 
+ | | e fiscalização do Ministério da Justiça – Departamento de Polícia | 
+Regulamentações específicas
+para o produto químico:
+FISPQ
+Em conformidade com NBR 14725
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Produto: PARA-XILENO
+Revisão: 8.0 Data: 15/08/2017 Página: 14 /17
+Data da revisão: 24/03/21
+Nome apropriado para embarque: XYLENES
+Classe / subclasse de risco: 3
+Grupo de embalagem: III
+Produto considerado poluente marinho baseado nos dados
+Perigo ao meio ambiente:
+disponíveis
+Transporte a granel de acordo com o
+Anexo II da Convenção MARPOL
+73/78 e o Código IBC:
+Nome do produto: Xylenes
+Classificação para transporte aéreo: IATA - ICAO
+Número ONU: UN1307
+Nome apropriado para embarque: Xylenes
+Classe / Subclasse de risco: 3
+Grupo de embalagem: III
+As informações sobre as regulamentações para o transporte fornecidas neste documento não abrangem
+todos os respectivos requisitos técnicos e operacionais e, portanto, não podem ser consideradas
+exaustivas. Consulte as diretrizes dos regulamentos da ANTT, IMO e IATA antes do transporte do
+produto. A empresa transportadora é responsável pelo cumprimento das leis, regulamentos e regras
+aplicáveis ao transporte do material.
+15 INFORMAÇÕES SOBRE REGULAMENTAÇÕES
+Decreto Federal nº 2.657, de 3 de julho de 1998.
+Decreto n° 7.404, de 23 de dezembro de 2010.
+Regulamentações específicas Portaria nº 229, de 24 de maio de 2011 – Altera a Norma
+para o produto químico: Regulamentadora nº 26.
+Portaria N° 1.274, de 25 de agosto de 2003: Produto sujeito a controle
+e fiscalização do Ministério da Justiça – Departamento de Polícia
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS | 
+ | | Federal – MJ/DPF, quando se tratar de importação, exportação e | 
+ | | reexportação, sendo indispensável Autorização Prévia de DPF para | 
+ | | realização destas operações. | 
+FISPQ
+Em conformidade com NBR 14725
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Produto: PARA-XILENO
+Revisão: 8.0 Data: 15/08/2017 Página: 15 /17
+Data da revisão: 24/03/21
+Federal – MJ/DPF, quando se tratar de importação, exportação e
+reexportação, sendo indispensável Autorização Prévia de DPF para
+realização destas operações.
+16 OUTRAS INFORMAÇÕES
+Informações importantes, mas não especificamente descritas às seções anteriores.
+Esta FISPQ foi elaborada com base nos atuais conhecimentos sobre o manuseio apropriado do produto
+e sob as condições normais de uso, de acordo com a aplicação especificada na embalagem. Qualquer
+outra forma de utilização do produto que envolva a sua combinação com outros materiais, além de
+formas de uso diversas daquelas indicadas, são de responsabilidade do usuário. Adverte-se que o
+manuseio de qualquer substância química requer o conhecimento prévio de seus perigos pelo usuário.
+No local de trabalho cabe à empresa usuária do produto promover o treinamento de seus empregados e
+contratados quanto aos possíveis riscos advindos da exposição ao produto químico.
+Legendas e abreviaturas:
+ACGIH – American Conference of Governmental Industrial Hygienists
+BCF – Bioconcentration Factor
+BEI – Biological Exposure Index
+CAS – Chemical Abstracts Service
+CL – Concentração Letal 50%
+50
+DL – Dose Letal 50%
+50
+EPA – Environmental Protection Agency
+IARC – International Agency for Research in Cancer
+IBMP – Índice Biológico Máximo Permitido
+IDLH – Immediately Dangerous to Life or Health
+LEI – Limite de Explosividade Inferior
+LES – Limite de Explosividade Superior
+LT – Limite de Tolerância
+NA – Não Aplicável
+NIOSH – National Institute for Occupational Safety and Health
+NR – Norma Regulamentadora
+STEL – Short Term Exposure Limit
+ | FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS | 
+FISPQ
+Em conformidade com NBR 14725
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Produto: PARA-XILENO
+Revisão: 8.0 Data: 15/08/2017 Página: 16 /17
+Data da revisão: 24/03/21
+TLV – Threshold Limit Value
+TWA – Time Weighted Average
+Referências bibliográficas:
+AMERICAN CONFERENCE OF GOVERNMENTAL INDUSTRIALS HYGIENISTS. TLVs® E
+BEIs®: baseado na documentação dos limites de exposição ocupacional (TLVs®) para substâncias
+químicas e agentes físicos & índices biológicos de exposição (BEIs®). Tradução Associação
+Brasileira de Higienistas Ocupacional. São Paulo, 2012.
+BRASIL. MINISTÉRIO DO TRABALHO E EMPREGO (MTE). Norma Regulamentadora (NR) n°7:
+Programa de controle médico de saúde ocupacional. Brasília, DF. Jun. 1978.
+BRASIL. MINISTÉRIO DO TRABALHO E EMPREGO (MTE). Norma Regulamentadora (NR)
+n°15: Atividades e operações insalubres. Brasília, DF. Jun. 1978.
+BRASKEM S/A, FISPQ – Ficha de Informações de Segurança de Produtos Químicos: p-Xilenos,
+Revisão 02, São Paulo, 11 de Novembro de 2011.
+EPA dos EUA. 2011. EPI Suite ™ para Microsoft ® Windows, v 4.10. Estados Unidos: Agência de
+Proteção Ambiental, Washington. 2011. Disponível em: <
+http://www.epa.gov/oppt/exposure/pubs/episuite.htm>. Acesso em: out. 2013.
+Globally Harmonized System of Classification and Labelling of Chemicals (GHS). 5. rev. ed. New
+York: United Nations, 2013.
+HSDB - HAZARDOUS SUBSTANCES DATA BANK. Disponível em:
+<http://toxnet.nlm.nih.gov/cgi-bin/sis/htmlgen?HSDB>. Acesso em: out. 2013.
+IARC - INTERNATIONAL AGENCY FOR RESEARCH ON CANCER. Disponível em:
+<http://monographs.iarc.fr/ENG/Classification/index.php>. Acesso em: out. 2013.
+IPCS - INTERNATIONAL PROGRAMME ON CHEMICAL SAFETY – INCHEM. Disponível em:
+<http://www.inchem.org/>. Acesso em: out. 2013.
+IUCLID - INTERNATIONAL UNIFORM CHEMICAL INFORMATION DATABASE. [S.l.]:
+European chemical Bureau. Disponível em: <http://ecb.jrc.ec.europa.eu>. Acesso em: out. 2013.
+NIOSH - NATIONAL INSTITUTE OF OCCUPATIONAL AND SAFETY. International Chemical
+Safety Cards. Disponível em: <http://www.cdc.gov/niosh/>. Acesso em: out. 2013.
+NITE-GHS JAPAN - NATIONAL INSTITUTE OF TECHNOLOGY AND EVALUATION.
+Disponível em: <http://www.safe.nite.go.jp/english/ghs_index.html>. Acesso em: out. 2013.
+SIRETOX/INTERTOX - SISTEMA DE INFORMAÇÕES SOBRE RISCOS DE EXPOSIÇÃO
+QUÍMICA. Disponível em: <http://www.intertox.com.br>. Acesso em: out. 2013.
+ | FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS | 
+FISPQ
+Em conformidade com NBR 14725
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS
+Produto: PARA-XILENO
+Revisão: 8.0 Data: 15/08/2017 Página: 17 /17
+Data da revisão: 24/03/21
+TOXNET - TOXICOLOGY DATA NETWORKING. ChemIDplus Lite. Disponível em:
+<http://chem.sis.nlm.nih.gov/>. Acesso em: out. 2013.

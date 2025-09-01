@@ -1,0 +1,114 @@
+FICHA DE INFORMAÇÕES DE SEGURANÇA DE PRODUTOS QUÍMICOS – FISPQ
+FISPQ nº : 01
+DTPA-TEC
+1. Identificação do produto e da empresa
+Nome do DTPA-TEC
+produto/substância
+Uso do produto/substância Produto utilizado para realização de cintilografia renal dinâmica,
+determinação da filtração glomerular (in vivo), cistocintilografia indireta
+e direta , cintilografia cerebral , estudo de inalação pulmonar após
+reconstituição com pertecnetato de sódio - 99mTc
+Identificação da empresa Instituto de Pesquisas Energéticas e Nucleares
+Avenida Prof. Lineu Prestes, nº 2242 – Cidade Universitária – São
+Paulo – SP – 55-11-3133-9547/3133-9560
+http://www.ipen.br/cr/index.html
+Fax 55-11-3133-8956
+Emergência São Paulo - 55-11-3133-9547/3133-9560
+2. Composição e informações sobre os ingredientes
+Nº CAS Não encontrado número CAS para mistura
+Composição ácido pentético CAS N° 67-43-6 10,0 mg
+cloreto estanoso di-hidratado (SnCl .2H O) CAS N° 10025-69-1 1,0 mg
+2 2
+aminobenzoato de sódio CAS N° 555-06-6 2,0 mg
+Sinônimo Ácido Dietilenotriaminopentacético
+3. Identificação de perigos
+O produto, desde que mantidas as condições de armazenamento e uso, não é considerado perigoso.
+Não há registros de riscos causados por inalação, contato com a pele e olhos, ingestão ou à saúde
+por exposição. Deve-se tomar cuidado com o produto após sua reconstituição com solução de
+pertecnetato de sódio- 99mTc devido a radioatividade
+4. Primeiros socorros
+Medidas de primeiros socorros
+ Após inalação: O produto não é volátil. Em caso de acidente durante o manuseio ou
+transporte as partículas no ar podem ser retiradas do ambiente pelo uso de ventilação.
+ Contato com a pele: Lavar o local de contato com água
+ Contato com os olhos: Lavar os olhos com água por 15 minutos mantendo as
+pálpebras abertas e em caso de irritação consultar um médico
+ Ingestão: Não há reações adversas, mas se necessário procurar um médico
+REV. 01/15 Página 1 de 4
+5. Medidas de combate a incêndio
+ Meios de extinção apropriados: em caso de incêndio utilizar água, pó químico, CO
+2
+ Perigos específicos: substância não oferece risco de explosão, pois não é
+inflamável
+ Proteção aos bombeiros: utilizar equipamentos de proteção individual de combate á
+incêndio
+6. Medidas de controle para derramamento ou vazamento
+ Medidas de precaução pessoal: Não são requeridas medidas especiais de
+precaução
+ Precaução ao meio ambiente: O produto não causa nenhum dano ao meio ambiente
+ Métodos para limpeza: Recolher o produto do local e tratar de acordo com o item
+13. Limpar o local de acordo com as normas e legislação local
+7. Manuseio e armazenamento
+Manuseio Utilizar as recomendações normais de manuseio asséptico
+de produtos injetáveis
+Armazenamento Conservar o produto à temperatura inferior a 25 °C. Não
+utilizar após o vencimento da validade determinada na
+embalagem descartando de acordo com a seção 13.
+8. Controle de exposição e proteção individual
+Limite de exposição ocupacional A substância não oferece risco à saúde por exposição
+TLV Sn: 2 mg/cm (ACGIH)
+PEL Sn: 2 mg/cm (OSHA)
+Medidas de higiene Manter a embalagem fechada e em local limpo
+9. Propriedades físico-químicas
+Estado físico Sólido liofilizado
+Cor branca
+Odor inodoro
+Solubilidade Solúvel em água
+Umidade Inferior a 3%
+REV. 01/15 Página 2 de 4
+10. Estabilidade e reatividade
+ Condições a evitar Produto estável a temperatura ambiente
+ Reações perigosas Não há informações de reações adversas com o produto
+ Materiais ou soluções Não há informações de produtos incompatíveis
+incompatíveis
+ Produtos perigosos A decomposição do produto libera óxidos de carbono
+da decomposição
+11. Informações toxicológicas
+Ensaio de tolerância realizado utilizando massa 1000 vezes maior que a massa a ser administrada
+em humanos de massa igual a 70 kg, não provocou reação adversa no período de observação de
+72 horas. LD em ratos e coelhos: 45-50 i.v.
+50
+ Substâncias que Não há informações disponíveis à respeito de reações
+causam efeitos aditivos adversas a administração do produto nãorecosntituído.
+12. Informações ecológicas
+ Efeitos ambientais, comportamentais e impactos do produto: por se tratar de
+produto de uso médico não é esperado nenhum dano ao meio ambiente.
+13. Considerações sobre tratamento e disposição
+ Métodos de O produto não-reconstituído com solução de pertecnetato de
+tratamento sódio- 99mTc não é considerado perigoso portanto deve ser
+eliminado por incineração ou outro método de acordo com a
+legislação local.
+14. Informações sobre o transporte
+ Regulamentações nacionais e internacionais
+ Número ONU Produto não regulamentado
+ Classe de risco Produto não regulamentado
+ Número de risco Produto não regulamentado
+ Grupo de embalagem Produto não regulamentado
+15. Regulamentações
+REV. 01/15 Página 3 de 4
+16. Outras informações
+ABNT – NBR 14725
+Agência Nacional de Transportes Terrestres
+ Resolução ANTT Nº 420, de 12 de fevereiro de 2004
+ Resolução ANTT Nº 701, de 25 de agosto de 2004
+Index Merck
+OSHA – Occupational Safety and Health Administration
+ACGIH – American Conference of Governmental Industrial Hygienists
+Chemical Abstracts American Chemical Society – ACS
+Farmacopéia USP
+Norma CNEN
+As informações e recomendações neste documento foram pesquisadas e compiladas a partir de
+resultados experimentais e de fontes reconhecidamente autorizadas para emiti-las e refere-se a
+este produto. Acredita-se que as informações acima estejam corretas e os limites de sua aplicação
+são os mesmos das respectivas fontes e específicas para este produto.
+REV. 01/15 Página 4 de 4
